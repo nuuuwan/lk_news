@@ -296379,6 +296379,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-97b6b3ec",
+    "num": "virakesarilk-97b6b3ec",
+    "date_str": "2026-07-13",
+    "description": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bb0 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8  \u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2; \u0baa\u0bb4\u0bc8\u0baf \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 - \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/253017",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783934340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-dailymirrorlk-5050711f",
     "num": "dailymirrorlk-5050711f",
     "date_str": "2026-07-13",
@@ -296409,6 +296420,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783934517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-470e290c",
+    "num": "virakesarilk-470e290c",
+    "date_str": "2026-07-13",
+    "description": "\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf \u0bb5\u0ba9\u0bb5\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/253015",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783934640.0
   },
   {
     "doc_type": "lk_news",
@@ -296687,6 +296709,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-262e67b9",
+    "num": "virakesarilk-262e67b9",
+    "date_str": "2026-07-13",
+    "description": "\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0ba4\u0b95\u0bcd\u0b95\u0bb5\u0bc8\u0b95\u0bcd\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf - \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0b85\u0ba4\u0bcd\u0ba4\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/253035",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783941180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-virakesarilk-bf1f8fbd",
     "num": "virakesarilk-bf1f8fbd",
     "date_str": "2026-07-13",
@@ -296797,6 +296830,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-adalk-e16f16ee",
+    "num": "adalk-e16f16ee",
+    "date_str": "2026-07-13",
+    "description": "\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7 \u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0db4\u0ddc\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7\u0dad\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7-\u0daf\u0d9a\u0dca\u0dc0\u0db1-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba-\u0db4\u0ddc\u0daf\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7\u0dad\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/11-423238",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783945660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-virakesarilk-78c92857",
     "num": "virakesarilk-78c92857",
     "date_str": "2026-07-13",
@@ -296852,6 +296896,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-1f37e7d5",
+    "num": "virakesarilk-1f37e7d5",
+    "date_str": "2026-07-13",
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0baf\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bbe \u0bae\u0bb9\u0bbe\u0ba9\u0bbe\u0bae\u0bb9\u0bc7\u0bb5\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/253059",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783947060.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-dailymirrorlk-62ed1787",
     "num": "dailymirrorlk-62ed1787",
     "date_str": "2026-07-13",
@@ -296896,6 +296951,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-5559c0fe",
+    "num": "virakesarilk-5559c0fe",
+    "date_str": "2026-07-13",
+    "description": "\u0b87\u0bb2\u0b9e\u0bcd\u0b9a, \u0b8a\u0bb4\u0bb2\u0bcd \u0b92\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/253062",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783952280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-74f8d1cb",
+    "num": "virakesarilk-74f8d1cb",
+    "date_str": "2026-07-13",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0b9a\u0bcd.\u0b90.\u0bb5\u0bbf \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/253063",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783953780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-f33ceb2b",
+    "num": "virakesarilk-f33ceb2b",
+    "date_str": "2026-07-13",
+    "description": "\u0ba8\u0bc6\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba9\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/253064",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783954800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-1216e64a",
+    "num": "dailymirrorlk-1216e64a",
+    "date_str": "2026-07-13",
+    "description": "Sri Lanka committed to upholding international standards in nuclear safety, security: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-committed-to-upholding-international-standards-in-nuclear-safety-security-Minister/108-345524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783955404.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-dailymirrorlk-136e11cd",
     "num": "dailymirrorlk-136e11cd",
     "date_str": "2026-07-13",
@@ -296904,5 +297003,137 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783955404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-4a25c642",
+    "num": "tamilmirrorlk-4a25c642",
+    "date_str": "2026-07-13",
+    "description": "\u0ba4\u0bc0\u0baa\u0bbe \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0\u0baa\u0bbe-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0b9a\u0bbf\u0b99\u0bcd\u0b95-\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe/175-379897",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783955950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-b702bf14",
+    "num": "tamilmirrorlk-b702bf14",
+    "date_str": "2026-07-13",
+    "description": "\u201c\u0ba4\u0bb0\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4  \u0b9a\u0bc7\u0bb5\u0bc8 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb0\u0bae\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4-\u0b9a\u0bc7\u0bb5\u0bc8-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-379898",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783956203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-f82acbe9",
+    "num": "tamilmirrorlk-f82acbe9",
+    "date_str": "2026-07-13",
+    "description": "\u2019\u2019\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0bb0\u201c",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf-\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba9\u0bc1\u0bb0/175-379899",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783956406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-836225b1",
+    "num": "virakesarilk-836225b1",
+    "date_str": "2026-07-13",
+    "description": "\u0bb2\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/253065",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783956480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-e5524b04",
+    "num": "dailymirrorlk-e5524b04",
+    "date_str": "2026-07-13",
+    "description": "Minority parties to form common platform",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minority-parties-to-form-common-platform/108-345525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783956554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-b6a72833",
+    "num": "tamilmirrorlk-b6a72833",
+    "date_str": "2026-07-13",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-379900",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783956628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-b8d90941",
+    "num": "dailymirrorlk-b8d90941",
+    "date_str": "2026-07-13",
+    "description": "Trump says US will become \u2018guardian\u2019 of Strait of Hormuz and collect tolls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-US-will-become-guardian-of-Strait-of-Hormuz-and-collect-tolls/108-345526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783957303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-50e4b546",
+    "num": "tamilmirrorlk-50e4b546",
+    "date_str": "2026-07-13",
+    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0bb2\u0bca\u0bb1\u0bbf \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb2\u0bca\u0bb1\u0bbf-\u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-379901",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783957732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-d1492523",
+    "num": "tamilmirrorlk-d1492523",
+    "date_str": "2026-07-13",
+    "description": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0b95\u0bc8 \u0b9f\u0bc8\u0ba9\u0bcb\u0b9a\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0b95\u0bc8-\u0b9f\u0bc8\u0ba9\u0bcb\u0b9a\u0bb0\u0bcd/50-379902",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783957982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-723fb134",
+    "num": "dailymirrorlk-723fb134",
+    "date_str": "2026-07-13",
+    "description": "Container cargo ferry service between India and Sri Lanka to begin in September",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Container-cargo-ferry-service-between-India-and-Sri-Lanka-to-begin-in-September/108-345527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783958170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-b9944f9b",
+    "num": "virakesarilk-b9944f9b",
+    "date_str": "2026-07-13",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/253066",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783959720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-ec75a87a",
+    "num": "tamilmirrorlk-ec75a87a",
+    "date_str": "2026-07-13",
+    "description": "\u0b95\u0bb0\u0bc1\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 Freeze \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b95\u0bb0\u0bc1\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8-Freeze-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8/54-379903",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783959845.0
   }
 ]

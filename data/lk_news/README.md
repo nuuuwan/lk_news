@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_20:45:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_22:34:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,350** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,371** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-dailymirrorlk-136e11cd",
-    "num": "dailymirrorlk-136e11cd",
+    "doc_id": "2026-07-13-tamilmirrorlk-ec75a87a",
+    "num": "tamilmirrorlk-ec75a87a",
     "date_str": "2026-07-13",
-    "description": "Sri Lanka remains firmly committed to upholding international standards in nuclear safety, security: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-firmly-committed-to-upholding-international-standards-in-nuclear-safety-security-Minister/108-345524",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783955404.0
+    "description": "\u0b95\u0bb0\u0bc1\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 Freeze \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b95\u0bb0\u0bc1\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8-Freeze-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8/54-379903",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783959845.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-13 | `tamilmirrorlk-ec75a87a` | கருமுட்டையை Freeze செய்த நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-ec75a87a)
+- 2026-07-13 | `virakesarilk-b9944f9b` | அரசாங்கத்தின் முறைகேடுகளுக்கு எதிராக ஒன்றிணையுமாறு விடுத்த அழைப்புக்கு பிரதான எதிர்க்கட்சி மதிப்பளிக்கவில்லை - பொதுஜன பெரமுன குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-b9944f9b)
+- 2026-07-13 | `dailymirrorlk-723fb134` | Container cargo ferry service between India and Sri Lanka to begin in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-723fb134)
+- 2026-07-13 | `tamilmirrorlk-d1492523` | தாய்லாந்தில் கண்டறியப்பட்ட புதிய வகை டைனோசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-d1492523)
+- 2026-07-13 | `tamilmirrorlk-50e4b546` | ரயிலுடன் லொறி மோதியதில் மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-50e4b546)
+- 2026-07-13 | `dailymirrorlk-b8d90941` | Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b8d90941)
+- 2026-07-13 | `tamilmirrorlk-b6a72833` | அரசியல் பயணத்தில் புதிய கட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-b6a72833)
+- 2026-07-13 | `dailymirrorlk-e5524b04` | Minority parties to form common platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-e5524b04)
+- 2026-07-13 | `virakesarilk-836225b1` | லோர்ட்ஸ் விளையாட்டரங்கில் நடைபெற்ற முதலாவது மகளிர் டெஸ்ட் கிரிக்கெட் போட்டியில் இங்கிலாந்தை வென்றது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-836225b1)
+- 2026-07-13 | `tamilmirrorlk-f82acbe9` | ’’ரணிலை தாண்டி பாயும் அனுர“ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-f82acbe9)
+- 2026-07-13 | `tamilmirrorlk-b702bf14` | “தரம் வாய்ந்த  சேவை அவசியம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-b702bf14)
+- 2026-07-13 | `tamilmirrorlk-4a25c642` | தீபா எதிரிசிங்க ராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-4a25c642)
 - 2026-07-13 | `dailymirrorlk-136e11cd` | Sri Lanka remains firmly committed to upholding international standards in nuclear safety, security: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-136e11cd)
+- 2026-07-13 | `dailymirrorlk-1216e64a` | Sri Lanka committed to upholding international standards in nuclear safety, security: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-1216e64a)
+- 2026-07-13 | `virakesarilk-f33ceb2b` | நெல் கொள்வனவில் மோசடிகள் மற்றும் முறைகேடுகளைத் தடுக்கும் நோக்கில் புதிய நடைமுறைகளை குறித்து ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-f33ceb2b)
+- 2026-07-13 | `virakesarilk-74f8d1cb` | இலங்கையில் எச்.ஐ.வி தொற்றாளர்களின் எண்ணிக்கை அதிகரிப்பு: விசேட நடமாடும் வைத்திய திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-74f8d1cb)
+- 2026-07-13 | `virakesarilk-5559c0fe` | இலஞ்ச, ஊழல் ஒழிப்பு ஆணைக்குழு விசாரணைகளை எதிர்கொள்ள தயார் - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-5559c0fe)
 - 2026-07-13 | `dailymirrorlk-1bc0f1cd` | Eye donation pledges surpass 2.3 million: Eye Donation Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-1bc0f1cd)
 - 2026-07-13 | `dailymirrorlk-b348735f` | Warm weather advisory issued for several places tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b348735f)
 - 2026-07-13 | `dailymirrorlk-5c654351` | CSE opens the week lower as retail selling and geopolitical concerns weigh on market sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-5c654351)
-- 2026-07-13 | `dailymirrorlk-62ed1787` | UK bans support for Iran’s Islamic Revolutionary Guard Corps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-62ed1787)
-- 2026-07-13 | `virakesarilk-570acd76` | புதுக்குடியிருப்பில் கலப்பட மிளகாய்த்தூள் விற்பனை : வியாபாரிக்கு அபராதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-570acd76)
-- 2026-07-13 | `adalk-1f10f0fa` | මුල් ළමාවිය රැකවරණය පිළිබඳ ජාතික සතිය ජූලි 14දා ඇරඹෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-1f10f0fa)
-- 2026-07-13 | `dailymirrorlk-b4009c4b` | Public transport must be given same level of attention as healthcare system: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b4009c4b)
-- 2026-07-13 | `virakesarilk-99697a5e` | மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றத் தேர்தல்களில் பெண் பிரதிநிதித்துவத்தை 33 சதவீதமாக அதிகரிப்பதற்கு சட்டத் திருத்தங்கள் அவசியம் - பெண் பாராளுமன்ற உறுப்பினர்களுக்கான ஒன்றியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-99697a5e)
-- 2026-07-13 | `virakesarilk-78c92857` | டெங்கு பரவல் அச்சம் : கொழும்பு பல்கலைக்கழக விஞ்ஞான பீட கல்வி நடவடிக்கைகள் நாளை முதல் இணையவழியில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-78c92857)
-- 2026-07-13 | `virakesarilk-2673fa80` | தமிழினப் படுகொலைக்கு சர்வதேச நீதி கோரும் "நீதியின் ஓலம் 2" போராட்டம் ஆகஸ்ட் 14 ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-2673fa80)
-- 2026-07-13 | `dailymirrorlk-a4e2688d` | JVP led government is more right wing than RW: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-a4e2688d)
-- 2026-07-13 | `virakesarilk-65709f67` | தித்வா பாதிப்பு : வீடுகளை இழந்தவர்களுக்கான வீட்டு வாடகைக் கொடுப்பனவு தொடர்பில் அமைச்சரவை முக்கிய தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-65709f67)
-- 2026-07-13 | `virakesarilk-c4133be5` | அனைவருக்கும் பயனளிக்கும் வகையில், தரமான, வசதிகள் கொண்ட பொதுப் போக்குவரத்துத் துறையை உருவாக்கவேண்டும் - போக்குவரத்து அமைச்சின் 2027 வரவு - செலவுத் திட்டக் கலந்துரையாடலில் ஜனாதிபதி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-c4133be5)
-- 2026-07-13 | `virakesarilk-9f891daf` | நடிகர் பகத் பாசில் நடிக்கும் 'டோன்ட் ட்ரபிள் த ட்ரபுள்' திரைப்படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-9f891daf)
-- 2026-07-13 | `virakesarilk-c63d302e` | நீர்கொழும்பு  சிறைச்சாலை கூரையின் மேல் போராடிய "வைத்தியபீட மாணவி": வைரலாகும் உருக்கமான கதை முற்றிலும் பொய் என அம்பலம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-c63d302e)
-- 2026-07-13 | `dailymirrorlk-751d16a8` | FINAL FOUR CONFIRMED! Only four World Cup Finals are still possible | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-751d16a8)
-- 2026-07-13 | `virakesarilk-48b7626d` | தமிழ் பேசும் அரசியல் கட்சிகள் பொதுவான விடயங்களில் இணைந்து செயற்பட மூன்று முக்கிய விடயங்களில் இணக்கப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-48b7626d)
-- 2026-07-13 | `virakesarilk-784a5c35` | ஆற்றில் நீராடச் சென்ற மாணவனை காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-784a5c35)
-- 2026-07-13 | `virakesarilk-bf1f8fbd` | கிளிநொச்சியில் நெல் கொள்வனவு: இன்று முதல் விவசாயிகளுக்கு படிவங்கள் விநியோகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-bf1f8fbd)
 
 ---
 
