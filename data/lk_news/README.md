@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_16:51:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_18:37:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,348** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-virakesarilk-8bcc2865",
-    "num": "virakesarilk-8bcc2865",
+    "doc_id": "2026-07-13-dailymirrorlk-b348735f",
+    "num": "dailymirrorlk-b348735f",
     "date_str": "2026-07-13",
-    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0b9f\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 '\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd' \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/253033",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783940760.0
+    "description": "Warm weather advisory issued for several places tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warm-weather-advisory-issued-for-several-places-tomorrow/108-345522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783947679.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-07-13 | `virakesarilk-8bcc2865` | தேசிய பதப்படுத்தப்பட்ட தேயிலை இலக்கை அடைவதற்காக 'சிலோன் தேயிலை கிராமம்' வேலைத்திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8bcc2865)
-- 2026-07-13 | `virakesarilk-d7a6df16` | திரு வீர்-  ஐஸ்வர்யா ராஜேஷ் இணைந்து நடித்திருக்கும் 'ஓ!சுகுமாரி ' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-d7a6df16)
-- 2026-07-13 | `virakesarilk-b28ee46f` | முதல் ஆறு மாதங்களில் சுற்றுலா வருமானம் 11.8 சதவீத வீழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-b28ee46f)
-- 2026-07-13 | `tamilmirrorlk-63600786` | ஆக்ரா ஓயாவில் மாணவன் மாயம்: தேடுதல் வேட்டை தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-63600786)
-- 2026-07-13 | `virakesarilk-1f0d6204` | தண்ணீர் என நினைத்து கழிவறை சுத்திகரிப்பு அமிலத்தைக் குடித்த ஆசிரியை: இந்தியாவில் அதிர்ச்சிச் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-1f0d6204)
-- 2026-07-13 | `virakesarilk-8e97745f` | “தித்வா” பாதிப்பு : புதிய தெனியாய ஆதார வைத்தியசாலைக்கு மருத்துவ உபகரணங்களை பெற இந்தியாவுடனான ஒப்பந்தம் கைச்சாத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8e97745f)
-- 2026-07-13 | `tamilmirrorlk-c1c56ff6` | மேலாடையை கழற்றி நடனமாடிய இளம்பெண்: சக பயணிகள் அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c1c56ff6)
-- 2026-07-13 | `tamilmirrorlk-e09204c1` | பிள்ளையானுக்கு மீண்டும் விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-e09204c1)
-- 2026-07-13 | `tamilmirrorlk-7f6cebff` | கனமழை மற்றும் நிலச்சரிவு: 44 பேர் பலி; 2.5 லட்சம் மக்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-7f6cebff)
-- 2026-07-13 | `tamilmirrorlk-78a7c739` | தமிழ் பேசும் பாராளுமன்ற உறுப்பினர்கள் ஒன்று சேர்ந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-78a7c739)
-- 2026-07-13 | `tamilmirrorlk-2aca7bfe` | வெப்ப அலையில்: 10,000-க்கும் மேற்பட்டோர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-2aca7bfe)
-- 2026-07-13 | `virakesarilk-8b0d0059` | மகிந்த – கோட்டா காலத்து சிறைக் கலவரங்கள்…! ; வாய் மூடி மெளனம் காத்த எதிர்க்கட்சிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8b0d0059)
-- 2026-07-13 | `dailymirrorlk-193447e5` | India pledges Rs. 600M for Deniyaya Base Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-193447e5)
-- 2026-07-13 | `tamilmirrorlk-b1ee319b` | LPL  ‘பிங்க்’போட்டிக்கு  வாருங்கள் மார்பகப் புற்றுநோய்க்கு உதவுங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-b1ee319b)
-- 2026-07-13 | `dailymirrorlk-425722f0` | Environment Ministry unveils USD 38.2m mercury and waste management project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-425722f0)
-- 2026-07-13 | `virakesarilk-270d486f` | தெற்காசிய சிவில் பதிவு நிபுணர்களின் மாநாடு கொழும்பில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-270d486f)
-- 2026-07-13 | `dailymirrorlk-6f14e101` | HIV cases rising in Sri Lanka; Colombo, Gampaha record highest numbers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-6f14e101)
-- 2026-07-13 | `dailymirrorlk-565ff426` | NAF seeks probe into satellite TV and solar panel firms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-565ff426)
-- 2026-07-13 | `dailymirrorlk-b19392c5` | Police warn public of fake traffic fine SMS scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b19392c5)
-- 2026-07-13 | `virakesarilk-f0d0c765` | மூதூர் மஹாவலி கங்கையில் மூழ்கிய பொலிஸ் விசேட அதிரடிப்படை சார்ஜன்ட் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-f0d0c765)
+- 2026-07-13 | `dailymirrorlk-b348735f` | Warm weather advisory issued for several places tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b348735f)
+- 2026-07-13 | `dailymirrorlk-5c654351` | CSE opens the week lower as retail selling and geopolitical concerns weigh on market sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-5c654351)
+- 2026-07-13 | `dailymirrorlk-62ed1787` | UK bans support for Iran’s Islamic Revolutionary Guard Corps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-62ed1787)
+- 2026-07-13 | `virakesarilk-570acd76` | புதுக்குடியிருப்பில் கலப்பட மிளகாய்த்தூள் விற்பனை : வியாபாரிக்கு அபராதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-570acd76)
+- 2026-07-13 | `adalk-1f10f0fa` | මුල් ළමාවිය රැකවරණය පිළිබඳ ජාතික සතිය ජූලි 14දා ඇරඹෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-1f10f0fa)
+- 2026-07-13 | `dailymirrorlk-b4009c4b` | Public transport must be given same level of attention as healthcare system: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b4009c4b)
+- 2026-07-13 | `virakesarilk-99697a5e` | மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றத் தேர்தல்களில் பெண் பிரதிநிதித்துவத்தை 33 சதவீதமாக அதிகரிப்பதற்கு சட்டத் திருத்தங்கள் அவசியம் - பெண் பாராளுமன்ற உறுப்பினர்களுக்கான ஒன்றியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-99697a5e)
+- 2026-07-13 | `virakesarilk-78c92857` | டெங்கு பரவல் அச்சம் : கொழும்பு பல்கலைக்கழக விஞ்ஞான பீட கல்வி நடவடிக்கைகள் நாளை முதல் இணையவழியில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-78c92857)
+- 2026-07-13 | `virakesarilk-2673fa80` | தமிழினப் படுகொலைக்கு சர்வதேச நீதி கோரும் "நீதியின் ஓலம் 2" போராட்டம் ஆகஸ்ட் 14 ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-2673fa80)
+- 2026-07-13 | `dailymirrorlk-a4e2688d` | JVP led government is more right wing than RW: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-a4e2688d)
+- 2026-07-13 | `virakesarilk-65709f67` | தித்வா பாதிப்பு : வீடுகளை இழந்தவர்களுக்கான வீட்டு வாடகைக் கொடுப்பனவு தொடர்பில் அமைச்சரவை முக்கிய தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-65709f67)
+- 2026-07-13 | `virakesarilk-c4133be5` | அனைவருக்கும் பயனளிக்கும் வகையில், தரமான, வசதிகள் கொண்ட பொதுப் போக்குவரத்துத் துறையை உருவாக்கவேண்டும் - போக்குவரத்து அமைச்சின் 2027 வரவு - செலவுத் திட்டக் கலந்துரையாடலில் ஜனாதிபதி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-c4133be5)
+- 2026-07-13 | `virakesarilk-9f891daf` | நடிகர் பகத் பாசில் நடிக்கும் 'டோன்ட் ட்ரபிள் த ட்ரபுள்' திரைப்படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-9f891daf)
+- 2026-07-13 | `virakesarilk-c63d302e` | நீர்கொழும்பு  சிறைச்சாலை கூரையின் மேல் போராடிய "வைத்தியபீட மாணவி": வைரலாகும் உருக்கமான கதை முற்றிலும் பொய் என அம்பலம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-c63d302e)
+- 2026-07-13 | `dailymirrorlk-751d16a8` | FINAL FOUR CONFIRMED! Only four World Cup Finals are still possible | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-751d16a8)
+- 2026-07-13 | `virakesarilk-48b7626d` | தமிழ் பேசும் அரசியல் கட்சிகள் பொதுவான விடயங்களில் இணைந்து செயற்பட மூன்று முக்கிய விடயங்களில் இணக்கப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-48b7626d)
+- 2026-07-13 | `virakesarilk-784a5c35` | ஆற்றில் நீராடச் சென்ற மாணவனை காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-784a5c35)
+- 2026-07-13 | `virakesarilk-bf1f8fbd` | கிளிநொச்சியில் நெல் கொள்வனவு: இன்று முதல் விவசாயிகளுக்கு படிவங்கள் விநியோகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-bf1f8fbd)
+- 2026-07-13 | `virakesarilk-abf62e56` | பொலிஸ் விசேட சோதனை நடவடிக்கை குற்றச்செயல்களுடன் தொடர்புடைய 12 பேர் உட்பட  523 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-abf62e56)
+- 2026-07-13 | `virakesarilk-a684fff3` | மக்கள் செல்வன்' விஜய் சேதுபதி நடிக்கும் 'ட்ரெயின்' படத்தின் இசை மற்றும் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-a684fff3)
 
 ---
 
