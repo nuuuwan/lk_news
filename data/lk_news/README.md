@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_14:54:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_16:51:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,288** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-tamilmirrorlk-03eacd4c",
-    "num": "tamilmirrorlk-03eacd4c",
+    "doc_id": "2026-07-13-virakesarilk-8bcc2865",
+    "num": "virakesarilk-8bcc2865",
     "date_str": "2026-07-13",
-    "description": "\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1/175-379869",
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0b9f\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 '\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd' \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/253033",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783933675.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783940760.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-07-13 | `tamilmirrorlk-03eacd4c` | பல்கலைக்கழக மாணவர்களுக்கான நிதியுதவி நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-03eacd4c)
-- 2026-07-13 | `dailymirrorlk-51f05a15` | Women MPs push for 33% political representation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-51f05a15)
-- 2026-07-13 | `dailymirrorlk-3200e52d` | Heavy rains and flash floods in Bangladesh leave 51 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-3200e52d)
-- 2026-07-13 | `tamilmirrorlk-e84756ef` | சிவப்பு அறைக்குள்: 10 பெண்களுடன் 17 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-e84756ef)
-- 2026-07-13 | `tamilmirrorlk-d2e3ae18` | அதிகாரியைக் கொல்ல முன் அவரது பிறப்புறுப்பு சிதைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-d2e3ae18)
-- 2026-07-13 | `tamilmirrorlk-c3a09202` | டெங்குத் தொற்றால் 68,672 பேர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c3a09202)
-- 2026-07-13 | `tamilmirrorlk-144bfd6c` | பிரபல ஹாலிவுட் நடிகர் சாம் நீல்   காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-144bfd6c)
-- 2026-07-13 | `dailymirrorlk-62b43bde` | Sri Lanka’s oldest woman passes away at 114 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-62b43bde)
-- 2026-07-13 | `dailymirrorlk-991be562` | Europe recorded 10,000 excess deaths during late-June heatwave, data show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-991be562)
-- 2026-07-13 | `tamilmirrorlk-c26d0989` | இலங்கையின் வயதான மூதாட்டி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c26d0989)
-- 2026-07-13 | `tamilmirrorlk-562d313f` | கவச உடைகளை அணியுமாறு அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-562d313f)
-- 2026-07-13 | `adalk-d79e4d2e` | කොමර්ෂල් බැංකුව, ෆයිනෑන්ස් ඒෂියා සම්මාන සමග බැබලෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-d79e4d2e)
-- 2026-07-13 | `tamilmirrorlk-ec35a651` | ’’ஐயாவுக்கு கிழக்கு மண்ணில் சிலை வைக்க இடமளியோம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-ec35a651)
-- 2026-07-13 | `adalk-68fde28c` | රජය මගින් වී මිලදී ගැනීම අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-68fde28c)
-- 2026-07-13 | `adalk-17102d32` | කටාර් ඒමීර්ගේ අභාවයට ජනපති අනුර සොව පළ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-17102d32)
-- 2026-07-13 | `adalk-aea0826a` | කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-aea0826a)
-- 2026-07-13 | `dailymirrorlk-e7f73a90` | Sam Neill, star of ‘Jurassic Park,’ has died, family says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-e7f73a90)
-- 2026-07-13 | `dailymirrorlk-8e45f9dc` | Fire reported at Kalutara District Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-8e45f9dc)
-- 2026-07-13 | `dailymirrorlk-6cd4a6c3` | University of Visual and Performing Arts reopens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-6cd4a6c3)
-- 2026-07-13 | `tamilmirrorlk-a365454e` | விமான நிலையத்தை மேம்படுத்த 19 முதலீட்டு முன்மொழிவுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-a365454e)
+- 2026-07-13 | `virakesarilk-8bcc2865` | தேசிய பதப்படுத்தப்பட்ட தேயிலை இலக்கை அடைவதற்காக 'சிலோன் தேயிலை கிராமம்' வேலைத்திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8bcc2865)
+- 2026-07-13 | `virakesarilk-d7a6df16` | திரு வீர்-  ஐஸ்வர்யா ராஜேஷ் இணைந்து நடித்திருக்கும் 'ஓ!சுகுமாரி ' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-d7a6df16)
+- 2026-07-13 | `virakesarilk-b28ee46f` | முதல் ஆறு மாதங்களில் சுற்றுலா வருமானம் 11.8 சதவீத வீழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-b28ee46f)
+- 2026-07-13 | `tamilmirrorlk-63600786` | ஆக்ரா ஓயாவில் மாணவன் மாயம்: தேடுதல் வேட்டை தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-63600786)
+- 2026-07-13 | `virakesarilk-1f0d6204` | தண்ணீர் என நினைத்து கழிவறை சுத்திகரிப்பு அமிலத்தைக் குடித்த ஆசிரியை: இந்தியாவில் அதிர்ச்சிச் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-1f0d6204)
+- 2026-07-13 | `virakesarilk-8e97745f` | “தித்வா” பாதிப்பு : புதிய தெனியாய ஆதார வைத்தியசாலைக்கு மருத்துவ உபகரணங்களை பெற இந்தியாவுடனான ஒப்பந்தம் கைச்சாத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8e97745f)
+- 2026-07-13 | `tamilmirrorlk-c1c56ff6` | மேலாடையை கழற்றி நடனமாடிய இளம்பெண்: சக பயணிகள் அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c1c56ff6)
+- 2026-07-13 | `tamilmirrorlk-e09204c1` | பிள்ளையானுக்கு மீண்டும் விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-e09204c1)
+- 2026-07-13 | `tamilmirrorlk-7f6cebff` | கனமழை மற்றும் நிலச்சரிவு: 44 பேர் பலி; 2.5 லட்சம் மக்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-7f6cebff)
+- 2026-07-13 | `tamilmirrorlk-78a7c739` | தமிழ் பேசும் பாராளுமன்ற உறுப்பினர்கள் ஒன்று சேர்ந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-78a7c739)
+- 2026-07-13 | `tamilmirrorlk-2aca7bfe` | வெப்ப அலையில்: 10,000-க்கும் மேற்பட்டோர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-2aca7bfe)
+- 2026-07-13 | `virakesarilk-8b0d0059` | மகிந்த – கோட்டா காலத்து சிறைக் கலவரங்கள்…! ; வாய் மூடி மெளனம் காத்த எதிர்க்கட்சிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-8b0d0059)
+- 2026-07-13 | `dailymirrorlk-193447e5` | India pledges Rs. 600M for Deniyaya Base Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-193447e5)
+- 2026-07-13 | `tamilmirrorlk-b1ee319b` | LPL  ‘பிங்க்’போட்டிக்கு  வாருங்கள் மார்பகப் புற்றுநோய்க்கு உதவுங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-b1ee319b)
+- 2026-07-13 | `dailymirrorlk-425722f0` | Environment Ministry unveils USD 38.2m mercury and waste management project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-425722f0)
+- 2026-07-13 | `virakesarilk-270d486f` | தெற்காசிய சிவில் பதிவு நிபுணர்களின் மாநாடு கொழும்பில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-270d486f)
+- 2026-07-13 | `dailymirrorlk-6f14e101` | HIV cases rising in Sri Lanka; Colombo, Gampaha record highest numbers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-6f14e101)
+- 2026-07-13 | `dailymirrorlk-565ff426` | NAF seeks probe into satellite TV and solar panel firms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-565ff426)
+- 2026-07-13 | `dailymirrorlk-b19392c5` | Police warn public of fake traffic fine SMS scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b19392c5)
+- 2026-07-13 | `virakesarilk-f0d0c765` | மூதூர் மஹாவலி கங்கையில் மூழ்கிய பொலிஸ் விசேட அதிரடிப்படை சார்ஜன்ட் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-f0d0c765)
 
 ---
 
