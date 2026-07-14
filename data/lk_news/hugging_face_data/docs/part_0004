@@ -298414,6 +298414,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-1fe8b66f",
+    "num": "adalk-1fe8b66f",
+    "date_str": "2026-07-14",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc3\u0dd2\u0dba\u0dba\u0da7 12\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dc3\u0dd2\u0dba\u0dba\u0da7-12\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423250",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784008777.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-tamilmirrorlk-80769ebb",
     "num": "tamilmirrorlk-80769ebb",
     "date_str": "2026-07-14",
@@ -298444,6 +298455,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1784008860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-8490e421",
+    "num": "adalk-8490e421",
+    "date_str": "2026-07-14",
+    "description": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a 7\u0d9a\u0dca \u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0d85\u0db0\u0dd2 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dbd\u0dcf\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a-7\u0d9a\u0dca-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0d85\u0db0\u0dd2-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0dca-\u0d9a\u0dbd\u0dcf\u0db4/11-423251",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784008949.0
   },
   {
     "doc_type": "lk_news",
@@ -298851,5 +298873,148 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1784019360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-7c1cb63c",
+    "num": "tamilmirrorlk-7c1cb63c",
+    "date_str": "2026-07-14",
+    "description": "\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd \u0bb5\u0bb0\u0bbf \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0bb0\u0bc2. 25 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd-\u0bb5\u0bb0\u0bbf-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd-\u0bb0\u0bc2-25-\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9-\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9-\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-379931",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784019385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-23b366cc",
+    "num": "dailymirrorlk-23b366cc",
+    "date_str": "2026-07-14",
+    "description": "Government targets increase in average tourist spending of US$148",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-targets-increase-in-average-tourist-spending-of-US-148/108-345603",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784019546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-02c43510",
+    "num": "dailymirrorlk-02c43510",
+    "date_str": "2026-07-14",
+    "description": "Erling Haaland carries a raccoon from US as he returns to Norway. What\u2019s the story here?",
+    "url_metadata": "https://www.dailymirror.lk/international/Erling-Haaland-carries-a-raccoon-from-US-as-he-returns-to-Norway-Whats-the-story-here/107-345604",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784020518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-f3d6bd52",
+    "num": "adalk-f3d6bd52",
+    "date_str": "2026-07-14",
+    "description": "\u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd \u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0dc0\u0dd0\u0da9 \u0db1\u0dd2\u0db8\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd-\u0d85\u0dad\u0dd4\u0dbb\u0dd4-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0d89\u0dad\u0dd2\u0dbb\u0dd2-\u0dc0\u0dd0\u0da9-\u0db1\u0dd2\u0db8\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4\u0dc0-\u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0dba\u0dd2/11-423252",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784020923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-00aa7d2f",
+    "num": "tamilmirrorlk-00aa7d2f",
+    "date_str": "2026-07-14",
+    "description": "\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bc1\u0b9f\u0bc8\u0baf-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd/76-379933",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784021300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-1a69b05a",
+    "num": "dailymirrorlk-1a69b05a",
+    "date_str": "2026-07-14",
+    "description": "New DG appointed to Government factories department",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-DG-appointed-to-Government-factories-department/108-345606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784021475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-b455d96a",
+    "num": "tamilmirrorlk-b455d96a",
+    "date_str": "2026-07-14",
+    "description": "5,386 \u2019\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bc2\u2019 \u0baa\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-386-\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bc2-\u0baa\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-379934",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784021746.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-2184800a",
+    "num": "dailymirrorlk-2184800a",
+    "date_str": "2026-07-14",
+    "description": "Kotmale Radio Academy marks 10 years of media education",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kotmale-Radio-Academy-marks-10-years-of-media-education/108-345607",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784023808.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-aff4b7f5",
+    "num": "dailymirrorlk-aff4b7f5",
+    "date_str": "2026-07-14",
+    "description": "Cabinet approves contract for new BIA departure terminal expansion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-contract-for-new-BIA-departure-terminal-expansion/108-345608",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784024008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-477b5148",
+    "num": "dailymirrorlk-477b5148",
+    "date_str": "2026-07-14",
+    "description": "Sri Lanka secures US$55.9 million in foreign funding to boost solar energy sector",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-secures-US-55-9-million-in-foreign-funding-to-boost-solar-energy-sector/108-345610",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784024090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-1c596ccb",
+    "num": "dailymirrorlk-1c596ccb",
+    "date_str": "2026-07-14",
+    "description": "Prime Minister to attend Qatar\u2019s Father Emir\u2019s funeral: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-to-attend-Qatars-Father-Emirs-funeral-Nalinda/108-345611",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784024191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-854dca62",
+    "num": "dailymirrorlk-854dca62",
+    "date_str": "2026-07-14",
+    "description": "Why should President cancel France tour just because a delegation member is denied visa?: Opposition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-should-President-cancel-France-tour-just-because-a-delegation-member-is-denied-visa-Opposition/108-345612",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784024307.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-eba68f13",
+    "num": "dailymirrorlk-eba68f13",
+    "date_str": "2026-07-14",
+    "description": "Government refutes social media posts on President\u2019s official visit to France",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-refutes-social-media-posts-on-Presidents-official-visit-to-France/108-345613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784024444.0
   }
 ]
