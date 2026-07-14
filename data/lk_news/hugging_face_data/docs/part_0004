@@ -298986,6 +298986,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-f18df4eb",
+    "num": "adalk-f18df4eb",
+    "date_str": "2026-07-14",
+    "description": "\u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 18\u0d9a \u0d9a\u0dd4\u0dc2\u0dca \u0dc3\u0db8\u0d9c \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-18\u0d9a-\u0d9a\u0dd4\u0dc2\u0dca-\u0dc3\u0db8\u0d9c-\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423255",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784023768.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-dailymirrorlk-2184800a",
     "num": "dailymirrorlk-2184800a",
     "date_str": "2026-07-14",
@@ -299085,6 +299096,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-049b62cb",
+    "num": "adalk-049b62cb",
+    "date_str": "2026-07-14",
+    "description": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0dc3\u0dad\u0dd2\u0dba\u0da7 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0dc3\u0dad\u0dd2\u0dba\u0da7-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d9a\u0dd9\u0dbb\u0dda/11-423257",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784026211.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-dailymirrorlk-e60f69ec",
     "num": "dailymirrorlk-e60f69ec",
     "date_str": "2026-07-14",
@@ -299148,6 +299170,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1784027520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-ccff3ebd",
+    "num": "adalk-ccff3ebd",
+    "date_str": "2026-07-14",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dc1\u0dd4 \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0dc1\u0dd4-\u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-423258",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784027664.0
   },
   {
     "doc_type": "lk_news",
@@ -299324,5 +299357,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784031478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-038c3acf",
+    "num": "dailymirrorlk-038c3acf",
+    "date_str": "2026-07-14",
+    "description": "Overseas travel ban on former Minister Prasanna Ranatunga relaxed temporarily",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Overseas-travel-ban-on-former-Minister-Prasanna-Ranatunga-relaxed-temporarily/108-345622",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784033073.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-7d9d6ac0",
+    "num": "dailymirrorlk-7d9d6ac0",
+    "date_str": "2026-07-14",
+    "description": "Sri Lanka marks first with AI-assisted robotic surgeries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-marks-first-with-AI-assisted-robotic-surgeries/108-345623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784035611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-38b9039a",
+    "num": "dailymirrorlk-38b9039a",
+    "date_str": "2026-07-14",
+    "description": "Dengue Quiz Sri Lanka: How Much Do You Really Know?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-Quiz-Sri-Lanka-How-Much-Do-You-Really-Know/108-345624",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784037030.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-1a4aa31a",
+    "num": "dailymirrorlk-1a4aa31a",
+    "date_str": "2026-07-14",
+    "description": "Further investigations continue into alleged USD 2 million Airbus bribery scandal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Further-investigations-continue-into-alleged-USD-2-million-Airbus-bribery-scandal/108-345625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784039472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-38c0f2dd",
+    "num": "dailymirrorlk-38c0f2dd",
+    "date_str": "2026-07-14",
+    "description": "Rs. 550 mn cigarette bust",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Rs-550-mn-cigarette-bust/110-345626",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784039825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-2e36f616",
+    "num": "tamilmirrorlk-2e36f616",
+    "date_str": "2026-07-14",
+    "description": "\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0ba9 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b92\u0bb0\u0bc1-\u0baa\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0ba9-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1/44-379948",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784039863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-902cd28d",
+    "num": "dailymirrorlk-902cd28d",
+    "date_str": "2026-07-14",
+    "description": "Police warn public of fake GovPay websites, scam messages",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-warn-public-of-fake-GovPay-websites-scam-messages/108-345627",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784040012.0
   }
 ]
