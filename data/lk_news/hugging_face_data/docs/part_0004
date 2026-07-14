@@ -297644,6 +297644,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-d125e19b",
+    "num": "adalk-d125e19b",
+    "date_str": "2026-07-14",
+    "description": "\u0daf\u0dd9\u0db1\u0dd2\u0dba\u0dcf\u0dba \u0db1\u0dc0 \u0dba\u0ddd\u0da2\u0dd2\u0dad \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dc0\u0dd9\u0db1\u0dca \u0dbb\u0dd4. \u0db8\u0dd2. 600\u0d9a \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u00a0\u0d8b\u0db4\u0d9a\u0dbb\u0dab",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0db1\u0dd2\u0dba\u0dcf\u0dba-\u0db1\u0dc0-\u0dba\u0ddd\u0da2\u0dd2\u0dad-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dc0\u0dd9\u0db1\u0dca-\u0dbb\u0dd4--\u0db8\u0dd2--600\u0d9a-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u00a0\u0d8b\u0db4\u0d9a\u0dbb\u0dab/11-423244",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783998135.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-dailymirrorlk-41793029",
     "num": "dailymirrorlk-41793029",
     "date_str": "2026-07-14",
@@ -298290,5 +298301,159 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1784005500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-adalk-0d28208d",
+    "num": "adalk-0d28208d",
+    "date_str": "2026-07-14",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d85\u0db4\u0db1\u0dba\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0db8\u0dd9\u0dbb\u0da7 SME \u0dc3\u0db8\u0d9c \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0dbd",
+    "url_metadata": "https://www.ada.lk/business/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0db8\u0dd9\u0dbb\u0da7-SME-\u0dc3\u0db8\u0d9c-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0dbd/7-423247",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784005981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-b8dd2225",
+    "num": "dailymirrorlk-b8dd2225",
+    "date_str": "2026-07-14",
+    "description": "UAE condemns Iran\u2019s \u2019brazen\u2019 attack on tankers as US launches fresh strikes",
+    "url_metadata": "https://www.dailymirror.lk/international/UAE-condemns-Irans-brazen-attack-on-tankers-as-US-launches-fresh-strikes/107-345585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784007184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-6340af4d",
+    "num": "tamilmirrorlk-6340af4d",
+    "date_str": "2026-07-14",
+    "description": "\u0baa\u0bbf\u0ba3\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8/\u0baa\u0bbf\u0ba3\u0bc8-\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd/74-379920",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784007539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-5b1bfcdc",
+    "num": "dailymirrorlk-5b1bfcdc",
+    "date_str": "2026-07-14",
+    "description": "CAA plans pilot project for passenger-carrying drones",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-plans-pilot-project-for-passenger-carrying-drones/108-345587",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784007696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-9e589b45",
+    "num": "tamilmirrorlk-9e589b45",
+    "date_str": "2026-07-14",
+    "description": "\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0bc8 \u0b92\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd: \u0bb5\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0bc8-\u0b92\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd-\u0bb5\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd/62-379921",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784008654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-80769ebb",
+    "num": "tamilmirrorlk-80769ebb",
+    "date_str": "2026-07-14",
+    "description": "\u201c\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b86\u0ba3\u0bc1\u0bb1\u0bc8\u201d \u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd \u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0b86\u0ba3\u0bc1\u0bb1\u0bc8-\u0baa\u0bbf\u0ba9\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd-\u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bcd/175-379922",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784008851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-38281a15",
+    "num": "dailymirrorlk-38281a15",
+    "date_str": "2026-07-14",
+    "description": "26-year-old arrested for allegedly killing parents in Embilipitiya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/26-year-old-arrested-for-allegedly-killing-parents-in-Embilipitiya/108-345590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784009090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-3f350a8e",
+    "num": "dailymirrorlk-3f350a8e",
+    "date_str": "2026-07-14",
+    "description": "Harsha urges Colombo Mayor to repair damaged Independence Square walking path",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Harsha-urges-Colombo-Mayor-to-repair-damaged-Independence-Square-walking-path/108-345591",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784009430.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-779ab19a",
+    "num": "tamilmirrorlk-779ab19a",
+    "date_str": "2026-07-14",
+    "description": "\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0bb0\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8-\u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0bb0\u0ba9\u0bcd/175-379923",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784009770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-c7963195",
+    "num": "dailymirrorlk-c7963195",
+    "date_str": "2026-07-14",
+    "description": "Hi Life fashion exhibition opens",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Hi-Life-fashion-exhibition-opens/110-345592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784009785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-52e43343",
+    "num": "dailymirrorlk-52e43343",
+    "date_str": "2026-07-14",
+    "description": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Houthis-fire-missiles-at-Saudi-Arabia-breaking-years-of-calm/108-345593",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784010640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-bd731499",
+    "num": "tamilmirrorlk-bd731499",
+    "date_str": "2026-07-14",
+    "description": "\u0b9a\u0bc8\u0baa\u0bb0\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0ba4\u0bbf\u0baf \u0bb5\u0b9a\u0ba4\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0b9f\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0b9a\u0bc8\u0baa\u0bb0\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf-\u0bb5\u0b9a\u0ba4\u0bbf-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb0\u0b9f\u0bbf-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1/91-379924",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784011437.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-a1e4df55",
+    "num": "dailymirrorlk-a1e4df55",
+    "date_str": "2026-07-14",
+    "description": "Asia-Pacific\u2019s future depends on giving young people hope, says UNFPA official",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Asia-Pacifics-future-depends-on-giving-young-people-hope-says-UNFPA-official/108-345594",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784011460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-405132c8",
+    "num": "dailymirrorlk-405132c8",
+    "date_str": "2026-07-14",
+    "description": "STF Constable who died during operation posthumously promoted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/STF-Constable-who-died-during-operation-posthumously-promoted/108-345595",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784011595.0
   }
 ]
