@@ -1,0 +1,71 @@
+Treating symptoms instead of causes: Why importing 7,500 workers will not solve construction industry crisis
+
+For months, the nation's attention has been riveted on the construction industry's deepening crisis. Contractors lament labour shortages, escalating costs, delayed payments, and abandoned projects, while the proposed importation of 7,500 skilled foreign workers is being hailed as a solution. But are we treating the disease—or merely its symptoms? Before prescribing remedies, should we not first ask whether we have correctly diagnosed the illness? An industry that contributes significantly to national development deserves more than superficial analysis. It demands a rigorous examination of the interconnected forces that have brought it to this critical juncture. Unless policymakers are prepared to identify and address these root causes, today's emergency measures may simply postpone tomorrow's crisis.
+
+The National Human Resources Development Council of Sri Lanka (NHRDA) conducted a workshop with the technical support of Construction Industry Development Association-CIDA) at the Waters ‘Edge on 4 June to find remedial measures for  the deeper wounds of the construction industry. The brainstorming session was based on the SWOT analysis – Strengths, Weaknesses, Opportunities and Threats assuming that the current situation of the construction industry would provide final remedial measures and find panacea for all the construction industry ills.
+
+My instinct is that for the construction industry which is saddled with a myriad of deepening woos, the SWOT analysis was a less effective and not pragmatic approach in uncovering the root causes of operational failures. A Fishbone (Ishikawa) Analysis is generally more suitable when objective is to diagnose why a problem exists and what factors are causing it. Both NHRDC and CIDA would have acted on the premise that a SWOT analysis would identify broad strategic conditions that the deteriorating construction is clothed with.
+
+The problems confronting the construction industry today are not merely strategic issues but deep-rooted operational failures. These include: Acute shortage of skilled labour,  Migration of trained workers overseas,  Escalating material costs,  Delayed Government payments,  High interest rates and financing constraints, Weak vocational training mechanisms,  Regulatory bottlenecks,  Reduced investor confidence,  Project delays and cost overruns. A SWOT exercise may classify these issues under "Weaknesses" or "Threats," but it does not explain why they have emerged or how they are interconnected.
+
+The Fishbone Diagram begins with a central problem, for example: “Critical Labour Shortage and Reduced Productivity in the Construction Industry. “The causes can then be systematically categorised into following.
+
+Manpower:-Migration of skilled workers abroad, Lack of apprenticeship programs, ageing workforce, Low attractiveness of construction careers.
+
+Methods:- Outdated construction practices, Poor project planning, Weak productivity management.
+
+Environment/External Factors:- Economic instability, High interest rates, Policy uncertainty, Regulatory delays.
+
+This approach enables policymakers to move beyond symptoms and identify the fundamental causes of the industry's distress.
+
+What appears to have happened at the Water's Edge workshop is that participants discussed the causes of the industry's difficulties under the umbrella of a SWOT framework. In essence, the discussion resembled a Fishbone Analysis, although it was presented as a SWOT exercise. If the intention was to formulate a national recovery strategy, SWOT would be appropriate. However, if the objective was to determine why the industry has reached such a critical stage that 7,500 foreign skilled workers are now being considered, a Fishbone Analysis would have been the more rigorous and scientifically appropriate methodology.
+
+The construction industry's present predicament is not merely a strategic challenge but a complex operational crisis driven by multiple interrelated causes. While SWOT analysis provides a useful strategic snapshot of the industry's current position, it lacks the analytical depth required to uncover the root causes of labour shortages, productivity decline, project delays, and escalating costs.
+
+A Fishbone (Ishikawa) Analysis, on the other hand, offers a structured methodology to identify, categorise, and investigate these causal factors. Therefore, if the objective is to formulate effective remedial measures rather than merely describe the industry's condition, a comprehensive Fishbone Analysis would provide a far more meaningful foundation for policy intervention and industry reform.
+
+This article makes a compelling case that the construction industry's problems are rooted in multiple interrelated causes and therefore require a Fishbone (Ishikawa) Analysis rather than a broad SWOT analysis. It would be pertinent to record here that each "bone" of the fishbone diagram should be explained in practical terms so that readers, policymakers, and industry stakeholders understand not only what the problem is but why it exists and how it affects the industry.
+
+On this basis an expanded explanation of the nine critical issues is enumerated below.
+
+This is perhaps the most visible problem confronting the construction industry. Contractors across the country are struggling to recruit carpenters, masons, bar benders, electricians, plumbers, welders, and heavy equipment operators. As experienced craftsmen retire or migrate overseas, there are insufficient young workers entering the trade.
+
+The shortage results in: Delays in project completion, Increased labour costs, reduced quality of workmanship, Lower productivity at construction sites. This shortage is the symptom, but its causes include migration, poor vocational education, low wages, and the declining social status of construction trades.
+
+Sri Lanka has invested considerable resources in training skilled construction workers. However, countries in the Middle East, Australia, Japan, South Korea, and Europe offer salaries several times higher than those available locally.
+
+Consequently: The best-trained workers leave., Contractors lose experienced supervisors, Young workers view overseas employment as their ultimate career goal, Local projects suffer from an acute skills deficit,  Importing foreign labour may temporarily fill vacancies but does not solve the continuous outflow of domestic talent.
+
+Technical education has failed to keep pace with modern construction technology. Several shortcomings exist: Outdated curricula. Limited practical exposure. Weak apprenticeship programs, Insufficient collaboration between industry and training institutions, Graduates often possess theoretical knowledge but lack practical competencies required on construction sites.
+
+Prices of cement, steel, aluminum, tiles, electrical equipment, paints, and imported finishing materials have risen sharply due to exchange rate depreciation, import restrictions, freight costs, and inflation. The consequences include: Higher project costs, frequent contract variations. Budget overruns. Cancellation of private investments. Contractors are often unable to revise quotations quickly enough to match rapidly increasing costs.
+
+Construction is a capital-intensive industry. Contractors require substantial working capital to: Purchase materials, Pay wages, Hire machinery, Finance ongoing operations before receiving payments.
+
+When lending rates are high: Borrowing becomes expensive, Small and medium contractors face liquidity problems. New investments decline, Developers postpone projects. Financial stress has become one of the industry's major obstacles.
+
+Many contractors undertake public infrastructure projects funded by Government agencies. However, Interim payments are often delayed, Bills remain unpaid for months, and Retention money is released very slowly. As cash flow deteriorates: Contractors cannot pay suppliers, Workers leave due to unpaid wages. Bank borrowing increases, numerous firms become
+
+financially distressed.  Cash flow is the lifeblood of the construction industry and delayed payments can cripple even well-managed companies.
+
+Construction projects require approvals from multiple Government institutions. These include: Environmental clearances. Local authority approvals, Utility connections, Land permits, Planning permissions. Frequent policy changes and bureaucratic delays increase uncertainty and discourage investment, Investors seek stable and predictable regulatory environments before committing substantial capital.
+
+Many construction projects continue to rely on traditional management methods rather than modern project management techniques.
+
+Common weaknesses include: Poor scheduling, Inadequate risk assessment,Weak contract administration,  Limited adoption of digital technologies such as Building Information Modelling (BIM), Poor coordination among consultants, contractors, and clients. The result is: Time overruns, Cost overruns, Resource wastage, Lower productivity. Improved management practices could significantly enhance industry performance without increasing labour.
+
+Construction is closely linked to the overall economy. Political uncertainty, inflation, exchange rate volatility, high taxation, and weak economic growth discourage both local and foreign investors.
+
+When investor confidence declines: Housing projects are postponed, commercial developments slow, Infrastructure investments decrease, Demand for construction services contracts. Without sustained investment, the industry's recovery becomes increasingly difficult.
+
+One of the strengths of the Fishbone (Ishikawa) Diagram is that it demonstrates that these nine issues are not isolated problems but are interconnected. For example: Labour migration worsens the skilled labour shortage., Labour shortages reduce productivity, Low productivity increases project costs, Rising costs discourage investors, Reduced investment lowers industry activity, Financial difficulties lead to delayed payments, Delayed payments weaken contractors' ability to retain skilled workers. The cycle then repeats itself. This creates a vicious cycle that cannot be broken by addressing only one issue, such as importing 7,500 foreign workers.
+
+The predicament confronting Sri Lanka's construction industry is not the consequence of a single failure but the cumulative effect of multiple interconnected structural, financial, managerial, and policy deficiencies. Importing skilled foreign workers may provide temporary relief to an immediate labour shortage, but it cannot, by itself, restore the industry's long-term vitality.
+
+Lasting solutions demand the courage to move beyond treating visible symptoms and instead confront the underlying causes that have weakened the sector over many years.
+
+If policymakers are genuinely committed to rebuilding this vital pillar of the national economy, they must begin not with expedient remedies but with an honest and scientific diagnosis. As every physician knows, the quality of the cure depends upon the accuracy of the diagnosis. The same timeless principle applies to public policy. Only by identifying the true causes of the industry's decline can Sri Lanka lay the foundation for a resilient, productive, and globally competitive construction sector.
+
+"When symptoms are mistaken for causes, every solution becomes temporary, every crisis returns, and every opportunity for genuine reform is lost.
+
+(The author is a Productivity Specialist and Management Consultant, Member of the Gaveshi Foundation, Gampaha. He can be contacted via email [email protected])

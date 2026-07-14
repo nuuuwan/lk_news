@@ -292122,6 +292122,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-islandlk-31d3b713",
+    "num": "islandlk-31d3b713",
+    "date_str": "2026-07-10",
+    "description": "What\u2019s the world coming to?",
+    "url_metadata": "http://island.lk/whats-the-world-coming-to/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783705500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailymirrorlk-1cf36505",
     "num": "dailymirrorlk-1cf36505",
     "date_str": "2026-07-11",
@@ -295059,6 +295070,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-488b322e",
+    "num": "islandlk-488b322e",
+    "date_str": "2026-07-12",
+    "description": "Treasury surplus austerity for farmers a dangerous gamble, warns analyst",
+    "url_metadata": "http://island.lk/treasury-surplus-austerity-for-farmers-a-dangerous-gamble-warns-analyst/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-1edb3979",
+    "num": "islandlk-1edb3979",
+    "date_str": "2026-07-12",
+    "description": "SLIC Life solidifies industry leadership with Rs. 14.68 billion policyholder bonus",
+    "url_metadata": "http://island.lk/slic-life-solidifies-industry-leadership-with-rs-14-68-billion-policyholder-bonus/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-f56c282b",
+    "num": "islandlk-f56c282b",
+    "date_str": "2026-07-12",
+    "description": "SLID Summit 2026 to equip Sri Lankan Boards for the future",
+    "url_metadata": "http://island.lk/slid-summit-2026-to-equip-sri-lankan-boards-for-the-future/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-12-islandlk-fe16dab5",
     "num": "islandlk-fe16dab5",
     "date_str": "2026-07-12",
@@ -295133,6 +295177,39 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783877160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-7fee81cf",
+    "num": "islandlk-7fee81cf",
+    "date_str": "2026-07-12",
+    "description": "Deepening Democracy \u2013 Constitutions and Constitutionalism",
+    "url_metadata": "http://island.lk/deepening-democracy-constitutions-and-constitutionalism/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-74227315",
+    "num": "islandlk-74227315",
+    "date_str": "2026-07-12",
+    "description": "Spectre of the \u201cdeep state\u201d: Planned capture of the Judiciary by the Executive",
+    "url_metadata": "http://island.lk/spectre-of-the-deep-state-planned-capture-of-the-judiciary-by-the-executive/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-da7d8ead",
+    "num": "islandlk-da7d8ead",
+    "date_str": "2026-07-12",
+    "description": "Abandoned fighters, divisive monuments, and the imperative of One Sri Lanka",
+    "url_metadata": "http://island.lk/abandoned-fighters-divisive-monuments-and-the-imperative-of-one-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783878240.0
   },
   {
     "doc_type": "lk_news",
@@ -296764,6 +296841,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-5bc7b250",
+    "num": "dailymirrorlk-5bc7b250",
+    "date_str": "2026-07-13",
+    "description": "FINAL FOUR CONFIRMED! Only four World Cup Finals are Still Possible",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FINAL-FOUR-CONFIRMED-Only-four-World-Cup-Finals-are-Still-Possible/108-345517",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783942293.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-dailymirrorlk-751d16a8",
     "num": "dailymirrorlk-751d16a8",
     "date_str": "2026-07-13",
@@ -297149,6 +297237,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-f12d4a34",
+    "num": "islandlk-f12d4a34",
+    "date_str": "2026-07-13",
+    "description": "LB Finance upgrades network with Huawei",
+    "url_metadata": "http://island.lk/lb-finance-upgrades-network-with-huawei/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783960920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-d06ef9c8",
+    "num": "islandlk-d06ef9c8",
+    "date_str": "2026-07-13",
+    "description": "Rising global debt, economic disequilibrium and the Mathematical Mismatch",
+    "url_metadata": "http://island.lk/rising-global-debt-economic-disequilibrium-and-the-mathematical-mismatch/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783960980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-34ca36ba",
+    "num": "islandlk-34ca36ba",
+    "date_str": "2026-07-13",
+    "description": "CDB joins global Partnership for Carbon Accounting Financials, reinforcing commitment to climate transition",
+    "url_metadata": "http://island.lk/cdb-joins-global-partnership-for-carbon-accounting-financials-reinforcing-commitment-to-climate-transition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-9f9f33a8",
+    "num": "islandlk-9f9f33a8",
+    "date_str": "2026-07-13",
+    "description": "Stock trading inches downwards as external factors kick in",
+    "url_metadata": "http://island.lk/stock-trading-inches-downwards-as-external-factors-kick-in/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-5b1f8c02",
+    "num": "islandlk-5b1f8c02",
+    "date_str": "2026-07-13",
+    "description": "The voice behind \u2018Kandy Lamissi\u2019 is no more",
+    "url_metadata": "http://island.lk/the-voice-behind-kandy-lamissi-is-no-more/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-586b160a",
+    "num": "islandlk-586b160a",
+    "date_str": "2026-07-13",
+    "description": "One unforgettable night with Rajiv Sebastian\u2026in Dubai",
+    "url_metadata": "http://island.lk/one-unforgettable-night-with-rajiv-sebastian-in-dubai/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-dailymirrorlk-ef3477d6",
     "num": "dailymirrorlk-ef3477d6",
     "date_str": "2026-07-13",
@@ -297168,5 +297322,93 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783978050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-7a032c6d",
+    "num": "dailymirrorlk-7a032c6d",
+    "date_str": "2026-07-14",
+    "description": "MBAPP\u00c9 vs YAMAL! World Cup Final Spot on the Line",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MBAPP\u00c9-vs-YAMAL-World-Cup-Final-Spot-on-the-Line/108-345529",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783984594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-a80344b3",
+    "num": "dailyftlk-a80344b3",
+    "date_str": "2026-07-14",
+    "description": "Strategy alone is worthless, execution is everything: NPP a mixed bag",
+    "url_metadata": "https://www.ft.lk/columns/Strategy-alone-is-worthless-execution-is-everything-NPP-a-mixed-bag/4-794595",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783985227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-f5cdc2e2",
+    "num": "dailyftlk-f5cdc2e2",
+    "date_str": "2026-07-14",
+    "description": "Columnist Dhanusha Gihan Pathirana responds to EFC rebuttal",
+    "url_metadata": "https://www.ft.lk/opinion/Columnist-Dhanusha-Gihan-Pathirana-responds-to-EFC-rebuttal/14-794596",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783985419.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-f71f86a4",
+    "num": "dailyftlk-f71f86a4",
+    "date_str": "2026-07-14",
+    "description": "France at half-time \u2013 a republic that\u2019s still playing the long game",
+    "url_metadata": "https://www.ft.lk/columns/France-at-half-time-a-republic-that-s-still-playing-the-long-game/4-794597",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783986009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-1f6643bb",
+    "num": "dailyftlk-1f6643bb",
+    "date_str": "2026-07-14",
+    "description": "Sri Lanka\u2019s inflation target: Should it be cut from 5% to 2%?",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-inflation-target-Should-it-be-cut-from-5-to-2/4-794598",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783987354.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-38868957",
+    "num": "dailyftlk-38868957",
+    "date_str": "2026-07-14",
+    "description": "Treating symptoms instead of causes: Why importing 7,500 workers will not solve construction industry crisis",
+    "url_metadata": "https://www.ft.lk/columns/Treating-symptoms-instead-of-causes-Why-importing-7-500-workers-will-not-solve-construction-industry-crisis/4-794600",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783987890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-b11cd7fc",
+    "num": "dailyftlk-b11cd7fc",
+    "date_str": "2026-07-14",
+    "description": "When the water rises: Why climate adaptation can no longer wait",
+    "url_metadata": "https://www.ft.lk/columns/When-the-water-rises-Why-climate-adaptation-can-no-longer-wait/4-794603",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783988964.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-7b6c257f",
+    "num": "dailyftlk-7b6c257f",
+    "date_str": "2026-07-14",
+    "description": "EDB, IFC and EU strengthen export readiness of Eastern SMEs",
+    "url_metadata": "https://www.ft.lk/business/EDB-IFC-and-EU-strengthen-export-readiness-of-Eastern-SMEs/34-794604",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783989141.0
   }
 ]
