@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-14 16:19:19",
-  "n_docs": 123542,
+  "time_updated": "2026-07-14 18:16:33",
+  "n_docs": 123570,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123542,
+  "n_docs_with_text": 123570,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-14",
-  "dataset_size": 1930059330,
+  "dataset_size": 1930285939,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-14-dailymirrorlk-eba68f13",
-    "num": "dailymirrorlk-eba68f13",
+    "doc_id": "2026-07-14-dailymirrorlk-7b725db4",
+    "num": "dailymirrorlk-7b725db4",
     "date_str": "2026-07-14",
-    "description": "Government refutes social media posts on President\u2019s official visit to France",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-refutes-social-media-posts-on-Presidents-official-visit-to-France/108-345613",
+    "description": "Govt. refutes reports of VIP security for 11 individuals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-refutes-reports-of-VIP-security-for-11-individuals/108-345620",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784024444.0
+    "time_ut": 1784031478.0
   }
 }
