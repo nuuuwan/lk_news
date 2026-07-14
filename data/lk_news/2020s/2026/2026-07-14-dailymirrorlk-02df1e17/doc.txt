@@ -1,0 +1,27 @@
+Govt. silence masks Rs 31 Bn cyber heist
+
+Colombo, July 14 (Daily Mirror) - Over US$ 88 million and 4 million Euros have been siphoned from Sri Lanka’s state coffers due to severe institutional negligence, a loss masked by official state silence until a recent Committee on Public Finance (CoPF) report exposed the crisis, according to an analytical article by Independent Researcher Dr Sanjana Hattotuwa.
+
+According to Dr Sanjana Hattotuwa, a culture of institutional arrogance has left vital networks unprotected, with the government consistently dodging responsibility.
+
+When these colossal financial resources vanish, the state's default response is to announce an investigation, allow silence to resume, and let impunity reign.
+
+The investigations reveal massive financial bleeding across multiple government sectors, much of which has been downplayed or omitted from official narratives:
+
+US$ 2.5 million: Stolen directly from Treasury debt repayments via a compromised email thread.
+
+US$ 625,000: Intercepted from United States Postal Service remittances by a phishing scheme over two years, met with total government silence since April.
+
+US$ 85 million: Siphoned offshore under the guise of fake imports using 100 shell companies.
+
+4 million Euros (Rs. 1.5 billion): A fraudulent payment instruction to Germany completely omitted from the final CoPF report, hiding whether the money is permanently gone.
+
+A KPMG-CERT audit revealed that the ministry lacked basic multi-factor authentication and used weak passwords. Furthermore, the ministry ignored four consecutive written directives from Sri Lanka CERT between March 2025 and March 2026 to connect to the National Cyber Security Operations Centre.
+
+The state even housed its new Public Debt Management Office on an obsolete server environment that had ceased receiving security updates.
+
+When forced to investigate, the State dodged rigorous forensic tracking.
+
+Instead of executing digital forensic imaging, mailbox log audits, or domain checks, the CoPF based its report entirely on printed emails voluntarily handed over by the compromised ministries.
+
+Rather than enforcing standard compliance on negligent officials, the government has used these self-inflicted crises to justify pushing for a draconian Cybersecurity Act aimed at citizen surveillance, leaving the state's broken digital public infrastructure uncorrected.
