@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_20:23:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_22:15:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,580** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,586** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-14-dailymirrorlk-902cd28d",
-    "num": "dailymirrorlk-902cd28d",
+    "doc_id": "2026-07-14-tamilmirrorlk-dfd9a31c",
+    "num": "tamilmirrorlk-dfd9a31c",
     "date_str": "2026-07-14",
-    "description": "Police warn public of fake GovPay websites, scam messages",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-warn-public-of-fake-GovPay-websites-scam-messages/108-345627",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784040012.0
+    "description": "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b9a\u0b9e\u0bcd\u0b9a\u0baf\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b9a\u0b9e\u0bcd\u0b9a\u0baf\u0bcd-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/54-379953",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784046473.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-14 | `tamilmirrorlk-dfd9a31c` | அப்பாவுக்காக சஞ்சய் எடுத்த முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-tamilmirrorlk-dfd9a31c)
+- 2026-07-14 | `tamilmirrorlk-ba1e389e` | திருமணத்தை தடுக்க இளம் பெண் மொட்டை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-tamilmirrorlk-ba1e389e)
+- 2026-07-14 | `dailymirrorlk-5461cb5f` | Several found dead in lift shaft after fire in central Brussels building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-5461cb5f)
+- 2026-07-14 | `dailymirrorlk-2ee320b4` | Negombo Prison officer who opened fire transferred to Pallekele | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-2ee320b4)
+- 2026-07-14 | `tamilmirrorlk-899ef1e1` | மலையக தொழிலாளர்களுக்கு விசேட சலுகை கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-tamilmirrorlk-899ef1e1)
+- 2026-07-14 | `tamilmirrorlk-545e5832` | கட்டார் புறப்பட்டார் ஹரினி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-tamilmirrorlk-545e5832)
 - 2026-07-14 | `dailymirrorlk-902cd28d` | Police warn public of fake GovPay websites, scam messages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-902cd28d)
 - 2026-07-14 | `tamilmirrorlk-2e36f616` | கால்பந்து ரசிகர்களுக்கு ஒரு பொன்னான வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-tamilmirrorlk-2e36f616)
 - 2026-07-14 | `dailymirrorlk-38c0f2dd` | Rs. 550 mn cigarette bust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-38c0f2dd)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-14 | `virakesarilk-c9bfe8df` | கேப்பாபிலவு காணி விடுவிப்பு போராட்டம் 21ஆவது நாளை எட்டியது: கிழக்கு மாகாண காணி மீட்புக்கான வலையமைப்பின் ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-c9bfe8df)
 - 2026-07-14 | `virakesarilk-128c6243` | யாழ். சிறைச்சாலை உத்தியோகஸ்தர் மீது தாக்குதல் மேற்கொண்ட விளக்கமறியல் கைதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-128c6243)
 - 2026-07-14 | `virakesarilk-f5c4ee80` | நீதி அமைச்சருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை இதுவரை சமர்ப்பிக்கப்படவில்லை - சபாநாயகர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-f5c4ee80)
-- 2026-07-14 | `dailymirrorlk-ddb062dc` | The use and abuse of freedom of speech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-ddb062dc)
-- 2026-07-14 | `virakesarilk-93489b5d` | வடக்கு, கிழக்கில் தொல்லியல் விவகாரங்களுக்கு நியாயமான தீர்வு அவசியம் - தொல்லியல் திணைக்களத்திடம் இலங்கை தமிழ் அரசுக் கட்சி வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-93489b5d)
-- 2026-07-14 | `virakesarilk-4238b1f4` | அருள்நிதி நடிக்கும் 'அருள்வான்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-4238b1f4)
-- 2026-07-14 | `virakesarilk-8562c96a` | வௌிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கை 12 இலட்சத்தைக் கடந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-8562c96a)
-- 2026-07-14 | `virakesarilk-5ac6f8ec` | இந்திய திருமணங்களை நடத்த மிகப் பொருத்தமான நாடாக இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-5ac6f8ec)
-- 2026-07-14 | `virakesarilk-2cf0fb0f` | மோட்டார் சைக்கிள் ஒன்று மரத்தில் மோதி விபத்து ; ஆசிரியர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-virakesarilk-2cf0fb0f)
 
 ---
 
