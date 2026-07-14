@@ -299500,5 +299500,104 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784046473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-3106af26",
+    "num": "tamilmirrorlk-3106af26",
+    "date_str": "2026-07-14",
+    "description": "\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bcd\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe \u0bae\u0baa\u0bcd\u0baa\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bcd\u0ba9\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8\u0ba4\u0bcd-\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe-\u0bae\u0baa\u0bcd\u0baa\u0bc7\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd/44-379954",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784048529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-32708da1",
+    "num": "dailymirrorlk-32708da1",
+    "date_str": "2026-07-14",
+    "description": "Sri Lanka secures US $ 35mn ADB loan for rooftop solar project",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-secures-US-35mn-ADB-loan-for-rooftop-solar-project/273-345631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784051543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-f470d314",
+    "num": "dailymirrorlk-f470d314",
+    "date_str": "2026-07-14",
+    "description": "First Capital Holdings-First Capital Treasuries achieve verified GHG emissions certification for FY 2025/26",
+    "url_metadata": "https://www.dailymirror.lk/business-news/First-Capital-Holdings-First-Capital-Treasuries-achieve-verified-GHG-emissions-certification-for-FY-202526/273-345632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784051597.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-59621cc9",
+    "num": "dailymirrorlk-59621cc9",
+    "date_str": "2026-07-14",
+    "description": "Baby Cheramy and Clogard among SL\u2019s Favourite Product Brands in PepperCube T25",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Baby-Cheramy-and-Clogard-among-SLs-Favourite-Product-Brands-in-PepperCube-T25/273-345633",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784051668.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-9d61f3ec",
+    "num": "dailymirrorlk-9d61f3ec",
+    "date_str": "2026-07-14",
+    "description": "Alliance Finance expands green bond framework to refinance solar projects",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Alliance-Finance-expands-green-bond-framework-to-refinance-solar-projects/273-345634",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784051729.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-df32aa3e",
+    "num": "dailymirrorlk-df32aa3e",
+    "date_str": "2026-07-14",
+    "description": "LOLC strengthens Pakistan operations with new Islamabad head office",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LOLC-strengthens-Pakistan-operations-with-new-Islamabad-head-office/273-345635",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784052004.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-be6991a2",
+    "num": "dailymirrorlk-be6991a2",
+    "date_str": "2026-07-14",
+    "description": "Hayleys Solar named as SL\u2019s Most Loved Solar Brand",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Solar-named-as-SLs-Most-Loved-Solar-Brand/273-345636",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784052446.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-8ef02584",
+    "num": "dailymirrorlk-8ef02584",
+    "date_str": "2026-07-14",
+    "description": "Sanasa General Insurance appoints Lahiru Jayasinghe as Chairman",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sanasa-General-Insurance-appoints-Lahiru-Jayasinghe-as-Chairman/273-345637",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784052939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-4b68b141",
+    "num": "dailymirrorlk-4b68b141",
+    "date_str": "2026-07-14",
+    "description": "Brands face new visibility battle as AI search gains ground",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Brands-face-new-visibility-battle-as-AI-search-gains-ground/273-345638",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053138.0
   }
 ]
