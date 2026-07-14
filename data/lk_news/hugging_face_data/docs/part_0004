@@ -297116,6 +297116,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-adalk-c61d3e38",
+    "num": "adalk-c61d3e38",
+    "date_str": "2026-07-13",
+    "description": "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db1\u0dd2\u0dc3\u0dcf 51\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dba\u0dda-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db1\u0dd2\u0dc3\u0dcf-51\u0d9a\u0dca/11-423240",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783956038.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-tamilmirrorlk-b702bf14",
     "num": "tamilmirrorlk-b702bf14",
     "date_str": "2026-07-13",
@@ -297325,6 +297336,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-5f90fc82",
+    "num": "tamilmirrorlk-5f90fc82",
+    "date_str": "2026-07-14",
+    "description": "\u2019\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0b9c\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc7 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0b9c\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf-\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc7-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/50-379905",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783978250.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-dailymirrorlk-7a032c6d",
     "num": "dailymirrorlk-7a032c6d",
     "date_str": "2026-07-14",
@@ -297410,5 +297432,115 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783989141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-621d4d3c",
+    "num": "dailyftlk-621d4d3c",
+    "date_str": "2026-07-14",
+    "description": "FTZ manufacturers push for energy reforms to strengthen export competitiveness",
+    "url_metadata": "https://www.ft.lk/business/FTZ-manufacturers-push-for-energy-reforms-to-strengthen-export-competitiveness/34-794627",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783993874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-1064c15f",
+    "num": "dailyftlk-1064c15f",
+    "date_str": "2026-07-14",
+    "description": "High Commission hosts roundtable discussion on strengthening SL-UK economies ties",
+    "url_metadata": "https://www.ft.lk/business/High-Commission-hosts-roundtable-discussion-on-strengthening-SL-UK-economies-ties/34-794628",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783994079.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-aa158b6d",
+    "num": "dailyftlk-aa158b6d",
+    "date_str": "2026-07-14",
+    "description": "Ceylon Chamber  launches \u2018Scale Up 2.0\u2019 to  support SME ecosystem",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-launches-Scale-Up-2-0-to-support-SME-ecosystem/34-794629",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783994099.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-b03036cd",
+    "num": "dailyftlk-b03036cd",
+    "date_str": "2026-07-14",
+    "description": "Lanka IOC PLC successfully concludes 24th Annual General Meeting",
+    "url_metadata": "https://www.ft.lk/business/Lanka-IOC-PLC-successfully-concludes-24th-Annual-General-Meeting/34-794630",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783994187.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-cfd21a8b",
+    "num": "dailyftlk-cfd21a8b",
+    "date_str": "2026-07-14",
+    "description": "Indian export delegation engages with SL biz, SMEs at Ceylon Chamber B2B session",
+    "url_metadata": "https://www.ft.lk/business/Indian-export-delegation-engages-with-SL-biz-SMEs-at-Ceylon-Chamber-B2B-session/34-794631",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783994343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailyftlk-0c45ec45",
+    "num": "dailyftlk-0c45ec45",
+    "date_str": "2026-07-14",
+    "description": "Tamil parties urge President to fulfil pledges; bring new Constitution, hold PC polls and grant land rights",
+    "url_metadata": "https://www.ft.lk/news/Tamil-parties-urge-President-to-fulfil-pledges-bring-new-Constitution-hold-PC-polls-and-grant-land-rights/56-794632",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783994593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-230bc5d1",
+    "num": "tamilmirrorlk-230bc5d1",
+    "date_str": "2026-07-14",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb0\u0bc8\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bb0\u0bc8\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/50-379906",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783996829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-tamilmirrorlk-6cea8b76",
+    "num": "tamilmirrorlk-6cea8b76",
+    "date_str": "2026-07-14",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/44-379907",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783997531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-41793029",
+    "num": "dailymirrorlk-41793029",
+    "date_str": "2026-07-14",
+    "description": "Sri Lanka emerges as fastest-growing destination for Indian weddings: Report",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-emerges-as-fastest-growing-destination-for-Indian-weddings-Report/108-345530",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783998554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-c84c4179",
+    "num": "dailymirrorlk-c84c4179",
+    "date_str": "2026-07-14",
+    "description": "Negombo Prison clash death toll climbs to 31 after two more officers die",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Negombo-Prison-clash-death-toll-climbs-to-31-after-two-more-officers-die/108-345531",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783998979.0
   }
 ]
