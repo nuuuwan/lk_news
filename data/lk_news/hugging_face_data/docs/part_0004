@@ -299599,5 +299599,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784053138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-33689d52",
+    "num": "dailymirrorlk-33689d52",
+    "date_str": "2026-07-14",
+    "description": "Indian weddings become Sri Lanka\u2019s next tourism opportunity",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indian-weddings-become-Sri-Lankas-next-tourism-opportunity/273-345639",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-dailymirrorlk-d5a14007",
+    "num": "dailymirrorlk-d5a14007",
+    "date_str": "2026-07-14",
+    "description": "Secondary market records mixed activity",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-records-mixed-activity/273-345641",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-3beaaa12",
+    "num": "dailymirrorlk-3beaaa12",
+    "date_str": "2026-07-15",
+    "description": "Germany to provide EUR 924,000 grant for energy-efficient buildings programme",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Germany-to-provide-EUR-924-000-grant-for-energy-efficient-buildings-programme/273-345642",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053844.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-09b1be25",
+    "num": "dailymirrorlk-09b1be25",
+    "date_str": "2026-07-15",
+    "description": "BPPL unit acquires Ravi Industries customer base in Rs. 300 mn deal",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BPPL-unit-acquires-Ravi-Industries-customer-base-in-Rs-300-mn-deal/273-345643",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-a3c37258",
+    "num": "dailymirrorlk-a3c37258",
+    "date_str": "2026-07-15",
+    "description": "Maga Engineering awarded US$ 7.26mn contract to expand BIA passenger terminal",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Maga-Engineering-awarded-US-7-26mn-contract-to-expand-BIA-passenger-terminal/273-345644",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-542cc06e",
+    "num": "dailymirrorlk-542cc06e",
+    "date_str": "2026-07-15",
+    "description": "Int\u2019l tender opens for SL\u2019s largest battery storage initiative",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Intl-tender-opens-for-SLs-largest-battery-storage-initiative/273-345645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784053981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-6e137b0a",
+    "num": "dailymirrorlk-6e137b0a",
+    "date_str": "2026-07-15",
+    "description": "Construction sector leads recovery\u2019s next chapter",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Construction-sector-leads-recoverys-next-chapter/245-345646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784054144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-8141c09f",
+    "num": "dailymirrorlk-8141c09f",
+    "date_str": "2026-07-15",
+    "description": "No toilet facilities during the glorious Kandy Perahera season",
+    "url_metadata": "https://www.dailymirror.lk/opinion/No-toilet-facilities-during-the-glorious-Kandy-Perahera-season/172-345649",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784055716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-e1850c79",
+    "num": "dailymirrorlk-e1850c79",
+    "date_str": "2026-07-15",
+    "description": "Third in the world and first in Asia  in traffic congestion",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Third-in-the-world-and-first-in-Asia-in-traffic-congestion/172-345650",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784055870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-e525d263",
+    "num": "dailymirrorlk-e525d263",
+    "date_str": "2026-07-15",
+    "description": "Derisking food security by thinking intelligently",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Derisking-food-security-by-thinking-intelligently/172-345651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784056161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-19b5b4b9",
+    "num": "dailymirrorlk-19b5b4b9",
+    "date_str": "2026-07-15",
+    "description": "Negombo Prison Tragedy:  INTELLIGENCE LAPSES,  systemic failures and urgent imperative for reform",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Negombo-Prison-Tragedy-INTELLIGENCE-LAPSES-systemic-failures-and-urgent-imperative-for-reform/172-345654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784058347.0
   }
 ]
