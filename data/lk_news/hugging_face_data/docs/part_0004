@@ -300515,6 +300515,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-adalk-8eb4c8f5",
+    "num": "adalk-8eb4c8f5",
+    "date_str": "2026-07-15",
+    "description": "\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd0\u0da9\u0dd2 \u0dc4\u0dd2\u0da7\u0dd2 \u0dba\u0dde\u0dc0\u0db1\u0dba\u0da7 \u0dc3\u0db8\u0dcf\u0da2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u2019\u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca\u2019",
+    "url_metadata": "https://www.ada.lk/technology/\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc4\u0dd2\u0da7\u0dd2-\u0dba\u0dde\u0dc0\u0db1\u0dba\u0da7-\u0dc3\u0db8\u0dcf\u0da2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u2019\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca\u2019/5-423266",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784096862.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-f0343325",
     "num": "dailymirrorlk-f0343325",
     "date_str": "2026-07-15",
@@ -300603,6 +300614,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-adalk-77cd24ea",
+    "num": "adalk-77cd24ea",
+    "date_str": "2026-07-15",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0d85\u0daf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0d85\u0daf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7/11-423270",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784098078.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-tamilmirrorlk-56c9d2b6",
     "num": "tamilmirrorlk-56c9d2b6",
     "date_str": "2026-07-15",
@@ -300622,6 +300644,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784099874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-1c5403a7",
+    "num": "dailymirrorlk-1c5403a7",
+    "date_str": "2026-07-15",
+    "description": "Sri Lankans get chance to win  Messi, Ronaldo jerseys",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankans-get-chance-to-win-Messi-Ronaldo-jerseys/108-345690",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784100008.0
   },
   {
     "doc_type": "lk_news",
@@ -300680,6 +300713,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-b1094171",
+    "num": "dailymirrorlk-b1094171",
+    "date_str": "2026-07-15",
+    "description": "\u2018Abhisari\u2019 street photo exhibition opens in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Abhisari-street-photo-exhibition-opens-in-Colombo/110-345704",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784105294.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-5d7f99d2",
     "num": "dailymirrorlk-5d7f99d2",
     "date_str": "2026-07-15",
@@ -300699,5 +300743,126 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784105822.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-fbd75ecb",
+    "num": "dailymirrorlk-fbd75ecb",
+    "date_str": "2026-07-15",
+    "description": "ICC explores 12-team ODI World Cup, WTC semi-finals and global franchise T20 event",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ICC-explores-12-team-ODI-World-Cup-WTC-semi-finals-and-global-franchise-T20-event/108-345706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784106006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-tamilmirrorlk-53bd7728",
+    "num": "tamilmirrorlk-53bd7728",
+    "date_str": "2026-07-15",
+    "description": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd  \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b9c\u0bbf\u0ba4\u0bcd-\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/175-379975",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784106972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-fa0f464e",
+    "num": "dailymirrorlk-fa0f464e",
+    "date_str": "2026-07-15",
+    "description": "South Asia\u2019s longest irrigation tunnel completed under North Central Canal project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Asias-longest-irrigation-tunnel-completed-under-North-Central-Canal-project/108-345710",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784108088.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-77213367",
+    "num": "dailymirrorlk-77213367",
+    "date_str": "2026-07-15",
+    "description": "Y-12 aircraft hit by kite string; SLAF warns against flying kites near airports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Y-12-aircraft-hit-by-kite-string-SLAF-warns-against-flying-kites-near-airports/108-345711",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784109353.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-e15a97df",
+    "num": "dailymirrorlk-e15a97df",
+    "date_str": "2026-07-15",
+    "description": "Cardinal to file legal action against MP Chamara Sampath",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cardinal-to-file-legal-action-against-MP-Chamara-Sampath/108-345712",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784109470.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-tamilmirrorlk-b974484e",
+    "num": "tamilmirrorlk-b974484e",
+    "date_str": "2026-07-15",
+    "description": "\u0b85\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0ba9\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4   \u0baa\u0b95\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0b95\u0bbe\u0ba9\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd-\u0b95\u0b9f\u0ba8\u0bcd\u0ba4-\u0baa\u0b95\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-379976",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784109535.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-2fca66e4",
+    "num": "dailymirrorlk-2fca66e4",
+    "date_str": "2026-07-15",
+    "description": "World Cup Final Week: Rivalries, Records and Glory Await",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Cup-Final-Week-Rivalries-Records-and-Glory-Await/108-345713",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784109787.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-0b1cea0b",
+    "num": "dailymirrorlk-0b1cea0b",
+    "date_str": "2026-07-15",
+    "description": "Supreme Court fixes October 30 to hear FR petition over Ditwah response failure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-fixes-October-30-to-hear-FR-petition-over-Ditwah-response-failure/108-345714",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784110159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-tamilmirrorlk-646bc264",
+    "num": "tamilmirrorlk-646bc264",
+    "date_str": "2026-07-15",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0ba9\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0bae\u0ba9\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-379977",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784111476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailymirrorlk-04b6967f",
+    "num": "dailymirrorlk-04b6967f",
+    "date_str": "2026-07-15",
+    "description": "UNP-SJB unity needed to build strong opposition: Naveen Dissanayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-SJB-unity-needed-to-build-strong-opposition-Naveen-Dissanayake/108-345716",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784111553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-tamilmirrorlk-15ec7e83",
+    "num": "tamilmirrorlk-15ec7e83",
+    "date_str": "2026-07-15",
+    "description": "\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd/175-379979",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784111867.0
   }
 ]
