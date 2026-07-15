@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-16 00:09:40",
-  "n_docs": 123788,
+  "time_updated": "2026-07-16 02:07:07",
+  "n_docs": 123792,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123788,
+  "n_docs_with_text": 123792,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-15",
-  "dataset_size": 1933759290,
+  "date_str_max": "2026-07-16",
+  "dataset_size": 1934137237,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-15-dailyftlk-96a5ea2d",
-    "num": "dailyftlk-96a5ea2d",
-    "date_str": "2026-07-15",
-    "description": "Future-ready Boards must put talent and culture at centre of governance",
-    "url_metadata": "https://www.ft.lk/business/Future-ready-Boards-must-put-talent-and-culture-at-centre-of-governance/34-794679",
+    "doc_id": "2026-07-16-dailyftlk-1f51c994",
+    "num": "dailyftlk-1f51c994",
+    "date_str": "2026-07-16",
+    "description": "NGO Bill: Slouching toward totalitarianism?",
+    "url_metadata": "https://www.ft.lk/columns/NGO-Bill-Slouching-toward-totalitarianism/4-794690",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784138147.0
+    "time_ut": 1784145010.0
   }
 }

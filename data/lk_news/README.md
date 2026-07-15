@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_00:10:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_02:08:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,788** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,792** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-15-dailyftlk-96a5ea2d",
-    "num": "dailyftlk-96a5ea2d",
-    "date_str": "2026-07-15",
-    "description": "Future-ready Boards must put talent and culture at centre of governance",
-    "url_metadata": "https://www.ft.lk/business/Future-ready-Boards-must-put-talent-and-culture-at-centre-of-governance/34-794679",
+    "doc_id": "2026-07-16-dailyftlk-1f51c994",
+    "num": "dailyftlk-1f51c994",
+    "date_str": "2026-07-16",
+    "description": "NGO Bill: Slouching toward totalitarianism?",
+    "url_metadata": "https://www.ft.lk/columns/NGO-Bill-Slouching-toward-totalitarianism/4-794690",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784138147.0
+    "time_ut": 1784145010.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-16 | `dailyftlk-1f51c994` | NGO Bill: Slouching toward totalitarianism? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-1f51c994)
+- 2026-07-16 | `dailyftlk-f073cb4b` | American socialism, US-Iran conflict, Ayatollah Khamenei’s funeral, and NATO-Russia-China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-f073cb4b)
+- 2026-07-16 | `tamilmirrorlk-81bfe713` | ’இந்தியா - இங்கிலாந்து வர்த்தக ஒப்பந்தம் இரு நாட்டு  உறவில் முக்கிய தருணம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-81bfe713)
+- 2026-07-16 | `virakesarilk-972a4b41` | அநுர அரசின் செயற்பாடுகளுக்கு மக்கள் திருப்தி; நிறைவேற்று ஜனாதிபதி முறையை ஒழிக்கவும் பெரும்பான்மை ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-virakesarilk-972a4b41)
 - 2026-07-15 | `dailyftlk-96a5ea2d` | Future-ready Boards must put talent and culture at centre of governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailyftlk-96a5ea2d)
 - 2026-07-15 | `tamilmirrorlk-b7b1d27a` | இனப்பெருக்க நேரத்தில் சீண்டியதால் டென்ஷன் ஆன சிங்கம் ; இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-b7b1d27a)
 - 2026-07-15 | `dailymirrorlk-dede40e0` | ’Read with Ranil’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-dede40e0)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-15 | `dailymirrorlk-56bc32de` | Not hesitant to work for the country, if invited: Mahinda Samarasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-56bc32de)
 - 2026-07-15 | `virakesarilk-131dbde6` | செம்மணி மனித புதைகுழி அகழ்வு மீண்டும் ஆரம்பம்: இரு குழந்தைகளின் எலும்புக்கூடுகள் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-virakesarilk-131dbde6)
 - 2026-07-15 | `tamilmirrorlk-2132b8eb` | நீர்கொழும்பு மேயர் ராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-2132b8eb)
-- 2026-07-15 | `virakesarilk-5b264284` | கட்டார் முன்னாள் அமீரின் மறைவுக்கு அமைச்சர் விஜித ஹேரத் இரங்கல் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-virakesarilk-5b264284)
-- 2026-07-15 | `tamilmirrorlk-d5f8c531` | கால்பந்து வரலாறு மோதும் ஆர்ஜென்டீனா - இங்கிலாந்து அரையிறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-d5f8c531)
-- 2026-07-15 | `virakesarilk-fcebf686` | பதவியை விட்டு விலகுமாறு தற்போதைய அரசாங்கம் என்னைக் கேட்கவில்லை: அமெரிக்காவுக்கான தூதுவர் மகிந்த சமரசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-virakesarilk-fcebf686)
-- 2026-07-15 | `virakesarilk-a5b11358` | பிரதமர், கட்டார் அமீரின் மறைவுக்கு இரங்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-virakesarilk-a5b11358)
 
 ---
 
