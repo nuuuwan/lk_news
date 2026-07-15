@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-16 02:07:07",
-  "n_docs": 123792,
+  "time_updated": "2026-07-16 04:04:40",
+  "n_docs": 123802,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123792,
+  "n_docs_with_text": 123802,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-16",
-  "dataset_size": 1934137237,
+  "dataset_size": 1934228815,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-dailyftlk-1f51c994",
-    "num": "dailyftlk-1f51c994",
+    "doc_id": "2026-07-16-dailyftlk-e506a550",
+    "num": "dailyftlk-e506a550",
     "date_str": "2026-07-16",
-    "description": "NGO Bill: Slouching toward totalitarianism?",
-    "url_metadata": "https://www.ft.lk/columns/NGO-Bill-Slouching-toward-totalitarianism/4-794690",
+    "description": "Court issues open warrant against ex-SriLankan CEO\u2019s wife in Airbus probe",
+    "url_metadata": "https://www.ft.lk/news/Court-issues-open-warrant-against-ex-SriLankan-CEO-s-wife-in-Airbus-probe/56-794726",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784145010.0
+    "time_ut": 1784154218.0
   }
 }

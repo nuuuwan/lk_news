@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_02:08:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_04:05:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,792** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,802** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-dailyftlk-1f51c994",
-    "num": "dailyftlk-1f51c994",
+    "doc_id": "2026-07-16-dailyftlk-e506a550",
+    "num": "dailyftlk-e506a550",
     "date_str": "2026-07-16",
-    "description": "NGO Bill: Slouching toward totalitarianism?",
-    "url_metadata": "https://www.ft.lk/columns/NGO-Bill-Slouching-toward-totalitarianism/4-794690",
+    "description": "Court issues open warrant against ex-SriLankan CEO\u2019s wife in Airbus probe",
+    "url_metadata": "https://www.ft.lk/news/Court-issues-open-warrant-against-ex-SriLankan-CEO-s-wife-in-Airbus-probe/56-794726",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784145010.0
+    "time_ut": 1784154218.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-16 | `dailyftlk-e506a550` | Court issues open warrant against ex-SriLankan CEO’s wife in Airbus probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-e506a550)
+- 2026-07-16 | `dailyftlk-bb9dad12` | President signals public transport pivot in 2027 Budget to ease household costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-bb9dad12)
+- 2026-07-16 | `dailyftlk-bffa6af2` | No final decision yet on extending judges’ retirement age: Cabinet Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-bffa6af2)
+- 2026-07-16 | `dailyftlk-6cbcd9ae` | Updated National Livestock Policy gets Cabinet nod | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-6cbcd9ae)
+- 2026-07-16 | `dailyftlk-e639ac82` | Sri Lanka to host Fourth BIMSTEC Agriculture Ministerial Meeting in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-e639ac82)
+- 2026-07-16 | `dailyftlk-2e6aa3bc` | Govt. launches ‘Ceylon Tea Village’ program to drive $ 2.5 b export target by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-2e6aa3bc)
+- 2026-07-16 | `dailyftlk-6dd0008d` | Why men’s mental health deserves our attention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-6dd0008d)
+- 2026-07-16 | `dailyftlk-7644a127` | Sri Lanka must pivot to high-value experiential tourism amid global headwinds: THASL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-7644a127)
+- 2026-07-16 | `dailyftlk-2d365c71` | CAASL, Vietjet Air hold high-level talks ahead of Sri Lanka launch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-2d365c71)
+- 2026-07-16 | `dailyftlk-97e22240` | Ceylon Chamber to host BCCS 2026 launch seminar on strengthening ESG reporting and strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-97e22240)
 - 2026-07-16 | `dailyftlk-1f51c994` | NGO Bill: Slouching toward totalitarianism? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-1f51c994)
 - 2026-07-16 | `dailyftlk-f073cb4b` | American socialism, US-Iran conflict, Ayatollah Khamenei’s funeral, and NATO-Russia-China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-f073cb4b)
 - 2026-07-16 | `tamilmirrorlk-81bfe713` | ’இந்தியா - இங்கிலாந்து வர்த்தக ஒப்பந்தம் இரு நாட்டு  உறவில் முக்கிய தருணம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-81bfe713)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-07-15 | `dailymirrorlk-6e6d4e20` | NPP’s Negombo Mayor resigns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-6e6d4e20)
 - 2026-07-15 | `tamilmirrorlk-51088ed0` | முடங்கிய எரிசக்தித் திட்டங்களை மீண்டும் தொடங்கத் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-51088ed0)
 - 2026-07-15 | `tamilmirrorlk-c0f1b308` | செம்மணியில் இரு குழந்தைகளின் எலும்புக்கூடுகள் கண்டெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-c0f1b308)
-- 2026-07-15 | `dailymirrorlk-bf05a53d` | PM Harini meets Qatar Emir, conveys Sri Lanka’s condolences | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-bf05a53d)
-- 2026-07-15 | `dailymirrorlk-253f9706` | Environment Ministry to fill vacancies in 10 institutions to boost public service efficiency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-253f9706)
-- 2026-07-15 | `dailymirrorlk-aaa90eeb` | President instructs officials to develop Delft, Analaitivu, Nainativu as green energy islands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-aaa90eeb)
-- 2026-07-15 | `dailymirrorlk-56d78bbf` | New Men’s T20 World Cup format and qualification explained | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-56d78bbf)
-- 2026-07-15 | `dailymirrorlk-60fc09fc` | Private O/L candidates without NICs can apply using guardian’s NIC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-60fc09fc)
-- 2026-07-15 | `dailymirrorlk-0052da0c` | ICC calls for early Sri Lanka Cricket elections: Keeps SLC out of board meetings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-0052da0c)
-- 2026-07-15 | `dailymirrorlk-c1697e35` | Katunayake police officer shot; drug suspect escapes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-c1697e35)
-- 2026-07-15 | `dailymirrorlk-56bc32de` | Not hesitant to work for the country, if invited: Mahinda Samarasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-56bc32de)
-- 2026-07-15 | `virakesarilk-131dbde6` | செம்மணி மனித புதைகுழி அகழ்வு மீண்டும் ஆரம்பம்: இரு குழந்தைகளின் எலும்புக்கூடுகள் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-virakesarilk-131dbde6)
-- 2026-07-15 | `tamilmirrorlk-2132b8eb` | நீர்கொழும்பு மேயர் ராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-2132b8eb)
 
 ---
 

@@ -301766,5 +301766,115 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1784145010.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-97e22240",
+    "num": "dailyftlk-97e22240",
+    "date_str": "2026-07-16",
+    "description": "Ceylon Chamber to host BCCS 2026 launch seminar on strengthening ESG reporting and strategy",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-to-host-BCCS-2026-launch-seminar-on-strengthening-ESG-reporting-and-strategy/34-794710",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784152399.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-2d365c71",
+    "num": "dailyftlk-2d365c71",
+    "date_str": "2026-07-16",
+    "description": "CAASL, Vietjet Air hold high-level talks ahead of Sri Lanka launch",
+    "url_metadata": "https://www.ft.lk/business/CAASL-Vietjet-Air-hold-high-level-talks-ahead-of-Sri-Lanka-launch/34-794711",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784152485.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-7644a127",
+    "num": "dailyftlk-7644a127",
+    "date_str": "2026-07-16",
+    "description": "Sri Lanka must pivot to high-value experiential tourism amid global headwinds: THASL",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-must-pivot-to-high-value-experiential-tourism-amid-global-headwinds-THASL/34-794712",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784152592.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-6dd0008d",
+    "num": "dailyftlk-6dd0008d",
+    "date_str": "2026-07-16",
+    "description": "Why men\u2019s mental health deserves our attention",
+    "url_metadata": "https://www.ft.lk/columns/Why-men-s-mental-health-deserves-our-attention/4-794713",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784152881.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-2e6aa3bc",
+    "num": "dailyftlk-2e6aa3bc",
+    "date_str": "2026-07-16",
+    "description": "Govt. launches \u2018Ceylon Tea Village\u2019 program to drive $ 2.5 b export target by 2030",
+    "url_metadata": "https://www.ft.lk/business/Govt-launches-Ceylon-Tea-Village-program-to-drive-2-5-b-export-target-by-2030/34-794721",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784153814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-e639ac82",
+    "num": "dailyftlk-e639ac82",
+    "date_str": "2026-07-16",
+    "description": "Sri Lanka to host Fourth BIMSTEC Agriculture Ministerial Meeting in 2027",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-to-host-Fourth-BIMSTEC-Agriculture-Ministerial-Meeting-in-2027/56-794722",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784153908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-6cbcd9ae",
+    "num": "dailyftlk-6cbcd9ae",
+    "date_str": "2026-07-16",
+    "description": "Updated National Livestock Policy gets Cabinet nod",
+    "url_metadata": "https://www.ft.lk/news/Updated-National-Livestock-Policy-gets-Cabinet-nod/56-794723",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784153929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-bffa6af2",
+    "num": "dailyftlk-bffa6af2",
+    "date_str": "2026-07-16",
+    "description": "No final decision yet on extending judges\u2019 retirement age: Cabinet Spokesman",
+    "url_metadata": "https://www.ft.lk/news/No-final-decision-yet-on-extending-judges-retirement-age-Cabinet-Spokesman/56-794724",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784154068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-bb9dad12",
+    "num": "dailyftlk-bb9dad12",
+    "date_str": "2026-07-16",
+    "description": "President signals public transport pivot in 2027 Budget to ease household costs",
+    "url_metadata": "https://www.ft.lk/news/President-signals-public-transport-pivot-in-2027-Budget-to-ease-household-costs/56-794725",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784154168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailyftlk-e506a550",
+    "num": "dailyftlk-e506a550",
+    "date_str": "2026-07-16",
+    "description": "Court issues open warrant against ex-SriLankan CEO\u2019s wife in Airbus probe",
+    "url_metadata": "https://www.ft.lk/news/Court-issues-open-warrant-against-ex-SriLankan-CEO-s-wife-in-Airbus-probe/56-794726",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784154218.0
   }
 ]
