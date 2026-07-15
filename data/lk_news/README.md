@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--15_04:06:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--15_06:17:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,609** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-15-dailymirrorlk-b66ac919",
-    "num": "dailymirrorlk-b66ac919",
+    "doc_id": "2026-07-15-dailyftlk-ac812470",
+    "num": "dailyftlk-ac812470",
     "date_str": "2026-07-15",
-    "description": "Spain Stun France 2-0 to Reach FIFA World Cup Final",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Spain-Stun-France-2-0-to-Reach-FIFA-World-Cup-Final/108-345655",
+    "description": "CIABOC continues probe into alleged $ 2 m SriLankan Airlines aircraft deal bribe",
+    "url_metadata": "https://www.ft.lk/news/CIABOC-continues-probe-into-alleged-2-m-SriLankan-Airlines-aircraft-deal-bribe/56-794643",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784064529.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784068688.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-15 | `dailyftlk-ac812470` | CIABOC continues probe into alleged $ 2 m SriLankan Airlines aircraft deal bribe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailyftlk-ac812470)
+- 2026-07-15 | `dailyftlk-5358d077` | Prime Minister departs for Qatar to attend funeral of former Qatar Leader | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailyftlk-5358d077)
 - 2026-07-15 | `dailymirrorlk-b66ac919` | Spain Stun France 2-0 to Reach FIFA World Cup Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-b66ac919)
+- 2026-07-15 | `islandlk-e5b8ff51` | Implementation of the project on ”Grid – Based Rooftop Solar Power and Virtual Net Meter Reading” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-islandlk-e5b8ff51)
 - 2026-07-15 | `tamilmirrorlk-8f823c7e` | பிரான்ஸை வீழ்த்தி உலகக் கிண்ண இறுதிப் போட்டியில் ஸ்பெய்ன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-8f823c7e)
 - 2026-07-15 | `dailymirrorlk-19b5b4b9` | Negombo Prison Tragedy:  INTELLIGENCE LAPSES,  systemic failures and urgent imperative for reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-19b5b4b9)
 - 2026-07-15 | `dailymirrorlk-e525d263` | Derisking food security by thinking intelligently | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-e525d263)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-14 | `dailymirrorlk-8ef02584` | Sanasa General Insurance appoints Lahiru Jayasinghe as Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-8ef02584)
 - 2026-07-14 | `dailymirrorlk-be6991a2` | Hayleys Solar named as SL’s Most Loved Solar Brand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-be6991a2)
 - 2026-07-14 | `dailymirrorlk-df32aa3e` | LOLC strengthens Pakistan operations with new Islamabad head office | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-df32aa3e)
-- 2026-07-14 | `dailymirrorlk-9d61f3ec` | Alliance Finance expands green bond framework to refinance solar projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-9d61f3ec)
-- 2026-07-14 | `dailymirrorlk-59621cc9` | Baby Cheramy and Clogard among SL’s Favourite Product Brands in PepperCube T25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-59621cc9)
-- 2026-07-14 | `dailymirrorlk-f470d314` | First Capital Holdings-First Capital Treasuries achieve verified GHG emissions certification for FY 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-14-dailymirrorlk-f470d314)
 
 ---
 

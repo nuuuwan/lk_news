@@ -293266,6 +293266,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-b8610854",
+    "num": "islandlk-b8610854",
+    "date_str": "2026-07-11",
+    "description": "Much ado about crime: Fish or cut bait",
+    "url_metadata": "http://island.lk/much-ado-about-crime-fish-or-cut-bait/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783774200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-virakesarilk-ddc350be",
     "num": "virakesarilk-ddc350be",
     "date_str": "2026-07-11",
@@ -297259,6 +297270,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-31ace6c6",
+    "num": "islandlk-31ace6c6",
+    "date_str": "2026-07-13",
+    "description": "Positive investor interest at SEC & CSE Colombo investor forums",
+    "url_metadata": "http://island.lk/positive-investor-interest-at-sec-cse-colombo-investor-forums/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783960800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-islandlk-4622be00",
     "num": "islandlk-4622be00",
     "date_str": "2026-07-13",
@@ -297314,6 +297336,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-48534d89",
+    "num": "islandlk-48534d89",
+    "date_str": "2026-07-13",
+    "description": "Rethinking retirement ages: A case for judicial and public sector reform",
+    "url_metadata": "http://island.lk/rethinking-retirement-ages-a-case-for-judicial-and-public-sector-reform/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-islandlk-5b1f8c02",
     "num": "islandlk-5b1f8c02",
     "date_str": "2026-07-13",
@@ -297333,6 +297366,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783961580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-077f5e5e",
+    "num": "islandlk-077f5e5e",
+    "date_str": "2026-07-13",
+    "description": "Chandi: The one-tusked rebel who defied captivity and became a symbol of Sri Lanka\u2019s wild spirit",
+    "url_metadata": "http://island.lk/chandi-the-one-tusked-rebel-who-defied-captivity-and-became-a-symbol-of-sri-lankas-wild-spirit/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961700.0
   },
   {
     "doc_type": "lk_news",
@@ -299470,6 +299514,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-76c3dc0d",
+    "num": "islandlk-76c3dc0d",
+    "date_str": "2026-07-14",
+    "description": "Oil market volatility reverberates in local stock trading",
+    "url_metadata": "http://island.lk/oil-market-volatility-reverberates-in-local-stock-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-2c69b5af",
+    "num": "islandlk-2c69b5af",
+    "date_str": "2026-07-14",
+    "description": "ITC Ratnadipa secures coveted \u2018Sustainable Smart Building of the Year\u2019 accolade",
+    "url_metadata": "http://island.lk/itc-ratnadipa-secures-coveted-sustainable-smart-building-of-the-year-accolade/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-8f463e7b",
+    "num": "islandlk-8f463e7b",
+    "date_str": "2026-07-14",
+    "description": "Commercial Bank voted Sri Lanka\u2019s \u2018Most Loved\u2019 banking brand for third consecutive year",
+    "url_metadata": "http://island.lk/commercial-bank-voted-sri-lankas-most-loved-banking-brand-for-third-consecutive-year/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-573c76fa",
+    "num": "islandlk-573c76fa",
+    "date_str": "2026-07-14",
+    "description": "Lanka Aluminium collaborates with SLIA to organize factory visit for architects",
+    "url_metadata": "http://island.lk/lanka-aluminium-collaborates-with-slia-to-organize-factory-visit-for-architects/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-059fb04f",
+    "num": "islandlk-059fb04f",
+    "date_str": "2026-07-14",
+    "description": "Sun Siyam Pasikudah hosts Miss Polski 2026 finalists for exclusive photoshoot on Sri Lanka\u2019s East Coast",
+    "url_metadata": "http://island.lk/sun-siyam-pasikudah-hosts-miss-polski-2026-finalists-for-exclusive-photoshoot-on-sri-lankas-east-coast/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-dailymirrorlk-2ee320b4",
     "num": "dailymirrorlk-2ee320b4",
     "date_str": "2026-07-14",
@@ -299745,6 +299844,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-e5b8ff51",
+    "num": "islandlk-e5b8ff51",
+    "date_str": "2026-07-15",
+    "description": "Implementation of the project on \u201dGrid \u2013 Based Rooftop Solar Power and Virtual Net Meter Reading\u201d",
+    "url_metadata": "http://island.lk/implementation-of-the-project-on-grid-based-rooftop-solar-power-and-virtual-net-meter-reading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784064120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-b66ac919",
     "num": "dailymirrorlk-b66ac919",
     "date_str": "2026-07-15",
@@ -299753,5 +299863,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784064529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailyftlk-5358d077",
+    "num": "dailyftlk-5358d077",
+    "date_str": "2026-07-15",
+    "description": "Prime Minister departs for Qatar to attend funeral of former Qatar Leader",
+    "url_metadata": "https://www.ft.lk/news/Prime-Minister-departs-for-Qatar-to-attend-funeral-of-former-Qatar-Leader/56-794642",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784068617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-dailyftlk-ac812470",
+    "num": "dailyftlk-ac812470",
+    "date_str": "2026-07-15",
+    "description": "CIABOC continues probe into alleged $ 2 m SriLankan Airlines aircraft deal bribe",
+    "url_metadata": "https://www.ft.lk/news/CIABOC-continues-probe-into-alleged-2-m-SriLankan-Airlines-aircraft-deal-bribe/56-794643",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784068688.0
   }
 ]
