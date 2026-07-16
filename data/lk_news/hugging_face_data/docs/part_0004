@@ -303251,5 +303251,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784219006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-775658f3",
+    "num": "dailymirrorlk-775658f3",
+    "date_str": "2026-07-17",
+    "description": "Sri Lanka\u2019s Return to Upper Middle-Income Status: Progress with Perspective",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lankas-Return-to-Upper-Middle-Income-Status-Progress-with-Perspective/172-345852",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784238512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-d82bbc2f",
+    "num": "dailymirrorlk-d82bbc2f",
+    "date_str": "2026-07-17",
+    "description": "Trump\u2019s war on ICC: Let there be war crimes",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Trumps-war-on-ICC-Let-there-be-war-crimes/172-345853",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784238843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-5b9e6617",
+    "num": "dailymirrorlk-5b9e6617",
+    "date_str": "2026-07-17",
+    "description": "Government Must Listen to the Legal Fraternity",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Government-Must-Listen-to-the-Legal-Fraternity/172-345855",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784239076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-53dfaffa",
+    "num": "dailymirrorlk-53dfaffa",
+    "date_str": "2026-07-17",
+    "description": "Sri Lanka needs fourth economic revolution  -Santosh Menon",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lanka-needs-fourth-economic-revolution-Santosh-Menon/231-345857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784239817.0
   }
 ]

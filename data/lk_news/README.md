@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--17_03:06:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--17_04:45:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,927** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,931** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-tamilmirrorlk-133122f9",
-    "num": "tamilmirrorlk-133122f9",
-    "date_str": "2026-07-16",
-    "description": "\u0b87\u0bb0\u0bc1 \u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd 500\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bc1-\u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-500\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-380069",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784219006.0
+    "doc_id": "2026-07-17-dailymirrorlk-53dfaffa",
+    "num": "dailymirrorlk-53dfaffa",
+    "date_str": "2026-07-17",
+    "description": "Sri Lanka needs fourth economic revolution  -Santosh Menon",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lanka-needs-fourth-economic-revolution-Santosh-Menon/231-345857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784239817.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-17 | `dailymirrorlk-53dfaffa` | Sri Lanka needs fourth economic revolution  -Santosh Menon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-53dfaffa)
+- 2026-07-17 | `dailymirrorlk-5b9e6617` | Government Must Listen to the Legal Fraternity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-5b9e6617)
+- 2026-07-17 | `dailymirrorlk-d82bbc2f` | Trump’s war on ICC: Let there be war crimes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-d82bbc2f)
+- 2026-07-17 | `dailymirrorlk-775658f3` | Sri Lanka’s Return to Upper Middle-Income Status: Progress with Perspective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-775658f3)
 - 2026-07-16 | `tamilmirrorlk-133122f9` | இரு படகுகள் கவிழ்ந்ததில் 500க்கும் மேற்பட்டோர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-133122f9)
 - 2026-07-16 | `tamilmirrorlk-59844a96` | ஒரே மேடையில் 14 மகன்களுக்கு திருமணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-59844a96)
 - 2026-07-16 | `tamilmirrorlk-906d9da0` | 34வது ‘FACETS Sri Lanka’ கண்காட்சி, 2027 ஜனவரி இலங்கையில் நடைபெறும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-906d9da0)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-16 | `dailymirrorlk-299650f1` | Cardinal Malcolm Ranjith seeks dismissal of Suresh Sallay’s writ petition over Easter Sunday attacks probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-299650f1)
 - 2026-07-16 | `adalk-fb4cd175` | ආනවිලුන්දාව උප දුම්රිය ස්ථානය යළි විවෘත කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-adalk-fb4cd175)
 - 2026-07-16 | `adalk-d2587a72` | දරුවා මෝටර් රථයට ගිනි තැබූ බවට ඇසින් දුටු සාක්ෂි නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-adalk-d2587a72)
-- 2026-07-16 | `tamilmirrorlk-de84f163` | இல்லத்தரசிகளுக்கு கசக்கிறது: முதலாளிகளுக்கு இனிக்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-de84f163)
-- 2026-07-16 | `adalk-65d10a0e` | පෙර පාසල් අධ්‍යාපන ප්‍රතිසංස්කරණ 2027 වසරේ සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-adalk-65d10a0e)
-- 2026-07-16 | `tamilmirrorlk-9ad9974b` | பெண் காவலரின் மடியில் அமர்ந்து கொஞ்சிய பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-9ad9974b)
-- 2026-07-16 | `adalk-6dbbef6d` | “ප්ලාස්ටික් වලින් තොර පුදබිමක් - 2030” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-adalk-6dbbef6d)
 
 ---
 

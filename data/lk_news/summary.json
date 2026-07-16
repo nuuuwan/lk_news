@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-17 03:05:30",
-  "n_docs": 123927,
+  "time_updated": "2026-07-17 04:44:29",
+  "n_docs": 123931,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123927,
+  "n_docs_with_text": 123931,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-16",
-  "dataset_size": 1936039548,
+  "date_str_max": "2026-07-17",
+  "dataset_size": 1936065167,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-tamilmirrorlk-133122f9",
-    "num": "tamilmirrorlk-133122f9",
-    "date_str": "2026-07-16",
-    "description": "\u0b87\u0bb0\u0bc1 \u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd 500\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bc1-\u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-500\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-380069",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784219006.0
+    "doc_id": "2026-07-17-dailymirrorlk-53dfaffa",
+    "num": "dailymirrorlk-53dfaffa",
+    "date_str": "2026-07-17",
+    "description": "Sri Lanka needs fourth economic revolution  -Santosh Menon",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lanka-needs-fourth-economic-revolution-Santosh-Menon/231-345857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784239817.0
   }
 }
