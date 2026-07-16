@@ -303056,6 +303056,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-65d10a0e",
+    "num": "adalk-65d10a0e",
+    "date_str": "2026-07-16",
+    "description": "\u0db4\u0dd9\u0dbb \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab 2027 \u0dc0\u0dc3\u0dbb\u0dda \u0dc3\u0dd2\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0dbb-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-2027-\u0dc0\u0dc3\u0dbb\u0dda-\u0dc3\u0dd2\u0da7/11-423289",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784194544.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-tamilmirrorlk-de84f163",
     "num": "tamilmirrorlk-de84f163",
     "date_str": "2026-07-16",
@@ -303133,6 +303144,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-2861b3f4",
+    "num": "adalk-2861b3f4",
+    "date_str": "2026-07-16",
+    "description": "2027\u0da7\u0dad\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0dbd \u0d87\u0db3\u0dd4\u0db8\u0dca \u0dbb\u0dd9\u0daf\u0dd2 \u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/2027\u0da7\u0dad\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0dbd-\u0d87\u0db3\u0dd4\u0db8\u0dca-\u0dbb\u0dd9\u0daf\u0dd2-\u0da0\u0dd3\u0db1\u0dba\u0dd9\u0db1\u0dca/11-423294",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784198523.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-adalk-6ab47198",
     "num": "adalk-6ab47198",
     "date_str": "2026-07-16",
@@ -303155,6 +303177,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-27880634",
+    "num": "adalk-27880634",
+    "date_str": "2026-07-16",
+    "description": "\u0dc0\u0dd2\u0dc2 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db8\u0dd0\u0da9\u0dbd\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0dc4\u0dcf \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0da7\u0ddc\u0db1\u0dca 4.8\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dc2-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0db8\u0dd0\u0da9\u0dbd\u0dd3\u0db8\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0dc4\u0dcf-\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca-\u0da7\u0ddc\u0db1\u0dca-4-8\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423296",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784200328.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-tamilmirrorlk-82956691",
     "num": "tamilmirrorlk-82956691",
     "date_str": "2026-07-16",
@@ -303163,5 +303196,27 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784201982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-b4e2371a",
+    "num": "tamilmirrorlk-b4e2371a",
+    "date_str": "2026-07-16",
+    "description": "\u0b86\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bc0\u0ba9\u0bbe \u0bb5\u0bc0\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd\u0bb9\u0bbe\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bc0\u0ba9\u0bbe-\u0bb5\u0bc0\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd\u0bb9\u0bbe\u0bae\u0bcd/44-380066",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784208348.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-757f8f93",
+    "num": "dailymirrorlk-757f8f93",
+    "date_str": "2026-07-16",
+    "description": "FACETS 2027 Set for January",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/FACETS-2027-Set-for-January/110-345851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784214400.0
   }
 ]
