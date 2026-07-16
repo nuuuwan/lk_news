@@ -295191,6 +295191,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-59226771",
+    "num": "islandlk-59226771",
+    "date_str": "2026-07-12",
+    "description": "Beyond Negombo, Bogambara, and Mahamodara",
+    "url_metadata": "http://island.lk/beyond-negombo-bogambara-and-mahamodara/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-12-islandlk-7fee81cf",
     "num": "islandlk-7fee81cf",
     "date_str": "2026-07-12",
@@ -297333,6 +297344,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783961040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-islandlk-391e25cd",
+    "num": "islandlk-391e25cd",
+    "date_str": "2026-07-13",
+    "description": "From Manifesto to Action without delay",
+    "url_metadata": "http://island.lk/from-manifesto-to-action-without-delay/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783961280.0
   },
   {
     "doc_type": "lk_news",
@@ -299536,6 +299558,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-1d36981a",
+    "num": "islandlk-1d36981a",
+    "date_str": "2026-07-14",
+    "description": "Indian export delegation engages with Sri Lankan businesses and SMEs at Ceylon Chamber B2B session",
+    "url_metadata": "http://island.lk/indian-export-delegation-engages-with-sri-lankan-businesses-and-smes-at-ceylon-chamber-b2b-session/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-c3557845",
+    "num": "islandlk-c3557845",
+    "date_str": "2026-07-14",
+    "description": "2.4 tons of marine debris removed from Trincomalee",
+    "url_metadata": "http://island.lk/2-4-tons-of-marine-debris-removed-from-trincomalee/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-7b4ee73b",
+    "num": "islandlk-7b4ee73b",
+    "date_str": "2026-07-14",
+    "description": "LOLC Al-Falaah launches Sri Lanka\u2019s first structured Tawarruq-based personal finance solution",
+    "url_metadata": "http://island.lk/lolc-al-falaah-launches-sri-lankas-first-structured-tawarruq-based-personal-finance-solution/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784042580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-14-tamilmirrorlk-899ef1e1",
     "num": "tamilmirrorlk-899ef1e1",
     "date_str": "2026-07-14",
@@ -299632,6 +299687,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784044438.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-14-islandlk-9d687b17",
+    "num": "islandlk-9d687b17",
+    "date_str": "2026-07-14",
+    "description": "The Right of Passage of Ships in the Straits of Hormuz",
+    "url_metadata": "http://island.lk/the-right-of-passage-of-ships-in-the-straits-of-hormuz/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784045100.0
   },
   {
     "doc_type": "lk_news",
@@ -300336,6 +300402,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784089344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-ac3ccefc",
+    "num": "islandlk-ac3ccefc",
+    "date_str": "2026-07-15",
+    "description": "Dirty Money",
+    "url_metadata": "http://island.lk/dirty-money/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784089740.0
   },
   {
     "doc_type": "lk_news",
@@ -301582,6 +301659,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-24ed0d5e",
+    "num": "islandlk-24ed0d5e",
+    "date_str": "2026-07-15",
+    "description": "GoodWe concludes successful participation at Power & Energy Expo Sri Lanka 2026",
+    "url_metadata": "http://island.lk/goodwe-concludes-successful-participation-at-power-energy-expo-sri-lanka-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784128680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-4d83380f",
+    "num": "islandlk-4d83380f",
+    "date_str": "2026-07-15",
+    "description": "Pepsi Street Kala 2.0 showcases Sri Lankan art, music, and food, uniting audiences in colourful cultural celebration",
+    "url_metadata": "http://island.lk/pepsi-street-kala-2-0-showcases-sri-lankan-art-music-and-food-uniting-audiences-in-colourful-cultural-celebration/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784128680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-70f4c8e4",
+    "num": "islandlk-70f4c8e4",
+    "date_str": "2026-07-15",
+    "description": "Treasury Bill rate and relative economic stability slightly push up ASPI",
+    "url_metadata": "http://island.lk/treasury-bill-rate-and-relative-economic-stability-slightly-push-up-aspi/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784128680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-c1697e35",
     "num": "dailymirrorlk-c1697e35",
     "date_str": "2026-07-15",
@@ -301604,6 +301714,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-a8affdb9",
+    "num": "islandlk-a8affdb9",
+    "date_str": "2026-07-15",
+    "description": "Crime, poverty and education",
+    "url_metadata": "http://island.lk/crime-poverty-and-education/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784128920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-60fc09fc",
     "num": "dailymirrorlk-60fc09fc",
     "date_str": "2026-07-15",
@@ -301623,6 +301744,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784129175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-7ab38faf",
+    "num": "islandlk-7ab38faf",
+    "date_str": "2026-07-15",
+    "description": "For Natural Glow \u2026",
+    "url_metadata": "http://island.lk/for-natural-glow/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784129280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-219a5f3c",
+    "num": "islandlk-219a5f3c",
+    "date_str": "2026-07-15",
+    "description": "Forensic Science: The silent guardian of justice in Sri Lanka",
+    "url_metadata": "http://island.lk/forensic-science-the-silent-guardian-of-justice-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784129460.0
   },
   {
     "doc_type": "lk_news",
@@ -301876,5 +302019,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1784154218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-59216027",
+    "num": "dailymirrorlk-59216027",
+    "date_str": "2026-07-16",
+    "description": "Argentina stun England with 2-1 comeback win to reach World Cup final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Argentina-stun-England-with-2-1-comeback-win-to-reach-World-Cup-final/108-345736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784154838.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-2587a795",
+    "num": "dailymirrorlk-2587a795",
+    "date_str": "2026-07-16",
+    "description": "European Athletics Cracks Down on Sexualised Coverage of Female Athletes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/European-Athletics-Cracks-Down-on-Sexualised-Coverage-of-Female-Athletes/108-345737",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784156044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-0cf70ed3",
+    "num": "dailymirrorlk-0cf70ed3",
+    "date_str": "2026-07-16",
+    "description": "Argentina face fine for Falklands banner in semi-final win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Argentina-face-fine-for-Falklands-banner-in-semi-final-win/108-345738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784156714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-a94187e2",
+    "num": "dailymirrorlk-a94187e2",
+    "date_str": "2026-07-16",
+    "description": "William tells England to 'hold their heads high' after defeat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/William-tells-England-to-hold-their-heads-high-after-defeat/108-345739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784157599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-0f040bab",
+    "num": "dailymirrorlk-0f040bab",
+    "date_str": "2026-07-16",
+    "description": "Messi and Argentina set for World Cup final showdown with Spain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784162499.0
   }
 ]

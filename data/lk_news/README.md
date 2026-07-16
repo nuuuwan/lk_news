@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_04:05:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_06:23:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,802** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,820** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-dailyftlk-e506a550",
-    "num": "dailyftlk-e506a550",
+    "doc_id": "2026-07-16-dailymirrorlk-0f040bab",
+    "num": "dailymirrorlk-0f040bab",
     "date_str": "2026-07-16",
-    "description": "Court issues open warrant against ex-SriLankan CEO\u2019s wife in Airbus probe",
-    "url_metadata": "https://www.ft.lk/news/Court-issues-open-warrant-against-ex-SriLankan-CEO-s-wife-in-Airbus-probe/56-794726",
+    "description": "Messi and Argentina set for World Cup final showdown with Spain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1784154218.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784162499.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-16 | `dailymirrorlk-0f040bab` | Messi and Argentina set for World Cup final showdown with Spain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-0f040bab)
+- 2026-07-16 | `dailymirrorlk-a94187e2` | William tells England to 'hold their heads high' after defeat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-a94187e2)
+- 2026-07-16 | `dailymirrorlk-0cf70ed3` | Argentina face fine for Falklands banner in semi-final win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-0cf70ed3)
+- 2026-07-16 | `dailymirrorlk-2587a795` | European Athletics Cracks Down on Sexualised Coverage of Female Athletes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-2587a795)
+- 2026-07-16 | `dailymirrorlk-59216027` | Argentina stun England with 2-1 comeback win to reach World Cup final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-59216027)
 - 2026-07-16 | `dailyftlk-e506a550` | Court issues open warrant against ex-SriLankan CEO’s wife in Airbus probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-e506a550)
 - 2026-07-16 | `dailyftlk-bb9dad12` | President signals public transport pivot in 2027 Budget to ease household costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-bb9dad12)
 - 2026-07-16 | `dailyftlk-bffa6af2` | No final decision yet on extending judges’ retirement age: Cabinet Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-bffa6af2)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-16 | `tamilmirrorlk-81bfe713` | ’இந்தியா - இங்கிலாந்து வர்த்தக ஒப்பந்தம் இரு நாட்டு  உறவில் முக்கிய தருணம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-81bfe713)
 - 2026-07-16 | `virakesarilk-972a4b41` | அநுர அரசின் செயற்பாடுகளுக்கு மக்கள் திருப்தி; நிறைவேற்று ஜனாதிபதி முறையை ஒழிக்கவும் பெரும்பான்மை ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-virakesarilk-972a4b41)
 - 2026-07-15 | `dailyftlk-96a5ea2d` | Future-ready Boards must put talent and culture at centre of governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailyftlk-96a5ea2d)
-- 2026-07-15 | `tamilmirrorlk-b7b1d27a` | இனப்பெருக்க நேரத்தில் சீண்டியதால் டென்ஷன் ஆன சிங்கம் ; இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-b7b1d27a)
-- 2026-07-15 | `dailymirrorlk-dede40e0` | ’Read with Ranil’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-dede40e0)
-- 2026-07-15 | `dailymirrorlk-6e6d4e20` | NPP’s Negombo Mayor resigns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailymirrorlk-6e6d4e20)
-- 2026-07-15 | `tamilmirrorlk-51088ed0` | முடங்கிய எரிசக்தித் திட்டங்களை மீண்டும் தொடங்கத் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-51088ed0)
-- 2026-07-15 | `tamilmirrorlk-c0f1b308` | செம்மணியில் இரு குழந்தைகளின் எலும்புக்கூடுகள் கண்டெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-tamilmirrorlk-c0f1b308)
 
 ---
 
