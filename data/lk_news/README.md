@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_06:23:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--16_08:49:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,820** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,825** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-dailymirrorlk-0f040bab",
-    "num": "dailymirrorlk-0f040bab",
+    "doc_id": "2026-07-16-tamilmirrorlk-65a92e26",
+    "num": "tamilmirrorlk-65a92e26",
     "date_str": "2026-07-16",
-    "description": "Messi and Argentina set for World Cup final showdown with Spain",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784162499.0
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd/175-380013",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784170987.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-16 | `tamilmirrorlk-65a92e26` | செம்மணியில் மேலும் இரண்டு குழந்தைகளின் எலும்புக்கூடுகள் அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-65a92e26)
+- 2026-07-16 | `adalk-7a88beaa` | ව්‍යවස්ථාව ගැන ප්‍රගතිතය පිළිගන්නවා, ඉක්මනින් නිලවරණයක් පවත්වන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-adalk-7a88beaa)
+- 2026-07-16 | `tamilmirrorlk-ff430075` | கடைசி நிமிடங்களில் அதிர்ச்சி வைத்தியம்: இறுதிப் போட்டியில் ஆர்ஜென்டீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-ff430075)
 - 2026-07-16 | `dailymirrorlk-0f040bab` | Messi and Argentina set for World Cup final showdown with Spain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-0f040bab)
 - 2026-07-16 | `dailymirrorlk-a94187e2` | William tells England to 'hold their heads high' after defeat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-a94187e2)
 - 2026-07-16 | `dailymirrorlk-0cf70ed3` | Argentina face fine for Falklands banner in semi-final win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailymirrorlk-0cf70ed3)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-16 | `dailyftlk-97e22240` | Ceylon Chamber to host BCCS 2026 launch seminar on strengthening ESG reporting and strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-97e22240)
 - 2026-07-16 | `dailyftlk-1f51c994` | NGO Bill: Slouching toward totalitarianism? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-1f51c994)
 - 2026-07-16 | `dailyftlk-f073cb4b` | American socialism, US-Iran conflict, Ayatollah Khamenei’s funeral, and NATO-Russia-China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-dailyftlk-f073cb4b)
-- 2026-07-16 | `tamilmirrorlk-81bfe713` | ’இந்தியா - இங்கிலாந்து வர்த்தக ஒப்பந்தம் இரு நாட்டு  உறவில் முக்கிய தருணம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-tamilmirrorlk-81bfe713)
-- 2026-07-16 | `virakesarilk-972a4b41` | அநுர அரசின் செயற்பாடுகளுக்கு மக்கள் திருப்தி; நிறைவேற்று ஜனாதிபதி முறையை ஒழிக்கவும் பெரும்பான்மை ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-16-virakesarilk-972a4b41)
-- 2026-07-15 | `dailyftlk-96a5ea2d` | Future-ready Boards must put talent and culture at centre of governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-15-dailyftlk-96a5ea2d)
 
 ---
 
