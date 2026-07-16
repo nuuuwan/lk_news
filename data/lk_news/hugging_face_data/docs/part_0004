@@ -302484,6 +302484,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-1d2a138d",
+    "num": "tamilmirrorlk-1d2a138d",
+    "date_str": "2026-07-16",
+    "description": "\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 - \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/52-380019",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784178378.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-dailymirrorlk-9442213d",
     "num": "dailymirrorlk-9442213d",
     "date_str": "2026-07-16",
@@ -302616,6 +302627,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-e216a411",
+    "num": "adalk-e216a411",
+    "date_str": "2026-07-16",
+    "description": "\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dad\u0daf\u0db6\u0daf\u0dba \u0d85\u0dc0\u0db8 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dad\u0daf\u0db6\u0daf\u0dba-\u0d85\u0dc0\u0db8-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-423284",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784181792.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-tamilmirrorlk-34d84c93",
     "num": "tamilmirrorlk-34d84c93",
     "date_str": "2026-07-16",
@@ -302624,6 +302646,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784181963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-f353589b",
+    "num": "adalk-f353589b",
+    "date_str": "2026-07-16",
+    "description": "\u0db1\u0dd4\u0dc0\u0dbb \u0da7\u0dca\u200d\u0dbb\u0dd0\u0dc6\u0dd2\u0d9a\u0dca \u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dc0\u0dc3\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb-\u0da7\u0dca\u200d\u0dbb\u0dd0\u0dc6\u0dd2\u0d9a\u0dca-\u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0db1-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0dc0\u0dc3\u0dbb-\u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-423285",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784182128.0
   },
   {
     "doc_type": "lk_news",
@@ -302767,5 +302800,181 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784184726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-3a49d42d",
+    "num": "dailymirrorlk-3a49d42d",
+    "date_str": "2026-07-16",
+    "description": "Four major Kandy infrastructure projects targeted for completion within two years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-major-Kandy-infrastructure-projects-targeted-for-completion-within-two-years/108-345826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784186224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-9677ab68",
+    "num": "tamilmirrorlk-9677ab68",
+    "date_str": "2026-07-16",
+    "description": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bb2\u0bcd-\u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1/76-380030",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784186447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-744cef11",
+    "num": "tamilmirrorlk-744cef11",
+    "date_str": "2026-07-16",
+    "description": "\u0b90\u0bb5\u0bb0\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b90\u0bb5\u0bb0\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd/150-380031",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784186664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-c8a15ebb",
+    "num": "tamilmirrorlk-c8a15ebb",
+    "date_str": "2026-07-16",
+    "description": "\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe\u0bb5\u0bc1\u0bae\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0b85\u0b9f\u0bbf\u0b95\u0bcd\u0b95-\u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-380032",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784189301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-4a2e4055",
+    "num": "tamilmirrorlk-4a2e4055",
+    "date_str": "2026-07-16",
+    "description": "\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b9a\u0bb2\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd \u0bae\u0ba9\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bc7\u0bb0\u0bbe\u0baf\u0bb0\u0bcd \u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0ba9\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd-\u0b9a\u0bb2\u0bc7\u0baf\u0bbf\u0ba9\u0bcd-\u0bb0\u0bbf\u0b9f\u0bcd-\u0bae\u0ba9\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0baa\u0bc7\u0bb0\u0bbe\u0baf\u0bb0\u0bcd-\u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0ba9\u0bc1/175-380033",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784189538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-0af727fb",
+    "num": "dailymirrorlk-0af727fb",
+    "date_str": "2026-07-16",
+    "description": "Special train services to Anuradhapura for 'national pichcha mal pujawa'",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-train-services-to-Anuradhapura-for-national-pichcha-mal-pujawa/108-345830",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784189571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-73d4579b",
+    "num": "dailymirrorlk-73d4579b",
+    "date_str": "2026-07-16",
+    "description": "China to donate school uniform fabric for 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-to-donate-school-uniform-fabric-for-2027/108-345831",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784189673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-17f83599",
+    "num": "dailymirrorlk-17f83599",
+    "date_str": "2026-07-16",
+    "description": "More than 500 missing after two refugee boats vanish off Myanmar coast, UN agencies say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/More-than-500-missing-after-two-refugee-boats-vanish-off-Myanmar-coast-UN-agencies-say/108-345832",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784189835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-bcd6e10b",
+    "num": "dailymirrorlk-bcd6e10b",
+    "date_str": "2026-07-16",
+    "description": "Anawilundawa railway sub-station to reopen after temporary closure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anawilundawa-railway-sub-station-to-reopen-after-temporary-closure/108-345833",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784190086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-76769d32",
+    "num": "dailymirrorlk-76769d32",
+    "date_str": "2026-07-16",
+    "description": "Development projects in Kandy reviewed",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Development-projects-in-Kandy-reviewed/110-345834",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784190537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-9b1a671a",
+    "num": "dailymirrorlk-9b1a671a",
+    "date_str": "2026-07-16",
+    "description": "Climate resilience programme launched",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Climate-resilience-programme-launched/108-345835",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784190657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-4c9dfeda",
+    "num": "dailymirrorlk-4c9dfeda",
+    "date_str": "2026-07-16",
+    "description": "500 \u2018Ceylon Tea Villages\u2019 programme launched to boost tea industry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/500-Ceylon-Tea-Villages-programme-launched-to-boost-tea-industry/108-345836",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784190883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-d8f8f74c",
+    "num": "dailymirrorlk-d8f8f74c",
+    "date_str": "2026-07-16",
+    "description": "SLAB goes fully digital to boost global recognition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLAB-goes-fully-digital-to-boost-global-recognition/108-345837",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784191729.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-a117d7b2",
+    "num": "tamilmirrorlk-a117d7b2",
+    "date_str": "2026-07-16",
+    "description": "\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0b9f\u0b95\u0bcd\u0b95 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba8\u0b9f\u0b95\u0bcd\u0b95-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380034",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784191795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-115659c8",
+    "num": "dailymirrorlk-115659c8",
+    "date_str": "2026-07-16",
+    "description": "Sri Lankan Rupee depreciates further against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Rupee-depreciates-further-against-US-Dollar/108-345838",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784191866.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-7c62aa8d",
+    "num": "dailymirrorlk-7c62aa8d",
+    "date_str": "2026-07-16",
+    "description": "Clash erupts between MP Archchuna and Fisheries Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Clash-erupts-between-MP-Archchuna-and-Fisheries-Minister/108-345839",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784192068.0
   }
 ]
