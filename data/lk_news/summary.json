@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-16 10:50:25",
-  "n_docs": 123856,
+  "time_updated": "2026-07-16 12:36:33",
+  "n_docs": 123883,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123856,
+  "n_docs_with_text": 123883,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-16",
-  "dataset_size": 1934753241,
+  "dataset_size": 1935117154,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-16-tamilmirrorlk-47e8bb1b",
-    "num": "tamilmirrorlk-47e8bb1b",
+    "doc_id": "2026-07-16-dailymirrorlk-3f6bfdec",
+    "num": "dailymirrorlk-3f6bfdec",
     "date_str": "2026-07-16",
-    "description": "\u0ba8\u0bc1\u0bb3\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bc0\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0ba8\u0bc1\u0bb3\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd-\u0bb5\u0bb0\u0bc8\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bc0\u0bb0\u0bcd/62-380020",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784178705.0
+    "description": "Sri Lanka\u2019s dengue battle at a crossroads",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-dengue-battle-at-a-crossroads/108-345813",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784184726.0
   }
 }
