@@ -303078,6 +303078,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-fb4cd175",
+    "num": "adalk-fb4cd175",
+    "date_str": "2026-07-16",
+    "description": "\u0d86\u0db1\u0dc0\u0dd2\u0dbd\u0dd4\u0db1\u0dca\u0daf\u0dcf\u0dc0 \u0d8b\u0db4 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dba\u0dc5\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0db1\u0dc0\u0dd2\u0dbd\u0dd4\u0db1\u0dca\u0daf\u0dcf\u0dc0-\u0d8b\u0db4-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dd9\u0dbb\u0dda/11-423291",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784195679.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-dailymirrorlk-299650f1",
     "num": "dailymirrorlk-299650f1",
     "date_str": "2026-07-16",
@@ -303086,6 +303097,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784196105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-45c05e03",
+    "num": "adalk-45c05e03",
+    "date_str": "2026-07-16",
+    "description": "\u0dc0\u0dc3\u0dbb \u0d85\u0dc0\u0dc3\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd9\u0dbb \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca 30000\u0d9a\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0dbb-\u0d85\u0dc0\u0dc3\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0db4\u0dd9\u0dbb-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca-30000\u0d9a\u0dca-\u0dc3\u0dda\u0dc0\u0dba\u0da7/11-423292",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784196726.0
   },
   {
     "doc_type": "lk_news",
@@ -303108,5 +303130,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784197622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-adalk-6ab47198",
+    "num": "adalk-6ab47198",
+    "date_str": "2026-07-16",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4 \u0dbd\u0db6\u0db1 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4-\u0dbd\u0db6\u0db1-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7/11-423295",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784199099.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-dailymirrorlk-2f4dafcf",
+    "num": "dailymirrorlk-2f4dafcf",
+    "date_str": "2026-07-16",
+    "description": "I never prepared alone to take over the nation in 2022: Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/I-never-prepared-alone-to-take-over-the-nation-in-2022-Ranil/108-345848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784199858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-16-tamilmirrorlk-82956691",
+    "num": "tamilmirrorlk-82956691",
+    "date_str": "2026-07-16",
+    "description": "\u2019\u0baa\u0b9f \u0ba4\u0bae\u0bc1\u0ba4\u0bbe\u2019\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0b9a\u0bcd\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba3\u0bb1\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f-\u0ba4\u0bae\u0bc1\u0ba4\u0bbe-\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc2\u0b9a\u0bcd\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba3\u0bb1\u0bb2\u0bcd/175-380040",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784201982.0
   }
 ]
