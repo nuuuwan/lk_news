@@ -303980,6 +303980,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-1b130527",
+    "num": "adalk-1b130527",
+    "date_str": "2026-07-17",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0daf\u0dd9\u0db1 \u0dad\u0dd3\u0dbb\u0dd4 \u0db6\u0daf\u0dd4 \u0dc3\u0dc4\u0db1 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0daf\u0dd9\u0db1-\u0dad\u0dd3\u0dbb\u0dd4-\u0db6\u0daf\u0dd4-\u0dc3\u0dc4\u0db1-\u0d89\u0dc4\u0dc5\u0da7/11-423306",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784269295.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-tamilmirrorlk-07f1dd3f",
     "num": "tamilmirrorlk-07f1dd3f",
     "date_str": "2026-07-17",
@@ -304153,5 +304164,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784278377.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-tamilmirrorlk-d7362684",
+    "num": "tamilmirrorlk-d7362684",
+    "date_str": "2026-07-17",
+    "description": "\u0bb0\u0b95\u0bbf\u0ba4\u0bbe, \u0b9a\u0bb0\u0bbf\u0ba4\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0bc1\u0ba3\u0bbe \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b95\u0bbf\u0ba4\u0bbe-\u0b9a\u0bb0\u0bbf\u0ba4\u0bbe-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b85\u0bb0\u0bc1\u0ba3\u0bbe-\u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd/175-380086",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784278629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-cc097abf",
+    "num": "adalk-cc097abf",
+    "date_str": "2026-07-17",
+    "description": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb \u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd6\u0dba\u0dda \u0d85\u0dad\u0dd2\u0dc1\u0dba \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb-\u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd6\u0dba\u0dda-\u0d85\u0dad\u0dd2\u0dc1\u0dba-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd2\u0dc3\u0dba\u0dd2/11-423307",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784280701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-e27e5868",
+    "num": "dailymirrorlk-e27e5868",
+    "date_str": "2026-07-17",
+    "description": "Sri Lanka Dengue Cases 2026: Live Tracker and Latest Updates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Dengue-Cases-2026-Live-Tracker-and-Latest-Updates/108-345917",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784282602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-f33bd797",
+    "num": "dailymirrorlk-f33bd797",
+    "date_str": "2026-07-17",
+    "description": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-alleges-China-meddled-in-2020-election-and-questions-voting-security-ahead-of-midterms/107-345919",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784284152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-148c1c3c",
+    "num": "dailymirrorlk-148c1c3c",
+    "date_str": "2026-07-17",
+    "description": "Jacqueline Fernandez launches AI digital avatar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jacqueline-Fernandez-launches-AI-digital-avatar/108-345920",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784284433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-tamilmirrorlk-aa0f7aa7",
+    "num": "tamilmirrorlk-aa0f7aa7",
+    "date_str": "2026-07-17",
+    "description": "\u0bae\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bbf\u0baf \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bc2\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bbf\u0baf-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bc2\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-380087",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784284674.0
   }
 ]
