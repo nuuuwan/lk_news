@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--17_20:19:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--17_22:12:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,035** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,036** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-17-dailymirrorlk-3e2ccb43",
-    "num": "dailymirrorlk-3e2ccb43",
+    "doc_id": "2026-07-17-dailymirrorlk-c7ebdf74",
+    "num": "dailymirrorlk-c7ebdf74",
     "date_str": "2026-07-17",
-    "description": "President discusses Negombo Prison unrest with prison officials",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-discusses-Negombo-Prison-unrest-with-prison-officials/108-345935",
+    "description": "Central Province Governor says no response yet from President on resignation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Province-Governor-says-no-response-yet-from-President-on-resignation/108-345939",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784296756.0
+    "time_ut": 1784300206.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-17 | `dailymirrorlk-c7ebdf74` | Central Province Governor says no response yet from President on resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-c7ebdf74)
 - 2026-07-17 | `dailymirrorlk-3e2ccb43` | President discusses Negombo Prison unrest with prison officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-3e2ccb43)
 - 2026-07-17 | `dailymirrorlk-27fe7007` | Kataragama to become ‘Polythene Free Sacred Zone - 2030’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-27fe7007)
 - 2026-07-17 | `dailymirrorlk-9107927b` | Sri Lanka calls for stronger regional cooperation at BIMSTEC Security Chiefs’ Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-9107927b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-17 | `dailymirrorlk-148c1c3c` | Jacqueline Fernandez launches AI digital avatar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-148c1c3c)
 - 2026-07-17 | `adalk-fc81fe8a` | වරුණ ජයසුන්දර නැගෙනහිරින් ගලවා ළමා කාන්තා කාර්යාංශයට ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-fc81fe8a)
 - 2026-07-17 | `dailymirrorlk-f33bd797` | Trump alleges China meddled in 2020 election and questions voting security ahead of midterms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-f33bd797)
-- 2026-07-17 | `adalk-40abfece` | සැකසූ දියර කිරිවල අනුමත ඇෆ්ලටොක්සින් උපරිම මට්ටම සම්බන්ධයෙන් නව විධානයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-40abfece)
 
 ---
 

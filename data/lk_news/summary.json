@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-17 20:18:22",
-  "n_docs": 124035,
+  "time_updated": "2026-07-17 22:11:29",
+  "n_docs": 124036,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124035,
+  "n_docs_with_text": 124036,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-17",
-  "dataset_size": 1937479456,
+  "dataset_size": 1937554400,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-17-dailymirrorlk-3e2ccb43",
-    "num": "dailymirrorlk-3e2ccb43",
+    "doc_id": "2026-07-17-dailymirrorlk-c7ebdf74",
+    "num": "dailymirrorlk-c7ebdf74",
     "date_str": "2026-07-17",
-    "description": "President discusses Negombo Prison unrest with prison officials",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-discusses-Negombo-Prison-unrest-with-prison-officials/108-345935",
+    "description": "Central Province Governor says no response yet from President on resignation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Province-Governor-says-no-response-yet-from-President-on-resignation/108-345939",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784296756.0
+    "time_ut": 1784300206.0
   }
 }
