@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-17 04:44:29",
-  "n_docs": 123931,
+  "time_updated": "2026-07-17 06:54:51",
+  "n_docs": 123959,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123931,
+  "n_docs_with_text": 123959,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-17",
-  "dataset_size": 1936065167,
+  "dataset_size": 1936267761,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-17-dailymirrorlk-53dfaffa",
-    "num": "dailymirrorlk-53dfaffa",
+    "doc_id": "2026-07-17-dailymirrorlk-12ada2dc",
+    "num": "dailymirrorlk-12ada2dc",
     "date_str": "2026-07-17",
-    "description": "Sri Lanka needs fourth economic revolution  -Santosh Menon",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lanka-needs-fourth-economic-revolution-Santosh-Menon/231-345857",
+    "description": "Sri Lanka\u2019s IMF reserve target comes under pressure: KPMG",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lankas-IMF-reserve-target-comes-under-pressure-KPMG/215-345878",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784239817.0
+    "time_ut": 1784250727.0
   }
 }
