@@ -304189,6 +304189,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-99b2cbb1",
+    "num": "adalk-99b2cbb1",
+    "date_str": "2026-07-17",
+    "description": "\u0dc0\u0dd3\u0daf\u0dd2 \u0dc3\u0dad\u0dd4\u0db1\u0dca \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3\u0daf\u0dd2-\u0dc3\u0dad\u0dd4\u0db1\u0dca-\u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca-\u0dba\u0ddc\u0db8\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1/11-423310",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784282443.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-dailymirrorlk-e27e5868",
     "num": "dailymirrorlk-e27e5868",
     "date_str": "2026-07-17",
@@ -304200,6 +304211,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-586b9665",
+    "num": "dailymirrorlk-586b9665",
+    "date_str": "2026-07-17",
+    "description": "Colombo Shopping Festival",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Colombo-Shopping-Festival/110-345918",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784282915.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-dailymirrorlk-f33bd797",
     "num": "dailymirrorlk-f33bd797",
     "date_str": "2026-07-17",
@@ -304208,6 +304230,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784284152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-fc81fe8a",
+    "num": "adalk-fc81fe8a",
+    "date_str": "2026-07-17",
+    "description": "\u0dc0\u0dbb\u0dd4\u0dab \u0da2\u0dba\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb\u0dd2\u0db1\u0dca \u0d9c\u0dbd\u0dc0\u0dcf \u0dc5\u0db8\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0da7 \u0d9c\u0dd9\u0db1\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dbb\u0dd4\u0dab-\u0da2\u0dba\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb-\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb\u0dd2\u0db1\u0dca-\u0d9c\u0dbd\u0dc0\u0dcf-\u0dc5\u0db8\u0dcf-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0da7-\u0d9c\u0dd9\u0db1\u0dd9\u0dba\u0dd2/11-423312",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784284190.0
   },
   {
     "doc_type": "lk_news",
@@ -304230,5 +304263,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784284674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-de4cc1d5",
+    "num": "dailymirrorlk-de4cc1d5",
+    "date_str": "2026-07-17",
+    "description": "Court to hear intervention petitions in Suresh Sallay\u2019s writ petition on August 4",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-to-hear-intervention-petitions-in-Suresh-Sallays-writ-petition-on-August-4/108-345922",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784285207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-7a830345",
+    "num": "adalk-7a830345",
+    "date_str": "2026-07-17",
+    "description": "\u0d86\u0db3\u0dcf\u0daf\u0ddc\u0dbd \u0dc4\u0dcf \u0d85\u0d9a\u0dd4\u0dbb\u0dc5 \u0d8b\u0db4 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dba\u0dbd\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0db3\u0dcf\u0daf\u0ddc\u0dbd-\u0dc4\u0dcf-\u0d85\u0d9a\u0dd4\u0dbb\u0dc5-\u0d8b\u0db4-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0dba\u0dbd\u0dd2-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0dc0\u0dda/11-423314",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784285440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-344e11eb",
+    "num": "dailymirrorlk-344e11eb",
+    "date_str": "2026-07-17",
+    "description": "US widens Iran strikes as Tehran hits Gulf states over Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-widens-Iran-strikes-as-Tehran-hits-Gulf-states-over-Hormuz/108-345927",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784288767.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-tamilmirrorlk-b87d7be0",
+    "num": "tamilmirrorlk-b87d7be0",
+    "date_str": "2026-07-17",
+    "description": "\u0b92\u0bb0\u0bc1 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9/175-380089",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784289584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-cafce47a",
+    "num": "dailymirrorlk-cafce47a",
+    "date_str": "2026-07-17",
+    "description": "Court orders arrest of Deputy Minister Eranga Gunasekara, MP Jagath Manuwarna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-arrest-of-Deputy-Minister-Eranga-Gunasekara-MP-Jagath-Manuwarna/108-345928",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784291021.0
   }
 ]
