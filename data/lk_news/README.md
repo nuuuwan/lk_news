@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_12:26:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_14:19:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,093** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,101** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-18-dailymirrorlk-45cfea6a",
-    "num": "dailymirrorlk-45cfea6a",
+    "doc_id": "2026-07-18-dailymirrorlk-b20e857e",
+    "num": "dailymirrorlk-b20e857e",
     "date_str": "2026-07-18",
-    "description": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-denies-Iranian-claims-it-hit-civilian-infrastructure-in-latest-strikes/108-345979",
+    "description": "5.0 magnitude earthquake hits eastern Turkey",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/5-0-magnitude-earthquake-hits-eastern-Turkey/108-346004",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784347957.0
+    "time_ut": 1784363874.0
 }
 ```
 
@@ -41,9 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-18 | `dailymirrorlk-b20e857e` | 5.0 magnitude earthquake hits eastern Turkey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-b20e857e)
+- 2026-07-18 | `dailymirrorlk-9d6d4dbb` | Angolan woman nabbed at BIA with Rs. 10m cocaine concealed inside body | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-9d6d4dbb)
+- 2026-07-18 | `dailymirrorlk-5abd4b4a` | Supermarket fined Rs. 1Mn for selling Keeri Samba above MRP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-5abd4b4a)
+- 2026-07-18 | `dailymirrorlk-91b0d2e2` | Heat Index expected to reach caution level in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-91b0d2e2)
 - 2026-07-18 | `dailymirrorlk-45cfea6a` | US denies Iranian claims it hit civilian infrastructure in latest strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-45cfea6a)
 - 2026-07-18 | `dailymirrorlk-52b13f28` | West Indies legend Sobers dies aged 89 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-52b13f28)
 - 2026-07-18 | `tamilmirrorlk-8c811bec` | இஸ்ரேல் நாடாளுமன்றம் கலைப்பு; ஒக்டோபர் 27 இல்  தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-8c811bec)
+- 2026-07-18 | `adalk-31d35d6b` | වී මිලදී ගැනිමට සුළු ව්‍යාපාරිකයන්ට මිලියන 13596ක ඔඩපණ ණය දීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-31d35d6b)
 - 2026-07-18 | `adalk-bea5d919` | කැනඩාවේ ලැව් ගිනි නිසා ඇමෙරිකාවට එන දුමටත් බද්දක් අය කිරීමට සැරසෙන ට්‍රම්ප් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-bea5d919)
 - 2026-07-18 | `tamilmirrorlk-acb9cece` | சிறைச்சாலைத் திணைக்கள அதிகாரிகளுடன் ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-acb9cece)
 - 2026-07-18 | `tamilmirrorlk-b892093c` | ’எதிர்கால கல்வித் திட்டங்களில் தொழிற்கல்விக்கு முன்னுரிமை செலுத்தவேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-b892093c)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-18 | `dailyftlk-51b72c51` | SL-Myanmar strengthen collaboration in gem and tourism industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-51b72c51)
 - 2026-07-18 | `dailyftlk-05dd00a1` | Federation of Malaysian Sri Lankan Organisations to enhance tourism, investment links | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-05dd00a1)
 - 2026-07-18 | `dailyftlk-785401d0` | David Pieris Group to launch ‘Social Empowerment Drive’ in Batticaloa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-785401d0)
-- 2026-07-18 | `dailyftlk-a9b71f3e` | Former IGP C.D. Wickramaratne dies from gunshot injuries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-a9b71f3e)
-- 2026-07-18 | `dailyftlk-4ff8999c` | US, Sri Lanka discuss stronger trade and maritime security ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-4ff8999c)
-- 2026-07-18 | `dailyftlk-873cd10f` | Court orders arrest of Deputy Minister, NPP MP and four others over no-show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-873cd10f)
-- 2026-07-18 | `dailyftlk-371ade50` | Work begins on $ 143 m Japan funded Northern Anuradhapura Water Supply Project Phase II | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-371ade50)
-- 2026-07-18 | `dailyftlk-47e235e8` | Sri Lanka and Uzbekistan launch new framework for enhanced ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-47e235e8)
 
 ---
 

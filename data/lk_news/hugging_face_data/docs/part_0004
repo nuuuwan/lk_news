@@ -304486,6 +304486,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-935803d1",
+    "num": "dailymirrorlk-935803d1",
+    "date_str": "2026-07-17",
+    "description": "PTA accused granted bail after 15 years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PTA-accused-granted-bail-after-15-years/108-345937",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784299319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-5e4c04e4",
+    "num": "dailymirrorlk-5e4c04e4",
+    "date_str": "2026-07-17",
+    "description": "Dengue deaths in 2026 top 50, surpassing 2025\u2019s total of 29",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-deaths-in-2026-top-50-surpassing-2025s-total-of-29/108-345938",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784299816.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-dailymirrorlk-c7ebdf74",
     "num": "dailymirrorlk-c7ebdf74",
     "date_str": "2026-07-17",
@@ -304494,6 +304516,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784300206.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-dailymirrorlk-7367fc54",
+    "num": "dailymirrorlk-7367fc54",
+    "date_str": "2026-07-17",
+    "description": "British mother accused of abducting sons from American father in cross-border custody dispute",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-mother-accused-of-abducting-sons-from-American-father-in-cross-border-custody-dispute/108-345940",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784300403.0
   },
   {
     "doc_type": "lk_news",
@@ -305047,6 +305080,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-adalk-31d35d6b",
+    "num": "adalk-31d35d6b",
+    "date_str": "2026-07-18",
+    "description": "\u0dc0\u0dd3 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7 \u0dc3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 13596\u0d9a \u0d94\u0da9\u0db4\u0dab \u0dab\u0dba \u0daf\u0dd3\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0db8\u0dd2\u0dbd\u0daf\u0dd3-\u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7-\u0dc3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-13596\u0d9a-\u0d94\u0da9\u0db4\u0dab-\u0dab\u0dba-\u0daf\u0dd3\u0dbd\u0dcf/11-423317",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784342946.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-tamilmirrorlk-8c811bec",
     "num": "tamilmirrorlk-8c811bec",
     "date_str": "2026-07-18",
@@ -305077,5 +305121,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784347957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-91b0d2e2",
+    "num": "dailymirrorlk-91b0d2e2",
+    "date_str": "2026-07-18",
+    "description": "Heat Index expected to reach caution level in several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-Index-expected-to-reach-caution-level-in-several-areas/108-346001",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784361070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-5abd4b4a",
+    "num": "dailymirrorlk-5abd4b4a",
+    "date_str": "2026-07-18",
+    "description": "Supermarket fined Rs. 1Mn for selling Keeri Samba above MRP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supermarket-fined-Rs-1Mn-for-selling-Keeri-Samba-above-MRP/108-346002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784362425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-9d6d4dbb",
+    "num": "dailymirrorlk-9d6d4dbb",
+    "date_str": "2026-07-18",
+    "description": "Angolan woman nabbed at BIA with Rs. 10m cocaine concealed inside body",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Angolan-woman-nabbed-at-BIA-with-Rs-10m-cocaine-concealed-inside-body/108-346003",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784363334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-b20e857e",
+    "num": "dailymirrorlk-b20e857e",
+    "date_str": "2026-07-18",
+    "description": "5.0 magnitude earthquake hits eastern Turkey",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/5-0-magnitude-earthquake-hits-eastern-Turkey/108-346004",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784363874.0
   }
 ]
