@@ -305165,5 +305165,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784363874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-037ac704",
+    "num": "dailymirrorlk-037ac704",
+    "date_str": "2026-07-18",
+    "description": "Over 4,600 cases filed over mosquito breeding sites so far in 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-4-600-cases-filed-over-mosquito-breeding-sites-so-far-in-2026/108-346007",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784367469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-dailymirrorlk-a693aff7",
+    "num": "dailymirrorlk-a693aff7",
+    "date_str": "2026-07-18",
+    "description": "Trump threatens new Canada tariffs over fires sending \u2019filthy\u2019 air into US cities",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-threatens-new-Canada-tariffs-over-fires-sending-filthy-air-into-US-cities/107-346008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784368244.0
   }
 ]
