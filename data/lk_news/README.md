@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_16:15:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_18:04:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,103** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,105** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-18-dailymirrorlk-a693aff7",
-    "num": "dailymirrorlk-a693aff7",
+    "doc_id": "2026-07-18-dailymirrorlk-236d921d",
+    "num": "dailymirrorlk-236d921d",
     "date_str": "2026-07-18",
-    "description": "Trump threatens new Canada tariffs over fires sending \u2019filthy\u2019 air into US cities",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-threatens-new-Canada-tariffs-over-fires-sending-filthy-air-into-US-cities/107-346008",
+    "description": "Kuwait International Airport suspends operations temporarily",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-International-Airport-suspends-operations-temporarily/108-346011",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784368244.0
+    "time_ut": 1784376611.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-18 | `dailymirrorlk-236d921d` | Kuwait International Airport suspends operations temporarily | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-236d921d)
+- 2026-07-18 | `dailymirrorlk-03df0e4d` | Roshan Mahanama clarifies Dambulla Sixers role amid conflict of interest concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-03df0e4d)
 - 2026-07-18 | `dailymirrorlk-a693aff7` | Trump threatens new Canada tariffs over fires sending ’filthy’ air into US cities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-a693aff7)
 - 2026-07-18 | `dailymirrorlk-037ac704` | Over 4,600 cases filed over mosquito breeding sites so far in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-037ac704)
 - 2026-07-18 | `dailymirrorlk-b20e857e` | 5.0 magnitude earthquake hits eastern Turkey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-b20e857e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-18 | `dailyftlk-6c33406f` | Historical legacy and the roots of strategic caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-6c33406f)
 - 2026-07-18 | `dailyftlk-142fc0e0` | Unprecedented ascendency of US: World operates on Washington’s time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-142fc0e0)
 - 2026-07-18 | `dailyftlk-94400cdc` | China’s military modernisation in focus as PLA celebrates 99th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-94400cdc)
-- 2026-07-18 | `dailyftlk-a8220dc4` | Textile expo Intex and InMac  Sri Lanka 2026 from 5-7 August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-a8220dc4)
-- 2026-07-18 | `dailyftlk-51b72c51` | SL-Myanmar strengthen collaboration in gem and tourism industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-51b72c51)
 
 ---
 
