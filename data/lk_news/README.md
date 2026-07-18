@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19_00:05:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19_02:01:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,112** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,115** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-18-adalk-4b01ffd0",
-    "num": "adalk-4b01ffd0",
-    "date_str": "2026-07-18",
-    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7-\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1-\u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-423321",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1784393362.0
+    "doc_id": "2026-07-19-dailymirrorlk-32bd3c8d",
+    "num": "dailymirrorlk-32bd3c8d",
+    "date_str": "2026-07-19",
+    "description": "LPL 2026 kicks off in style!",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LPL-2026-kicks-off-in-style/108-346015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784404517.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-19 | `dailymirrorlk-32bd3c8d` | LPL 2026 kicks off in style! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-32bd3c8d)
+- 2026-07-19 | `dailymirrorlk-f444fb8d` | Spain training session cancelled before World Cup final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-f444fb8d)
+- 2026-07-19 | `tamilmirrorlk-88f446a6` | மூன்றாமிடத்துக்காக மோதும் பிரான்ஸ் - இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-88f446a6)
 - 2026-07-18 | `adalk-4b01ffd0` | රුසියාවේ ප්‍රමුඛතම සමාගමට යුක්රේන ඩ්‍රෝන ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-4b01ffd0)
 - 2026-07-18 | `adalk-be6b0ce6` | සී.ඩී. වික්‍රමරත්න මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන සඳුදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-be6b0ce6)
 - 2026-07-18 | `tamilmirrorlk-80180cdd` | House of Fashions உரிமையாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-80180cdd)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-18 | `dailymirrorlk-45cfea6a` | US denies Iranian claims it hit civilian infrastructure in latest strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-45cfea6a)
 - 2026-07-18 | `dailymirrorlk-52b13f28` | West Indies legend Sobers dies aged 89 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-52b13f28)
 - 2026-07-18 | `tamilmirrorlk-8c811bec` | இஸ்ரேல் நாடாளுமன்றம் கலைப்பு; ஒக்டோபர் 27 இல்  தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-8c811bec)
-- 2026-07-18 | `adalk-31d35d6b` | වී මිලදී ගැනිමට සුළු ව්‍යාපාරිකයන්ට මිලියන 13596ක ඔඩපණ ණය දීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-31d35d6b)
-- 2026-07-18 | `adalk-bea5d919` | කැනඩාවේ ලැව් ගිනි නිසා ඇමෙරිකාවට එන දුමටත් බද්දක් අය කිරීමට සැරසෙන ට්‍රම්ප් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-adalk-bea5d919)
-- 2026-07-18 | `tamilmirrorlk-acb9cece` | சிறைச்சாலைத் திணைக்கள அதிகாரிகளுடன் ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-acb9cece)
 
 ---
 
