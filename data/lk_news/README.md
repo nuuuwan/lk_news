@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_06:19:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_08:49:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,060** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,088** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-18-dailyftlk-3f8ee2bf",
-    "num": "dailyftlk-3f8ee2bf",
+    "doc_id": "2026-07-18-tamilmirrorlk-acb9cece",
+    "num": "tamilmirrorlk-acb9cece",
     "date_str": "2026-07-18",
-    "description": "The Asian century is here: Sri Lanka must decide and define its course \u2013 Ranil",
-    "url_metadata": "https://www.ft.lk/opinion/The-Asian-century-is-here-Sri-Lanka-must-decide-and-define-its-course-Ranil/14-794813",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1784333771.0
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380094",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784341420.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-18 | `tamilmirrorlk-acb9cece` | சிறைச்சாலைத் திணைக்கள அதிகாரிகளுடன் ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-acb9cece)
+- 2026-07-18 | `tamilmirrorlk-b892093c` | ’எதிர்கால கல்வித் திட்டங்களில் தொழிற்கல்விக்கு முன்னுரிமை செலுத்தவேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-b892093c)
+- 2026-07-18 | `dailymirrorlk-b3e8e7f6` | SLNS Vijayabahu rescues man drifting off Pothuvil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-b3e8e7f6)
 - 2026-07-18 | `dailyftlk-3f8ee2bf` | The Asian century is here: Sri Lanka must decide and define its course – Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-3f8ee2bf)
 - 2026-07-18 | `dailyftlk-6c33406f` | Historical legacy and the roots of strategic caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-6c33406f)
 - 2026-07-18 | `dailyftlk-142fc0e0` | Unprecedented ascendency of US: World operates on Washington’s time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-142fc0e0)
@@ -57,10 +60,7 @@ A collection of lk_news documents.
 - 2026-07-18 | `dailyftlk-f216c14d` | India extends Rs. 600 m Grant Assistance for supply of medical equipment to Deniyaya Base Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-f216c14d)
 - 2026-07-18 | `dailyftlk-28bcaa05` | Advanced laboratory equipment to strengthen chemicals management capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-28bcaa05)
 - 2026-07-18 | `tamilmirrorlk-3cee08f8` | ஜனாதிபதியின் செயலாளருடன் மாற்றுத்திறனாளி சமூகம் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-3cee08f8)
-- 2026-07-17 | `islandlk-f66d035c` | NCE strengthens strategic partnership with Ernst & Young | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-f66d035c)
-- 2026-07-17 | `islandlk-7fc0401c` | Solo Sri Lankan awarded platinum excellence in tourism business growth and market expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-7fc0401c)
-- 2026-07-17 | `islandlk-039de074` | CEAT Kelani strengthens SUV tyre portfolio with two new high-performance additions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-039de074)
-- 2026-07-17 | `islandlk-fe8541b0` | Sri Lanka Corporate Director Summit 2026 set for July 22 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-fe8541b0)
+- 2026-07-17 | `dailymirrorlk-1174188d` | The Impact of Killing;  Collision of Conscience; Case Vignettes from the Eelam War | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-1174188d)
 
 ---
 
