@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_04:02:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_06:19:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,036** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,060** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-17-dailymirrorlk-c7ebdf74",
-    "num": "dailymirrorlk-c7ebdf74",
-    "date_str": "2026-07-17",
-    "description": "Central Province Governor says no response yet from President on resignation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Province-Governor-says-no-response-yet-from-President-on-resignation/108-345939",
+    "doc_id": "2026-07-18-dailyftlk-3f8ee2bf",
+    "num": "dailyftlk-3f8ee2bf",
+    "date_str": "2026-07-18",
+    "description": "The Asian century is here: Sri Lanka must decide and define its course \u2013 Ranil",
+    "url_metadata": "https://www.ft.lk/opinion/The-Asian-century-is-here-Sri-Lanka-must-decide-and-define-its-course-Ranil/14-794813",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784300206.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784333771.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-07-17 | `dailymirrorlk-c7ebdf74` | Central Province Governor says no response yet from President on resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-c7ebdf74)
-- 2026-07-17 | `dailymirrorlk-3e2ccb43` | President discusses Negombo Prison unrest with prison officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-3e2ccb43)
-- 2026-07-17 | `dailymirrorlk-27fe7007` | Kataragama to become ‘Polythene Free Sacred Zone - 2030’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-27fe7007)
-- 2026-07-17 | `dailymirrorlk-9107927b` | Sri Lanka calls for stronger regional cooperation at BIMSTEC Security Chiefs’ Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-9107927b)
-- 2026-07-17 | `dailymirrorlk-70d78324` | Sri Lanka leads world in humane dog management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-70d78324)
-- 2026-07-17 | `dailymirrorlk-9bad3f43` | CSE ends lower as turnover falls to year’s lowest, ASPI holds key support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-9bad3f43)
-- 2026-07-17 | `dailymirrorlk-4ff8999c` | US, Sri Lanka discuss stronger trade and maritime security ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-4ff8999c)
-- 2026-07-17 | `tamilmirrorlk-3e78d17a` | பிரதியமைச்சர், எம்.பியை கைது செய்ய உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-tamilmirrorlk-3e78d17a)
-- 2026-07-17 | `dailymirrorlk-7ab81c9f` | Ring attached to finger bone discovered at Chemmani Mass Grave | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-7ab81c9f)
-- 2026-07-17 | `dailymirrorlk-cafce47a` | Court orders arrest of Deputy Minister Eranga Gunasekara, MP Jagath Manuwarna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-cafce47a)
-- 2026-07-17 | `tamilmirrorlk-b87d7be0` | ஒரு கோடி ரூபாய் பெறுமதியான சிகரெட்டுகள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-tamilmirrorlk-b87d7be0)
-- 2026-07-17 | `dailymirrorlk-344e11eb` | US widens Iran strikes as Tehran hits Gulf states over Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-344e11eb)
-- 2026-07-17 | `adalk-54a60f8a` | පාපන්දු ලෝක කුසලානයේ ජයග්‍රාහකයන්ට මුදු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-54a60f8a)
-- 2026-07-17 | `adalk-7a830345` | ආඳාදොල හා අකුරළ උප දුම්රිය ස්ථාන යලි විවෘත වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-7a830345)
-- 2026-07-17 | `dailymirrorlk-de4cc1d5` | Court to hear intervention petitions in Suresh Sallay’s writ petition on August 4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-de4cc1d5)
-- 2026-07-17 | `tamilmirrorlk-aa0f7aa7` | மடியில் அமர்ந்து கொஞ்சிய பொலிஸூக்கு நடந்தது என்ன தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-tamilmirrorlk-aa0f7aa7)
-- 2026-07-17 | `adalk-49219a59` | අස්වැසුම ප්‍රතිලාභීන්ගේ මුදල් වංචා කරන ජාවාරමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-49219a59)
-- 2026-07-17 | `dailymirrorlk-148c1c3c` | Jacqueline Fernandez launches AI digital avatar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-148c1c3c)
-- 2026-07-17 | `adalk-fc81fe8a` | වරුණ ජයසුන්දර නැගෙනහිරින් ගලවා ළමා කාන්තා කාර්යාංශයට ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-adalk-fc81fe8a)
-- 2026-07-17 | `dailymirrorlk-f33bd797` | Trump alleges China meddled in 2020 election and questions voting security ahead of midterms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-dailymirrorlk-f33bd797)
+- 2026-07-18 | `dailyftlk-3f8ee2bf` | The Asian century is here: Sri Lanka must decide and define its course – Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-3f8ee2bf)
+- 2026-07-18 | `dailyftlk-6c33406f` | Historical legacy and the roots of strategic caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-6c33406f)
+- 2026-07-18 | `dailyftlk-142fc0e0` | Unprecedented ascendency of US: World operates on Washington’s time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-142fc0e0)
+- 2026-07-18 | `dailyftlk-94400cdc` | China’s military modernisation in focus as PLA celebrates 99th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-94400cdc)
+- 2026-07-18 | `dailyftlk-a8220dc4` | Textile expo Intex and InMac  Sri Lanka 2026 from 5-7 August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-a8220dc4)
+- 2026-07-18 | `dailyftlk-51b72c51` | SL-Myanmar strengthen collaboration in gem and tourism industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-51b72c51)
+- 2026-07-18 | `dailyftlk-05dd00a1` | Federation of Malaysian Sri Lankan Organisations to enhance tourism, investment links | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-05dd00a1)
+- 2026-07-18 | `dailyftlk-785401d0` | David Pieris Group to launch ‘Social Empowerment Drive’ in Batticaloa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-785401d0)
+- 2026-07-18 | `dailyftlk-a9b71f3e` | Former IGP C.D. Wickramaratne dies from gunshot injuries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-a9b71f3e)
+- 2026-07-18 | `dailyftlk-4ff8999c` | US, Sri Lanka discuss stronger trade and maritime security ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-4ff8999c)
+- 2026-07-18 | `dailyftlk-873cd10f` | Court orders arrest of Deputy Minister, NPP MP and four others over no-show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-873cd10f)
+- 2026-07-18 | `dailyftlk-371ade50` | Work begins on $ 143 m Japan funded Northern Anuradhapura Water Supply Project Phase II | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-371ade50)
+- 2026-07-18 | `dailyftlk-47e235e8` | Sri Lanka and Uzbekistan launch new framework for enhanced ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-47e235e8)
+- 2026-07-18 | `dailyftlk-f216c14d` | India extends Rs. 600 m Grant Assistance for supply of medical equipment to Deniyaya Base Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-f216c14d)
+- 2026-07-18 | `dailyftlk-28bcaa05` | Advanced laboratory equipment to strengthen chemicals management capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-28bcaa05)
+- 2026-07-18 | `tamilmirrorlk-3cee08f8` | ஜனாதிபதியின் செயலாளருடன் மாற்றுத்திறனாளி சமூகம் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-3cee08f8)
+- 2026-07-17 | `islandlk-f66d035c` | NCE strengthens strategic partnership with Ernst & Young | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-f66d035c)
+- 2026-07-17 | `islandlk-7fc0401c` | Solo Sri Lankan awarded platinum excellence in tourism business growth and market expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-7fc0401c)
+- 2026-07-17 | `islandlk-039de074` | CEAT Kelani strengthens SUV tyre portfolio with two new high-performance additions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-039de074)
+- 2026-07-17 | `islandlk-fe8541b0` | Sri Lanka Corporate Director Summit 2026 set for July 22 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-17-islandlk-fe8541b0)
 
 ---
 

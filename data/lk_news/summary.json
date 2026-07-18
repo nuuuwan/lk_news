@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-18 04:01:17",
-  "n_docs": 124036,
+  "time_updated": "2026-07-18 06:18:58",
+  "n_docs": 124060,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124036,
+  "n_docs_with_text": 124060,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-17",
-  "dataset_size": 1937557315,
+  "date_str_max": "2026-07-18",
+  "dataset_size": 1937671736,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-17-dailymirrorlk-c7ebdf74",
-    "num": "dailymirrorlk-c7ebdf74",
-    "date_str": "2026-07-17",
-    "description": "Central Province Governor says no response yet from President on resignation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Province-Governor-says-no-response-yet-from-President-on-resignation/108-345939",
+    "doc_id": "2026-07-18-dailyftlk-3f8ee2bf",
+    "num": "dailyftlk-3f8ee2bf",
+    "date_str": "2026-07-18",
+    "description": "The Asian century is here: Sri Lanka must decide and define its course \u2013 Ranil",
+    "url_metadata": "https://www.ft.lk/opinion/The-Asian-century-is-here-Sri-Lanka-must-decide-and-define-its-course-Ranil/14-794813",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784300206.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784333771.0
   }
 }
