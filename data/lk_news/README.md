@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_20:11:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_22:04:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,106** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,109** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-18-dailymirrorlk-2776dc58",
-    "num": "dailymirrorlk-2776dc58",
+    "doc_id": "2026-07-18-tamilmirrorlk-80180cdd",
+    "num": "tamilmirrorlk-80180cdd",
     "date_str": "2026-07-18",
-    "description": "House of Fashions owner remanded after Customs arrest",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/House-of-Fashions-owner-remanded-after-Customs-arrest/108-346012",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784378520.0
+    "description": "House of Fashions \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/House-of-Fashions-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380097",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784392163.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-18 | `tamilmirrorlk-80180cdd` | House of Fashions உரிமையாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-80180cdd)
+- 2026-07-18 | `dailymirrorlk-72de362d` | Over 700 arrested in islandwide ‘Ratama Ekata’ operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-72de362d)
 - 2026-07-18 | `dailymirrorlk-2776dc58` | House of Fashions owner remanded after Customs arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-2776dc58)
 - 2026-07-18 | `dailymirrorlk-236d921d` | Kuwait International Airport suspends operations temporarily | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-236d921d)
 - 2026-07-18 | `dailymirrorlk-03df0e4d` | Roshan Mahanama clarifies Dambulla Sixers role amid conflict of interest concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-03df0e4d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-18 | `tamilmirrorlk-b892093c` | ’எதிர்கால கல்வித் திட்டங்களில் தொழிற்கல்விக்கு முன்னுரிமை செலுத்தவேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-tamilmirrorlk-b892093c)
 - 2026-07-18 | `dailymirrorlk-b3e8e7f6` | SLNS Vijayabahu rescues man drifting off Pothuvil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailymirrorlk-b3e8e7f6)
 - 2026-07-18 | `dailyftlk-3f8ee2bf` | The Asian century is here: Sri Lanka must decide and define its course – Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-3f8ee2bf)
-- 2026-07-18 | `dailyftlk-6c33406f` | Historical legacy and the roots of strategic caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-6c33406f)
-- 2026-07-18 | `dailyftlk-142fc0e0` | Unprecedented ascendency of US: World operates on Washington’s time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-18-dailyftlk-142fc0e0)
 
 ---
 
