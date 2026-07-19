@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_02:06:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_04:03:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,184** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,209** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-19-tamilmirrorlk-b4fd3b2a",
-    "num": "tamilmirrorlk-b4fd3b2a",
-    "date_str": "2026-07-19",
-    "description": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf, \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-380173",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784478561.0
+    "doc_id": "2026-07-20-dailyftlk-376e7756",
+    "num": "dailyftlk-376e7756",
+    "date_str": "2026-07-20",
+    "description": "Tintin to Tranquility Base: New race for the moon",
+    "url_metadata": "https://www.ft.lk/columns/Tintin-to-Tranquility-Base-New-race-for-the-moon/4-794839",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784499594.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-07-19 | `tamilmirrorlk-b4fd3b2a` | மாத்தறையில் கோர விபத்து; இருவர் பலி, ஐவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-b4fd3b2a)
-- 2026-07-19 | `tamilmirrorlk-1c24d39f` | முட்டை விலை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-1c24d39f)
-- 2026-07-19 | `adalk-c4bda990` | පොඩි මැණිකෙගේ පාපුවරුවේ ගිය තුර්කි තරුණිය දුම්රියෙන් වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-adalk-c4bda990)
-- 2026-07-19 | `dailymirrorlk-58f1a058` | Egg prices to increase from tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-58f1a058)
-- 2026-07-19 | `dailymirrorlk-7c49ed76` | Iran attacks US Gulf allies, causing a fire at Kuwait power plant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-7c49ed76)
-- 2026-07-19 | `tamilmirrorlk-1c286eac` | இந்தியா - இலங்கை வரி உடன்படிக்கை மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-1c286eac)
-- 2026-07-19 | `dailymirrorlk-e99d9181` | India amends tax treaty with Sri Lanka to plug avoidance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-e99d9181)
-- 2026-07-19 | `tamilmirrorlk-3e0128e4` | மெஸ்ஸியின் ஆர்ஜென்டினாவை வீழ்த்துமா ஸ்பெய்னின் அசுரப் படை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-3e0128e4)
-- 2026-07-19 | `tamilmirrorlk-06bd99df` | மெஸ்ஸியும் லமின் யமலும்: வைரலான   புகைப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-06bd99df)
-- 2026-07-19 | `dailymirrorlk-264919a6` | SLS certification mandatory for sanitary napkins from October 8 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-264919a6)
-- 2026-07-19 | `tamilmirrorlk-d3099fb3` | சஜித்தை சந்திக்க  ரணில் செல்கிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-d3099fb3)
-- 2026-07-19 | `tamilmirrorlk-b97db826` | ஓடிப் பார்த்து  மோட்டார் சைக்கிள்களை அபேஸ் செய்த நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-b97db826)
-- 2026-07-19 | `tamilmirrorlk-ce921026` | ரூ. 160 மில்லியன் மோசடி: முன்னாள் ஐ.தே.க. நகர சபை உறுப்பினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-ce921026)
-- 2026-07-19 | `dailymirrorlk-376f3fca` | Russia launches major ballistic missile attack on Kyiv | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-376f3fca)
-- 2026-07-19 | `dailymirrorlk-9bf009eb` | Former UNP Councillor arrested over Rs. 160 million fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-9bf009eb)
-- 2026-07-19 | `tamilmirrorlk-d89693b3` | மயானத்தில் துப்பாக்கிச் சூடு: ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-d89693b3)
-- 2026-07-19 | `dailymirrorlk-32122ab6` | Man injured in Dehiwala Cemetery shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-32122ab6)
-- 2026-07-19 | `tamilmirrorlk-335d2793` | சீன சிகரெட்டுகளுடன் இந்தியர் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-335d2793)
-- 2026-07-19 | `adalk-1275005f` | බිත්තර මිල ඉහළ යාමට රජය වගකිව යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-adalk-1275005f)
-- 2026-07-19 | `tamilmirrorlk-645dfe12` | பாடசாலைக்கு திங்கட்கிழமை (20)  விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-645dfe12)
+- 2026-07-20 | `dailyftlk-376e7756` | Tintin to Tranquility Base: New race for the moon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-376e7756)
+- 2026-07-20 | `dailymirrorlk-e2f368d9` | World Cup 2026: Spain win the World Cup again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-e2f368d9)
+- 2026-07-20 | `dailymirrorlk-9eba4927` | The Sahodarayas We No Longer Have | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-9eba4927)
+- 2026-07-20 | `dailymirrorlk-5e15c289` | Mr. President, popularity must now bring results! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-5e15c289)
+- 2026-07-20 | `dailymirrorlk-65de5382` | Worrying observations during Kataragama Pada Yatra | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-65de5382)
+- 2026-07-20 | `dailymirrorlk-56f22d85` | Call to resolve shortage of JPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-56f22d85)
+- 2026-07-20 | `dailymirrorlk-bfc78286` | Sri Lanka to deploy AI-driven ‘horizontal lending rail’ to democratise credit access | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-bfc78286)
+- 2026-07-20 | `tamilmirrorlk-9c0cf860` | மெஸ்ஸியின் ஆர்ஜென்டீனாவை வீழ்த்தி சம்பியனானது ஸ்பெய்ன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-9c0cf860)
+- 2026-07-20 | `dailymirrorlk-8bf95abb` | Banks slammed for archaic collateral lending as regulators demand shift to risk-based models | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-8bf95abb)
+- 2026-07-20 | `dailyftlk-eeffd13e` | Kunming’s eternal spring: A vision of shared future for the Global South | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-eeffd13e)
+- 2026-07-20 | `dailymirrorlk-ff4444e6` | Vietnam envoy dubs SL a ‘hidden gem in the Indian Ocean’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-ff4444e6)
+- 2026-07-20 | `dailymirrorlk-07a0b72d` | LB finance maintains growth momentum with Rs. 7bn pre-tax profit in 1Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-07a0b72d)
+- 2026-07-20 | `dailymirrorlk-a8a4da4a` | Rate hold likely at tomorrow’s CBSL review despite ME tensions - FCR | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-a8a4da4a)
+- 2026-07-20 | `dailymirrorlk-f17175a3` | CA Sri Lanka’s 5th Annual Economic and Tax Symposium charts path from resilience to revival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-f17175a3)
+- 2026-07-20 | `dailymirrorlk-37548707` | HNB retains Euromoney’s Best Bank for Large Corporates title | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-37548707)
+- 2026-07-20 | `dailymirrorlk-536767a2` | Radisson Blu Resort Galle appoints Medhatithi Bhattacharjee as GM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-536767a2)
+- 2026-07-20 | `dailymirrorlk-172f9687` | Sampath Bank Hosts Fifth SME Business Circle in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-172f9687)
+- 2026-07-20 | `dailymirrorlk-f05869eb` | CMA Sri Lanka National Management Accounting Conference  2026 commences today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-f05869eb)
+- 2026-07-20 | `dailymirrorlk-3f50adb2` | Global banking, governance, regulatory to headline Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-3f50adb2)
+- 2026-07-20 | `dailymirrorlk-d77afa94` | LCB Finance opens Wellawattta premier branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-d77afa94)
 
 ---
 
