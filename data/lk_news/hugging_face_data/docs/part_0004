@@ -301769,6 +301769,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-15-islandlk-c07e1aa7",
+    "num": "islandlk-c07e1aa7",
+    "date_str": "2026-07-15",
+    "description": "The strange case of Kanjipani Imran",
+    "url_metadata": "http://island.lk/the-strange-case-of-kanjipani-imran/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784128800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-15-dailymirrorlk-0052da0c",
     "num": "dailymirrorlk-0052da0c",
     "date_str": "2026-07-15",
@@ -304541,6 +304552,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-islandlk-58d81606",
+    "num": "islandlk-58d81606",
+    "date_str": "2026-07-17",
+    "description": "CSE sees lack of investor participation, market turnover remains thin",
+    "url_metadata": "http://island.lk/cse-sees-lack-of-investor-participation-market-turnover-remains-thin/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784302260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-17-islandlk-ec9b038a",
+    "num": "islandlk-ec9b038a",
+    "date_str": "2026-07-17",
+    "description": "Successful government securities auctions anchor yield curve amid subdued trading",
+    "url_metadata": "http://island.lk/successful-government-securities-auctions-anchor-yield-curve-amid-subdued-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784302260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-islandlk-f2ac80de",
     "num": "islandlk-f2ac80de",
     "date_str": "2026-07-17",
@@ -305135,6 +305168,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-33f2ada4",
+    "num": "islandlk-33f2ada4",
+    "date_str": "2026-07-18",
+    "description": "Sri Lanka\u2019s fragmented opposition (1947-64) and its first Leader of the Opposition",
+    "url_metadata": "http://island.lk/sri-lankas-fragmented-opposition-1947-64-and-its-first-leader-of-the-opposition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784357460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-75df3375",
+    "num": "islandlk-75df3375",
+    "date_str": "2026-07-18",
+    "description": "Single spark that fired the Aragalaya",
+    "url_metadata": "http://island.lk/single-spark-that-fired-the-aragalaya/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784357460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-6cbd5add",
+    "num": "islandlk-6cbd5add",
+    "date_str": "2026-07-18",
+    "description": "Last day in office in the public service",
+    "url_metadata": "http://island.lk/last-day-in-office-in-the-public-service/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784357520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-39f6ec6b",
+    "num": "islandlk-39f6ec6b",
+    "date_str": "2026-07-18",
+    "description": "Should sanctions extend to a general\u2019s memoir?",
+    "url_metadata": "http://island.lk/should-sanctions-extend-to-a-generals-memoir/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784357820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-dailymirrorlk-91b0d2e2",
     "num": "dailymirrorlk-91b0d2e2",
     "date_str": "2026-07-18",
@@ -305201,6 +305278,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-0997b459",
+    "num": "islandlk-0997b459",
+    "date_str": "2026-07-18",
+    "description": "The United States celebrated\u00a0 250 years of freedom on the Fourth of July in spectacular style",
+    "url_metadata": "http://island.lk/the-united-states-celebrated-250-years-of-freedom-on-the-fourth-of-july-in-spectacular-style/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784367660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-bee10230",
+    "num": "islandlk-bee10230",
+    "date_str": "2026-07-18",
+    "description": "Erdo\u011fan\u2019s New Republic",
+    "url_metadata": "http://island.lk/erdogans-new-republic/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784367720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-dailymirrorlk-a693aff7",
     "num": "dailymirrorlk-a693aff7",
     "date_str": "2026-07-18",
@@ -305209,6 +305308,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784368244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-9415d823",
+    "num": "islandlk-9415d823",
+    "date_str": "2026-07-18",
+    "description": "Sumith Liyanage \u2013 boxing legend of Olympic fame",
+    "url_metadata": "http://island.lk/sumith-liyanage-boxing-legend-of-olympic-fame/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784369880.0
   },
   {
     "doc_type": "lk_news",
@@ -305253,6 +305363,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784385672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-743acbc3",
+    "num": "islandlk-743acbc3",
+    "date_str": "2026-07-18",
+    "description": "MIWAYZ redefines  Sri Lankan urban mobility with landmark launch",
+    "url_metadata": "http://island.lk/miwayz-redefines-sri-lankan-urban-mobility-with-landmark-launch/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784390100.0
   },
   {
     "doc_type": "lk_news",
