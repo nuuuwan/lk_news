@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-19 16:15:49",
-  "n_docs": 124166,
+  "time_updated": "2026-07-19 18:04:15",
+  "n_docs": 124174,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124166,
+  "n_docs_with_text": 124174,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-19",
-  "dataset_size": 1939420364,
+  "dataset_size": 1939545249,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-19-tamilmirrorlk-335d2793",
-    "num": "tamilmirrorlk-335d2793",
+    "doc_id": "2026-07-19-dailymirrorlk-264919a6",
+    "num": "dailymirrorlk-264919a6",
     "date_str": "2026-07-19",
-    "description": "\u0b9a\u0bc0\u0ba9 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380138",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784456411.0
+    "description": "SLS certification mandatory for sanitary napkins from October 8",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLS-certification-mandatory-for-sanitary-napkins-from-October-8/108-346030",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784464007.0
   }
 }
