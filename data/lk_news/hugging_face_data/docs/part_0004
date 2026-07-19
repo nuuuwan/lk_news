@@ -305968,5 +305968,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784464007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-06bd99df",
+    "num": "tamilmirrorlk-06bd99df",
+    "date_str": "2026-07-19",
+    "description": "\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb2\u0bae\u0bbf\u0ba9\u0bcd \u0baf\u0bae\u0bb2\u0bc1\u0bae\u0bcd: \u0bb5\u0bc8\u0bb0\u0bb2\u0bbe\u0ba9   \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bb2\u0bae\u0bbf\u0ba9\u0bcd-\u0baf\u0bae\u0bb2\u0bc1\u0bae\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb2\u0bbe\u0ba9-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd/44-380166",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784464324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-3e0128e4",
+    "num": "tamilmirrorlk-3e0128e4",
+    "date_str": "2026-07-19",
+    "description": "\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe\u0bb5\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bcd\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0b9a\u0bc1\u0bb0\u0baa\u0bcd \u0baa\u0b9f\u0bc8?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b86\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe\u0bb5\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe-\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bcd\u0ba9\u0bbf\u0ba9\u0bcd-\u0b85\u0b9a\u0bc1\u0bb0\u0baa\u0bcd-\u0baa\u0b9f\u0bc8/44-380169",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784465938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-dailymirrorlk-e99d9181",
+    "num": "dailymirrorlk-e99d9181",
+    "date_str": "2026-07-19",
+    "description": "India amends tax treaty with Sri Lanka to plug avoidance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-amends-tax-treaty-with-Sri-Lanka-to-plug-avoidance/108-346031",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784470048.0
   }
 ]

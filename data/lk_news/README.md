@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19_18:05:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19_20:14:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,174** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,177** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-19-dailymirrorlk-264919a6",
-    "num": "dailymirrorlk-264919a6",
+    "doc_id": "2026-07-19-dailymirrorlk-e99d9181",
+    "num": "dailymirrorlk-e99d9181",
     "date_str": "2026-07-19",
-    "description": "SLS certification mandatory for sanitary napkins from October 8",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLS-certification-mandatory-for-sanitary-napkins-from-October-8/108-346030",
+    "description": "India amends tax treaty with Sri Lanka to plug avoidance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-amends-tax-treaty-with-Sri-Lanka-to-plug-avoidance/108-346031",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784464007.0
+    "time_ut": 1784470048.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-19 | `dailymirrorlk-e99d9181` | India amends tax treaty with Sri Lanka to plug avoidance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-e99d9181)
+- 2026-07-19 | `tamilmirrorlk-3e0128e4` | மெஸ்ஸியின் ஆர்ஜென்டினாவை வீழ்த்துமா ஸ்பெய்னின் அசுரப் படை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-3e0128e4)
+- 2026-07-19 | `tamilmirrorlk-06bd99df` | மெஸ்ஸியும் லமின் யமலும்: வைரலான   புகைப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-06bd99df)
 - 2026-07-19 | `dailymirrorlk-264919a6` | SLS certification mandatory for sanitary napkins from October 8 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-264919a6)
 - 2026-07-19 | `tamilmirrorlk-d3099fb3` | சஜித்தை சந்திக்க  ரணில் செல்கிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-d3099fb3)
 - 2026-07-19 | `tamilmirrorlk-b97db826` | ஓடிப் பார்த்து  மோட்டார் சைக்கிள்களை அபேஸ் செய்த நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-b97db826)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-19 | `tamilmirrorlk-7a2bd9e0` | விபத்தில் குடும்பஸ்தர் பலி; ’போதை’ சாரதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-7a2bd9e0)
 - 2026-07-19 | `tamilmirrorlk-697d138b` | குப்பைகளை  கண்காணிக்க ‘4G’ கமரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-697d138b)
 - 2026-07-19 | `adalk-6cba263c` | රු. කෝටි හතරක කොකේන් ගිල පැමිණි කාන්තාවක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-adalk-6cba263c)
-- 2026-07-19 | `tamilmirrorlk-d5e4c661` | தங்கம்  அடகு வைப்பு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-d5e4c661)
-- 2026-07-19 | `dailymirrorlk-6cfb4cd5` | Andrew Tate and brother arrested in US after more charges laid against them in UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-dailymirrorlk-6cfb4cd5)
-- 2026-07-19 | `tamilmirrorlk-e955bbc7` | உலகக் கோப்பையை முத்தமிடப்போவது யார்?: காலி முகத்திடலில் நேரலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-19-tamilmirrorlk-e955bbc7)
 
 ---
 

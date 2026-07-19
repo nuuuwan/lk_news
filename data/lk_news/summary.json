@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-19 18:04:15",
-  "n_docs": 124174,
+  "time_updated": "2026-07-19 20:13:16",
+  "n_docs": 124177,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124174,
+  "n_docs_with_text": 124177,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-19",
-  "dataset_size": 1939545249,
+  "dataset_size": 1939629090,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-19-dailymirrorlk-264919a6",
-    "num": "dailymirrorlk-264919a6",
+    "doc_id": "2026-07-19-dailymirrorlk-e99d9181",
+    "num": "dailymirrorlk-e99d9181",
     "date_str": "2026-07-19",
-    "description": "SLS certification mandatory for sanitary napkins from October 8",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLS-certification-mandatory-for-sanitary-napkins-from-October-8/108-346030",
+    "description": "India amends tax treaty with Sri Lanka to plug avoidance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-amends-tax-treaty-with-Sri-Lanka-to-plug-avoidance/108-346031",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784464007.0
+    "time_ut": 1784470048.0
   }
 }
