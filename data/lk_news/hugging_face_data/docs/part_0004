@@ -256163,6 +256163,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-7bc6491d",
+    "num": "dailymirrorlk-7bc6491d",
+    "date_str": "2026-06-23",
+    "description": "Messi has one last shot: Mbapp\u00e9 leads Golden Boot race into World Cup final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-has-one-last-shot-Mbapp\u00e9-leads-Golden-Boot-race-into-World-Cup-final/108-343671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782194098.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-dailymirrorlk-c1bcb2a2",
     "num": "dailymirrorlk-c1bcb2a2",
     "date_str": "2026-06-23",
@@ -305388,6 +305399,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-adalk-3c552169",
+    "num": "adalk-3c552169",
+    "date_str": "2026-07-18",
+    "description": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dc3\u0dd3.\u0da7\u0dd3. \u0dc3\u0dca\u0d9a\u0dd1\u0db1\u0dca \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dc3\u0dd3-\u0da7\u0dd3--\u0dc3\u0dca\u0d9a\u0dd1\u0db1\u0dca-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/11-423319",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784392664.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-adalk-be6b0ce6",
     "num": "adalk-be6b0ce6",
     "date_str": "2026-07-18",
@@ -305440,5 +305462,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784404517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-dailymirrorlk-8c25eb91",
+    "num": "dailymirrorlk-8c25eb91",
+    "date_str": "2026-07-19",
+    "description": "Saka hat-trick powers England to 6-4 win over France in World Cup thriller",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Saka-hat-trick-powers-England-to-6-4-win-over-France-in-World-Cup-thriller/108-346017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784428194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-121162df",
+    "num": "tamilmirrorlk-121162df",
+    "date_str": "2026-07-19",
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0b85\u0bae\u0bb0\u0ba9\u0bcd, \u0bb0\u0bbe\u0baf\u0ba9\u0bcd, \u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9c\u0bbe \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bc8-\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1-\u0b85\u0bae\u0bb0\u0ba9\u0bcd-\u0bb0\u0bbe\u0baf\u0ba9\u0bcd-\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9c\u0bbe-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-380101",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784430590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-10e03497",
+    "num": "tamilmirrorlk-10e03497",
+    "date_str": "2026-07-19",
+    "description": "\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bc8 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0baa\u0bcd\u0baa\u0bc7",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bae\u0bc6\u0bb8\u0bcd\u0bb8\u0bbf\u0baf\u0bc8-\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0bae\u0baa\u0bcd\u0baa\u0bc7/44-380102",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784430928.0
   }
 ]
