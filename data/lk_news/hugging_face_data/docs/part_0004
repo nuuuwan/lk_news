@@ -305872,6 +305872,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-19-adalk-1275005f",
+    "num": "adalk-1275005f",
+    "date_str": "2026-07-19",
+    "description": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8\u0da7 \u0dbb\u0da2\u0dba \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0db8\u0dd2\u0dbd-\u0d89\u0dc4\u0dc5-\u0dba\u0dcf\u0db8\u0da7-\u0dbb\u0da2\u0dba-\u0dc0\u0d9c\u0d9a\u0dd2\u0dc0-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-423326",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784456391.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-19-tamilmirrorlk-335d2793",
     "num": "tamilmirrorlk-335d2793",
     "date_str": "2026-07-19",
@@ -306001,5 +306012,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784470048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-1c286eac",
+    "num": "tamilmirrorlk-1c286eac",
+    "date_str": "2026-07-19",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bb0\u0bbf \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb5\u0bb0\u0bbf-\u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-380170",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784472611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-dailymirrorlk-7c49ed76",
+    "num": "dailymirrorlk-7c49ed76",
+    "date_str": "2026-07-19",
+    "description": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-attacks-US-Gulf-allies-causing-a-fire-at-Kuwait-power-plant/108-346032",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784475898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-dailymirrorlk-58f1a058",
+    "num": "dailymirrorlk-58f1a058",
+    "date_str": "2026-07-19",
+    "description": "Egg prices to increase from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Egg-prices-to-increase-from-tomorrow/108-346033",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784476062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-adalk-c4bda990",
+    "num": "adalk-c4bda990",
+    "date_str": "2026-07-19",
+    "description": "\u0db4\u0ddc\u0da9\u0dd2 \u0db8\u0dd0\u0dab\u0dd2\u0d9a\u0dd9\u0d9c\u0dda \u0db4\u0dcf\u0db4\u0dd4\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0d9c\u0dd2\u0dba \u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2 \u0dad\u0dbb\u0dd4\u0dab\u0dd2\u0dba \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0da9\u0dd2-\u0db8\u0dd0\u0dab\u0dd2\u0d9a\u0dd9\u0d9c\u0dda-\u0db4\u0dcf\u0db4\u0dd4\u0dc0\u0dbb\u0dd4\u0dc0\u0dda-\u0d9c\u0dd2\u0dba-\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2-\u0dad\u0dbb\u0dd4\u0dab\u0dd2\u0dba-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/11-423329",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784476387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-1c24d39f",
+    "num": "tamilmirrorlk-1c24d39f",
+    "date_str": "2026-07-19",
+    "description": "\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/175-380172",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784477970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-tamilmirrorlk-b4fd3b2a",
+    "num": "tamilmirrorlk-b4fd3b2a",
+    "date_str": "2026-07-19",
+    "description": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf, \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-380173",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784478561.0
   }
 ]
