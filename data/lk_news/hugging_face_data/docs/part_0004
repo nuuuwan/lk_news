@@ -307313,6 +307313,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-adalk-92524fc2",
+    "num": "adalk-92524fc2",
+    "date_str": "2026-07-20",
+    "description": "\u0d86\u0dc4\u0dcf\u0dbb \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca \u0da0\u0dd3\u0db1\u0dba\u0dda \u0d89\u0dc4\u0dc5\u0db8 \u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0daf\u0dd2\u0db1\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0dc4\u0dcf\u0dbb-\u0db6\u0dd9\u0daf\u0dcf-\u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca-\u0da0\u0dd3\u0db1\u0dba\u0dda-\u0d89\u0dc4\u0dc5\u0db8-\u0dc3\u0dcf\u0dc4\u0dd2\u0dad\u0dca\u200d\u0dba-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba-\u0daf\u0dd2\u0db1\u0dba\u0dd2/11-423340",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784543683.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-20-tamilmirrorlk-34814d47",
     "num": "tamilmirrorlk-34814d47",
     "date_str": "2026-07-20",
@@ -307379,6 +307390,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-af578898",
+    "num": "dailymirrorlk-af578898",
+    "date_str": "2026-07-20",
+    "description": "Athupandalama ritual held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Athupandalama-ritual-held/110-346123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784546043.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-20-tamilmirrorlk-1f33d87a",
     "num": "tamilmirrorlk-1f33d87a",
     "date_str": "2026-07-20",
@@ -307387,5 +307409,115 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784546290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-a4a3ce1e",
+    "num": "tamilmirrorlk-a4a3ce1e",
+    "date_str": "2026-07-20",
+    "description": "\u2018\u0b95\u0bcd\u0bb0\u0bc7\u2019\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0bb5\u0bb0\u0bc1\u0ba3\u0bcd \u0ba4\u0bbf\u0bb5\u0bbe\u0bb0\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b95\u0bcd\u0bb0\u0bc7-\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0ba3\u0bc8\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd-\u0bb5\u0bb0\u0bc1\u0ba3\u0bcd-\u0ba4\u0bbf\u0bb5\u0bbe\u0bb0\u0bbf/54-380206",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784546617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-a2d6a7c1",
+    "num": "tamilmirrorlk-a2d6a7c1",
+    "date_str": "2026-07-20",
+    "description": "\u2018\u0b9a\u0bbe\u0bb2\u0bbf\u2019 \u0b8e\u0ba9\u0bc1\u0bae\u0bcd  AI   \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/science-tech/\u0b9a\u0bbe\u0bb2\u0bbf-\u0b8e\u0ba9\u0bc1\u0bae\u0bcd-AI-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bc8/57-380207",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784547302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-b7036ff8",
+    "num": "dailymirrorlk-b7036ff8",
+    "date_str": "2026-07-20",
+    "description": "Train derails at Colombo Fort Railway Station again",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-derails-at-Colombo-Fort-Railway-Station-again/108-346124",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784547600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-025a60f3",
+    "num": "dailymirrorlk-025a60f3",
+    "date_str": "2026-07-20",
+    "description": "Tax revenue not benefiting the public: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tax-revenue-not-benefiting-the-public-Namal/108-346125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784548133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-be38ba88",
+    "num": "tamilmirrorlk-be38ba88",
+    "date_str": "2026-07-20",
+    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f \u0bb0\u0baf\u0bbf\u0bb2\u0bcd; \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0b9f\u0bae\u0bcd-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0bb5\u0ba4\u0bbf/175-380208",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784548372.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-58b9d4de",
+    "num": "tamilmirrorlk-58b9d4de",
+    "date_str": "2026-07-20",
+    "description": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd : \u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8-\u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/76-380209",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784548457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-6c32cdc0",
+    "num": "dailymirrorlk-6c32cdc0",
+    "date_str": "2026-07-20",
+    "description": "Hamas names Khalil al-Hayya as new leader",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hamas-names-Khalil-al-Hayya-as-new-leader/108-346126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784550357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-6ecf7f49",
+    "num": "dailymirrorlk-6ecf7f49",
+    "date_str": "2026-07-20",
+    "description": "President reviews proposals on addressing issues in prison system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-reviews-proposals-on-addressing-issues-in-prison-system/108-346127",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784551111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-a4c71334",
+    "num": "tamilmirrorlk-a4c71334",
+    "date_str": "2026-07-20",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0bb5\u0bc1/175-380223",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784551568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-3316231f",
+    "num": "dailymirrorlk-3316231f",
+    "date_str": "2026-07-20",
+    "description": "Andy Burnham becomes UK prime minister after meeting King Charles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Andy-Burnham-becomes-UK-prime-minister-after-meeting-King-Charles/108-346128",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784552118.0
   }
 ]
