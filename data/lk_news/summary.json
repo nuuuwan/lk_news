@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-20 06:45:29",
-  "n_docs": 124227,
+  "time_updated": "2026-07-20 09:00:11",
+  "n_docs": 124237,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124227,
+  "n_docs_with_text": 124237,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-20",
-  "dataset_size": 1940252871,
+  "dataset_size": 1940485414,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-20-dailyftlk-fd4af8a3",
-    "num": "dailyftlk-fd4af8a3",
+    "doc_id": "2026-07-20-dailymirrorlk-8ea17aa3",
+    "num": "dailymirrorlk-8ea17aa3",
     "date_str": "2026-07-20",
-    "description": "\u2018India Calling\u2019 forum set to unlock bilateral trade and investment barriers",
-    "url_metadata": "https://www.ft.lk/business/India-Calling-forum-set-to-unlock-bilateral-trade-and-investment-barriers/34-794863",
+    "description": "Cartoon of the Day 20-07-2026",
+    "url_metadata": "https://www.dailymirror.lk/business/Cartoon-of-the-Day-20-07-2026/215-346060",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1784504429.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784515333.0
   }
 }
