@@ -307618,5 +307618,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784559156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-6851275b",
+    "num": "dailymirrorlk-6851275b",
+    "date_str": "2026-07-20",
+    "description": "GIT 2025 examination results released",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GIT-2025-examination-results-released/108-346133",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784561609.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-230261ae",
+    "num": "dailymirrorlk-230261ae",
+    "date_str": "2026-07-20",
+    "description": "CSE opens the week lower as broad-based selling offsets strong institutional activity",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-opens-the-week-lower-as-broad-based-selling-offsets-strong-institutional-activity/108-346134",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784561735.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-d2996ddf",
+    "num": "dailymirrorlk-d2996ddf",
+    "date_str": "2026-07-20",
+    "description": "Taiwan suspends tourist visa for Sri Lankans",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Taiwan-suspends-tourist-visa-for-Sri-Lankans/108-346135",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784562021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-532656bf",
+    "num": "tamilmirrorlk-532656bf",
+    "date_str": "2026-07-20",
+    "description": "GIT \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/GIT-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9/175-380227",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784563859.0
   }
 ]
