@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_04:03:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_06:46:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,209** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,227** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-20-dailyftlk-376e7756",
-    "num": "dailyftlk-376e7756",
+    "doc_id": "2026-07-20-dailyftlk-fd4af8a3",
+    "num": "dailyftlk-fd4af8a3",
     "date_str": "2026-07-20",
-    "description": "Tintin to Tranquility Base: New race for the moon",
-    "url_metadata": "https://www.ft.lk/columns/Tintin-to-Tranquility-Base-New-race-for-the-moon/4-794839",
+    "description": "\u2018India Calling\u2019 forum set to unlock bilateral trade and investment barriers",
+    "url_metadata": "https://www.ft.lk/business/India-Calling-forum-set-to-unlock-bilateral-trade-and-investment-barriers/34-794863",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784499594.0
+    "time_ut": 1784504429.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-20 | `dailyftlk-fd4af8a3` | ‘India Calling’ forum set to unlock bilateral trade and investment barriers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-fd4af8a3)
+- 2026-07-20 | `dailyftlk-52c5fea3` | Embassy of France relocates to Mireka Tower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-52c5fea3)
+- 2026-07-20 | `dailyftlk-624e5c06` | CAA makes SLS certification mandatory for sanitary towels from October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-624e5c06)
+- 2026-07-20 | `dailyftlk-c80b6eaf` | Egg prices to increase from today amid feed shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-c80b6eaf)
+- 2026-07-20 | `dailyftlk-cd84d89e` | Trust, reputation and leadership to take centre stage at Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-cd84d89e)
+- 2026-07-20 | `dailymirrorlk-2edfe83d` | England hold off India to seal series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-2edfe83d)
 - 2026-07-20 | `dailyftlk-376e7756` | Tintin to Tranquility Base: New race for the moon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-376e7756)
 - 2026-07-20 | `dailymirrorlk-e2f368d9` | World Cup 2026: Spain win the World Cup again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-e2f368d9)
 - 2026-07-20 | `dailymirrorlk-9eba4927` | The Sahodarayas We No Longer Have | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-9eba4927)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-20 | `dailymirrorlk-07a0b72d` | LB finance maintains growth momentum with Rs. 7bn pre-tax profit in 1Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-07a0b72d)
 - 2026-07-20 | `dailymirrorlk-a8a4da4a` | Rate hold likely at tomorrow’s CBSL review despite ME tensions - FCR | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-a8a4da4a)
 - 2026-07-20 | `dailymirrorlk-f17175a3` | CA Sri Lanka’s 5th Annual Economic and Tax Symposium charts path from resilience to revival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-f17175a3)
-- 2026-07-20 | `dailymirrorlk-37548707` | HNB retains Euromoney’s Best Bank for Large Corporates title | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-37548707)
-- 2026-07-20 | `dailymirrorlk-536767a2` | Radisson Blu Resort Galle appoints Medhatithi Bhattacharjee as GM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-536767a2)
-- 2026-07-20 | `dailymirrorlk-172f9687` | Sampath Bank Hosts Fifth SME Business Circle in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-172f9687)
-- 2026-07-20 | `dailymirrorlk-f05869eb` | CMA Sri Lanka National Management Accounting Conference  2026 commences today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-f05869eb)
-- 2026-07-20 | `dailymirrorlk-3f50adb2` | Global banking, governance, regulatory to headline Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-3f50adb2)
-- 2026-07-20 | `dailymirrorlk-d77afa94` | LCB Finance opens Wellawattta premier branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-d77afa94)
 
 ---
 

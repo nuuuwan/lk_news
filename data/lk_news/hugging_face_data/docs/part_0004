@@ -256152,6 +256152,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-1d77bf0b",
+    "num": "dailymirrorlk-1d77bf0b",
+    "date_str": "2026-06-23",
+    "description": "Mbappe makes World Cup history with second Golden Boot",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mbappe-makes-World-Cup-history-with-second-Golden-Boot/108-343671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782194098.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-dailymirrorlk-2f0459b8",
     "num": "dailymirrorlk-2f0459b8",
     "date_str": "2026-06-23",
@@ -303408,6 +303419,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-16-islandlk-e47b1104",
+    "num": "islandlk-e47b1104",
+    "date_str": "2026-07-16",
+    "description": "Overwhelming fire power and stubborn resilience",
+    "url_metadata": "http://island.lk/overwhelming-fire-power-and-stubborn-resilience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784217720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-16-tamilmirrorlk-59844a96",
     "num": "tamilmirrorlk-59844a96",
     "date_str": "2026-07-16",
@@ -305234,6 +305256,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-0d4af4a8",
+    "num": "islandlk-0d4af4a8",
+    "date_str": "2026-07-18",
+    "description": "Two memorable excerpts from a former SLAF commander\u2019s memoir",
+    "url_metadata": "http://island.lk/two-memorable-excerpts-from-a-former-slaf-commanders-memoir/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784361600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-adalk-d1749b32",
     "num": "adalk-d1749b32",
     "date_str": "2026-07-18",
@@ -305319,6 +305352,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784368244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-1a411246",
+    "num": "islandlk-1a411246",
+    "date_str": "2026-07-18",
+    "description": "\u2018Giving up was never an option\u2019: The fisherman \u00a0who fought back after losing millions in SL",
+    "url_metadata": "http://island.lk/giving-up-was-never-an-option-the-fisherman-who-fought-back-after-losing-millions-in-sl/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784369220.0
   },
   {
     "doc_type": "lk_news",
@@ -306048,6 +306092,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-19-adalk-18420250",
+    "num": "adalk-18420250",
+    "date_str": "2026-07-19",
+    "description": "\u0dba\u0dcf\u0dbd \u0dc0\u0db1\u0ddd\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba \u0dc4\u0dbb\u0dc4\u0dcf \u0db6\u0dd0\u0dad\u0dd2\u0db8\u0dad\u0dd4\u0db1\u0dca 27180\u0d9a\u0dca \u0d9a\u0dad\u0dbb\u0d9c\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dcf\u0dbd-\u0dc0\u0db1\u0ddd\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1\u0dba-\u0dc4\u0dbb\u0dc4\u0dcf-\u0db6\u0dd0\u0dad\u0dd2\u0db8\u0dad\u0dd4\u0db1\u0dca-27180\u0d9a\u0dca-\u0d9a\u0dad\u0dbb\u0d9c\u0db8\u0da7/11-423328",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784476157.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-19-adalk-c4bda990",
     "num": "adalk-c4bda990",
     "date_str": "2026-07-19",
@@ -306078,6 +306133,83 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784478561.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-37c61269",
+    "num": "islandlk-37c61269",
+    "date_str": "2026-07-19",
+    "description": "SLT-MOBITEL powers next-gen mobility solutions",
+    "url_metadata": "http://island.lk/slt-mobitel-powers-next-gen-mobility-solutions/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784484180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-fd4af8a3",
+    "num": "islandlk-fd4af8a3",
+    "date_str": "2026-07-19",
+    "description": "\u2018India Calling\u2019 forum set to unlock bilateral trade and investment barriers",
+    "url_metadata": "http://island.lk/india-calling-forum-set-to-unlock-bilateral-trade-and-investment-barriers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784484240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-877d651c",
+    "num": "islandlk-877d651c",
+    "date_str": "2026-07-19",
+    "description": "First Capital sees 70% chance Central Bank will hold rates on July 21",
+    "url_metadata": "http://island.lk/first-capital-sees-70-chance-central-bank-will-hold-rates-on-july-21/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784484360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-ba437f72",
+    "num": "islandlk-ba437f72",
+    "date_str": "2026-07-20",
+    "description": "AHC Group expands into higher education with launch of Institute of International Diplomacy",
+    "url_metadata": "http://island.lk/ahc-group-expands-into-higher-education-with-launch-of-institute-of-international-diplomacy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784486040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-166d9621",
+    "num": "islandlk-166d9621",
+    "date_str": "2026-07-20",
+    "description": "Ather showcases innovation at Colombo EV Motor Show 2026",
+    "url_metadata": "http://island.lk/ather-showcases-innovation-at-colombo-ev-motor-show-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784486100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-5611fc9c",
+    "num": "islandlk-5611fc9c",
+    "date_str": "2026-07-20",
+    "description": "Medihelp Hospitals wins six awards at NCQP 2026",
+    "url_metadata": "http://island.lk/medihelp-hospitals-wins-six-awards-at-ncqp-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784486100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-e8d86cad",
+    "num": "islandlk-e8d86cad",
+    "date_str": "2026-07-20",
+    "description": "AA3 Holdings unveils Lanka\u2019s largest ex-stock heavy equipment showroom in Kiribathgoda",
+    "url_metadata": "http://island.lk/aa3-holdings-unveils-lankas-largest-ex-stock-heavy-equipment-showroom-in-kiribathgoda/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784486220.0
   },
   {
     "doc_type": "lk_news",
@@ -306353,5 +306485,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1784499594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-2edfe83d",
+    "num": "dailymirrorlk-2edfe83d",
+    "date_str": "2026-07-20",
+    "description": "England hold off India to seal series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-hold-off-India-to-seal-series/108-346059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784504102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailyftlk-cd84d89e",
+    "num": "dailyftlk-cd84d89e",
+    "date_str": "2026-07-20",
+    "description": "Trust, reputation and leadership to take centre stage at Sri Lanka Corporate Director Summit 2026",
+    "url_metadata": "https://www.ft.lk/business/Trust-reputation-and-leadership-to-take-centre-stage-at-Sri-Lanka-Corporate-Director-Summit-2026/34-794859",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784504190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailyftlk-c80b6eaf",
+    "num": "dailyftlk-c80b6eaf",
+    "date_str": "2026-07-20",
+    "description": "Egg prices to increase from today amid feed shortages",
+    "url_metadata": "https://www.ft.lk/business/Egg-prices-to-increase-from-today-amid-feed-shortages/34-794860",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784504245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailyftlk-624e5c06",
+    "num": "dailyftlk-624e5c06",
+    "date_str": "2026-07-20",
+    "description": "CAA makes SLS certification mandatory for sanitary towels from October",
+    "url_metadata": "https://www.ft.lk/business/CAA-makes-SLS-certification-mandatory-for-sanitary-towels-from-October/34-794861",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784504293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailyftlk-52c5fea3",
+    "num": "dailyftlk-52c5fea3",
+    "date_str": "2026-07-20",
+    "description": "Embassy of France relocates to Mireka Tower",
+    "url_metadata": "https://www.ft.lk/business/Embassy-of-France-relocates-to-Mireka-Tower/34-794862",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784504378.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailyftlk-fd4af8a3",
+    "num": "dailyftlk-fd4af8a3",
+    "date_str": "2026-07-20",
+    "description": "\u2018India Calling\u2019 forum set to unlock bilateral trade and investment barriers",
+    "url_metadata": "https://www.ft.lk/business/India-Calling-forum-set-to-unlock-bilateral-trade-and-investment-barriers/34-794863",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784504429.0
   }
 ]
