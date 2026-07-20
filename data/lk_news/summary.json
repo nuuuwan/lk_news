@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-20 11:00:01",
-  "n_docs": 124261,
+  "time_updated": "2026-07-20 12:53:49",
+  "n_docs": 124278,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124261,
+  "n_docs_with_text": 124278,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-20",
-  "dataset_size": 1940675162,
+  "dataset_size": 1940966362,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-20-dailymirrorlk-37ec5e02",
-    "num": "dailymirrorlk-37ec5e02",
+    "doc_id": "2026-07-20-dailymirrorlk-5f600652",
+    "num": "dailymirrorlk-5f600652",
     "date_str": "2026-07-20",
-    "description": "Residents of Katunayake protest against proposed cement factory",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Residents-of-Katunayake-protest-against-proposed-cement-factory/108-346090",
+    "description": "Over 160 MOH areas declared high-risk zones as dengue cases top 76,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-160-MOH-areas-declared-high-risk-zones-as-dengue-cases-top-76-000/108-346107",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784524959.0
+    "time_ut": 1784532054.0
   }
 }
