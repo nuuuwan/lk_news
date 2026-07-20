@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_22:21:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--21_00:29:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,328** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,329** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2026-07-20 | `dailymirrorlk-6851275b` | GIT 2025 examination results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-6851275b)
 - 2026-07-20 | `dailymirrorlk-efb8bc3f` | President urges expediting monthly allowance to children who lost their parents due to Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-efb8bc3f)
 - 2026-07-20 | `dailymirrorlk-7f4fce48` | New Chairperson, members appointed to Finance Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-7f4fce48)
+- 2026-07-20 | `adalk-3357b5b1` | විෂ රසායනික යොදා පලතුරු ඉදවීම නියාමනය කිරීමට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-3357b5b1)
 - 2026-07-20 | `dailymirrorlk-40289f5b` | Trump says US strikes hit Iran in ’honour’ of American soldiers killed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-40289f5b)
 - 2026-07-20 | `adalk-099fefd8` | එකම දුම්රියක් එකම ආකාරයෙන් සති දෙකක් තුළ දෙවරක් පීලි පනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-099fefd8)
 - 2026-07-20 | `adalk-ce07293f` | මොනරාගලට උග්‍ර ජල හිඟයක් ජල සැපයුම සීමා කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-ce07293f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-20 | `adalk-5a4ace25` | දිත්වා නිසා හානි වූ වාරි ව්‍යාපෘති හතරක් ගොඩගන්න රු. ලක්ෂ 8000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-5a4ace25)
 - 2026-07-20 | `tamilmirrorlk-58b9d4de` | ஹட்டன் பதற்றம் : அடுக்குகளை அகற்றியதால் வாக்குவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-58b9d4de)
 - 2026-07-20 | `tamilmirrorlk-be38ba88` | மீண்டும் தடம் புரண்ட ரயில்; பயணிகள் அவதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-be38ba88)
-- 2026-07-20 | `dailymirrorlk-025a60f3` | Tax revenue not benefiting the public: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-025a60f3)
 
 ---
 
