@@ -303738,6 +303738,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-adalk-c3efd84e",
+    "num": "adalk-c3efd84e",
+    "date_str": "2026-07-17",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba BCCS 2026 \u0dc3\u0db8\u0dcf\u0dbb\u0db8\u0dca\u0db7\u0d9a \u0dc3\u0db8\u0dca\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc0\u0dcf\u0dab\u0dd2\u0da2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-BCCS-2026-\u0dc3\u0db8\u0dcf\u0dbb\u0db8\u0dca\u0db7\u0d9a-\u0dc3\u0db8\u0dca\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/7-423298",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784248919.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-dailymirrorlk-b976f0ef",
     "num": "dailymirrorlk-b976f0ef",
     "date_str": "2026-07-17",
@@ -307222,5 +307233,159 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1784537324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-adalk-d07165e0",
+    "num": "adalk-d07165e0",
+    "date_str": "2026-07-20",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb-\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca/11-423338",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784537901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-5e6e74b2",
+    "num": "dailymirrorlk-5e6e74b2",
+    "date_str": "2026-07-20",
+    "description": "India approves its first dengue vaccine QDENGA after DCGI clearance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-approves-its-first-dengue-vaccine-QDENGA-after-DCGI-clearance/108-346111",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784538828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-7bae44e5",
+    "num": "tamilmirrorlk-7bae44e5",
+    "date_str": "2026-07-20",
+    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0bb1\u0bca\u0b9f\u0bcd\u0bb1\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd-\u0baa\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0bb1\u0bca\u0b9f\u0bcd\u0bb1\u0bbf/44-380200",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784539207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-b5d143e6",
+    "num": "tamilmirrorlk-b5d143e6",
+    "date_str": "2026-07-20",
+    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0bb5\u0bc1: \u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb2 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0bb5\u0bc1-\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb2-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd/175-380201",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784541675.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-341121a1",
+    "num": "tamilmirrorlk-341121a1",
+    "date_str": "2026-07-20",
+    "description": "\u0baa\u0ba9\u0bcd\u0bb1\u0bbf \u0bae\u0bc2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b9a\u0baf \u0ba4\u0bb5\u0bb3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0baa\u0ba9\u0bcd\u0bb1\u0bbf-\u0bae\u0bc2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0b9a\u0baf-\u0ba4\u0bb5\u0bb3\u0bc8/53-380202",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784541777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-b8d1ffd7",
+    "num": "dailymirrorlk-b8d1ffd7",
+    "date_str": "2026-07-20",
+    "description": "People forced to bear burden of poverty despite \u2019Wealthy Country\u2019 vision: Patali",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/People-forced-to-bear-burden-of-poverty-despite-Wealthy-Country-vision-Patali/108-346116",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784542521.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-4ea38a49",
+    "num": "dailymirrorlk-4ea38a49",
+    "date_str": "2026-07-20",
+    "description": "Boy, 13, dies during World Cup celebrations in Spain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Boy-13-dies-during-World-Cup-celebrations-in-Spain/108-346117",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784543323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-34814d47",
+    "num": "tamilmirrorlk-34814d47",
+    "date_str": "2026-07-20",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0bcb\u0b95\u0bae\u0bcd: \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bbf\u0bb2\u0bcd   13 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8-\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u0baa\u0bcb\u0ba4\u0bc1-\u0b9a\u0bcb\u0b95\u0bae\u0bcd-\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bbf\u0bb2\u0bcd-13-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0baa\u0bb2\u0bbf/44-380203",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784543861.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-7c40992f",
+    "num": "dailymirrorlk-7c40992f",
+    "date_str": "2026-07-20",
+    "description": "Britain is about to get a new leader. Here\u2019s how the transition works",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Britain-is-about-to-get-a-new-leader-Heres-how-the-transition-works/108-346119",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784543930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-5d16bf2c",
+    "num": "dailymirrorlk-5d16bf2c",
+    "date_str": "2026-07-20",
+    "description": "Five students transferred to Trincomalee hospital after toxic seed incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-students-transferred-to-Trincomalee-hospital-after-toxic-seed-incident/108-346120",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784544251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-dailymirrorlk-9ffa71b2",
+    "num": "dailymirrorlk-9ffa71b2",
+    "date_str": "2026-07-20",
+    "description": "Universities urged to strengthen community support to prevent dengue outbreaks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Universities-urged-to-strengthen-community-support-to-prevent-dengue-outbreaks/108-346121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784544455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-adalk-75b0216c",
+    "num": "adalk-75b0216c",
+    "date_str": "2026-07-20",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dba\u0dd4\u0daf\u0dca\u0db0 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd3\u0da8\u0dba\u0dda 33 \u0dc0\u0db1 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0dd0\u0db8\u0dbb\u0dd3\u0db8",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dba\u0dd4\u0daf\u0dca\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd3\u0da8\u0dba\u0dda-33-\u0dc0\u0db1-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba-\u0dc3\u0dd0\u0db8\u0dbb\u0dd3\u0db8/11-423341",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784544459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-d11ba7e5",
+    "num": "tamilmirrorlk-d11ba7e5",
+    "date_str": "2026-07-20",
+    "description": "\u0ba8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bb5\u0bbf\u0ba4\u0bc8\u0b95\u0bb3\u0bc8 \u0b89\u0b9f\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f 22 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9a\u0bcd\u0b9a\u0bc1-\u0bb5\u0bbf\u0ba4\u0bc8\u0b95\u0bb3\u0bc8-\u0b89\u0b9f\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f-22-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf/175-380204",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784544799.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-tamilmirrorlk-1f33d87a",
+    "num": "tamilmirrorlk-1f33d87a",
+    "date_str": "2026-07-20",
+    "description": "\u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380205",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784546290.0
   }
 ]

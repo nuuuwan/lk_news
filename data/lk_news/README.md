@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_14:51:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_16:54:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,288** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,303** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-20-adalk-9f61c4cc",
-    "num": "adalk-9f61c4cc",
+    "doc_id": "2026-07-20-tamilmirrorlk-1f33d87a",
+    "num": "tamilmirrorlk-1f33d87a",
     "date_str": "2026-07-20",
-    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 75000 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-75000-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-423337",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1784537324.0
+    "description": "\u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380205",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784546290.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-20 | `tamilmirrorlk-1f33d87a` | மீன்களின் விலை மீண்டும் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-1f33d87a)
+- 2026-07-20 | `tamilmirrorlk-d11ba7e5` | நச்சு விதைகளை உட்கொண்ட 22 மாணவர்களுக்கு வாந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-d11ba7e5)
+- 2026-07-20 | `adalk-75b0216c` | ශ්‍රී ලංකා යුද්ධ හමුදා විද්‍යාපීඨයේ 33 වන සංවත්සරය සැමරීම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-75b0216c)
+- 2026-07-20 | `dailymirrorlk-9ffa71b2` | Universities urged to strengthen community support to prevent dengue outbreaks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-9ffa71b2)
+- 2026-07-20 | `dailymirrorlk-5d16bf2c` | Five students transferred to Trincomalee hospital after toxic seed incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-5d16bf2c)
+- 2026-07-20 | `dailymirrorlk-7c40992f` | Britain is about to get a new leader. Here’s how the transition works | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-7c40992f)
+- 2026-07-20 | `tamilmirrorlk-34814d47` | உலகக்கோப்பை கொண்டாட்டத்தின்போது சோகம்: ஸ்பெயினில்   13 வயது சிறுவன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-34814d47)
+- 2026-07-20 | `dailymirrorlk-4ea38a49` | Boy, 13, dies during World Cup celebrations in Spain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-4ea38a49)
+- 2026-07-20 | `dailymirrorlk-b8d1ffd7` | People forced to bear burden of poverty despite ’Wealthy Country’ vision: Patali | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-b8d1ffd7)
+- 2026-07-20 | `tamilmirrorlk-341121a1` | பன்றி மூக்குடன் பிறந்த அதிசய தவளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-341121a1)
+- 2026-07-20 | `tamilmirrorlk-b5d143e6` | தமிழ் கட்சிகள் ஒன்றிணைவு: ரவிக்கு பல சந்தேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-b5d143e6)
+- 2026-07-20 | `tamilmirrorlk-7bae44e5` | தங்கப் பந்தைக் கைப்பற்றிய றொட்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-7bae44e5)
+- 2026-07-20 | `dailymirrorlk-5e6e74b2` | India approves its first dengue vaccine QDENGA after DCGI clearance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-5e6e74b2)
+- 2026-07-20 | `adalk-d07165e0` | ඉරානයට දැඩි ප්‍රහාර රැල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-d07165e0)
 - 2026-07-20 | `adalk-9f61c4cc` | ඩෙංගු රෝගීන් 75000 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-9f61c4cc)
 - 2026-07-20 | `tamilmirrorlk-4106bf04` | ’’பியர் 1947 திருகோணமலை’’ அகற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-4106bf04)
 - 2026-07-20 | `adalk-fc4f2b0b` | කැරපොතු ජනතා පක්ෂය ඉන්දීය පාර්ලිමේන්තුව වටලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-fc4f2b0b)
 - 2026-07-20 | `tamilmirrorlk-deb31dea` | பாலின அடையாள சுற்றறிக்கை: மனு தள்ளுபடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-deb31dea)
 - 2026-07-20 | `dailymirrorlk-1ff61f76` | Supreme Court dismisses petition challenging gender identity circulars | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-1ff61f76)
 - 2026-07-20 | `adalk-6b44e80d` | පොලිස් කොමිසමේ පුරප්පාඩුවකට අයැදුම්පත් කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-6b44e80d)
-- 2026-07-20 | `dailymirrorlk-169dd47d` | Dozens feared dead in Guyana after ferry carrying 133 people capsizes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-169dd47d)
-- 2026-07-20 | `dailymirrorlk-d7a3dc81` | AG to file District Court cases over Rs. 6 billion liquor tax default | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-d7a3dc81)
-- 2026-07-20 | `tamilmirrorlk-4a6987ee` | ’கரப்பான் பூச்சி ஜனதா’ கட்சியினர் மீது தடியடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-4a6987ee)
-- 2026-07-20 | `dailymirrorlk-5f600652` | Over 160 MOH areas declared high-risk zones as dengue cases top 76,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-5f600652)
-- 2026-07-20 | `dailymirrorlk-76331993` | Applications open for National Police Commission: Here is how to apply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-76331993)
-- 2026-07-20 | `tamilmirrorlk-e2df0fb0` | அதிபர்களுக்கு இழைக்கப்படும் அநீதிக்கு எதிராக கிழக்கில் கவனயீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-e2df0fb0)
-- 2026-07-20 | `dailymirrorlk-477c9981` | Iran says two oil tankers in Strait of Hormuz exploded and immobilised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-477c9981)
-- 2026-07-20 | `dailymirrorlk-d84ea32d` | No ban on religious pilgrimages: Labour Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-d84ea32d)
-- 2026-07-20 | `tamilmirrorlk-ace55699` | பழங்குடியினரின் ’குச்சி’ நடைமுறை (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-ace55699)
-- 2026-07-20 | `tamilmirrorlk-fa145008` | ஸ்பெய்ன் சம்பியனானதும் வெடித்த திடீர் மோதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-fa145008)
-- 2026-07-20 | `tamilmirrorlk-0894a527` | நஷ்டஈடு கொடுக்கச் சென்றவர் வெட்டிக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-0894a527)
-- 2026-07-20 | `tamilmirrorlk-341e0df9` | திருமணப் பதிவுகள்: கடந்த 15 ஆண்டுகளில் 28% சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-341e0df9)
-- 2026-07-20 | `dailymirrorlk-8fa02165` | India’s cockroach protesters set to march to parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-8fa02165)
-- 2026-07-20 | `tamilmirrorlk-0475b748` | சோப்பு உற்பத்தி, இறக்குமதிக்கான புதிய விதிமுறைகள் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-0475b748)
 
 ---
 
