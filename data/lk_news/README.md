@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_09:01:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20_11:00:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,237** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,261** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-20-dailymirrorlk-8ea17aa3",
-    "num": "dailymirrorlk-8ea17aa3",
+    "doc_id": "2026-07-20-dailymirrorlk-37ec5e02",
+    "num": "dailymirrorlk-37ec5e02",
     "date_str": "2026-07-20",
-    "description": "Cartoon of the Day 20-07-2026",
-    "url_metadata": "https://www.dailymirror.lk/business/Cartoon-of-the-Day-20-07-2026/215-346060",
+    "description": "Residents of Katunayake protest against proposed cement factory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Residents-of-Katunayake-protest-against-proposed-cement-factory/108-346090",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784515333.0
+    "time_ut": 1784524959.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-20 | `dailymirrorlk-37ec5e02` | Residents of Katunayake protest against proposed cement factory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-37ec5e02)
+- 2026-07-20 | `dailymirrorlk-2e1ffe36` | UNP Local government member arrested for harassing a female shop owner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-2e1ffe36)
+- 2026-07-20 | `dailymirrorlk-f1ab42df` | Two killed, four injured in multi-vehicle crash in Matara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-f1ab42df)
+- 2026-07-20 | `dailymirrorlk-8e756180` | Churches facing closure as Christians giving up religion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-8e756180)
+- 2026-07-20 | `dailymirrorlk-9cfd82a7` | Tourist who fell from the train admitted to the Nuwara Eliya hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-9cfd82a7)
+- 2026-07-20 | `dailymirrorlk-c7babbba` | Sri Lanka sees sharp decline in marriages, births over past decade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-c7babbba)
+- 2026-07-20 | `tamilmirrorlk-07a5b39c` | 100 சேவல்கள் பலியிட்டு ஆண்கள் மட்டுமே ’ஆடிப் படையல்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-07a5b39c)
+- 2026-07-20 | `dailymirrorlk-39d5cea8` | Match fixing gambling regulations related to cricket in limbo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-39d5cea8)
+- 2026-07-20 | `tamilmirrorlk-c7895745` | 8 லட்சம் ரூபாய் ஒப்பந்தத்தில் இளைஞர் படுகொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-c7895745)
+- 2026-07-20 | `tamilmirrorlk-39544638` | புற்றுநோயால் தினமும் 27 ஆயிரம் பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-39544638)
+- 2026-07-20 | `tamilmirrorlk-31f75d09` | ஐ.எஸ். பயங்கரவாதிகள் 119 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-31f75d09)
+- 2026-07-20 | `tamilmirrorlk-4ec315f6` | இரண்டு முறை தங்கப்பாதணி வென்று மப்பே சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-4ec315f6)
+- 2026-07-20 | `tamilmirrorlk-cd207184` | தமிழ்மிரரின் இன்றைய சிந்தனை சித்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-cd207184)
+- 2026-07-20 | `dailymirrorlk-d9aa06a6` | Former IGP C.D. Wickramaratne’s final rites to be held with full police honours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-d9aa06a6)
+- 2026-07-20 | `tamilmirrorlk-01e63681` | முதல்வர் விஜய் குறித்து சர்ச்சை பேச்சு: தி.மு.க. எம்.எல்.ஏ. கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-01e63681)
+- 2026-07-20 | `dailymirrorlk-65a3ec76` | Spain wins second FIFA World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-65a3ec76)
+- 2026-07-20 | `adalk-a6fde554` | නවගමුව වෙඩි තැබීමේ සැකකරුවන් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-a6fde554)
 - 2026-07-20 | `dailymirrorlk-8ea17aa3` | Cartoon of the Day 20-07-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-8ea17aa3)
+- 2026-07-20 | `adalk-bfc512f8` | නව කෝටියක කොකේන් සමග මැලේසියානුවෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-bfc512f8)
 - 2026-07-20 | `tamilmirrorlk-8b511766` | ஜோர்தான் தாக்குதலுக்கு பதிலடி: ஈரான் மீது அமெரிக்கா தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-8b511766)
-- 2026-07-20 | `adalk-16676174` | අක්ෂි සැත්කම් සඳහා කෑගල්ලේ 6,590 ක් පෝලිමේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-16676174)
-- 2026-07-20 | `tamilmirrorlk-ed3462e0` | தான்சானியா கப்பலை கடத்திய சோமாலிய கடற்கொள்ளையா்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-ed3462e0)
-- 2026-07-20 | `tamilmirrorlk-afaff620` | 3 மாகாணங்களிலும் 4 மாவட்டங்களிலும் மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-tamilmirrorlk-afaff620)
-- 2026-07-20 | `adalk-f5418785` | ආජන්ටිනාව පරදවමින් ස්පාඤ්ඤය පාපන්දු ලෝක කුසලානය දිනයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-adalk-f5418785)
-- 2026-07-20 | `dailyftlk-0a8668e6` | Exporters Association of  Sri Lanka elects new leadership at 29th Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-0a8668e6)
-- 2026-07-20 | `dailyftlk-fd4af8a3` | ‘India Calling’ forum set to unlock bilateral trade and investment barriers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-fd4af8a3)
-- 2026-07-20 | `dailyftlk-52c5fea3` | Embassy of France relocates to Mireka Tower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-52c5fea3)
-- 2026-07-20 | `dailyftlk-624e5c06` | CAA makes SLS certification mandatory for sanitary towels from October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-624e5c06)
-- 2026-07-20 | `dailyftlk-c80b6eaf` | Egg prices to increase from today amid feed shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-c80b6eaf)
-- 2026-07-20 | `dailyftlk-cd84d89e` | Trust, reputation and leadership to take centre stage at Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-cd84d89e)
-- 2026-07-20 | `dailymirrorlk-2edfe83d` | England hold off India to seal series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-2edfe83d)
-- 2026-07-20 | `dailyftlk-3ab5427f` | Court of Appeal to hear eight intervening petitions in Sallay case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-3ab5427f)
-- 2026-07-20 | `dailyftlk-d392fd20` | Former UNP Councillor remanded over alleged Rs. 160 m cheque fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-d392fd20)
-- 2026-07-20 | `dailyftlk-167cd8d3` | Namal alleges critics face intimidation, calls for probe into reported suicides | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-167cd8d3)
-- 2026-07-20 | `dailyftlk-376e7756` | Tintin to Tranquility Base: New race for the moon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailyftlk-376e7756)
-- 2026-07-20 | `dailymirrorlk-e2f368d9` | World Cup 2026: Spain win the World Cup again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-e2f368d9)
-- 2026-07-20 | `dailymirrorlk-9eba4927` | The Sahodarayas We No Longer Have | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-9eba4927)
-- 2026-07-20 | `dailymirrorlk-5e15c289` | Mr. President, popularity must now bring results! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-20-dailymirrorlk-5e15c289)
 
 ---
 
