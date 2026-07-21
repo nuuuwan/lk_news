@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-22 00:15:00",
-  "n_docs": 124478,
+  "time_updated": "2026-07-22 02:12:44",
+  "n_docs": 124491,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124478,
+  "n_docs_with_text": 124491,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-22",
-  "dataset_size": 1943892590,
+  "dataset_size": 1944002606,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-dailymirrorlk-b9d53b3a",
-    "num": "dailymirrorlk-b9d53b3a",
+    "doc_id": "2026-07-22-dailymirrorlk-1b31103a",
+    "num": "dailymirrorlk-1b31103a",
     "date_str": "2026-07-22",
-    "description": "Divolca Nova range earns three SLSI quality certificates",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Divolca-Nova-range-earns-three-SLSI-quality-certificates/273-346253",
+    "description": "Exposing the rot in Sri Lanka\u2019s prisons, drug policies and demanding intelligence  - led prevention",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Exposing-the-rot-in-Sri-Lankas-prisons-drug-policies-and-demanding-intelligence-led-prevention/172-346267",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784659296.0
+    "time_ut": 1784662292.0
   }
 }

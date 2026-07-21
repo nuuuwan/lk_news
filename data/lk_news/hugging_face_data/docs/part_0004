@@ -309312,5 +309312,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784659296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-255372c1",
+    "num": "dailymirrorlk-255372c1",
+    "date_str": "2026-07-22",
+    "description": "CA Sri Lanka and CSE conclude capacity-building workshops for SMEs",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CA-Sri-Lanka-and-CSE-conclude-capacity-building-workshops-for-SMEs/273-346254",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-a87472c9",
+    "num": "dailymirrorlk-a87472c9",
+    "date_str": "2026-07-22",
+    "description": "IFC and HSBC invest US$ 40mn to upgrade Colombo Port infrastructure",
+    "url_metadata": "https://www.dailymirror.lk/business-news/IFC-and-HSBC-invest-US-40mn-to-upgrade-Colombo-Port-infrastructure/273-346255",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659515.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-435b8ced",
+    "num": "dailymirrorlk-435b8ced",
+    "date_str": "2026-07-22",
+    "description": "Indices close on a mixed note",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-on-a-mixed-note/273-346256",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659592.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-3094f35a",
+    "num": "dailymirrorlk-3094f35a",
+    "date_str": "2026-07-22",
+    "description": "Secondary market records moderate activity ahead of monetary policy announcement",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-records-moderate-activity-ahead-of-monetary-policy-announcement/273-346257",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-4492deec",
+    "num": "dailymirrorlk-4492deec",
+    "date_str": "2026-07-22",
+    "description": "Govt. dismisses false claims over EPF, ETF reforms",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Govt-dismisses-false-claims-over-EPF-ETF-reforms/273-346258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-1f1e0cce",
+    "num": "dailymirrorlk-1f1e0cce",
+    "date_str": "2026-07-22",
+    "description": "Sri Lanka\u2019s tax holidays losing edge as global rules rewrite investment game",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankas-tax-holidays-losing-edge-as-global-rules-rewrite-investment-game/273-346259",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-8419df0d",
+    "num": "dailymirrorlk-8419df0d",
+    "date_str": "2026-07-22",
+    "description": "Cost pressures outweigh fuel price gains at Lanka IOC in\u00a01Q",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cost-pressures-outweigh-fuel-price-gains-at-Lanka-IOC-in1Q/273-346260",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-98e911f2",
+    "num": "dailymirrorlk-98e911f2",
+    "date_str": "2026-07-22",
+    "description": "June inflation jumps to 6.5%",
+    "url_metadata": "https://www.dailymirror.lk/business-news/June-inflation-jumps-to-6-5/273-346261",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-a50c7c78",
+    "num": "dailymirrorlk-a50c7c78",
+    "date_str": "2026-07-22",
+    "description": "State entities face heat over delayed annual reports and financial mismanagement",
+    "url_metadata": "https://www.dailymirror.lk/business-main/State-entities-face-heat-over-delayed-annual-reports-and-financial-mismanagement/245-346262",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-074f6392",
+    "num": "dailymirrorlk-074f6392",
+    "date_str": "2026-07-22",
+    "description": "Stop openly displaying alcohol for sale in supermarkets",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Stop-openly-displaying-alcohol-for-sale-in-supermarkets/172-346263",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-5526d6af",
+    "num": "dailymirrorlk-5526d6af",
+    "date_str": "2026-07-22",
+    "description": "Cleanliness is a public responsibility too!",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Cleanliness-is-a-public-responsibility-too/172-346264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784660967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-fbc52bc2",
+    "num": "dailymirrorlk-fbc52bc2",
+    "date_str": "2026-07-22",
+    "description": "Despite \u2018Clean Sri Lanka\u2019, our cities are becoming dirtier and messier",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Despite-Clean-Sri-Lanka-our-cities-are-becoming-dirtier-and-messier/172-346265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784661362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-1b31103a",
+    "num": "dailymirrorlk-1b31103a",
+    "date_str": "2026-07-22",
+    "description": "Exposing the rot in Sri Lanka\u2019s prisons, drug policies and demanding intelligence  - led prevention",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Exposing-the-rot-in-Sri-Lankas-prisons-drug-policies-and-demanding-intelligence-led-prevention/172-346267",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784662292.0
   }
 ]
