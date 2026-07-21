@@ -1,0 +1,65 @@
+Growth of Sri Lanka’s financial services industry through digital transformation
+
+Salesforce South Asia President and CEO Arundhati Bhattacharya in this interview shares key insights into growth of Sri Lanka’s financial services industry through digital information. Following are excerpts.
+
+Q: Sri Lanka’s financial sector is entering a period of rebuilding and modernisation. From your perspective, what role can digital transformation play in accelerating the growth of the country’s banking and financial services industry?
+
+A: I believe Sri Lanka’s financial sector is at an inflection point. Every country that has emerged stronger after periods of economic uncertainty has done so by rebuilding confidence—in institutions, in markets and among citizens. Financial services sit at the centre of that recovery.
+
+Digital transformation is often viewed as a technology agenda. I see it as an economic agenda. It enables financial institutions to become more resilient, make better decisions, reduce the cost of serving customers and unlock new avenues for growth. More importantly, it strengthens trust by making banking more transparent, responsive and accessible.
+
+Sri Lanka has already signalled its ambition through its National Digital Economy Strategy 2030, which aims to build a $ 15 billion digital economy and achieve 95% digital literacy by 2030. Those ambitions cannot be realised without a modern financial ecosystem that enables individuals and businesses to participate confidently in the digital economy.
+
+The institutions that will lead this next chapter are unlikely to be those that simply digitise existing processes. They will be the ones that rethink banking around the customer and around intelligence—using trusted data and AI to anticipate needs, personalise experiences and make better decisions in real time.
+
+Q: Customer trust remains one of the most important assets in banking. How can financial institutions leverage technology to deepen customer relationships while maintaining trust and confidence?
+
+A: Trust has always been the currency of banking. Technology doesn’t change that—it simply raises the standard for how trust is earned.
+
+Today’s customers don’t compare their bank with another bank. They compare every interaction with the best digital experience they’ve had anywhere. They expect their financial institution to understand them, respond instantly and offer advice that is relevant to their circumstances.
+
+That requires more than digital channels. It requires a complete, trusted understanding of the customer.
+
+AI has the potential to make every customer interaction more meaningful, but only if it’s built on high-quality data, strong governance and human oversight. Without that foundation, AI simply scales inconsistency.
+
+Banks have always played a central role in economic development. In an AI-powered economy, that role becomes even more significant. They have the opportunity not only to finance growth, but to accelerate innovation, expand financial inclusion and help build the confidence that underpins long-term investment
+
+The financial institutions that will differentiate themselves are those that use technology not to remove the human element, but to strengthen it—freeing employees from routine tasks so they can focus on complex conversations, financial guidance and building lasting relationships. In banking, technology may power the experience, but trust will always define it.
+
+Q: India’s financial services sector has undergone a remarkable transformation over the past decade. What lessons from that journey are most relevant for Sri Lanka today?
+
+A: One of the biggest lessons from India’s journey is that digital transformation succeeds when it becomes a national ecosystem rather than an individual technology initiative.
+
+India’s Digital Public Infrastructure, including Aadhaar, UPI and Account Aggregator—created common building blocks that enabled innovation across the financial sector while expanding inclusion at an unprecedented scale. Today, UPI processes over 18 billion transactions every month, demonstrating what becomes possible when digital infrastructure, policy and innovation evolve together.
+
+Sri Lanka’s journey will naturally be different, but the principle remains the same. Sustainable transformation happens when governments, regulators, financial institutions and technology partners move with a shared vision.
+
+The second lesson is equally important. Technology should never be deployed simply because it’s new. It should solve a real customer problem. The organisations that create the greatest long-term value are those that use technology to simplify financial services, improve resilience and strengthen trust—not just digitise existing processes.
+
+Q: Financial inclusion remains a priority across South Asia. How can technology help accelerate access to financial services for underserved communities in Sri Lanka?
+
+A: Financial inclusion is often discussed in terms of access. I believe the bigger objective is economic participation.
+
+Opening a bank account is only the first step. Real inclusion means enabling people to save, borrow, invest, insure themselves against risk and participate confidently in the formal economy.
+
+Sri Lanka’s growing digital infrastructure creates an opportunity to extend these services to rural communities, small businesses and entrepreneurs in ways that were previously difficult or expensive. AI can help institutions better understand customer needs, design products that are more relevant and provide timely financial guidance at scale.
+
+But inclusion cannot be achieved through technology alone. It requires digital literacy, financial education and trust. Sri Lanka has made encouraging progress, with the Department of Census and Statistics reporting that 65% of the population is now digitally literate, and the Government has set an ambitious target of achieving 95% digital literacy by 2030 as part of its National Digital Economy Strategy.
+
+The next challenge is translating digital access into digital confidence, ensuring people have not only the tools, but also the skills and trust to use financial services safely and meaningfully. When those elements come together, technology becomes a powerful leveller, giving more people the opportunity to participate in and benefit from economic growth.
+
+Ultimately, the measure of success is not how many people have access to financial services, but how many are able to improve their lives because of them.
+
+Q: Looking ahead, what should be the top priorities for Sri Lanka’s financial institutions as they prepare for an increasingly digital future?
+
+A: The next decade will not be defined by which institution adopts AI first. It will be defined by which institution learns to combine trust, intelligence and agility most effectively.
+
+First, trust must remain non-negotiable. As AI becomes increasingly embedded in financial services, governance, transparency and responsible use of data will become even more important.
+
+Second, institutions need to move beyond collecting data to creating intelligence. Data sitting in silos has very little value. Connected, trusted data enables organisations to understand customers more deeply, manage risk more effectively and make better decisions faster.
+
+Q: Financial institutions should think beyond digitisation and ask a bigger question: How can we become engines of national growth?
+
+A: Banks have always played a central role in economic development. In an AI-powered economy, that role becomes even more significant. They have the opportunity not only to finance growth, but to accelerate innovation, expand financial inclusion and help build the confidence that underpins long-term investment.
+
+Sri Lanka has demonstrated extraordinary resilience over the past few years. The next phase is about converting that resilience into competitiveness. Financial institutions that embrace technology with purpose, and place trust at the centre of every decision—will play a defining role in shaping that future.

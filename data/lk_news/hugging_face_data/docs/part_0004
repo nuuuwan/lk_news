@@ -307808,6 +307808,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-adalk-01ccfa6b",
+    "num": "adalk-01ccfa6b",
+    "date_str": "2026-07-20",
+    "description": "\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dc5\u0da7 \u0d9c\u0dd0\u0dc5\u0db4\u0dd9\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0dc0\u0dd2 \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dc5\u0da7-\u0d9c\u0dd0\u0dc5\u0db4\u0dd9\u0db1-\u0db4\u0dbb\u0dd2\u0daf\u0dd2-\u0dc0\u0dd2-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-423346",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784566482.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-dailyftlk-961f35ed",
     "num": "dailyftlk-961f35ed",
     "date_str": "2026-07-21",
@@ -307816,5 +307827,126 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1784594562.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-5a04ce9f",
+    "num": "dailyftlk-5a04ce9f",
+    "date_str": "2026-07-21",
+    "description": "Igniting global talent: Port City Colombo\u2019s role in Sri Lanka\u2019s next growth chapter",
+    "url_metadata": "https://www.ft.lk/business/Igniting-global-talent-Port-City-Colombo-s-role-in-Sri-Lanka-s-next-growth-chapter/34-794897",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784596778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-1d7c2ad1",
+    "num": "tamilmirrorlk-1d7c2ad1",
+    "date_str": "2026-07-21",
+    "description": "\u0b95\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1: \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0b95 \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1-\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0b95-\u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0bb5\u0bc1-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-380228",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784596787.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-a9aa47b5",
+    "num": "dailyftlk-a9aa47b5",
+    "date_str": "2026-07-21",
+    "description": "Growth of Sri Lanka\u2019s financial services industry through digital transformation",
+    "url_metadata": "https://www.ft.lk/business/Growth-of-Sri-Lanka-s-financial-services-industry-through-digital-transformation/34-794898",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784596882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-684268d0",
+    "num": "tamilmirrorlk-684268d0",
+    "date_str": "2026-07-21",
+    "description": "40 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 50 \u0b95\u0bbf\u0bb2\u0bcb \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc0\u0b9a\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/40-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-50-\u0b95\u0bbf\u0bb2\u0bcb-\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0bb5\u0bc0\u0b9a\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd/175-380229",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784597559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-984acff4",
+    "num": "dailyftlk-984acff4",
+    "date_str": "2026-07-21",
+    "description": "Sri Lankan exporters face new EU sustainability rules as compliance deadlines loom",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-exporters-face-new-EU-sustainability-rules-as-compliance-deadlines-loom/34-794914",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784600414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-8f14021f",
+    "num": "dailyftlk-8f14021f",
+    "date_str": "2026-07-21",
+    "description": "Hafele strengthens retail presence in  Sri Lanka with Damro",
+    "url_metadata": "https://www.ft.lk/business/Hafele-strengthens-retail-presence-in-Sri-Lanka-with-Damro/34-794915",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784600549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-38e50da4",
+    "num": "dailyftlk-38e50da4",
+    "date_str": "2026-07-21",
+    "description": "MAS\u2019 Rajiv Dharmendra joins Serendib Land Board",
+    "url_metadata": "https://www.ft.lk/business/MAS-Rajiv-Dharmendra-joins-Serendib-Land-Board/34-794916",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784600784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-22842730",
+    "num": "dailyftlk-22842730",
+    "date_str": "2026-07-21",
+    "description": "Energy sector stakeholders identify priorities to accelerate Sri Lanka\u2019s renewable energy transition",
+    "url_metadata": "https://www.ft.lk/business/Energy-sector-stakeholders-identify-priorities-to-accelerate-Sri-Lanka-s-renewable-energy-transition/34-794917",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784600826.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-c734f5ee",
+    "num": "dailyftlk-c734f5ee",
+    "date_str": "2026-07-21",
+    "description": "BASL urges consultative committee on judicial retirement age proposal",
+    "url_metadata": "https://www.ft.lk/news/BASL-urges-consultative-committee-on-judicial-retirement-age-proposal/56-794918",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784601076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-f46f667b",
+    "num": "tamilmirrorlk-f46f667b",
+    "date_str": "2026-07-21",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: 4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd-\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-380230",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784602665.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-f12fa415",
+    "num": "dailymirrorlk-f12fa415",
+    "date_str": "2026-07-21",
+    "description": "SriLankan suspends Kuwait flights until July 26",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-suspends-Kuwait-flights-until-July-26/108-346165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784603782.0
   }
 ]
