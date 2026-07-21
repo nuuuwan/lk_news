@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-21 12:38:37",
-  "n_docs": 124419,
+  "time_updated": "2026-07-21 14:40:49",
+  "n_docs": 124434,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124419,
+  "n_docs_with_text": 124434,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-21",
-  "dataset_size": 1943079149,
+  "dataset_size": 1943326759,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-21-dailymirrorlk-dde57d29",
-    "num": "dailymirrorlk-dde57d29",
+    "doc_id": "2026-07-21-dailymirrorlk-2fc066e2",
+    "num": "dailymirrorlk-2fc066e2",
     "date_str": "2026-07-21",
-    "description": "Cattle meant for milking killed for meat: MP",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cattle-meant-for-milking-killed-for-meat-MP/108-346197",
+    "description": "French lawmakers expected to pass social media ban for children under 15",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-lawmakers-expected-to-pass-social-media-ban-for-children-under-15/108-346219",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784617306.0
+    "time_ut": 1784624144.0
   }
 }

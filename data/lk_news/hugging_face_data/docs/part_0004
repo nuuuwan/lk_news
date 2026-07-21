@@ -308589,6 +308589,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-679a59fc",
+    "num": "adalk-679a59fc",
+    "date_str": "2026-07-21",
+    "description": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2/9-423353",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784613190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-4d78f394",
+    "num": "adalk-4d78f394",
+    "date_str": "2026-07-21",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dd4\u0dc0\u0dcf\u0da7 \u0dad\u0dd4\u0db1\u0dca \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0db6\u0dd2\u0dbd\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dd4\u0dc0\u0dcf\u0da7-\u0dad\u0dd4\u0db1\u0dca-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db6\u0dd2\u0dbd\u0dd2/11-423354",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784613443.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-tamilmirrorlk-81095fe6",
     "num": "tamilmirrorlk-81095fe6",
     "date_str": "2026-07-21",
@@ -308663,5 +308685,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784617306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-5b1e2461",
+    "num": "dailymirrorlk-5b1e2461",
+    "date_str": "2026-07-21",
+    "description": "Animals Amendment Bill presented to Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Animals-Amendment-Bill-presented-to-Parliament/108-346198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784617448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-060ba5e1",
+    "num": "dailymirrorlk-060ba5e1",
+    "date_str": "2026-07-21",
+    "description": "No confidence motion on Justice Minister handed over to Speaker",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-confidence-motion-on-Justice-Minister-handed-over-to-Speaker/108-346199",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784617572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-302b7467",
+    "num": "dailymirrorlk-302b7467",
+    "date_str": "2026-07-21",
+    "description": "Five dead in Homagama factory fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-dead-in-Homagama-factory-fire/108-346207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784620110.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-c3179e93",
+    "num": "tamilmirrorlk-c3179e93",
+    "date_str": "2026-07-21",
+    "description": "\u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae \u0ba4\u0bc0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf 5 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae-\u0ba4\u0bc0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf-5-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-380245",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784620951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-9c890d31",
+    "num": "dailymirrorlk-9c890d31",
+    "date_str": "2026-07-21",
+    "description": "Bi-annual inspection at Ragama Police",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Bi-annual-inspection-at-Ragama-Police/110-346210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784622316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-0122b344",
+    "num": "dailymirrorlk-0122b344",
+    "date_str": "2026-07-21",
+    "description": "US issues \u2018worldwide caution\u2019 alert for American citizens over Mid-East tensions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-issues-worldwide-caution-alert-for-American-citizens-over-Mid-East-tensions/108-346211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784622803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-e2aac366",
+    "num": "dailymirrorlk-e2aac366",
+    "date_str": "2026-07-21",
+    "description": "Sri Lanka\u2019s sprint star Yupun Abeykoon announces retirement from athletics",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-sprint-star-Yupun-Abeykoon-announces-retirement-from-athletics/108-346212",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784622917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-1389758a",
+    "num": "dailymirrorlk-1389758a",
+    "date_str": "2026-07-21",
+    "description": "Court issues order against Sumathi Studios over Chandran Rutnam\u2019s film \u2019Rizana: A Caged Bird\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-issues-order-against-Sumathi-Studios-over-Chandran-Rutnams-film-Rizana-A-Caged-Bird/108-346213",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784623145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-2845da0c",
+    "num": "dailymirrorlk-2845da0c",
+    "date_str": "2026-07-21",
+    "description": "Harsha lauds Southern Expressway emergency roadside assistance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Harsha-lauds-Southern-Expressway-emergency-roadside-assistance/108-346215",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784623657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-2567f773",
+    "num": "dailymirrorlk-2567f773",
+    "date_str": "2026-07-21",
+    "description": "SLTB to get 600 new deluxe AC buses for intercity travel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLTB-to-get-600-new-deluxe-AC-buses-for-intercity-travel/108-346217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784623752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-4af4d59d",
+    "num": "dailymirrorlk-4af4d59d",
+    "date_str": "2026-07-21",
+    "description": "New Sri Lanka foreign employment law to replace 1985 Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Sri-Lanka-foreign-employment-law-to-replace-1985-Act/108-346218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784623861.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-5ffbe4fd",
+    "num": "tamilmirrorlk-5ffbe4fd",
+    "date_str": "2026-07-21",
+    "description": "\u2019\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bbe\u2019 \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f  \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bbe-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f-\u0ba4\u0b9f\u0bc8/175-380246",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784623870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-2fc066e2",
+    "num": "dailymirrorlk-2fc066e2",
+    "date_str": "2026-07-21",
+    "description": "French lawmakers expected to pass social media ban for children under 15",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-lawmakers-expected-to-pass-social-media-ban-for-children-under-15/108-346219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784624144.0
   }
 ]
