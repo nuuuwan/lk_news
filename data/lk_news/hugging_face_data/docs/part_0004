@@ -304585,6 +304585,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-17-islandlk-78c32801",
+    "num": "islandlk-78c32801",
+    "date_str": "2026-07-17",
+    "description": "Conspiracies galore!",
+    "url_metadata": "http://island.lk/conspiracies-galore/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784302140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-17-islandlk-0e80d12d",
     "num": "islandlk-0e80d12d",
     "date_str": "2026-07-17",
@@ -305344,6 +305355,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-1ef08387",
+    "num": "islandlk-1ef08387",
+    "date_str": "2026-07-18",
+    "description": "America at 250: Most unfitting President, Biggest World Cup Tournament",
+    "url_metadata": "http://island.lk/america-at-250-most-unfitting-president-biggest-world-cup-tournament/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784367720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-islandlk-bee10230",
     "num": "islandlk-bee10230",
     "date_str": "2026-07-18",
@@ -306059,6 +306081,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-750bc7d7",
+    "num": "islandlk-750bc7d7",
+    "date_str": "2026-07-19",
+    "description": "The Curious Naturalist: Rohan Pethiyagoda\u2019s invaluable gift to Sri Lankan nature lovers",
+    "url_metadata": "http://island.lk/the-curious-naturalist-rohan-pethiyagodas-invaluable-gift-to-sri-lankan-nature-lovers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784466300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-19-dailymirrorlk-e99d9181",
     "num": "dailymirrorlk-e99d9181",
     "date_str": "2026-07-19",
@@ -306147,6 +306180,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-79124b67",
+    "num": "islandlk-79124b67",
+    "date_str": "2026-07-19",
+    "description": "Lost opportunities for meaningful constitutional reform",
+    "url_metadata": "http://island.lk/lost-opportunities-for-meaningful-constitutional-reform/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784480400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-19-islandlk-37c61269",
     "num": "islandlk-37c61269",
     "date_str": "2026-07-19",
@@ -306177,6 +306221,28 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784484360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-19-islandlk-984acff4",
+    "num": "islandlk-984acff4",
+    "date_str": "2026-07-19",
+    "description": "Sri Lankan exporters face new EU sustainability rules as compliance deadlines loom",
+    "url_metadata": "http://island.lk/sri-lankan-exporters-face-new-eu-sustainability-rules-as-compliance-deadlines-loom/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784484420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-e64ce34b",
+    "num": "islandlk-e64ce34b",
+    "date_str": "2026-07-20",
+    "description": "TikTok expands AI literacy efforts to help people better understand AI-generated content",
+    "url_metadata": "http://island.lk/tiktok-expands-ai-literacy-efforts-to-help-people-better-understand-ai-generated-content/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784485920.0
   },
   {
     "doc_type": "lk_news",
@@ -307511,6 +307577,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-55e43455",
+    "num": "islandlk-55e43455",
+    "date_str": "2026-07-20",
+    "description": "Commercial Bank MD/CEO Sanath Manatunge appointed chairman, EFC",
+    "url_metadata": "http://island.lk/commercial-bank-md-ceo-sanath-manatunge-appointed-chairman-efc/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-1c158144",
+    "num": "islandlk-1c158144",
+    "date_str": "2026-07-20",
+    "description": "LANKATILES and the Geoffrey Bawa Trust collaborate",
+    "url_metadata": "http://island.lk/lankatiles-and-the-geoffrey-bawa-trust-collaborate/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-c605c315",
+    "num": "islandlk-c605c315",
+    "date_str": "2026-07-20",
+    "description": "HNB Life wins three Gold Awards",
+    "url_metadata": "http://island.lk/hnb-life-wins-three-gold-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-20-tamilmirrorlk-a4c71334",
     "num": "tamilmirrorlk-a4c71334",
     "date_str": "2026-07-20",
@@ -307519,6 +307618,28 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784551568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-2e350a6c",
+    "num": "islandlk-2e350a6c",
+    "date_str": "2026-07-20",
+    "description": "HNB retains Euromoney\u2019s Best Bank for Large Corporates title in Sri Lanka",
+    "url_metadata": "http://island.lk/hnb-retains-euromoneys-best-bank-for-large-corporates-title-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-fdb26e6d",
+    "num": "islandlk-fdb26e6d",
+    "date_str": "2026-07-20",
+    "description": "From Colombo to exile: An evocative story of loss, memory and quiet resilience",
+    "url_metadata": "http://island.lk/from-colombo-to-exile-an-evocative-story-of-loss-memory-and-quiet-resilience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551920.0
   },
   {
     "doc_type": "lk_news",
@@ -307541,6 +307662,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784552220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-913dce05",
+    "num": "islandlk-913dce05",
+    "date_str": "2026-07-20",
+    "description": "Justice as security: Restorative mechanisms and the imperative of a paradigm shift",
+    "url_metadata": "http://island.lk/justice-as-security-restorative-mechanisms-and-the-imperative-of-a-paradigm-shift/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784552580.0
   },
   {
     "doc_type": "lk_news",
@@ -307673,5 +307805,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784563859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailyftlk-961f35ed",
+    "num": "dailyftlk-961f35ed",
+    "date_str": "2026-07-21",
+    "description": "Growing into the storm",
+    "url_metadata": "https://www.ft.lk/columns/Growing-into-the-storm/4-794892",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784594562.0
   }
 ]
