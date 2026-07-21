@@ -308897,6 +308897,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-a3b2aff7",
+    "num": "adalk-a3b2aff7",
+    "date_str": "2026-07-21",
+    "description": "\u0dba\u0dd4\u0db4\u0dd4\u0db1\u0dca \u0d9a\u0dd9\u0da7\u0dd2\u0daf\u0dd4\u0dbb \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7 \u0dc3\u0db8\u0dd4\u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dd4\u0db4\u0dd4\u0db1\u0dca-\u0d9a\u0dd9\u0da7\u0dd2\u0daf\u0dd4\u0dbb-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0da7-\u0dc3\u0db8\u0dd4\u0daf\u0dd9\u0dba\u0dd2/11-423358",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784627211.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-tamilmirrorlk-8b005d28",
     "num": "tamilmirrorlk-8b005d28",
     "date_str": "2026-07-21",
@@ -308916,6 +308927,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784628598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-9cacc4e8",
+    "num": "adalk-9cacc4e8",
+    "date_str": "2026-07-21",
+    "description": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1 \u0db4\u0db1\u0dad \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db1\u0dc0 \u0db4\u0db1\u0dad\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dc3\u0dda\u0dc0\u0dcf-\u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1-\u0db4\u0db1\u0dad-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db1\u0dc0-\u0db4\u0db1\u0dad\u0d9a\u0dca/11-423359",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784628815.0
   },
   {
     "doc_type": "lk_news",
@@ -308971,5 +308993,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784630560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-d18202ba",
+    "num": "tamilmirrorlk-d18202ba",
+    "date_str": "2026-07-21",
+    "description": "\u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0b9f\u0bbf\u0baf 3 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9 (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bbf\u0bb2\u0bcd-\u0b93\u0b9f\u0bbf\u0baf-3-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-380252",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784630560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-86608862",
+    "num": "dailymirrorlk-86608862",
+    "date_str": "2026-07-21",
+    "description": "Special Cabinet panel reviews preparedness for possible El Ni\u00f1o impacts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-Cabinet-panel-reviews-preparedness-for-possible-El-Ni\u00f1o-impacts/108-346233",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784631244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-ae33c930",
+    "num": "dailymirrorlk-ae33c930",
+    "date_str": "2026-07-21",
+    "description": "Full probe ordered into Homagama factory fire that killed five",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Full-probe-ordered-into-Homagama-factory-fire-that-killed-five/108-346235",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784631626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-44db1424",
+    "num": "dailymirrorlk-44db1424",
+    "date_str": "2026-07-21",
+    "description": "Dengue risk to remain high for next three weeks: Health Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-risk-to-remain-high-for-next-three-weeks-Health-Minister/108-346236",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784634227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-fcf36f4d",
+    "num": "tamilmirrorlk-fcf36f4d",
+    "date_str": "2026-07-21",
+    "description": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95 \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd-\u0b9a\u0bae\u0bc2\u0b95-\u0b8a\u0b9f\u0b95-\u0ba4\u0b9f\u0bc8/50-380253",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784635207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-ecb254fd",
+    "num": "dailymirrorlk-ecb254fd",
+    "date_str": "2026-07-21",
+    "description": "My last days in Parliament: MP Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/My-last-days-in-Parliament-MP-Archchuna/108-346237",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784635776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-4ab7071c",
+    "num": "tamilmirrorlk-4ab7071c",
+    "date_str": "2026-07-21",
+    "description": "2 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8: \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0bae\u0b95\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380254",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784636101.0
   }
 ]
