@@ -308611,6 +308611,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-ef81caae",
+    "num": "adalk-ef81caae",
+    "date_str": "2026-07-21",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dcf\u0dbb\u0dd2\u0dc3\u0dbb\u0dd2\u0d9a \u0db4\u0db1\u0dad \u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0dcf\u0dbb\u0dd2\u0dc3\u0dbb\u0dd2\u0d9a-\u0db4\u0db1\u0dad-\u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2/11-423355",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784613634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-1c7c8b26",
+    "num": "adalk-1c7c8b26",
+    "date_str": "2026-07-21",
+    "description": "\u0dc4\u0ddd\u0da7\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda \u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0da7 \u0d9a\u0dd1\u0db8 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0ddc\u0dad\u0dca \u0db1\u0dd2\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddd\u0da7\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda-\u0d9c\u0ddd\u0db1\u0dd4\u0db1\u0dca\u0da7-\u0d9a\u0dd1\u0db8-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0ddc\u0dad\u0dca-\u0db1\u0dd2\u0dad\u0dd2\u0dba/11-423356",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784613942.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-tamilmirrorlk-81095fe6",
     "num": "tamilmirrorlk-81095fe6",
     "date_str": "2026-07-21",
@@ -308828,5 +308850,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784624144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-2eb44b1a",
+    "num": "tamilmirrorlk-2eb44b1a",
+    "date_str": "2026-07-21",
+    "description": "\u0b92\u0bb0\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd 3 \u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc7-\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd-3-\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-380247",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784624989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-e61a00fe",
+    "num": "tamilmirrorlk-e61a00fe",
+    "date_str": "2026-07-21",
+    "description": "AI \u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 (\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd) \u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/science-tech/AI-\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd-\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b85\u0ba9\u0bc1\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/57-380249",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784625755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-11e98c5b",
+    "num": "dailymirrorlk-11e98c5b",
+    "date_str": "2026-07-21",
+    "description": "What the Nuns of Canterbury Can Teach You About PR",
+    "url_metadata": "https://www.dailymirror.lk/opinion/What-the-Nuns-of-Canterbury-Can-Teach-You-About-PR/231-346222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784625763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-7f40f844",
+    "num": "adalk-7f40f844",
+    "date_str": "2026-07-21",
+    "description": "\u0daf\u0dd4\u0dbb\u0d9c\u0db8\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0d82\u0d9c\u0db8\u0da7 \u0dc0\u0dcf\u0dba\u0dd4 \u0dc3\u0db8\u0db1\u0dba \u0d9a\u0dc5\u00a0\u0db6\u0dc3\u0dca \u0dbb\u0dae 600\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0dbb\u0d9c\u0db8\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0dbd\u0d82\u0d9c\u0db8\u0da7-\u0dc0\u0dcf\u0dba\u0dd4-\u0dc3\u0db8\u0db1\u0dba-\u0d9a\u0dc5\u00a0\u0db6\u0dc3\u0dca-\u0dbb\u0dae-600\u0d9a\u0dca/11-423357",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784626251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-8b005d28",
+    "num": "tamilmirrorlk-8b005d28",
+    "date_str": "2026-07-21",
+    "description": "\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb  \u0b8f\u0bb1\u0bcd\u0baa\u0b9f 81% \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f-81-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1/175-380250",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784628111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-d0732bc1",
+    "num": "dailymirrorlk-d0732bc1",
+    "date_str": "2026-07-21",
+    "description": "CAA raids 112 shops and restaurants near bus stands over consumer law violations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-raids-112-shops-and-restaurants-near-bus-stands-over-consumer-law-violations/108-346228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784628598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-77725d7c",
+    "num": "dailymirrorlk-77725d7c",
+    "date_str": "2026-07-21",
+    "description": "Govt to revise power generation plan to boost renewable energy share",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-revise-power-generation-plan-to-boost-renewable-energy-share/108-346229",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784628856.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-7a65d0fb",
+    "num": "dailymirrorlk-7a65d0fb",
+    "date_str": "2026-07-21",
+    "description": "LRH urges parents to bring key medical documents due to dengue surge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LRH-urges-parents-to-bring-key-medical-documents-due-to-dengue-surge/108-346230",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784629112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-68b36209",
+    "num": "dailymirrorlk-68b36209",
+    "date_str": "2026-07-21",
+    "description": "PM meets UK delegation on rabies eradication",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-meets-UK-delegation-on-rabies-eradication/108-346231",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784629371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-044426d0",
+    "num": "tamilmirrorlk-044426d0",
+    "date_str": "2026-07-21",
+    "description": "\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/76-380251",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784630112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-65ab08ee",
+    "num": "tamilmirrorlk-65ab08ee",
+    "date_str": "2026-07-21",
+    "description": "\u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0b9f\u0bbf\u0baf 3 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bbf\u0bb2\u0bcd-\u0b93\u0b9f\u0bbf\u0baf-3-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9/76-380252",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784630560.0
   }
 ]
