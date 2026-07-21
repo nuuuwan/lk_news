@@ -309213,5 +309213,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784651750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-ececc5bd",
+    "num": "dailymirrorlk-ececc5bd",
+    "date_str": "2026-07-21",
+    "description": "Sri Lanka Corporate Director Summit today",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Corporate-Director-Summit-today/273-346245",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784657231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-0f9e92d0",
+    "num": "dailymirrorlk-0f9e92d0",
+    "date_str": "2026-07-21",
+    "description": "JKCG surges ahead with BYD after-sales network expansion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/JKCG-surges-ahead-with-BYD-after-sales-network-expansion/273-346246",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784657976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-444413a1",
+    "num": "dailymirrorlk-444413a1",
+    "date_str": "2026-07-21",
+    "description": "NovaNest Properties launches Rainbow Apartments",
+    "url_metadata": "https://www.dailymirror.lk/business-news/NovaNest-Properties-launches-Rainbow-Apartments/273-346247",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784658144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-697c0b81",
+    "num": "dailymirrorlk-697c0b81",
+    "date_str": "2026-07-21",
+    "description": "Sri Lanka Brand Conclave 2026 on July 28",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Brand-Conclave-2026-on-July-28/273-346248",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784658302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-108bed3c",
+    "num": "dailymirrorlk-108bed3c",
+    "date_str": "2026-07-22",
+    "description": "Exporters face new EU sustainability rules",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Exporters-face-new-EU-sustainability-rules/273-346249",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784658602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-b9f2ad70",
+    "num": "dailymirrorlk-b9f2ad70",
+    "date_str": "2026-07-22",
+    "description": "AmCham Sri Lanka represents member interests at Washington Doorknock 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/AmCham-Sri-Lanka-represents-member-interests-at-Washington-Doorknock-2026/273-346250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784658750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-6bc09cde",
+    "num": "dailymirrorlk-6bc09cde",
+    "date_str": "2026-07-22",
+    "description": "LB CIM launches SL\u2019s NextGen virtual debit card",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LB-CIM-launches-SLs-NextGen-virtual-debit-card/273-346251",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784658830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-e582f252",
+    "num": "dailymirrorlk-e582f252",
+    "date_str": "2026-07-22",
+    "description": "FCAM concludes Professional Fund Management course for Kelaniya University",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FCAM-concludes-Professional-Fund-Management-course-for-Kelaniya-University/273-346252",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-b9d53b3a",
+    "num": "dailymirrorlk-b9d53b3a",
+    "date_str": "2026-07-22",
+    "description": "Divolca Nova range earns three SLSI quality certificates",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Divolca-Nova-range-earns-three-SLSI-quality-certificates/273-346253",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784659296.0
   }
 ]
