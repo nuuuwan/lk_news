@@ -308996,6 +308996,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-adalk-6439eac8",
+    "num": "adalk-6439eac8",
+    "date_str": "2026-07-21",
+    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc3\u0db7\u0dcf \u0dc4\u0dcf \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1 \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7 \u0d85\u0dba\u0dad\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0d9c 60\u0d9a\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc3\u0db7\u0dcf-\u0dc4\u0dcf-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0d85\u0dba\u0dad\u0dca-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-60\u0d9a\u0dca-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca/11-423362",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784629960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-tamilmirrorlk-044426d0",
     "num": "tamilmirrorlk-044426d0",
     "date_str": "2026-07-21",
@@ -309095,6 +309106,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-12ad587e",
+    "num": "dailymirrorlk-12ad587e",
+    "date_str": "2026-07-21",
+    "description": "PM at CMA National Management Accounting Conference",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/PM-at-CMA-National-Management-Accounting-Conference/110-346238",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784637787.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-dailymirrorlk-63d2673b",
     "num": "dailymirrorlk-63d2673b",
     "date_str": "2026-07-21",
@@ -309114,5 +309136,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784641584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-86af0a12",
+    "num": "tamilmirrorlk-86af0a12",
+    "date_str": "2026-07-21",
+    "description": "\u2019\u2019\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb2\u0bcd\u0bb2, \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0b95\u0bcd-\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0bb2\u0bcd\u0bb2-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b9a\u0bca\u0ba8\u0bcd\u0ba4-\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-380268",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784647306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-8f794c07",
+    "num": "dailymirrorlk-8f794c07",
+    "date_str": "2026-07-21",
+    "description": "Pakistan steps in as US-Iran war widens and Hormuz shipping stalls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-steps-in-as-US-Iran-war-widens-and-Hormuz-shipping-stalls/108-346241",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784647748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-ca22163d",
+    "num": "dailymirrorlk-ca22163d",
+    "date_str": "2026-07-21",
+    "description": "Rahul Gandhi, Priyanka Gandhi Vadra detained by Delhi Police amid protest near PM residence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rahul-Gandhi-Priyanka-Gandhi-Vadra-detained-by-Delhi-Police-amid-protest-near-PM-residence/108-346242",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784647856.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-6d61d6ae",
+    "num": "dailymirrorlk-6d61d6ae",
+    "date_str": "2026-07-21",
+    "description": "CIABOC begins probe on former Minister Akila Viraj",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CIABOC-begins-probe-on-former-Minister-Akila-Viraj/108-346243",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784649644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-ff321171",
+    "num": "tamilmirrorlk-ff321171",
+    "date_str": "2026-07-21",
+    "description": "\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd  \u0b89\u0b9f\u0bb2\u0bc1\u0bb1\u0bb5\u0bc1 ; \u0b89\u0b9f\u0bb2\u0bc8 \u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0b89\u0b9f\u0bb2\u0bc1\u0bb1\u0bb5\u0bc1-\u0b89\u0b9f\u0bb2\u0bc8-\u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf-\u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1/175-380270",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784650111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-tamilmirrorlk-c335e1f9",
+    "num": "tamilmirrorlk-c335e1f9",
+    "date_str": "2026-07-21",
+    "description": "\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb Call\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0bc2. 6,000 ; \u0baa\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb8\u0bcd \u0ba4\u0bb0\u0bcd\u0bb7\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb-Call\u0b95\u0bcd\u0b95\u0bc1-\u0bb0\u0bc2-6-000-\u0baa\u0bbf\u0b95\u0bcd-\u0baa\u0bbe\u0bb8\u0bcd-\u0ba4\u0bb0\u0bcd\u0bb7\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd/54-380271",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784651231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-dailymirrorlk-24908a7b",
+    "num": "dailymirrorlk-24908a7b",
+    "date_str": "2026-07-21",
+    "description": "Former State Minister\u2019s son arrested over Rs. 20M robbery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-State-Ministers-son-arrested-over-Rs-20M-robbery/108-346244",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784651750.0
   }
 ]

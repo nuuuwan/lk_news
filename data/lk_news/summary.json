@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-21 20:25:59",
-  "n_docs": 124460,
+  "time_updated": "2026-07-21 22:15:49",
+  "n_docs": 124469,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124460,
+  "n_docs_with_text": 124469,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-21",
-  "dataset_size": 1943729418,
+  "dataset_size": 1943792039,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-21-dailymirrorlk-97b13a4d",
-    "num": "dailymirrorlk-97b13a4d",
+    "doc_id": "2026-07-21-dailymirrorlk-24908a7b",
+    "num": "dailymirrorlk-24908a7b",
     "date_str": "2026-07-21",
-    "description": "Crossings dominate market activity as ASPI extends decline",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Crossings-dominate-market-activity-as-ASPI-extends-decline/108-346240",
+    "description": "Former State Minister\u2019s son arrested over Rs. 20M robbery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-State-Ministers-son-arrested-over-Rs-20M-robbery/108-346244",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784641584.0
+    "time_ut": 1784651750.0
   }
 }
