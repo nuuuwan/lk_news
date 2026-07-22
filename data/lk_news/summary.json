@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-22 16:28:24",
-  "n_docs": 124600,
+  "time_updated": "2026-07-22 18:19:36",
+  "n_docs": 124611,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124600,
+  "n_docs_with_text": 124611,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-22",
-  "dataset_size": 1945491028,
+  "dataset_size": 1945649175,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-dailymirrorlk-21b6ff5f",
-    "num": "dailymirrorlk-21b6ff5f",
+    "doc_id": "2026-07-22-tamilmirrorlk-f15851cf",
+    "num": "tamilmirrorlk-f15851cf",
     "date_str": "2026-07-22",
-    "description": "Tokyo urges men to wear shorts to work, but some women say it\u2019s \u2019leg hair harassment\u2019",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tokyo-urges-men-to-wear-shorts-to-work-but-some-women-say-its-leg-hair-harassment/108-346347",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784717495.0
+    "description": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bb2\u0bbe\u0ba4\u0bcd\u0b95\u0bbe\u0bb0\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd   \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 6 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0baa\u0bb2\u0bbe\u0ba4\u0bcd\u0b95\u0bbe\u0bb0\u0baa\u0bcd-\u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-6-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8/53-380315",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784724356.0
   }
 }

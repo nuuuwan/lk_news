@@ -310591,6 +310591,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-a58d2a33",
+    "num": "tamilmirrorlk-a58d2a33",
+    "date_str": "2026-07-22",
+    "description": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-380296",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784710947.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-tamilmirrorlk-323d0f4e",
     "num": "tamilmirrorlk-323d0f4e",
     "date_str": "2026-07-22",
@@ -310610,6 +310621,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784712038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-f6a9f23e",
+    "num": "adalk-f6a9f23e",
+    "date_str": "2026-07-22",
+    "description": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dc5\u0dcf\u0dad\u0dca 9 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0dda \u0db7\u0dd6\u0d9c\u0ddd\u0dbd \u0dc4\u0dcf \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0dab \u0db4\u0dad\u0dca\u200d\u0dbb \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0da7 \u0dbd\u0dd0\u0db6\u0dd3 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0d9a\u0dd4\u0dab\u0dd4-\u0db4\u0dc5\u0dcf\u0dad\u0dca-9-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0dda-\u0db7\u0dd6\u0d9c\u0ddd\u0dbd-\u0dc4\u0dcf-\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0dab-\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad-\u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0da7-\u0dbd\u0dd0\u0db6\u0dd3-\u0db1\u0dd1/11-423377",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784712080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-aeb79406",
+    "num": "adalk-aeb79406",
+    "date_str": "2026-07-22",
+    "description": "\u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0dc4\u0dba\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 9 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0dbd\u0dca-\u0db8\u0dcf\u0dc3-\u0dc4\u0dba\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-9-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-423378",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784713835.0
   },
   {
     "doc_type": "lk_news",
@@ -310654,5 +310687,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784717495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-1aa15d1c",
+    "num": "dailymirrorlk-1aa15d1c",
+    "date_str": "2026-07-22",
+    "description": "Sri Lanka draws crowds at Lotus Festival in Los Angeles",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-draws-crowds-at-Lotus-Festival-in-Los-Angeles/110-346348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784717766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-f16eed80",
+    "num": "dailymirrorlk-f16eed80",
+    "date_str": "2026-07-22",
+    "description": "Tunnel collapse in India kills 12 workers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tunnel-collapse-in-India-kills-12-workers/108-346349",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784717911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-3c9d07e3",
+    "num": "dailymirrorlk-3c9d07e3",
+    "date_str": "2026-07-22",
+    "description": "Criminal record or false info could permanently block US entry: Embassy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Criminal-record-or-false-info-could-permanently-block-US-entry-Embassy/108-346350",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784718147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-9d94c283",
+    "num": "tamilmirrorlk-9d94c283",
+    "date_str": "2026-07-22",
+    "description": "\u2018Godzilla vs Kong\u2019 \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/Godzilla-vs-Kong-\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/50-380301",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784718415.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-2d7a6832",
+    "num": "dailymirrorlk-2d7a6832",
+    "date_str": "2026-07-22",
+    "description": "DAPH calls for coordinated plan to eliminate rabies by 2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DAPH-calls-for-coordinated-plan-to-eliminate-rabies-by-2030/108-346351",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784718419.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-e5c70ffe",
+    "num": "dailymirrorlk-e5c70ffe",
+    "date_str": "2026-07-22",
+    "description": "Strong wind advisory issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-wind-advisory-issued-for-several-areas/108-346352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784719905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-9ae76d9e",
+    "num": "dailymirrorlk-9ae76d9e",
+    "date_str": "2026-07-22",
+    "description": "Sri Lanka passport rises to 94th in 2026 Henley Index",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-passport-rises-to-94th-in-2026-Henley-Index/108-346353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784721090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-f15851cf",
+    "num": "tamilmirrorlk-f15851cf",
+    "date_str": "2026-07-22",
+    "description": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bb2\u0bbe\u0ba4\u0bcd\u0b95\u0bbe\u0bb0\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd   \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 6 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0baa\u0bb2\u0bbe\u0ba4\u0bcd\u0b95\u0bbe\u0bb0\u0baa\u0bcd-\u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-6-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8/53-380315",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784724356.0
   }
 ]
