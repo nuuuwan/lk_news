@@ -309942,6 +309942,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-7f5e27cf",
+    "num": "adalk-7f5e27cf",
+    "date_str": "2026-07-22",
+    "description": "\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd2\u0dba \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf \u0db8\u0ddc\u0db1\u0dc0\u0dcf\u0daf?",
+    "url_metadata": "https://www.ada.lk/business/\u0db4\u0dd4\u0db1\u0dbb\u0dca\u0da2\u0db1\u0db1\u0dd3\u0dba-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2-\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd2\u0dba-\u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf-\u0db8\u0ddc\u0db1\u0dc0\u0dcf\u0daf-/7-423368",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784690371.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-dailymirrorlk-4e200147",
     "num": "dailymirrorlk-4e200147",
     "date_str": "2026-07-22",
@@ -310008,6 +310019,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-9b217e19",
+    "num": "adalk-9b217e19",
+    "date_str": "2026-07-22",
+    "description": "\u0db8\u0ddd\u0dc4\u0dd2\u0db1\u0dd3 \u0d87\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7 \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae\u0dba\u0dda \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0dc4\u0dd2\u0db1\u0dd3-\u0d87\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7-\u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae\u0dba\u0dda-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423369",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784693241.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-dailymirrorlk-0959fc97",
     "num": "dailymirrorlk-0959fc97",
     "date_str": "2026-07-22",
@@ -310027,6 +310049,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784693561.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-58863431",
+    "num": "adalk-58863431",
+    "date_str": "2026-07-22",
+    "description": "\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0db1\u0ddc\u0dc0\u0dd9\u0db1\u0dc3\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0db4\u0ddc\u0dbd\u0dd3-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba-\u0db1\u0ddc\u0dc0\u0dd9\u0db1\u0dc3\u0dca/11-423370",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784693756.0
   },
   {
     "doc_type": "lk_news",
@@ -310203,5 +310236,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784696912.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-a47129fa",
+    "num": "tamilmirrorlk-a47129fa",
+    "date_str": "2026-07-22",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0bb0\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc8-\u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0bb0\u0bbf-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/52-380286",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784697486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-95225754",
+    "num": "tamilmirrorlk-95225754",
+    "date_str": "2026-07-22",
+    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0ba9\u0bcd\u0baa\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd: \u0b9a\u0bbe\u0bae\u0bb0 \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0ba4\u0bc1\u0ba9\u0bcd\u0baa\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8-\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0bae\u0bb0-\u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd/175-380287",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784697954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-b6a59081",
+    "num": "dailymirrorlk-b6a59081",
+    "date_str": "2026-07-22",
+    "description": "Southern Province Grade 9 Civic Education exam postponed over question paper delay",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Southern-Province-Grade-9-Civic-Education-exam-postponed-over-question-paper-delay/108-346289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784699183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-6487a9c2",
+    "num": "dailymirrorlk-6487a9c2",
+    "date_str": "2026-07-22",
+    "description": "Dengue cases climb to 78,125",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-climb-to-78-125/108-346290",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784699263.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-7874af2d",
+    "num": "tamilmirrorlk-7874af2d",
+    "date_str": "2026-07-22",
+    "description": "\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb2 \u0b85\u0bb4\u0b95\u0bc1\u0bae\u0bbf\u0b95\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb2-\u0b85\u0bb4\u0b95\u0bc1\u0bae\u0bbf\u0b95\u0bc1-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd/46-380288",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784699341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-d4ccbfc4",
+    "num": "dailymirrorlk-d4ccbfc4",
+    "date_str": "2026-07-22",
+    "description": "Veterinarians urge swift passage of Animal Welfare Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Veterinarians-urge-swift-passage-of-Animal-Welfare-Act/108-346291",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784699531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-d0ef2963",
+    "num": "tamilmirrorlk-d0ef2963",
+    "date_str": "2026-07-22",
+    "description": "\u0bb5\u0bbf\u0ba9\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0ba9\u0bc8 ; \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0ba9\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bbe\u0bb2\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0ba9\u0bc8-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf/175-380289",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784700162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-76497b0d",
+    "num": "tamilmirrorlk-76497b0d",
+    "date_str": "2026-07-22",
+    "description": "\u2019\u2019\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc8 \u0b85\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc8-\u0b85\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc8-\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-380290",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784700459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-f37cc1de",
+    "num": "tamilmirrorlk-f37cc1de",
+    "date_str": "2026-07-22",
+    "description": "\u0ba4\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd: \u0bae\u0ba9\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba4\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bae\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd-\u0bae\u0ba9\u0bae\u0bcd-\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8/54-380291",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784700853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-c8fc9069",
+    "num": "dailymirrorlk-c8fc9069",
+    "date_str": "2026-07-22",
+    "description": "Some Presidential palaces converted into court houses: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Some-Presidential-palaces-converted-into-court-houses-PM/108-346297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784700957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-dca26d32",
+    "num": "dailymirrorlk-dca26d32",
+    "date_str": "2026-07-22",
+    "description": "Ven. Omalpe Sobhitha Thera resigns as Chief Sangha Nayaka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ven-Omalpe-Sobhitha-Thera-resigns-as-Chief-Sangha-Nayaka/108-346301",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784701079.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-70f52c7a",
+    "num": "dailymirrorlk-70f52c7a",
+    "date_str": "2026-07-22",
+    "description": "Public invited to name Pinnawala Zoo\u2019s three fishing cat cubs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-invited-to-name-Pinnawala-Zoos-three-fishing-cat-cubs/108-346310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784701753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-12d84e04",
+    "num": "tamilmirrorlk-12d84e04",
+    "date_str": "2026-07-22",
+    "description": "\u0baa\u0bc2\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf: \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc2\u0ba9\u0bc8\u0b95\u0bcd-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380294",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784703812.0
   }
 ]
