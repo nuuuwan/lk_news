@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--22_20:26:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--22_22:16:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,618** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-dailymirrorlk-ab84182f",
-    "num": "dailymirrorlk-ab84182f",
+    "doc_id": "2026-07-22-dailymirrorlk-ebe7a113",
+    "num": "dailymirrorlk-ebe7a113",
     "date_str": "2026-07-22",
-    "description": "Wildlife holiday bungalows to be upgraded",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-holiday-bungalows-to-be-upgraded/108-346355",
+    "description": "Sri Lanka\u2019s exports surpass US$9 billion in first half of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-exports-surpass-US-9-billion-in-first-half-of-2026/108-346358",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784731453.0
+    "time_ut": 1784734248.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-22 | `dailymirrorlk-ebe7a113` | Sri Lanka’s exports surpass US$9 billion in first half of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-ebe7a113)
+- 2026-07-22 | `dailymirrorlk-67a5f36a` | Singer “Chili” fined for attempted assault on police officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-67a5f36a)
+- 2026-07-22 | `dailymirrorlk-e78f639c` | China ready to work with Sri Lanka to build strategic trust: Chinese Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-e78f639c)
 - 2026-07-22 | `dailymirrorlk-ab84182f` | Wildlife holiday bungalows to be upgraded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-ab84182f)
 - 2026-07-22 | `tamilmirrorlk-be130222` | தலைக்கவசம் தொழிற்சாலை  தீயில் மரணித்தவர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-be130222)
 - 2026-07-22 | `tamilmirrorlk-afc65080` | 5 கோடி ரூபாய் பெறுமதியான அலை பேசிகள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-afc65080)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-22 | `dailymirrorlk-442b937b` | Defence Adviser to Indian HC calls on Navy Commander | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-442b937b)
 - 2026-07-22 | `adalk-842c7a80` | ප්‍රවාහන හා නාගරික සංවර්ධන අමාත්‍යාංශයේ නව ලේකම් ආචාර්ය  ආසිරි කරුණාවර්ධන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-842c7a80)
 - 2026-07-22 | `adalk-4117236c` | අලවර්ග හා එළවළු වෙනුවෙන් රක්ෂණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-4117236c)
-- 2026-07-22 | `dailymirrorlk-87fb7cf5` | PM reviews progress of education digitalisation programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-87fb7cf5)
-- 2026-07-22 | `adalk-aeb79406` | මුල් මාස හයේ අපනයනය ඩොලර් බිලියන 9 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-aeb79406)
-- 2026-07-22 | `adalk-f6a9f23e` | දකුණු පළාත් 9 ශ්‍රේණියේ භූගෝල හා පුරවැසි අධ්‍යාපනය ප්‍රශ්ණ පත්‍ර නියමිත වේලාවට ලැබී නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-f6a9f23e)
 
 ---
 

@@ -310852,5 +310852,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784731453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-e78f639c",
+    "num": "dailymirrorlk-e78f639c",
+    "date_str": "2026-07-22",
+    "description": "China ready to work with Sri Lanka to build strategic trust: Chinese Ambassador",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-ready-to-work-with-Sri-Lanka-to-build-strategic-trust-Chinese-Ambassador/108-346356",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784733959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-67a5f36a",
+    "num": "dailymirrorlk-67a5f36a",
+    "date_str": "2026-07-22",
+    "description": "Singer \u201cChili\u201d fined for attempted assault on police officers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Singer-Chili-fined-for-attempted-assault-on-police-officers/108-346357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784734154.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-ebe7a113",
+    "num": "dailymirrorlk-ebe7a113",
+    "date_str": "2026-07-22",
+    "description": "Sri Lanka\u2019s exports surpass US$9 billion in first half of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-exports-surpass-US-9-billion-in-first-half-of-2026/108-346358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784734248.0
   }
 ]
