@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-23 02:15:27",
-  "n_docs": 124642,
+  "time_updated": "2026-07-23 04:06:38",
+  "n_docs": 124648,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124642,
+  "n_docs_with_text": 124648,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-23",
-  "dataset_size": 1946059796,
+  "dataset_size": 1946124815,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-23-dailymirrorlk-50dd02bc",
-    "num": "dailymirrorlk-50dd02bc",
+    "doc_id": "2026-07-23-dailyftlk-611759da",
+    "num": "dailyftlk-611759da",
     "date_str": "2026-07-23",
-    "description": "Black July  that gave birth to two  political  bloodbaths",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Black-July-that-gave-birth-to-two-political-bloodbaths/172-346380",
+    "description": "Minority caucus, PC elections,  SJB and the new Constitution noose",
+    "url_metadata": "https://www.ft.lk/columns/Minority-caucus-PC-elections-SJB-and-the-new-Constitution-noose/4-794996",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784748168.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784758735.0
   }
 }

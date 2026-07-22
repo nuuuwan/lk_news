@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_02:16:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_04:07:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,642** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,648** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-23-dailymirrorlk-50dd02bc",
-    "num": "dailymirrorlk-50dd02bc",
+    "doc_id": "2026-07-23-dailyftlk-611759da",
+    "num": "dailyftlk-611759da",
     "date_str": "2026-07-23",
-    "description": "Black July  that gave birth to two  political  bloodbaths",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Black-July-that-gave-birth-to-two-political-bloodbaths/172-346380",
+    "description": "Minority caucus, PC elections,  SJB and the new Constitution noose",
+    "url_metadata": "https://www.ft.lk/columns/Minority-caucus-PC-elections-SJB-and-the-new-Constitution-noose/4-794996",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784748168.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784758735.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-23 | `dailyftlk-611759da` | Minority caucus, PC elections,  SJB and the new Constitution noose | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-611759da)
+- 2026-07-23 | `dailyftlk-1f10ba92` | The Commonwealth’s greatest prize lies beyond the Games | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-1f10ba92)
+- 2026-07-23 | `dailyftlk-807a2fa8` | Who really pays for digital banking? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-807a2fa8)
+- 2026-07-23 | `dailyftlk-1ec394e4` | Finance Commission of Sri Lanka: Time to rise to the challenge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-1ec394e4)
+- 2026-07-23 | `dailyftlk-45d68a4c` | Sri Lankan passport climbs to highest ranking in five years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-45d68a4c)
+- 2026-07-23 | `dailyftlk-7abf5e07` | No confidence motion against Justice Minister to be debated tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-7abf5e07)
 - 2026-07-23 | `dailymirrorlk-50dd02bc` | Black July  that gave birth to two  political  bloodbaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-50dd02bc)
 - 2026-07-23 | `dailymirrorlk-3cc79229` | Call to upgrade facilities of urban housing complexes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-3cc79229)
 - 2026-07-23 | `dailymirrorlk-34291733` | How leaderless youth movements are reshaping politics in South Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-34291733)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-23 | `dailymirrorlk-c2529531` | Singer Sri Lanka joins Dialog Pay ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-c2529531)
 - 2026-07-23 | `dailymirrorlk-ffbcbf00` | Abans Finance strengthens islandwide presence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-ffbcbf00)
 - 2026-07-23 | `dailymirrorlk-03d82d31` | LOLC Finance expands islandwide reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-03d82d31)
-- 2026-07-23 | `dailymirrorlk-fec3d735` | Hayleys Agriculture opens SL’s 1st frozen concentrated coconut water manufacturing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-fec3d735)
-- 2026-07-23 | `dailymirrorlk-8d876718` | AmCham Sri Lanka and Standard Chartered to bring int’l cybersecurity expertise with ‘SeCure 2026’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8d876718)
-- 2026-07-23 | `dailymirrorlk-4a5af6b1` | HNB Life extends wings into digital future with new mobile app | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-4a5af6b1)
-- 2026-07-23 | `dailymirrorlk-8f3f60d0` | Sampath Bank secures Sumathi Award for Digital Commercial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8f3f60d0)
-- 2026-07-23 | `dailymirrorlk-8dcc4ab7` | Imaarat rises as Colombo’s new landmark address for luxury living | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8dcc4ab7)
-- 2026-07-23 | `dailymirrorlk-bf9d26ed` | SLT-Mobitel opens upgraded Maharagama and Battaramulla outlets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-bf9d26ed)
 
 ---
 
