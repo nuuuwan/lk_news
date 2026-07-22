@@ -310107,6 +310107,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-4360d219",
+    "num": "adalk-4360d219",
+    "date_str": "2026-07-22",
+    "description": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dc3\u0d9a\u0dca \u0dc3\u0dd0\u0dbb\u0dc3\u0dd3\u0db8\u0da7 \u0d9a\u0dd4\u0dc4\u0dd4\u0db9\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0dad\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d85\u0dc0\u0db1\u0dca\u0dc4\u0dbd\u0d9a\u0da7 \u0daf\u0da9",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dc3\u0d9a\u0dca-\u0dc3\u0dd0\u0dbb\u0dc3\u0dd3\u0db8\u0da7-\u0d9a\u0dd4\u0dc4\u0dd4\u0db9\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0dad\u0dca-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0d85\u0dc0\u0db1\u0dca\u0dc4\u0dbd\u0d9a\u0da7-\u0daf\u0da9/11-423371",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784694278.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-tamilmirrorlk-0aacd39a",
     "num": "tamilmirrorlk-0aacd39a",
     "date_str": "2026-07-22",
@@ -310305,6 +310316,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-5afcf107",
+    "num": "adalk-5afcf107",
+    "date_str": "2026-07-22",
+    "description": "\u0dc0\u0dc4\u0dbd \u0db8\u0dad \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db6\u0dbd \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0daf\u0dd9\u0d9c\u0dd4\u0dab \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc4\u0dbd-\u0db8\u0dad-\u0dc3\u0dd6\u0dbb\u0dca\u0dba-\u0db6\u0dbd-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2-\u0db8\u0d9c\u0dd2\u0db1\u0dca-\u0dbd\u0db6\u0dcf\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0daf\u0dd9\u0d9c\u0dd4\u0dab-\u0dc0\u0dd9\u0dbd\u0dcf/11-423372",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784699548.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-tamilmirrorlk-d0ef2963",
     "num": "tamilmirrorlk-d0ef2963",
     "date_str": "2026-07-22",
@@ -310379,5 +310401,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784703812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-914eed0c",
+    "num": "dailymirrorlk-914eed0c",
+    "date_str": "2026-07-22",
+    "description": "Ex-Australia batter David Warner pleads guilty to drink driving",
+    "url_metadata": "https://www.dailymirror.lk/international/Ex-Australia-batter-David-Warner-pleads-guilty-to-drink-driving/107-346321",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784703936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-c0a4da30",
+    "num": "dailymirrorlk-c0a4da30",
+    "date_str": "2026-07-22",
+    "description": "Kusal Mendis ruled out of remaining LPL 2026 matches",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kusal-Mendis-ruled-out-of-remaining-LPL-2026-matches/108-346322",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784704057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-4ed50f2b",
+    "num": "dailymirrorlk-4ed50f2b",
+    "date_str": "2026-07-22",
+    "description": "Rubio says US still willing to negotiate over Iran crisis",
+    "url_metadata": "https://www.dailymirror.lk/international/Rubio-says-US-still-willing-to-negotiate-over-Iran-crisis/107-346324",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784704248.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-2cf76d28",
+    "num": "dailymirrorlk-2cf76d28",
+    "date_str": "2026-07-22",
+    "description": "Trump wants to nominate FIFA chief for UN secretary-general: Report",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-wants-to-nominate-FIFA-chief-for-UN-secretary-general-Report/108-346326",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784706109.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-37792f46",
+    "num": "dailymirrorlk-37792f46",
+    "date_str": "2026-07-22",
+    "description": "Date fixed for no-confidence motion debate against Justice Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Date-fixed-for-no-confidence-motion-debate-against-Justice-Minister/108-346328",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784707794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-09176e5e",
+    "num": "dailymirrorlk-09176e5e",
+    "date_str": "2026-07-22",
+    "description": "Largest marine plastic waste stock sent for recycling after MSC ELSA 3 spill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Largest-marine-plastic-waste-stock-sent-for-recycling-after-MSC-ELSA-3-spill/108-346329",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784708198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-4501b8b1",
+    "num": "dailymirrorlk-4501b8b1",
+    "date_str": "2026-07-22",
+    "description": "DNA tests underway to confirm identities of victims in Homagama factory fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DNA-tests-underway-to-confirm-identities-of-victims-in-Homagama-factory-fire/108-346330",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784708337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-b38f7f59",
+    "num": "dailymirrorlk-b38f7f59",
+    "date_str": "2026-07-22",
+    "description": "Largest marine plastic stock recycled",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Largest-marine-plastic-stock-recycled/110-346331",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784708824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-383b5181",
+    "num": "tamilmirrorlk-383b5181",
+    "date_str": "2026-07-22",
+    "description": "\u0b95\u0bca\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd: \u0b93\u0baf\u0bbe\u0bae\u0bb2\u0bcd \u0b95\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0bb2\u0bcd-\u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd-\u0b93\u0baf\u0bbe\u0bae\u0bb2\u0bcd-\u0b95\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb0\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/50-380295",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784709893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-99132ee2",
+    "num": "dailymirrorlk-99132ee2",
+    "date_str": "2026-07-22",
+    "description": "Ministry of Transport, Highways gets new Secretary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ministry-of-Transport-Highways-gets-new-Secretary/108-346335",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784710125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-19796487",
+    "num": "dailymirrorlk-19796487",
+    "date_str": "2026-07-22",
+    "description": "India opposition leader Gandhi freed after detention at student-led protest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-opposition-leader-Gandhi-freed-after-detention-at-student-led-protest/108-346336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784710371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailymirrorlk-dcd28a41",
+    "num": "dailymirrorlk-dcd28a41",
+    "date_str": "2026-07-22",
+    "description": "Rs. 50mn worth illegal smartphones seized at Liberty Plaza",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-50mn-worth-illegal-smartphones-seized-at-Liberty-Plaza/108-346337",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784710468.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-tamilmirrorlk-25016d83",
+    "num": "tamilmirrorlk-25016d83",
+    "date_str": "2026-07-22",
+    "description": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-380296",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784710947.0
   }
 ]
