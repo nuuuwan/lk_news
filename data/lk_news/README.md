@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--22_04:04:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--22_06:22:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,492** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,507** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-tamilmirrorlk-e482620f",
-    "num": "tamilmirrorlk-e482620f",
+    "doc_id": "2026-07-22-dailyftlk-dcfce10b",
+    "num": "dailyftlk-dcfce10b",
     "date_str": "2026-07-22",
-    "description": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb0\u0bbe\u0b95\u0bc1\u0bb2\u0bcd \u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb0\u0bbe\u0b95\u0bc1\u0bb2\u0bcd-\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-380272",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784672177.0
+    "description": "New chapter begins for Rotary Club  of Colombo with Azad Mansoor at helm",
+    "url_metadata": "https://www.ft.lk/business/New-chapter-begins-for-Rotary-Club-of-Colombo-with-Azad-Mansoor-at-helm/34-794933",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784679804.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-22 | `dailyftlk-dcfce10b` | New chapter begins for Rotary Club  of Colombo with Azad Mansoor at helm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-dcfce10b)
+- 2026-07-22 | `dailyftlk-38f91513` | Sri Lankan brands don’t have a sponsorship problem: They have an imagination problem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-38f91513)
+- 2026-07-22 | `dailyftlk-cab7c455` | The SMEs left behind by  Sri Lanka’s economic model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-cab7c455)
+- 2026-07-22 | `dailyftlk-1d067d95` | SC ruling on Seagull Property Developers:  A landmark judgment that reaffirms rule of law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-1d067d95)
+- 2026-07-22 | `dailyftlk-9d8a928a` | Bringing Sri Lanka’s diaspora home: A policy brief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-9d8a928a)
+- 2026-07-22 | `dailyftlk-d57a6599` | Renewing a living commitment: Whither constitutional reform? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailyftlk-d57a6599)
 - 2026-07-22 | `tamilmirrorlk-e482620f` | டில்லியில் போராட்டம் நடத்திய ராகுல் காந்தி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-e482620f)
 - 2026-07-22 | `dailymirrorlk-1b31103a` | Exposing the rot in Sri Lanka’s prisons, drug policies and demanding intelligence  - led prevention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-1b31103a)
 - 2026-07-22 | `dailymirrorlk-fbc52bc2` | Despite ‘Clean Sri Lanka’, our cities are becoming dirtier and messier | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-fbc52bc2)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-22 | `dailymirrorlk-435b8ced` | Indices close on a mixed note | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-435b8ced)
 - 2026-07-22 | `dailymirrorlk-a87472c9` | IFC and HSBC invest US$ 40mn to upgrade Colombo Port infrastructure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-a87472c9)
 - 2026-07-22 | `dailymirrorlk-255372c1` | CA Sri Lanka and CSE conclude capacity-building workshops for SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-255372c1)
-- 2026-07-22 | `dailymirrorlk-b9d53b3a` | Divolca Nova range earns three SLSI quality certificates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-b9d53b3a)
-- 2026-07-22 | `dailymirrorlk-e582f252` | FCAM concludes Professional Fund Management course for Kelaniya University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-e582f252)
-- 2026-07-22 | `dailymirrorlk-6bc09cde` | LB CIM launches SL’s NextGen virtual debit card | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-6bc09cde)
-- 2026-07-22 | `dailymirrorlk-b9f2ad70` | AmCham Sri Lanka represents member interests at Washington Doorknock 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-b9f2ad70)
-- 2026-07-22 | `dailymirrorlk-108bed3c` | Exporters face new EU sustainability rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-108bed3c)
-- 2026-07-21 | `dailymirrorlk-697c0b81` | Sri Lanka Brand Conclave 2026 on July 28 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-21-dailymirrorlk-697c0b81)
 
 ---
 

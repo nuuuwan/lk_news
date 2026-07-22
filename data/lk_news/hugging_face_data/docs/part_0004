@@ -305355,6 +305355,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-18-islandlk-7f262f00",
+    "num": "islandlk-7f262f00",
+    "date_str": "2026-07-18",
+    "description": "When juggernauts bear down on democracy",
+    "url_metadata": "http://island.lk/when-juggernauts-bear-down-on-democracy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784367660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-18-islandlk-1ef08387",
     "num": "islandlk-1ef08387",
     "date_str": "2026-07-18",
@@ -307577,6 +307588,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-1a471b33",
+    "num": "islandlk-1a471b33",
+    "date_str": "2026-07-20",
+    "description": "Exclusive musical evening for Sri Lankans in Toronto",
+    "url_metadata": "http://island.lk/exclusive-musical-evening-for-sri-lankans-in-toronto/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784550420.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-20-dailymirrorlk-6ecf7f49",
     "num": "dailymirrorlk-6ecf7f49",
     "date_str": "2026-07-20",
@@ -307585,6 +307607,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784551111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-92e22a53",
+    "num": "islandlk-92e22a53",
+    "date_str": "2026-07-20",
+    "description": "Trust, security and collaboration seen as pillars of growth in digital payments",
+    "url_metadata": "http://island.lk/trust-security-and-collaboration-seen-as-pillars-of-growth-in-digital-payments/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784551260.0
   },
   {
     "doc_type": "lk_news",
@@ -309216,6 +309249,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-58755e1e",
+    "num": "islandlk-58755e1e",
+    "date_str": "2026-07-21",
+    "description": "Union Assurance Platinum Circle enables customers to protect what matters most",
+    "url_metadata": "http://island.lk/union-assurance-platinum-circle-enables-customers-to-protect-what-matters-most/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-79d6e8c3",
+    "num": "islandlk-79d6e8c3",
+    "date_str": "2026-07-21",
+    "description": "Veteran HR leader Dr. Neil Bogahalande appointed president,CIPM Sri Lanka",
+    "url_metadata": "http://island.lk/veteran-hr-leader-dr-neil-bogahalande-appointed-presidentcipm-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-869dfb49",
+    "num": "islandlk-869dfb49",
+    "date_str": "2026-07-21",
+    "description": "First Capital Asset Management successfully concludes Professional Fund Programme for University of Kelaniya",
+    "url_metadata": "http://island.lk/first-capital-asset-management-successfully-concludes-professional-fund-programme-for-university-of-kelaniya/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-c9015163",
+    "num": "islandlk-c9015163",
+    "date_str": "2026-07-21",
+    "description": "Mixed investor sentiments amid possibility of positive corporate results",
+    "url_metadata": "http://island.lk/mixed-investor-sentiments-amid-possibility-of-positive-corporate-results/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-ff3a6323",
+    "num": "islandlk-ff3a6323",
+    "date_str": "2026-07-21",
+    "description": "Crop theft costing Sri Lanka\u2019s agricultural sector millions: Industry calls for urgent government action",
+    "url_metadata": "http://island.lk/crop-theft-costing-sri-lankas-agricultural-sector-millions-industry-calls-for-urgent-government-action/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-39003083",
+    "num": "islandlk-39003083",
+    "date_str": "2026-07-21",
+    "description": "Signature expands retail footprint with grand opening of new showroom in Gampaha",
+    "url_metadata": "http://island.lk/signature-expands-retail-footprint-with-grand-opening-of-new-showroom-in-gampaha/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784652600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-dailymirrorlk-ececc5bd",
     "num": "dailymirrorlk-ececc5bd",
     "date_str": "2026-07-21",
@@ -309466,5 +309565,71 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784672177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-d57a6599",
+    "num": "dailyftlk-d57a6599",
+    "date_str": "2026-07-22",
+    "description": "Renewing a living commitment: Whither constitutional reform?",
+    "url_metadata": "https://www.ft.lk/columns/Renewing-a-living-commitment-Whither-constitutional-reform/4-794927",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784675339.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-9d8a928a",
+    "num": "dailyftlk-9d8a928a",
+    "date_str": "2026-07-22",
+    "description": "Bringing Sri Lanka\u2019s diaspora home: A policy brief",
+    "url_metadata": "https://www.ft.lk/columns/Bringing-Sri-Lanka-s-diaspora-home-A-policy-brief/4-794929",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784676654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-1d067d95",
+    "num": "dailyftlk-1d067d95",
+    "date_str": "2026-07-22",
+    "description": "SC ruling on Seagull Property Developers:  A landmark judgment that reaffirms rule of law",
+    "url_metadata": "https://www.ft.lk/columns/SC-ruling-on-Seagull-Property-Developers-A-landmark-judgment-that-reaffirms-rule-of-law/4-794930",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784677421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-cab7c455",
+    "num": "dailyftlk-cab7c455",
+    "date_str": "2026-07-22",
+    "description": "The SMEs left behind by  Sri Lanka\u2019s economic model",
+    "url_metadata": "https://www.ft.lk/columns/The-SMEs-left-behind-by-Sri-Lanka-s-economic-model/4-794931",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784677894.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-38f91513",
+    "num": "dailyftlk-38f91513",
+    "date_str": "2026-07-22",
+    "description": "Sri Lankan brands don\u2019t have a sponsorship problem: They have an imagination problem",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lankan-brands-don-t-have-a-sponsorship-problem-They-have-an-imagination-problem/4-794932",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784679300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-dailyftlk-dcfce10b",
+    "num": "dailyftlk-dcfce10b",
+    "date_str": "2026-07-22",
+    "description": "New chapter begins for Rotary Club  of Colombo with Azad Mansoor at helm",
+    "url_metadata": "https://www.ft.lk/business/New-chapter-begins-for-Rotary-Club-of-Colombo-with-Azad-Mansoor-at-helm/34-794933",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784679804.0
   }
 ]
