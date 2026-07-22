@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_00:12:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_02:16:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,642** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-dailymirrorlk-ebe7a113",
-    "num": "dailymirrorlk-ebe7a113",
-    "date_str": "2026-07-22",
-    "description": "Sri Lanka\u2019s exports surpass US$9 billion in first half of 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-exports-surpass-US-9-billion-in-first-half-of-2026/108-346358",
+    "doc_id": "2026-07-23-dailymirrorlk-50dd02bc",
+    "num": "dailymirrorlk-50dd02bc",
+    "date_str": "2026-07-23",
+    "description": "Black July  that gave birth to two  political  bloodbaths",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Black-July-that-gave-birth-to-two-political-bloodbaths/172-346380",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784734248.0
+    "time_ut": 1784748168.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-07-22 | `dailymirrorlk-ebe7a113` | Sri Lanka’s exports surpass US$9 billion in first half of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-ebe7a113)
-- 2026-07-22 | `dailymirrorlk-67a5f36a` | Singer “Chili” fined for attempted assault on police officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-67a5f36a)
-- 2026-07-22 | `dailymirrorlk-e78f639c` | China ready to work with Sri Lanka to build strategic trust: Chinese Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-e78f639c)
-- 2026-07-22 | `dailymirrorlk-ab84182f` | Wildlife holiday bungalows to be upgraded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-ab84182f)
-- 2026-07-22 | `tamilmirrorlk-be130222` | தலைக்கவசம் தொழிற்சாலை  தீயில் மரணித்தவர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-be130222)
-- 2026-07-22 | `tamilmirrorlk-afc65080` | 5 கோடி ரூபாய் பெறுமதியான அலை பேசிகள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-afc65080)
-- 2026-07-22 | `dailymirrorlk-0a9c1153` | Toxic alcohol addiction changes brain chemistry: Psychotherapist | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-0a9c1153)
-- 2026-07-22 | `tamilmirrorlk-f15851cf` | பாலியல் பலாத்காரப் புகார்   பெண்ணுக்கு 6 ஆண்டுகள் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-f15851cf)
-- 2026-07-22 | `dailymirrorlk-9ae76d9e` | Sri Lanka passport rises to 94th in 2026 Henley Index | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-9ae76d9e)
-- 2026-07-22 | `dailymirrorlk-e5c70ffe` | Strong wind advisory issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-e5c70ffe)
-- 2026-07-22 | `dailymirrorlk-2d7a6832` | DAPH calls for coordinated plan to eliminate rabies by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-2d7a6832)
-- 2026-07-22 | `tamilmirrorlk-9d94c283` | ‘Godzilla vs Kong’ படத்தின் சின்ன நடிகை விபத்தில் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-9d94c283)
-- 2026-07-22 | `dailymirrorlk-3c9d07e3` | Criminal record or false info could permanently block US entry: Embassy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-3c9d07e3)
-- 2026-07-22 | `dailymirrorlk-f16eed80` | Tunnel collapse in India kills 12 workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-f16eed80)
-- 2026-07-22 | `dailymirrorlk-1aa15d1c` | Sri Lanka draws crowds at Lotus Festival in Los Angeles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-1aa15d1c)
-- 2026-07-22 | `dailymirrorlk-21b6ff5f` | Tokyo urges men to wear shorts to work, but some women say it’s ’leg hair harassment’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-21b6ff5f)
-- 2026-07-22 | `tamilmirrorlk-8c1ab6d0` | கடலில் குளித்த இளைஞர்  நீரில் மூழ்கி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-tamilmirrorlk-8c1ab6d0)
-- 2026-07-22 | `dailymirrorlk-442b937b` | Defence Adviser to Indian HC calls on Navy Commander | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-dailymirrorlk-442b937b)
-- 2026-07-22 | `adalk-842c7a80` | ප්‍රවාහන හා නාගරික සංවර්ධන අමාත්‍යාංශයේ නව ලේකම් ආචාර්ය  ආසිරි කරුණාවර්ධන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-842c7a80)
-- 2026-07-22 | `adalk-4117236c` | අලවර්ග හා එළවළු වෙනුවෙන් රක්ෂණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-22-adalk-4117236c)
+- 2026-07-23 | `dailymirrorlk-50dd02bc` | Black July  that gave birth to two  political  bloodbaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-50dd02bc)
+- 2026-07-23 | `dailymirrorlk-3cc79229` | Call to upgrade facilities of urban housing complexes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-3cc79229)
+- 2026-07-23 | `dailymirrorlk-34291733` | How leaderless youth movements are reshaping politics in South Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-34291733)
+- 2026-07-23 | `dailymirrorlk-0efd47f3` | Sri Lanka’s exports top US $ 9bn in first half | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-0efd47f3)
+- 2026-07-23 | `dailymirrorlk-c6798efa` | Central Bank chooses caution over cuts as global risks return | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-c6798efa)
+- 2026-07-23 | `dailymirrorlk-14814dbd` | NDB earnings recover as core banking offsets fraud hit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-14814dbd)
+- 2026-07-23 | `dailymirrorlk-8c134d0e` | Cargills CEO, family dispose of Rs.2.25bn worth of shares | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8c134d0e)
+- 2026-07-23 | `dailymirrorlk-453a7ce6` | Lanka Realty sells On’ally Holdings stake to Lee Hedges for Rs.2.26bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-453a7ce6)
+- 2026-07-23 | `dailymirrorlk-435b8ced` | Indices close on a mixed note | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-435b8ced)
+- 2026-07-23 | `dailymirrorlk-1f34e367` | CBSL holds OPR unchanged at 8.75 percent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-1f34e367)
+- 2026-07-23 | `dailymirrorlk-033f933e` | SLCGE invites SME apparel manufacturers to join unified industry platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-033f933e)
+- 2026-07-23 | `dailymirrorlk-c2529531` | Singer Sri Lanka joins Dialog Pay ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-c2529531)
+- 2026-07-23 | `dailymirrorlk-ffbcbf00` | Abans Finance strengthens islandwide presence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-ffbcbf00)
+- 2026-07-23 | `dailymirrorlk-03d82d31` | LOLC Finance expands islandwide reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-03d82d31)
+- 2026-07-23 | `dailymirrorlk-fec3d735` | Hayleys Agriculture opens SL’s 1st frozen concentrated coconut water manufacturing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-fec3d735)
+- 2026-07-23 | `dailymirrorlk-8d876718` | AmCham Sri Lanka and Standard Chartered to bring int’l cybersecurity expertise with ‘SeCure 2026’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8d876718)
+- 2026-07-23 | `dailymirrorlk-4a5af6b1` | HNB Life extends wings into digital future with new mobile app | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-4a5af6b1)
+- 2026-07-23 | `dailymirrorlk-8f3f60d0` | Sampath Bank secures Sumathi Award for Digital Commercial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8f3f60d0)
+- 2026-07-23 | `dailymirrorlk-8dcc4ab7` | Imaarat rises as Colombo’s new landmark address for luxury living | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8dcc4ab7)
+- 2026-07-23 | `dailymirrorlk-bf9d26ed` | SLT-Mobitel opens upgraded Maharagama and Battaramulla outlets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-bf9d26ed)
 
 ---
 

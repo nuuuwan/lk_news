@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-23 00:11:40",
-  "n_docs": 124621,
+  "time_updated": "2026-07-23 02:15:27",
+  "n_docs": 124642,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124621,
+  "n_docs_with_text": 124642,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-22",
-  "dataset_size": 1945992919,
+  "date_str_max": "2026-07-23",
+  "dataset_size": 1946059796,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-22-dailymirrorlk-ebe7a113",
-    "num": "dailymirrorlk-ebe7a113",
-    "date_str": "2026-07-22",
-    "description": "Sri Lanka\u2019s exports surpass US$9 billion in first half of 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-exports-surpass-US-9-billion-in-first-half-of-2026/108-346358",
+    "doc_id": "2026-07-23-dailymirrorlk-50dd02bc",
+    "num": "dailymirrorlk-50dd02bc",
+    "date_str": "2026-07-23",
+    "description": "Black July  that gave birth to two  political  bloodbaths",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Black-July-that-gave-birth-to-two-political-bloodbaths/172-346380",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784734248.0
+    "time_ut": 1784748168.0
   }
 }
