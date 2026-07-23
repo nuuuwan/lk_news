@@ -310778,6 +310778,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-9eda5437",
+    "num": "adalk-9eda5437",
+    "date_str": "2026-07-22",
+    "description": "\u0daf\u0dd4\u0dbb\u0dad\u0d9a\u0db1\u0dba\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dbd\u0dd9\u0dc3 \u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2 \u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca \u0dc0\u0dd2\u0dc2 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0da7\u0dba\u0dad\u0dca \u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2 \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0dbb\u0dad\u0d9a\u0db1\u0dba\u0da7-\u0d85\u0db0\u0dd2\u0d9a-\u0dbd\u0dd9\u0dc3-\u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2-\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca-\u0dc0\u0dd2\u0dc2-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0da7\u0dba\u0dad\u0dca-\u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-423381",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784716000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-dailymirrorlk-442b937b",
     "num": "dailymirrorlk-442b937b",
     "date_str": "2026-07-22",
@@ -311347,5 +311358,170 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1784766762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-48a6d839",
+    "num": "dailyftlk-48a6d839",
+    "date_str": "2026-07-23",
+    "description": "DSL announces promotion of Pinidiyapathirage as Joint MD",
+    "url_metadata": "https://www.ft.lk/business/DSL-announces-promotion-of-Pinidiyapathirage-as-Joint-MD/34-794997",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784768462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-d2ba1cc2",
+    "num": "tamilmirrorlk-d2ba1cc2",
+    "date_str": "2026-07-23",
+    "description": "\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-380320",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784770762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-033f933e",
+    "num": "dailyftlk-033f933e",
+    "date_str": "2026-07-23",
+    "description": "SLCGE invites SME apparel manufacturers to join unified industry platform",
+    "url_metadata": "https://www.ft.lk/business/SLCGE-invites-SME-apparel-manufacturers-to-join-unified-industry-platform/34-794998",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-049f336e",
+    "num": "dailyftlk-049f336e",
+    "date_str": "2026-07-23",
+    "description": "Ceylon Energy hosts \u2018Energize 2026\u2019; launches Apollo Energy, Delaware USA investment platform",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Energy-hosts-Energize-2026-launches-Apollo-Energy-Delaware-USA-investment-platform/34-794999",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-2ef082cf",
+    "num": "dailyftlk-2ef082cf",
+    "date_str": "2026-07-23",
+    "description": "Industry Minister concludes official visit to India to advance industrial and investment ties",
+    "url_metadata": "https://www.ft.lk/business/Industry-Minister-concludes-official-visit-to-India-to-advance-industrial-and-investment-ties/34-795000",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-3579f5bc",
+    "num": "dailyftlk-3579f5bc",
+    "date_str": "2026-07-23",
+    "description": "New Anthoney\u2019s takes on antimicrobial resistance to make  Sri Lankan poultry safer",
+    "url_metadata": "https://www.ft.lk/business/New-Anthoney-s-takes-on-antimicrobial-resistance-to-make-Sri-Lankan-poultry-safer/34-795001",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-97338ac3",
+    "num": "dailyftlk-97338ac3",
+    "date_str": "2026-07-23",
+    "description": "Hayleys Agriculture opens Sri Lanka\u2019s first frozen concentrated coconut water manufacturing facility",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-Agriculture-opens-Sri-Lanka-s-first-frozen-concentrated-coconut-water-manufacturing-facility/34-795002",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771299.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-0840ff60",
+    "num": "dailyftlk-0840ff60",
+    "date_str": "2026-07-23",
+    "description": "Cabinet nod for Chartered Institute of Computing Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-for-Chartered-Institute-of-Computing-Sri-Lanka/56-795003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-9016b7b6",
+    "num": "dailyftlk-9016b7b6",
+    "date_str": "2026-07-23",
+    "description": "AG opposes request to halt Yoshitha\u2019s money laundering case",
+    "url_metadata": "https://www.ft.lk/news/AG-opposes-request-to-halt-Yoshitha-s-money-laundering-case/56-795004",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-3024b91c",
+    "num": "dailyftlk-3024b91c",
+    "date_str": "2026-07-23",
+    "description": "Kandy Esala Perahera to gain intellectual property safeguards under WIPO project",
+    "url_metadata": "https://www.ft.lk/news/Kandy-Esala-Perahera-to-gain-intellectual-property-safeguards-under-WIPO-project/56-795005",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailyftlk-a479dbee",
+    "num": "dailyftlk-a479dbee",
+    "date_str": "2026-07-23",
+    "description": "President reviews fisheries projects, priorities for 2027 Budget",
+    "url_metadata": "https://www.ft.lk/news/President-reviews-fisheries-projects-priorities-for-2027-Budget/56-795006",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784771575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-5af69238",
+    "num": "tamilmirrorlk-5af69238",
+    "date_str": "2026-07-23",
+    "description": "\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd-\u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0bbf/175-380321",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784772901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-b0bebc44",
+    "num": "tamilmirrorlk-b0bebc44",
+    "date_str": "2026-07-23",
+    "description": "\u2019\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95-\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-\u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-380322",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784773805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-bbd8b36e",
+    "num": "tamilmirrorlk-bbd8b36e",
+    "date_str": "2026-07-23",
+    "description": "\u2019\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1, \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0\u0baa\u0bcd-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-380323",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784774226.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-33ccb56f",
+    "num": "tamilmirrorlk-33ccb56f",
+    "date_str": "2026-07-23",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd; 11\u0b86\u0bb5\u0ba4\u0bc1 \u0b87\u0bb0\u0bb5\u0bbe\u0b95 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-11\u0b86\u0bb5\u0ba4\u0bc1-\u0b87\u0bb0\u0bb5\u0bbe\u0b95-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd/50-380324",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784775545.0
   }
 ]
