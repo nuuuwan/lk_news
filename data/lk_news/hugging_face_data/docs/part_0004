@@ -311757,6 +311757,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-8b12b677",
+    "num": "dailymirrorlk-8b12b677",
+    "date_str": "2026-07-23",
+    "description": "Leader of the House wants MP Archchuna suspended from Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Leader-of-the-House-wants-MP-Archchuna-suspended-from-Parliament/108-346425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784786963.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-tamilmirrorlk-984dc055",
     "num": "tamilmirrorlk-984dc055",
     "date_str": "2026-07-23",
@@ -311790,6 +311801,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-5c16727e",
+    "num": "dailymirrorlk-5c16727e",
+    "date_str": "2026-07-23",
+    "description": "SC rules activist\u2019s arrest during \u2018GotaGoHome\u2019 protests violated Fundamental Rights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SC-rules-activists-arrest-during-GotaGoHome-protests-violated-Fundamental-Rights/108-346427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784789247.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-5a388bd8",
     "num": "dailymirrorlk-5a388bd8",
     "date_str": "2026-07-23",
@@ -311798,5 +311820,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784789642.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-adalk-7f4d36be",
+    "num": "adalk-7f4d36be",
+    "date_str": "2026-07-23",
+    "description": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dbb\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0ddd \u0db4\u0db8\u0dab\u0d9a\u0dca \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0dc0\u0dbb\u0da7-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0ddd-\u0db4\u0db8\u0dab\u0d9a\u0dca-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7/11-423390",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784793476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-17b02ddc",
+    "num": "dailymirrorlk-17b02ddc",
+    "date_str": "2026-07-23",
+    "description": "Gotabaya Rajapaksa appears before Court of Appeal over arrest petition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-Rajapaksa-appears-before-Court-of-Appeal-over-arrest-petition/108-346433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784795036.0
   }
 ]

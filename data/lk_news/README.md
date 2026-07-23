@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_12:48:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_15:12:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,704** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,708** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-23-dailymirrorlk-5a388bd8",
-    "num": "dailymirrorlk-5a388bd8",
+    "doc_id": "2026-07-23-dailymirrorlk-17b02ddc",
+    "num": "dailymirrorlk-17b02ddc",
     "date_str": "2026-07-23",
-    "description": "Police Officer\u2019s house targeted in shooting in Beliatta",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-Officers-house-targeted-in-shooting-in-Beliatta/108-346428",
+    "description": "Gotabaya Rajapaksa appears before Court of Appeal over arrest petition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-Rajapaksa-appears-before-Court-of-Appeal-over-arrest-petition/108-346433",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784789642.0
+    "time_ut": 1784795036.0
 }
 ```
 
@@ -41,10 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-23 | `dailymirrorlk-17b02ddc` | Gotabaya Rajapaksa appears before Court of Appeal over arrest petition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-17b02ddc)
+- 2026-07-23 | `adalk-7f4d36be` | ඉතිහාසයේ ප්‍රථම වරට වෛද්‍ය සිසුවියෝ පමණක් විභාගයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-adalk-7f4d36be)
 - 2026-07-23 | `dailymirrorlk-5a388bd8` | Police Officer’s house targeted in shooting in Beliatta | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-5a388bd8)
+- 2026-07-23 | `dailymirrorlk-5c16727e` | SC rules activist’s arrest during ‘GotaGoHome’ protests violated Fundamental Rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-5c16727e)
 - 2026-07-23 | `tamilmirrorlk-830077d0` | கோலாகலமாகத் தொடங்கியது உலக மாஸ்டர்ஸ் ஹாக்கிப் போட்டி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-830077d0)
 - 2026-07-23 | `tamilmirrorlk-1a7ebefb` | மகாவலி கங்கையில் நீராடச் சென்ற மாணவன் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-1a7ebefb)
 - 2026-07-23 | `tamilmirrorlk-984dc055` | பீர்வா பகுதியில் திடீர் வெள்ளப்பெருக்கு (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-984dc055)
+- 2026-07-23 | `dailymirrorlk-8b12b677` | Leader of the House wants MP Archchuna suspended from Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-8b12b677)
 - 2026-07-23 | `tamilmirrorlk-3b5093db` | உ/த பரீட்சை மனு  தள்ளுபடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-3b5093db)
 - 2026-07-23 | `tamilmirrorlk-3c5014b9` | பாரவூர்தி விபத்து: சாரதியும் நடத்துனரும் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-3c5014b9)
 - 2026-07-23 | `dailymirrorlk-3921bf69` | Speaker, MP clash verbally over raising of questions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-3921bf69)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-23 | `dailymirrorlk-bf259a2f` | Special arrack price increased by Rs. 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-bf259a2f)
 - 2026-07-23 | `dailymirrorlk-4a679a99` | Dengue vaccine not the solution to current outbreak: Expert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-4a679a99)
 - 2026-07-23 | `dailymirrorlk-6537dcfa` | Will the “tax shock” kill the Sri Lankan economy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-6537dcfa)
-- 2026-07-23 | `adalk-d5f5b992` | උකුස්සකු විසින් ඩැහැගෙන යන්න හැදු  දරුවකු බේරා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-adalk-d5f5b992)
-- 2026-07-23 | `adalk-fcf45fb1` | පොලීසිය ලෙස පෙනී සිටිමින් කරන වංචාවක් ගැන දැනුම් දීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-adalk-fcf45fb1)
-- 2026-07-23 | `dailymirrorlk-fbadf720` | El Nino to trigger unpredictable rainfall later this year, steps taken for food security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-fbadf720)
-- 2026-07-23 | `dailymirrorlk-bab318ad` | Japan seeks interest on delayed LRT compensation payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-bab318ad)
 
 ---
 
