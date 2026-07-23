@@ -312791,6 +312791,94 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-818c6479",
+    "num": "dailymirrorlk-818c6479",
+    "date_str": "2026-07-23",
+    "description": "Invest Lab celebrates 5 years with Right Vantage Corporate Solutions launch",
+    "url_metadata": "https://www.dailymirror.lk/business/Invest-Lab-celebrates-5-years-with-Right-Vantage-Corporate-Solutions-launch/215-346466",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784829511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-d0b1ff7f",
+    "num": "dailymirrorlk-d0b1ff7f",
+    "date_str": "2026-07-23",
+    "description": "The Faculty of Brands launches Spot On platform",
+    "url_metadata": "https://www.dailymirror.lk/business/The-Faculty-of-Brands-launches-Spot-On-platform/215-346467",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784829615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-f4278eba",
+    "num": "dailymirrorlk-f4278eba",
+    "date_str": "2026-07-23",
+    "description": "Age of AI engineers has arrived: 99x",
+    "url_metadata": "https://www.dailymirror.lk/business/Age-of-AI-engineers-has-arrived-99x/215-346468",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784830006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-a239518b",
+    "num": "dailymirrorlk-a239518b",
+    "date_str": "2026-07-23",
+    "description": "Union Assurance introduces Platinum Circle",
+    "url_metadata": "https://www.dailymirror.lk/business/Union-Assurance-introduces-Platinum-Circle/215-346469",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784830362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-64715d6a",
+    "num": "dailymirrorlk-64715d6a",
+    "date_str": "2026-07-23",
+    "description": "NDB Wealth marks 34th anniversary with client engagement event",
+    "url_metadata": "https://www.dailymirror.lk/business/NDB-Wealth-marks-34th-anniversary-with-client-engagement-event/215-346470",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784830538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-6741216f",
+    "num": "dailymirrorlk-6741216f",
+    "date_str": "2026-07-23",
+    "description": "Seylan Bank partners with John Keells CG Auto to drive NEV ownership in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business/Seylan-Bank-partners-with-John-Keells-CG-Auto-to-drive-NEV-ownership-in-Sri-Lanka/215-346471",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784830971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-b6e2b1e3",
+    "num": "dailymirrorlk-b6e2b1e3",
+    "date_str": "2026-07-23",
+    "description": "Ceylon Chamber to host biz networking session with visiting Indian chamber delegation",
+    "url_metadata": "https://www.dailymirror.lk/business/Ceylon-Chamber-to-host-biz-networking-session-with-visiting-Indian-chamber-delegation/215-346472",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784831063.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-0a7d2c6d",
+    "num": "dailymirrorlk-0a7d2c6d",
+    "date_str": "2026-07-23",
+    "description": "JICA delegation visits EDB to strengthen future collaboration",
+    "url_metadata": "https://www.dailymirror.lk/business/JICA-delegation-visits-EDB-to-strengthen-future-collaboration/215-346473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784831208.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-3a10366f",
     "num": "dailymirrorlk-3a10366f",
     "date_str": "2026-07-24",
@@ -312810,5 +312898,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784831570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-821a32a1",
+    "num": "dailymirrorlk-821a32a1",
+    "date_str": "2026-07-24",
+    "description": "Indices close in green",
+    "url_metadata": "https://www.dailymirror.lk/business/Indices-close-in-green/215-346476",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784837000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-84bc005c",
+    "num": "dailymirrorlk-84bc005c",
+    "date_str": "2026-07-24",
+    "description": "01.07.2030 draws foreign buying amid stable yield curve",
+    "url_metadata": "https://www.dailymirror.lk/business/01-07-2030-draws-foreign-buying-amid-stable-yield-curve/215-346477",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784837196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-bf53d148",
+    "num": "dailymirrorlk-bf53d148",
+    "date_str": "2026-07-24",
+    "description": "Tea exports fall in June despite stronger rupee earnings",
+    "url_metadata": "https://www.dailymirror.lk/business/Tea-exports-fall-in-June-despite-stronger-rupee-earnings/215-346478",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784837348.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-03939a58",
+    "num": "dailymirrorlk-03939a58",
+    "date_str": "2026-07-24",
+    "description": "MullenLowe Sri Lanka retains top local spot in Effie Index 2025",
+    "url_metadata": "https://www.dailymirror.lk/business/MullenLowe-Sri-Lanka-retains-top-local-spot-in-Effie-Index-2025/215-346479",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784837750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-6bb8f4ec",
+    "num": "dailymirrorlk-6bb8f4ec",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka targets US$300mn in cinnamon exports as Alba price hits record Rs. 7,500",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-targets-US-300mn-in-cinnamon-exports-as-Alba-price-hits-record-Rs-7-500/215-346480",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784837915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-b4637d82",
+    "num": "dailymirrorlk-b4637d82",
+    "date_str": "2026-07-24",
+    "description": "SEC, CSE and CA Sri Lanka sign MOU to advance XBRL-based digital reporting for listed companies",
+    "url_metadata": "https://www.dailymirror.lk/business/SEC-CSE-and-CA-Sri-Lanka-sign-MOU-to-advance-XBRL-based-digital-reporting-for-listed-companies/215-346481",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784838024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-1b57ea34",
+    "num": "dailymirrorlk-1b57ea34",
+    "date_str": "2026-07-24",
+    "description": "CPA\u00a0Australia Chief warns of ethical reckoning for accountants navigating automated financial systems",
+    "url_metadata": "https://www.dailymirror.lk/business/CPAAustralia-Chief-warns-of-ethical-reckoning-for-accountants-navigating-automated-financial-systems/215-346482",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784838215.0
   }
 ]

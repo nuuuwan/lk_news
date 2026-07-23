@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-24 00:14:04",
-  "n_docs": 124796,
+  "time_updated": "2026-07-24 02:09:25",
+  "n_docs": 124811,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124796,
+  "n_docs_with_text": 124811,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-24",
-  "dataset_size": 1948362229,
+  "dataset_size": 1948439323,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-dailymirrorlk-cfdc2d27",
-    "num": "dailymirrorlk-cfdc2d27",
+    "doc_id": "2026-07-24-dailymirrorlk-1b57ea34",
+    "num": "dailymirrorlk-1b57ea34",
     "date_str": "2026-07-24",
-    "description": "ComBank dominates as  Sri Lanka\u2019s most awarded bank at 2026 ABF Awards",
-    "url_metadata": "https://www.dailymirror.lk/business/ComBank-dominates-as-Sri-Lankas-most-awarded-bank-at-2026-ABF-Awards/215-346475",
+    "description": "CPA\u00a0Australia Chief warns of ethical reckoning for accountants navigating automated financial systems",
+    "url_metadata": "https://www.dailymirror.lk/business/CPAAustralia-Chief-warns-of-ethical-reckoning-for-accountants-navigating-automated-financial-systems/215-346482",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784831570.0
+    "time_ut": 1784838215.0
   }
 }
