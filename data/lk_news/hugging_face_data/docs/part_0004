@@ -312373,6 +312373,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-adalk-eac9ec12",
+    "num": "adalk-eac9ec12",
+    "date_str": "2026-07-23",
+    "description": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db6\u0dd0\u0dbb\u0dbd\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca 98\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db6\u0dd0\u0dbb\u0dbd\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-98\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-423394",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784802073.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-tamilmirrorlk-06f0671b",
     "num": "tamilmirrorlk-06f0671b",
     "date_str": "2026-07-23",
@@ -312395,6 +312406,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-ea671309",
+    "num": "dailymirrorlk-ea671309",
+    "date_str": "2026-07-23",
+    "description": "Traditional 'Kadawara Yak Kankariya' performed",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Traditional-Kadawara-Yak-Kankariya-performed/110-346445",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784803537.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-4766c46f",
     "num": "dailymirrorlk-4766c46f",
     "date_str": "2026-07-23",
@@ -312414,5 +312436,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784803849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-adalk-c934bc3e",
+    "num": "adalk-c934bc3e",
+    "date_str": "2026-07-23",
+    "description": "\u0db8\u0dd2\u0dc3\u0dd2\u0dc3\u0dca \u0d9c\u0dca\u0dbd\u0ddd\u0db6\u0dbd\u0dca \u0dba\u0dd4\u0db1\u0dd2\u0dc0\u0dbb\u0dca\u0dc3\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0d85\u0db1\u0dd4\u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dc3\u0dd2\u0dc3\u0dca-\u0d9c\u0dca\u0dbd\u0ddd\u0db6\u0dbd\u0dca-\u0dba\u0dd4\u0db1\u0dd2\u0dc0\u0dbb\u0dca\u0dc3\u0dca-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0d85\u0db1\u0dd4\u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/11-423395",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784803918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-e9485b66",
+    "num": "dailymirrorlk-e9485b66",
+    "date_str": "2026-07-23",
+    "description": "Former State Minister\u2019s son remanded over Rs. 20Mn robbery case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-State-Ministers-son-remanded-over-Rs-20Mn-robbery-case/108-346447",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784804532.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-22218111",
+    "num": "tamilmirrorlk-22218111",
+    "date_str": "2026-07-23",
+    "description": "\u0bae\u0bc1\u0b95\u0ba8\u0bc2\u0bb2\u0bcd \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0bb0\u0bc2. 8.37 \u0bb2\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0ba3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b95\u0ba8\u0bc2\u0bb2\u0bcd-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0bb0\u0bc2-8-37-\u0bb2\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc8-\u0b87\u0bb4\u0ba8\u0bcd\u0ba4-\u0baa\u0bc6\u0ba3\u0bcd/175-380352",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784804919.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-72604733",
+    "num": "dailymirrorlk-72604733",
+    "date_str": "2026-07-23",
+    "description": "Labour Department suspends EPF services on July 30 and 31",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Labour-Department-suspends-EPF-services-on-July-30-and-31/108-346448",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784805044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-68705c3e",
+    "num": "tamilmirrorlk-68705c3e",
+    "date_str": "2026-07-23",
+    "description": "\u0b9a\u0bc0\u0ba9 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8: \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0bae\u0b95\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-380353",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784805544.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-df28b92d",
+    "num": "dailymirrorlk-df28b92d",
+    "date_str": "2026-07-23",
+    "description": "Tax burden unfair despite government revenue claims: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tax-burden-unfair-despite-government-revenue-claims-Namal/108-346450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784808216.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-f424fe11",
+    "num": "dailymirrorlk-f424fe11",
+    "date_str": "2026-07-23",
+    "description": "Prof. Peiris to establish legal research trust for Colombo University and Law College",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prof-Peiris-to-establish-legal-research-trust-for-Colombo-University-and-Law-College/108-346451",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784808504.0
   }
 ]
