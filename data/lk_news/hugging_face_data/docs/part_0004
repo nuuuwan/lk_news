@@ -312648,6 +312648,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-99fc6ca0",
+    "num": "tamilmirrorlk-99fc6ca0",
+    "date_str": "2026-07-23",
+    "description": "\u0ba4\u0bc6\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1/175-380373",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784817531.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-3438adc8",
     "num": "dailymirrorlk-3438adc8",
     "date_str": "2026-07-23",
@@ -312689,5 +312700,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784818572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-a1008a48",
+    "num": "dailymirrorlk-a1008a48",
+    "date_str": "2026-07-23",
+    "description": "Venue and dates for World Test Championship 2027 Final revealed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Venue-and-dates-for-World-Test-Championship-2027-Final-revealed/108-346460",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784818674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-fe79304a",
+    "num": "dailymirrorlk-fe79304a",
+    "date_str": "2026-07-23",
+    "description": "Oil prices hit $100 for the first time since May",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-prices-hit-100-for-the-first-time-since-May/107-346461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784818956.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-6ae25dfd",
+    "num": "tamilmirrorlk-6ae25dfd",
+    "date_str": "2026-07-23",
+    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 10 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-10-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-380376",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784819118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-84534dbe",
+    "num": "dailymirrorlk-84534dbe",
+    "date_str": "2026-07-23",
+    "description": "Grade 5 Scholarship Examination 2026 to be held on August 9",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Grade-5-Scholarship-Examination-2026-to-be-held-on-August-9/108-346462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784819496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-09a1e796",
+    "num": "dailymirrorlk-09a1e796",
+    "date_str": "2026-07-23",
+    "description": "Mid-air 10-person brawl halts easyJet flight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mid-air-10-person-brawl-halts-easyJet-flight/108-346463",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784820256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-d5bf3678",
+    "num": "dailymirrorlk-d5bf3678",
+    "date_str": "2026-07-23",
+    "description": "Chinese Embassy seeks probe into Port City clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Chinese-Embassy-seeks-probe-into-Port-City-clash/108-346464",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784820570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-e43bce1d",
+    "num": "dailymirrorlk-e43bce1d",
+    "date_str": "2026-07-23",
+    "description": "Port City helipad among key aviation proposals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-helipad-among-key-aviation-proposals/108-346465",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784821083.0
   }
 ]
