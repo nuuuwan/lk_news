@@ -312516,6 +312516,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-4e867c6e",
+    "num": "dailymirrorlk-4e867c6e",
+    "date_str": "2026-07-23",
+    "description": "Seventh day of Kataragama Perahera held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Seventh-day-of-Kataragama-Perahera-held/110-346449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784808021.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-df28b92d",
     "num": "dailymirrorlk-df28b92d",
     "date_str": "2026-07-23",
@@ -312777,5 +312788,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784821083.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-3a10366f",
+    "num": "dailymirrorlk-3a10366f",
+    "date_str": "2026-07-24",
+    "description": "Janashakthi Finance marks 45th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/business/Janashakthi-Finance-marks-45th-anniversary/215-346474",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784831419.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-cfdc2d27",
+    "num": "dailymirrorlk-cfdc2d27",
+    "date_str": "2026-07-24",
+    "description": "ComBank dominates as  Sri Lanka\u2019s most awarded bank at 2026 ABF Awards",
+    "url_metadata": "https://www.dailymirror.lk/business/ComBank-dominates-as-Sri-Lankas-most-awarded-bank-at-2026-ABF-Awards/215-346475",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784831570.0
   }
 ]

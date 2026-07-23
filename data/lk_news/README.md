@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_22:26:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_00:15:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,793** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,796** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-23-dailymirrorlk-e43bce1d",
-    "num": "dailymirrorlk-e43bce1d",
-    "date_str": "2026-07-23",
-    "description": "Port City helipad among key aviation proposals",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-helipad-among-key-aviation-proposals/108-346465",
+    "doc_id": "2026-07-24-dailymirrorlk-cfdc2d27",
+    "num": "dailymirrorlk-cfdc2d27",
+    "date_str": "2026-07-24",
+    "description": "ComBank dominates as  Sri Lanka\u2019s most awarded bank at 2026 ABF Awards",
+    "url_metadata": "https://www.dailymirror.lk/business/ComBank-dominates-as-Sri-Lankas-most-awarded-bank-at-2026-ABF-Awards/215-346475",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784821083.0
+    "time_ut": 1784831570.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `dailymirrorlk-cfdc2d27` | ComBank dominates as  Sri Lanka’s most awarded bank at 2026 ABF Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-cfdc2d27)
+- 2026-07-24 | `dailymirrorlk-3a10366f` | Janashakthi Finance marks 45th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-3a10366f)
 - 2026-07-23 | `dailymirrorlk-e43bce1d` | Port City helipad among key aviation proposals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-e43bce1d)
 - 2026-07-23 | `dailymirrorlk-d5bf3678` | Chinese Embassy seeks probe into Port City clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-d5bf3678)
 - 2026-07-23 | `dailymirrorlk-09a1e796` | Mid-air 10-person brawl halts easyJet flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-09a1e796)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-23 | `dailymirrorlk-7392ad6e` | Body of abducted Chinese national found in Eheliyagoda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-7392ad6e)
 - 2026-07-23 | `tamilmirrorlk-f64ea7f6` | இந்திய பிரதமர் மோடியும் கீச்சான் தெளிப்பானும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-f64ea7f6)
 - 2026-07-23 | `tamilmirrorlk-51774cbf` | சீனர் படுகொலை: தப்ப முயன்ற இரு சீனர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-51774cbf)
-- 2026-07-23 | `tamilmirrorlk-52925088` | மனதை உலுக்கும் சம்பவம்: 35 அடி உயர மின் கம்பத்தில் சிக்கிய  கரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-tamilmirrorlk-52925088)
-- 2026-07-23 | `dailymirrorlk-f851925f` | Opposition discusses Supreme Court retirement age proposal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-f851925f)
 
 ---
 
