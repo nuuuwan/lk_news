@@ -310800,6 +310800,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-adalk-65a0b9eb",
+    "num": "adalk-65a0b9eb",
+    "date_str": "2026-07-22",
+    "description": "\u2019\u2019\u0db1\u0dd2\u0dbb\u0ddd\u0d9c\u0dd3 \u0daf\u0dbb\u0dd4 \u0db4\u0dbb\u0db4\u0dd4\u0dbb\u0d9a\u0dca - \u0dbb\u0da7\u0dda \u0dc3\u0dd0\u0db6\u0dd1 \u0dc0\u0dcf\u0dc3\u0db1\u0dcf\u0dc0\u0dba\u0dd2\u2019\u2019",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u2019\u2019\u0db1\u0dd2\u0dbb\u0ddd\u0d9c\u0dd3-\u0daf\u0dbb\u0dd4-\u0db4\u0dbb\u0db4\u0dd4\u0dbb\u0d9a\u0dca---\u0dbb\u0da7\u0dda-\u0dc3\u0dd0\u0db6\u0dd1-\u0dc0\u0dcf\u0dc3\u0db1\u0dcf\u0dc0\u0dba\u0dd2\u2019\u2019/11-423382",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784716733.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-tamilmirrorlk-8c1ab6d0",
     "num": "tamilmirrorlk-8c1ab6d0",
     "date_str": "2026-07-22",
@@ -311350,6 +311361,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-adalk-bff03540",
+    "num": "adalk-bff03540",
+    "date_str": "2026-07-23",
+    "description": "\u0dc3\u0dde\u0daf\u0dd2\u0dba \u0dc4\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0daf\u0dd2\u0dba-\u0dc4\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0da7/11-423384",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784766025.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-adalk-6b4efe17",
     "num": "adalk-6b4efe17",
     "date_str": "2026-07-23",
@@ -311523,5 +311545,137 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784775545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-c6230676",
+    "num": "tamilmirrorlk-c6230676",
+    "date_str": "2026-07-23",
+    "description": "\u2018\u0bae\u0bbe\u0ba3\u0bcd\u0baa\u0bc1\u0bae\u0bbf\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u2019 \u0b9f\u0bc8\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bae\u0bbe\u0ba3\u0bcd\u0baa\u0bc1\u0bae\u0bbf\u0b95\u0bc1-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b9f\u0bc8\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1-\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd/54-380325",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784777201.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-1aa56d48",
+    "num": "dailymirrorlk-1aa56d48",
+    "date_str": "2026-07-23",
+    "description": "Navy seizes Indian fishing trawler with nine fishermen for poaching in SL waters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-Indian-fishing-trawler-with-nine-fishermen-for-poaching-in-SL-waters/108-346406",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784778066.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-320ad9e2",
+    "num": "dailymirrorlk-320ad9e2",
+    "date_str": "2026-07-23",
+    "description": "US signs landmark nuclear deal with Saudi Arabia",
+    "url_metadata": "https://www.dailymirror.lk/international/US-signs-landmark-nuclear-deal-with-Saudi-Arabia/107-346407",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784778790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-bab318ad",
+    "num": "dailymirrorlk-bab318ad",
+    "date_str": "2026-07-23",
+    "description": "Japan seeks interest on delayed LRT compensation payments",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Japan-seeks-interest-on-delayed-LRT-compensation-payments/108-346408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784779254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-fbadf720",
+    "num": "dailymirrorlk-fbadf720",
+    "date_str": "2026-07-23",
+    "description": "El Nino to trigger unpredictable rainfall later this year, steps taken for food security",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Nino-to-trigger-unpredictable-rainfall-later-this-year-steps-taken-for-food-security/108-346409",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784779444.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-6537dcfa",
+    "num": "dailymirrorlk-6537dcfa",
+    "date_str": "2026-07-23",
+    "description": "Will the \u201ctax shock\u201d kill the Sri Lankan economy?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Will-the-tax-shock-kill-the-Sri-Lankan-economy/108-346411",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784780031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-4a679a99",
+    "num": "dailymirrorlk-4a679a99",
+    "date_str": "2026-07-23",
+    "description": "Dengue vaccine not the solution to current outbreak: Expert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-vaccine-not-the-solution-to-current-outbreak-Expert/108-346412",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784780461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-bf259a2f",
+    "num": "dailymirrorlk-bf259a2f",
+    "date_str": "2026-07-23",
+    "description": "Special arrack price increased by Rs. 20",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-arrack-price-increased-by-Rs-20/108-346413",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784780872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-5c40aa1c",
+    "num": "dailymirrorlk-5c40aa1c",
+    "date_str": "2026-07-23",
+    "description": "New Animal Welfare Bill: Rs. 250,000 fine, two-year jail for animal cruelty",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Animal-Welfare-Bill-Rs-250-000-fine-two-year-jail-for-animal-cruelty/108-346414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784781349.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-6755510b",
+    "num": "tamilmirrorlk-6755510b",
+    "date_str": "2026-07-23",
+    "description": "\u0bae\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf: \u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bc1-\u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-380328",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784781578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-dailymirrorlk-d1e6c581",
+    "num": "dailymirrorlk-d1e6c581",
+    "date_str": "2026-07-23",
+    "description": "Proposed Chartered Institute of media professionals to develop and maintain media standards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Proposed-Chartered-Institute-of-media-professionals-to-develop-and-maintain-media-standards/108-346415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784781864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-23-tamilmirrorlk-b9c07a61",
+    "num": "tamilmirrorlk-b9c07a61",
+    "date_str": "2026-07-23",
+    "description": "\u2019\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd\u2019 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bc7 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bcd - \u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bcd\u0b9a\u0bbe\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9-\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0ba8\u0bbe\u0bb3\u0bc7-\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bcd-\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0bb1\u0bcd\u0b9a\u0bbe\u0b95\u0bae\u0bcd/54-380329",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784783469.0
   }
 ]
