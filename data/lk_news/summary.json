@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-24 02:09:25",
-  "n_docs": 124811,
+  "time_updated": "2026-07-24 04:06:15",
+  "n_docs": 124812,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124811,
+  "n_docs_with_text": 124812,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-24",
-  "dataset_size": 1948439323,
+  "dataset_size": 1948570196,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-dailymirrorlk-1b57ea34",
-    "num": "dailymirrorlk-1b57ea34",
+    "doc_id": "2026-07-24-tamilmirrorlk-bc72b025",
+    "num": "tamilmirrorlk-bc72b025",
     "date_str": "2026-07-24",
-    "description": "CPA\u00a0Australia Chief warns of ethical reckoning for accountants navigating automated financial systems",
-    "url_metadata": "https://www.dailymirror.lk/business/CPAAustralia-Chief-warns-of-ethical-reckoning-for-accountants-navigating-automated-financial-systems/215-346482",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784838215.0
+    "description": "\u0b85\u0bb0\u0b9a \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0b9c\u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb0\u0b9c\u0bae\u0b95\u0bbe-\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe/175-380378",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784844197.0
   }
 }

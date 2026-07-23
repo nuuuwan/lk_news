@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_02:10:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_04:07:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,811** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,812** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-dailymirrorlk-1b57ea34",
-    "num": "dailymirrorlk-1b57ea34",
+    "doc_id": "2026-07-24-tamilmirrorlk-bc72b025",
+    "num": "tamilmirrorlk-bc72b025",
     "date_str": "2026-07-24",
-    "description": "CPA\u00a0Australia Chief warns of ethical reckoning for accountants navigating automated financial systems",
-    "url_metadata": "https://www.dailymirror.lk/business/CPAAustralia-Chief-warns-of-ethical-reckoning-for-accountants-navigating-automated-financial-systems/215-346482",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784838215.0
+    "description": "\u0b85\u0bb0\u0b9a \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0b9c\u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb0\u0b9c\u0bae\u0b95\u0bbe-\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe/175-380378",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784844197.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `tamilmirrorlk-bc72b025` | அரச ஒருங்கிணைப்புடன் கோட்டை ரஜமகா விகாரையின் பெரஹரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-bc72b025)
 - 2026-07-24 | `dailymirrorlk-1b57ea34` | CPA Australia Chief warns of ethical reckoning for accountants navigating automated financial systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-1b57ea34)
 - 2026-07-24 | `dailymirrorlk-b4637d82` | SEC, CSE and CA Sri Lanka sign MOU to advance XBRL-based digital reporting for listed companies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-b4637d82)
 - 2026-07-24 | `dailymirrorlk-6bb8f4ec` | Sri Lanka targets US$300mn in cinnamon exports as Alba price hits record Rs. 7,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-6bb8f4ec)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-23 | `dailymirrorlk-818c6479` | Invest Lab celebrates 5 years with Right Vantage Corporate Solutions launch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-818c6479)
 - 2026-07-23 | `dailymirrorlk-e43bce1d` | Port City helipad among key aviation proposals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-e43bce1d)
 - 2026-07-23 | `dailymirrorlk-d5bf3678` | Chinese Embassy seeks probe into Port City clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-d5bf3678)
-- 2026-07-23 | `dailymirrorlk-09a1e796` | Mid-air 10-person brawl halts easyJet flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-09a1e796)
 
 ---
 
