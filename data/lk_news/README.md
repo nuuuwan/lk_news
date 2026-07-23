@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_04:07:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--23_06:25:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,648** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,663** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-23-dailyftlk-611759da",
-    "num": "dailyftlk-611759da",
+    "doc_id": "2026-07-23-adalk-6b4efe17",
+    "num": "adalk-6b4efe17",
     "date_str": "2026-07-23",
-    "description": "Minority caucus, PC elections,  SJB and the new Constitution noose",
-    "url_metadata": "https://www.ft.lk/columns/Minority-caucus-PC-elections-SJB-and-the-new-Constitution-noose/4-794996",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1784758735.0
+    "description": "DFCC \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dc3\u0dc4 Co-Energi \u0d91\u0d9a\u0dca\u0dc0 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/DFCC-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0dc3\u0dc4-Co-Energi-\u0d91\u0d9a\u0dca\u0dc0-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0da7-\u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dca/7-423385",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784766762.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-23 | `adalk-6b4efe17` | DFCC බැංකුව සහ Co-Energi එක්ව ව්‍යාපාරවල බලශක්තියට සහායක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-adalk-6b4efe17)
 - 2026-07-23 | `dailyftlk-611759da` | Minority caucus, PC elections,  SJB and the new Constitution noose | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-611759da)
 - 2026-07-23 | `dailyftlk-1f10ba92` | The Commonwealth’s greatest prize lies beyond the Games | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-1f10ba92)
 - 2026-07-23 | `dailyftlk-807a2fa8` | Who really pays for digital banking? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailyftlk-807a2fa8)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-23 | `dailymirrorlk-033f933e` | SLCGE invites SME apparel manufacturers to join unified industry platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-033f933e)
 - 2026-07-23 | `dailymirrorlk-c2529531` | Singer Sri Lanka joins Dialog Pay ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-c2529531)
 - 2026-07-23 | `dailymirrorlk-ffbcbf00` | Abans Finance strengthens islandwide presence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-ffbcbf00)
-- 2026-07-23 | `dailymirrorlk-03d82d31` | LOLC Finance expands islandwide reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-03d82d31)
 
 ---
 

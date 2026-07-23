@@ -1,0 +1,51 @@
+The Digital Underground
+
+Illegal Foreign Exchange, Undiyal, Hawala and Money Laundering, A Four-Part Investigative Series
+
+Priya, a 34-year-old professional in Colombo, met “David” on LinkedIn. He claimed to work in fintech in Singapore. For six weeks they exchanged messages daily, about work, about life, about a recent trip he had taken to the Maldives. Eventually, the conversation turned, gently and naturally, to money.
+
+“I’ve been trading on this platform, let me show you,” he said, sharing a screenshot of a sleek trading dashboard showing consistent, impressive returns.
+
+Priya invested a small amount first, $500. Within days, her dashboard showed it had grown to $650. She withdrew $100 successfully, just to test it. It worked. Encouraged, she invested more. Then more. Over two months, she transferred a total of $42,000 into the platform.
+
+When she tried to withdraw her full balance, the platform demanded a “regulatory release fee” of $8,000 before funds could be unlocked. She paid it. Then another fee appeared. Then the platform stopped responding altogether. “David” vanished. The trading dashboard, the customer support chat, the entire brokerage, all of it had never been real.
+
+This is what investigators now call “pig butchering”, and, in 2026, the most disturbing development is not the scam itself, which has existed for years, but what now powers it: artificial intelligence has industrialised the entire operation.
+
+For most of the past decade, romance-and-investment scams, like the one that targeted Priya, required enormous manual labour. Scam operations, many of them staffed by trafficked workers held against their will in compounds across Myanmar, Cambodia, and Laos, needed real humans to build relationships with victims over weeks, manage fake trading platforms, and respond convincingly to questions.
+
+That labour-intensive model has now been substantially automated. According to financial-crime researchers tracking this shift through 2026, threat actors are standing up entire AI-generated “brokerage” experiences end-to-end, complete with KYC onboarding, branded customer-service chat, animated portfolio dashboards, and falsified live market data feeds, and operating them at industrial scale against multiple victims simultaneously. Generative-AI relationship managers now front the WhatsApp and Telegram conversations that once required real human scammers. AI-cloned regulator letters are generated on demand to justify the fake “release fees” that drain victims a final time before the platform disappears.
+
+What has changed is not the deception itself, it is the production economics. The cost of running a credible synthetic brokerage against one additional victim has collapsed, meaning a single criminal network can now run hundreds of “Davids” simultaneously, each one indistinguishable from a genuine fintech professional until it is too late. (Figure 01)
+
+Sri Lanka’s relationship to this global scam economy has shifted in an alarming direction over the past two years. The country is no longer only a source of victims, it has become an operating base for the criminal networks themselves.
+
+In April, 2026, Sri Lankan police raided a five-star hotel property, in Ambakandavila, and arrested 150 individuals, including 133 Chinese nationals, 13 Vietnamese nationals, and one Malaysian national, allegedly running a cyber fraud centre with links to international criminal syndicates, based in Myanmar and Cambodia. Investigators say the operation followed a now-familiar regional pattern: recruiters advertise “online marketing” or “data entry” jobs on social media to lure foreign workers to Sri Lanka, confiscate their passports on arrival, and force them to operate scam campaigns under threat.
+
+The Central Bank of Sri Lanka has formally flagged pig-butchering scams as a “developing threat,” warning that foreign scam networks are increasingly targeting overseas nationals through scam farms operating from Sri Lankan soil. A 2026 United Nations report estimated that at least 300,000 people have been trafficked into scam centres across Southeast Asia.
+
+This is not an abstract international problem. It is unfolding in hotels and rented properties across the country, exploiting the same infrastructure, high-speed internet, affordable accommodation, accessible tourist visas, that Sri Lanka has built to attract legitimate digital businesses and tourists.
+
+Behind every successful pig-butchering scam sits a laundering pipeline that has been transformed almost as dramatically as the scams themselves, and the transformation has a single dominant feature: stablecoins.
+
+According to the Financial Action Task Force’s March 2026, report, drawing on analysis from blockchain intelligence firms Chainalysis and TRM Labs, stablecoins accounted for 84% of the USD 154 billion in illicit virtual asset transaction volume recorded in 2025, the highest share ever observed, and a dramatic jump from just 15% only a few years earlier. TRM Labs separately found that illicit entities received USD 141 billion in stablecoins, in 2025 alone, the highest level observed in five years. (See Table 01)
+
+The scale of state-level abuse is striking. A Russian sanctions-evasion network built around the ruble-pegged stablecoin A7A5 processed more than USD 72 billion in total volume in 2025.
+
+The same artificial intelligence reshaping financial crime is also, out of necessity, reshaping the defence against it. Legacy anti-money laundering systems, built on static, rule-based thresholds, have proven badly outmatched by AI-generated fraud operating at machine speed. Research cited by compliance technology analysts suggests that between 90% and 95% of alerts generated by legacy AML systems are false positives, consuming enormous investigator time while genuinely suspicious activity slips through.
+
+This is not a frictionless transition. AI models are notoriously difficult to explain to regulators and examiners in the way traditional rule-based systems are. The practical compromise emerging across the industry is a hybrid model: AI handles the initial scoring and prioritisation of risk, while documented rule-based logic still governs the final decision that must be defensible to a regulator.
+
+Regulators worldwide have begun moving to close the most dangerous gaps exposed by this digital transformation of financial crime.  (See Table 02)
+
+We have now traced this investigation from the centuries-old mechanics of Hawala and Undiyal, through the three-stage architecture that turns criminal proceeds into apparently legitimate wealth, to the AI-generated frontier of digital financial crime reshaping all of it at machine speed.
+
+In our concluding instalment, Part IV: “Sri Lanka at the Crossroads: Economic Consequences, Organised Crime and the Road Ahead”, we bring this series home. We examine precisely what all of this costs Sri Lanka in hard economic terms: lost remittances, exchange rate pressure, tax revenue forgone, and the 2026 FATF evaluation that will determine whether the country’s institutions can demonstrate, with evidence rather than legislation alone, that they are equal to this challenge. We close with a practical policy roadmap.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe.
+
+‘There are no private universities in Sri Lanka’ – some considerations for higher education reform
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
