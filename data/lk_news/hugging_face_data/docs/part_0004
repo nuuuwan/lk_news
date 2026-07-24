@@ -314075,5 +314075,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784904089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-93484632",
+    "num": "dailymirrorlk-93484632",
+    "date_str": "2026-07-24",
+    "description": "Supermarket fined Rs. 500,000 for selling Nadu rice above controlled price",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supermarket-fined-Rs-500-000-for-selling-Nadu-rice-above-controlled-price/108-346554",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784904334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-b6e02a61",
+    "num": "dailymirrorlk-b6e02a61",
+    "date_str": "2026-07-24",
+    "description": "10 killed, including security personnel, in suicide bombing in Pakistan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-killed-including-security-personnel-in-suicide-bombing-in-Pakistan/108-346558",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784905236.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-db6eb65a",
+    "num": "dailymirrorlk-db6eb65a",
+    "date_str": "2026-07-24",
+    "description": "Rear Admiral Buddhika Liyanagamage assumes duties as Eastern Naval Area Commander",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rear-Admiral-Buddhika-Liyanagamage-assumes-duties-as-Eastern-Naval-Area-Commander/108-346559",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784905415.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-87defa63",
+    "num": "dailymirrorlk-87defa63",
+    "date_str": "2026-07-24",
+    "description": "No visa fee change for Sri Lankan pilgrims, India clarifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-visa-fee-change-for-Sri-Lankan-pilgrims-India-clarifies/108-346564",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784908058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-93d27850",
+    "num": "dailymirrorlk-93d27850",
+    "date_str": "2026-07-24",
+    "description": "BASL rejects government MP\u2019s claims, challenges MP to repeat allegations outside Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-rejects-government-MPs-claims-challenges-MP-to-repeat-allegations-outside-Parliament/108-346565",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784909531.0
   }
 ]
