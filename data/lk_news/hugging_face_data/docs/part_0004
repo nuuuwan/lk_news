@@ -313792,6 +313792,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-c548daca",
+    "num": "dailymirrorlk-c548daca",
+    "date_str": "2026-07-24",
+    "description": "Mangroves of Negombo Lagoon",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Mangroves-of-Negombo-Lagoon/110-346528",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784883398.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-adalk-c9eb80b5",
     "num": "adalk-c9eb80b5",
     "date_str": "2026-07-24",
@@ -313800,6 +313811,28 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1784886387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-a9c4eace",
+    "num": "adalk-a9c4eace",
+    "date_str": "2026-07-24",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d8b\u0dc5\u0dd9\u0dbd\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dc0\u0dbd \u0dc3\u0dd8\u0da2\u0dd4\u0dc0\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dc5\u0dd4\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dd4\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dda \u0dc0\u0da7\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0d8b\u0dc5\u0dd9\u0dbd\u0dda-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0dad\u0dbb\u0d9c\u0dc0\u0dbd-\u0dc3\u0dd8\u0da2\u0dd4\u0dc0\u0db8-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dc5\u0dd4\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dd4\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dda-\u0dc0\u0da7\u0dba\u0da7/9-423411",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784886752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-10c285c1",
+    "num": "dailymirrorlk-10c285c1",
+    "date_str": "2026-07-24",
+    "description": "Colombo Food Fiesta",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Colombo-Food-Fiesta/110-346535",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784887070.0
   },
   {
     "doc_type": "lk_news",
@@ -313822,5 +313855,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784890380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-449710b4",
+    "num": "tamilmirrorlk-449710b4",
+    "date_str": "2026-07-24",
+    "description": "\u0ba4\u0bbe\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba4\u0bc1\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0ba4\u0bb1\u0bbf\u0ba4\u0bcd \u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0b99\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4-\u0ba4\u0bc1\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b95\u0ba4\u0bb1\u0bbf\u0ba4\u0bcd-\u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf/50-380398",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784891009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-31837a0e",
+    "num": "dailymirrorlk-31837a0e",
+    "date_str": "2026-07-24",
+    "description": "Klopp starts Germany reign by threatening to quit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Klopp-starts-Germany-reign-by-threatening-to-quit/108-346540",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784891477.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-c38eec1f",
+    "num": "tamilmirrorlk-c38eec1f",
+    "date_str": "2026-07-24",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0baa\u0bc2\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1-\u0baa\u0bc2\u0ba9\u0bc8/50-380399",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784893087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-dcc97d67",
+    "num": "dailymirrorlk-dcc97d67",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka explores house arrest to ease severe prison overcrowding",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-explores-house-arrest-to-ease-severe-prison-overcrowding/108-346541",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784893612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-d1e96b04",
+    "num": "dailymirrorlk-d1e96b04",
+    "date_str": "2026-07-24",
+    "description": "Bangladesh\u2019s President Shahabuddin, 76, resigns citing health concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bangladeshs-President-Shahabuddin-76-resigns-citing-health-concerns/108-346542",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784894397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-45d2d672",
+    "num": "dailymirrorlk-45d2d672",
+    "date_str": "2026-07-24",
+    "description": "Ex-Southern Province Chief Secretary arrested over alleged Rs. 16.5M fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Southern-Province-Chief-Secretary-arrested-over-alleged-Rs-16-5M-fraud/108-346543",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784895134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-f41f0259",
+    "num": "tamilmirrorlk-f41f0259",
+    "date_str": "2026-07-24",
+    "description": "\u0baf\u0bbe\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0bb5\u0bc7\u0ba9\u0bcd: \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf-\u0bb5\u0bc7\u0ba9\u0bcd-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-380400",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784895455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-41c66767",
+    "num": "dailymirrorlk-41c66767",
+    "date_str": "2026-07-24",
+    "description": "Navy seizes over three tonnes of smuggled Kendu leaves off Chilaw",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-over-three-tonnes-of-smuggled-Kendu-leaves-off-Chilaw/108-346544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784896013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-1533f950",
+    "num": "dailymirrorlk-1533f950",
+    "date_str": "2026-07-24",
+    "description": "New Chairman and members appointed to Delimitation Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Chairman-and-members-appointed-to-Delimitation-Commission/108-346545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784897012.0
   }
 ]
