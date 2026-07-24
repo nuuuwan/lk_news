@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_08:50:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_10:51:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,851** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-tamilmirrorlk-d53700b3",
-    "num": "tamilmirrorlk-d53700b3",
+    "doc_id": "2026-07-24-dailymirrorlk-cf5dd409",
+    "num": "dailymirrorlk-cf5dd409",
     "date_str": "2026-07-24",
-    "description": "\u0bae\u0bcb\u0b9f\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u2019\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/175-380383",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784860146.0
+    "description": "Sri Lanka seeks China aid for bamboo, forest management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-China-aid-for-bamboo-forest-management/108-346514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784868923.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `dailymirrorlk-cf5dd409` | Sri Lanka seeks China aid for bamboo, forest management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-cf5dd409)
+- 2026-07-24 | `dailymirrorlk-82de0521` | Lanka Premier League: Galle Gallants cruise to third win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-82de0521)
+- 2026-07-24 | `dailymirrorlk-8a765b26` | Bangladesh president to resign as pressure grows over Hasina’s planned return | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-8a765b26)
+- 2026-07-24 | `dailymirrorlk-2468cbaf` | El Niño could alter weather patterns, bringing rains to some areas and dry spells to others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-2468cbaf)
+- 2026-07-24 | `dailymirrorlk-79849ca1` | 21 companies under CID probe over alleged $700 Million import scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-79849ca1)
+- 2026-07-24 | `dailymirrorlk-e399e3e6` | CAA fines 23 private hospitals, labs Rs. 5.8m over expired medicines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-e399e3e6)
+- 2026-07-24 | `dailymirrorlk-c7c15bb1` | Private bus drivers, conductors to receive ETF membership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-c7c15bb1)
+- 2026-07-24 | `dailymirrorlk-110d0748` | Ranil pushes for select committee to resolve 1.1 million pending court cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-110d0748)
 - 2026-07-24 | `tamilmirrorlk-d53700b3` | மோடி வெளியிட்ட ’செல்ஃபி வீடியோ’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-d53700b3)
 - 2026-07-24 | `adalk-4a237b51` | ජපානයේ ප්‍රදානයක් ලෙස ලැබුණ පත්ල පහත් බස් රථ 7ක් ලංකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-4a237b51)
 - 2026-07-24 | `tamilmirrorlk-f28ee956` | கனடா, பிரித்தானியா, சவுதி அரேபியா செல்பவர்களை திட்டமிட்டு ஏமாற்றுகிறார்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-f28ee956)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-07-24 | `dailyftlk-3938d67b` | Ceylon Investment proposes Rs. 366 m share buyback | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-3938d67b)
 - 2026-07-24 | `dailyftlk-7844f874` | Overseas Realty posts Rs. 4.8 b PBT in 1H | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-7844f874)
 - 2026-07-24 | `dailyftlk-2bf5fd3f` | Ceylon Chamber to host networking session with Indian business delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-2bf5fd3f)
-- 2026-07-24 | `dailymirrorlk-548b56e7` | Sri Lanka among countries facing lower 10% US tariff under new forced labour policy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-548b56e7)
-- 2026-07-24 | `dailyftlk-3b37d34c` | Budget 2027: From stabilisation to transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-3b37d34c)
-- 2026-07-24 | `tamilmirrorlk-1c99ff96` | மோட்டார் சைக்கிளும் வேனும் நேருக்கு நேர் மோதிக்கொண்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-1c99ff96)
-- 2026-07-24 | `adalk-0432512f` | මහජන බැංකුව 65 වන සංවත්සරය නිමිත්තෙන් ලේ දන්දීමේ කඳවුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-0432512f)
-- 2026-07-24 | `tamilmirrorlk-61228813` | இன்று மழை இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-61228813)
-- 2026-07-24 | `dailyftlk-cfe4db44` | India calling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-cfe4db44)
-- 2026-07-24 | `dailyftlk-a0c09704` | Chinese groups clash at Port City; one abducted and killed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-a0c09704)
-- 2026-07-24 | `dailyftlk-38c2039e` | 17 of 23 Negombo Prison deaths caused by gunshots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-38c2039e)
 
 ---
 

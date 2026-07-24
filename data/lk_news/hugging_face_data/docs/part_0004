@@ -313286,6 +313286,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-9fb13892",
+    "num": "dailymirrorlk-9fb13892",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka among countries facing 10% US tariff under new forced labour policy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-countries-facing-10-US-tariff-under-new-forced-labour-policy/108-346491",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784856971.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailyftlk-2bf5fd3f",
     "num": "dailyftlk-2bf5fd3f",
     "date_str": "2026-07-24",
@@ -313415,5 +313426,93 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784860146.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-110d0748",
+    "num": "dailymirrorlk-110d0748",
+    "date_str": "2026-07-24",
+    "description": "Ranil pushes for select committee to resolve 1.1 million pending court cases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-pushes-for-select-committee-to-resolve-1-1-million-pending-court-cases/108-346492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784865039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-c7c15bb1",
+    "num": "dailymirrorlk-c7c15bb1",
+    "date_str": "2026-07-24",
+    "description": "Private bus drivers, conductors to receive ETF membership",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Private-bus-drivers-conductors-to-receive-ETF-membership/108-346493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784866042.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-e399e3e6",
+    "num": "dailymirrorlk-e399e3e6",
+    "date_str": "2026-07-24",
+    "description": "CAA fines 23 private hospitals, labs Rs. 5.8m over expired medicines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-fines-23-private-hospitals-labs-Rs-5-8m-over-expired-medicines/108-346494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784866359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-79849ca1",
+    "num": "dailymirrorlk-79849ca1",
+    "date_str": "2026-07-24",
+    "description": "21 companies under CID probe over alleged $700 Million import scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/21-companies-under-CID-probe-over-alleged-700-Million-import-scam/108-346504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784867641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-2468cbaf",
+    "num": "dailymirrorlk-2468cbaf",
+    "date_str": "2026-07-24",
+    "description": "El Ni\u00f1o could alter weather patterns, bringing rains to some areas and dry spells to others",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Ni\u00f1o-could-alter-weather-patterns-bringing-rains-to-some-areas-and-dry-spells-to-others/108-346508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784868165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-8a765b26",
+    "num": "dailymirrorlk-8a765b26",
+    "date_str": "2026-07-24",
+    "description": "Bangladesh president to resign as pressure grows over Hasina\u2019s planned return",
+    "url_metadata": "https://www.dailymirror.lk/international/Bangladesh-president-to-resign-as-pressure-grows-over-Hasinas-planned-return/107-346509",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784868242.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-82de0521",
+    "num": "dailymirrorlk-82de0521",
+    "date_str": "2026-07-24",
+    "description": "Lanka Premier League: Galle Gallants cruise to third win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lanka-Premier-League-Galle-Gallants-cruise-to-third-win/108-346510",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784868356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-cf5dd409",
+    "num": "dailymirrorlk-cf5dd409",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka seeks China aid for bamboo, forest management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-China-aid-for-bamboo-forest-management/108-346514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784868923.0
   }
 ]
