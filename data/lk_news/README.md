@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_18:18:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_20:21:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,900** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,911** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-dailymirrorlk-1533f950",
-    "num": "dailymirrorlk-1533f950",
+    "doc_id": "2026-07-24-tamilmirrorlk-b9464d87",
+    "num": "tamilmirrorlk-b9464d87",
     "date_str": "2026-07-24",
-    "description": "New Chairman and members appointed to Delimitation Commission",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Chairman-and-members-appointed-to-Delimitation-Commission/108-346545",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784897012.0
+    "description": "\u0bb5\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb0\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380402",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784904089.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `tamilmirrorlk-b9464d87` | வத்தளை துப்பாக்கிச் சூடு: இரு பெண்கள் உட்பட நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-b9464d87)
+- 2026-07-24 | `dailymirrorlk-738a0bd6` | Eight mangrove ecosystems in Puttalam to be declared Protected Reserves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-738a0bd6)
+- 2026-07-24 | `dailymirrorlk-2e1e3df1` | Four arrested over shooting at Wattala birthday party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-2e1e3df1)
+- 2026-07-24 | `dailymirrorlk-43dd4a25` | Spain declares national emergency over wildfires near Madrid and in Avila | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-43dd4a25)
+- 2026-07-24 | `tamilmirrorlk-358202f2` | நம்பிக்கையில்லா பிரேரணை தோற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-358202f2)
+- 2026-07-24 | `dailymirrorlk-448dfc2c` | No-confidence motion against Justice Minister defeated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-448dfc2c)
+- 2026-07-24 | `dailymirrorlk-0c263424` | A/L admission card amendments open online until Aug. 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-0c263424)
+- 2026-07-24 | `dailymirrorlk-43275d37` | Early optimism gives way to weaker close at the CSE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-43275d37)
 - 2026-07-24 | `dailymirrorlk-1533f950` | New Chairman and members appointed to Delimitation Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-1533f950)
 - 2026-07-24 | `dailymirrorlk-41c66767` | Navy seizes over three tonnes of smuggled Kendu leaves off Chilaw | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-41c66767)
 - 2026-07-24 | `tamilmirrorlk-f41f0259` | யானையுடன் மோதிய வேன்: ஐவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-f41f0259)
@@ -51,16 +59,8 @@ A collection of lk_news documents.
 - 2026-07-24 | `dailymirrorlk-31837a0e` | Klopp starts Germany reign by threatening to quit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-31837a0e)
 - 2026-07-24 | `tamilmirrorlk-449710b4` | தாங்க முடியாத துயரத்தால் கதறித் துடிக்கும் அரசியல்வாதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-449710b4)
 - 2026-07-24 | `dailymirrorlk-f77b2593` | Rs. 150 million worth assets earned from drug money freezed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-f77b2593)
-- 2026-07-24 | `tamilmirrorlk-9e62fc37` | 5 கொலைகள்: பிள்ளையான் உள்ளிட்ட மூவருக்கும் விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-9e62fc37)
-- 2026-07-24 | `dailymirrorlk-10c285c1` | Colombo Food Fiesta | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-10c285c1)
-- 2026-07-24 | `adalk-a9c4eace` | ලංකාව ආසියානු ක්‍රීඩා උළෙලේ ක්‍රිකට් තරගවල සෘජුවම පිළිමළුන් පිටුදැකීමේ වටයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-a9c4eace)
-- 2026-07-24 | `adalk-c9eb80b5` | රස පරීක්ෂක වාර්තා ප්‍රමාදය බන්ධනාගර තදබදයට දැඩිව බලපාලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-c9eb80b5)
-- 2026-07-24 | `dailymirrorlk-c548daca` | Mangroves of Negombo Lagoon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-c548daca)
-- 2026-07-24 | `dailymirrorlk-29838068` | How Abhijeet Dipke became the face of India’s first Gen Z protest movement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-29838068)
-- 2026-07-24 | `tamilmirrorlk-cb12c643` | தீப்பிழம்பாக வெடித்துச் சிதறிய விமானம்: பயணிகளுக்கு நடந்து தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-cb12c643)
-- 2026-07-24 | `tamilmirrorlk-0a51f1df` | கல்முனையில் ‘கறுப்பு ஜூலை’ நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-0a51f1df)
-- 2026-07-24 | `dailymirrorlk-64ca56da` | France orders evacuation of peninsula as hundreds flee wildfires by boat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-64ca56da)
-- 2026-07-24 | `tamilmirrorlk-dc36afc9` | கூகுளின் புதிய செல்ஃபி வீடியோ உள்நுழைவு வசதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-dc36afc9)
+- 2026-07-24 | `adalk-c08a2ffa` | මත්ද්‍රව්‍ය තොගයක් හෙට විනාශ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-c08a2ffa)
+- 2026-07-24 | `adalk-344fd622` | ජනාධිපති කාර්යාලයේ වාහන 26ක් ආගිය අතක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-adalk-344fd622)
 
 ---
 
