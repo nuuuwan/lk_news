@@ -308094,6 +308094,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-20-islandlk-37270f31",
+    "num": "islandlk-37270f31",
+    "date_str": "2026-07-20",
+    "description": "Welcome bid to tackle rolling death traps",
+    "url_metadata": "http://island.lk/welcome-bid-to-tackle-rolling-death-traps/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784567160.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-20-islandlk-40b1b27c",
     "num": "islandlk-40b1b27c",
     "date_str": "2026-07-20",
@@ -310998,6 +311009,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-7556770d",
+    "num": "islandlk-7556770d",
+    "date_str": "2026-07-22",
+    "description": "Dengue outbreak exposes multi-billion rupee burden on state health system",
+    "url_metadata": "http://island.lk/dengue-outbreak-exposes-multi-billion-rupee-burden-on-state-health-system/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784743200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-c3d2413a",
+    "num": "islandlk-c3d2413a",
+    "date_str": "2026-07-22",
+    "description": "Rupee stability reflective of positive impact of policies taken thus far  \u2013 CBSL Governor",
+    "url_metadata": "http://island.lk/rupee-stability-reflective-of-positive-impact-of-policies-taken-thus-far-cbsl-governor/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784743200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-islandlk-d4bbe8e1",
     "num": "islandlk-d4bbe8e1",
     "date_str": "2026-07-22",
@@ -311039,6 +311072,39 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784743440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-1961586b",
+    "num": "islandlk-1961586b",
+    "date_str": "2026-07-22",
+    "description": "The hard challenge of clinching a political settlement in the Middle East",
+    "url_metadata": "http://island.lk/the-hard-challenge-of-clinching-a-political-settlement-in-the-middle-east/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784743800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-f251d297",
+    "num": "islandlk-f251d297",
+    "date_str": "2026-07-22",
+    "description": "Thicker, stronger hair \u2026",
+    "url_metadata": "http://island.lk/thicker-stronger-hair/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784744520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-5447ab8a",
+    "num": "islandlk-5447ab8a",
+    "date_str": "2026-07-22",
+    "description": "Amazing Thailand \u2026right here in Colombo",
+    "url_metadata": "http://island.lk/amazing-thailand-right-here-in-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784744580.0
   },
   {
     "doc_type": "lk_news",
@@ -312901,6 +312967,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-8198ec50",
+    "num": "islandlk-8198ec50",
+    "date_str": "2026-07-24",
+    "description": "First Capital enhances service experience with upgraded Negombo branch",
+    "url_metadata": "http://island.lk/first-capital-enhances-service-experience-with-upgraded-negombo-branch/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-5e542460",
+    "num": "islandlk-5e542460",
+    "date_str": "2026-07-24",
+    "description": "AmCham Sri Lanka\u2019s \u201cHer Story, Her Voice\u201d brings together women leaders for candid conversations on leadership and legacy",
+    "url_metadata": "http://island.lk/amcham-sri-lankas-her-story-her-voice-brings-together-women-leaders-for-candid-conversations-on-leadership-and-legacy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-382c4189",
+    "num": "islandlk-382c4189",
+    "date_str": "2026-07-24",
+    "description": "Ceylon Chamber to host business networking session with visiting Indian Chamber of Commerce delegation",
+    "url_metadata": "http://island.lk/ceylon-chamber-to-host-business-networking-session-with-visiting-indian-chamber-of-commerce-delegation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-8f437495",
+    "num": "islandlk-8f437495",
+    "date_str": "2026-07-24",
+    "description": "\u2018Safe Mobility for 4All & 4Life\u2019",
+    "url_metadata": "http://island.lk/safe-mobility-for-4all-4life/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-8a01a92f",
+    "num": "islandlk-8a01a92f",
+    "date_str": "2026-07-24",
+    "description": "Investors going for \u2018fundamentally strong stocks\u2019 amid market tensions",
+    "url_metadata": "http://island.lk/investors-going-for-fundamentally-strong-stocks-amid-market-tensions/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-821a32a1",
     "num": "dailymirrorlk-821a32a1",
     "date_str": "2026-07-24",
@@ -312986,5 +313107,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784844197.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-05d58700",
+    "num": "dailymirrorlk-05d58700",
+    "date_str": "2026-07-24",
+    "description": "Bank Profits Must Never Come Before Compliance",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Bank-Profits-Must-Never-Come-Before-Compliance/172-346483",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784848388.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-3d957b74",
+    "num": "dailymirrorlk-3d957b74",
+    "date_str": "2026-07-24",
+    "description": "US-Iran war of attrition escalates: Bab al-Mandeb becomes flashpoint",
+    "url_metadata": "https://www.dailymirror.lk/opinion/US-Iran-war-of-attrition-escalates-Bab-al-Mandeb-becomes-flashpoint/172-346484",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784848559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-1cd5e7b9",
+    "num": "dailymirrorlk-1cd5e7b9",
+    "date_str": "2026-07-24",
+    "description": "US$715 Million Gone: Another financial black hole",
+    "url_metadata": "https://www.dailymirror.lk/opinion/US-715-Million-Gone-Another-financial-black-hole/172-346485",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784848639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-84df9aa6",
+    "num": "dailymirrorlk-84df9aa6",
+    "date_str": "2026-07-24",
+    "description": "Cartoon of the Day 24-07-2026",
+    "url_metadata": "https://www.dailymirror.lk/business/Cartoon-of-the-Day-24-07-2026/215-346490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784849987.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-029b99bb",
+    "num": "dailyftlk-029b99bb",
+    "date_str": "2026-07-24",
+    "description": "Gota attends Court of Appeal hearing in bid to block arrest",
+    "url_metadata": "https://www.ft.lk/news/Gota-attends-Court-of-Appeal-hearing-in-bid-to-block-arrest/56-795061",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784853506.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-38c2039e",
+    "num": "dailyftlk-38c2039e",
+    "date_str": "2026-07-24",
+    "description": "17 of 23 Negombo Prison deaths caused by gunshots",
+    "url_metadata": "https://www.ft.lk/news/17-of-23-Negombo-Prison-deaths-caused-by-gunshots/56-795062",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784853527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-a0c09704",
+    "num": "dailyftlk-a0c09704",
+    "date_str": "2026-07-24",
+    "description": "Chinese groups clash at Port City; one abducted and killed",
+    "url_metadata": "https://www.ft.lk/news/Chinese-groups-clash-at-Port-City-one-abducted-and-killed/56-795063",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784853551.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_04:07:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_06:20:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,812** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**124,830** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-24-tamilmirrorlk-bc72b025",
-    "num": "tamilmirrorlk-bc72b025",
+    "doc_id": "2026-07-24-dailyftlk-a0c09704",
+    "num": "dailyftlk-a0c09704",
     "date_str": "2026-07-24",
-    "description": "\u0b85\u0bb0\u0b9a \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0b9c\u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb0\u0b9c\u0bae\u0b95\u0bbe-\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe/175-380378",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1784844197.0
+    "description": "Chinese groups clash at Port City; one abducted and killed",
+    "url_metadata": "https://www.ft.lk/news/Chinese-groups-clash-at-Port-City-one-abducted-and-killed/56-795063",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784853551.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `dailyftlk-a0c09704` | Chinese groups clash at Port City; one abducted and killed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-a0c09704)
+- 2026-07-24 | `dailyftlk-38c2039e` | 17 of 23 Negombo Prison deaths caused by gunshots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-38c2039e)
+- 2026-07-24 | `dailyftlk-029b99bb` | Gota attends Court of Appeal hearing in bid to block arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailyftlk-029b99bb)
+- 2026-07-24 | `dailymirrorlk-84df9aa6` | Cartoon of the Day 24-07-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-84df9aa6)
+- 2026-07-24 | `dailymirrorlk-1cd5e7b9` | US$715 Million Gone: Another financial black hole | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-1cd5e7b9)
+- 2026-07-24 | `dailymirrorlk-3d957b74` | US-Iran war of attrition escalates: Bab al-Mandeb becomes flashpoint | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-3d957b74)
+- 2026-07-24 | `dailymirrorlk-05d58700` | Bank Profits Must Never Come Before Compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-05d58700)
 - 2026-07-24 | `tamilmirrorlk-bc72b025` | அரச ஒருங்கிணைப்புடன் கோட்டை ரஜமகா விகாரையின் பெரஹரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-tamilmirrorlk-bc72b025)
 - 2026-07-24 | `dailymirrorlk-1b57ea34` | CPA Australia Chief warns of ethical reckoning for accountants navigating automated financial systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-1b57ea34)
 - 2026-07-24 | `dailymirrorlk-b4637d82` | SEC, CSE and CA Sri Lanka sign MOU to advance XBRL-based digital reporting for listed companies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-b4637d82)
@@ -49,18 +56,11 @@ A collection of lk_news documents.
 - 2026-07-24 | `dailymirrorlk-bf53d148` | Tea exports fall in June despite stronger rupee earnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-bf53d148)
 - 2026-07-24 | `dailymirrorlk-84bc005c` | 01.07.2030 draws foreign buying amid stable yield curve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-84bc005c)
 - 2026-07-24 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-821a32a1)
-- 2026-07-24 | `dailymirrorlk-cfdc2d27` | ComBank dominates as  Sri Lanka’s most awarded bank at 2026 ABF Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-cfdc2d27)
-- 2026-07-24 | `dailymirrorlk-3a10366f` | Janashakthi Finance marks 45th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-dailymirrorlk-3a10366f)
-- 2026-07-23 | `dailymirrorlk-0a7d2c6d` | JICA delegation visits EDB to strengthen future collaboration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-0a7d2c6d)
-- 2026-07-23 | `dailymirrorlk-b6e2b1e3` | Ceylon Chamber to host biz networking session with visiting Indian chamber delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-b6e2b1e3)
-- 2026-07-23 | `dailymirrorlk-6741216f` | Seylan Bank partners with John Keells CG Auto to drive NEV ownership in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-6741216f)
-- 2026-07-23 | `dailymirrorlk-64715d6a` | NDB Wealth marks 34th anniversary with client engagement event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-64715d6a)
-- 2026-07-23 | `dailymirrorlk-a239518b` | Union Assurance introduces Platinum Circle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-a239518b)
-- 2026-07-23 | `dailymirrorlk-f4278eba` | Age of AI engineers has arrived: 99x | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-f4278eba)
-- 2026-07-23 | `dailymirrorlk-d0b1ff7f` | The Faculty of Brands launches Spot On platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-d0b1ff7f)
-- 2026-07-23 | `dailymirrorlk-818c6479` | Invest Lab celebrates 5 years with Right Vantage Corporate Solutions launch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-818c6479)
-- 2026-07-23 | `dailymirrorlk-e43bce1d` | Port City helipad among key aviation proposals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-e43bce1d)
-- 2026-07-23 | `dailymirrorlk-d5bf3678` | Chinese Embassy seeks probe into Port City clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-23-dailymirrorlk-d5bf3678)
+- 2026-07-24 | `islandlk-8a01a92f` | Investors going for ‘fundamentally strong stocks’ amid market tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-islandlk-8a01a92f)
+- 2026-07-24 | `islandlk-8f437495` | ‘Safe Mobility for 4All & 4Life’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-islandlk-8f437495)
+- 2026-07-24 | `islandlk-382c4189` | Ceylon Chamber to host business networking session with visiting Indian Chamber of Commerce delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-islandlk-382c4189)
+- 2026-07-24 | `islandlk-5e542460` | AmCham Sri Lanka’s “Her Story, Her Voice” brings together women leaders for candid conversations on leadership and legacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-islandlk-5e542460)
+- 2026-07-24 | `islandlk-8198ec50` | First Capital enhances service experience with upgraded Negombo branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-24-islandlk-8198ec50)
 
 ---
 
