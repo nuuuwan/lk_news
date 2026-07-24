@@ -314130,5 +314130,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784909531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-2de88524",
+    "num": "dailyftlk-2de88524",
+    "date_str": "2026-07-24",
+    "description": "Pillayan further remanded",
+    "url_metadata": "https://www.ft.lk/news/Pillayan-further-remanded/56-795119",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784917321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-cd36da53",
+    "num": "dailyftlk-cd36da53",
+    "date_str": "2026-07-24",
+    "description": "Parliament defeats no-confidence motion against Justice Minister",
+    "url_metadata": "https://www.ft.lk/news/Parliament-defeats-no-confidence-motion-against-Justice-Minister/56-795120",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784917623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailyftlk-deb59a96",
+    "num": "dailyftlk-deb59a96",
+    "date_str": "2026-07-24",
+    "description": "Shashi Tharoor, Ranil meet",
+    "url_metadata": "https://www.ft.lk/news/Shashi-Tharoor-Ranil-meet/56-795121",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784917699.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-00f5675b",
+    "num": "dailyftlk-00f5675b",
+    "date_str": "2026-07-25",
+    "description": "Rotary International Vice President visits Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Rotary-International-Vice-President-visits-Sri-Lanka/56-795122",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784917825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-60bfea4d",
+    "num": "dailyftlk-60bfea4d",
+    "date_str": "2026-07-25",
+    "description": "Samsung Sri Lanka to open pre-orders soon for Galaxy Z Fold8 Ultra and Galaxy Z Fold8",
+    "url_metadata": "https://www.ft.lk/business/Samsung-Sri-Lanka-to-open-pre-orders-soon-for-Galaxy-Z-Fold8-Ultra-and-Galaxy-Z-Fold8/34-795124",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784918375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-91cdf353",
+    "num": "dailyftlk-91cdf353",
+    "date_str": "2026-07-25",
+    "description": "AES expands digital reach through strategic partnership with Kapruka",
+    "url_metadata": "https://www.ft.lk/business/AES-expands-digital-reach-through-strategic-partnership-with-Kapruka/34-795125",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784918486.0
   }
 ]
