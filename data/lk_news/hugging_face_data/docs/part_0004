@@ -313638,6 +313638,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-2be4094e",
+    "num": "adalk-2be4094e",
+    "date_str": "2026-07-24",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 15\u0d9a \u0daf\u0dda\u0db4\u0dc5 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-15\u0d9a-\u0daf\u0dda\u0db4\u0dc5-\u0dad\u0dc4\u0db1\u0db8\u0dca/11-423408",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784874133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-d7dc5ccd",
+    "num": "adalk-d7dc5ccd",
+    "date_str": "2026-07-24",
+    "description": "\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0dc3\u0dda\u0dc0\u0dba\u0dda \u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4 \u0dbb\u0dd0\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0dda\u0dc0\u0dba\u0dda-\u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca/11-423409",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784874325.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-1da6ce30",
     "num": "dailymirrorlk-1da6ce30",
     "date_str": "2026-07-24",
@@ -313756,5 +313778,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784878640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-29838068",
+    "num": "dailymirrorlk-29838068",
+    "date_str": "2026-07-24",
+    "description": "How Abhijeet Dipke became the face of India\u2019s first Gen Z protest movement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-Abhijeet-Dipke-became-the-face-of-Indias-first-Gen-Z-protest-movement/108-346527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784881971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-c9eb80b5",
+    "num": "adalk-c9eb80b5",
+    "date_str": "2026-07-24",
+    "description": "\u0dbb\u0dc3 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dbb \u0dad\u0daf\u0db6\u0daf\u0dba\u0da7 \u0daf\u0dd0\u0da9\u0dd2\u0dc0 \u0db6\u0dbd\u0db4\u0dcf\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dc3-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dbb-\u0dad\u0daf\u0db6\u0daf\u0dba\u0da7-\u0daf\u0dd0\u0da9\u0dd2\u0dc0-\u0db6\u0dbd\u0db4\u0dcf\u0dbd\u0dcf/11-423410",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784886387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-9e62fc37",
+    "num": "tamilmirrorlk-9e62fc37",
+    "date_str": "2026-07-24",
+    "description": "5 \u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bb3\u0bcd: \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/5-\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380397",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784888798.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-f77b2593",
+    "num": "dailymirrorlk-f77b2593",
+    "date_str": "2026-07-24",
+    "description": "Rs. 150 million worth assets earned from drug money freezed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-150-million-worth-assets-earned-from-drug-money-freezed/108-346539",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784890380.0
   }
 ]
