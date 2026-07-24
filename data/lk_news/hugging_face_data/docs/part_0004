@@ -312934,6 +312934,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-islandlk-02c4b591",
+    "num": "islandlk-02c4b591",
+    "date_str": "2026-07-23",
+    "description": "The bill nobody budgets for: Healthcare and the retirement gap in Sri Lanka",
+    "url_metadata": "http://island.lk/the-bill-nobody-budgets-for-healthcare-and-the-retirement-gap-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784830920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-6741216f",
     "num": "dailymirrorlk-6741216f",
     "date_str": "2026-07-23",
@@ -313418,6 +313429,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-851c287e",
+    "num": "adalk-851c287e",
+    "date_str": "2026-07-24",
+    "description": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc3\u0dca\u0dc0\u0dbd\u0dca\u0db4\u0dba\u0dba\u0dd2, \u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc3\u0dca\u0dc0\u0dbd\u0dca\u0db4\u0dba\u0dba\u0dd2--\u0dc0\u0dd2\u0dba\u0dc5\u0dd2-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca/11-423403",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784858731.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-tamilmirrorlk-d53700b3",
     "num": "tamilmirrorlk-d53700b3",
     "date_str": "2026-07-24",
@@ -313514,5 +313536,170 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784868923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-3bdb41ce",
+    "num": "adalk-3bdb41ce",
+    "date_str": "2026-07-24",
+    "description": "\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5 \u0d85\u0d9c\u0ddc\u0dca\u0dc3\u0dca\u0dad\u0dd4 10 \u0daf\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5-\u0d85\u0d9c\u0ddc\u0dca\u0dc3\u0dca\u0dad\u0dd4-10-\u0daf\u0dcf/11-423405",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784872337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-81796ffb",
+    "num": "dailymirrorlk-81796ffb",
+    "date_str": "2026-07-24",
+    "description": "Debate on no-confidence motion on Justice Minister Harshana Nanayakkara underway",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Debate-on-no-confidence-motion-on-Justice-Minister-Harshana-Nanayakkara-underway/108-346515",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784873272.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-255b9a0e",
+    "num": "dailymirrorlk-255b9a0e",
+    "date_str": "2026-07-24",
+    "description": "President\u2019s timely intervention secures 10% US tariff rate, says Mahinda Samarasinghe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-timely-intervention-secures-10-US-tariff-rate-says-Mahinda-Samarasinghe/108-346516",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784873575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-af290ecb",
+    "num": "adalk-af290ecb",
+    "date_str": "2026-07-24",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 10\u0d9a \u0db6\u0daf\u0dca\u0daf\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dd2\u0dba\u0dba\u0da7-10\u0d9a-\u0db6\u0daf\u0dca\u0daf\u0d9a\u0dca/11-423406",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784873576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-c80f6b88",
+    "num": "dailymirrorlk-c80f6b88",
+    "date_str": "2026-07-24",
+    "description": "Expired medicines: Are financial penalties alone an adequate deterrent? - Former envoy Kananathan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expired-medicines-Are-financial-penalties-alone-an-adequate-deterrent-Former-envoy-Kananathan/108-346517",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784873663.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-9fa59273",
+    "num": "tamilmirrorlk-9fa59273",
+    "date_str": "2026-07-24",
+    "description": "\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf: \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbe\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b95\u0bbe\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1/175-380384",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784873828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-0851c4e0",
+    "num": "dailymirrorlk-0851c4e0",
+    "date_str": "2026-07-24",
+    "description": "Birthday party shooting victim dies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Birthday-party-shooting-victim-dies/108-346518",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784873908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-1da6ce30",
+    "num": "dailymirrorlk-1da6ce30",
+    "date_str": "2026-07-24",
+    "description": "US says it will use frozen Iranian assets to fund damage to ships as strikes continue",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-says-it-will-use-frozen-Iranian-assets-to-fund-damage-to-ships-as-strikes-continue/108-346520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784874901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-39f34287",
+    "num": "dailymirrorlk-39f34287",
+    "date_str": "2026-07-24",
+    "description": "Commotion in Parliament following warrant issued on MP Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Commotion-in-Parliament-following-warrant-issued-on-MP-Archchuna/108-346521",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784874925.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-6f1fc8cd",
+    "num": "tamilmirrorlk-6f1fc8cd",
+    "date_str": "2026-07-24",
+    "description": "\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bb5\u0bc2\u0ba4\u0bbf \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd  \u0b89\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf-\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0b89\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd/50-380386",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784874999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-ff75468b",
+    "num": "tamilmirrorlk-ff75468b",
+    "date_str": "2026-07-24",
+    "description": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf-\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbe\u0b95-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/50-380387",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784875245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-4cda6537",
+    "num": "tamilmirrorlk-4cda6537",
+    "date_str": "2026-07-24",
+    "description": "\u0baa\u0bc7\u0bb0\u0bc1\u0bb5\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9\u0bae\u0bcd, \u0baa\u0ba9\u0bcd\u0bb1\u0bbf \u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bc1\u0bb5\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc0\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9\u0bae\u0bcd-\u0baa\u0ba9\u0bcd\u0bb1\u0bbf-\u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd/175-380388",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784875898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-78ebb8dd",
+    "num": "dailymirrorlk-78ebb8dd",
+    "date_str": "2026-07-24",
+    "description": "Google rolls out new selfie video sign-in feature",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Google-rolls-out-new-selfie-video-sign-in-feature/108-346524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784875986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-66f32db2",
+    "num": "tamilmirrorlk-66f32db2",
+    "date_str": "2026-07-24",
+    "description": "\u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-380389",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784876236.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-tamilmirrorlk-dc36afc9",
+    "num": "tamilmirrorlk-dc36afc9",
+    "date_str": "2026-07-24",
+    "description": "\u0b95\u0bc2\u0b95\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b89\u0bb3\u0bcd\u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/science-tech/\u0b95\u0bc2\u0b95\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb-\u0b89\u0bb3\u0bcd\u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bc1-\u0bb5\u0b9a\u0ba4\u0bbf/57-380390",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784876486.0
   }
 ]
