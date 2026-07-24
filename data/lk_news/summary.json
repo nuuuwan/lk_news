@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-25 00:17:30",
-  "n_docs": 124922,
+  "time_updated": "2026-07-25 02:41:08",
+  "n_docs": 124929,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124922,
+  "n_docs_with_text": 124929,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-25",
-  "dataset_size": 1949969493,
+  "dataset_size": 1950046540,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-25-dailyftlk-91cdf353",
-    "num": "dailyftlk-91cdf353",
+    "doc_id": "2026-07-25-dailyftlk-953642b4",
+    "num": "dailyftlk-953642b4",
     "date_str": "2026-07-25",
-    "description": "AES expands digital reach through strategic partnership with Kapruka",
-    "url_metadata": "https://www.ft.lk/business/AES-expands-digital-reach-through-strategic-partnership-with-Kapruka/34-795125",
+    "description": "\u201cFarewell, Ceylon: Together we continue the story across mountains and seas\u201d",
+    "url_metadata": "https://www.ft.lk/opinion/Farewell-Ceylon-Together-we-continue-the-story-across-mountains-and-seas/14-795133",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1784918486.0
+    "time_ut": 1784921345.0
   }
 }

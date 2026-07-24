@@ -314196,5 +314196,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1784918486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-62903d0a",
+    "num": "dailyftlk-62903d0a",
+    "date_str": "2026-07-25",
+    "description": "President proposes allocating underutilised State land to returning migrant workers",
+    "url_metadata": "https://www.ft.lk/business/President-proposes-allocating-underutilised-State-land-to-returning-migrant-workers/34-795126",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784918661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-cedcb21e",
+    "num": "dailyftlk-cedcb21e",
+    "date_str": "2026-07-25",
+    "description": "Ceylinco Life takes \u2018Family Savari\u2019 winners on memorable Malaysian adventure",
+    "url_metadata": "https://www.ft.lk/business/Ceylinco-Life-takes-Family-Savari-winners-on-memorable-Malaysian-adventure/34-795127",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784918719.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-697f2fa8",
+    "num": "dailyftlk-697f2fa8",
+    "date_str": "2026-07-25",
+    "description": "Keells joins Dialog Pay merchant ecosystem",
+    "url_metadata": "https://www.ft.lk/business/Keells-joins-Dialog-Pay-merchant-ecosystem/34-795128",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784918841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-e16240ef",
+    "num": "dailyftlk-e16240ef",
+    "date_str": "2026-07-25",
+    "description": "China pledges deeper defence ties with Sri Lanka as Beijing marks PLA anniversary",
+    "url_metadata": "https://www.ft.lk/opinion/China-pledges-deeper-defence-ties-with-Sri-Lanka-as-Beijing-marks-PLA-anniversary/14-795129",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784919080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-58f95bf5",
+    "num": "dailyftlk-58f95bf5",
+    "date_str": "2026-07-25",
+    "description": "Beyond strategic location: A unified strategy to reconnect Sri Lanka with the world",
+    "url_metadata": "https://www.ft.lk/opinion/Beyond-strategic-location-A-unified-strategy-to-reconnect-Sri-Lanka-with-the-world/14-795130",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784920121.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-abe7dbb3",
+    "num": "dailyftlk-abe7dbb3",
+    "date_str": "2026-07-25",
+    "description": "Killi Rajamahendran: Custodian of trust",
+    "url_metadata": "https://www.ft.lk/columns/Killi-Rajamahendran-Custodian-of-trust/4-795132",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784921021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailyftlk-953642b4",
+    "num": "dailyftlk-953642b4",
+    "date_str": "2026-07-25",
+    "description": "\u201cFarewell, Ceylon: Together we continue the story across mountains and seas\u201d",
+    "url_metadata": "https://www.ft.lk/opinion/Farewell-Ceylon-Together-we-continue-the-story-across-mountains-and-seas/14-795133",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1784921345.0
   }
 ]
