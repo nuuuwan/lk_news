@@ -309414,6 +309414,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-21-islandlk-62b67f2f",
+    "num": "islandlk-62b67f2f",
+    "date_str": "2026-07-21",
+    "description": "Be careful what you wish for",
+    "url_metadata": "http://island.lk/be-careful-what-you-wish-for/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784653080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-21-islandlk-9f2de234",
     "num": "islandlk-9f2de234",
     "date_str": "2026-07-21",
@@ -312934,6 +312945,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-islandlk-30621cdb",
+    "num": "islandlk-30621cdb",
+    "date_str": "2026-07-23",
+    "description": "LOLC Insurance and Seylan Bank celebrate Bancassurance Excellence through \u201cLeague of Greatness\u201d 2025",
+    "url_metadata": "http://island.lk/lolc-insurance-and-seylan-bank-celebrate-bancassurance-excellence-through-league-of-greatness-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784830860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-islandlk-02c4b591",
     "num": "islandlk-02c4b591",
     "date_str": "2026-07-23",
@@ -313052,6 +313074,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784833680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-b4637d82",
+    "num": "islandlk-b4637d82",
+    "date_str": "2026-07-24",
+    "description": "SEC, CSE and CA Sri Lanka sign MOU to advance XBRL-based digital reporting for listed companies",
+    "url_metadata": "http://island.lk/sec-cse-and-ca-sri-lanka-sign-mou-to-advance-xbrl-based-digital-reporting-for-listed-companies/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784833740.0
   },
   {
     "doc_type": "lk_news",
@@ -313715,6 +313748,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-fe79304a",
+    "num": "islandlk-fe79304a",
+    "date_str": "2026-07-24",
+    "description": "Oil prices hit $100 for the first time since May",
+    "url_metadata": "http://island.lk/oil-prices-hit-100-for-the-first-time-since-may/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784875920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-78ebb8dd",
     "num": "dailymirrorlk-78ebb8dd",
     "date_str": "2026-07-24",
@@ -313880,6 +313924,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-52dae803",
+    "num": "adalk-52dae803",
+    "date_str": "2026-07-24",
+    "description": "\u0db4\u0dbb\u0dd2\u0db4\u0dd4\u0dbb\u0d9a \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dda \u0d9a\u0dcf\u0dab\u0dca\u0da9 02 \u0d9a\u0da7 \u0d8b\u0db4\u0dcf\u0db0\u0dd2\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0db6\u0db3\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbb\u0dd2\u0db4\u0dd4\u0dbb\u0d9a-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dda-\u0d9a\u0dcf\u0dab\u0dca\u0da9-02-\u0d9a\u0da7-\u0d8b\u0db4\u0dcf\u0db0\u0dd2\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0db6\u0db3\u0dc0\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0db4\u0dd2\u0dba\u0dc0\u0dbb/11-423414",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784889873.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-f77b2593",
     "num": "dailymirrorlk-f77b2593",
     "date_str": "2026-07-24",
@@ -313888,6 +313943,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784890380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-0c29213a",
+    "num": "adalk-0c29213a",
+    "date_str": "2026-07-24",
+    "description": "\u0db4\u0dd0\u0db4\u0ddc\u0dbd\u0dca \u0dba\u0dd4\u0dc2 \u0dc0\u0dd0\u0db1\u0dd2 \u0d85\u0dad\u0dca \u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca \u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0db4\u0ddc\u0dbd\u0dca-\u0dba\u0dd4\u0dc2-\u0dc0\u0dd0\u0db1\u0dd2-\u0d85\u0dad\u0dca-\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-423415",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784890587.0
   },
   {
     "doc_type": "lk_news",
@@ -314149,6 +314215,17 @@
     "date_str": "2026-07-24",
     "description": "Pan Asia Bank partners Sri Lanka Export Credit Insurance Corporation",
     "url_metadata": "http://island.lk/pan-asia-bank-partners-sri-lanka-export-credit-insurance-corporation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784912400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-a885409d",
+    "num": "islandlk-a885409d",
+    "date_str": "2026-07-24",
+    "description": "SLT-MOBITEL crowned Sri Lanka\u2019s leading Sustainable ICT Brand",
+    "url_metadata": "http://island.lk/slt-mobitel-crowned-sri-lankas-leading-sustainable-ict-brand/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784912400.0
