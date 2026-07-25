@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25_22:05:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_00:04:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,012** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-25-adalk-2f177ed1",
-    "num": "adalk-2f177ed1",
+    "doc_id": "2026-07-25-dailymirrorlk-aed43e20",
+    "num": "dailymirrorlk-aed43e20",
     "date_str": "2026-07-25",
-    "description": "\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
-    "url_metadata": "https://www.ada.lk/picture_story/\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0-\u0d85\u0dc0\u0dc3\u0db1\u0dca/10-423421",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1784995914.0
+    "description": "Former Sri Lanka Cricket President Upali Dharmadasa passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Sri-Lanka-Cricket-President-Upali-Dharmadasa-passes-away/108-346647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785000048.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-25 | `dailymirrorlk-aed43e20` | Former Sri Lanka Cricket President Upali Dharmadasa passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-aed43e20)
 - 2026-07-25 | `adalk-2f177ed1` | කැරපොත්තන්ගේ විරෝධතාව අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-2f177ed1)
 - 2026-07-25 | `dailymirrorlk-0da8359f` | Were outsiders being accommodated at Presidential Residences? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-0da8359f)
 - 2026-07-25 | `tamilmirrorlk-2126fe37` | துப்பாக்கிச் சூட்டில் உணவக உரிமையாளர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-2126fe37)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-25 | `dailymirrorlk-b34550e1` | CAA, STF seize expired fertilizer stock in Kaduwela raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-b34550e1)
 - 2026-07-25 | `dailymirrorlk-81bad2e7` | Calls grow for customs reforms to speed up import container clearance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-81bad2e7)
 - 2026-07-25 | `adalk-7548b92e` | ආණ්ඩු මන්ත්‍රී නිරෝෂණට නීතිඥ සංගමයෙන් අභියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-7548b92e)
-- 2026-07-25 | `dailymirrorlk-da8eb316` | KKS night mail train derails | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-da8eb316)
 
 ---
 

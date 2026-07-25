@@ -315175,5 +315175,16 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1784995914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-aed43e20",
+    "num": "dailymirrorlk-aed43e20",
+    "date_str": "2026-07-25",
+    "description": "Former Sri Lanka Cricket President Upali Dharmadasa passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Sri-Lanka-Cricket-President-Upali-Dharmadasa-passes-away/108-346647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785000048.0
   }
 ]
