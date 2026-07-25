@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25_18:08:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25_20:18:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**124,997** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,005** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-25-dailymirrorlk-6ffe44b8",
-    "num": "dailymirrorlk-6ffe44b8",
+    "doc_id": "2026-07-25-dailymirrorlk-4a4387e5",
+    "num": "dailymirrorlk-4a4387e5",
     "date_str": "2026-07-25",
-    "description": "Nine arrested after attack on Wildlife and STF officers in Kilinochchi",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nine-arrested-after-attack-on-Wildlife-and-STF-officers-in-Kilinochchi/108-346636",
+    "description": "Navy Commander at TRINEX-26",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Navy-Commander-at-TRINEX-26/110-346643",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784980397.0
+    "time_ut": 1784989012.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-25 | `dailymirrorlk-4a4387e5` | Navy Commander at TRINEX-26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-4a4387e5)
+- 2026-07-25 | `dailymirrorlk-37337932` | Sri Lanka revises guidelines for appointment of President’s Counsel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-37337932)
+- 2026-07-25 | `dailymirrorlk-af918306` | Houthis fire on Saudi Red Sea oil sites | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-af918306)
+- 2026-07-25 | `dailymirrorlk-15bc8205` | At least 35 killed in Syria bus collision, health ministry says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-15bc8205)
+- 2026-07-25 | `dailymirrorlk-e1e73c16` | Cassilingham receives appointment as SLPP Jaffna District Organizer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-e1e73c16)
+- 2026-07-25 | `dailymirrorlk-c6fa5ba0` | Cockroach Janta Party calls off protest after Indian govt meets demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-c6fa5ba0)
+- 2026-07-25 | `dailymirrorlk-31513b3e` | Jaffna Kings franchise agreement terminated over alleged integrity breaches | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-31513b3e)
 - 2026-07-25 | `dailymirrorlk-6ffe44b8` | Nine arrested after attack on Wildlife and STF officers in Kilinochchi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-6ffe44b8)
 - 2026-07-25 | `dailymirrorlk-c882a8ea` | Iran rescues 28 Indian seafarers after vessel attacked | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-c882a8ea)
 - 2026-07-25 | `dailymirrorlk-a24de542` | India’s education minister resigns after weeks of ‘Cockroach’ protests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-a24de542)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-07-25 | `tamilmirrorlk-9a0f4809` | அபூர்வ ’ராவண கல்’: 2.5 கோடி ரூபாவுக்கு விற்க முயன்ற இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-9a0f4809)
 - 2026-07-25 | `tamilmirrorlk-e336faf2` | எல்லை நிர்ணய ஆணைக்குழுவின் புதிய தலைவரும் உறுப்பினர்களும் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-e336faf2)
 - 2026-07-25 | `tamilmirrorlk-0c000a23` | ’வெளிநாட்டில் தொழில்புரிவோருக்கு காணிகளை வழங்கும் திட்டத்தை தயாரிக்கவும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-0c000a23)
-- 2026-07-25 | `dailymirrorlk-76f615c6` | Supermarket fined Rs. 500,000 for selling Nadu rice above control price | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-76f615c6)
-- 2026-07-25 | `tamilmirrorlk-c55f23f5` | மகாவலி ஆற்றில் இருந்து ஆணின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-c55f23f5)
-- 2026-07-25 | `tamilmirrorlk-69da12ca` | ’அமெரிக்காவின் அச்சுறுத்தல்களுக்கு ஈரான் அடிபணியாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-69da12ca)
-- 2026-07-25 | `dailymirrorlk-e966c4a2` | Two Sri Lankans suspected in Wattala shooting detained in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-e966c4a2)
-- 2026-07-25 | `tamilmirrorlk-8852607c` | மலேசியாவிலிருந்து வந்த சீனர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-8852607c)
-- 2026-07-25 | `tamilmirrorlk-e0931458` | 11 கோடி ரூபாய் பெறுமதியான கொக்கெய்னுடன் ஸ்பெயின் நாட்டு பிரஜை கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-e0931458)
-- 2026-07-25 | `adalk-781baede` | FBC සහ ඩෙංගු පරීක්ෂණ සඳහා උපරිම ගාස්තු මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-781baede)
 
 ---
 

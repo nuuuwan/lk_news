@@ -314628,6 +314628,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-478e8c2c",
+    "num": "dailymirrorlk-478e8c2c",
+    "date_str": "2026-07-24",
+    "description": "Navigating Sri Lanka\u2019s post-disaster recovery: Missed opportunities or squandered chances",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Navigating-Sri-Lankas-post-disaster-recovery-Missed-opportunities-or-squandered-chances/131-346599",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784915355.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailyftlk-2de88524",
     "num": "dailyftlk-2de88524",
     "date_str": "2026-07-24",
@@ -315021,5 +315032,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784980397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-31513b3e",
+    "num": "dailymirrorlk-31513b3e",
+    "date_str": "2026-07-25",
+    "description": "Jaffna Kings franchise agreement terminated over alleged integrity breaches",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-Kings-franchise-agreement-terminated-over-alleged-integrity-breaches/108-346637",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784983207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-c6fa5ba0",
+    "num": "dailymirrorlk-c6fa5ba0",
+    "date_str": "2026-07-25",
+    "description": "Cockroach Janta Party calls off protest after Indian govt meets demands",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cockroach-Janta-Party-calls-off-protest-after-Indian-govt-meets-demands/108-346638",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784984665.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-e1e73c16",
+    "num": "dailymirrorlk-e1e73c16",
+    "date_str": "2026-07-25",
+    "description": "Cassilingham receives appointment as SLPP Jaffna District Organizer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cassilingham-receives-appointment-as-SLPP-Jaffna-District-Organizer/108-346639",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784987700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-15bc8205",
+    "num": "dailymirrorlk-15bc8205",
+    "date_str": "2026-07-25",
+    "description": "At least 35 killed in Syria bus collision, health ministry says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/At-least-35-killed-in-Syria-bus-collision-health-ministry-says/108-346640",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784988403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-af918306",
+    "num": "dailymirrorlk-af918306",
+    "date_str": "2026-07-25",
+    "description": "Houthis fire on Saudi Red Sea oil sites",
+    "url_metadata": "https://www.dailymirror.lk/international/Houthis-fire-on-Saudi-Red-Sea-oil-sites/107-346641",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784988589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-37337932",
+    "num": "dailymirrorlk-37337932",
+    "date_str": "2026-07-25",
+    "description": "Sri Lanka revises guidelines for appointment of President\u2019s Counsel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-revises-guidelines-for-appointment-of-Presidents-Counsel/108-346642",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784988713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-4a4387e5",
+    "num": "dailymirrorlk-4a4387e5",
+    "date_str": "2026-07-25",
+    "description": "Navy Commander at TRINEX-26",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Navy-Commander-at-TRINEX-26/110-346643",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784989012.0
   }
 ]
