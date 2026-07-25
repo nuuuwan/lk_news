@@ -313968,6 +313968,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-adalk-24b54e81",
+    "num": "adalk-24b54e81",
+    "date_str": "2026-07-24",
+    "description": "\u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca 22\u0d9a\u0dca \u0d89\u0da9\u0db8\u0dca \u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb\u0dca 401\u0d9a\u0dca \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-22\u0d9a\u0dca-\u0d89\u0da9\u0db8\u0dca-\u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb\u0dca-401\u0d9a\u0dca-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dbd\u0dcf/11-423416",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784891131.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-31837a0e",
     "num": "dailymirrorlk-31837a0e",
     "date_str": "2026-07-24",
@@ -314166,6 +314177,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-81fb2d61",
+    "num": "dailymirrorlk-81fb2d61",
+    "date_str": "2026-07-24",
+    "description": "Using unverified home dengue remedies leave patients critically ill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Using-unverified-home-dengue-remedies-leave-patients-critically-ill/108-346555",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784904505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-04183bb2",
+    "num": "dailymirrorlk-04183bb2",
+    "date_str": "2026-07-24",
+    "description": "Retirement age extension a move nothing but to please Chief Justice: Dayasiri",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Retirement-age-extension-a-move-nothing-but-to-please-Chief-Justice-Dayasiri/108-346556",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784904735.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-601ce131",
+    "num": "dailymirrorlk-601ce131",
+    "date_str": "2026-07-24",
+    "description": "I will come back to Parliament in 2029 and make sure that Minister Harshana Nanayakkara in prison: Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/I-will-come-back-to-Parliament-in-2029-and-make-sure-that-Minister-Harshana-Nanayakkara-in-prison-Archchuna/108-346557",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784904993.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-b6e02a61",
     "num": "dailymirrorlk-b6e02a61",
     "date_str": "2026-07-24",
@@ -314185,6 +314229,50 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784905415.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-7bf638f9",
+    "num": "dailymirrorlk-7bf638f9",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka, U.S. discuss collaboration on dengue control measures",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-U-S-discuss-collaboration-on-dengue-control-measures/108-346560",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784905679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-16380965",
+    "num": "dailymirrorlk-16380965",
+    "date_str": "2026-07-24",
+    "description": "Five people injured after elephant attacks van",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-people-injured-after-elephant-attacks-van/108-346561",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784906007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-0febb47e",
+    "num": "dailymirrorlk-0febb47e",
+    "date_str": "2026-07-24",
+    "description": "Farewell Ambassador Qi Zhenhong of China!",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Farewell-Ambassador-Qi-Zhenhong-of-China/108-346562",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784906325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-79b4a444",
+    "num": "dailymirrorlk-79b4a444",
+    "date_str": "2026-07-24",
+    "description": "Paddy cultivators stage protest in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paddy-cultivators-stage-protest-in-Anuradhapura/108-346563",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784906516.0
   },
   {
     "doc_type": "lk_news",
@@ -314254,6 +314342,215 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-6dd6c4fc",
+    "num": "dailymirrorlk-6dd6c4fc",
+    "date_str": "2026-07-24",
+    "description": "ESOL Premier Campus launches OCN London qualifications in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ESOL-Premier-Campus-launches-OCN-London-qualifications-in-Sri-Lanka/273-346566",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-4c2355be",
+    "num": "dailymirrorlk-4c2355be",
+    "date_str": "2026-07-24",
+    "description": "CBB appoints Ameena Ziauddin as President at 26th AGM",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CBB-appoints-Ameena-Ziauddin-as-President-at-26th-AGM/273-346567",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913154.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-5d98040c",
+    "num": "dailymirrorlk-5d98040c",
+    "date_str": "2026-07-24",
+    "description": "Infinite Grace Foundation and Cha\u2019s Organics forge social impact partnership",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Infinite-Grace-Foundation-and-Chas-Organics-forge-social-impact-partnership/273-346568",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-21c4e6f5",
+    "num": "dailymirrorlk-21c4e6f5",
+    "date_str": "2026-07-24",
+    "description": "Robbialac\u2019s AI-powered digital Vesak campaign earns recognition from TikTok",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Robbialacs-AI-powered-digital-Vesak-campaign-earns-recognition-from-TikTok/273-346569",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-3433ba9a",
+    "num": "dailymirrorlk-3433ba9a",
+    "date_str": "2026-07-24",
+    "description": "Ceylinco Life takes \u2018Family Savari\u2019 winners on Malaysian adventure",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylinco-Life-takes-Family-Savari-winners-on-Malaysian-adventure/273-346570",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913274.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-c32c4fe3",
+    "num": "dailymirrorlk-c32c4fe3",
+    "date_str": "2026-07-24",
+    "description": "TruRout introduces Sri Lanka\u2019s first zero-commission ride-hailing platform",
+    "url_metadata": "https://www.dailymirror.lk/business-news/TruRout-introduces-Sri-Lankas-first-zero-commission-ride-hailing-platform/273-346571",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913336.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-ecf9365a",
+    "num": "dailymirrorlk-ecf9365a",
+    "date_str": "2026-07-24",
+    "description": "Thotalagala named on World\u2019s 50 Best Discovery list",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Thotalagala-named-on-Worlds-50-Best-Discovery-list/273-346572",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913376.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-2a8385f2",
+    "num": "dailymirrorlk-2a8385f2",
+    "date_str": "2026-07-24",
+    "description": "Siddhalepa reconstructs Kirivehera flower stall complex",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Siddhalepa-reconstructs-Kirivehera-flower-stall-complex/273-346573",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-69f1557c",
+    "num": "dailymirrorlk-69f1557c",
+    "date_str": "2026-07-24",
+    "description": "People\u2019s Bank conducts annual dansel for Kataragama Pada Yatra devotees",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-conducts-annual-dansel-for-Kataragama-Pada-Yatra-devotees/273-346574",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-9114945b",
+    "num": "dailymirrorlk-9114945b",
+    "date_str": "2026-07-24",
+    "description": "INSEE Lanka-Coast Guard launch coastal protection initiative",
+    "url_metadata": "https://www.dailymirror.lk/business-news/INSEE-Lanka-Coast-Guard-launch-coastal-protection-initiative/273-346575",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-9ed14eb9",
+    "num": "dailymirrorlk-9ed14eb9",
+    "date_str": "2026-07-24",
+    "description": "Janashakthi Life strengthens healthcare and safety support",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Janashakthi-Life-strengthens-healthcare-and-safety-support/273-346576",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-e9f2b02d",
+    "num": "dailymirrorlk-e9f2b02d",
+    "date_str": "2026-07-24",
+    "description": "Eco Spindles-Gunadamin Elephant House lead Ruwanwelisaya cleanup",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Eco-Spindles-Gunadamin-Elephant-House-lead-Ruwanwelisaya-cleanup/273-346577",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913663.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-acfc555b",
+    "num": "dailymirrorlk-acfc555b",
+    "date_str": "2026-07-24",
+    "description": "Citi Global Community Day initiative supports Mawela Kanishta Vidyalaya",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Citi-Global-Community-Day-initiative-supports-Mawela-Kanishta-Vidyalaya/273-346578",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-0dc0b4eb",
+    "num": "dailymirrorlk-0dc0b4eb",
+    "date_str": "2026-07-24",
+    "description": "SLT-Mobitel\u2019s \u2018Sadaham Sabendiyava\u2019 brings immersive 5G experiences",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLT-Mobitels-Sadaham-Sabendiyava-brings-immersive-5G-experiences/273-346579",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-34e66599",
+    "num": "dailymirrorlk-34e66599",
+    "date_str": "2026-07-24",
+    "description": "Tata-DIMO-ChildFund implement humanitarian education support initiative",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tata-DIMO-ChildFund-implement-humanitarian-education-support-initiative/273-346580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784913823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-877841c5",
+    "num": "dailymirrorlk-877841c5",
+    "date_str": "2026-07-24",
+    "description": "A silent wrap-up to week",
+    "url_metadata": "https://www.dailymirror.lk/business-news/A-silent-wrap-up-to-week/273-346581",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-421ed8bb",
+    "num": "dailymirrorlk-421ed8bb",
+    "date_str": "2026-07-24",
+    "description": "Week ends in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-red/273-346582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-f49aa3da",
+    "num": "dailymirrorlk-f49aa3da",
+    "date_str": "2026-07-24",
+    "description": "Arcasia, ATX move to take control of Industrial Asphalts",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Arcasia-ATX-move-to-take-control-of-Industrial-Asphalts/273-346583",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-a35cffce",
+    "num": "dailymirrorlk-a35cffce",
+    "date_str": "2026-07-24",
+    "description": "Seasonal Uvas draw strong buyer interest as broader tea market stays uneven",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seasonal-Uvas-draw-strong-buyer-interest-as-broader-tea-market-stays-uneven/273-346584",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914149.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-668c4ffb",
     "num": "dailymirrorlk-668c4ffb",
     "date_str": "2026-07-24",
@@ -314265,6 +314562,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-abfbb38e",
+    "num": "dailymirrorlk-abfbb38e",
+    "date_str": "2026-07-24",
+    "description": "Ceylon Chamber welcomes reduction in US labour-related tariff",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-welcomes-reduction-in-US-labour-related-tariff/273-346586",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-a85a9b6d",
+    "num": "dailymirrorlk-a85a9b6d",
+    "date_str": "2026-07-24",
+    "description": "US tariff parity averts competitive hit to apparel sector: JAAF",
+    "url_metadata": "https://www.dailymirror.lk/business-news/US-tariff-parity-averts-competitive-hit-to-apparel-sector-JAAF/273-346587",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914216.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailymirrorlk-1b827d2b",
     "num": "dailymirrorlk-1b827d2b",
     "date_str": "2026-07-24",
@@ -314273,6 +314592,39 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784914265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-49fe769f",
+    "num": "dailymirrorlk-49fe769f",
+    "date_str": "2026-07-24",
+    "description": "Black July   survivors/victims still await justice",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Black-July-survivorsvictims-still-await-justice/172-346590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-cdafbca6",
+    "num": "dailymirrorlk-cdafbca6",
+    "date_str": "2026-07-24",
+    "description": "The Hidden Nutrition Crisis:  How Climate Change Is Changingthe Food We Eat",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Hidden-Nutrition-Crisis-How-Climate-Change-Is-Changingthe-Food-We-Eat/172-346591",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-650380d4",
+    "num": "dailymirrorlk-650380d4",
+    "date_str": "2026-07-24",
+    "description": "Public servants should be made answerable to  the public",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Public-servants-should-be-made-answerable-to-the-public/172-346592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914834.0
   },
   {
     "doc_type": "lk_news",
@@ -314430,6 +314782,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-0877b2f3",
+    "num": "dailymirrorlk-0877b2f3",
+    "date_str": "2026-07-25",
+    "description": "Spanish national arrested at Katunayake Airport with Rs. 110 Mn worth of Cocaine",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Spanish-national-arrested-at-Katunayake-Airport-with-Rs-110-Mn-worth-of-Cocaine/108-346601",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784943607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-3f062b78",
+    "num": "dailymirrorlk-3f062b78",
+    "date_str": "2026-07-25",
+    "description": "Two Chinese win world\u2019s top Maths prize for solving century-old problems",
+    "url_metadata": "https://www.dailymirror.lk/international/Two-Chinese-win-worlds-top-Maths-prize-for-solving-century-old-problems/107-346602",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784946166.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-adalk-781baede",
     "num": "adalk-781baede",
     "date_str": "2026-07-25",
@@ -314551,6 +314925,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-f20f1bdf",
+    "num": "dailymirrorlk-f20f1bdf",
+    "date_str": "2026-07-25",
+    "description": "\u2019Thank You Friends\u2019: PM Modi\u2019s Reel Tops 303 Million Views Amid CJP Protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Thank-You-Friends-PM-Modis-Reel-Tops-303-Million-Views-Amid-CJP-Protest/107-346606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784957525.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-tamilmirrorlk-4a58cc93",
     "num": "tamilmirrorlk-4a58cc93",
     "date_str": "2026-07-25",
@@ -314570,5 +314955,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784960841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-81bad2e7",
+    "num": "dailymirrorlk-81bad2e7",
+    "date_str": "2026-07-25",
+    "description": "Calls grow for customs reforms to speed up import container clearance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Calls-grow-for-customs-reforms-to-speed-up-import-container-clearance/108-346608",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784964093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-b34550e1",
+    "num": "dailymirrorlk-b34550e1",
+    "date_str": "2026-07-25",
+    "description": "CAA, STF seize expired fertilizer stock in Kaduwela raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-STF-seize-expired-fertilizer-stock-in-Kaduwela-raid/108-346631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784968316.0
   }
 ]
