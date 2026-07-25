@@ -314977,5 +314977,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784968316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-3a3ccfe3",
+    "num": "dailymirrorlk-3a3ccfe3",
+    "date_str": "2026-07-25",
+    "description": "Tharoor, Mano discuss Indo-Lanka ties, regional cooperation and democratic governance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tharoor-Mano-discuss-Indo-Lanka-ties-regional-cooperation-and-democratic-governance/108-346632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784971724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-a24de542",
+    "num": "dailymirrorlk-a24de542",
+    "date_str": "2026-07-25",
+    "description": "India\u2019s education minister resigns after weeks of \u2018Cockroach\u2019 protests",
+    "url_metadata": "https://www.dailymirror.lk/international/Indias-education-minister-resigns-after-weeks-of-Cockroach-protests/107-346633",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784972015.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-c882a8ea",
+    "num": "dailymirrorlk-c882a8ea",
+    "date_str": "2026-07-25",
+    "description": "Iran rescues 28 Indian seafarers after vessel attacked",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-rescues-28-Indian-seafarers-after-vessel-attacked/107-346635",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784973590.0
   }
 ]
