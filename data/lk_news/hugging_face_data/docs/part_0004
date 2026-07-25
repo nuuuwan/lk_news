@@ -314133,6 +314133,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-33acf927",
+    "num": "dailymirrorlk-33acf927",
+    "date_str": "2026-07-24",
+    "description": "Govt. on alert over rising crimes involving foreign nationals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-on-alert-over-rising-crimes-involving-foreign-nationals/108-346552",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784903811.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-tamilmirrorlk-b9464d87",
     "num": "tamilmirrorlk-b9464d87",
     "date_str": "2026-07-24",
@@ -314485,6 +314496,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-76f615c6",
+    "num": "dailymirrorlk-76f615c6",
+    "date_str": "2026-07-25",
+    "description": "Supermarket fined Rs. 500,000 for selling Nadu rice above control price",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supermarket-fined-Rs-500-000-for-selling-Nadu-rice-above-control-price/108-346605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784953949.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-tamilmirrorlk-0c000a23",
     "num": "tamilmirrorlk-0c000a23",
     "date_str": "2026-07-25",
@@ -314515,5 +314537,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784956013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-8524501c",
+    "num": "tamilmirrorlk-8524501c",
+    "date_str": "2026-07-25",
+    "description": "\u0ba8\u0bbf\u0bb2\u0bbe\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0b95\u0bc1 \u0bae\u0bcb\u0ba4\u0bbf \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb2\u0bbe\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0b9f\u0b95\u0bc1-\u0bae\u0bcb\u0ba4\u0bbf-\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-380411",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784957151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-4a58cc93",
+    "num": "tamilmirrorlk-4a58cc93",
+    "date_str": "2026-07-25",
+    "description": "\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0baf\u0bbf\u0bb2\u0bcd 17 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0baf\u0bbf\u0bb2\u0bcd-17-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-380412",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784957588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-da8eb316",
+    "num": "dailymirrorlk-da8eb316",
+    "date_str": "2026-07-25",
+    "description": "KKS night mail train derails",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/KKS-night-mail-train-derails/108-346607",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784960841.0
   }
 ]
