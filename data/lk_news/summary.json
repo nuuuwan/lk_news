@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-25 16:14:20",
-  "n_docs": 124996,
+  "time_updated": "2026-07-25 18:07:46",
+  "n_docs": 124997,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 124996,
+  "n_docs_with_text": 124997,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-25",
-  "dataset_size": 1950887579,
+  "dataset_size": 1950906335,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-25-dailymirrorlk-c882a8ea",
-    "num": "dailymirrorlk-c882a8ea",
+    "doc_id": "2026-07-25-dailymirrorlk-6ffe44b8",
+    "num": "dailymirrorlk-6ffe44b8",
     "date_str": "2026-07-25",
-    "description": "Iran rescues 28 Indian seafarers after vessel attacked",
-    "url_metadata": "https://www.dailymirror.lk/international/Iran-rescues-28-Indian-seafarers-after-vessel-attacked/107-346635",
+    "description": "Nine arrested after attack on Wildlife and STF officers in Kilinochchi",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nine-arrested-after-attack-on-Wildlife-and-STF-officers-in-Kilinochchi/108-346636",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784973590.0
+    "time_ut": 1784980397.0
   }
 }
