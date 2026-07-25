@@ -314243,6 +314243,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-668c4ffb",
+    "num": "dailymirrorlk-668c4ffb",
+    "date_str": "2026-07-24",
+    "description": "Port City Colombo attracts US $ 2.19bn in investments to date: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-Colombo-attracts-US-2-19bn-in-investments-to-date-Minister/108-346585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-dailymirrorlk-1b827d2b",
+    "num": "dailymirrorlk-1b827d2b",
+    "date_str": "2026-07-24",
+    "description": "US sets Sri Lanka tariff at 10% as forced labour import ban pays off",
+    "url_metadata": "https://www.dailymirror.lk/business-main/US-sets-Sri-Lanka-tariff-at-10-as-forced-labour-import-ban-pays-off/245-346588",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784914265.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-dailyftlk-2de88524",
     "num": "dailyftlk-2de88524",
     "date_str": "2026-07-24",
@@ -314394,5 +314416,104 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784929331.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-adalk-781baede",
+    "num": "adalk-781baede",
+    "date_str": "2026-07-25",
+    "description": "FBC \u0dc3\u0dc4 \u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db3\u0dc4\u0dcf \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/FBC-\u0dc3\u0dc4-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0db3\u0dc4\u0dcf-\u0d8b\u0db4\u0dbb\u0dd2\u0db8-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0db8\u0dd9\u0db1\u0dca\u0db1/11-423418",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784947865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-e0931458",
+    "num": "tamilmirrorlk-e0931458",
+    "date_str": "2026-07-25",
+    "description": "11 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc6\u0baf\u0bcd\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/11-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc6\u0baf\u0bcd\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-380404",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784950041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-8852607c",
+    "num": "tamilmirrorlk-8852607c",
+    "date_str": "2026-07-25",
+    "description": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc0\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b9a\u0bc0\u0ba9\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380405",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784950483.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-e966c4a2",
+    "num": "dailymirrorlk-e966c4a2",
+    "date_str": "2026-07-25",
+    "description": "Two Sri Lankans suspected in Wattala shooting detained in India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-Sri-Lankans-suspected-in-Wattala-shooting-detained-in-India/108-346603",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784950501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-69da12ca",
+    "num": "tamilmirrorlk-69da12ca",
+    "date_str": "2026-07-25",
+    "description": "\u2019\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0ba4\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0b85\u0b9f\u0bbf\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/50-380406",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784950902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-c55f23f5",
+    "num": "tamilmirrorlk-c55f23f5",
+    "date_str": "2026-07-25",
+    "description": "\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf-\u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b86\u0ba3\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-380407",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784951091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-0c000a23",
+    "num": "tamilmirrorlk-0c000a23",
+    "date_str": "2026-07-25",
+    "description": "\u2019\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd/175-380408",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784954752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-e336faf2",
+    "num": "tamilmirrorlk-e336faf2",
+    "date_str": "2026-07-25",
+    "description": "\u0b8e\u0bb2\u0bcd\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd\u0bb2\u0bc8-\u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf-\u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-380409",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784955124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-9a0f4809",
+    "num": "tamilmirrorlk-9a0f4809",
+    "date_str": "2026-07-25",
+    "description": "\u0b85\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u2019\u0bb0\u0bbe\u0bb5\u0ba3 \u0b95\u0bb2\u0bcd\u2019: 2.5 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0baa\u0bc2\u0bb0\u0bcd\u0bb5-\u0bb0\u0bbe\u0bb5\u0ba3-\u0b95\u0bb2\u0bcd-2-5-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb1\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380410",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784956013.0
   }
 ]
