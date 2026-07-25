@@ -314969,6 +314969,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-adalk-7548b92e",
+    "num": "adalk-7548b92e",
+    "date_str": "2026-07-25",
+    "description": "\u0d86\u0dab\u0dca\u0da9\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0dab\u0da7 \u0db1\u0dd3\u0dad\u0dd2\u0da5 \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dd9\u0db1\u0dca \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0dab\u0dca\u0da9\u0dd4-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0dab\u0da7-\u0db1\u0dd3\u0dad\u0dd2\u0da5-\u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/11-423419",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784963620.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-81bad2e7",
     "num": "dailymirrorlk-81bad2e7",
     "date_str": "2026-07-25",
@@ -315109,5 +315120,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784989012.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-723bcb61",
+    "num": "dailymirrorlk-723bcb61",
+    "date_str": "2026-07-25",
+    "description": "Update - Restaurant owner dies following Bellanwila shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-Restaurant-owner-dies-following-Bellanwila-shooting/108-346644",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784993852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-8879de40",
+    "num": "dailymirrorlk-8879de40",
+    "date_str": "2026-07-25",
+    "description": "Pralhad Joshi appointed Union Education Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pralhad-Joshi-appointed-Union-Education-Minister/108-346645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784994518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-tamilmirrorlk-2126fe37",
+    "num": "tamilmirrorlk-2126fe37",
+    "date_str": "2026-07-25",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb5\u0b95 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b89\u0ba3\u0bb5\u0b95-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-380449",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1784994677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-dailymirrorlk-0da8359f",
+    "num": "dailymirrorlk-0da8359f",
+    "date_str": "2026-07-25",
+    "description": "Were outsiders being accommodated at Presidential Residences?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Were-outsiders-being-accommodated-at-Presidential-Residences/108-346646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784995136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-adalk-2f177ed1",
+    "num": "adalk-2f177ed1",
+    "date_str": "2026-07-25",
+    "description": "\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0-\u0d85\u0dc0\u0dc3\u0db1\u0dca/10-423421",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784995914.0
   }
 ]

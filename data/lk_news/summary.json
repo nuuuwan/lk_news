@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-25 20:17:02",
-  "n_docs": 125005,
+  "time_updated": "2026-07-25 22:04:43",
+  "n_docs": 125011,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125005,
+  "n_docs_with_text": 125011,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-25",
-  "dataset_size": 1950929250,
+  "dataset_size": 1950989199,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-25-dailymirrorlk-4a4387e5",
-    "num": "dailymirrorlk-4a4387e5",
+    "doc_id": "2026-07-25-adalk-2f177ed1",
+    "num": "adalk-2f177ed1",
     "date_str": "2026-07-25",
-    "description": "Navy Commander at TRINEX-26",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Navy-Commander-at-TRINEX-26/110-346643",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1784989012.0
+    "description": "\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d9a\u0dd0\u0dbb\u0db4\u0ddc\u0dad\u0dca\u0dad\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0-\u0d85\u0dc0\u0dc3\u0db1\u0dca/10-423421",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784995914.0
   }
 }
