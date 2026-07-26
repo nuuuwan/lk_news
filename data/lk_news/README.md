@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_12:49:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_14:54:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,044** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-26-dailymirrorlk-022bcef9",
-    "num": "dailymirrorlk-022bcef9",
+    "doc_id": "2026-07-26-tamilmirrorlk-1b11822c",
+    "num": "tamilmirrorlk-1b11822c",
     "date_str": "2026-07-26",
-    "description": "Dengue death toll rises to 61 as cases surpass 81,500",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-death-toll-rises-to-61-as-cases-surpass-81-500/108-346651",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785043046.0
+    "description": "\u0baa\u0bc1\u0bb3\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd  \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb3\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-380474",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785051020.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-26 | `tamilmirrorlk-1b11822c` | புளியங்குளம்  விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-1b11822c)
+- 2026-07-26 | `tamilmirrorlk-a9126b09` | கல்வியில் டிஜிட்டல் புரட்சி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-a9126b09)
+- 2026-07-26 | `tamilmirrorlk-32205f8e` | பாலியல் ஊழல்கள் அதிகரிப்பு: 214 ஆசிரியர்கள் பணிநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-32205f8e)
+- 2026-07-26 | `tamilmirrorlk-aa18224d` | வீரகேசரி மூத்த படப்பிடிப்பாளர் சுரேந்திரன் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-aa18224d)
+- 2026-07-26 | `dailymirrorlk-ba56dcf1` | Rescuers scour South China Sea for 23 missing after Vietnamese vessel sinks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-ba56dcf1)
+- 2026-07-26 | `tamilmirrorlk-b73e4773` | உணவக உரிமையாளர் சுட்டுக்கொலை; மயானத்தில் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-b73e4773)
+- 2026-07-26 | `tamilmirrorlk-5b25fe2b` | உச்சம் தொடும் டெங்கு ஆபத்து: பலி எண்ணிக்கை 61 ஆக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-5b25fe2b)
+- 2026-07-26 | `tamilmirrorlk-0781ab19` | பாரிய காட்டுத் தீ : 10 ஏக்கர் நிலப்பரப்பு நாசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-0781ab19)
+- 2026-07-26 | `tamilmirrorlk-6a737f06` | கடலலையில் சிக்கிய  இருவர் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-6a737f06)
+- 2026-07-26 | `tamilmirrorlk-6d6ea5e6` | ஆற்றில்  மூழ்கி நபர் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-6d6ea5e6)
+- 2026-07-26 | `tamilmirrorlk-7f35cde2` | செட்டிகுளத்தில் யானை தாக்கி நபர் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-7f35cde2)
+- 2026-07-26 | `dailymirrorlk-edaaf726` | Over 1,000 uncleared vehicles at Hambantota Port to face Customs auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-edaaf726)
 - 2026-07-26 | `dailymirrorlk-022bcef9` | Dengue death toll rises to 61 as cases surpass 81,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-022bcef9)
 - 2026-07-26 | `dailymirrorlk-d0f4ce12` | Sarnath joins Unesco World Heritage list | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-d0f4ce12)
 - 2026-07-26 | `tamilmirrorlk-110b4710` | மாதவிடாயையும் தாண்டி சாதனை படைத்த  வீராங்கனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-110b4710)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2026-07-26 | `tamilmirrorlk-9e8f8ec0` | லொறிக்கு கீழே சிக்கி தாய் பலி; இரு புதல்வர்கள் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-9e8f8ec0)
 - 2026-07-26 | `tamilmirrorlk-06be5eea` | டாக்டர் சஷி தரூருடன் ஜீவன் தொண்டமான் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-06be5eea)
 - 2026-07-26 | `dailymirrorlk-31f09202` | Vehicle mows down crowd at Berlin Pride festival, killing one | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-31f09202)
-- 2026-07-26 | `tamilmirrorlk-0e20a50f` | ’ஹஷீஷ்’ஷூன் கனேடிய   ஓவியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-0e20a50f)
-- 2026-07-26 | `tamilmirrorlk-17872143` | வெளிநாட்டுப் புறாக்கள் கடத்தல்: இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-17872143)
-- 2026-07-26 | `tamilmirrorlk-bdfaa64c` | அய்யாத்துரையின் பூதவுடல் இன்று நல்லடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-bdfaa64c)
-- 2026-07-26 | `tamilmirrorlk-717f9c49` | விபச்சார விடுதி சுற்றிவளைப்பு: பெண் உட்பட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-717f9c49)
-- 2026-07-26 | `tamilmirrorlk-9193e479` | ’குடு அசங்க’ ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-9193e479)
-- 2026-07-26 | `adalk-cb294244` | ජනපති මන්දිරවල පිටස්තරයින් නවාතැන් ගෙන නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-cb294244)
-- 2026-07-26 | `adalk-943d2878` | යතුරුපැදි අනතුරකින් කුඩා දරුවෙකු ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-943d2878)
-- 2026-07-26 | `adalk-b9049ea5` | හවුතිවරු සෞදියට පහරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-b9049ea5)
-- 2026-07-26 | `tamilmirrorlk-bb627f68` | ஸ்ரீலங்கா கிரிக்கெட்டின் முன்னாள் தலைவர் உபாலி தர்மதாச காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-bb627f68)
-- 2026-07-26 | `tamilmirrorlk-a7cf1778` | சவூதி எண்ணெய் நிலையங்களில் வான்வழித் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-a7cf1778)
-- 2026-07-25 | `dailymirrorlk-aed43e20` | Former Sri Lanka Cricket President Upali Dharmadasa passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-aed43e20)
-- 2026-07-25 | `adalk-2f177ed1` | කැරපොත්තන්ගේ විරෝධතාව අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-2f177ed1)
 
 ---
 
