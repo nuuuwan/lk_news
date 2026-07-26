@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_20:47:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_22:10:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,081** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,083** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,8 +43,10 @@ A collection of lk_news documents.
 
 - 2026-07-26 | `tamilmirrorlk-9690fee4` | மீதமிருந்த முடியின் விலை எவ்வளவு தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-9690fee4)
 - 2026-07-26 | `tamilmirrorlk-dbe2c87e` | மேலாளரை அறைந்த வழக்கில்  கருணாநிதியின் பேத்தி மீது வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-dbe2c87e)
+- 2026-07-26 | `adalk-8963a233` | මැලේසියානු ජාත්‍යන්තර සිනමා සම්මාන උළෙලේ හොඳම නළුවා වූ මහේන්ද්‍ර දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-8963a233)
 - 2026-07-26 | `dailymirrorlk-e46b41fa` | Police recommend removing Kavadi dance from Devinuwara Perahera over security concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-e46b41fa)
 - 2026-07-26 | `tamilmirrorlk-fc7ca9ba` | திரையரங்கில் சிரித்த பெண் மீது பீட்சா தட்டால் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-fc7ca9ba)
+- 2026-07-26 | `adalk-9699fc8a` | උපාලි ධර්මදාස සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-9699fc8a)
 - 2026-07-26 | `tamilmirrorlk-f3785949` | ஒரே மேடையில் 3 சகோதரிகளை மணந்த இளைஞர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-f3785949)
 - 2026-07-26 | `dailymirrorlk-87f69aa9` | Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-87f69aa9)
 - 2026-07-26 | `dailymirrorlk-b5e83411` | Rainfall expected to increase in southwest from July 28: Met Dept | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-b5e83411)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-26 | `adalk-dd31e5d7` | අධික උෂ්ණත්වය හා බඩඉරිගු හිඟතාවය නිසා බිත්තර නිෂ්පාදනය අඩුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-dd31e5d7)
 - 2026-07-26 | `tamilmirrorlk-c13f8e31` | இந்திய உயர் ஸ்தானிகராலயத்தின்  தெளிவுபடுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-c13f8e31)
 - 2026-07-26 | `tamilmirrorlk-d4713e4d` | ‘கொடூரக்’ கொலை: குழு தப்பிச் சென்றதால்’ கடும் சீற்றம். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-d4713e4d)
-- 2026-07-26 | `dailymirrorlk-1dcfb7e4` | Police Inspector arrested for alleged drunk driving after two hit-and-run crashes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-1dcfb7e4)
-- 2026-07-26 | `dailymirrorlk-3dd1938b` | Sub-Inspector suspended over misconduct and aggressive behavior | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-3dd1938b)
 
 ---
 
