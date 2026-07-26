@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-27 00:16:18",
-  "n_docs": 125083,
+  "time_updated": "2026-07-27 02:24:50",
+  "n_docs": 125086,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125083,
+  "n_docs_with_text": 125086,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-26",
-  "dataset_size": 1952246139,
+  "date_str_max": "2026-07-27",
+  "dataset_size": 1952259519,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-26-tamilmirrorlk-9690fee4",
-    "num": "tamilmirrorlk-9690fee4",
-    "date_str": "2026-07-26",
-    "description": "\u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-380510",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785072648.0
+    "doc_id": "2026-07-27-dailymirrorlk-dea3703c",
+    "num": "dailymirrorlk-dea3703c",
+    "date_str": "2026-07-27",
+    "description": "Sri Lankan faces backlash over \u2018ego-driven\u2019 expansion plans, soaring maintenance costs and CEO vacuum",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-faces-backlash-over-ego-driven-expansion-plans-soaring-maintenance-costs-and-CEO-vacuum/273-346686",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785095016.0
   }
 }

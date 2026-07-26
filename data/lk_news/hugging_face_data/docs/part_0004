@@ -315967,5 +315967,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785072648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-042cbf37",
+    "num": "dailymirrorlk-042cbf37",
+    "date_str": "2026-07-27",
+    "description": "British Council Sri Lanka transfers vocational qualification attestation to TVEC",
+    "url_metadata": "https://www.dailymirror.lk/business-news/British-Council-Sri-Lanka-transfers-vocational-qualification-attestation-to-TVEC/273-346676",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-6316c59e",
+    "num": "dailymirrorlk-6316c59e",
+    "date_str": "2026-07-27",
+    "description": "Eyes aggressive route expansion across Europe, Asia and Africa",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Eyes-aggressive-route-expansion-across-Europe-Asia-and-Africa/273-346682",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-dea3703c",
+    "num": "dailymirrorlk-dea3703c",
+    "date_str": "2026-07-27",
+    "description": "Sri Lankan faces backlash over \u2018ego-driven\u2019 expansion plans, soaring maintenance costs and CEO vacuum",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-faces-backlash-over-ego-driven-expansion-plans-soaring-maintenance-costs-and-CEO-vacuum/273-346686",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785095016.0
   }
 ]
