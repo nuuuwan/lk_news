@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-26 08:57:20",
-  "n_docs": 125029,
+  "time_updated": "2026-07-26 11:00:44",
+  "n_docs": 125042,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125029,
+  "n_docs_with_text": 125042,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-26",
-  "dataset_size": 1951392015,
+  "dataset_size": 1951487636,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-26-adalk-b9049ea5",
-    "num": "adalk-b9049ea5",
+    "doc_id": "2026-07-26-dailymirrorlk-d0f4ce12",
+    "num": "dailymirrorlk-d0f4ce12",
     "date_str": "2026-07-26",
-    "description": "\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/international/\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2/3-423422",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1785029878.0
+    "description": "Sarnath joins Unesco World Heritage list",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarnath-joins-Unesco-World-Heritage-list/108-346650",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785042256.0
   }
 }
