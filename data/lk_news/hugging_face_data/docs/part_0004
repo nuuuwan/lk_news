@@ -315970,6 +315970,94 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-5f4f4e5d",
+    "num": "dailymirrorlk-5f4f4e5d",
+    "date_str": "2026-07-26",
+    "description": "Shan Althaf\u2019s Trinity immortals of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shan-Althafs-Trinity-immortals-of-2026/108-346668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785078467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-e8659518",
+    "num": "dailymirrorlk-e8659518",
+    "date_str": "2026-07-26",
+    "description": "Former Envoy Kananathan salutes Liberia on 179th Independence Day, signals renewable energy partnership initiative",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Envoy-Kananathan-salutes-Liberia-on-179th-Independence-Day-signals-renewable-energy-partnership-initiative/108-346669",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785083876.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-9270880b",
+    "num": "dailymirrorlk-9270880b",
+    "date_str": "2026-07-27",
+    "description": "Home Lands \u2018Pentara\u2019 project gets Court of Appeal clearance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Home-Lands-Pentara-project-gets-Court-of-Appeal-clearance/273-346670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785090965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-bbe75452",
+    "num": "dailymirrorlk-bbe75452",
+    "date_str": "2026-07-27",
+    "description": "Pelwatte breaks ground for liquid milk facility in Kurunegala",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Pelwatte-breaks-ground-for-liquid-milk-facility-in-Kurunegala/273-346671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-2ce222be",
+    "num": "dailymirrorlk-2ce222be",
+    "date_str": "2026-07-27",
+    "description": "CTC appoints Adrian Lee Peng Yong as Finance Director",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CTC-appoints-Adrian-Lee-Peng-Yong-as-Finance-Director/273-346672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-42f773a8",
+    "num": "dailymirrorlk-42f773a8",
+    "date_str": "2026-07-27",
+    "description": "Hotel Show Colombo showcases hospitality industry offerings",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hotel-Show-Colombo-showcases-hospitality-industry-offerings/273-346673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091284.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-f857cc11",
+    "num": "dailymirrorlk-f857cc11",
+    "date_str": "2026-07-27",
+    "description": "Pan Asia Bank partners with SLECIC to enhance \u2018Remit Max\u2019 loan scheme",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Pan-Asia-Bank-partners-with-SLECIC-to-enhance-Remit-Max-loan-scheme/273-346674",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-b81f3c20",
+    "num": "dailymirrorlk-b81f3c20",
+    "date_str": "2026-07-27",
+    "description": "India Calling forum on August 6",
+    "url_metadata": "https://www.dailymirror.lk/business-news/India-Calling-forum-on-August-6/273-346675",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785091469.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-dailymirrorlk-042cbf37",
     "num": "dailymirrorlk-042cbf37",
     "date_str": "2026-07-27",
@@ -315978,6 +316066,61 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785091537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-3db3b1a1",
+    "num": "dailymirrorlk-3db3b1a1",
+    "date_str": "2026-07-27",
+    "description": "Pussalla Agri Ventures wins Sustainable Agriculture Infrastructure Award",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Pussalla-Agri-Ventures-wins-Sustainable-Agriculture-Infrastructure-Award/273-346677",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785092997.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-efb99806",
+    "num": "dailymirrorlk-efb99806",
+    "date_str": "2026-07-27",
+    "description": "Union Assurance holds Leader Conference 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Union-Assurance-holds-Leader-Conference-2026/273-346678",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785093954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-d07cc61a",
+    "num": "dailymirrorlk-d07cc61a",
+    "date_str": "2026-07-27",
+    "description": "Yellow House-Nanotek advance culture-tech sector",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yellow-House-Nanotek-advance-culture-tech-sector/273-346679",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-91923bd2",
+    "num": "dailymirrorlk-91923bd2",
+    "date_str": "2026-07-27",
+    "description": "Odiliya Homes & Residencies appoints Lasith Malinga as Brand Ambassador",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Odiliya-Homes-Residencies-appoints-Lasith-Malinga-as-Brand-Ambassador/273-346680",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-c05a785b",
+    "num": "dailymirrorlk-c05a785b",
+    "date_str": "2026-07-27",
+    "description": "Hemas Hospitals and Adora Cosmetic Centre biggest winners",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hemas-Hospitals-and-Adora-Cosmetic-Centre-biggest-winners/273-346681",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094363.0
   },
   {
     "doc_type": "lk_news",
@@ -315992,6 +316135,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-afabed3a",
+    "num": "dailymirrorlk-afabed3a",
+    "date_str": "2026-07-27",
+    "description": "Compact crossovers lead auto recovery as Chinese brands gain ground",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Compact-crossovers-lead-auto-recovery-as-Chinese-brands-gain-ground/273-346683",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-0450e677",
+    "num": "dailymirrorlk-0450e677",
+    "date_str": "2026-07-27",
+    "description": "Prime lending rate hits fresh high of 10.46% as CB holds policy rate",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Prime-lending-rate-hits-fresh-high-of-10-46-as-CB-holds-policy-rate/273-346684",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-d6dba230",
+    "num": "dailymirrorlk-d6dba230",
+    "date_str": "2026-07-27",
+    "description": "Legal experts flag unique compliance landscape in staggered PDPA rollout",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Legal-experts-flag-unique-compliance-landscape-in-staggered-PDPA-rollout/273-346685",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785094878.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-dailymirrorlk-dea3703c",
     "num": "dailymirrorlk-dea3703c",
     "date_str": "2026-07-27",
@@ -316000,5 +316176,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785095016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-2ba11789",
+    "num": "dailymirrorlk-2ba11789",
+    "date_str": "2026-07-27",
+    "description": "Credit surge masked as auto dealers dodge inventory penalty",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Credit-surge-masked-as-auto-dealers-dodge-inventory-penalty/245-346687",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785095138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-dbd7e7b9",
+    "num": "dailymirrorlk-dbd7e7b9",
+    "date_str": "2026-07-27",
+    "description": "The Constitution as Conversation, Not Conclusion",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Constitution-as-Conversation-Not-Conclusion/172-346688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785097005.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-81bc6da9",
+    "num": "dailymirrorlk-81bc6da9",
+    "date_str": "2026-07-27",
+    "description": "Integrity Begins Within:  Internal Affairs Units,  the Keystone of a  New Public Service Culture",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Integrity-Begins-Within-Internal-Affairs-Units-the-Keystone-of-a-New-Public-Service-Culture/172-346689",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785097546.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-27 02:24:50",
-  "n_docs": 125086,
+  "time_updated": "2026-07-27 04:04:56",
+  "n_docs": 125105,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125086,
+  "n_docs_with_text": 125105,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-27",
-  "dataset_size": 1952259519,
+  "dataset_size": 1952365699,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-27-dailymirrorlk-dea3703c",
-    "num": "dailymirrorlk-dea3703c",
+    "doc_id": "2026-07-27-dailymirrorlk-81bc6da9",
+    "num": "dailymirrorlk-81bc6da9",
     "date_str": "2026-07-27",
-    "description": "Sri Lankan faces backlash over \u2018ego-driven\u2019 expansion plans, soaring maintenance costs and CEO vacuum",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-faces-backlash-over-ego-driven-expansion-plans-soaring-maintenance-costs-and-CEO-vacuum/273-346686",
+    "description": "Integrity Begins Within:  Internal Affairs Units,  the Keystone of a  New Public Service Culture",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Integrity-Begins-Within-Internal-Affairs-Units-the-Keystone-of-a-New-Public-Service-Culture/172-346689",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785095016.0
+    "time_ut": 1785097546.0
   }
 }

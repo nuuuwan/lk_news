@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_02:25:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_04:05:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,086** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,105** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-27-dailymirrorlk-dea3703c",
-    "num": "dailymirrorlk-dea3703c",
+    "doc_id": "2026-07-27-dailymirrorlk-81bc6da9",
+    "num": "dailymirrorlk-81bc6da9",
     "date_str": "2026-07-27",
-    "description": "Sri Lankan faces backlash over \u2018ego-driven\u2019 expansion plans, soaring maintenance costs and CEO vacuum",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-faces-backlash-over-ego-driven-expansion-plans-soaring-maintenance-costs-and-CEO-vacuum/273-346686",
+    "description": "Integrity Begins Within:  Internal Affairs Units,  the Keystone of a  New Public Service Culture",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Integrity-Begins-Within-Internal-Affairs-Units-the-Keystone-of-a-New-Public-Service-Culture/172-346689",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785095016.0
+    "time_ut": 1785097546.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-27 | `dailymirrorlk-81bc6da9` | Integrity Begins Within:  Internal Affairs Units,  the Keystone of a  New Public Service Culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-81bc6da9)
+- 2026-07-27 | `dailymirrorlk-dbd7e7b9` | The Constitution as Conversation, Not Conclusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-dbd7e7b9)
+- 2026-07-27 | `dailymirrorlk-2ba11789` | Credit surge masked as auto dealers dodge inventory penalty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-2ba11789)
 - 2026-07-27 | `dailymirrorlk-dea3703c` | Sri Lankan faces backlash over ‘ego-driven’ expansion plans, soaring maintenance costs and CEO vacuum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-dea3703c)
+- 2026-07-27 | `dailymirrorlk-d6dba230` | Legal experts flag unique compliance landscape in staggered PDPA rollout | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-d6dba230)
+- 2026-07-27 | `dailymirrorlk-0450e677` | Prime lending rate hits fresh high of 10.46% as CB holds policy rate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-0450e677)
+- 2026-07-27 | `dailymirrorlk-afabed3a` | Compact crossovers lead auto recovery as Chinese brands gain ground | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-afabed3a)
 - 2026-07-27 | `dailymirrorlk-6316c59e` | Eyes aggressive route expansion across Europe, Asia and Africa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-6316c59e)
+- 2026-07-27 | `dailymirrorlk-c05a785b` | Hemas Hospitals and Adora Cosmetic Centre biggest winners | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-c05a785b)
+- 2026-07-27 | `dailymirrorlk-91923bd2` | Odiliya Homes & Residencies appoints Lasith Malinga as Brand Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-91923bd2)
+- 2026-07-27 | `dailymirrorlk-d07cc61a` | Yellow House-Nanotek advance culture-tech sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-d07cc61a)
+- 2026-07-27 | `dailymirrorlk-efb99806` | Union Assurance holds Leader Conference 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-efb99806)
+- 2026-07-27 | `dailymirrorlk-3db3b1a1` | Pussalla Agri Ventures wins Sustainable Agriculture Infrastructure Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-3db3b1a1)
 - 2026-07-27 | `dailymirrorlk-042cbf37` | British Council Sri Lanka transfers vocational qualification attestation to TVEC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-042cbf37)
-- 2026-07-26 | `tamilmirrorlk-9690fee4` | மீதமிருந்த முடியின் விலை எவ்வளவு தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-9690fee4)
-- 2026-07-26 | `tamilmirrorlk-dbe2c87e` | மேலாளரை அறைந்த வழக்கில்  கருணாநிதியின் பேத்தி மீது வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-dbe2c87e)
-- 2026-07-26 | `adalk-8963a233` | මැලේසියානු ජාත්‍යන්තර සිනමා සම්මාන උළෙලේ හොඳම නළුවා වූ මහේන්ද්‍ර දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-8963a233)
-- 2026-07-26 | `dailymirrorlk-e46b41fa` | Police recommend removing Kavadi dance from Devinuwara Perahera over security concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-e46b41fa)
-- 2026-07-26 | `tamilmirrorlk-fc7ca9ba` | திரையரங்கில் சிரித்த பெண் மீது பீட்சா தட்டால் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-fc7ca9ba)
-- 2026-07-26 | `adalk-9699fc8a` | උපාලි ධර්මදාස සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-9699fc8a)
-- 2026-07-26 | `tamilmirrorlk-f3785949` | ஒரே மேடையில் 3 சகோதரிகளை மணந்த இளைஞர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-f3785949)
-- 2026-07-26 | `dailymirrorlk-87f69aa9` | Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-87f69aa9)
-- 2026-07-26 | `dailymirrorlk-b5e83411` | Rainfall expected to increase in southwest from July 28: Met Dept | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-b5e83411)
-- 2026-07-26 | `dailymirrorlk-d9958a2a` | No closure of Sri Vijaya Dhamma School in Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-d9958a2a)
-- 2026-07-26 | `dailymirrorlk-3031a0ee` | Trump pauses Iran strikes over missile shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-3031a0ee)
-- 2026-07-26 | `dailymirrorlk-ef156f6a` | Referendum needed on Supreme Court judges’ tenure: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-ef156f6a)
-- 2026-07-26 | `tamilmirrorlk-099e0cc3` | கழிவறைகளால் விமான  பயணிகள் பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-099e0cc3)
-- 2026-07-26 | `dailymirrorlk-59660794` | Teachers’ Union slams compulsory Poya Day meeting for principals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-59660794)
-- 2026-07-26 | `dailymirrorlk-f6b5be01` | Baghaei says progress made in Oman talks on Strait of Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-f6b5be01)
-- 2026-07-26 | `dailymirrorlk-5aae5d7b` | National drowning prevention committee to be formed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-5aae5d7b)
-- 2026-07-26 | `dailymirrorlk-08dbb953` | Hotel in Ella fined Rs. 1 Mn for overpricing bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-dailymirrorlk-08dbb953)
+- 2026-07-27 | `dailymirrorlk-b81f3c20` | India Calling forum on August 6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-b81f3c20)
+- 2026-07-27 | `dailymirrorlk-f857cc11` | Pan Asia Bank partners with SLECIC to enhance ‘Remit Max’ loan scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-f857cc11)
+- 2026-07-27 | `dailymirrorlk-42f773a8` | Hotel Show Colombo showcases hospitality industry offerings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-42f773a8)
+- 2026-07-27 | `dailymirrorlk-2ce222be` | CTC appoints Adrian Lee Peng Yong as Finance Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-2ce222be)
+- 2026-07-27 | `dailymirrorlk-bbe75452` | Pelwatte breaks ground for liquid milk facility in Kurunegala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-bbe75452)
+- 2026-07-27 | `dailymirrorlk-9270880b` | Home Lands ‘Pentara’ project gets Court of Appeal clearance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-9270880b)
 
 ---
 
