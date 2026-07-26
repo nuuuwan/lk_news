@@ -315486,6 +315486,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-8078ae9b",
+    "num": "dailymirrorlk-8078ae9b",
+    "date_str": "2026-07-26",
+    "description": "Canadian national arrested at Katunayake Airport with hashish worth over Rs. 200 Mn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Canadian-national-arrested-at-Katunayake-Airport-with-hashish-worth-over-Rs-200-Mn/108-346649",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785040228.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-tamilmirrorlk-fde8942d",
     "num": "tamilmirrorlk-fde8942d",
     "date_str": "2026-07-26",
@@ -315516,5 +315527,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785042256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-022bcef9",
+    "num": "dailymirrorlk-022bcef9",
+    "date_str": "2026-07-26",
+    "description": "Dengue death toll rises to 61 as cases surpass 81,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-death-toll-rises-to-61-as-cases-surpass-81-500/108-346651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785043046.0
   }
 ]

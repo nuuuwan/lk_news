@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-26 11:00:44",
-  "n_docs": 125042,
+  "time_updated": "2026-07-26 12:49:12",
+  "n_docs": 125044,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125042,
+  "n_docs_with_text": 125044,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-26",
-  "dataset_size": 1951487636,
+  "dataset_size": 1951643930,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-26-dailymirrorlk-d0f4ce12",
-    "num": "dailymirrorlk-d0f4ce12",
+    "doc_id": "2026-07-26-dailymirrorlk-022bcef9",
+    "num": "dailymirrorlk-022bcef9",
     "date_str": "2026-07-26",
-    "description": "Sarnath joins Unesco World Heritage list",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarnath-joins-Unesco-World-Heritage-list/108-346650",
+    "description": "Dengue death toll rises to 61 as cases surpass 81,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-death-toll-rises-to-61-as-cases-surpass-81-500/108-346651",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785042256.0
+    "time_ut": 1785043046.0
   }
 }
