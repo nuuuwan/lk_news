@@ -311086,6 +311086,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-22-islandlk-75bd77a1",
+    "num": "islandlk-75bd77a1",
+    "date_str": "2026-07-22",
+    "description": "Trump sees the world as a football?",
+    "url_metadata": "http://island.lk/trump-sees-the-world-as-a-football/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784743740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-22-islandlk-1961586b",
     "num": "islandlk-1961586b",
     "date_str": "2026-07-22",
@@ -314309,11 +314320,44 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-808ec6f7",
+    "num": "islandlk-808ec6f7",
+    "date_str": "2026-07-24",
+    "description": "CAHM students shine at National Bartenders Competition and Dainties 2026",
+    "url_metadata": "http://island.lk/cahm-students-shine-at-national-bartenders-competition-and-dainties-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784912340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-d3a26c05",
+    "num": "islandlk-d3a26c05",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka secures 10% US tariff rate: JAAF thanks the President and government for decisive action",
+    "url_metadata": "http://island.lk/sri-lanka-secures-10-us-tariff-rate-jaaf-thanks-the-president-and-government-for-decisive-action/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784912340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-islandlk-218b53f8",
     "num": "islandlk-218b53f8",
     "date_str": "2026-07-24",
     "description": "Pan Asia Bank partners Sri Lanka Export Credit Insurance Corporation",
     "url_metadata": "http://island.lk/pan-asia-bank-partners-sri-lanka-export-credit-insurance-corporation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784912400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-84c4a906",
+    "num": "islandlk-84c4a906",
+    "date_str": "2026-07-24",
+    "description": "Asia-Pacific business leaders to convene in Sri Lanka for UN Global Compact\u2019s flagship regional event",
+    "url_metadata": "http://island.lk/asia-pacific-business-leaders-to-convene-in-sri-lanka-for-un-global-compacts-flagship-regional-event/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784912400.0
@@ -315035,6 +315079,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-4d661df7",
+    "num": "islandlk-4d661df7",
+    "date_str": "2026-07-25",
+    "description": "Startlingly beautiful pieces of life and soul",
+    "url_metadata": "http://island.lk/startlingly-beautiful-pieces-of-life-and-soul/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784979840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-6ffe44b8",
     "num": "dailymirrorlk-6ffe44b8",
     "date_str": "2026-07-25",
@@ -315043,6 +315098,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1784980397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-11308537",
+    "num": "islandlk-11308537",
+    "date_str": "2026-07-25",
+    "description": "A Landmark Gathering of Minds: The Ceylon Journal Roundtable Revives the Spirit of Intellectual Dialogue",
+    "url_metadata": "http://island.lk/a-landmark-gathering-of-minds-the-ceylon-journal-roundtable-revives-the-spirit-of-intellectual-dialogue/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784982960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-5c8dd0db",
+    "num": "islandlk-5c8dd0db",
+    "date_str": "2026-07-25",
+    "description": "MBS: The Man of the Last Laugh",
+    "url_metadata": "http://island.lk/mbs-the-man-of-the-last-laugh/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784983080.0
   },
   {
     "doc_type": "lk_news",
@@ -315068,6 +315145,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-c388acd7",
+    "num": "islandlk-c388acd7",
+    "date_str": "2026-07-25",
+    "description": "Why Sri Lanka Must Reform Its Environmental Governance System",
+    "url_metadata": "http://island.lk/why-sri-lanka-must-reform-its-environmental-governance-system/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784985180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-e1e73c16",
     "num": "dailymirrorlk-e1e73c16",
     "date_str": "2026-07-25",
@@ -315075,6 +315163,17 @@
     "url_metadata": "https://www.dailymirror.lk/breaking-news/Cassilingham-receives-appointment-as-SLPP-Jaffna-District-Organizer/108-346639",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
+    "time_ut": 1784987700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-d5bba8dd",
+    "num": "islandlk-d5bba8dd",
+    "date_str": "2026-07-25",
+    "description": "Martin Wickramasinghe: The making of a Sri Lankan mind",
+    "url_metadata": "http://island.lk/martin-wickramasinghe-the-making-of-a-sri-lankan-mind/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
     "time_ut": 1784987700.0
   },
   {
@@ -315134,6 +315233,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-96d773ee",
+    "num": "islandlk-96d773ee",
+    "date_str": "2026-07-25",
+    "description": "Documenting the Ceylon National Congress:How the project began",
+    "url_metadata": "http://island.lk/documenting-the-ceylon-national-congresshow-the-project-began/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784994480.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-8879de40",
     "num": "dailymirrorlk-8879de40",
     "date_str": "2026-07-25",
@@ -315153,6 +315263,28 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1784994677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-3f90ff43",
+    "num": "islandlk-3f90ff43",
+    "date_str": "2026-07-25",
+    "description": "Kandy Club at 150: Colonial past, civic future",
+    "url_metadata": "http://island.lk/kandy-club-at-150-colonial-past-civic-future/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784994780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-6ea2803a",
+    "num": "islandlk-6ea2803a",
+    "date_str": "2026-07-25",
+    "description": "Compliance clock ticks for EU-bound exporters",
+    "url_metadata": "http://island.lk/compliance-clock-ticks-for-eu-bound-exporters/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784994780.0
   },
   {
     "doc_type": "lk_news",
@@ -315186,5 +315318,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785000048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-tamilmirrorlk-a7cf1778",
+    "num": "tamilmirrorlk-a7cf1778",
+    "date_str": "2026-07-26",
+    "description": "\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-380450",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785024113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-tamilmirrorlk-bb627f68",
+    "num": "tamilmirrorlk-bb627f68",
+    "date_str": "2026-07-26",
+    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b89\u0baa\u0bbe\u0bb2\u0bbf \u0ba4\u0bb0\u0bcd\u0bae\u0ba4\u0bbe\u0b9a \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe-\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b89\u0baa\u0bbe\u0bb2\u0bbf-\u0ba4\u0bb0\u0bcd\u0bae\u0ba4\u0bbe\u0b9a-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-380451",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785024547.0
   }
 ]
