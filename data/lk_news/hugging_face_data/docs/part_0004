@@ -315805,6 +315805,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-f6b5be01",
+    "num": "dailymirrorlk-f6b5be01",
+    "date_str": "2026-07-26",
+    "description": "Baghaei says progress made in Oman talks on Strait of Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/international/Baghaei-says-progress-made-in-Oman-talks-on-Strait-of-Hormuz/107-346660",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785062683.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-dailymirrorlk-59660794",
     "num": "dailymirrorlk-59660794",
     "date_str": "2026-07-26",
@@ -315849,6 +315860,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-d9958a2a",
+    "num": "dailymirrorlk-d9958a2a",
+    "date_str": "2026-07-26",
+    "description": "No closure of Sri Vijaya Dhamma School in Saudi Arabia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-closure-of-Sri-Vijaya-Dhamma-School-in-Saudi-Arabia/108-346664",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785063892.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-dailymirrorlk-b5e83411",
     "num": "dailymirrorlk-b5e83411",
     "date_str": "2026-07-26",
@@ -315890,5 +315912,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785067146.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-e46b41fa",
+    "num": "dailymirrorlk-e46b41fa",
+    "date_str": "2026-07-26",
+    "description": "Police recommend removing Kavadi dance from Devinuwara Perahera over security concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-recommend-removing-Kavadi-dance-from-Devinuwara-Perahera-over-security-concerns/108-346667",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785068609.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-tamilmirrorlk-dbe2c87e",
+    "num": "tamilmirrorlk-dbe2c87e",
+    "date_str": "2026-07-26",
+    "description": "\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bc8 \u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd  \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc7\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bc8-\u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc7\u0ba4\u0bcd\u0ba4\u0bbf-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1/175-380509",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785070593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-tamilmirrorlk-9690fee4",
+    "num": "tamilmirrorlk-9690fee4",
+    "date_str": "2026-07-26",
+    "description": "\u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-380510",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785072648.0
   }
 ]
