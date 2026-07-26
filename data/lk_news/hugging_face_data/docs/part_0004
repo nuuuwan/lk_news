@@ -315662,6 +315662,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-ba26267d",
+    "num": "islandlk-ba26267d",
+    "date_str": "2026-07-26",
+    "description": "Farewell, Ceylon; Together We Continue the Story Across Mountains and Seas",
+    "url_metadata": "http://island.lk/farewell-ceylon-together-we-continue-the-story-across-mountains-and-seas/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785048840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-tamilmirrorlk-32205f8e",
     "num": "tamilmirrorlk-32205f8e",
     "date_str": "2026-07-26",
@@ -315684,6 +315695,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-adalk-c4688c8b",
+    "num": "adalk-c4688c8b",
+    "date_str": "2026-07-26",
+    "description": "\u0d9a\u0ddd\u0da7\u0dd2 11\u0d9a \u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca \u0dc3\u0db8\u0d9c \u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-11\u0d9a-\u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca-\u0dc3\u0db8\u0d9c-\u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4-\u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423428",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785050543.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-tamilmirrorlk-1b11822c",
     "num": "tamilmirrorlk-1b11822c",
     "date_str": "2026-07-26",
@@ -315692,5 +315714,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785051020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-3dd1938b",
+    "num": "dailymirrorlk-3dd1938b",
+    "date_str": "2026-07-26",
+    "description": "Sub-Inspector suspended over misconduct and aggressive behavior",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sub-Inspector-suspended-over-misconduct-and-aggressive-behavior/108-346655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785056512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-1dcfb7e4",
+    "num": "dailymirrorlk-1dcfb7e4",
+    "date_str": "2026-07-26",
+    "description": "Police Inspector arrested for alleged drunk driving after two hit-and-run crashes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-Inspector-arrested-for-alleged-drunk-driving-after-two-hit-and-run-crashes/108-346656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785056633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-dailymirrorlk-08dbb953",
+    "num": "dailymirrorlk-08dbb953",
+    "date_str": "2026-07-26",
+    "description": "Hotel in Ella fined Rs. 1 Mn for overpricing bottled water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hotel-in-Ella-fined-Rs-1-Mn-for-overpricing-bottled-water/108-346657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785062054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-tamilmirrorlk-099e0cc3",
+    "num": "tamilmirrorlk-099e0cc3",
+    "date_str": "2026-07-26",
+    "description": "\u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9  \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/50-380480",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785063263.0
   }
 ]
