@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_06:53:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26_08:57:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,026** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,029** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-26-tamilmirrorlk-bb627f68",
-    "num": "tamilmirrorlk-bb627f68",
+    "doc_id": "2026-07-26-adalk-b9049ea5",
+    "num": "adalk-b9049ea5",
     "date_str": "2026-07-26",
-    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b89\u0baa\u0bbe\u0bb2\u0bbf \u0ba4\u0bb0\u0bcd\u0bae\u0ba4\u0bbe\u0b9a \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe-\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b89\u0baa\u0bbe\u0bb2\u0bbf-\u0ba4\u0bb0\u0bcd\u0bae\u0ba4\u0bbe\u0b9a-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-380451",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785024547.0
+    "description": "\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2/3-423422",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785029878.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-26 | `adalk-b9049ea5` | හවුතිවරු සෞදියට පහරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-adalk-b9049ea5)
 - 2026-07-26 | `tamilmirrorlk-bb627f68` | ஸ்ரீலங்கா கிரிக்கெட்டின் முன்னாள் தலைவர் உபாலி தர்மதாச காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-bb627f68)
 - 2026-07-26 | `tamilmirrorlk-a7cf1778` | சவூதி எண்ணெய் நிலையங்களில் வான்வழித் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-26-tamilmirrorlk-a7cf1778)
 - 2026-07-25 | `dailymirrorlk-aed43e20` | Former Sri Lanka Cricket President Upali Dharmadasa passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-aed43e20)
 - 2026-07-25 | `adalk-2f177ed1` | කැරපොත්තන්ගේ විරෝධතාව අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-2f177ed1)
 - 2026-07-25 | `dailymirrorlk-0da8359f` | Were outsiders being accommodated at Presidential Residences? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-0da8359f)
+- 2026-07-25 | `adalk-26dfb8a1` | අතුරුදන්ව සිටි දැරියගේ සිරුර ගල්වලකින් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-adalk-26dfb8a1)
 - 2026-07-25 | `islandlk-6ea2803a` | Compliance clock ticks for EU-bound exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-islandlk-6ea2803a)
 - 2026-07-25 | `islandlk-3f90ff43` | Kandy Club at 150: Colonial past, civic future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-islandlk-3f90ff43)
 - 2026-07-25 | `tamilmirrorlk-2126fe37` | துப்பாக்கிச் சூட்டில் உணவக உரிமையாளர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-tamilmirrorlk-2126fe37)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-25 | `islandlk-d5bba8dd` | Martin Wickramasinghe: The making of a Sri Lankan mind | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-islandlk-d5bba8dd)
 - 2026-07-25 | `dailymirrorlk-e1e73c16` | Cassilingham receives appointment as SLPP Jaffna District Organizer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-e1e73c16)
 - 2026-07-25 | `islandlk-c388acd7` | Why Sri Lanka Must Reform Its Environmental Governance System | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-islandlk-c388acd7)
-- 2026-07-25 | `dailymirrorlk-c6fa5ba0` | Cockroach Janta Party calls off protest after Indian govt meets demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-c6fa5ba0)
-- 2026-07-25 | `dailymirrorlk-31513b3e` | Jaffna Kings franchise agreement terminated over alleged integrity breaches | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-25-dailymirrorlk-31513b3e)
 
 ---
 

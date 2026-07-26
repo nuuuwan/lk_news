@@ -315123,6 +315123,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-4b1e7351",
+    "num": "islandlk-4b1e7351",
+    "date_str": "2026-07-25",
+    "description": "Ukraine war: inside longstanding conflict between politicians and military\u00a0commanders",
+    "url_metadata": "http://island.lk/ukraine-war-inside-longstanding-conflict-between-politicians-and-military-commanders/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784983200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-31513b3e",
     "num": "dailymirrorlk-31513b3e",
     "date_str": "2026-07-25",
@@ -315288,6 +315299,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-adalk-26dfb8a1",
+    "num": "adalk-26dfb8a1",
+    "date_str": "2026-07-25",
+    "description": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0d9c\u0dbd\u0dca\u0dc0\u0dbd\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0d9c\u0dbd\u0dca\u0dc0\u0dbd\u0d9a\u0dd2\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-423420",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1784994943.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-dailymirrorlk-0da8359f",
     "num": "dailymirrorlk-0da8359f",
     "date_str": "2026-07-25",
@@ -315340,5 +315362,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785024547.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-adalk-b9049ea5",
+    "num": "adalk-b9049ea5",
+    "date_str": "2026-07-26",
+    "description": "\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0dc4\u0dc0\u0dd4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd9\u0dba\u0dd2/3-423422",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785029878.0
   }
 ]
