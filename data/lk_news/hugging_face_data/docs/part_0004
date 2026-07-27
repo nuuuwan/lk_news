@@ -317081,6 +317081,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-95861eab",
+    "num": "adalk-95861eab",
+    "date_str": "2026-07-27",
+    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0daf\u0ddc\u0dbb \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d87\u0dbb\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0daf\u0ddc\u0dbb-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d87\u0dbb\u0dd9\u0dba\u0dd2/11-423443",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785141642.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-dailymirrorlk-89d3fd6e",
     "num": "dailymirrorlk-89d3fd6e",
     "date_str": "2026-07-27",
@@ -317089,6 +317100,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785143758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-25d5c134",
+    "num": "tamilmirrorlk-25d5c134",
+    "date_str": "2026-07-27",
+    "description": "\u0b85\u0ba4\u0bbf\u0b95\u0bb3\u0bb5\u0bc1 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0ba4\u0bbf\u0b95\u0bb3\u0bb5\u0bc1-\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf-\u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/76-380532",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785143927.0
   },
   {
     "doc_type": "lk_news",
@@ -317221,5 +317243,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785149981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-ac57aa57",
+    "num": "dailymirrorlk-ac57aa57",
+    "date_str": "2026-07-27",
+    "description": "South Korea court gives ex-President Yoon suspended jail term for violating election law",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Korea-court-gives-ex-President-Yoon-suspended-jail-term-for-violating-election-law/108-346744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785151881.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-7ec042e8",
+    "num": "tamilmirrorlk-7ec042e8",
+    "date_str": "2026-07-27",
+    "description": "\u0bb9\u0ba9\u0bc1\u0bae\u0bbe\u0ba9\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8 \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0ba9\u0bc1\u0bae\u0bbe\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb2\u0bc8-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-380538",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785152014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-9b5a7b18",
+    "num": "tamilmirrorlk-9b5a7b18",
+    "date_str": "2026-07-27",
+    "description": "\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb0\u0ba3\u0bae\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb0\u0ba3\u0bae\u0bcd-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b95\u0bbe\u0bb0\u0bcd/76-380539",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785155269.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-74bf610d",
+    "num": "tamilmirrorlk-74bf610d",
+    "date_str": "2026-07-27",
+    "description": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd-\u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/44-380540",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785155898.0
   }
 ]
