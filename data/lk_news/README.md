@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_11:03:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_12:59:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,157** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-27-dailymirrorlk-77127d91",
-    "num": "dailymirrorlk-77127d91",
+    "doc_id": "2026-07-27-dailymirrorlk-87987970",
+    "num": "dailymirrorlk-87987970",
     "date_str": "2026-07-27",
-    "description": "Colombo sees over 250 fire incidents so far this year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-sees-over-250-fire-incidents-so-far-this-year/108-346700",
+    "description": "Rupee weakens slightly against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-slightly-against-US-Dollar/108-346713",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785128296.0
+    "time_ut": 1785136870.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-27 | `dailymirrorlk-87987970` | Rupee weakens slightly against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-87987970)
+- 2026-07-27 | `dailymirrorlk-63527c09` | Horana tuition centre owner arrested with crystal meth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-63527c09)
+- 2026-07-27 | `dailymirrorlk-d36ffbb2` | Former State Minister Shantha Bandara’s son granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-d36ffbb2)
+- 2026-07-27 | `tamilmirrorlk-699c668c` | உணவுத் திருவிழாவில் துப்பாக்கிச் சூடு: 2 வயது சிறுவன் உட்பட மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-699c668c)
+- 2026-07-27 | `tamilmirrorlk-0a926d82` | ஐஸ் விற்பனை செய்த ஆசிரியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-0a926d82)
+- 2026-07-27 | `tamilmirrorlk-e8871ef5` | குஷூடன் பெயிண்டர்  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-e8871ef5)
+- 2026-07-27 | `dailymirrorlk-80461812` | Very happy if BASL issues statement on Wijeyadasa or his son: Chathuranga | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-80461812)
+- 2026-07-27 | `tamilmirrorlk-f9d81dbe` | இதுவரை 258 தீ விபத்துக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-f9d81dbe)
+- 2026-07-27 | `tamilmirrorlk-aa922006` | 5.4 மில்லியன் ரூபாய் பெறுமதியான சிகரெட்டுகளுடன் தம்பதியினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-aa922006)
+- 2026-07-27 | `tamilmirrorlk-83080d6d` | மருத்துவர்களின் தயவான வேண்டுகோள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-83080d6d)
+- 2026-07-27 | `dailymirrorlk-d4944f06` | Shooting at U.S. Seattle food festival leaves 2 dead, wounds 5 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-d4944f06)
+- 2026-07-27 | `adalk-b37d0f60` | හිටපු ඇමති ශාන්ත බණ්ඩාරගේ පුතා ඇතුළු පහකට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-b37d0f60)
+- 2026-07-27 | `dailymirrorlk-79a2f7f4` | Three-wheeler driver killed in Gothatuwa road accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-79a2f7f4)
+- 2026-07-27 | `adalk-65c21c39` | සියටල්හි වෙඩි තැබීමකින් දෙදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-65c21c39)
+- 2026-07-27 | `dailymirrorlk-faca4572` | AI will take away SL’s business outsourcing revenue: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-faca4572)
 - 2026-07-27 | `dailymirrorlk-77127d91` | Colombo sees over 250 fire incidents so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-77127d91)
 - 2026-07-27 | `dailymirrorlk-f0f40bed` | Seek prompt medical treatment if children’s fever persists over 24 hours: Health authorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-f0f40bed)
 - 2026-07-27 | `dailymirrorlk-5d18317e` | Oil market alarming for Sri Lanka, CPC seeks meeting with President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-5d18317e)
 - 2026-07-27 | `dailymirrorlk-77affc1f` | Sajith denies political deal with BASL President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-77affc1f)
 - 2026-07-27 | `dailymirrorlk-9b14d889` | Police OIC becomes hit and run driver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-9b14d889)
-- 2026-07-27 | `dailymirrorlk-1a4063d4` | Sri Lanka’s underworld violence escalates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-1a4063d4)
-- 2026-07-27 | `tamilmirrorlk-cb0fc704` | அதிகரித்தால் அதிகரிக்கின்றது.... குறைந்தால் குறையுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-cb0fc704)
-- 2026-07-27 | `tamilmirrorlk-0d8bdb51` | பயணிகள் தொடர்பில் சிந்திக்கும் அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-0d8bdb51)
-- 2026-07-27 | `dailymirrorlk-f3f631ad` | Iran says it will halt strikes as long as US bombing pause holds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-f3f631ad)
-- 2026-07-27 | `dailymirrorlk-0ec12f83` | Oil prices plunge 5% after U.S. and Iran halt attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-0ec12f83)
-- 2026-07-27 | `dailymirrorlk-f6bb11e7` | Fresh controversy over Colombo national school's dry ration drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-f6bb11e7)
-- 2026-07-27 | `adalk-4576c958` | හෙට සිට නිරිතට වැස්ස වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-4576c958)
-- 2026-07-27 | `adalk-b7365030` | ඉරානය හා ඇමෙරිකාව ප්‍රහාර නවත්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-b7365030)
-- 2026-07-27 | `tamilmirrorlk-79858536` | சீனாவில் ‘நெளல் ’புயல்: வெள்ளத்தில் 10 போ் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-79858536)
-- 2026-07-27 | `tamilmirrorlk-33d25551` | பிரான்ஸ், ஸ்பெயினில் காட்டுத் தீ: 3.50 லட்சம் போ் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-33d25551)
-- 2026-07-27 | `adalk-77a06637` | තර්ජනය කළ එස්.අයිගේ වැඩ තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-77a06637)
-- 2026-07-27 | `tamilmirrorlk-eccf7a5a` | நாளை முதல் மழை அதிகரிக்கும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-eccf7a5a)
-- 2026-07-27 | `dailyftlk-4f630c4d` | Namal says referendum needed to extend Supreme Court judges’ tenure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailyftlk-4f630c4d)
-- 2026-07-27 | `dailyftlk-90970f5e` | Canadian arrested at BIA with hashish worth over Rs. 200 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailyftlk-90970f5e)
-- 2026-07-27 | `dailyftlk-f30e4889` | Police recommend removing Kavadi segment from Devinuwara Perahera over security concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailyftlk-f30e4889)
 
 ---
 

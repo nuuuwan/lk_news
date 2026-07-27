@@ -316663,6 +316663,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-d87e0a75",
+    "num": "adalk-d87e0a75",
+    "date_str": "2026-07-27",
+    "description": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-423436",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785123957.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-dailymirrorlk-f6bb11e7",
     "num": "dailymirrorlk-f6bb11e7",
     "date_str": "2026-07-27",
@@ -316781,5 +316792,170 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785128296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-faca4572",
+    "num": "dailymirrorlk-faca4572",
+    "date_str": "2026-07-27",
+    "description": "AI will take away SL\u2019s business outsourcing revenue: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AI-will-take-away-SLs-business-outsourcing-revenue-MP/108-346702",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785131491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-65c21c39",
+    "num": "adalk-65c21c39",
+    "date_str": "2026-07-27",
+    "description": "\u0dc3\u0dd2\u0dba\u0da7\u0dbd\u0dca\u0dc4\u0dd2 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0dba\u0da7\u0dbd\u0dca\u0dc4\u0dd2-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423437",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785131731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-79a2f7f4",
+    "num": "dailymirrorlk-79a2f7f4",
+    "date_str": "2026-07-27",
+    "description": "Three-wheeler driver killed in Gothatuwa road accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-wheeler-driver-killed-in-Gothatuwa-road-accident/108-346703",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785132082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-b37d0f60",
+    "num": "adalk-b37d0f60",
+    "date_str": "2026-07-27",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d87\u0db8\u0dad\u0dd2 \u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0dda \u0db4\u0dd4\u0dad\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dc4\u0d9a\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d87\u0db8\u0dad\u0dd2-\u0dc1\u0dcf\u0db1\u0dca\u0dad-\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0dda-\u0db4\u0dd4\u0dad\u0dcf-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dc4\u0d9a\u0da7-\u0d87\u0db4/11-423440",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785133676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-d4944f06",
+    "num": "dailymirrorlk-d4944f06",
+    "date_str": "2026-07-27",
+    "description": "Shooting at U.S. Seattle food festival leaves 2 dead, wounds 5",
+    "url_metadata": "https://www.dailymirror.lk/international/Shooting-at-U-S-Seattle-food-festival-leaves-2-dead-wounds-5/107-346706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785134139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-83080d6d",
+    "num": "tamilmirrorlk-83080d6d",
+    "date_str": "2026-07-27",
+    "description": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0baf\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd!",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0baf\u0bb5\u0bbe\u0ba9-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd/175-380520",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785134673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-aa922006",
+    "num": "tamilmirrorlk-aa922006",
+    "date_str": "2026-07-27",
+    "description": "5.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-4-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380521",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785134997.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-f9d81dbe",
+    "num": "tamilmirrorlk-f9d81dbe",
+    "date_str": "2026-07-27",
+    "description": "\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 258 \u0ba4\u0bc0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8-258-\u0ba4\u0bc0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd/175-380522",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785135259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-80461812",
+    "num": "dailymirrorlk-80461812",
+    "date_str": "2026-07-27",
+    "description": "Very happy if BASL issues statement on Wijeyadasa or his son: Chathuranga",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Very-happy-if-BASL-issues-statement-on-Wijeyadasa-or-his-son-Chathuranga/108-346709",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785135351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-e8871ef5",
+    "num": "tamilmirrorlk-e8871ef5",
+    "date_str": "2026-07-27",
+    "description": "\u0b95\u0bc1\u0bb7\u0bc2\u0b9f\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd  \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb7\u0bc2\u0b9f\u0ba9\u0bcd-\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380523",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785135511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-0a926d82",
+    "num": "tamilmirrorlk-0a926d82",
+    "date_str": "2026-07-27",
+    "description": "\u0b90\u0bb8\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb8\u0bcd-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380524",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785135790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-699c668c",
+    "num": "tamilmirrorlk-699c668c",
+    "date_str": "2026-07-27",
+    "description": "\u0b89\u0ba3\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: 2 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba3\u0bb5\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-2-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-380525",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785136337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-d36ffbb2",
+    "num": "dailymirrorlk-d36ffbb2",
+    "date_str": "2026-07-27",
+    "description": "Former State Minister Shantha Bandara\u2019s son granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-State-Minister-Shantha-Bandaras-son-granted-bail/108-346711",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785136425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-63527c09",
+    "num": "dailymirrorlk-63527c09",
+    "date_str": "2026-07-27",
+    "description": "Horana tuition centre owner arrested with crystal meth",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Horana-tuition-centre-owner-arrested-with-crystal-meth/108-346712",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785136712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-87987970",
+    "num": "dailymirrorlk-87987970",
+    "date_str": "2026-07-27",
+    "description": "Rupee weakens slightly against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-slightly-against-US-Dollar/108-346713",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785136870.0
   }
 ]

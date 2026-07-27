@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-27 11:02:14",
-  "n_docs": 125157,
+  "time_updated": "2026-07-27 12:58:46",
+  "n_docs": 125173,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125157,
+  "n_docs_with_text": 125173,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-27",
-  "dataset_size": 1953245735,
+  "dataset_size": 1953379710,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-27-dailymirrorlk-77127d91",
-    "num": "dailymirrorlk-77127d91",
+    "doc_id": "2026-07-27-dailymirrorlk-87987970",
+    "num": "dailymirrorlk-87987970",
     "date_str": "2026-07-27",
-    "description": "Colombo sees over 250 fire incidents so far this year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-sees-over-250-fire-incidents-so-far-this-year/108-346700",
+    "description": "Rupee weakens slightly against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-slightly-against-US-Dollar/108-346713",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785128296.0
+    "time_ut": 1785136870.0
   }
 }
