@@ -315992,6 +315992,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-adalk-e168ab7a",
+    "num": "adalk-e168ab7a",
+    "date_str": "2026-07-26",
+    "description": "\u0dc0\u0dad\u0dd4\u0d9a\u0dbb\u0dba\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4 \u0d89\u0da7\u0dd4 \u0db1\u0ddc\u0d9a\u0dc5\u0ddc\u0dad\u0dca \u0db4\u0dcf\u0dbb\u0da7 \u0db6\u0dc4\u0dd2\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dad\u0dd4\u0d9a\u0dbb\u0dba\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4-\u0d89\u0da7\u0dd4-\u0db1\u0ddc\u0d9a\u0dc5\u0ddc\u0dad\u0dca-\u0db4\u0dcf\u0dbb\u0da7-\u0db6\u0dc4\u0dd2\u0db1\u0dc0\u0dcf/11-423431",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785069783.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-adalk-8963a233",
     "num": "adalk-8963a233",
     "date_str": "2026-07-26",
@@ -316462,5 +316473,170 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785113563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-48e0f70a",
+    "num": "dailyftlk-48e0f70a",
+    "date_str": "2026-07-27",
+    "description": "Stredge launches Reach High",
+    "url_metadata": "https://www.ft.lk/business/Stredge-launches-Reach-High/34-795191",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785113933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-9d249871",
+    "num": "dailyftlk-9d249871",
+    "date_str": "2026-07-27",
+    "description": "Sri Lanka Brand Conclave 2026 tomorrow",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Brand-Conclave-2026-tomorrow/34-795192",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-e598afea",
+    "num": "dailyftlk-e598afea",
+    "date_str": "2026-07-27",
+    "description": "Ceylon Tobacco appoints Adrian Lee Peng Yong as Finance Director",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Tobacco-appoints-Adrian-Lee-Peng-Yong-as-Finance-Director/34-795193",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-47b4245d",
+    "num": "dailyftlk-47b4245d",
+    "date_str": "2026-07-27",
+    "description": "Pelwatte breaks ground on state-of-the-art liquid milk facility in Kurunegala",
+    "url_metadata": "https://www.ft.lk/business/Pelwatte-breaks-ground-on-state-of-the-art-liquid-milk-facility-in-Kurunegala/34-795194",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-0d19704e",
+    "num": "dailyftlk-0d19704e",
+    "date_str": "2026-07-27",
+    "description": "Hayleys Plantations advances Payment for Ecosystem Services across Sri Lanka\u2019s estates",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-Plantations-advances-Payment-for-Ecosystem-Services-across-Sri-Lanka-s-estates/34-795195",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114613.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-b094a4e2",
+    "num": "dailyftlk-b094a4e2",
+    "date_str": "2026-07-27",
+    "description": "National Business Excellence Awards 2026 tomorrow",
+    "url_metadata": "https://www.ft.lk/business/National-Business-Excellence-Awards-2026-tomorrow/34-795196",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-c2529531",
+    "num": "dailyftlk-c2529531",
+    "date_str": "2026-07-27",
+    "description": "Singer Sri Lanka joins Dialog Pay ecosystem",
+    "url_metadata": "https://www.ft.lk/business/Singer-Sri-Lanka-joins-Dialog-Pay-ecosystem/34-795197",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114772.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-18445722",
+    "num": "dailyftlk-18445722",
+    "date_str": "2026-07-27",
+    "description": "KDK Sri Lanka strengthens regional ties through Malaysia technology visit",
+    "url_metadata": "https://www.ft.lk/business/KDK-Sri-Lanka-strengthens-regional-ties-through-Malaysia-technology-visit/34-795198",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-f30e4889",
+    "num": "dailyftlk-f30e4889",
+    "date_str": "2026-07-27",
+    "description": "Police recommend removing Kavadi segment from Devinuwara Perahera over security concerns",
+    "url_metadata": "https://www.ft.lk/news/Police-recommend-removing-Kavadi-segment-from-Devinuwara-Perahera-over-security-concerns/56-795199",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785114979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-90970f5e",
+    "num": "dailyftlk-90970f5e",
+    "date_str": "2026-07-27",
+    "description": "Canadian arrested at BIA with hashish worth over Rs. 200 m",
+    "url_metadata": "https://www.ft.lk/news/Canadian-arrested-at-BIA-with-hashish-worth-over-Rs-200-m/56-795200",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785115026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-4f630c4d",
+    "num": "dailyftlk-4f630c4d",
+    "date_str": "2026-07-27",
+    "description": "Namal says referendum needed to extend Supreme Court judges\u2019 tenure",
+    "url_metadata": "https://www.ft.lk/news/Namal-says-referendum-needed-to-extend-Supreme-Court-judges-tenure/56-795201",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785115111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-eccf7a5a",
+    "num": "tamilmirrorlk-eccf7a5a",
+    "date_str": "2026-07-27",
+    "description": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bb4\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-380513",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785116310.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-77a06637",
+    "num": "adalk-77a06637",
+    "date_str": "2026-07-27",
+    "description": "\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba \u0d9a\u0dc5 \u0d91\u0dc3\u0dca.\u0d85\u0dba\u0dd2\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba-\u0d9a\u0dc5-\u0d91\u0dc3\u0dca-\u0d85\u0dba\u0dd2\u0d9c\u0dda-\u0dc0\u0dd0\u0da9-\u0dad\u0dc4\u0db1\u0db8\u0dca/11-423433",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785118422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-33d25551",
+    "num": "tamilmirrorlk-33d25551",
+    "date_str": "2026-07-27",
+    "description": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd, \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0: 3.50 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0baa\u0bc7\u0bbe\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd-\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd-\u0ba4\u0bc0-3-50-\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0baa\u0bc7\u0bbe\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/50-380514",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785119688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-79858536",
+    "num": "tamilmirrorlk-79858536",
+    "date_str": "2026-07-27",
+    "description": "\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u2018\u0ba8\u0bc6\u0bb3\u0bb2\u0bcd \u2019\u0baa\u0bc1\u0baf\u0bb2\u0bcd: \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 10 \u0baa\u0bc7\u0bbe\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb3\u0bb2\u0bcd-\u0baa\u0bc1\u0baf\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-10-\u0baa\u0bc7\u0bbe\u0bcd-\u0baa\u0bb2\u0bbf/50-380515",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785120506.0
   }
 ]
