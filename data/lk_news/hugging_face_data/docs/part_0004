@@ -317452,5 +317452,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785177396.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-e217366b",
+    "num": "dailyftlk-e217366b",
+    "date_str": "2026-07-28",
+    "description": "Sri Lanka introduces significant new tax enforcements and prosecution methods",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-introduces-significant-new-tax-enforcements-and-prosecution-methods/4-795214",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785177778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-7ec1cb4b",
+    "num": "dailyftlk-7ec1cb4b",
+    "date_str": "2026-07-28",
+    "description": "RCEP and Sri Lanka: A new chapter in regional trade",
+    "url_metadata": "https://www.ft.lk/columns/RCEP-and-Sri-Lanka-A-new-chapter-in-regional-trade/4-795215",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785178805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-c7ff1386",
+    "num": "dailyftlk-c7ff1386",
+    "date_str": "2026-07-28",
+    "description": "GSP+ reapplication looms: What  Sri Lanka\u2019s apparel sector must fix now",
+    "url_metadata": "https://www.ft.lk/opinion/GSP-reapplication-looms-What-Sri-Lanka-s-apparel-sector-must-fix-now/14-795216",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785178930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-f6d672ea",
+    "num": "dailyftlk-f6d672ea",
+    "date_str": "2026-07-28",
+    "description": "Who carries the weight, and why is it time to share Building a care economy that works for everyone",
+    "url_metadata": "https://www.ft.lk/business/Who-carries-the-weight-and-why-is-it-time-to-share-Building-a-care-economy-that-works-for-everyone/34-795217",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785179235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-84c4a906",
+    "num": "dailyftlk-84c4a906",
+    "date_str": "2026-07-28",
+    "description": "Asia-Pacific business leaders to convene in Sri Lanka for UN Global Compact\u2019s flagship regional event",
+    "url_metadata": "https://www.ft.lk/business/Asia-Pacific-business-leaders-to-convene-in-Sri-Lanka-for-UN-Global-Compact-s-flagship-regional-event/34-795218",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785179389.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-28 00:18:15",
-  "n_docs": 125218,
+  "time_updated": "2026-07-28 02:25:35",
+  "n_docs": 125223,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125218,
+  "n_docs_with_text": 125223,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-28",
-  "dataset_size": 1954154982,
+  "dataset_size": 1954232227,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-28-dailyftlk-02c4b591",
-    "num": "dailyftlk-02c4b591",
+    "doc_id": "2026-07-28-dailyftlk-84c4a906",
+    "num": "dailyftlk-84c4a906",
     "date_str": "2026-07-28",
-    "description": "The bill nobody budgets for: Healthcare and the retirement gap in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/opinion/The-bill-nobody-budgets-for-Healthcare-and-the-retirement-gap-in-Sri-Lanka/14-795213",
+    "description": "Asia-Pacific business leaders to convene in Sri Lanka for UN Global Compact\u2019s flagship regional event",
+    "url_metadata": "https://www.ft.lk/business/Asia-Pacific-business-leaders-to-convene-in-Sri-Lanka-for-UN-Global-Compact-s-flagship-regional-event/34-795218",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1785177396.0
+    "time_ut": 1785179389.0
   }
 }
