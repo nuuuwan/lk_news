@@ -316638,5 +316638,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785120506.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-b7365030",
+    "num": "adalk-b7365030",
+    "date_str": "2026-07-27",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/11-423434",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785122139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-4576c958",
+    "num": "adalk-4576c958",
+    "date_str": "2026-07-27",
+    "description": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0db1\u0dd2\u0dbb\u0dd2\u0dad\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0db1\u0dd2\u0dbb\u0dd2\u0dad\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-423435",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785123119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-f6bb11e7",
+    "num": "dailymirrorlk-f6bb11e7",
+    "date_str": "2026-07-27",
+    "description": "Fresh controversy over Colombo national school's dry ration drive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fresh-controversy-over-Colombo-national-school-s-dry-ration-drive/108-346692",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785124788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-0ec12f83",
+    "num": "dailymirrorlk-0ec12f83",
+    "date_str": "2026-07-27",
+    "description": "Oil prices plunge 5% after U.S. and Iran halt attacks",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-prices-plunge-5-after-U-S-and-Iran-halt-attacks/107-346693",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785125183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-f3f631ad",
+    "num": "dailymirrorlk-f3f631ad",
+    "date_str": "2026-07-27",
+    "description": "Iran says it will halt strikes as long as US bombing pause holds",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-says-it-will-halt-strikes-as-long-as-US-bombing-pause-holds/107-346694",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785125338.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-0d8bdb51",
+    "num": "tamilmirrorlk-0d8bdb51",
+    "date_str": "2026-07-27",
+    "description": "\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-380517",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785125453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-tamilmirrorlk-cb0fc704",
+    "num": "tamilmirrorlk-cb0fc704",
+    "date_str": "2026-07-27",
+    "description": "\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.... \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe/175-380518",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785125893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-1a4063d4",
+    "num": "dailymirrorlk-1a4063d4",
+    "date_str": "2026-07-27",
+    "description": "Sri Lanka\u2019s underworld violence escalates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-underworld-violence-escalates/108-346695",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785127178.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-9b14d889",
+    "num": "dailymirrorlk-9b14d889",
+    "date_str": "2026-07-27",
+    "description": "Police OIC becomes hit and run driver",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-OIC-becomes-hit-and-run-driver/108-346696",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785127434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-77affc1f",
+    "num": "dailymirrorlk-77affc1f",
+    "date_str": "2026-07-27",
+    "description": "Sajith denies political deal with BASL President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-denies-political-deal-with-BASL-President/108-346697",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785127670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-5d18317e",
+    "num": "dailymirrorlk-5d18317e",
+    "date_str": "2026-07-27",
+    "description": "Oil market alarming for Sri Lanka, CPC seeks meeting with President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-market-alarming-for-Sri-Lanka-CPC-seeks-meeting-with-President/108-346698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785127877.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-f0f40bed",
+    "num": "dailymirrorlk-f0f40bed",
+    "date_str": "2026-07-27",
+    "description": "Seek prompt medical treatment if children\u2019s fever persists over 24 hours: Health authorities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seek-prompt-medical-treatment-if-childrens-fever-persists-over-24-hours-Health-authorities/108-346699",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785128089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-77127d91",
+    "num": "dailymirrorlk-77127d91",
+    "date_str": "2026-07-27",
+    "description": "Colombo sees over 250 fire incidents so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-sees-over-250-fire-incidents-so-far-this-year/108-346700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785128296.0
   }
 ]
