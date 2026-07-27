@@ -312989,6 +312989,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-23-islandlk-449030d5",
+    "num": "islandlk-449030d5",
+    "date_str": "2026-07-23",
+    "description": "Underworld threats to holy shrine",
+    "url_metadata": "http://island.lk/underworld-threats-to-holy-shrine/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784831040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-23-dailymirrorlk-b6e2b1e3",
     "num": "dailymirrorlk-b6e2b1e3",
     "date_str": "2026-07-23",
@@ -315079,6 +315090,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-b3d16c8e",
+    "num": "islandlk-b3d16c8e",
+    "date_str": "2026-07-25",
+    "description": "Old Politics returns via Writ Applications, New Politics emerges over Judicial Independence",
+    "url_metadata": "http://island.lk/old-politics-returns-via-writ-applications-new-politics-emerges-over-judicial-independence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784978880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-25-islandlk-4d661df7",
     "num": "islandlk-4d661df7",
     "date_str": "2026-07-25",
@@ -315662,6 +315684,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-46b2aed5",
+    "num": "islandlk-46b2aed5",
+    "date_str": "2026-07-26",
+    "description": "Fish, Fisherfolk and a Forgotten Sri Lankan Classic",
+    "url_metadata": "http://island.lk/fish-fisherfolk-and-a-forgotten-sri-lankan-classic/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785047820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-56ca5cf8",
+    "num": "islandlk-56ca5cf8",
+    "date_str": "2026-07-26",
+    "description": "Historic Milestones and Competing Memorials left by the First Two Disciples",
+    "url_metadata": "http://island.lk/historic-milestones-and-competing-memorials-left-by-the-first-two-disciples/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785047880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-tamilmirrorlk-aa18224d",
     "num": "tamilmirrorlk-aa18224d",
     "date_str": "2026-07-26",
@@ -315926,6 +315970,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-1f77e31e",
+    "num": "islandlk-1f77e31e",
+    "date_str": "2026-07-26",
+    "description": "Invisible Climate threat to our plate",
+    "url_metadata": "http://island.lk/invisible-climate-threat-to-our-plate/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785068280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-26-dailymirrorlk-e46b41fa",
     "num": "dailymirrorlk-e46b41fa",
     "date_str": "2026-07-26",
@@ -315978,6 +316033,83 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785078467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-5c200192",
+    "num": "islandlk-5c200192",
+    "date_str": "2026-07-26",
+    "description": "Sri Lanka Insurance Life awards 227 scholarships under Suba Pathum programme",
+    "url_metadata": "http://island.lk/sri-lanka-insurance-life-awards-227-scholarships-under-suba-pathum-programme/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785082320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-493ddeff",
+    "num": "islandlk-493ddeff",
+    "date_str": "2026-07-26",
+    "description": "Fintech leader calls for stronger ecosystem to drive Sri Lanka\u2019s digital economy",
+    "url_metadata": "http://island.lk/fintech-leader-calls-for-stronger-ecosystem-to-drive-sri-lankas-digital-economy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785082380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-9e3d61a5",
+    "num": "islandlk-9e3d61a5",
+    "date_str": "2026-07-26",
+    "description": "CTC Plc. appoints Adrian Lee Peng Yong as Finance Director",
+    "url_metadata": "http://island.lk/ctc-plc-appoints-adrian-lee-peng-yong-as-finance-director/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785082440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-d8aa78c1",
+    "num": "islandlk-d8aa78c1",
+    "date_str": "2026-07-26",
+    "description": "SriLankan Airlines tops Travel Trade 2026 Swim Champs",
+    "url_metadata": "http://island.lk/srilankan-airlines-tops-travel-trade-2026-swim-champs/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785082500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-67411175",
+    "num": "islandlk-67411175",
+    "date_str": "2026-07-26",
+    "description": "Three Sinha Industries named Sustainability Business Leader of the Year",
+    "url_metadata": "http://island.lk/three-sinha-industries-named-sustainability-business-leader-of-the-year/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785083100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-7a109d36",
+    "num": "islandlk-7a109d36",
+    "date_str": "2026-07-26",
+    "description": "Fly A World Consultants and Tourism recognised for excellence in travel consultancy",
+    "url_metadata": "http://island.lk/fly-a-world-consultants-and-tourism-recognised-for-excellence-in-travel-consultancy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785083340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-892e773e",
+    "num": "islandlk-892e773e",
+    "date_str": "2026-07-26",
+    "description": "Mercantile Investments strengthens foundation for growth with oversubscribed Rs. 1.1 bn rights issue",
+    "url_metadata": "http://island.lk/mercantile-investments-strengthens-foundation-for-growth-with-oversubscribed-rs-1-1-bn-rights-issue-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785083400.0
   },
   {
     "doc_type": "lk_news",
@@ -316209,5 +316341,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785097546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-dd024db7",
+    "num": "dailyftlk-dd024db7",
+    "date_str": "2026-07-27",
+    "description": "Remembering Dr. Lester Massingham: A lasting legacy",
+    "url_metadata": "https://www.ft.lk/opinion/Remembering-Dr-Lester-Massingham-A-lasting-legacy/14-795170",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785106706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-f530d977",
+    "num": "dailyftlk-f530d977",
+    "date_str": "2026-07-27",
+    "description": "Asgerally \u201cAsgi\u201d T. Fazleabas - An outstanding Sri Lankan",
+    "url_metadata": "https://www.ft.lk/columns/Asgerally-Asgi-T-Fazleabas-An-outstanding-Sri-Lankan/4-795171",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785106992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-b0b195b1",
+    "num": "dailyftlk-b0b195b1",
+    "date_str": "2026-07-27",
+    "description": "Killi keeps growing after all these years",
+    "url_metadata": "https://www.ft.lk/columns/Killi-keeps-growing-after-all-these-years/4-795172",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785107151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-b4aff14c",
+    "num": "dailyftlk-b4aff14c",
+    "date_str": "2026-07-27",
+    "description": "Nalin as a novel navigator: Reflections in retrospect",
+    "url_metadata": "https://www.ft.lk/columns/Nalin-as-a-novel-navigator-Reflections-in-retrospect/4-795173",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785107524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-b4887a78",
+    "num": "dailyftlk-b4887a78",
+    "date_str": "2026-07-27",
+    "description": "Online casinos: Sri Lanka\u2019s offline tax net is missing the online jackpot",
+    "url_metadata": "https://www.ft.lk/columns/Online-casinos-Sri-Lanka-s-offline-tax-net-is-missing-the-online-jackpot/4-795175",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785108337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-02aa8049",
+    "num": "dailyftlk-02aa8049",
+    "date_str": "2026-07-27",
+    "description": "Sri Lanka\u2019s Personal Income Tax squeeze",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-Personal-Income-Tax-squeeze/4-795176",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785109100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-5afc0260",
+    "num": "dailyftlk-5afc0260",
+    "date_str": "2026-07-27",
+    "description": "Can Sri Lanka become  South Asia\u2019s next  FinTech innovation hub?",
+    "url_metadata": "https://www.ft.lk/columns/Can-Sri-Lanka-become-South-Asia-s-next-FinTech-innovation-hub/4-795177",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785109634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-1821ccef",
+    "num": "dailyftlk-1821ccef",
+    "date_str": "2026-07-27",
+    "description": "H.M.R. Ellepola: A true unsung hero of the Central Bank",
+    "url_metadata": "https://www.ft.lk/columns/H-M-R-Ellepola-A-true-unsung-hero-of-the-Central-Bank/4-795178",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785109862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-4d13c5d2",
+    "num": "dailyftlk-4d13c5d2",
+    "date_str": "2026-07-27",
+    "description": "Management Accounting holds key to navigating global uncertainty",
+    "url_metadata": "https://www.ft.lk/business/Management-Accounting-holds-key-to-navigating-global-uncertainty/34-795179",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785110778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-ee4bdada",
+    "num": "dailyftlk-ee4bdada",
+    "date_str": "2026-07-27",
+    "description": "Arcasia, ATX launch voluntary offer for Industrial Asphalts at 40 cents a share",
+    "url_metadata": "https://www.ft.lk/business/Arcasia-ATX-launch-voluntary-offer-for-Industrial-Asphalts-at-40-cents-a-share/34-795184",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785113261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailyftlk-4d70a6ed",
+    "num": "dailyftlk-4d70a6ed",
+    "date_str": "2026-07-27",
+    "description": "International legal scholars to convene in Colombo this week",
+    "url_metadata": "https://www.ft.lk/business/International-legal-scholars-to-convene-in-Colombo-this-week/34-795190",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785113563.0
   }
 ]
