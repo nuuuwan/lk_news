@@ -317092,6 +317092,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-c682aa6b",
+    "num": "adalk-c682aa6b",
+    "date_str": "2026-07-27",
+    "description": "VTOL \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/VTOL-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dcf-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0d9a\u0dca/11-423445",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785142519.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-dailymirrorlk-89d3fd6e",
     "num": "dailymirrorlk-89d3fd6e",
     "date_str": "2026-07-27",
@@ -317287,5 +317298,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785155898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-e14e3aa9",
+    "num": "adalk-e14e3aa9",
+    "date_str": "2026-07-27",
+    "description": "\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb \u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0dda \u0d9a\u0dcf\u0dc0\u0da9\u0dd2 \u0d9c\u0dd0\u0db1 \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0dda-\u0d9a\u0dcf\u0dc0\u0da9\u0dd2-\u0d9c\u0dd0\u0db1-\u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dca/11-423448",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785159032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-5fb4fef9",
+    "num": "dailymirrorlk-5fb4fef9",
+    "date_str": "2026-07-27",
+    "description": "Kavadi dances allowed at Devinuwara Perahera despite earlier police concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kavadi-dances-allowed-at-Devinuwara-Perahera-despite-earlier-police-concerns/108-346747",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785159346.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-d7fdf775",
+    "num": "adalk-d7fdf775",
+    "date_str": "2026-07-27",
+    "description": "10000\u0d9a\u0da7 \u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dd9\u0dbd\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/10000\u0d9a\u0da7-\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dd9\u0dbd\u0dca-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf/11-423449",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785159591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-bc992281",
+    "num": "dailymirrorlk-bc992281",
+    "date_str": "2026-07-27",
+    "description": "President discusses issues in developing cricket in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-discusses-issues-in-developing-cricket-in-Sri-Lanka/108-346748",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785159833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-aa6ffaf5",
+    "num": "dailymirrorlk-aa6ffaf5",
+    "date_str": "2026-07-27",
+    "description": "Cabinet approves proposal to extend judges\u2019 retirement age by two years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-proposal-to-extend-judges-retirement-age-by-two-years/108-346749",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785160012.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-37796582",
+    "num": "adalk-37796582",
+    "date_str": "2026-07-27",
+    "description": "\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb \u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0da7 \u0d9a\u0dcf\u0dc0\u0da9\u0dd2 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca \u0d91\u0d9a\u0dca\u0d9a\u0dbb \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0da7-\u0d9a\u0dcf\u0dc0\u0da9\u0dd2-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca-\u0d91\u0d9a\u0dca\u0d9a\u0dbb-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-423450",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785160524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-a2ca8c93",
+    "num": "dailymirrorlk-a2ca8c93",
+    "date_str": "2026-07-27",
+    "description": "Wildlife Department gets new vehicles to tackle elephant conflicts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-Department-gets-new-vehicles-to-tackle-elephant-conflicts/108-346750",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785161757.0
   }
 ]
