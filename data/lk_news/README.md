@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_20:47:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27_22:30:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,211** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,216** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-27-dailymirrorlk-a2ca8c93",
-    "num": "dailymirrorlk-a2ca8c93",
+    "doc_id": "2026-07-27-tamilmirrorlk-f2b9bfbd",
+    "num": "tamilmirrorlk-f2b9bfbd",
     "date_str": "2026-07-27",
-    "description": "Wildlife Department gets new vehicles to tackle elephant conflicts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-Department-gets-new-vehicles-to-tackle-elephant-conflicts/108-346750",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785161757.0
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc1\u0bb0\u0bc8\u0baf\u0bc0\u0bb0\u0bb2\u0bbf\u0bb2\u0bcd  \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0baa\u0bc7\u0ba9\u0bbe \u0bae\u0bc2\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba8\u0bc1\u0bb0\u0bc8\u0baf\u0bc0\u0bb0\u0bb2\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0baa\u0bc7\u0ba9\u0bbe-\u0bae\u0bc2\u0b9f\u0bbf/50-380543",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785167764.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-27 | `tamilmirrorlk-f2b9bfbd` | சிறுமியின் நுரையீரலில்  சிக்கியிருந்த பேனா மூடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-f2b9bfbd)
+- 2026-07-27 | `tamilmirrorlk-29b58ef2` | நீதிபதிகளின் ஓய்வூதிய வயது நீடிப்பு ; அமைச்சரவை பச்சைக் கொடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-29b58ef2)
+- 2026-07-27 | `dailymirrorlk-68080f23` | Concerns raised over delayed Colombo Port crane removal tender | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-68080f23)
+- 2026-07-27 | `adalk-49064e08` | ක්‍රිකට් පරිවර්තන කමිටුව හා ජනපති අතර හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-49064e08)
 - 2026-07-27 | `dailymirrorlk-a2ca8c93` | Wildlife Department gets new vehicles to tackle elephant conflicts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-a2ca8c93)
 - 2026-07-27 | `adalk-37796582` | දෙවිනුවර පෙරහරට කාවඩි කණ්ඩායම් එක්කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-37796582)
 - 2026-07-27 | `dailymirrorlk-aa6ffaf5` | Cabinet approves proposal to extend judges’ retirement age by two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-aa6ffaf5)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-27 | `tamilmirrorlk-57cf83c8` | காவடி நடனம் குறித்த இறுதித் தீர்மானம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-57cf83c8)
 - 2026-07-27 | `dailymirrorlk-ceb80f4b` | Iran says no talks underway with US, sets conditions for future negotiations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-ceb80f4b)
 - 2026-07-27 | `dailymirrorlk-8fa01676` | Bodies of five climbers found on Russia’s highest mountain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-8fa01676)
-- 2026-07-27 | `tamilmirrorlk-6d08cf1b` | டெங்கு பதிலளிப்பு முன்முயற்சியை  ஆரம்பித்த அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-6d08cf1b)
-- 2026-07-27 | `dailymirrorlk-2f0ca8db` | US, Sri Lanka launch CARAT 2026 maritime exercise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-2f0ca8db)
-- 2026-07-27 | `dailymirrorlk-521d5bf2` | Strong winds forecast over several areas; public urged to take precautions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-521d5bf2)
-- 2026-07-27 | `tamilmirrorlk-6f479899` | மயானக் காவலாளி மீது துப்பாக்கிச் சூடு; 2 இலட்சம் ரூபாய் ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-6f479899)
 
 ---
 
