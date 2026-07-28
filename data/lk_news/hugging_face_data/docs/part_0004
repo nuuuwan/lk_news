@@ -317686,6 +317686,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-dailymirrorlk-d8c0038c",
+    "num": "dailymirrorlk-d8c0038c",
+    "date_str": "2026-07-27",
+    "description": "To Solve Street Dog Issue; Government must work with animal welfare groups",
+    "url_metadata": "https://www.dailymirror.lk/opinion/To-Solve-Street-Dog-Issue-Government-must-work-with-animal-welfare-groups/172-346774",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785175266.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-28-dailyftlk-3cc79cb5",
     "num": "dailyftlk-3cc79cb5",
     "date_str": "2026-07-28",
@@ -318500,6 +318511,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-28-adalk-2a18dac1",
+    "num": "adalk-2a18dac1",
+    "date_str": "2026-07-28",
+    "description": "\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dba\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0db1 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0d87\u0db8\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dba\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dbb\u0db1-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0d87\u0db8\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-423466",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785234299.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-28-tamilmirrorlk-cc826396",
     "num": "tamilmirrorlk-cc826396",
     "date_str": "2026-07-28",
@@ -318618,5 +318640,71 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785242171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-f16af2f6",
+    "num": "dailymirrorlk-f16af2f6",
+    "date_str": "2026-07-28",
+    "description": "Charith Abeysinghe remanded after failing to meet bail conditions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Charith-Abeysinghe-remanded-after-failing-to-meet-bail-conditions/108-346835",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785243428.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-9f088729",
+    "num": "tamilmirrorlk-9f088729",
+    "date_str": "2026-07-28",
+    "description": "\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae \u0b86\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae-\u0b86\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bc1\u0bae\u0bcd-\u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-380584",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785244275.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-07d738d7",
+    "num": "dailymirrorlk-07d738d7",
+    "date_str": "2026-07-28",
+    "description": "Sri Lanka finish strong to beat Pakistan 2-1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-finish-strong-to-beat-Pakistan-2-1/108-346836",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785244765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-8b598302",
+    "num": "dailymirrorlk-8b598302",
+    "date_str": "2026-07-28",
+    "description": "Trump flouts political risk to host Netanyahu\u2019s seventh White House visit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-flouts-political-risk-to-host-Netanyahus-seventh-White-House-visit/108-346837",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785247100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-9acd36c7",
+    "num": "dailymirrorlk-9acd36c7",
+    "date_str": "2026-07-28",
+    "description": "S&P says Sri Lanka\u2019s Economy showing resilience, keeps rating stable",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/S-P-says-Sri-Lankas-Economy-showing-resilience-keeps-rating-stable/108-346838",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785249119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-04cd0ab3",
+    "num": "dailymirrorlk-04cd0ab3",
+    "date_str": "2026-07-28",
+    "description": "Uganda declares end to latest Ebola outbreak",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Uganda-declares-end-to-latest-Ebola-outbreak/108-346839",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785249795.0
   }
 ]
