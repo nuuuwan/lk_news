@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-29 02:11:48",
-  "n_docs": 125358,
+  "time_updated": "2026-07-29 04:06:07",
+  "n_docs": 125378,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125358,
+  "n_docs_with_text": 125378,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-29",
-  "dataset_size": 1955796411,
+  "dataset_size": 1956078559,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-29-dailymirrorlk-9971f999",
-    "num": "dailymirrorlk-9971f999",
+    "doc_id": "2026-07-29-dailyftlk-feddd155",
+    "num": "dailyftlk-feddd155",
     "date_str": "2026-07-29",
-    "description": "Are we governing for the next election,  or the next generation?",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Are-we-governing-for-the-next-election-or-the-next-generation/172-346862",
+    "description": "Judicial independence is not about judges\u2014it is about every citizen",
+    "url_metadata": "https://www.ft.lk/columns/Judicial-independence-is-not-about-judgesit-is-about-every-citizen/4-795307",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785270752.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785274119.0
   }
 }
