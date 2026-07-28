@@ -318643,6 +318643,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-f241c40f",
+    "num": "tamilmirrorlk-f241c40f",
+    "date_str": "2026-07-28",
+    "description": "\u0bb0\u0b95\u0bbf\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b95\u0bbf\u0ba4-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a-\u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-380571",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785242171.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-28-dailymirrorlk-f16af2f6",
     "num": "dailymirrorlk-f16af2f6",
     "date_str": "2026-07-28",
@@ -318706,5 +318717,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785249795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-00a67843",
+    "num": "dailymirrorlk-00a67843",
+    "date_str": "2026-07-28",
+    "description": "NARA investigates blue bottle jellyfish presence at Panadura beach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NARA-investigates-blue-bottle-jellyfish-presence-at-Panadura-beach/108-346840",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785252665.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-3b977103",
+    "num": "tamilmirrorlk-3b977103",
+    "date_str": "2026-07-28",
+    "description": "\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0b95\u0bc8 \u0b9c\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf \u0bae\u0bc0\u0ba9\u0bcd ; \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc7 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0b95\u0bc8-\u0b9c\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf-\u0bae\u0bc0\u0ba9\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc7-\u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd/175-380586",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785253828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-b862e5a0",
+    "num": "tamilmirrorlk-b862e5a0",
+    "date_str": "2026-07-28",
+    "description": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf \u0bb0\u0ba4 \u0baa\u0bb5\u0ba9\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf-\u0bb0\u0ba4-\u0baa\u0bb5\u0ba9\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd/175-380587",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785255400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-f0b84b0f",
+    "num": "tamilmirrorlk-f0b84b0f",
+    "date_str": "2026-07-28",
+    "description": "\u0b8e\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcb \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf-\u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd/175-380588",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785255821.0
   }
 ]
