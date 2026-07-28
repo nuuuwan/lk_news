@@ -1,0 +1,47 @@
+Balancing the ledger: Rebuilding reserves without triggering currency shocks
+
+Sri Lanka is rapidly approaching a critical financial juncture. Following the 2022 default, bilateral creditors and International Sovereign Bond (ISB) holders granted temporary debt service relief, providing a grace period that effectively postpones major principal amortisation. However, this window closes in 2027–2028. Under the debt restructuring agreements and the IMF’s Debt Sustainability Framework (DSF), Sri Lanka’s external public debt servicing—covering official bilateral loans, restructured commercial bonds, and multilateral obligations—will jump to approximately $4.5 billion to $5 billion annually, anchored to an IMF target capping annual foreign currency debt service at 4.5% of GDP.
+
+n The reality of current reserves: While Gross Official Reserves (GOR) have recovered to roughly $6.5 to 6.8 billion, a significant portion remains locked or conditionally restricted—most notably the $1.4 billion Peoples Bank of China (PBOC) swap, which carries strict usability caveats linked to import coverage. Net usable foreign exchange buffers hover closer to $5.0 to 5.3 billion.
+
+n The reserve adequacy deficit: To safely absorb external shocks, maintain international market confidence, and cover 3 to 4 months of essential national imports (which require roughly $1.6 billion to $1.8 billion monthly), Sri Lanka requires a net reserve cushion of at least $10 billion to $12 billion.
+
+n The structural gap: This leaves an active reserve deficit of $4.5 billion to $5.5 billion that must be built before full-scale commercial repayments resume.
+
+To bridge this gap, the Central Bank of Sri Lanka (CBSL) is forced to act as an aggressive net buyer of foreign exchange from domestic banking channels. However, when the Central Bank consistently mops up dollars from commercial banks to build state reserves, it extracts foreign currency liquidity from the domestic market. Unmanaged, this structural squeeze places continuous downward pressure on the Sri Lankan Rupee, creating a sharp tension between building reserves for debt repayment and preserving currency stability.
+
+Currency depreciation in an import-dependent economy acts as a direct tax on the public.
+
+Sudden exchange rate slides quickly translate into higher pump prices for fuel, elevated electricity tariffs, and costlier food items.
+
+In Sri Lanka’s fragile post-crisis socio-political landscape, severe currency swings are a major driver of domestic discontent. To keep political turmoil at bay while adhering to a flexible exchange rate regime, the government must avoid two policy extremes:
+
+1. The trap of the Hard Peg: Depleting foreign reserves to artificially defend an unsustainable exchange rate—as seen prior to April 2022—is no longer an option.
+
+2. Uncontrolled free-floating: Leaving the thin domestic market entirely to speculative forces risks sharp overshooting and panic buying.
+
+The middle path: A transparent, rule-based intervention mechanism (such as a crawling band or strict volatility-smoothing interventions) allows the rupee to reflect economic fundamentals without allowing short-term market panic to trigger inflationary spirals.
+
+A genuinely liberalised forex policy cannot survive if the financial system contains structural trapdoors. Over the past decade, trade mis-invoicing—particularly import undervaluation—has drained billions of dollars from the formal financial ecosystem.
+
+High border tariffs (Customs duties stacked with CESS, PAL, and VAT) created strong incentives for importers to under-declare shipment values at ports. To settle the unpaid offshore balance to foreign suppliers, bad actors exploited Telegraphic Transfer (TT) advance payments—remitting dollars abroad under the guise of future cargo that was either mis-priced or never arrived.
+
+The passage of the Foreign Exchange Act No. 12 of 2017 intended to streamline capital flows, but its decriminalisation of exchange offences and reliance on procedural banking checks weakened enforcement. Maintaining open forex flows requires smart enforcement rather than blunt bans:
+
+nIntegrated data platforms: Automatically linking Central Bank TT remittance data with Sri Lanka Customs import manifests via Unique Identification Numbers (UINs) and TINs closes the valuation gap before funds leave the country.
+
+nTargeted legal deterrence: Re-establishing strict legal and financial penalties for deliberate trade fraud ensures that liberalised rules apply only to legitimate commerce.
+
+An often-overlooked tool for currency and price stability is tariff reform. When the government levies exorbitant border taxes to generate quick revenue, it inadvertently drives up consumer prices and incentivises smuggling. A rational policy mix requires:
+
+n Consolidating border taxes: Gradually eliminating multi-layered levies (such as CESS and PAL) in favour of a simplified, two-tier customs structure.
+
+n Shifting to domestic consumption taxes: Expanding the broad-based Value- Added Tax (VAT) network on domestic sales ensures state revenue is collected at the point of final consumption rather than through distortionary port tariffs.
+
+Lowering border tariffs reduces the profit margin of invoice tampering, naturally directing forex transactions back into official banking channels.
+
+Navigating the transition to 2027 requires a clear-eyed synthesis of open-market economics and vigilant oversight.
+
+A liberalised foreign exchange regime does not mean an unmonitored one. By automating trade verification, shifting revenue generation to broad domestic taxes, and employing rule-based exchange rate management, Sri Lanka can build the foreign reserves needed for 2027 while keeping domestic living costs stable and social peace intact.
+
+(The author is the Principal Consultant and CEO of KiWi Strategy Consultants, based in Nugegoda, Sri Lanka. A Chartered Engineer with a diverse professional portfolio spanning senior corporate leadership, investment management, and strategic consulting, he holds a B.Sc. in Mechanical Engineering from the University of Peradeniya and an MBA from the University of Colombo. His extensive executive career includes tenures as the CEO of Dankotuwa Porcelain PLC and General Manager at ACME Printing and Packaging, alongside active, board-level involvement with the Marga Institute)

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--28_04:09:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--28_06:30:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-28-dailyftlk-84c4a906",
-    "num": "dailyftlk-84c4a906",
+    "doc_id": "2026-07-28-dailyftlk-fd8f2164",
+    "num": "dailyftlk-fd8f2164",
     "date_str": "2026-07-28",
-    "description": "Asia-Pacific business leaders to convene in Sri Lanka for UN Global Compact\u2019s flagship regional event",
-    "url_metadata": "https://www.ft.lk/business/Asia-Pacific-business-leaders-to-convene-in-Sri-Lanka-for-UN-Global-Compact-s-flagship-regional-event/34-795218",
+    "description": "Surveyors\u2019 Institute of Sri Lanka marks 100 years of service to nation",
+    "url_metadata": "https://www.ft.lk/business/Surveyors-Institute-of-Sri-Lanka-marks-100-years-of-service-to-nation/34-795243",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1785179389.0
+    "time_ut": 1785199814.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-28 | `dailyftlk-fd8f2164` | Surveyors’ Institute of Sri Lanka marks 100 years of service to nation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-fd8f2164)
+- 2026-07-28 | `dailyftlk-e8d86cad` | AA3 Holdings unveils Lanka’s largest ex-stock heavy equipment showroom in Kiribathgoda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-e8d86cad)
+- 2026-07-28 | `dailyftlk-f016a97c` | The draft NGO law casts a wide net to build an architecture of oppression | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-f016a97c)
+- 2026-07-28 | `dailyftlk-a0426734` | Sri Lanka cannot live on location alone: Time to win the global race for FDIs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-a0426734)
+- 2026-07-28 | `dailyftlk-bf6a3b66` | Balancing the ledger: Rebuilding reserves without triggering currency shocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-bf6a3b66)
+- 2026-07-28 | `dailymirrorlk-6bb10733` | Catholic Deaf Day celebrated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailymirrorlk-6bb10733)
+- 2026-07-28 | `dailymirrorlk-62a10c1d` | LPL 2026 Playoff Race Heats Up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailymirrorlk-62a10c1d)
 - 2026-07-28 | `dailyftlk-84c4a906` | Asia-Pacific business leaders to convene in Sri Lanka for UN Global Compact’s flagship regional event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-84c4a906)
 - 2026-07-28 | `dailyftlk-f6d672ea` | Who carries the weight, and why is it time to share Building a care economy that works for everyone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-f6d672ea)
 - 2026-07-28 | `dailyftlk-c7ff1386` | GSP+ reapplication looms: What  Sri Lanka’s apparel sector must fix now | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-28-dailyftlk-c7ff1386)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-07-27 | `adalk-49064e08` | ක්‍රිකට් පරිවර්තන කමිටුව හා ජනපති අතර හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-49064e08)
 - 2026-07-27 | `dailymirrorlk-a2ca8c93` | Wildlife Department gets new vehicles to tackle elephant conflicts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-a2ca8c93)
 - 2026-07-27 | `adalk-37796582` | දෙවිනුවර පෙරහරට කාවඩි කණ්ඩායම් එක්කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-37796582)
-- 2026-07-27 | `dailymirrorlk-aa6ffaf5` | Cabinet approves proposal to extend judges’ retirement age by two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-aa6ffaf5)
-- 2026-07-27 | `dailymirrorlk-bc992281` | President discusses issues in developing cricket in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-bc992281)
-- 2026-07-27 | `adalk-d7fdf775` | 10000කට ඊශ්‍රායෙල් රැකියා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-d7fdf775)
-- 2026-07-27 | `dailymirrorlk-5fb4fef9` | Kavadi dances allowed at Devinuwara Perahera despite earlier police concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-dailymirrorlk-5fb4fef9)
-- 2026-07-27 | `adalk-e14e3aa9` | දෙවිනුවර පෙරහරේ කාවඩි ගැන තීරණාත්මක සාකච්ඡාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-adalk-e14e3aa9)
-- 2026-07-27 | `tamilmirrorlk-74bf610d` | கிரிக்கெட் மறுசீரமைப்புச் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-74bf610d)
-- 2026-07-27 | `tamilmirrorlk-9b5a7b18` | குத்துக்கரணம் அடித்த கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-27-tamilmirrorlk-9b5a7b18)
 
 ---
 

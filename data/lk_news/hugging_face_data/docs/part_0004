@@ -317507,5 +317507,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785179389.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-62a10c1d",
+    "num": "dailymirrorlk-62a10c1d",
+    "date_str": "2026-07-28",
+    "description": "LPL 2026 Playoff Race Heats Up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LPL-2026-Playoff-Race-Heats-Up/108-346780",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785198516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailymirrorlk-6bb10733",
+    "num": "dailymirrorlk-6bb10733",
+    "date_str": "2026-07-28",
+    "description": "Catholic Deaf Day celebrated",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Catholic-Deaf-Day-celebrated/110-346781",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785198714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-bf6a3b66",
+    "num": "dailyftlk-bf6a3b66",
+    "date_str": "2026-07-28",
+    "description": "Balancing the ledger: Rebuilding reserves without triggering currency shocks",
+    "url_metadata": "https://www.ft.lk/columns/Balancing-the-ledger-Rebuilding-reserves-without-triggering-currency-shocks/4-795238",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785198940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-a0426734",
+    "num": "dailyftlk-a0426734",
+    "date_str": "2026-07-28",
+    "description": "Sri Lanka cannot live on location alone: Time to win the global race for FDIs",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-cannot-live-on-location-alone-Time-to-win-the-global-race-for-FDIs/4-795239",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785199044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-f016a97c",
+    "num": "dailyftlk-f016a97c",
+    "date_str": "2026-07-28",
+    "description": "The draft NGO law casts a wide net to build an architecture of oppression",
+    "url_metadata": "https://www.ft.lk/columns/The-draft-NGO-law-casts-a-wide-net-to-build-an-architecture-of-oppression/4-795241",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785199422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-e8d86cad",
+    "num": "dailyftlk-e8d86cad",
+    "date_str": "2026-07-28",
+    "description": "AA3 Holdings unveils Lanka\u2019s largest ex-stock heavy equipment showroom in Kiribathgoda",
+    "url_metadata": "https://www.ft.lk/business/AA3-Holdings-unveils-Lanka-s-largest-ex-stock-heavy-equipment-showroom-in-Kiribathgoda/34-795242",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785199762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-fd8f2164",
+    "num": "dailyftlk-fd8f2164",
+    "date_str": "2026-07-28",
+    "description": "Surveyors\u2019 Institute of Sri Lanka marks 100 years of service to nation",
+    "url_metadata": "https://www.ft.lk/business/Surveyors-Institute-of-Sri-Lanka-marks-100-years-of-service-to-nation/34-795243",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785199814.0
   }
 ]
