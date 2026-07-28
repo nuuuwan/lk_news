@@ -317433,6 +317433,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-adalk-696ea2ab",
+    "num": "adalk-696ea2ab",
+    "date_str": "2026-07-27",
+    "description": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0dd0\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0d85\u0db4\u0dd2 \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1 \u0d95\u0db1\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc4\u0dd0\u0dbb\u0dc0\u0dd4\u0db8\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca-\u0d85\u0db4\u0dd2-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1-\u0d95\u0db1\u0dda/11-423452",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785170875.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-28-dailyftlk-3cc79cb5",
     "num": "dailyftlk-3cc79cb5",
     "date_str": "2026-07-28",
@@ -317584,5 +317595,192 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785199814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-14958095",
+    "num": "tamilmirrorlk-14958095",
+    "date_str": "2026-07-28",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0ba9\u0bcd\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0bb3\u0bb5\u0bc1 \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba4\u0bc6\u0ba9\u0bcd\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bb4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0b85\u0bb3\u0bb5\u0bc1-\u0b9a\u0bb1\u0bcd\u0bb1\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-380546",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785202318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-533c6146",
+    "num": "dailyftlk-533c6146",
+    "date_str": "2026-07-28",
+    "description": "SL Ambassador to Iran Prof. Fazeeha Azmi presents credentials",
+    "url_metadata": "https://www.ft.lk/news/SL-Ambassador-to-Iran-Prof-Fazeeha-Azmi-presents-credentials/56-795262",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-60ef2db1",
+    "num": "dailyftlk-60ef2db1",
+    "date_str": "2026-07-28",
+    "description": "Saudi Arabia says it reserves \u2018right to respond\u2019 after drone attack",
+    "url_metadata": "https://www.ft.lk/news/Saudi-Arabia-says-it-reserves-right-to-respond-after-drone-attack/56-795263",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-b7142612",
+    "num": "dailyftlk-b7142612",
+    "date_str": "2026-07-28",
+    "description": "Kavadi dance returns to Esala procession",
+    "url_metadata": "https://www.ft.lk/news/Kavadi-dance-returns-to-Esala-procession/56-795264",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-f69cd2ab",
+    "num": "dailyftlk-f69cd2ab",
+    "date_str": "2026-07-28",
+    "description": "Four inmates named as suspects over Negombo Prison incident",
+    "url_metadata": "https://www.ft.lk/news/Four-inmates-named-as-suspects-over-Negombo-Prison-incident/56-795265",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-f35fdbac",
+    "num": "dailyftlk-f35fdbac",
+    "date_str": "2026-07-28",
+    "description": "Gampaha lawyers urge President  to drop judges\u2019 retirement age plan",
+    "url_metadata": "https://www.ft.lk/news/Gampaha-lawyers-urge-President-to-drop-judges-retirement-age-plan/56-795266",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-efb488a5",
+    "num": "dailyftlk-efb488a5",
+    "date_str": "2026-07-28",
+    "description": "Judicial Service Association opposes judges\u2019 retirement age extension",
+    "url_metadata": "https://www.ft.lk/news/Judicial-Service-Association-opposes-judges-retirement-age-extension/56-795267",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203586.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-3e190ed8",
+    "num": "dailyftlk-3e190ed8",
+    "date_str": "2026-07-28",
+    "description": "Cabinet clears Bill to raise judges\u2019 retirement age",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-Bill-to-raise-judges-retirement-age/56-795268",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203604.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-988a05d4",
+    "num": "dailyftlk-988a05d4",
+    "date_str": "2026-07-28",
+    "description": "SJB, Govt. trade barbs over BASL amid judges\u2019 retirement age controversy",
+    "url_metadata": "https://www.ft.lk/news/SJB-Govt-trade-barbs-over-BASL-amid-judges-retirement-age-controversy/56-795269",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-64544574",
+    "num": "dailyftlk-64544574",
+    "date_str": "2026-07-28",
+    "description": "Bail rejected for owner of prominent garment retail chain; remanded till 6 Aug.",
+    "url_metadata": "https://www.ft.lk/business/Bail-rejected-for-owner-of-prominent-garment-retail-chain-remanded-till-6-Aug/34-795270",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785203925.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-74fa8c18",
+    "num": "dailyftlk-74fa8c18",
+    "date_str": "2026-07-28",
+    "description": "AI-first legal technology firm 3Rive expands regional presence through new Anthropic partnership",
+    "url_metadata": "https://www.ft.lk/business/AI-first-legal-technology-firm-3Rive-expands-regional-presence-through-new-Anthropic-partnership/34-795271",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785204061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-67f6fd3f",
+    "num": "dailyftlk-67f6fd3f",
+    "date_str": "2026-07-28",
+    "description": "Business Forum \u201cDiscover Sri Lanka: Gateway to Trade and Investment\u201d in Milan",
+    "url_metadata": "https://www.ft.lk/business/Business-Forum-Discover-Sri-Lanka-Gateway-to-Trade-and-Investment-in-Milan/34-795272",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785204262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-dailyftlk-dd3394b5",
+    "num": "dailyftlk-dd3394b5",
+    "date_str": "2026-07-28",
+    "description": "SLAMERP welcomes 10% US tariff rate, hails Govt.\u2019s sustained advocacy",
+    "url_metadata": "https://www.ft.lk/business/SLAMERP-welcomes-10-US-tariff-rate-hails-Govt-s-sustained-advocacy/34-795273",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785204401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-1e30b696",
+    "num": "tamilmirrorlk-1e30b696",
+    "date_str": "2026-07-28",
+    "description": "\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb2\u0bc8 \u0bae\u0bc0\u0ba4\u0bc1 \u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b86\u0bb2\u0bc8-\u0bae\u0bc0\u0ba4\u0bc1-\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-380547",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785204500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-960d5f46",
+    "num": "tamilmirrorlk-960d5f46",
+    "date_str": "2026-07-28",
+    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0ba3\u0bc8\u0baf\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0baf\u0bbf\u0ba9\u0bcd-\u0b85\u0bb0\u0b9a\u0bbe\u0ba3\u0bc8\u0baf\u0bc8-\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1-\u0b89\u0baf\u0bb0\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd/175-380548",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785205234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-8edcbc73",
+    "num": "tamilmirrorlk-8edcbc73",
+    "date_str": "2026-07-28",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/50-380549",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785206157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-tamilmirrorlk-b0880ad0",
+    "num": "tamilmirrorlk-b0880ad0",
+    "date_str": "2026-07-28",
+    "description": "\u0b95\u0ba8\u0bcd\u0ba4\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0bcb\u0bb9\u0bb0\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b95\u0ba8\u0bcd\u0ba4\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb0\u0bcb\u0bb9\u0bb0\u0bbe/62-380551",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785208162.0
   }
 ]
