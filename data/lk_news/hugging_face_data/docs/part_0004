@@ -319278,5 +319278,82 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1785291986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-adalk-eead816c",
+    "num": "adalk-eead816c",
+    "date_str": "2026-07-29",
+    "description": "\u0da2\u0db4\u0dcf\u0db1 \u0db7\u0dd6 \u0d9a\u0db8\u0dca\u0db4\u0dcf\u0dc0\u0dd9\u0db1\u0dca 13\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/international/\u0da2\u0db4\u0dcf\u0db1-\u0db7\u0dd6-\u0d9a\u0db8\u0dca\u0db4\u0dcf\u0dc0\u0dd9\u0db1\u0dca-13\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/3-423473",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785293488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-53e013ba",
+    "num": "dailymirrorlk-53e013ba",
+    "date_str": "2026-07-29",
+    "description": "Company director arrested over alleged housing investment scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Company-director-arrested-over-alleged-housing-investment-scam/108-346873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785297549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-ddebbb89",
+    "num": "dailymirrorlk-ddebbb89",
+    "date_str": "2026-07-29",
+    "description": "Anti-Corruption Unit constable dead in apparent suicide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anti-Corruption-Unit-constable-dead-in-apparent-suicide/108-346874",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785297922.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-06cdd2c8",
+    "num": "dailymirrorlk-06cdd2c8",
+    "date_str": "2026-07-29",
+    "description": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall",
+    "url_metadata": "https://www.dailymirror.lk/international/Japan-quake-toll-rises-to-13-as-rescuers-haul-people-from-collapsed-mall/107-346875",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785298284.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-9afce3f3",
+    "num": "dailymirrorlk-9afce3f3",
+    "date_str": "2026-07-29",
+    "description": "BASL to hold special General Meeting on proposed judicial retirement age increase",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-to-hold-special-General-Meeting-on-proposed-judicial-retirement-age-increase/108-346876",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785299086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-tamilmirrorlk-c217a200",
+    "num": "tamilmirrorlk-c217a200",
+    "date_str": "2026-07-29",
+    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-380590",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785301630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-tamilmirrorlk-eb5780e1",
+    "num": "tamilmirrorlk-eb5780e1",
+    "date_str": "2026-07-29",
+    "description": "\u0ba4\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bbf\u0baf \u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bbf\u0baf-\u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380591",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785301995.0
   }
 ]

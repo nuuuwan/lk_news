@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_08:49:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_10:51:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,384** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,391** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-29-adalk-691c5bb7",
-    "num": "adalk-691c5bb7",
+    "doc_id": "2026-07-29-tamilmirrorlk-eb5780e1",
+    "num": "tamilmirrorlk-eb5780e1",
     "date_str": "2026-07-29",
-    "description": "\u0d87\u0dc3\u0dc5 \u0db4\u0dd4\u0db1\u0dca \u0db4\u0ddc\u0dc4\u0ddd \u0daf\u0dd2\u0db1\u0dba \u0d85\u0daf\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/religion/\u0d87\u0dc3\u0dc5-\u0db4\u0dd4\u0db1\u0dca-\u0db4\u0ddc\u0dc4\u0ddd-\u0daf\u0dd2\u0db1\u0dba-\u0d85\u0daf\u0dba\u0dd2/4-423472",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1785291986.0
+    "description": "\u0ba4\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bbf\u0baf \u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bbf\u0baf-\u0b95\u0bbe\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380591",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785301995.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-29 | `tamilmirrorlk-eb5780e1` | தள்ளாடிய காவடிகாரர்கள் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-eb5780e1)
+- 2026-07-29 | `tamilmirrorlk-c217a200` | பொலிஸ் அதிகாரி சுட்டு மாய்த்துக்கொண்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-c217a200)
+- 2026-07-29 | `dailymirrorlk-9afce3f3` | BASL to hold special General Meeting on proposed judicial retirement age increase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-9afce3f3)
+- 2026-07-29 | `dailymirrorlk-06cdd2c8` | Japan quake toll rises to 13 as rescuers haul people from collapsed mall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-06cdd2c8)
+- 2026-07-29 | `dailymirrorlk-ddebbb89` | Anti-Corruption Unit constable dead in apparent suicide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-ddebbb89)
+- 2026-07-29 | `dailymirrorlk-53e013ba` | Company director arrested over alleged housing investment scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-53e013ba)
+- 2026-07-29 | `adalk-eead816c` | ජපාන භූ කම්පාවෙන් 13ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-eead816c)
 - 2026-07-29 | `adalk-691c5bb7` | ඇසළ පුන් පොහෝ දිනය අදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-691c5bb7)
 - 2026-07-29 | `dailymirrorlk-6e468b3f` | Australia’s Gold Rush, Seales’ heroics, Essex history & UEFA oppose FIFA plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-6e468b3f)
 - 2026-07-29 | `adalk-856afd38` | ඇමෙරිකානු කම්කරු තීරුබදු අඩු කිරීම වාණිජ මණ්ඩලයේ ඇගයුමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-856afd38)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-07-29 | `dailyftlk-8de02a14` | Canada Day Dialogue maps new pathways for Sri Lanka–Canada trade, tourism and investment ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-8de02a14)
 - 2026-07-29 | `dailyftlk-d8cb28d4` | ADB President urges faster action on water security across Asia Pacific | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-d8cb28d4)
 - 2026-07-29 | `dailyftlk-6bb6cd4c` | PickMe joins Dialog Pay merchant ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-6bb6cd4c)
-- 2026-07-29 | `dailyftlk-69af62c8` | Hutch expands sustainability footprint with Kandy Signature+ outlet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-69af62c8)
-- 2026-07-29 | `dailyftlk-0177ca0a` | FLi Super expands islandwide presence with Karandeniya outlet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-0177ca0a)
-- 2026-07-29 | `dailyftlk-0ae650be` | Pathfinder Foundation, Indian High Commission and ICCR hold symposium on strengthening Pali language studies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-0ae650be)
-- 2026-07-29 | `dailyftlk-b4b55c2d` | US launches dengue response initiative in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-b4b55c2d)
-- 2026-07-29 | `dailyftlk-6f65aa4a` | Australia supports disaster preparedness with rescue boats, disaster assessment drones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-6f65aa4a)
-- 2026-07-29 | `dailyftlk-b2b20cb0` | Harsha reflects on Suwa  Seriya’s decade of service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-b2b20cb0)
-- 2026-07-29 | `dailyftlk-5ad8e57e` | Sajith meets outgoing Chinese Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-5ad8e57e)
 
 ---
 
