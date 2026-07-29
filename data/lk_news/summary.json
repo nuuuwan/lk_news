@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-29 04:06:07",
-  "n_docs": 125378,
+  "time_updated": "2026-07-29 06:18:53",
+  "n_docs": 125379,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125378,
+  "n_docs_with_text": 125379,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-29",
-  "dataset_size": 1956078559,
+  "dataset_size": 1956358179,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-29-dailyftlk-feddd155",
-    "num": "dailyftlk-feddd155",
+    "doc_id": "2026-07-29-dailymirrorlk-973e3a25",
+    "num": "dailymirrorlk-973e3a25",
     "date_str": "2026-07-29",
-    "description": "Judicial independence is not about judges\u2014it is about every citizen",
-    "url_metadata": "https://www.ft.lk/columns/Judicial-independence-is-not-about-judgesit-is-about-every-citizen/4-795307",
+    "description": "Ibrahim Zadran\u2019s 95 powers Jaffna Kings to win over Colombo Kaps",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ibrahim-Zadrans-95-powers-Jaffna-Kings-to-win-over-Colombo-Kaps/108-346871",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1785274119.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785284472.0
   }
 }

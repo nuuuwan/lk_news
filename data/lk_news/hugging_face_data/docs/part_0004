@@ -319212,5 +319212,16 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785274119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-973e3a25",
+    "num": "dailymirrorlk-973e3a25",
+    "date_str": "2026-07-29",
+    "description": "Ibrahim Zadran\u2019s 95 powers Jaffna Kings to win over Colombo Kaps",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ibrahim-Zadrans-95-powers-Jaffna-Kings-to-win-over-Colombo-Kaps/108-346871",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785284472.0
   }
 ]
