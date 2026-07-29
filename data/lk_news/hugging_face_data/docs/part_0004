@@ -319622,6 +319622,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-29-tamilmirrorlk-5d3c7d26",
+    "num": "tamilmirrorlk-5d3c7d26",
+    "date_str": "2026-07-29",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0ba4\u0bc7\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b9f\u0bc1: \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd\u0ba4\u0bc7\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf-\u0bae\u0bbe\u0b9f\u0bc1-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1/175-380605",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785318740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-tamilmirrorlk-7f020ce9",
+    "num": "tamilmirrorlk-7f020ce9",
+    "date_str": "2026-07-29",
+    "description": "\u0ba4\u0bbe\u0b9c\u0bcd\u0bae\u0b95\u0bbe\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8 \u0b95\u0bc1\u0ba4\u0bb1\u0bbf\u0baf \u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0b9c\u0bcd\u0bae\u0b95\u0bbe\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8-\u0b95\u0bc1\u0ba4\u0bb1\u0bbf\u0baf-\u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bc1/175-380607",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785319304.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-29-tamilmirrorlk-6f5f4583",
     "num": "tamilmirrorlk-6f5f4583",
     "date_str": "2026-07-29",
@@ -319630,6 +319652,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785319571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-02ad6479",
+    "num": "dailymirrorlk-02ad6479",
+    "date_str": "2026-07-29",
+    "description": "Private hospital fined Rs. 500,000 for overcharging on blood test",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Private-hospital-fined-Rs-500-000-for-overcharging-on-blood-test/108-346883",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785320422.0
   },
   {
     "doc_type": "lk_news",
@@ -319674,5 +319707,27 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785323884.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-5c09ec9e",
+    "num": "dailymirrorlk-5c09ec9e",
+    "date_str": "2026-07-29",
+    "description": "Reclaiming the Republic: Why True Judicial Efficiency Demands Systemic Reform Over Retirement Age Extensions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reclaiming-the-Republic-Why-True-Judicial-Efficiency-Demands-Systemic-Reform-Over-Retirement-Age-Extensions/108-346884",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785325132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-tamilmirrorlk-72ad2129",
+    "num": "tamilmirrorlk-72ad2129",
+    "date_str": "2026-07-29",
+    "description": "\u0b95\u0bbe\u0bb2 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0bbf\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd: \u0b92\u0bb0\u0bc1 \u0b9a\u0bae\u0bc2\u0b95\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b95\u0bbe\u0bb2-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bcd-\u0bb5\u0bb4\u0bbf\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b92\u0bb0\u0bc1-\u0b9a\u0bae\u0bc2\u0b95\u0baa\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8/62-380628",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785329147.0
   }
 ]
