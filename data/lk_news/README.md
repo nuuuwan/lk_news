@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_06:19:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_08:49:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,379** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,384** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-29-dailymirrorlk-973e3a25",
-    "num": "dailymirrorlk-973e3a25",
+    "doc_id": "2026-07-29-adalk-691c5bb7",
+    "num": "adalk-691c5bb7",
     "date_str": "2026-07-29",
-    "description": "Ibrahim Zadran\u2019s 95 powers Jaffna Kings to win over Colombo Kaps",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ibrahim-Zadrans-95-powers-Jaffna-Kings-to-win-over-Colombo-Kaps/108-346871",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785284472.0
+    "description": "\u0d87\u0dc3\u0dc5 \u0db4\u0dd4\u0db1\u0dca \u0db4\u0ddc\u0dc4\u0ddd \u0daf\u0dd2\u0db1\u0dba \u0d85\u0daf\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/religion/\u0d87\u0dc3\u0dc5-\u0db4\u0dd4\u0db1\u0dca-\u0db4\u0ddc\u0dc4\u0ddd-\u0daf\u0dd2\u0db1\u0dba-\u0d85\u0daf\u0dba\u0dd2/4-423472",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785291986.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-29 | `adalk-691c5bb7` | ඇසළ පුන් පොහෝ දිනය අදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-691c5bb7)
+- 2026-07-29 | `dailymirrorlk-6e468b3f` | Australia’s Gold Rush, Seales’ heroics, Essex history & UEFA oppose FIFA plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-6e468b3f)
+- 2026-07-29 | `adalk-856afd38` | ඇමෙරිකානු කම්කරු තීරුබදු අඩු කිරීම වාණිජ මණ්ඩලයේ ඇගයුමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-856afd38)
 - 2026-07-29 | `dailymirrorlk-973e3a25` | Ibrahim Zadran’s 95 powers Jaffna Kings to win over Colombo Kaps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-973e3a25)
 - 2026-07-29 | `dailyftlk-feddd155` | Judicial independence is not about judges—it is about every citizen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-feddd155)
 - 2026-07-29 | `dailyftlk-e1d021dc` | Confronting Sri Lankan drug mafia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-e1d021dc)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-29 | `dailyftlk-6f65aa4a` | Australia supports disaster preparedness with rescue boats, disaster assessment drones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-6f65aa4a)
 - 2026-07-29 | `dailyftlk-b2b20cb0` | Harsha reflects on Suwa  Seriya’s decade of service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-b2b20cb0)
 - 2026-07-29 | `dailyftlk-5ad8e57e` | Sajith meets outgoing Chinese Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-5ad8e57e)
-- 2026-07-29 | `dailymirrorlk-03a66b51` | Sri Lanka’s drug eradication campaign:  From rhetoric to real outcomes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-03a66b51)
-- 2026-07-29 | `dailyftlk-e2750ae3` | SJB MP Chaminda Wijesiri jailed for 18 months over assault on police officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-e2750ae3)
-- 2026-07-29 | `dailyftlk-ce54112b` | Seneesa to represent Sri Lanka at ShakthiSAT International Mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailyftlk-ce54112b)
 
 ---
 

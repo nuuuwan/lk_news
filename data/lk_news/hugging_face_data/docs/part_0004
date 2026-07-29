@@ -318126,6 +318126,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-28-adalk-522d5b88",
+    "num": "adalk-522d5b88",
+    "date_str": "2026-07-28",
+    "description": "\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb CSE Clear \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0db8\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0d9a\u0dbb-CSE-Clear-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba-\u0dc3\u0db8\u0dbb\u0dba\u0dd2/7-423455",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785216373.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-28-adalk-c591694e",
     "num": "adalk-c591694e",
     "date_str": "2026-07-28",
@@ -318651,6 +318662,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785242171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-28-adalk-183a85bf",
+    "num": "adalk-183a85bf",
+    "date_str": "2026-07-28",
+    "description": "\u0d9a\u0dc5\u0dd4 \u0d9c\u0d9f\u0da7 \u0daf\u0dd0\u0dc0\u0dd0\u0db1\u0dca\u0dad \u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db8\u0dd0\u0dab\u0dd2\u0d9a\u0dca \u0d9c\u0dd0\u0dbb\u0dd6 25\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dd4-\u0d9c\u0d9f\u0da7-\u0daf\u0dd0\u0dc0\u0dd0\u0db1\u0dca\u0dad-\u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca-\u0db8\u0dd0\u0dab\u0dd2\u0d9a\u0dca-\u0d9c\u0dd0\u0dbb\u0dd6-25\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423468",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785243202.0
   },
   {
     "doc_type": "lk_news",
@@ -319223,5 +319245,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785284472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-adalk-856afd38",
+    "num": "adalk-856afd38",
+    "date_str": "2026-07-29",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4 \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0d87\u0d9c\u0dba\u0dd4\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/business/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4-\u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4-\u0d85\u0da9\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc0\u0dcf\u0dab\u0dd2\u0da2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda-\u0d87\u0d9c\u0dba\u0dd4\u0db8\u0da7/7-423470",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785287441.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-dailymirrorlk-6e468b3f",
+    "num": "dailymirrorlk-6e468b3f",
+    "date_str": "2026-07-29",
+    "description": "Australia\u2019s Gold Rush, Seales\u2019 heroics, Essex history & UEFA oppose FIFA plan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australias-Gold-Rush-Seales-heroics-Essex-history-UEFA-oppose-FIFA-plan/108-346872",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785288058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-adalk-691c5bb7",
+    "num": "adalk-691c5bb7",
+    "date_str": "2026-07-29",
+    "description": "\u0d87\u0dc3\u0dc5 \u0db4\u0dd4\u0db1\u0dca \u0db4\u0ddc\u0dc4\u0ddd \u0daf\u0dd2\u0db1\u0dba \u0d85\u0daf\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/religion/\u0d87\u0dc3\u0dc5-\u0db4\u0dd4\u0db1\u0dca-\u0db4\u0ddc\u0dc4\u0ddd-\u0daf\u0dd2\u0db1\u0dba-\u0d85\u0daf\u0dba\u0dd2/4-423472",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785291986.0
   }
 ]
