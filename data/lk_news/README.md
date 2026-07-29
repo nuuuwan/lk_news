@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_21:11:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--29_22:55:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,432** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,433** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-29-dailymirrorlk-3dc753d6",
-    "num": "dailymirrorlk-3dc753d6",
+    "doc_id": "2026-07-29-tamilmirrorlk-79e03a01",
+    "num": "tamilmirrorlk-79e03a01",
     "date_str": "2026-07-29",
-    "description": "Palestinian tourist killed in parasailing accident off Bentota",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Palestinian-tourist-killed-in-parasailing-accident-off-Bentota/108-346885",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785337272.0
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0ba4\u0bb0\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd  \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0b95\u0b9f\u0ba9\u0bcd-\u0ba4\u0bb0\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbe\u0ba9-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-380632",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785339176.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-29 | `tamilmirrorlk-79e03a01` | இலங்கையின் கடன் தரவரிசையில்  சிறப்பான முன்னேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-79e03a01)
 - 2026-07-29 | `dailymirrorlk-3dc753d6` | Palestinian tourist killed in parasailing accident off Bentota | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-3dc753d6)
 - 2026-07-29 | `tamilmirrorlk-cc09e0c2` | பாராசூட் கடலில் விழுந்தது: வெளிநாட்டு பெண் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-cc09e0c2)
 - 2026-07-29 | `adalk-84fb183e` | පූර්ණ රුධිර ගණන පරික්ෂණයකට වැඩි මිලක් අය කළ පෞද්ගලික රෝහලකට රු. 500000ක දඩයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-84fb183e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-29 | `adalk-7b43227b` | විනිසුරුවරුන්ගේ විශ්‍රාම වයස වැඩි කිරිමට නීතිඥ සංගමයේ ඒකමතික විරෝධය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-adalk-7b43227b)
 - 2026-07-29 | `tamilmirrorlk-a988e961` | மனைவியுடன் ஆறு குழந்தைகளையும் சுட்டுக் கொன்ற கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-a988e961)
 - 2026-07-29 | `tamilmirrorlk-1c9f8ceb` | நீதிபதிகளின் ஓய்வூதிய வயது நீடிப்பு விவகாரம்:  BASL  கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-tamilmirrorlk-1c9f8ceb)
-- 2026-07-29 | `dailymirrorlk-14406796` | BASL unanimously passes resolution against proposed judges’ retirement age amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-29-dailymirrorlk-14406796)
 
 ---
 
