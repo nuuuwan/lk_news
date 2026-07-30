@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30_22:20:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_00:17:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,568** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,569** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-30-dailymirrorlk-b509b575",
-    "num": "dailymirrorlk-b509b575",
-    "date_str": "2026-07-30",
-    "description": "Colombo High Court drops PTA charges against \u2019Harak Kata\u2019",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-High-Court-drops-PTA-charges-against-Harak-Kata/108-346989",
+    "doc_id": "2026-07-31-dailymirrorlk-924f6bf8",
+    "num": "dailymirrorlk-924f6bf8",
+    "date_str": "2026-07-31",
+    "description": "SLFFA warns logistics industry against misleading \u2018Pay-for-Awards\u2019 schemes",
+    "url_metadata": "https://www.dailymirror.lk/business/SLFFA-warns-logistics-industry-against-misleading-Pay-for-Awards-schemes/215-347005",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785426406.0
+    "time_ut": 1785436255.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-31 | `dailymirrorlk-924f6bf8` | SLFFA warns logistics industry against misleading ‘Pay-for-Awards’ schemes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-924f6bf8)
 - 2026-07-30 | `dailymirrorlk-b509b575` | Colombo High Court drops PTA charges against ’Harak Kata’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-dailymirrorlk-b509b575)
 - 2026-07-30 | `tamilmirrorlk-8da13b09` | ‘சைமா’ சிக்கியதும் தலைமறைவானார் கஞ்சிபானி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-tamilmirrorlk-8da13b09)
 - 2026-07-30 | `dailymirrorlk-8a13bc3c` | Uefa to boycott World Cups if Fifa plans approved | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-dailymirrorlk-8a13bc3c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-30 | `dailymirrorlk-ece84ed1` | Defence Secretary calls for stronger fight against human trafficking and online exploitation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-dailymirrorlk-ece84ed1)
 - 2026-07-30 | `adalk-f31af3c8` | පුද්ගලික ආරක්ෂක ආයතන නියාමනය ගැන සාකච්ඡාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-adalk-f31af3c8)
 - 2026-07-30 | `tamilmirrorlk-a169ff93` | பன்றி காப்பீட்டு மாதம் பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-tamilmirrorlk-a169ff93)
-- 2026-07-30 | `dailymirrorlk-9b9a53ce` | CAA cracks down on sale of non-SLS certified motorcycle helmets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-30-dailymirrorlk-9b9a53ce)
 
 ---
 

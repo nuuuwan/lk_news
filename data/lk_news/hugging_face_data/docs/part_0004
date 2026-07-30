@@ -321302,5 +321302,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785426406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-924f6bf8",
+    "num": "dailymirrorlk-924f6bf8",
+    "date_str": "2026-07-31",
+    "description": "SLFFA warns logistics industry against misleading \u2018Pay-for-Awards\u2019 schemes",
+    "url_metadata": "https://www.dailymirror.lk/business/SLFFA-warns-logistics-industry-against-misleading-Pay-for-Awards-schemes/215-347005",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785436255.0
   }
 ]
