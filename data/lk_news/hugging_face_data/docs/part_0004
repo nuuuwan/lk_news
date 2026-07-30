@@ -321173,6 +321173,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-888e85d8",
+    "num": "adalk-888e85d8",
+    "date_str": "2026-07-30",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc0\u0dd2\u0dc3\u0d82\u0da2\u0db8\u0dca \u0dc4\u0dcf \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0dad\u0dbb\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dc0\u0dd2\u0dc3\u0d82\u0da2\u0db8\u0dca-\u0dc4\u0dcf-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0dad\u0dbb\u0d9c\u0dba\u0d9a\u0dca/11-423503",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785414495.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-adalk-0187d936",
     "num": "adalk-0187d936",
     "date_str": "2026-07-30",
@@ -321247,5 +321258,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785423061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-84b213bd",
+    "num": "tamilmirrorlk-84b213bd",
+    "date_str": "2026-07-30",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd: \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc2\u0bb4\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bc2\u0bb4\u0bbf\u0baf-\u0b9a\u0bbf\u0bb1\u0bc8/175-380705",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785425577.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-8a13bc3c",
+    "num": "dailymirrorlk-8a13bc3c",
+    "date_str": "2026-07-30",
+    "description": "Uefa to boycott World Cups if Fifa plans approved",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Uefa-to-boycott-World-Cups-if-Fifa-plans-approved/108-346988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785425690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-8da13b09",
+    "num": "tamilmirrorlk-8da13b09",
+    "date_str": "2026-07-30",
+    "description": "\u2018\u0b9a\u0bc8\u0bae\u0bbe\u2019 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bbe\u0ba9\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc8\u0bae\u0bbe-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd-\u0b95\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bbe\u0ba9\u0bbf/175-380706",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785426291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-b509b575",
+    "num": "dailymirrorlk-b509b575",
+    "date_str": "2026-07-30",
+    "description": "Colombo High Court drops PTA charges against \u2019Harak Kata\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-High-Court-drops-PTA-charges-against-Harak-Kata/108-346989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785426406.0
   }
 ]
