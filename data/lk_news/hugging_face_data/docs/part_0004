@@ -320744,6 +320744,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-f369c436",
+    "num": "adalk-f369c436",
+    "date_str": "2026-07-30",
+    "description": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423494",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785395740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-c5ae1c58",
+    "num": "adalk-c5ae1c58",
+    "date_str": "2026-07-30",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0db7\u0dd6\u0dad\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0db7\u0dd6\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a\u0da7/11-423495",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785396256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-3bfa2700",
+    "num": "adalk-3bfa2700",
+    "date_str": "2026-07-30",
+    "description": "\u0db1\u0dc0 \u0dc3\u0dd6\u0d9a\u0dbb \u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0dc3\u0dd6\u0d9a\u0dbb-\u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca/11-423496",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785396505.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-dailymirrorlk-b4883add",
     "num": "dailymirrorlk-b4883add",
     "date_str": "2026-07-30",
@@ -320895,5 +320928,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785402540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-7b3b8441",
+    "num": "dailymirrorlk-7b3b8441",
+    "date_str": "2026-07-30",
+    "description": "Court of Appeal fixes beer production petition for October 2",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-of-Appeal-fixes-beer-production-petition-for-October-2/108-346969",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785402687.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-1d2b11e8",
+    "num": "tamilmirrorlk-1d2b11e8",
+    "date_str": "2026-07-30",
+    "description": "\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bae\u0ba9\u0bbf\u0ba4 \u0bae\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd-\u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0bae\u0ba9\u0bbf\u0ba4-\u0bae\u0bb2\u0bae\u0bcd/53-380657",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785403435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-1d78dc8e",
+    "num": "dailymirrorlk-1d78dc8e",
+    "date_str": "2026-07-30",
+    "description": "Jerome Fernando meets followers in Australia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jerome-Fernando-meets-followers-in-Australia/108-346970",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785403473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-1a2ed96f",
+    "num": "dailymirrorlk-1a2ed96f",
+    "date_str": "2026-07-30",
+    "description": "Anglican Church of Sri Lanka opposes move to extend judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anglican-Church-of-Sri-Lanka-opposes-move-to-extend-judges-retirement-age/108-346971",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785405223.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-51136aed",
+    "num": "tamilmirrorlk-51136aed",
+    "date_str": "2026-07-30",
+    "description": "\u0b9c\u0ba9\u0bbe\u0bb8\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b95\u0ba9\u0bae\u0bcd: \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0bb8\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0b95\u0ba9\u0bae\u0bcd-\u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8-\u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bcb\u0bb0\u0bbf-\u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/175-380692",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785405784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-d79b2ed7",
+    "num": "dailymirrorlk-d79b2ed7",
+    "date_str": "2026-07-30",
+    "description": "New Zealand great and IPL coach wins England coaching role",
+    "url_metadata": "https://www.dailymirror.lk/international/New-Zealand-great-and-IPL-coach-wins-England-coaching-role/107-346973",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785406129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-279ba0a1",
+    "num": "tamilmirrorlk-279ba0a1",
+    "date_str": "2026-07-30",
+    "description": "\u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0baf\u0bc7 \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0baf\u0bbf\u0bb0\u0bc8 \u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0baf\u0bc7-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0baf\u0bbf\u0bb0\u0bc8-\u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-380697",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785407610.0
   }
 ]
