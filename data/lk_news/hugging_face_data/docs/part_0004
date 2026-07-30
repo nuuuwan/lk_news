@@ -319817,5 +319817,104 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785339176.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-7398baff",
+    "num": "tamilmirrorlk-7398baff",
+    "date_str": "2026-07-30",
+    "description": "\u2018\u0bb5\u0ba8\u0bcd\u0ba4\u0bc7 \u0bae\u0bbe\u0ba4\u0bb0\u0bae\u0bcd \u0baa\u0bbe\u0b9f\u0bb2\u0bc8 \u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd 3 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0ba8\u0bcd\u0ba4\u0bc7-\u0bae\u0bbe\u0ba4\u0bb0\u0bae\u0bcd-\u0baa\u0bbe\u0b9f\u0bb2\u0bc8-\u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-3-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc8/175-380634",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785368679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-c6a32a28",
+    "num": "dailyftlk-c6a32a28",
+    "date_str": "2026-07-30",
+    "description": "Sri Lanka steps up IP reforms as business, regulators call for stronger protection to boost US trade and investment",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-steps-up-IP-reforms-as-business-regulators-call-for-stronger-protection-to-boost-US-trade-and-investment/34-795348",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-e2b8a3c3",
+    "num": "dailyftlk-e2b8a3c3",
+    "date_str": "2026-07-30",
+    "description": "Cabinet approves Rs. 195.89 m SLTB scrap metal disposal",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-approves-Rs-195-89-m-SLTB-scrap-metal-disposal/34-795349",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-8fb8b4cd",
+    "num": "dailymirrorlk-8fb8b4cd",
+    "date_str": "2026-07-30",
+    "description": "Kamindu guides Kaps to crucial LPL win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kamindu-guides-Kaps-to-crucial-LPL-win/108-346913",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785369589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-4828bb30",
+    "num": "dailyftlk-4828bb30",
+    "date_str": "2026-07-30",
+    "description": "COYLE and Indian Chamber of Commerce sign MoU to strengthen business relations",
+    "url_metadata": "https://www.ft.lk/business/COYLE-and-Indian-Chamber-of-Commerce-sign-MoU-to-strengthen-business-relations/34-795350",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-4f6d7cbd",
+    "num": "dailyftlk-4f6d7cbd",
+    "date_str": "2026-07-30",
+    "description": "BASL meets Justice Minister, seeks meeting with President",
+    "url_metadata": "https://www.ft.lk/news/BASL-meets-Justice-Minister-seeks-meeting-with-President/56-795351",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369768.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-7c6af514",
+    "num": "dailyftlk-7c6af514",
+    "date_str": "2026-07-30",
+    "description": "NPP lawyers back judicial retirement age reforms",
+    "url_metadata": "https://www.ft.lk/news/NPP-lawyers-back-judicial-retirement-age-reforms/56-795352",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-f5546af4",
+    "num": "dailyftlk-f5546af4",
+    "date_str": "2026-07-30",
+    "description": "BASL passes unanimous resolution opposing judges\u2019 retirement age amendment, cites lack of consultation",
+    "url_metadata": "https://www.ft.lk/news/BASL-passes-unanimous-resolution-opposing-judges-retirement-age-amendment-cites-lack-of-consultation/56-795353",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-f1ebf032",
+    "num": "tamilmirrorlk-f1ebf032",
+    "date_str": "2026-07-30",
+    "description": "\u0b9a\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb5\u0bb0\u0bcd-\u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-380635",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785370582.0
   }
 ]
