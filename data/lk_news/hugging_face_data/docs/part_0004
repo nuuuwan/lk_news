@@ -319270,6 +319270,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-29-adalk-4499b163",
+    "num": "adalk-4499b163",
+    "date_str": "2026-07-29",
+    "description": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd0\u0dbd\u0dd2\u0dc3\u0dd1\u0dba \u0db4\u0dbb\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dba \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 Eco Spindles \u0dc4\u0dcf Elephant House",
+    "url_metadata": "https://www.ada.lk/business/\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd0\u0dbd\u0dd2\u0dc3\u0dd1\u0dba-\u0db4\u0dbb\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dba-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-Eco-Spindles-\u0dc4\u0dcf-Elephant-House/7-423471",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785289012.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-29-adalk-691c5bb7",
     "num": "adalk-691c5bb7",
     "date_str": "2026-07-29",
@@ -319787,6 +319798,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-29-adalk-af3b2c9a",
+    "num": "adalk-af3b2c9a",
+    "date_str": "2026-07-29",
+    "description": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd \u0db6\u0dc3\u0dca 104 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0db6\u0dc3\u0dca-104-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7/10-423485",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785335460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-29-tamilmirrorlk-cc09e0c2",
     "num": "tamilmirrorlk-cc09e0c2",
     "date_str": "2026-07-29",
@@ -319820,6 +319842,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-76bdecb1",
+    "num": "dailyftlk-76bdecb1",
+    "date_str": "2026-07-30",
+    "description": "Judicial independence under threat",
+    "url_metadata": "https://www.ft.lk/columns/Judicial-independence-under-threat/4-795338",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785366324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-45c3fdbd",
+    "num": "dailyftlk-45c3fdbd",
+    "date_str": "2026-07-30",
+    "description": "Sri Lanka\u2019s direct\u2013indirect tax imbalance:  Is revenue success coming at expense of tax equity?",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-directindirect-tax-imbalance-Is-revenue-success-coming-at-expense-of-tax-equity/4-795339",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785366810.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-a10a852c",
+    "num": "dailyftlk-a10a852c",
+    "date_str": "2026-07-30",
+    "description": "Sri Lanka\u2019s innovation gap is no longer about ideas; it is about execution",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-innovation-gap-is-no-longer-about-ideas-it-is-about-execution/14-795340",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785367368.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-b1cc99c3",
+    "num": "dailyftlk-b1cc99c3",
+    "date_str": "2026-07-30",
+    "description": "Historic moment of Opposition convergence: Strategy for consolidation",
+    "url_metadata": "https://www.ft.lk/columns/Historic-moment-of-Opposition-convergence-Strategy-for-consolidation/4-795341",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785367550.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-tamilmirrorlk-7398baff",
     "num": "tamilmirrorlk-7398baff",
     "date_str": "2026-07-30",
@@ -319828,6 +319894,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785368679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailyftlk-77d2c792",
+    "num": "dailyftlk-77d2c792",
+    "date_str": "2026-07-30",
+    "description": "UK\u00a0launches \u00a3\u00a02.34\u00a0m\u00a0\u2018Resilient Waves\u2019\u00a0 to build climate resilient ecosystems, inclusive fishing economies",
+    "url_metadata": "https://www.ft.lk/business/UKlaunches-2-34m-Resilient-Waves-to-build-climate-resilient-ecosystems-inclusive-fishing-economies/34-795347",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785369203.0
   },
   {
     "doc_type": "lk_news",
@@ -319916,5 +319993,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785370582.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-2ca17f7d",
+    "num": "tamilmirrorlk-2ca17f7d",
+    "date_str": "2026-07-30",
+    "description": "\u2019\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf-\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/50-380636",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785373107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-70e680e8",
+    "num": "adalk-70e680e8",
+    "date_str": "2026-07-30",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dab\u0dba \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba",
+    "url_metadata": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba-\u0dc3\u0db3\u0dc4\u0dcf-\u0dab\u0dba-\u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba/7-423486",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785375128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-4092c0a1",
+    "num": "tamilmirrorlk-4092c0a1",
+    "date_str": "2026-07-30",
+    "description": "3 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 4 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-4-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8/175-380637",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785376487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-5c3e257b",
+    "num": "adalk-5c3e257b",
+    "date_str": "2026-07-30",
+    "description": "\u0d9a\u0daf\u0dd2\u0dbb\u0dcf\u0db1 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0da7 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0daf\u0dd2\u0dbb\u0dcf\u0db1-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0da7-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423488",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785376931.0
   }
 ]
