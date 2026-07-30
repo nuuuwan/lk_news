@@ -1,0 +1,19 @@
+Australia sues Telegram over failure to remove terrorist content
+
+BNO NEWS - Australia’s online safety regulator has sued Telegram, alleging that the messaging platform failed to detect and remove terrorist executions, mass shootings and other unlawful material.
+
+The eSafety Commissioner filed civil penalty proceedings in Federal Court on Wednesday following a year-long investigation. Telegram could face penalties of up to 54.6 million Australian dollars (about 38 million USD) if the court finds that it violated the country’s online safety laws.
+
+The regulator alleges that publicly posted videos of terrorist executions remained accessible for up to three weeks after Australian users reported them to Telegram.
+
+Videos of the 2019 Christchurch mosque shootings in New Zealand and the 2022 Buffalo supermarket shooting in New York were also uploaded to Telegram and remained available for nearly three months before being removed, according to the regulator.
+
+Telegram is further accused of failing to remove accounts, channels and groups that distributed unlawful material, allowing the content to be uploaded again. The company also allegedly failed to effectively deter its distribution or inform users about the outcome of their complaints.
+
+The regulator said Telegram’s terms of service did not prohibit users from accessing or distributing pro-terror material across all parts of the platform.
+
+“This case concerns content linked to some of the most notorious acts of known extremist violence in recent history,” eSafety Commissioner Julie Inman Grant said. “We allege that this content remained accessible on the service long after Telegram had been put on notice.”
+
+Inman Grant said the spread of extremist content risks normalizing violence and facilitating the recruitment and radicalization of vulnerable people. She noted that Telegram has more than 1 billion users worldwide and is visited by Australians an average of 1.5 million times each month.
+
+Australian law requires online services to take steps to prevent, detect, deter and disrupt unlawful material, including child sexual abuse content, terrorist propaganda and extreme violence. The regulator is asking the court to impose a financial penalty and issue other orders against Telegram.

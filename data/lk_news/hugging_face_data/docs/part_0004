@@ -320315,6 +320315,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-56f0e34a",
+    "num": "adalk-56f0e34a",
+    "date_str": "2026-07-30",
+    "description": "\u0dc0\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba \u0d9a\u0dd8\u0dc2\u0dd2 \u0d87\u0db8\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a-\u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba-\u0d9a\u0dd8\u0dc2\u0dd2-\u0d87\u0db8\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-423490",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785378037.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-d7a2779d",
+    "num": "adalk-d7a2779d",
+    "date_str": "2026-07-30",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0d85\u0dad\u0dbb\u0dd2\u0db1\u0dca \u0db4\u0dc5\u0db8\u0dd4 \u0dad\u0dd0\u0db1 \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2-\u0d85\u0dad\u0dbb\u0dd2\u0db1\u0dca-\u0db4\u0dc5\u0db8\u0dd4-\u0dad\u0dd0\u0db1-\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-423491",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785378429.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-tamilmirrorlk-b89e8b58",
     "num": "tamilmirrorlk-b89e8b58",
     "date_str": "2026-07-30",
@@ -320425,6 +320447,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-5b91a7c7",
+    "num": "dailymirrorlk-5b91a7c7",
+    "date_str": "2026-07-30",
+    "description": "Ministry directs CAA to intensify action against overpriced blood tests at private hospitals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ministry-directs-CAA-to-intensify-action-against-overpriced-blood-tests-at-private-hospitals/108-346925",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785386334.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-dailymirrorlk-7ab40ae4",
     "num": "dailymirrorlk-7ab40ae4",
     "date_str": "2026-07-30",
@@ -320444,6 +320477,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785387013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-37177a49",
+    "num": "dailymirrorlk-37177a49",
+    "date_str": "2026-07-30",
+    "description": "Don\u2019t put judges in a difficult position: Opposition MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dont-put-judges-in-a-difficult-position-Opposition-MP/108-346935",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785387314.0
   },
   {
     "doc_type": "lk_news",
@@ -320488,5 +320532,192 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785387954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-e6a1a3f4",
+    "num": "dailymirrorlk-e6a1a3f4",
+    "date_str": "2026-07-30",
+    "description": "Glasgow Commonwealth Games Kalinga Kumarage qualifies for 400m  Semi-finals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Glasgow-Commonwealth-Games-Kalinga-Kumarage-qualifies-for-400m-Semi-finals/108-346941",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785388343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-ba25a2ee",
+    "num": "tamilmirrorlk-ba25a2ee",
+    "date_str": "2026-07-30",
+    "description": "\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1/46-380645",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785388595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-a7ca4202",
+    "num": "dailymirrorlk-a7ca4202",
+    "date_str": "2026-07-30",
+    "description": "Red warning issued for strong winds, rough seas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Red-warning-issued-for-strong-winds-rough-seas/108-346947",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785389563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-3163b63d",
+    "num": "dailymirrorlk-3163b63d",
+    "date_str": "2026-07-30",
+    "description": "President attends Kataragama Esala Perahera",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/President-attends-Kataragama-Esala-Perahera/110-346949",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785390104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-812681a6",
+    "num": "dailymirrorlk-812681a6",
+    "date_str": "2026-07-30",
+    "description": "Singapore fines French teen $465 for viral straw-licking stunt",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Singapore-fines-French-teen-465-for-viral-straw-licking-stunt/108-346951",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785390218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-2b5a3f02",
+    "num": "dailymirrorlk-2b5a3f02",
+    "date_str": "2026-07-30",
+    "description": "Two killed after cab crashes against tree in Vavuniya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-killed-after-cab-crashes-against-tree-in-Vavuniya/108-346953",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785390728.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-80dcf842",
+    "num": "tamilmirrorlk-80dcf842",
+    "date_str": "2026-07-30",
+    "description": "\u0b89\u0bb1\u0bbf\u0b9e\u0bcd\u0b9a\u0bc1 \u0b95\u0bc1\u0bb4\u0bb2\u0bc8 \u0b8e\u0b9a\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 $600 \u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb1\u0bbf\u0b9e\u0bcd\u0b9a\u0bc1-\u0b95\u0bc1\u0bb4\u0bb2\u0bc8-\u0b8e\u0b9a\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb3\u0bc8\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-600-\u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd/50-380647",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785390753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-0b14a5a0",
+    "num": "tamilmirrorlk-0b14a5a0",
+    "date_str": "2026-07-30",
+    "description": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b95\u0bc6\u0baa\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf-\u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0b95\u0bc6\u0baa\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bb2\u0bbf/175-380648",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785391795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-65cff104",
+    "num": "tamilmirrorlk-65cff104",
+    "date_str": "2026-07-30",
+    "description": "\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/50-380649",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785392246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-b1d32210",
+    "num": "dailymirrorlk-b1d32210",
+    "date_str": "2026-07-30",
+    "description": "Ranil visits Bhutan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-visits-Bhutan/108-346954",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785392598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-bbbca232",
+    "num": "dailymirrorlk-bbbca232",
+    "date_str": "2026-07-30",
+    "description": "Australia sues Telegram over failure to remove terrorist content",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-sues-Telegram-over-failure-to-remove-terrorist-content/108-346955",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785392781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-17eef332",
+    "num": "tamilmirrorlk-17eef332",
+    "date_str": "2026-07-30",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1: \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0ba8\u0bbf\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380650",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785393164.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-96f7b8f2",
+    "num": "dailymirrorlk-96f7b8f2",
+    "date_str": "2026-07-30",
+    "description": "Minister assures uninterrupted water supply for next three months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-assures-uninterrupted-water-supply-for-next-three-months/108-346956",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785393279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-3d15888a",
+    "num": "tamilmirrorlk-3d15888a",
+    "date_str": "2026-07-30",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd\u0baa\u0bb2\u0bbf; \u0bb2\u0bca\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd\u0baa\u0bb2\u0bbf-\u0bb2\u0bca\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bc0-\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380651",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785393463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-30c7c827",
+    "num": "dailymirrorlk-30c7c827",
+    "date_str": "2026-07-30",
+    "description": "Rahane calls time on cricket",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rahane-calls-time-on-cricket/108-346957",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785394021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-dailymirrorlk-e0ce4de1",
+    "num": "dailymirrorlk-e0ce4de1",
+    "date_str": "2026-07-30",
+    "description": "Dengue cases surpass 84,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-surpass-84-000/108-346958",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785394148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-tamilmirrorlk-7b0a80b7",
+    "num": "tamilmirrorlk-7b0a80b7",
+    "date_str": "2026-07-30",
+    "description": "\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0baa\u0baf\u0ba3\u0bae\u0bcd/175-380652",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785394318.0
   }
 ]
