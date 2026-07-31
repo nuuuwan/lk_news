@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_22:20:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_00:19:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,699** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,701** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-31-adalk-260bf25e",
-    "num": "adalk-260bf25e",
+    "doc_id": "2026-07-31-dailymirrorlk-9e7bb1db",
+    "num": "dailymirrorlk-9e7bb1db",
     "date_str": "2026-07-31",
-    "description": "\u0dc4\u0dda\u0db8\u0dc3\u0dd2\u0dbb\u0dd2 \u0dc4\u0dcf \u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca \u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dda\u0db8\u0dc3\u0dd2\u0dbb\u0dd2-\u0dc4\u0dcf-\u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca-\u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7/11-423530",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1785515912.0
+    "description": "One injured in shooting near Mirissa Junction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-injured-in-shooting-near-Mirissa-Junction/108-347115",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518559.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-31 | `dailymirrorlk-9e7bb1db` | One injured in shooting near Mirissa Junction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-9e7bb1db)
 - 2026-07-31 | `adalk-260bf25e` | හේමසිරි හා පූජිත් පෝරකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-260bf25e)
 - 2026-07-31 | `dailymirrorlk-d9a2df40` | Ex-Police Chief, Defence Secretary taken to prison after death sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-d9a2df40)
 - 2026-07-31 | `dailymirrorlk-71d8ffd0` | At least 25 people killed in Algeria bus crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-71d8ffd0)
@@ -54,13 +55,12 @@ A collection of lk_news documents.
 - 2026-07-31 | `tamilmirrorlk-6820e0f2` | முன்னாள் ஐ.ஜி.பி பூஜிதவுக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-6820e0f2)
 - 2026-07-31 | `adalk-bddf73a1` | හිටපු පොලිස්පති පූජිත් ජයසුන්දරට මරණ දඩුවම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-bddf73a1)
 - 2026-07-31 | `dailymirrorlk-7ccf64a0` | Former IGP Pujith Jayasundara sentenced to death over Easter Sunday attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-7ccf64a0)
+- 2026-07-31 | `adalk-f4be0764` | සුවසැරියට දස වසරයි, ඇමතුම් මිලියන 10කට ප්‍රතිචාර දක්වලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-f4be0764)
 - 2026-07-31 | `dailymirrorlk-c23b57f5` | French Bar Council backs BASL’s concerns over proposed judicial retirement age increase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-c23b57f5)
 - 2026-07-31 | `tamilmirrorlk-756bf974` | கண்டியில் மண்மேடு சரிந்ததில் ஒருவர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-756bf974)
 - 2026-07-31 | `tamilmirrorlk-af385c80` | எரிபொருள் விலைகளில் மாற்றமில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-af385c80)
 - 2026-07-31 | `adalk-42eb9848` | ඉන්ධන මිලේ වෙනසක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-42eb9848)
 - 2026-07-31 | `dailymirrorlk-604f9f51` | No fuel price revision for August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-604f9f51)
-- 2026-07-31 | `adalk-686b01f8` | වැස්ස නැතිව ගලෙන්ඳුනවැව ජනතාව පීඩාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-686b01f8)
-- 2026-07-31 | `dailymirrorlk-6806eb0f` | Senior Infantino adviser quits as AFC opposes plans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-6806eb0f)
 
 ---
 
