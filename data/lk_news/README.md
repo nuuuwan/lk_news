@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_10:56:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--31_12:47:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,640** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-31-dailymirrorlk-9ac7d598",
-    "num": "dailymirrorlk-9ac7d598",
+    "doc_id": "2026-07-31-dailymirrorlk-fd5f3efb",
+    "num": "dailymirrorlk-fd5f3efb",
     "date_str": "2026-07-31",
-    "description": "At least 32 killed in Pakistan coal mine explosion, 10 remain trapped; labour union blames negligence",
-    "url_metadata": "https://www.dailymirror.lk/international/At-least-32-killed-in-Pakistan-coal-mine-explosion-10-remain-trapped-labour-union-blames-negligence/107-347038",
+    "description": "Cyanide in tomato pesticide killed 15 elephants in Kenya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyanide-in-tomato-pesticide-killed-15-elephants-in-Kenya/108-347063",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785474864.0
+    "time_ut": 1785481464.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-31 | `dailymirrorlk-fd5f3efb` | Cyanide in tomato pesticide killed 15 elephants in Kenya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-fd5f3efb)
+- 2026-07-31 | `adalk-e2665416` | කන්ටේනර් රථයට ගිනි තැබූ තිදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-e2665416)
+- 2026-07-31 | `dailymirrorlk-ab27d1cf` | Strong winds, heavy rains in several areas today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-ab27d1cf)
+- 2026-07-31 | `tamilmirrorlk-de5c0f0f` | இந்த சிந்தனை சித்திரம் என்ன சொல்கிறது... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-de5c0f0f)
+- 2026-07-31 | `dailymirrorlk-51610084` | Sri Lanka’s Credit Rating: Progress Worth Recognizing, But Growth Requires Much More - Former Diplomat Kananathan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-51610084)
+- 2026-07-31 | `tamilmirrorlk-f9aa70c5` | பேருந்தை ரகசியமாக வீடியோ எடுத்த தாய்க்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-f9aa70c5)
+- 2026-07-31 | `tamilmirrorlk-2118b8d9` | இந்தியாவிற்கு கடத்தவிருந்த 4,000 கடல் சங்குகள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-2118b8d9)
+- 2026-07-31 | `tamilmirrorlk-c2fc7042` | நிலவும் வறட்சியால் காய்கறித் தட்டுப்பாடு அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-c2fc7042)
+- 2026-07-31 | `tamilmirrorlk-2ba54752` | மீன்பிடி பூனை விபத்தில் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-2ba54752)
+- 2026-07-31 | `tamilmirrorlk-cfbb4ef8` | நடமாடும் சிறுத்தைகளால் ஆபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-cfbb4ef8)
+- 2026-07-31 | `dailymirrorlk-62df701c` | One killed, five injured in wasp attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-62df701c)
+- 2026-07-31 | `tamilmirrorlk-0303cf58` | எல் நினோவுக்கு முகங்கொடுக்க தயாராக வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-0303cf58)
+- 2026-07-31 | `tamilmirrorlk-c9ec2595` | நிலக்கரி சுரங்க வெடி விபத்தில் 32 பலி பலி: 10 பேருக்கு ஆபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-c9ec2595)
+- 2026-07-31 | `dailymirrorlk-2d084157` | Nation can only progress with young generation equipped with skills, vision: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-2d084157)
+- 2026-07-31 | `tamilmirrorlk-be6d9b75` | லிந்துலையில் குளவி கொட்டியதில் ஒருவர் பலி; 10 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-be6d9b75)
 - 2026-07-31 | `dailymirrorlk-9ac7d598` | At least 32 killed in Pakistan coal mine explosion, 10 remain trapped; labour union blames negligence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-9ac7d598)
 - 2026-07-31 | `dailymirrorlk-f3dd27de` | Nine dead as thousands of migrants enter Spanish enclave from Morocco | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-f3dd27de)
 - 2026-07-31 | `dailymirrorlk-b6cd523c` | El Niño threat grows as Sri Lanka braces for climate risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-b6cd523c)
 - 2026-07-31 | `dailymirrorlk-d8fc1c51` | Wilpattu National Park affected by drought | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-d8fc1c51)
 - 2026-07-31 | `dailymirrorlk-5e11833f` | 26 retired police dogs to be auctioned in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-5e11833f)
-- 2026-07-31 | `dailymirrorlk-914d48db` | Leopards roam Peradeniya Uni; Students urged to stay alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-914d48db)
-- 2026-07-31 | `dailymirrorlk-44e4e882` | Govt. to permit private sector to purchase dengue vaccine initially: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-44e4e882)
-- 2026-07-31 | `dailymirrorlk-2be2ce23` | Extending judges’ retirement age affecting judicial independence a false argument: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-2be2ce23)
-- 2026-07-31 | `dailymirrorlk-d5fed24a` | Sri Lanka to face vegetable shortage? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-d5fed24a)
-- 2026-07-31 | `dailymirrorlk-1a9ad637` | RDA tender process under fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-1a9ad637)
-- 2026-07-31 | `dailymirrorlk-c9615130` | Trump says ’Board of Peace’ reaches Gaza disarmament deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-c9615130)
-- 2026-07-31 | `dailymirrorlk-8bb75950` | Verdict due on Hemasiri, Pujith over Easter Sunday attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-8bb75950)
-- 2026-07-31 | `dailymirrorlk-4badd333` | World-famous climber Nirmal Purja among 10 missing after avalanche atop Pakistan peak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-4badd333)
-- 2026-07-31 | `tamilmirrorlk-e6195e08` | புதிய ’செல்ஃபி வீடியோவில்’ பிரதமர் மோடி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-e6195e08)
-- 2026-07-31 | `tamilmirrorlk-238f1383` | ’கெஷ்ம் மரணங்களுக்கு அமெரிக்கா விலை செலுத்திவேண்டியிருக்கும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-238f1383)
-- 2026-07-31 | `tamilmirrorlk-1eaaf370` | அமெரிக்க இலக்குகள் மீது ஈரான் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-1eaaf370)
-- 2026-07-31 | `adalk-05ddf4d4` | අද මිලි මිටර් 100ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-05ddf4d4)
-- 2026-07-31 | `dailyftlk-0283dcbb` | Infinite Grace Foundation and Cha’s Organics forge long-term social impact partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailyftlk-0283dcbb)
-- 2026-07-31 | `dailyftlk-c4a3a934` | Premadasa seeks continued US backing for Sri Lanka’s economic recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailyftlk-c4a3a934)
-- 2026-07-31 | `dailyftlk-878e4f3f` | Govt. mulls 2027 Budget funding to revive stalled housing projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailyftlk-878e4f3f)
 
 ---
 
