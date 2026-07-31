@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-31 12:46:22",
-  "n_docs": 125657,
+  "time_updated": "2026-07-31 14:59:31",
+  "n_docs": 125663,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125657,
+  "n_docs_with_text": 125663,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-31",
-  "dataset_size": 1960572793,
+  "dataset_size": 1960760726,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-31-dailymirrorlk-fd5f3efb",
-    "num": "dailymirrorlk-fd5f3efb",
+    "doc_id": "2026-07-31-tamilmirrorlk-e8b219ce",
+    "num": "tamilmirrorlk-e8b219ce",
     "date_str": "2026-07-31",
-    "description": "Cyanide in tomato pesticide killed 15 elephants in Kenya",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyanide-in-tomato-pesticide-killed-15-elephants-in-Kenya/108-347063",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785481464.0
+    "description": "\u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bcd\u0b9a\u0b95\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bc2\u0b95-\u0b8a\u0b9f\u0b95-\u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd-\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bcd\u0b9a\u0b95\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380724",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785487457.0
   }
 }
