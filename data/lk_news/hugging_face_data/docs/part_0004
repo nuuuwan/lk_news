@@ -322537,6 +322537,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-686b01f8",
+    "num": "adalk-686b01f8",
+    "date_str": "2026-07-31",
+    "description": "\u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d9c\u0dbd\u0dd9\u0db1\u0dca\u0db3\u0dd4\u0db1\u0dc0\u0dd0\u0dc0 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d9c\u0dbd\u0dd9\u0db1\u0dca\u0db3\u0dd4\u0db1\u0dc0\u0dd0\u0dc0-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7/11-423523",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785495300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-604f9f51",
     "num": "dailymirrorlk-604f9f51",
     "date_str": "2026-07-31",
@@ -322677,5 +322688,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785508832.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-18aff1c6",
+    "num": "dailymirrorlk-18aff1c6",
+    "date_str": "2026-07-31",
+    "description": "Govt moves to confiscate illegal assets worth Rs. 3.8 bn seized since 2024",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-moves-to-confiscate-illegal-assets-worth-Rs-3-8-bn-seized-since-2024/108-347087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785510205.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-fd6ca8b8",
+    "num": "dailymirrorlk-fd6ca8b8",
+    "date_str": "2026-07-31",
+    "description": "Sri Lanka reviews roadmap to achieve US$5 bn digital exports by 2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reviews-roadmap-to-achieve-US-5-bn-digital-exports-by-2030/108-347090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785510803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-71d8ffd0",
+    "num": "dailymirrorlk-71d8ffd0",
+    "date_str": "2026-07-31",
+    "description": "At least 25 people killed in Algeria bus crash",
+    "url_metadata": "https://www.dailymirror.lk/international/At-least-25-people-killed-in-Algeria-bus-crash/107-347091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785511471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d9a2df40",
+    "num": "dailymirrorlk-d9a2df40",
+    "date_str": "2026-07-31",
+    "description": "Ex-Police Chief, Defence Secretary taken to prison after death sentence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Police-Chief-Defence-Secretary-taken-to-prison-after-death-sentence/108-347093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785515414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-260bf25e",
+    "num": "adalk-260bf25e",
+    "date_str": "2026-07-31",
+    "description": "\u0dc4\u0dda\u0db8\u0dc3\u0dd2\u0dbb\u0dd2 \u0dc4\u0dcf \u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca \u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dda\u0db8\u0dc3\u0dd2\u0dbb\u0dd2-\u0dc4\u0dcf-\u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca-\u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7/11-423530",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785515912.0
   }
 ]
