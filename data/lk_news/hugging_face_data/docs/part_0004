@@ -322515,6 +322515,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-c97d1d1a",
+    "num": "adalk-c97d1d1a",
+    "date_str": "2026-07-31",
+    "description": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200\u0d9a \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-200\u0d9a-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0d9a\u0dca/11-423522",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785493812.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-6806eb0f",
     "num": "dailymirrorlk-6806eb0f",
     "date_str": "2026-07-31",
@@ -322592,6 +322603,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-bddf73a1",
+    "num": "adalk-bddf73a1",
+    "date_str": "2026-07-31",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2 \u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca \u0da2\u0dba\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb\u0da7 \u0db8\u0dbb\u0dab \u0daf\u0da9\u0dd4\u0dc0\u0db8",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2-\u0db4\u0dd6\u0da2\u0dd2\u0dad\u0dca-\u0da2\u0dba\u0dc3\u0dd4\u0db1\u0dca\u0daf\u0dbb\u0da7-\u0db8\u0dbb\u0dab-\u0daf\u0da9\u0dd4\u0dc0\u0db8/11-423529",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785501046.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-tamilmirrorlk-6820e0f2",
     "num": "tamilmirrorlk-6820e0f2",
     "date_str": "2026-07-31",
@@ -322611,5 +322633,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785502232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-e6372850",
+    "num": "dailymirrorlk-e6372850",
+    "date_str": "2026-07-31",
+    "description": "Heat advisory issued as public urged to stay hydrated",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-advisory-issued-as-public-urged-to-stay-hydrated/108-347080",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785503793.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-9c15cbbb",
+    "num": "dailymirrorlk-9c15cbbb",
+    "date_str": "2026-07-31",
+    "description": "High-value crossings lift turnover as CSE ends week on a soft note",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-value-crossings-lift-turnover-as-CSE-ends-week-on-a-soft-note/108-347081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785504789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-444815be",
+    "num": "dailymirrorlk-444815be",
+    "date_str": "2026-07-31",
+    "description": "Former Defence Secretary Hemasiri Fernando sentenced to death over Easter Sunday attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Defence-Secretary-Hemasiri-Fernando-sentenced-to-death-over-Easter-Sunday-attacks/108-347082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785507043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-f7f34d6f",
+    "num": "tamilmirrorlk-f7f34d6f",
+    "date_str": "2026-07-31",
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bb9\u0bc7\u0bae\u0b9a\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0ba3 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0bb9\u0bc7\u0bae\u0b9a\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0ba3-\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8/175-380731",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785508832.0
   }
 ]
