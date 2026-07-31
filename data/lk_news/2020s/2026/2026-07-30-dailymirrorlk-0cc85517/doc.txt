@@ -1,0 +1,27 @@
+ASUS brings on-device AI to  Sri Lanka’s corporate laptop market
+
+From left: Dinesh, Rex and Medanka Mapalagama - Pix by Kithsiri de Mel
+
+ASUS yesterday expanded its business laptop portfolio in Sri Lanka, launching its premium ExpertBook Ultra alongside new B and P series models as companies increasingly look to equip employees with artificial intelligence-enabled devices.
+
+The line-up includes the ExpertBook Ultra and the ExpertBook P5, B5, P3 and B3 models. ASUS is positioning the devices for organisations ranging from growing businesses to large enterprises, with a focus on portability, on-device AI processing, security and after-sales support.
+
+At the top of the range, the 14-inch ExpertBook Ultra is powered by up to an Intel Core Ultra X9 Series 3 processor and features a neural processing unit capable of delivering up to 50 trillion operations per second, or TOPS. This allows certain AI workloads to be processed directly on the device, reducing reliance on cloud-based computing.
+
+Starting at 0.99 kilograms and measuring 10.9 millimetres in thickness, the laptop is aimed primarily at senior executives and professionals who travel frequently. Its chassis is made from a magnesium-aluminium alloy used in aerospace and motor-racing applications, while ASUS says the device meets military-grade durability standards.
+
+The ExpertBook Ultra also features a 14-inch, 3K touch screen OLED display with a 120Hz refresh rate and brightness of up to 1,400 nits. A six-speaker Dolby Atmos system is designed to support virtual meetings, presentations and multimedia use.
+
+Its AI-supported features include background-noise cancellation, camera enhancements and ASUS ExpertMeet, which is intended to improve online collaboration. Security features include biometric authentication, Microsoft Pluton integration and hardware-level protection for the laptop’s basic input-output system.
+
+The device carries a 70Wh battery, which ASUS says can provide up to 26 hours of local video playback. Fast charging can restore 50 percent of the battery in 30 minutes, although real-world battery performance will depend on usage and device settings.
+
+Alongside the flagship model, the expanded B and P series will be offered in 14-inch and 16-inch configurations. Depending on the model, buyers can select Intel Core Ultra Series 3 processors, up to 64GB of DDR5 memory and dual solid-state drive storage.
+
+The broader range allows companies to deploy different specifications across their workforce while maintaining a common set of security, connectivity and device-management features. This could appeal to businesses seeking to introduce AI-capable computers without purchasing flagship devices for every employee.
+
+“As Sri Lanka accelerates into an AI-first era, we are proud to deliver a complete ‘Power of Choice’ across our new lineup powered by Intel Core Ultra Series 3 processors,” ASUS Asia-Pacific Head of Commercial PCs Rex Lee said.
+
+He said the company aimed to provide Sri Lankan organisations with devices capable of supporting secure, on-device AI collaboration while combining performance with enterprise security and local support.
+
+ASUS is also attempting to differentiate the range through its commercial service package. Business customers receive a dedicated helpline operating from 9 a.m. to 6 p.m. from Monday to Saturday, onsite support and a standard three-year international warranty covering 90 countries.
