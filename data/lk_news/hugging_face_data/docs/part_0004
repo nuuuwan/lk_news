@@ -322757,6 +322757,182 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-9adb582f",
+    "num": "dailymirrorlk-9adb582f",
+    "date_str": "2026-07-31",
+    "description": "What\u2019s  brewing at the Bar?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Whats-brewing-at-the-Bar/172-347095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785516711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-e643a44e",
+    "num": "dailymirrorlk-e643a44e",
+    "date_str": "2026-07-31",
+    "description": "Betel Chew Ban Raises Serious Questions",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Betel-Chew-Ban-Raises-Serious-Questions/172-347096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785516776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-3c6fa930",
+    "num": "dailymirrorlk-3c6fa930",
+    "date_str": "2026-07-31",
+    "description": "Advancing Digital inclusion in Sri Lanka From Digital Divide to Digital Opportunity",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Advancing-Digital-inclusion-in-Sri-Lanka-From-Digital-Divide-to-Digital-Opportunity/172-347097",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785516848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-a8d4bd0f",
+    "num": "dailymirrorlk-a8d4bd0f",
+    "date_str": "2026-07-31",
+    "description": "Market ends steady as buying interest persists",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Market-ends-steady-as-buying-interest-persists/273-347102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-421ed8bb",
+    "num": "dailymirrorlk-421ed8bb",
+    "date_str": "2026-07-31",
+    "description": "Week ends in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-red/273-347103",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-20d7d26c",
+    "num": "dailymirrorlk-20d7d26c",
+    "date_str": "2026-07-31",
+    "description": "Gateway College and Prime Lands to establish int\u2019l school in Malabe",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Gateway-College-and-Prime-Lands-to-establish-intl-school-in-Malabe/273-347104",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517514.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-29995b1e",
+    "num": "dailymirrorlk-29995b1e",
+    "date_str": "2026-07-31",
+    "description": "Sri Lankan scientist develops a powerful gemological microscope",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-scientist-develops-a-powerful-gemological-microscope/273-347105",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-dff49387",
+    "num": "dailymirrorlk-dff49387",
+    "date_str": "2026-07-31",
+    "description": "Smart Quest enters Maldives as part of regional expansion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Smart-Quest-enters-Maldives-as-part-of-regional-expansion/273-347106",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-b68197c5",
+    "num": "dailymirrorlk-b68197c5",
+    "date_str": "2026-07-31",
+    "description": "People\u2019s Bank unveils \u2018A Gallery in the Bank\u2019 documentary",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-unveils-A-Gallery-in-the-Bank-documentary/273-347107",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-b51ba283",
+    "num": "dailymirrorlk-b51ba283",
+    "date_str": "2026-07-31",
+    "description": "City of Dreams celebrates one year of redefining Colombo\u2019s hospitality and entertainment landscape",
+    "url_metadata": "https://www.dailymirror.lk/business-news/City-of-Dreams-celebrates-one-year-of-redefining-Colombos-hospitality-and-entertainment-landscape/273-347108",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785517872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-751bdd61",
+    "num": "dailymirrorlk-751bdd61",
+    "date_str": "2026-07-31",
+    "description": "Sampath Bank enhances care at Lady Ridgeway Hospital with essential hospital upgrades",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sampath-Bank-enhances-care-at-Lady-Ridgeway-Hospital-with-essential-hospital-upgrades/273-347109",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-5c652ef6",
+    "num": "dailymirrorlk-5c652ef6",
+    "date_str": "2026-07-31",
+    "description": "Seylan Bank opens 293rd Pahasara Library at Ranpokunugama Maha Vidyalaya",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-opens-293rd-Pahasara-Library-at-Ranpokunugama-Maha-Vidyalaya/273-347110",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-e5762e16",
+    "num": "dailymirrorlk-e5762e16",
+    "date_str": "2026-07-31",
+    "description": "People\u2019s Bank organises blood donation camp to mark 65th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-organises-blood-donation-camp-to-mark-65th-anniversary/273-347111",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-9641ff96",
+    "num": "dailymirrorlk-9641ff96",
+    "date_str": "2026-07-31",
+    "description": "Allianz Lanka expands road safety campaign to Kurunegala and Kuliyapitiya",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Allianz-Lanka-expands-road-safety-campaign-to-Kurunegala-and-Kuliyapitiya/273-347112",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-ae7453ea",
+    "num": "dailymirrorlk-ae7453ea",
+    "date_str": "2026-07-31",
+    "description": "Uga Resorts launches community elephant coexistence project 2nd phase",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Uga-Resorts-launches-community-elephant-coexistence-project-2nd-phase/273-347113",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-aa27a715",
+    "num": "dailymirrorlk-aa27a715",
+    "date_str": "2026-07-31",
+    "description": "Majestic City plots major comeback, eyeing 90% occupancy post-refurbishment",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Majestic-City-plots-major-comeback-eyeing-90-occupancy-post-refurbishment/273-347114",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518445.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-9e7bb1db",
     "num": "dailymirrorlk-9e7bb1db",
     "date_str": "2026-07-31",
@@ -322765,6 +322941,50 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785518559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-56cc1241",
+    "num": "dailymirrorlk-56cc1241",
+    "date_str": "2026-07-31",
+    "description": "Am\u00e3na Bank marks 15 years of non-interest-based, development-focused, people-friendly banking",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Am\u00e3na-Bank-marks-15-years-of-non-interest-based-development-focused-people-friendly-banking/273-347116",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-afea2928",
+    "num": "dailymirrorlk-afea2928",
+    "date_str": "2026-07-31",
+    "description": "Hotel Developers records profit after 7 years",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hotel-Developers-records-profit-after-7-years/273-347117",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-4d568365",
+    "num": "dailymirrorlk-4d568365",
+    "date_str": "2026-07-31",
+    "description": "Higher tea volumes meet sluggish demand at Colombo auction",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Higher-tea-volumes-meet-sluggish-demand-at-Colombo-auction/273-347118",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518694.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-7e0de293",
+    "num": "dailymirrorlk-7e0de293",
+    "date_str": "2026-07-31",
+    "description": "Improved IIF debt transparency ratings could unlock lower borrowing costs for Sri Lanka in global capital markets",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Improved-IIF-debt-transparency-ratings-could-unlock-lower-borrowing-costs-for-Sri-Lanka-in-global-capital-markets/245-347119",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785518727.0
   },
   {
     "doc_type": "lk_news",
@@ -322809,5 +323029,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785529014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-db2de98d",
+    "num": "dailyftlk-db2de98d",
+    "date_str": "2026-08-01",
+    "description": "Is Sri Lanka\u2019s moral and ethical degradation redeemable?",
+    "url_metadata": "https://www.ft.lk/columns/Is-Sri-Lanka-s-moral-and-ethical-degradation-redeemable/4-795453",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785531423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-d9896f1f",
+    "num": "dailyftlk-d9896f1f",
+    "date_str": "2026-08-01",
+    "description": "Legacy of Podi Hamuduruwo continues",
+    "url_metadata": "https://www.ft.lk/opinion/Legacy-of-Podi-Hamuduruwo-continues/14-795454",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785531615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-96108cac",
+    "num": "dailyftlk-96108cac",
+    "date_str": "2026-08-01",
+    "description": "The rise of irregular transfers/loss of forex resources",
+    "url_metadata": "https://www.ft.lk/columns/The-rise-of-irregular-transfers-loss-of-forex-resources/4-795455",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785533869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-05ac1c32",
+    "num": "dailyftlk-05ac1c32",
+    "date_str": "2026-08-01",
+    "description": "Great countries need great schools",
+    "url_metadata": "https://www.ft.lk/columns/Great-countries-need-great-schools/4-795456",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785534541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-93ed6e6e",
+    "num": "dailyftlk-93ed6e6e",
+    "date_str": "2026-08-01",
+    "description": "India\u2019s Cockroach movement: Lessons for South Asia",
+    "url_metadata": "https://www.ft.lk/columns/India-s-Cockroach-movement-Lessons-for-South-Asia/4-795457",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785535061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-tamilmirrorlk-65cad5fa",
+    "num": "tamilmirrorlk-65cad5fa",
+    "date_str": "2026-08-01",
+    "description": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-380732",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785536701.0
   }
 ]
