@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 00:18:06",
-  "n_docs": 125701,
+  "time_updated": "2026-08-01 02:15:37",
+  "n_docs": 125705,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125701,
+  "n_docs_with_text": 125705,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-31",
-  "dataset_size": 1961254733,
+  "date_str_max": "2026-08-01",
+  "dataset_size": 1961595224,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-31-dailymirrorlk-9e7bb1db",
-    "num": "dailymirrorlk-9e7bb1db",
-    "date_str": "2026-07-31",
-    "description": "One injured in shooting near Mirissa Junction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-injured-in-shooting-near-Mirissa-Junction/108-347115",
+    "doc_id": "2026-08-01-dailyftlk-8e33b07b",
+    "num": "dailyftlk-8e33b07b",
+    "date_str": "2026-08-01",
+    "description": "FCCISL congratulates EDB on Sri Lanka\u2019s exports surpassing $ 9 b in first half of 2026",
+    "url_metadata": "https://www.ft.lk/business/FCCISL-congratulates-EDB-on-Sri-Lanka-s-exports-surpassing-9-b-in-first-half-of-2026/34-795445",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785518559.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785529014.0
   }
 }

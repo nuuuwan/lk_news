@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_00:19:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_02:16:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,701** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-07-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,705** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-31-dailymirrorlk-9e7bb1db",
-    "num": "dailymirrorlk-9e7bb1db",
-    "date_str": "2026-07-31",
-    "description": "One injured in shooting near Mirissa Junction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-injured-in-shooting-near-Mirissa-Junction/108-347115",
+    "doc_id": "2026-08-01-dailyftlk-8e33b07b",
+    "num": "dailyftlk-8e33b07b",
+    "date_str": "2026-08-01",
+    "description": "FCCISL congratulates EDB on Sri Lanka\u2019s exports surpassing $ 9 b in first half of 2026",
+    "url_metadata": "https://www.ft.lk/business/FCCISL-congratulates-EDB-on-Sri-Lanka-s-exports-surpassing-9-b-in-first-half-of-2026/34-795445",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785518559.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785529014.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-01 | `dailyftlk-8e33b07b` | FCCISL congratulates EDB on Sri Lanka’s exports surpassing $ 9 b in first half of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-8e33b07b)
+- 2026-08-01 | `dailyftlk-ce58b299` | Registrations open for  Sri Lanka Economic and Investment Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-ce58b299)
+- 2026-08-01 | `dailyftlk-9aee8a4a` | Sajith to host national forum on Sri Lankan leopards today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-9aee8a4a)
+- 2026-08-01 | `dailyftlk-8e9e426a` | Lieutenant General Nilantha Premaratne appointed 26th Army Commander | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-8e9e426a)
 - 2026-07-31 | `dailymirrorlk-9e7bb1db` | One injured in shooting near Mirissa Junction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-9e7bb1db)
 - 2026-07-31 | `adalk-260bf25e` | හේමසිරි හා පූජිත් පෝරකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-260bf25e)
 - 2026-07-31 | `dailymirrorlk-d9a2df40` | Ex-Police Chief, Defence Secretary taken to prison after death sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-d9a2df40)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-31 | `dailymirrorlk-7ccf64a0` | Former IGP Pujith Jayasundara sentenced to death over Easter Sunday attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-7ccf64a0)
 - 2026-07-31 | `adalk-f4be0764` | සුවසැරියට දස වසරයි, ඇමතුම් මිලියන 10කට ප්‍රතිචාර දක්වලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-f4be0764)
 - 2026-07-31 | `dailymirrorlk-c23b57f5` | French Bar Council backs BASL’s concerns over proposed judicial retirement age increase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-c23b57f5)
-- 2026-07-31 | `tamilmirrorlk-756bf974` | கண்டியில் மண்மேடு சரிந்ததில் ஒருவர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-756bf974)
-- 2026-07-31 | `tamilmirrorlk-af385c80` | எரிபொருள் விலைகளில் மாற்றமில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-tamilmirrorlk-af385c80)
-- 2026-07-31 | `adalk-42eb9848` | ඉන්ධන මිලේ වෙනසක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-adalk-42eb9848)
-- 2026-07-31 | `dailymirrorlk-604f9f51` | No fuel price revision for August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-604f9f51)
 
 ---
 

@@ -322765,5 +322765,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785518559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-8e9e426a",
+    "num": "dailyftlk-8e9e426a",
+    "date_str": "2026-08-01",
+    "description": "Lieutenant General Nilantha Premaratne appointed 26th Army Commander",
+    "url_metadata": "https://www.ft.lk/news/Lieutenant-General-Nilantha-Premaratne-appointed-26th-Army-Commander/56-795442",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785528543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-9aee8a4a",
+    "num": "dailyftlk-9aee8a4a",
+    "date_str": "2026-08-01",
+    "description": "Sajith to host national forum on Sri Lankan leopards today",
+    "url_metadata": "https://www.ft.lk/news/Sajith-to-host-national-forum-on-Sri-Lankan-leopards-today/56-795443",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785528645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-ce58b299",
+    "num": "dailyftlk-ce58b299",
+    "date_str": "2026-08-01",
+    "description": "Registrations open for  Sri Lanka Economic and Investment Summit 2026",
+    "url_metadata": "https://www.ft.lk/business/Registrations-open-for-Sri-Lanka-Economic-and-Investment-Summit-2026/34-795444",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785528851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailyftlk-8e33b07b",
+    "num": "dailyftlk-8e33b07b",
+    "date_str": "2026-08-01",
+    "description": "FCCISL congratulates EDB on Sri Lanka\u2019s exports surpassing $ 9 b in first half of 2026",
+    "url_metadata": "https://www.ft.lk/business/FCCISL-congratulates-EDB-on-Sri-Lanka-s-exports-surpassing-9-b-in-first-half-of-2026/34-795445",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785529014.0
   }
 ]
