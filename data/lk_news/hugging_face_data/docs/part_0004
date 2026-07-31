@@ -322174,6 +322174,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-fdef8f5e",
+    "num": "adalk-fdef8f5e",
+    "date_str": "2026-07-31",
+    "description": "\u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0daf\u0dd3\u00a0\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca 1021\u0d9a\u0dca \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0dbb-\u0db4\u0dc4\u0d9a\u0daf\u0dd3\u00a0\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca-1021\u0d9a\u0dca-\u0db8\u0dd2\u0dba-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/11-423516",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785477868.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-tamilmirrorlk-0303cf58",
     "num": "tamilmirrorlk-0303cf58",
     "date_str": "2026-07-31",
@@ -322306,6 +322317,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-9cd7f4fc",
+    "num": "dailymirrorlk-9cd7f4fc",
+    "date_str": "2026-07-31",
+    "description": "Lalkantha asked me to keep silent on judges\u2019 retirement age issue: Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lalkantha-asked-me-to-keep-silent-on-judges-retirement-age-issue-Lal-Wijenayake/108-347064",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785483752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-45073adb",
+    "num": "dailymirrorlk-45073adb",
+    "date_str": "2026-07-31",
+    "description": "Auto Vision Motor Show 2026",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Auto-Vision-Motor-Show-2026/110-347065",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785486712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-c885654a",
+    "num": "dailymirrorlk-c885654a",
+    "date_str": "2026-07-31",
+    "description": "Brazil to play India in first international break after FIFA World Cup 2026",
+    "url_metadata": "https://www.dailymirror.lk/international/Brazil-to-play-India-in-first-international-break-after-FIFA-World-Cup-2026/107-347066",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785486788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-2d6b0d21",
+    "num": "dailymirrorlk-2d6b0d21",
+    "date_str": "2026-07-31",
+    "description": "Police officer arrested over alleged anti-government social media posts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-officer-arrested-over-alleged-anti-government-social-media-posts/108-347067",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785486945.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-tamilmirrorlk-c398776e",
     "num": "tamilmirrorlk-c398776e",
     "date_str": "2026-07-31",
@@ -322347,5 +322402,93 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785487457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-761a527d",
+    "num": "tamilmirrorlk-761a527d",
+    "date_str": "2026-07-31",
+    "description": "26\u0bb5\u0ba4\u0bc1 \u0ba4\u0bb3\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95  \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd\u0b9f\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0bb0\u0ba4\u0bcd\u0ba9 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/26\u0bb5\u0ba4\u0bc1-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd\u0b9f\u0bcd-\u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0ba8\u0bcd\u0ba4-\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0bb0\u0ba4\u0bcd\u0ba9-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-380725",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785488255.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d5dd48cc",
+    "num": "dailymirrorlk-d5dd48cc",
+    "date_str": "2026-07-31",
+    "description": "Four bodies located after 10 climbers go missing on Pakistani peak",
+    "url_metadata": "https://www.dailymirror.lk/international/Four-bodies-located-after-10-climbers-go-missing-on-Pakistani-peak/107-347071",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785490393.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d293ed9d",
+    "num": "dailymirrorlk-d293ed9d",
+    "date_str": "2026-07-31",
+    "description": "Motor Rally 2026 unveiled in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Motor-Rally-2026-unveiled-in-Colombo/110-347072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785490659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d7c2f7ac",
+    "num": "dailymirrorlk-d7c2f7ac",
+    "date_str": "2026-07-31",
+    "description": "Railway catering firm fined Rs. 500,000 for overcharging water bottles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Railway-catering-firm-fined-Rs-500-000-for-overcharging-water-bottles/108-347073",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785490757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-f0aed56f",
+    "num": "adalk-f0aed56f",
+    "date_str": "2026-07-31",
+    "description": "\u0dbb\u0dd4.\u0db8\u0dd2. 772\u0d9a \u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0daf\u0dda\u0db4\u0dc5 \u0dbb\u0da2\u0dba\u0da7 \u0db4\u0dc0\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db1\u0dd3\u0dad\u0dd2 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4-\u0db8\u0dd2--772\u0d9a-\u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3-\u0daf\u0dda\u0db4\u0dc5-\u0dbb\u0da2\u0dba\u0da7-\u0db4\u0dc0\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0db1\u0dd3\u0dad\u0dd2-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0d9a\u0dc5\u0dcf/11-423518",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785491024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-22c588b4",
+    "num": "dailymirrorlk-22c588b4",
+    "date_str": "2026-07-31",
+    "description": "Jaffna journalists protest demanding justice for murdered media personnel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-journalists-protest-demanding-justice-for-murdered-media-personnel/108-347074",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785491531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-6806eb0f",
+    "num": "dailymirrorlk-6806eb0f",
+    "date_str": "2026-07-31",
+    "description": "Senior Infantino adviser quits as AFC opposes plans",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-Infantino-adviser-quits-as-AFC-opposes-plans/108-347075",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785494940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-604f9f51",
+    "num": "dailymirrorlk-604f9f51",
+    "date_str": "2026-07-31",
+    "description": "No fuel price revision for August",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-fuel-price-revision-for-August/108-347076",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785495573.0
   }
 ]
