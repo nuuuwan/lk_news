@@ -320282,6 +320282,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-e7bfcdd6",
+    "num": "adalk-e7bfcdd6",
+    "date_str": "2026-07-30",
+    "description": "Perodua Traz SUV \u0dc3\u0dc4 Alza MPV \u0dbb\u0dae \u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/Perodua-Traz-SUV-\u0dc3\u0dc4-Alza-MPV-\u0dbb\u0dae-\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0\u0dba-\u0db8\u0dd9\u0dbb\u0da7\u0da7-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-423487",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785375188.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-tamilmirrorlk-4092c0a1",
     "num": "tamilmirrorlk-4092c0a1",
     "date_str": "2026-07-30",
@@ -321195,6 +321206,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-11274dea",
+    "num": "adalk-11274dea",
+    "date_str": "2026-07-30",
+    "description": "\u0db4\u0dbb\u0dd2\u0db4\u0dd6\u0dbb\u0d9a \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0da7 392\u0d9a\u0dca \u0db6\u0db3\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbb\u0dd2\u0db4\u0dd6\u0dbb\u0d9a-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dba\u0da7-392\u0d9a\u0dca-\u0db6\u0db3\u0dc0\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dba\u0dba\u0dd2/11-423505",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785415437.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-tamilmirrorlk-ef8b0aef",
     "num": "tamilmirrorlk-ef8b0aef",
     "date_str": "2026-07-30",
@@ -321203,6 +321225,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785415597.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-0f62acd7",
+    "num": "adalk-0f62acd7",
+    "date_str": "2026-07-30",
+    "description": "\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dba\u0dcf\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dba\u0dd4\u0db0 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dba\u0dcf\u0db8\u0da7-\u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad-\u0dba\u0dd4\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/10-423506",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785416463.0
   },
   {
     "doc_type": "lk_news",
@@ -321643,5 +321676,236 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785458511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-27d0edf0",
+    "num": "dailyftlk-27d0edf0",
+    "date_str": "2026-07-31",
+    "description": "Between Bar, Bench and State",
+    "url_metadata": "https://www.ft.lk/columns/Between-Bar-Bench-and-State/4-795389",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785459000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-e09f2040",
+    "num": "dailymirrorlk-e09f2040",
+    "date_str": "2026-07-31",
+    "description": "City of Dreams adds Scope Cinemas as flagship entertainment anchor",
+    "url_metadata": "https://www.dailymirror.lk/business/City-of-Dreams-adds-Scope-Cinemas-as-flagship-entertainment-anchor/215-347015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785459579.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-7cbd9c20",
+    "num": "dailymirrorlk-7cbd9c20",
+    "date_str": "2026-07-31",
+    "description": "ADB expands Sri Lanka reform loan to US$ 200mn as Middle East conflict strains recovery",
+    "url_metadata": "https://www.dailymirror.lk/business/ADB-expands-Sri-Lanka-reform-loan-to-US-200mn-as-Middle-East-conflict-strains-recovery/215-347016",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785459770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-fcecd04e",
+    "num": "adalk-fcecd04e",
+    "date_str": "2026-07-31",
+    "description": "DFCC \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0db7\u0dcf\u0dc2\u0dcf 8\u0d9a\u0dd2\u0db1\u0dca ATM \u0dc3\u0dc4 CRM \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca \u0d9c\u0dd9\u0db1\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/DFCC-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-\u0db7\u0dcf\u0dc2\u0dcf-8\u0d9a\u0dd2\u0db1\u0dca-ATM-\u0dc3\u0dc4-CRM-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0d9a\u0dca-\u0d9c\u0dd9\u0db1\u0dd9\u0dba\u0dd2/7-423510",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785461256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-b2c4f2d7",
+    "num": "tamilmirrorlk-b2c4f2d7",
+    "date_str": "2026-07-31",
+    "description": "100 \u0bae\u0bbf.\u0bae\u0bc0 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0bae\u0bb4\u0bc8\u0bb5\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/100-\u0bae\u0bbf-\u0bae\u0bc0-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95-\u0bae\u0bb4\u0bc8\u0bb5\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-380710",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785461693.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-84ae28c0",
+    "num": "dailyftlk-84ae28c0",
+    "date_str": "2026-07-31",
+    "description": "Managing Yala for a better experience by thinking beyond Leopards",
+    "url_metadata": "https://www.ft.lk/columns/Managing-Yala-for-a-better-experience-by-thinking-beyond-Leopards/4-795390",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-47e5ace9",
+    "num": "dailyftlk-47e5ace9",
+    "date_str": "2026-07-31",
+    "description": "SLCBCC partners Intex-InMac Sri Lanka 2026",
+    "url_metadata": "https://www.ft.lk/business/SLCBCC-partners-Intex-InMac-Sri-Lanka-2026/34-795391",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-e4efdea3",
+    "num": "dailyftlk-e4efdea3",
+    "date_str": "2026-07-31",
+    "description": "Teen Academy\u2019s Teen Master of Business wins UK accreditation from OBP UK",
+    "url_metadata": "https://www.ft.lk/business/Teen-Academy-s-Teen-Master-of-Business-wins-UK-accreditation-from-OBP-UK/34-795392",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-309b3992",
+    "num": "dailyftlk-309b3992",
+    "date_str": "2026-07-31",
+    "description": "CA Sri Lanka calls for applications for TAGS Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-calls-for-applications-for-TAGS-Awards-2026/34-795393",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462624.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-4ec274b7",
+    "num": "dailyftlk-4ec274b7",
+    "date_str": "2026-07-31",
+    "description": "Siddhalepa Ayurveda products and health resort honoured with prestigious GlobalHealth Sri Lanka Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/Siddhalepa-Ayurveda-products-and-health-resort-honoured-with-prestigious-GlobalHealth-Sri-Lanka-Awards-2026/34-795394",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-d32546d5",
+    "num": "dailyftlk-d32546d5",
+    "date_str": "2026-07-31",
+    "description": "Calling applications for  National AI Awards 2026 to celebrate Sri Lanka\u2019s AI excellence",
+    "url_metadata": "https://www.ft.lk/business/Calling-applications-for-National-AI-Awards-2026-to-celebrate-Sri-Lanka-s-AI-excellence/34-795395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-e4d4e6a5",
+    "num": "dailyftlk-e4d4e6a5",
+    "date_str": "2026-07-31",
+    "description": "Indian business mission explores trade, investment opportunities in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Indian-business-mission-explores-trade-investment-opportunities-in-Sri-Lanka/34-795396",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-40b4db21",
+    "num": "dailyftlk-40b4db21",
+    "date_str": "2026-07-31",
+    "description": "Beruwala Resorts  secures Rs. 60 m working capital loan from parent",
+    "url_metadata": "https://www.ft.lk/business/Beruwala-Resorts-secures-Rs-60-m-working-capital-loan-from-parent/34-795397",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-38e1b042",
+    "num": "dailyftlk-38e1b042",
+    "date_str": "2026-07-31",
+    "description": "Indirect change of control at Bogala Graphite after parent share transfer",
+    "url_metadata": "https://www.ft.lk/business/Indirect-change-of-control-at-Bogala-Graphite-after-parent-share-transfer/34-795398",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-e69b64cb",
+    "num": "dailyftlk-e69b64cb",
+    "date_str": "2026-07-31",
+    "description": "EDB\u2019s National Packaging Centre conducts workshop on Cinnamon Packaging  and Compliance with EU Regulations",
+    "url_metadata": "https://www.ft.lk/business/EDB-s-National-Packaging-Centre-conducts-workshop-on-Cinnamon-Packaging-and-Compliance-with-EU-Regulations/34-795399",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785462967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-64615c97",
+    "num": "dailyftlk-64615c97",
+    "date_str": "2026-07-31",
+    "description": "Customs seizes Rs. 4.5 b worth of narcotics in nine months",
+    "url_metadata": "https://www.ft.lk/news/Customs-seizes-Rs-4-5-b-worth-of-narcotics-in-nine-months/56-795400",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785463007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-878e4f3f",
+    "num": "dailyftlk-878e4f3f",
+    "date_str": "2026-07-31",
+    "description": "Govt. mulls 2027 Budget funding to revive stalled housing projects",
+    "url_metadata": "https://www.ft.lk/news/Govt-mulls-2027-Budget-funding-to-revive-stalled-housing-projects/56-795401",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785463067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-c4a3a934",
+    "num": "dailyftlk-c4a3a934",
+    "date_str": "2026-07-31",
+    "description": "Premadasa seeks continued US backing for Sri Lanka\u2019s economic recovery",
+    "url_metadata": "https://www.ft.lk/news/Premadasa-seeks-continued-US-backing-for-Sri-Lanka-s-economic-recovery/56-795402",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785463133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailyftlk-0283dcbb",
+    "num": "dailyftlk-0283dcbb",
+    "date_str": "2026-07-31",
+    "description": "Infinite Grace Foundation and Cha\u2019s Organics forge long-term social impact partnership",
+    "url_metadata": "https://www.ft.lk/news/Infinite-Grace-Foundation-and-Cha-s-Organics-forge-long-term-social-impact-partnership/56-795403",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785463209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-05ddf4d4",
+    "num": "adalk-05ddf4d4",
+    "date_str": "2026-07-31",
+    "description": "\u0d85\u0daf \u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd2\u0da7\u0dbb\u0dca 100\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0db8\u0dd2\u0dbd\u0dd2-\u0db8\u0dd2\u0da7\u0dbb\u0dca-100\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0dc3\u0dd2/11-423514",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785466514.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-1eaaf370",
+    "num": "tamilmirrorlk-1eaaf370",
+    "date_str": "2026-07-31",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-380711",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785467021.0
   }
 ]
