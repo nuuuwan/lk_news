@@ -321239,6 +321239,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-020cb90b",
+    "num": "adalk-020cb90b",
+    "date_str": "2026-07-30",
+    "description": "\u0db8\u0dcf\u0dc3 9\u0d9a\u0daf\u0dd3 \u0dbb\u0dda\u0d9c\u0dd4\u0dc0 \u0dbb\u0dd4.\u0db6\u0dd2. 4.5\u0d9a \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d85\u0dbd\u0dca\u0dbd\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dc3-9\u0d9a\u0daf\u0dd3-\u0dbb\u0dda\u0d9c\u0dd4\u0dc0-\u0dbb\u0dd4-\u0db6\u0dd2--4-5\u0d9a-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0d85\u0dbd\u0dca\u0dbd\u0dbd\u0dcf/11-423507",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785416974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-30-adalk-2dddbca1",
+    "num": "adalk-2dddbca1",
+    "date_str": "2026-07-30",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0 \u0d85\u0daf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2-\u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0-\u0d85\u0daf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7/11-423508",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785417611.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-30-dailymirrorlk-c596eb0b",
     "num": "dailymirrorlk-c596eb0b",
     "date_str": "2026-07-30",
@@ -321907,5 +321929,170 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785467021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-238f1383",
+    "num": "tamilmirrorlk-238f1383",
+    "date_str": "2026-07-31",
+    "description": "\u2019\u0b95\u0bc6\u0bb7\u0bcd\u0bae\u0bcd \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0bb5\u0bbf\u0bb2\u0bc8 \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bb7\u0bcd\u0bae\u0bcd-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/50-380712",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785468337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-tamilmirrorlk-e6195e08",
+    "num": "tamilmirrorlk-e6195e08",
+    "date_str": "2026-07-31",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u2019\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd\u2019 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bcb\u0b9f\u0bbf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bc6\u0bb2\u0bcd\u0b83\u0baa\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bae\u0bcb\u0b9f\u0bbf-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-380713",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785468648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-4badd333",
+    "num": "dailymirrorlk-4badd333",
+    "date_str": "2026-07-31",
+    "description": "World-famous climber Nirmal Purja among 10 missing after avalanche atop Pakistan peak",
+    "url_metadata": "https://www.dailymirror.lk/international/World-famous-climber-Nirmal-Purja-among-10-missing-after-avalanche-atop-Pakistan-peak/107-347017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785469543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-8bb75950",
+    "num": "dailymirrorlk-8bb75950",
+    "date_str": "2026-07-31",
+    "description": "Verdict due on Hemasiri, Pujith over Easter Sunday attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Verdict-due-on-Hemasiri-Pujith-over-Easter-Sunday-attacks/108-347018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785471060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-c9615130",
+    "num": "dailymirrorlk-c9615130",
+    "date_str": "2026-07-31",
+    "description": "Trump says \u2019Board of Peace\u2019 reaches Gaza disarmament deal",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-Board-of-Peace-reaches-Gaza-disarmament-deal/107-347019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785471824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-1a9ad637",
+    "num": "dailymirrorlk-1a9ad637",
+    "date_str": "2026-07-31",
+    "description": "RDA tender process under fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/RDA-tender-process-under-fire/108-347020",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785472236.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d5fed24a",
+    "num": "dailymirrorlk-d5fed24a",
+    "date_str": "2026-07-31",
+    "description": "Sri Lanka to face vegetable shortage?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-face-vegetable-shortage/108-347021",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785472544.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-2be2ce23",
+    "num": "dailymirrorlk-2be2ce23",
+    "date_str": "2026-07-31",
+    "description": "Extending judges\u2019 retirement age affecting judicial independence a false argument: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Extending-judges-retirement-age-affecting-judicial-independence-a-false-argument-Nalinda/108-347022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785472848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-44e4e882",
+    "num": "dailymirrorlk-44e4e882",
+    "date_str": "2026-07-31",
+    "description": "Govt. to permit private sector to purchase dengue vaccine initially: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-permit-private-sector-to-purchase-dengue-vaccine-initially-Minister/108-347024",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785473063.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-914d48db",
+    "num": "dailymirrorlk-914d48db",
+    "date_str": "2026-07-31",
+    "description": "Leopards roam Peradeniya Uni; Students urged to stay alert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Leopards-roam-Peradeniya-Uni-Students-urged-to-stay-alert/108-347029",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785473482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-5e11833f",
+    "num": "dailymirrorlk-5e11833f",
+    "date_str": "2026-07-31",
+    "description": "26 retired police dogs to be auctioned in Kandy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/26-retired-police-dogs-to-be-auctioned-in-Kandy/108-347032",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785473649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-d8fc1c51",
+    "num": "dailymirrorlk-d8fc1c51",
+    "date_str": "2026-07-31",
+    "description": "Wilpattu National Park affected by drought",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wilpattu-National-Park-affected-by-drought/108-347034",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785473983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-b6cd523c",
+    "num": "dailymirrorlk-b6cd523c",
+    "date_str": "2026-07-31",
+    "description": "El Ni\u00f1o threat grows as Sri Lanka braces for climate risks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Ni\u00f1o-threat-grows-as-Sri-Lanka-braces-for-climate-risks/108-347036",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785474444.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-f3dd27de",
+    "num": "dailymirrorlk-f3dd27de",
+    "date_str": "2026-07-31",
+    "description": "Nine dead as thousands of migrants enter Spanish enclave from Morocco",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nine-dead-as-thousands-of-migrants-enter-Spanish-enclave-from-Morocco/108-347037",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785474665.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-9ac7d598",
+    "num": "dailymirrorlk-9ac7d598",
+    "date_str": "2026-07-31",
+    "description": "At least 32 killed in Pakistan coal mine explosion, 10 remain trapped; labour union blames negligence",
+    "url_metadata": "https://www.dailymirror.lk/international/At-least-32-killed-in-Pakistan-coal-mine-explosion-10-remain-trapped-labour-union-blames-negligence/107-347038",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785474864.0
   }
 ]
