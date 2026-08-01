@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 12:35:41",
-  "n_docs": 125747,
+  "time_updated": "2026-08-01 14:32:42",
+  "n_docs": 125752,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125747,
+  "n_docs_with_text": 125752,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962230914,
+  "dataset_size": 1962272692,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-49956611",
-    "num": "dailymirrorlk-49956611",
+    "doc_id": "2026-08-01-dailymirrorlk-a1123965",
+    "num": "dailymirrorlk-a1123965",
     "date_str": "2026-08-01",
-    "description": "Cucurella gets tattoo of Spain coach to honour World Cup promise",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cucurella-gets-tattoo-of-Spain-coach-to-honour-World-Cup-promise/108-347125",
+    "description": "Station Masters warn of safety risks over unresolved signal failures",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Station-Masters-warn-of-safety-risks-over-unresolved-signal-failures/108-347147",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785560935.0
+    "time_ut": 1785572156.0
   }
 }
