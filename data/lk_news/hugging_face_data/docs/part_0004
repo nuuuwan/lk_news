@@ -323263,6 +323263,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-615719c1",
+    "num": "adalk-615719c1",
+    "date_str": "2026-08-01",
+    "description": "\u0dad\u0dbb\u0d9c \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0dda \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8 \u0dc6\u0dd2\u0dc6\u0dcf \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0dad\u0dbb\u0d9c-\u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0dda-\u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8-\u0dc6\u0dd2\u0dc6\u0dcf-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/9-423535",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785556751.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-dailymirrorlk-b032ecd9",
     "num": "dailymirrorlk-b032ecd9",
     "date_str": "2026-08-01",
@@ -323326,5 +323337,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785572156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-fb807a68",
+    "num": "dailymirrorlk-fb807a68",
+    "date_str": "2026-08-01",
+    "description": "17 empty shipping containers fall overboard off Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/17-empty-shipping-containers-fall-overboard-off-Colombo/108-347148",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785574962.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-3eb12de1",
+    "num": "dailymirrorlk-3eb12de1",
+    "date_str": "2026-08-01",
+    "description": "US to make visa bond program permanent for people from dozens of countries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-to-make-visa-bond-program-permanent-for-people-from-dozens-of-countries/108-347151",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785577260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-0c87007d",
+    "num": "dailymirrorlk-0c87007d",
+    "date_str": "2026-08-01",
+    "description": "Metro bus service to expand to Jaffna, Kandy by year-end: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-service-to-expand-to-Jaffna-Kandy-by-year-end-Minister/108-347152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785580336.0
   }
 ]

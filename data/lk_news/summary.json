@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 14:32:42",
-  "n_docs": 125752,
+  "time_updated": "2026-08-01 16:15:55",
+  "n_docs": 125756,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125752,
+  "n_docs_with_text": 125756,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962272692,
+  "dataset_size": 1962317383,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-a1123965",
-    "num": "dailymirrorlk-a1123965",
+    "doc_id": "2026-08-01-dailymirrorlk-0c87007d",
+    "num": "dailymirrorlk-0c87007d",
     "date_str": "2026-08-01",
-    "description": "Station Masters warn of safety risks over unresolved signal failures",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Station-Masters-warn-of-safety-risks-over-unresolved-signal-failures/108-347147",
+    "description": "Metro bus service to expand to Jaffna, Kandy by year-end: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-service-to-expand-to-Jaffna-Kandy-by-year-end-Minister/108-347152",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785572156.0
+    "time_ut": 1785580336.0
   }
 }
