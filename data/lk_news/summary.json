@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 18:06:53",
-  "n_docs": 125761,
+  "time_updated": "2026-08-01 20:54:16",
+  "n_docs": 125770,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125761,
+  "n_docs_with_text": 125770,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962350205,
+  "dataset_size": 1962399111,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-f174fb07",
-    "num": "dailymirrorlk-f174fb07",
+    "doc_id": "2026-08-01-dailymirrorlk-26627fdd",
+    "num": "dailymirrorlk-26627fdd",
     "date_str": "2026-08-01",
-    "description": "NPP decision-making process unclear, says Lal Wijenayake",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-decision-making-process-unclear-says-Lal-Wijenayake/108-347157",
+    "description": "Tuition classes, seminars banned ahead of grade 5, A/L exams",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tuition-classes-seminars-banned-ahead-of-grade-5-AL-exams/108-347161",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785587420.0
+    "time_ut": 1785594343.0
   }
 }

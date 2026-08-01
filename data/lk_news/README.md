@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_18:07:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_20:55:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,770** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-f174fb07",
-    "num": "dailymirrorlk-f174fb07",
+    "doc_id": "2026-08-01-dailymirrorlk-26627fdd",
+    "num": "dailymirrorlk-26627fdd",
     "date_str": "2026-08-01",
-    "description": "NPP decision-making process unclear, says Lal Wijenayake",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-decision-making-process-unclear-says-Lal-Wijenayake/108-347157",
+    "description": "Tuition classes, seminars banned ahead of grade 5, A/L exams",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tuition-classes-seminars-banned-ahead-of-grade-5-AL-exams/108-347161",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785587420.0
+    "time_ut": 1785594343.0
 }
 ```
 
@@ -41,8 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-01 | `dailymirrorlk-26627fdd` | Tuition classes, seminars banned ahead of grade 5, A/L exams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-26627fdd)
+- 2026-08-01 | `dailymirrorlk-d9f2f568` | Ravi, Shani could face stronger charges over Easter Sunday attacks, says Gammanpila | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-d9f2f568)
+- 2026-08-01 | `tamilmirrorlk-937ef568` | கடலில் அடித்துச் சென்றவரை காப்பாற்றிய அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-937ef568)
+- 2026-08-01 | `dailymirrorlk-4d1e39fa` | President AKD congratulates Rumesh on Commonwealth Games gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-4d1e39fa)
+- 2026-08-01 | `dailymirrorlk-171bb518` | CPID holds inaugural youth empowerment workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-171bb518)
+- 2026-08-01 | `tamilmirrorlk-c1b89918` | மஹர சிறையில் பதற்றம்: முக்கிய பிரிவுகளுக்கு தீ வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-c1b89918)
+- 2026-08-01 | `tamilmirrorlk-211205b7` | ரத்மலானையில் துப்பாக்கிச் சூடு; ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-211205b7)
 - 2026-08-01 | `dailymirrorlk-f174fb07` | NPP decision-making process unclear, says Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-f174fb07)
 - 2026-08-01 | `dailymirrorlk-cab27353` | Cannabis worth Rs. 106m seized in air cargo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-cab27353)
+- 2026-08-01 | `dailymirrorlk-dc7fffa9` | Update: Inmate dies following unrest at Mahara Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-dc7fffa9)
 - 2026-08-01 | `dailymirrorlk-109682af` | Unrest reported at Mahara Prison; Security stepped up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-109682af)
 - 2026-08-01 | `dailymirrorlk-b554f828` | Man injured in Rathmalana shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-b554f828)
 - 2026-08-01 | `dailymirrorlk-0436e0c6` | Minor flood warning issued for low-lying areas of Kelani River valley | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-0436e0c6)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-01 | `tamilmirrorlk-08b4c47d` | முன்னாள் கடற்படைத் தளபதி மற்றும் யோஷித ராஜபக்ஷ மீது பாய்ந்தது வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-08b4c47d)
 - 2026-08-01 | `dailymirrorlk-12ada767` | Rescue operation expands as several fishing vessels report distress off Negombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-12ada767)
 - 2026-08-01 | `dailymirrorlk-fe948c0c` | Heavy rains submerge machinery brought to repair Peradeniya’s Devil’s Bridge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-fe948c0c)
-- 2026-08-01 | `dailymirrorlk-49956611` | Cucurella gets tattoo of Spain coach to honour World Cup promise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-49956611)
-- 2026-08-01 | `dailymirrorlk-b032ecd9` | Railway catering company fined Rs. 500,000 for overcharging bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-b032ecd9)
-- 2026-08-01 | `adalk-615719c1` | තරග විකිණීමේ සැලැස්ම ෆිෆා සභාපති ඉවත් කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-615719c1)
-- 2026-08-01 | `adalk-082089cc` | උද්ධමනය ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-082089cc)
-- 2026-08-01 | `dailymirrorlk-c5b3f61b` | Fifa scraps controversial World Cup investment plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-c5b3f61b)
-- 2026-08-01 | `dailymirrorlk-821104f6` | Sri Lanka’s Rumesh Tharanga strikes historic Commonwealth gold in Javelin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-821104f6)
-- 2026-08-01 | `adalk-1c36283b` | අස්වැසුම මුදල් රු. ලක්ෂ 30ක් වංචා කළ නිලධාරිනියන් දෙදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-1c36283b)
-- 2026-08-01 | `adalk-863c6ff8` | රුමේෂ්ගේ හෙල්ලය ලංකාව රනින්  බබළවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-863c6ff8)
 
 ---
 

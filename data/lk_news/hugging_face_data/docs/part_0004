@@ -323274,6 +323274,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-59ba6f0f",
+    "num": "adalk-59ba6f0f",
+    "date_str": "2026-08-01",
+    "description": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dc5\u00a0750000\u0d9a\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0dda-\u0dc3\u0dda\u0dc0\u0dba-\u0d9a\u0dc5\u00a0750000\u0d9a\u0dca-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-423536",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785557100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-dailymirrorlk-b032ecd9",
     "num": "dailymirrorlk-b032ecd9",
     "date_str": "2026-08-01",
@@ -323406,6 +323417,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-dc7fffa9",
+    "num": "dailymirrorlk-dc7fffa9",
+    "date_str": "2026-08-01",
+    "description": "Update: Inmate dies following unrest at Mahara Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-Inmate-dies-following-unrest-at-Mahara-Prison/108-347155",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785585243.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-dailymirrorlk-cab27353",
     "num": "dailymirrorlk-cab27353",
     "date_str": "2026-08-01",
@@ -323425,5 +323447,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785587420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-tamilmirrorlk-211205b7",
+    "num": "tamilmirrorlk-211205b7",
+    "date_str": "2026-08-01",
+    "description": "\u0bb0\u0ba4\u0bcd\u0bae\u0bb2\u0bbe\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba4\u0bcd\u0bae\u0bb2\u0bbe\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-380738",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785588068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-tamilmirrorlk-c1b89918",
+    "num": "tamilmirrorlk-c1b89918",
+    "date_str": "2026-08-01",
+    "description": "\u0bae\u0bb9\u0bb0 \u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bb0-\u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc0-\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380739",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785588451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-171bb518",
+    "num": "dailymirrorlk-171bb518",
+    "date_str": "2026-08-01",
+    "description": "CPID holds inaugural youth empowerment workshop",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CPID-holds-inaugural-youth-empowerment-workshop/108-347158",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785590418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-4d1e39fa",
+    "num": "dailymirrorlk-4d1e39fa",
+    "date_str": "2026-08-01",
+    "description": "President AKD congratulates Rumesh on Commonwealth Games gold",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-AKD-congratulates-Rumesh-on-Commonwealth-Games-gold/108-347159",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785590522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-tamilmirrorlk-937ef568",
+    "num": "tamilmirrorlk-937ef568",
+    "date_str": "2026-08-01",
+    "description": "\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bc8 \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bc8-\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd/175-380740",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785591997.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-d9f2f568",
+    "num": "dailymirrorlk-d9f2f568",
+    "date_str": "2026-08-01",
+    "description": "Ravi, Shani could face stronger charges over Easter Sunday attacks, says Gammanpila",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ravi-Shani-could-face-stronger-charges-over-Easter-Sunday-attacks-says-Gammanpila/108-347160",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785592262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-26627fdd",
+    "num": "dailymirrorlk-26627fdd",
+    "date_str": "2026-08-01",
+    "description": "Tuition classes, seminars banned ahead of grade 5, A/L exams",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tuition-classes-seminars-banned-ahead-of-grade-5-AL-exams/108-347161",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785594343.0
   }
 ]
