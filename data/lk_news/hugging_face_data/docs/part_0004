@@ -323450,6 +323450,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-1ad9a0e5",
+    "num": "adalk-1ad9a0e5",
+    "date_str": "2026-08-01",
+    "description": "\u0db8\u0dc4\u0dbb \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dbb-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba-\u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca/11-423537",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785587547.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-tamilmirrorlk-211205b7",
     "num": "tamilmirrorlk-211205b7",
     "date_str": "2026-08-01",
@@ -323524,5 +323535,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785594343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-8780b4ae",
+    "num": "dailymirrorlk-8780b4ae",
+    "date_str": "2026-08-01",
+    "description": "Fresh unrest erupts outside Mahara Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fresh-unrest-erupts-outside-Mahara-Prison/108-347162",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785598105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-88ac22d3",
+    "num": "dailymirrorlk-88ac22d3",
+    "date_str": "2026-08-01",
+    "description": "India team to arrive in Sri Lanka on August 4 for Test series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-team-to-arrive-in-Sri-Lanka-on-August-4-for-Test-series/108-347163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785598449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-40975246",
+    "num": "dailymirrorlk-40975246",
+    "date_str": "2026-08-01",
+    "description": "Curfew imposed in Ragama Police Division",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Curfew-imposed-in-Ragama-Police-Division/108-347164",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785601092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-62c3d946",
+    "num": "adalk-62c3d946",
+    "date_str": "2026-08-01",
+    "description": "\u0db8\u0dc4\u0dbb \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dbb-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/11-423538",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785601194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-28a52598",
+    "num": "dailymirrorlk-28a52598",
+    "date_str": "2026-08-01",
+    "description": "New Army Commander assumes duties",
+    "url_metadata": "https://www.dailymirror.lk/top-story/New-Army-Commander-assumes-duties/155-347165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785601788.0
   }
 ]
