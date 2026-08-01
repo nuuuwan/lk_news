@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 06:24:12",
-  "n_docs": 125731,
+  "time_updated": "2026-08-01 08:49:26",
+  "n_docs": 125738,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125731,
+  "n_docs_with_text": 125738,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962025526,
+  "dataset_size": 1962060214,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-tamilmirrorlk-65cad5fa",
-    "num": "tamilmirrorlk-65cad5fa",
+    "doc_id": "2026-08-01-dailymirrorlk-22b4e15e",
+    "num": "dailymirrorlk-22b4e15e",
     "date_str": "2026-08-01",
-    "description": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-380732",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785536701.0
+    "description": "MoU to formalise Public-Private Partnership on e-waste management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MoU-to-formalise-Public-Private-Partnership-on-e-waste-management/108-347121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785552808.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_06:25:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_08:50:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,731** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,738** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-tamilmirrorlk-65cad5fa",
-    "num": "tamilmirrorlk-65cad5fa",
+    "doc_id": "2026-08-01-dailymirrorlk-22b4e15e",
+    "num": "dailymirrorlk-22b4e15e",
     "date_str": "2026-08-01",
-    "description": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-380732",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785536701.0
+    "description": "MoU to formalise Public-Private Partnership on e-waste management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MoU-to-formalise-Public-Private-Partnership-on-e-waste-management/108-347121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785552808.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-01 | `dailymirrorlk-22b4e15e` | MoU to formalise Public-Private Partnership on e-waste management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-22b4e15e)
+- 2026-08-01 | `tamilmirrorlk-d12133da` | இலங்கைக்கு முதல் தங்கத்தைப் பெற்றுக் கொடுத்த ருமேஷ் தரங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-d12133da)
+- 2026-08-01 | `tamilmirrorlk-4cf47d39` | ஸ்பெயினுக்குள் கடல் வழியாக நுழைய முயன்ற 34 பேர்  பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-4cf47d39)
+- 2026-08-01 | `tamilmirrorlk-83275522` | ’பிரதேச நிர்வாக அலகுகளை, அபிவிருத்தி அலகுகளாக மாற்றுக’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-83275522)
+- 2026-08-01 | `tamilmirrorlk-1d41515d` | ஜனாதிபதி அலுவலகத்தின் ’பாரமிதா’ இரத்ததான முகாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-1d41515d)
 - 2026-08-01 | `tamilmirrorlk-65cad5fa` | ஓய்வுபெறும் இராணுவத் தளபதி ஜனாதிபதியை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-65cad5fa)
 - 2026-08-01 | `dailyftlk-93ed6e6e` | India’s Cockroach movement: Lessons for South Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-93ed6e6e)
 - 2026-08-01 | `dailyftlk-05ac1c32` | Great countries need great schools | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailyftlk-05ac1c32)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-31 | `dailymirrorlk-afea2928` | Hotel Developers records profit after 7 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-afea2928)
 - 2026-07-31 | `dailymirrorlk-56cc1241` | Amãna Bank marks 15 years of non-interest-based, development-focused, people-friendly banking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-56cc1241)
 - 2026-07-31 | `dailymirrorlk-9e7bb1db` | One injured in shooting near Mirissa Junction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-9e7bb1db)
-- 2026-07-31 | `dailymirrorlk-aa27a715` | Majestic City plots major comeback, eyeing 90% occupancy post-refurbishment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-aa27a715)
-- 2026-07-31 | `dailymirrorlk-ae7453ea` | Uga Resorts launches community elephant coexistence project 2nd phase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-ae7453ea)
-- 2026-07-31 | `dailymirrorlk-9641ff96` | Allianz Lanka expands road safety campaign to Kurunegala and Kuliyapitiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-9641ff96)
-- 2026-07-31 | `dailymirrorlk-e5762e16` | People’s Bank organises blood donation camp to mark 65th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-e5762e16)
-- 2026-07-31 | `dailymirrorlk-5c652ef6` | Seylan Bank opens 293rd Pahasara Library at Ranpokunugama Maha Vidyalaya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-31-dailymirrorlk-5c652ef6)
 
 ---
 
