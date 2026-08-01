@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 08:49:26",
-  "n_docs": 125738,
+  "time_updated": "2026-08-01 10:49:33",
+  "n_docs": 125745,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125738,
+  "n_docs_with_text": 125745,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962060214,
+  "dataset_size": 1962163869,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-22b4e15e",
-    "num": "dailymirrorlk-22b4e15e",
+    "doc_id": "2026-08-01-dailymirrorlk-49956611",
+    "num": "dailymirrorlk-49956611",
     "date_str": "2026-08-01",
-    "description": "MoU to formalise Public-Private Partnership on e-waste management",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/MoU-to-formalise-Public-Private-Partnership-on-e-waste-management/108-347121",
+    "description": "Cucurella gets tattoo of Spain coach to honour World Cup promise",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cucurella-gets-tattoo-of-Spain-coach-to-honour-World-Cup-promise/108-347125",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785552808.0
+    "time_ut": 1785560935.0
   }
 }

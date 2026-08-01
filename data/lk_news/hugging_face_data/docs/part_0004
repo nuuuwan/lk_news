@@ -322603,6 +322603,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-adalk-ac8768fd",
+    "num": "adalk-ac8768fd",
+    "date_str": "2026-07-31",
+    "description": "\u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dda \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf \u0d9c\u0dd0\u0db1 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3.\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dda-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf-\u0d9c\u0dd0\u0db1-\u0d9a\u0dbb\u0dd4\u0dab\u0dd4-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3-\u0dba\u0da7/11-423527",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785498292.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-c23b57f5",
     "num": "dailymirrorlk-c23b57f5",
     "date_str": "2026-07-31",
@@ -322699,6 +322710,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785507043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-dailymirrorlk-badb9ab6",
+    "num": "dailymirrorlk-badb9ab6",
+    "date_str": "2026-07-31",
+    "description": "Jailor\u2019s evidence sensitive; don\u2019t report in media: Magistrate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jailors-evidence-sensitive-dont-report-in-media-Magistrate/108-347083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785508586.0
   },
   {
     "doc_type": "lk_news",
@@ -323172,5 +323194,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785552808.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-863c6ff8",
+    "num": "adalk-863c6ff8",
+    "date_str": "2026-08-01",
+    "description": "\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0d9c\u0dda \u0dc4\u0dd9\u0dbd\u0dca\u0dbd\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dbb\u0db1\u0dd2\u0db1\u0dca  \u0db6\u0db6\u0dc5\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0d9c\u0dda-\u0dc4\u0dd9\u0dbd\u0dca\u0dbd\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dbb\u0db1\u0dd2\u0db1\u0dca--\u0db6\u0db6\u0dc5\u0dc0\u0dba\u0dd2/9-423532",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785553837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-821104f6",
+    "num": "dailymirrorlk-821104f6",
+    "date_str": "2026-08-01",
+    "description": "Sri Lanka\u2019s Rumesh Tharanga strikes historic Commonwealth gold in Javelin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rumesh-Tharanga-strikes-historic-Commonwealth-gold-in-Javelin/108-347122",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785555314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-c5b3f61b",
+    "num": "dailymirrorlk-c5b3f61b",
+    "date_str": "2026-08-01",
+    "description": "Fifa scraps controversial World Cup investment plan",
+    "url_metadata": "https://www.dailymirror.lk/international/Fifa-scraps-controversial-World-Cup-investment-plan/107-347123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785555320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-b032ecd9",
+    "num": "dailymirrorlk-b032ecd9",
+    "date_str": "2026-08-01",
+    "description": "Railway catering company fined Rs. 500,000 for overcharging bottled water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Railway-catering-company-fined-Rs-500-000-for-overcharging-bottled-water/108-347124",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785557237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-49956611",
+    "num": "dailymirrorlk-49956611",
+    "date_str": "2026-08-01",
+    "description": "Cucurella gets tattoo of Spain coach to honour World Cup promise",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cucurella-gets-tattoo-of-Spain-coach-to-honour-World-Cup-promise/108-347125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785560935.0
   }
 ]
