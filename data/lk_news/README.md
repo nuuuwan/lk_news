@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_16:16:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01_18:07:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,756** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-0c87007d",
-    "num": "dailymirrorlk-0c87007d",
+    "doc_id": "2026-08-01-dailymirrorlk-f174fb07",
+    "num": "dailymirrorlk-f174fb07",
     "date_str": "2026-08-01",
-    "description": "Metro bus service to expand to Jaffna, Kandy by year-end: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-service-to-expand-to-Jaffna-Kandy-by-year-end-Minister/108-347152",
+    "description": "NPP decision-making process unclear, says Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-decision-making-process-unclear-says-Lal-Wijenayake/108-347157",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785580336.0
+    "time_ut": 1785587420.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-01 | `dailymirrorlk-f174fb07` | NPP decision-making process unclear, says Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-f174fb07)
+- 2026-08-01 | `dailymirrorlk-cab27353` | Cannabis worth Rs. 106m seized in air cargo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-cab27353)
+- 2026-08-01 | `dailymirrorlk-109682af` | Unrest reported at Mahara Prison; Security stepped up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-109682af)
+- 2026-08-01 | `dailymirrorlk-b554f828` | Man injured in Rathmalana shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-b554f828)
+- 2026-08-01 | `dailymirrorlk-0436e0c6` | Minor flood warning issued for low-lying areas of Kelani River valley | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-0436e0c6)
 - 2026-08-01 | `dailymirrorlk-0c87007d` | Metro bus service to expand to Jaffna, Kandy by year-end: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-0c87007d)
 - 2026-08-01 | `dailymirrorlk-3eb12de1` | US to make visa bond program permanent for people from dozens of countries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-3eb12de1)
 - 2026-08-01 | `dailymirrorlk-fb807a68` | 17 empty shipping containers fall overboard off Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-fb807a68)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-01 | `dailymirrorlk-821104f6` | Sri Lanka’s Rumesh Tharanga strikes historic Commonwealth gold in Javelin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-821104f6)
 - 2026-08-01 | `adalk-1c36283b` | අස්වැසුම මුදල් රු. ලක්ෂ 30ක් වංචා කළ නිලධාරිනියන් දෙදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-1c36283b)
 - 2026-08-01 | `adalk-863c6ff8` | රුමේෂ්ගේ හෙල්ලය ලංකාව රනින්  බබළවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-863c6ff8)
-- 2026-08-01 | `dailymirrorlk-22b4e15e` | MoU to formalise Public-Private Partnership on e-waste management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-22b4e15e)
-- 2026-08-01 | `tamilmirrorlk-d12133da` | இலங்கைக்கு முதல் தங்கத்தைப் பெற்றுக் கொடுத்த ருமேஷ் தரங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-d12133da)
-- 2026-08-01 | `tamilmirrorlk-4cf47d39` | ஸ்பெயினுக்குள் கடல் வழியாக நுழைய முயன்ற 34 பேர்  பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-4cf47d39)
-- 2026-08-01 | `tamilmirrorlk-83275522` | ’பிரதேச நிர்வாக அலகுகளை, அபிவிருத்தி அலகுகளாக மாற்றுக’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-83275522)
-- 2026-08-01 | `tamilmirrorlk-1d41515d` | ஜனாதிபதி அலுவலகத்தின் ’பாரமிதா’ இரத்ததான முகாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-tamilmirrorlk-1d41515d)
 
 ---
 

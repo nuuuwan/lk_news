@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-01 16:15:55",
-  "n_docs": 125756,
+  "time_updated": "2026-08-01 18:06:53",
+  "n_docs": 125761,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 125756,
+  "n_docs_with_text": 125761,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-01",
-  "dataset_size": 1962317383,
+  "dataset_size": 1962350205,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-01-dailymirrorlk-0c87007d",
-    "num": "dailymirrorlk-0c87007d",
+    "doc_id": "2026-08-01-dailymirrorlk-f174fb07",
+    "num": "dailymirrorlk-f174fb07",
     "date_str": "2026-08-01",
-    "description": "Metro bus service to expand to Jaffna, Kandy by year-end: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-service-to-expand-to-Jaffna-Kandy-by-year-end-Minister/108-347152",
+    "description": "NPP decision-making process unclear, says Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-decision-making-process-unclear-says-Lal-Wijenayake/108-347157",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785580336.0
+    "time_ut": 1785587420.0
   }
 }

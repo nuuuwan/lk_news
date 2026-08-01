@@ -323370,5 +323370,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785580336.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-0436e0c6",
+    "num": "dailymirrorlk-0436e0c6",
+    "date_str": "2026-08-01",
+    "description": "Minor flood warning issued for low-lying areas of Kelani River valley",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-flood-warning-issued-for-low-lying-areas-of-Kelani-River-valley/108-347153",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785582404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-b554f828",
+    "num": "dailymirrorlk-b554f828",
+    "date_str": "2026-08-01",
+    "description": "Man injured in Rathmalana shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-injured-in-Rathmalana-shooting/108-347154",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785585171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-109682af",
+    "num": "dailymirrorlk-109682af",
+    "date_str": "2026-08-01",
+    "description": "Unrest reported at Mahara Prison; Security stepped up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Unrest-reported-at-Mahara-Prison-Security-stepped-up/108-347155",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785585243.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-cab27353",
+    "num": "dailymirrorlk-cab27353",
+    "date_str": "2026-08-01",
+    "description": "Cannabis worth Rs. 106m seized in air cargo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cannabis-worth-Rs-106m-seized-in-air-cargo/108-347156",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785587166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-f174fb07",
+    "num": "dailymirrorlk-f174fb07",
+    "date_str": "2026-08-01",
+    "description": "NPP decision-making process unclear, says Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-decision-making-process-unclear-says-Lal-Wijenayake/108-347157",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785587420.0
   }
 ]
