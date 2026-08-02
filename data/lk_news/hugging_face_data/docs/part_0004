@@ -323571,6 +323571,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-dailymirrorlk-d91625c8",
+    "num": "dailymirrorlk-d91625c8",
+    "date_str": "2026-08-01",
+    "description": "Police curfew imposed around Mahara Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-curfew-imposed-around-Mahara-Prison/108-347164",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785601092.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-adalk-62c3d946",
     "num": "adalk-62c3d946",
     "date_str": "2026-08-01",
@@ -323579,6 +323590,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1785601194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-adalk-0d55f102",
+    "num": "adalk-0d55f102",
+    "date_str": "2026-08-01",
+    "description": "\u0dbb\u0dcf\u0d9c\u0db8 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db6\u0dbd \u0db4\u0dca\u200d\u0dbb \u0daf\u0dda\u0dc1\u0dba\u0da7 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0d9c\u0db8-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db6\u0dbd-\u0db4\u0dca\u200d\u0dbb-\u0daf\u0dda\u0dc1\u0dba\u0da7-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd2\u0dad\u0dd2\u0dba/11-423539",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785601614.0
   },
   {
     "doc_type": "lk_news",
@@ -323601,5 +323623,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785624531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-8a6f4237",
+    "num": "tamilmirrorlk-8a6f4237",
+    "date_str": "2026-08-02",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0baa\u0bb2-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bb4\u0bc8-\u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-380742",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785637229.0
   }
 ]
