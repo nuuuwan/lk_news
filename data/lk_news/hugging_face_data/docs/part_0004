@@ -314342,6 +314342,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-24-islandlk-fa3fecdc",
+    "num": "islandlk-fa3fecdc",
+    "date_str": "2026-07-24",
+    "description": "An indictment of all parties",
+    "url_metadata": "http://island.lk/an-indictment-of-all-parties/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784910060.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-24-islandlk-c8537ee2",
     "num": "islandlk-c8537ee2",
     "date_str": "2026-07-24",
@@ -315120,6 +315131,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1784978880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-25-islandlk-da952ef4",
+    "num": "islandlk-da952ef4",
+    "date_str": "2026-07-25",
+    "description": "\u2018Cockroaches\u2019 tame a mighty regime",
+    "url_metadata": "http://island.lk/cockroaches-tame-a-mighty-regime/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1784979060.0
   },
   {
     "doc_type": "lk_news",
@@ -316000,6 +316022,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1785068280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-26-islandlk-de93c83a",
+    "num": "islandlk-de93c83a",
+    "date_str": "2026-07-26",
+    "description": "Reputations dragged through Diyawanna mud",
+    "url_metadata": "http://island.lk/reputations-dragged-through-diyawanna-mud/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785068340.0
   },
   {
     "doc_type": "lk_news",
@@ -317433,6 +317466,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-27-islandlk-886bf47e",
+    "num": "islandlk-886bf47e",
+    "date_str": "2026-07-27",
+    "description": "Power of criminals",
+    "url_metadata": "http://island.lk/power-of-criminals-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785166800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-27-tamilmirrorlk-29b58ef2",
     "num": "tamilmirrorlk-29b58ef2",
     "date_str": "2026-07-27",
@@ -318808,6 +318852,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-28-islandlk-44b72979",
+    "num": "islandlk-44b72979",
+    "date_str": "2026-07-28",
+    "description": "No crime should go unpunished",
+    "url_metadata": "http://island.lk/no-crime-should-go-unpunished/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785257880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-29-dailymirrorlk-04fcdd8c",
     "num": "dailymirrorlk-04fcdd8c",
     "date_str": "2026-07-29",
@@ -319938,6 +319993,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785345029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-29-islandlk-cb1a0d66",
+    "num": "islandlk-cb1a0d66",
+    "date_str": "2026-07-29",
+    "description": "Arrogance of power",
+    "url_metadata": "http://island.lk/arrogance-of-power-6/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785345120.0
   },
   {
     "doc_type": "lk_news",
@@ -322867,6 +322933,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-islandlk-505a6419",
+    "num": "islandlk-505a6419",
+    "date_str": "2026-07-31",
+    "description": "Colombo Dockyard marks 52 years with return to quarterly profitability",
+    "url_metadata": "http://island.lk/colombo-dockyard-marks-52-years-with-return-to-quarterly-profitability/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785517500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-20d7d26c",
     "num": "dailymirrorlk-20d7d26c",
     "date_str": "2026-07-31",
@@ -322919,6 +322996,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785517872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-31-islandlk-819afd62",
+    "num": "islandlk-819afd62",
+    "date_str": "2026-07-31",
+    "description": "Sri Lanka\u2019s hospitality leaders to chart Vision 2030 roadmap at global conference",
+    "url_metadata": "http://island.lk/sri-lankas-hospitality-leaders-to-chart-vision-2030-roadmap-at-global-conference/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785518040.0
   },
   {
     "doc_type": "lk_news",
@@ -323560,6 +323648,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-448aa93f",
+    "num": "islandlk-448aa93f",
+    "date_str": "2026-08-01",
+    "description": "HNB Life marks 25 years with CSE opening bell ceremony",
+    "url_metadata": "http://island.lk/hnb-life-marks-25-years-with-cse-opening-bell-ceremony/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785600300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-b0bf3832",
+    "num": "islandlk-b0bf3832",
+    "date_str": "2026-08-01",
+    "description": "People\u2019s Bank wins Overall Gold at National Business Excellence Awards 2026",
+    "url_metadata": "http://island.lk/peoples-bank-wins-overall-gold-at-national-business-excellence-awards-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785600360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-fd16727f",
+    "num": "islandlk-fd16727f",
+    "date_str": "2026-08-01",
+    "description": "The Last Cocktail PartyTerry Jonklaas and the Making of Modern Ceylonese Interiors",
+    "url_metadata": "http://island.lk/the-last-cocktail-partyterry-jonklaas-and-the-making-of-modern-ceylonese-interiors/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785600420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-06655c16",
+    "num": "islandlk-06655c16",
+    "date_str": "2026-08-01",
+    "description": "Reckless motorcyclists continue to endanger lives on Sri Lanka\u2019s roads",
+    "url_metadata": "http://island.lk/reckless-motorcyclists-continue-to-endanger-lives-on-sri-lankas-roads/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785600480.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-dailymirrorlk-40975246",
     "num": "dailymirrorlk-40975246",
     "date_str": "2026-08-01",
@@ -323604,6 +323736,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-60b99325",
+    "num": "islandlk-60b99325",
+    "date_str": "2026-08-01",
+    "description": "Angelo Mathews leads Kandy Royals at launch of new cancer drug facility project",
+    "url_metadata": "http://island.lk/angelo-mathews-leads-kandy-royals-at-launch-of-new-cancer-drug-facility-project/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785601680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-8ad753b4",
+    "num": "islandlk-8ad753b4",
+    "date_str": "2026-08-01",
+    "description": "Lanka explores passenger drones for future transport system",
+    "url_metadata": "http://island.lk/lanka-explores-passenger-drones-for-future-transport-system/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785601680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-b13884ab",
+    "num": "islandlk-b13884ab",
+    "date_str": "2026-08-01",
+    "description": "New Colombo Port Health office opens",
+    "url_metadata": "http://island.lk/new-colombo-port-health-office-opens/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785601680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-01-dailymirrorlk-28a52598",
     "num": "dailymirrorlk-28a52598",
     "date_str": "2026-08-01",
@@ -323612,6 +323777,61 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785601788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-e2e88e61",
+    "num": "islandlk-e2e88e61",
+    "date_str": "2026-08-01",
+    "description": "A Tribute to Sir Christopher Ondaatje \u2013 A Diagonal Journey across Sri Lanka",
+    "url_metadata": "http://island.lk/a-tribute-to-sir-christopher-ondaatje-a-diagonal-journey-across-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785601920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-26891893",
+    "num": "islandlk-26891893",
+    "date_str": "2026-08-01",
+    "description": "Working out my future with my father",
+    "url_metadata": "http://island.lk/working-out-my-future-with-my-father/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785602220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-d9d7c6ab",
+    "num": "islandlk-d9d7c6ab",
+    "date_str": "2026-08-01",
+    "description": "Hilton Samarasinghe: The man who gave faces to the dead",
+    "url_metadata": "http://island.lk/hilton-samarasinghe-the-man-who-gave-faces-to-the-dead/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785603060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-7c5ed99d",
+    "num": "islandlk-7c5ed99d",
+    "date_str": "2026-08-01",
+    "description": "OPA Facilitates Brainstorming Session on Harnessing Digital Transformation for Inclusive Development",
+    "url_metadata": "http://island.lk/opa-facilitates-brainstorming-session-on-harnessing-digital-transformation-for-inclusive-development/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785603600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-98572c39",
+    "num": "islandlk-98572c39",
+    "date_str": "2026-08-01",
+    "description": "Contributions of Chanaka Amaratunga towards Constitutional Reform",
+    "url_metadata": "http://island.lk/contributions-of-chanaka-amaratunga-towards-constitutional-reform/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785604080.0
   },
   {
     "doc_type": "lk_news",
@@ -323945,6 +324165,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-e55136fc",
+    "num": "adalk-e55136fc",
+    "date_str": "2026-08-02",
+    "description": "\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2 \u0dc3\u0dc4 \u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda \u0da2\u0dbd \u0db8\u0da7\u0dca\u0da7\u0db8 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2-\u0dc3\u0dc4-\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda-\u0da2\u0dbd-\u0db8\u0da7\u0dca\u0da7\u0db8-\u0d89\u0dc4\u0dc5\u0da7/11-423547",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785660313.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-02-tamilmirrorlk-7cc2f4b2",
     "num": "tamilmirrorlk-7cc2f4b2",
     "date_str": "2026-08-02",
@@ -324206,5 +324437,71 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785673311.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-4892c7ac",
+    "num": "dailymirrorlk-4892c7ac",
+    "date_str": "2026-08-02",
+    "description": "AG clears draft bill to extend judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AG-clears-draft-bill-to-extend-judges-retirement-age/108-347187",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785675662.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-4f40bd3e",
+    "num": "dailymirrorlk-4f40bd3e",
+    "date_str": "2026-08-02",
+    "description": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/WestJet-flight-attendants-go-on-strike-after-talks-fall-through-grounding-flights/108-347188",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785676100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-f7b03668",
+    "num": "tamilmirrorlk-f7b03668",
+    "date_str": "2026-08-02",
+    "description": "\u0bae\u0bb9\u0bb0 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd: 104 \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bb0-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd-104-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0b87\u0b9f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-380794",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785676139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-e7832d9a",
+    "num": "dailymirrorlk-e7832d9a",
+    "date_str": "2026-08-02",
+    "description": "Police seize 292 kg of ganja headed for Sri Lanka, arrest three",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-seize-292-kg-of-ganja-headed-for-Sri-Lanka-arrest-three/108-347189",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785677409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-7e184059",
+    "num": "dailymirrorlk-7e184059",
+    "date_str": "2026-08-02",
+    "description": "ISS astronauts grow kale and mustard sprouts to support future space missions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ISS-astronauts-grow-kale-and-mustard-sprouts-to-support-future-space-missions/108-347190",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785679188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-b1793893",
+    "num": "adalk-b1793893",
+    "date_str": "2026-08-02",
+    "description": "\u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0db8\u0dd4\u0db4\u0d9a\u0dcf\u0dbb \u0dc0\u0dd9\u0dc5\u0db3\u0dc3\u0dd0\u0dbd\u0dca 3,500\u0d9a\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1-\u0dc3\u0db8\u0dd4\u0db4\u0d9a\u0dcf\u0dbb-\u0dc0\u0dd9\u0dc5\u0db3\u0dc3\u0dd0\u0dbd\u0dca-3-500\u0d9a\u0dca-\u0dc4\u0dbb\u0dc4\u0dcf-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7/11-423549",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785681350.0
   }
 ]
