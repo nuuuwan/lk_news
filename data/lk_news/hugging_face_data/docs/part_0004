@@ -323923,6 +323923,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-318d7063",
+    "num": "adalk-318d7063",
+    "date_str": "2026-08-02",
+    "description": "\u0dbb\u0dcf\u0d9c\u0db8 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d89\u0dc0\u0dad\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0d9c\u0db8-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d89\u0dc0\u0dad\u0da7/11-423545",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785659240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-fc0f9d60",
+    "num": "adalk-fc0f9d60",
+    "date_str": "2026-08-02",
+    "description": "\u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0daf\u0dd3 \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca 1181\u0d9a\u0dca \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0dbb-\u0db4\u0dc4\u0d9a\u0daf\u0dd3-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca-1181\u0d9a\u0dca-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/11-423546",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785659810.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-02-tamilmirrorlk-7cc2f4b2",
     "num": "tamilmirrorlk-7cc2f4b2",
     "date_str": "2026-08-02",
@@ -323953,5 +323975,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785661002.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-1d2a0542",
+    "num": "tamilmirrorlk-1d2a0542",
+    "date_str": "2026-08-02",
+    "description": "\u0baf\u0bbe\u0ba9\u0bc8 \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd: \u0bb5\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0ba9\u0bc8-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd-\u0bb5\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd/175-380762",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785661329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-57f00eda",
+    "num": "dailymirrorlk-57f00eda",
+    "date_str": "2026-08-02",
+    "description": "South Korea experiences its hottest day in modern history",
+    "url_metadata": "https://www.dailymirror.lk/international/South-Korea-experiences-its-hottest-day-in-modern-history/107-347178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785661667.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-c86ed451",
+    "num": "dailymirrorlk-c86ed451",
+    "date_str": "2026-08-02",
+    "description": "Gangaramaya holds Sanghika Dana for late Ven. Gnanissara Thera",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Gangaramaya-holds-Sanghika-Dana-for-late-Ven-Gnanissara-Thera/110-347179",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785662082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-6e60d0ad",
+    "num": "tamilmirrorlk-6e60d0ad",
+    "date_str": "2026-08-02",
+    "description": "\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b93\u0bb0\u0bcd\u0b95\u0bbf\u0b9f\u0bcd \u0bae\u0bb2\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8 \u0ba4\u0bbe\u0bb5\u0bb0\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd-\u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0b93\u0bb0\u0bcd\u0b95\u0bbf\u0b9f\u0bcd-\u0bae\u0bb2\u0bb0\u0bcd-\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8-\u0ba4\u0bbe\u0bb5\u0bb0\u0bb5\u0bbf\u0baf\u0bb2\u0bcd-\u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/76-380763",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785662494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-d46a7f5f",
+    "num": "dailymirrorlk-d46a7f5f",
+    "date_str": "2026-08-02",
+    "description": "Government discusses Mullaitivu land issues at civil-military meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-discusses-Mullaitivu-land-issues-at-civil-military-meeting/108-347180",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785662817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-341915ea",
+    "num": "tamilmirrorlk-341915ea",
+    "date_str": "2026-08-02",
+    "description": "\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0baa\u0bc1\u0b9a\u0bcd\u0b9a\u0bbe \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8 \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bc1\u0b9a\u0bcd\u0b9a\u0bbe-\u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8-\u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbe\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe/50-380764",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785663117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-be50e774",
+    "num": "dailymirrorlk-be50e774",
+    "date_str": "2026-08-02",
+    "description": "Jasprit Bumrah ruled out of Sri Lanka Tests",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jasprit-Bumrah-ruled-out-of-Sri-Lanka-Tests/108-347181",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785663766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-28598391",
+    "num": "tamilmirrorlk-28598391",
+    "date_str": "2026-08-02",
+    "description": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b87- 20 \u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0b87-20-\u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-380765",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785664318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-4e34e379",
+    "num": "tamilmirrorlk-4e34e379",
+    "date_str": "2026-08-02",
+    "description": "\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae\u0bb5\u0bc8 \u0b9a\u0bc1\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0b87\u0bb0\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae\u0bb5\u0bc8-\u0b9a\u0bc1\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0b87\u0bb0\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/76-380766",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785664445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-3d9ec7ca",
+    "num": "tamilmirrorlk-3d9ec7ca",
+    "date_str": "2026-08-02",
+    "description": "\u0b85\u0baa\u0bcd\u0baa\u0bbe \u0b95\u0bc1\u0bb0\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba9\u0bcd\u0ba9\u0b95\u0bc8\u0ba4\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0baa\u0bcd\u0baa\u0bbe-\u0b95\u0bc1\u0bb0\u0bb2\u0bc8\u0b95\u0bcd-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1-\u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba9\u0bcd\u0ba9\u0b95\u0bc8\u0ba4\u0bcd\u0ba4-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8/50-380770",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785665576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-eeec186f",
+    "num": "tamilmirrorlk-eeec186f",
+    "date_str": "2026-08-02",
+    "description": "\u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bb1\u0ba8\u0bcd\u0ba4 \u2019\u0bb5\u0ba8\u0bcd\u0ba4\u0bc7 \u0baa\u0bbe\u0bb0\u0ba4\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bb1\u0ba8\u0bcd\u0ba4-\u0bb5\u0ba8\u0bcd\u0ba4\u0bc7-\u0baa\u0bbe\u0bb0\u0ba4\u0bcd/175-380771",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785665710.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-892b6b0a",
+    "num": "dailymirrorlk-892b6b0a",
+    "date_str": "2026-08-02",
+    "description": "Five dead, 41 missing, after Indonesia ferry catches fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-dead-41-missing-after-Indonesia-ferry-catches-fire/108-347182",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785666260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-a17ced8e",
+    "num": "dailymirrorlk-a17ced8e",
+    "date_str": "2026-08-02",
+    "description": "Sri Lanka Women seal T20I series with six-wicket win over Pakistan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Women-seal-T20I-series-with-six-wicket-win-over-Pakistan/108-347183",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785666965.0
   }
 ]
