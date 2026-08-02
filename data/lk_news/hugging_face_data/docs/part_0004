@@ -324429,6 +324429,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-da7a28bc",
+    "num": "dailymirrorlk-da7a28bc",
+    "date_str": "2026-08-02",
+    "description": "One sky for all",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/One-sky-for-all/110-347186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785672902.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-02-tamilmirrorlk-67f26f89",
     "num": "tamilmirrorlk-67f26f89",
     "date_str": "2026-08-02",
@@ -324503,5 +324514,60 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1785681350.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-38e6c3fe",
+    "num": "tamilmirrorlk-38e6c3fe",
+    "date_str": "2026-08-02",
+    "description": "\u0ba4\u0bca\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc8 \u0b95\u0bb4\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bae\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 ; \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bae\u0bbf\u0baf\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc8-\u0b95\u0bb4\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0bae\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bae\u0bbf\u0baf\u0bbe\u0bb0\u0bcd/175-380795",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785683643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-3ca8cb3b",
+    "num": "dailymirrorlk-3ca8cb3b",
+    "date_str": "2026-08-02",
+    "description": "Minister suspects outside influence in Mahara Prison unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-suspects-outside-influence-in-Mahara-Prison-unrest/108-347191",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785684272.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-22e8432c",
+    "num": "dailymirrorlk-22e8432c",
+    "date_str": "2026-08-02",
+    "description": "\u2018There is no agreement\u2019: Iran rejects Trump claim of Strait of Hormuz reopening deal",
+    "url_metadata": "https://www.dailymirror.lk/international/There-is-no-agreement-Iran-rejects-Trump-claim-of-Strait-of-Hormuz-reopening-deal/107-347193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785685911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-f46b067b",
+    "num": "dailymirrorlk-f46b067b",
+    "date_str": "2026-08-02",
+    "description": "Helicopters fighting Greece wildfires collide in mid-air",
+    "url_metadata": "https://www.dailymirror.lk/international/Helicopters-fighting-Greece-wildfires-collide-in-mid-air/107-347194",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785686313.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-d35d1e94",
+    "num": "tamilmirrorlk-d35d1e94",
+    "date_str": "2026-08-02",
+    "description": "\u201c\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0bb2\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bbe\u0ba9\u0bb5\u0bc8\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b95\u0bb2\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bbe\u0ba9\u0bb5\u0bc8/175-380797",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785687992.0
   }
 ]
