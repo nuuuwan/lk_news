@@ -323791,6 +323791,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-b7cc0bdf",
+    "num": "adalk-b7cc0bdf",
+    "date_str": "2026-08-02",
+    "description": "\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-423543",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785653179.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-02-tamilmirrorlk-69467185",
     "num": "tamilmirrorlk-69467185",
     "date_str": "2026-08-02",
@@ -323799,5 +323810,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785653548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-d40b1f49",
+    "num": "tamilmirrorlk-d40b1f49",
+    "date_str": "2026-08-02",
+    "description": "282 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b89\u0bb2\u0bb0\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/282-\u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd-\u0b89\u0bb2\u0bb0\u0bcd-\u0b95\u0b9e\u0bcd\u0b9a\u0bbe-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-380754",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785654947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-56ec1009",
+    "num": "tamilmirrorlk-56ec1009",
+    "date_str": "2026-08-02",
+    "description": "\u0ba4\u0bc0\u0bb5\u0bbf\u0bb0 \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0\u0bb5\u0bbf\u0bb0-\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380756",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785655979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-adalk-36afc8b8",
+    "num": "adalk-36afc8b8",
+    "date_str": "2026-08-02",
+    "description": "\u0dbd\u0ddc\u0dc0 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0d8b\u0da9\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dcf \u0dc1\u0dcf\u0d9b\u0dba\u0d9a\u0dca \u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba\u0dda \u0db4\u0dd2\u0db4\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0dbd\u0ddc\u0dc0-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8-\u0d8b\u0da9\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dcf-\u0dc1\u0dcf\u0d9b\u0dba\u0d9a\u0dca-\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba\u0dda-\u0db4\u0dd2\u0db4\u0dd9\u0dba\u0dd2/10-423544",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785657791.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-65611e7f",
+    "num": "dailymirrorlk-65611e7f",
+    "date_str": "2026-08-02",
+    "description": "Police curfew lifted in three Ragama GN divisions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-curfew-lifted-in-three-Ragama-GN-divisions/108-347170",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785657889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-dba37fab",
+    "num": "dailymirrorlk-dba37fab",
+    "date_str": "2026-08-02",
+    "description": "World breastfeeding week begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-breastfeeding-week-begins/108-347171",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-2f69a869",
+    "num": "dailymirrorlk-2f69a869",
+    "date_str": "2026-08-02",
+    "description": "Namal accuses government for Mahara prison unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-accuses-government-for-Mahara-prison-unrest/108-347172",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-088a3aed",
+    "num": "dailymirrorlk-088a3aed",
+    "date_str": "2026-08-02",
+    "description": "Fires on more than 250,000 acres of Washington state prompt evacuations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fires-on-more-than-250-000-acres-of-Washington-state-prompt-evacuations/108-347173",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-91fbb084",
+    "num": "dailymirrorlk-91fbb084",
+    "date_str": "2026-08-02",
+    "description": "Sajith wants task force appointed to face El-Nino phenomenon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-wants-task-force-appointed-to-face-El-Nino-phenomenon/108-347174",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-17209b1f",
+    "num": "dailymirrorlk-17209b1f",
+    "date_str": "2026-08-02",
+    "description": "Mahara Prison unrest damages multiple facilities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahara-Prison-unrest-damages-multiple-facilities/108-347175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-dailymirrorlk-6d2f336e",
+    "num": "dailymirrorlk-6d2f336e",
+    "date_str": "2026-08-02",
+    "description": "Mahara Prison begins transferring inmates after violent unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahara-Prison-begins-transferring-inmates-after-violent-unrest/108-347176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785658931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-7cc2f4b2",
+    "num": "tamilmirrorlk-7cc2f4b2",
+    "date_str": "2026-08-02",
+    "description": "\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0b9a\u0bbe\u0bb0\u0bbf (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4-\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bbf\u0baf-\u0baa\u0bbe\u0ba4\u0b9a\u0bbe\u0bb0\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-380759",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785660414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-76290827",
+    "num": "tamilmirrorlk-76290827",
+    "date_str": "2026-08-02",
+    "description": "2.9 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2-9-\u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0ba8\u0bbf\u0ba4\u0bbf-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-380760",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785660695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-02-tamilmirrorlk-bef9ba40",
+    "num": "tamilmirrorlk-bef9ba40",
+    "date_str": "2026-08-02",
+    "description": "\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b85\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b85\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1/175-380761",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785661002.0
   }
 ]

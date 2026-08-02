@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--02_12:42:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--02_14:34:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**125,795** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**125,809** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-02-tamilmirrorlk-69467185",
-    "num": "tamilmirrorlk-69467185",
+    "doc_id": "2026-08-02-tamilmirrorlk-bef9ba40",
+    "num": "tamilmirrorlk-bef9ba40",
     "date_str": "2026-08-02",
-    "description": "\u0bae\u0bb9\u0bb0 \u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bb0-\u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/46-380753",
+    "description": "\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b85\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b85\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1/175-380761",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785653548.0
+    "time_ut": 1785661002.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-02 | `tamilmirrorlk-bef9ba40` | சார்ஜில் இருந்த அலைபேசி திருட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-bef9ba40)
+- 2026-08-02 | `tamilmirrorlk-76290827` | 2.9 இலட்சம் நிதி மோசடி: பெண் பொலிஸ் அதிகாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-76290827)
+- 2026-08-02 | `tamilmirrorlk-7cc2f4b2` | காற்றில் சாய்ந்த மரத்தால் பதறிய பாதசாரி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-7cc2f4b2)
+- 2026-08-02 | `dailymirrorlk-6d2f336e` | Mahara Prison begins transferring inmates after violent unrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-6d2f336e)
+- 2026-08-02 | `dailymirrorlk-17209b1f` | Mahara Prison unrest damages multiple facilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-17209b1f)
+- 2026-08-02 | `dailymirrorlk-91fbb084` | Sajith wants task force appointed to face El-Nino phenomenon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-91fbb084)
+- 2026-08-02 | `dailymirrorlk-088a3aed` | Fires on more than 250,000 acres of Washington state prompt evacuations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-088a3aed)
+- 2026-08-02 | `dailymirrorlk-2f69a869` | Namal accuses government for Mahara prison unrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-2f69a869)
+- 2026-08-02 | `dailymirrorlk-dba37fab` | World breastfeeding week begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-dba37fab)
+- 2026-08-02 | `dailymirrorlk-65611e7f` | Police curfew lifted in three Ragama GN divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-65611e7f)
+- 2026-08-02 | `adalk-36afc8b8` | ලොව විශාලතම උඩවැඩියා ශාඛයක් පේරාදෙණියේ පිපෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-adalk-36afc8b8)
+- 2026-08-02 | `tamilmirrorlk-56ec1009` | தீவிர காற்று குறித்த எச்சரிக்கை அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-56ec1009)
+- 2026-08-02 | `tamilmirrorlk-d40b1f49` | 282 கிலோகிராம் உலர் கஞ்சா மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-d40b1f49)
 - 2026-08-02 | `tamilmirrorlk-69467185` | மஹர சிறையில் கோடிக்கணக்கில் நட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-69467185)
+- 2026-08-02 | `adalk-b7cc0bdf` | බන්ධනාගාර පද්ධතිය ප්‍රතිසංස්කරණය කිරිමට කටයුතු කළ යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-adalk-b7cc0bdf)
 - 2026-08-02 | `tamilmirrorlk-5451d04f` | EX-க்கு Like போட்ட காதலன்: Thar-ஐ வெறும் ரூ. 5,000-க்கு விற்ற காதலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-5451d04f)
 - 2026-08-02 | `tamilmirrorlk-d5c4d434` | பொலிஸ் ஓட்டோ மீது முறிந்து விழுந்த இம்புல் மரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-d5c4d434)
 - 2026-08-02 | `tamilmirrorlk-dd6af87a` | முத்துமாரியம்மன் ஆலயத்தில் வேல் திருட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-dd6af87a)
 - 2026-08-02 | `tamilmirrorlk-8ac4299a` | இரும்புப் பாலத்தை சீரமைக்கும் இயந்திரங்கள் நீரில் மூழ்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-8ac4299a)
 - 2026-08-02 | `tamilmirrorlk-ca8b14ce` | சிகரெட்டுகளுடன் சீன தொழிலதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-ca8b14ce)
-- 2026-08-02 | `tamilmirrorlk-9853b8a8` | ஊதிப் பார்த்த பட்டாசு விபரீதம்: நள்ளிரவில் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-9853b8a8)
-- 2026-08-02 | `tamilmirrorlk-b0a05212` | தலைக்கவசம் அணியாமல் சென்ற இளைஞர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-b0a05212)
-- 2026-08-02 | `tamilmirrorlk-44135031` | குவைத் மீது ஈரான் தாக்குதல்; முக்கிய அரச கட்டமைப்புகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-44135031)
-- 2026-08-02 | `dailymirrorlk-4770fa28` | Mahara Prison unrest brought under control; Curfew remains in force | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-4770fa28)
-- 2026-08-02 | `dailymirrorlk-7d33d452` | Trump says he is cancelling strikes on Iran subject to ’rapidly’ making deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-7d33d452)
-- 2026-08-02 | `dailymirrorlk-efc607ac` | Tourist plane crashes in Peru, killing 13 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-dailymirrorlk-efc607ac)
-- 2026-08-02 | `adalk-a868d488` | මොස්කව් අවන්හලක පිපිරීමකින් තිදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-adalk-a868d488)
-- 2026-08-02 | `adalk-ad421087` | ඉරානයට එරෙහි ප්‍රහාර අවලංගු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-adalk-ad421087)
-- 2026-08-02 | `adalk-596d3359` | නොසන්සුන් වූ මහර සන්සුන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-adalk-596d3359)
-- 2026-08-02 | `tamilmirrorlk-8a6f4237` | நாட்டின் பல பகுதிகளில் மழை நீடிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-8a6f4237)
-- 2026-08-02 | `tamilmirrorlk-a069bcc3` | ஊரடங்கு குறித்து அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-02-tamilmirrorlk-a069bcc3)
-- 2026-08-01 | `dailymirrorlk-28a52598` | New Army Commander assumes duties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-dailymirrorlk-28a52598)
-- 2026-08-01 | `adalk-0d55f102` | රාගම පොලිස් බල ප්‍ර දේශයට ඇඳිරි නිතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-0d55f102)
-- 2026-08-01 | `adalk-62c3d946` | මහර බන්ධනාගාර ගැටුමෙන් රැඳවියෙක් මිය යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-01-adalk-62c3d946)
 
 ---
 
