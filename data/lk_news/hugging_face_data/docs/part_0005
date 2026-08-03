@@ -662,5 +662,93 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785782156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-51a44f80",
+    "num": "dailyftlk-51a44f80",
+    "date_str": "2026-08-04",
+    "description": "KPMG webinar on understanding Sri Lanka\u2019s recent tax reforms: Navigating complexity with confidence",
+    "url_metadata": "https://www.ft.lk/business/KPMG-webinar-on-understanding-Sri-Lanka-s-recent-tax-reforms-Navigating-complexity-with-confidence/34-795525",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785784796.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-904118ee",
+    "num": "dailyftlk-904118ee",
+    "date_str": "2026-08-04",
+    "description": "SLEIS 2026 to spotlight investment opportunities and economic reform",
+    "url_metadata": "https://www.ft.lk/business/SLEIS-2026-to-spotlight-investment-opportunities-and-economic-reform/34-795526",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785784914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-b8e8b609",
+    "num": "dailyftlk-b8e8b609",
+    "date_str": "2026-08-04",
+    "description": "CIC Holdings reports strong 20% profit growth in 1Q, group assets exceed Rs. 100 b",
+    "url_metadata": "https://www.ft.lk/business/CIC-Holdings-reports-strong-20-profit-growth-in-1Q-group-assets-exceed-Rs-100-b/34-795527",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785785007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-d468044a",
+    "num": "dailyftlk-d468044a",
+    "date_str": "2026-08-04",
+    "description": "Can Sri Lanka overcome past mistakes and craft a path of development?",
+    "url_metadata": "https://www.ft.lk/columns/Can-Sri-Lanka-overcome-past-mistakes-and-craft-a-path-of-development/4-795528",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785785812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-7bf4e1a2",
+    "num": "dailyftlk-7bf4e1a2",
+    "date_str": "2026-08-04",
+    "description": "What Sri Lanka can learn from India\u2019s youth uprising",
+    "url_metadata": "https://www.ft.lk/columns/What-Sri-Lanka-can-learn-from-India-s-youth-uprising/4-795529",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785786172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-826dcf88",
+    "num": "dailyftlk-826dcf88",
+    "date_str": "2026-08-04",
+    "description": "Construction costs continue  to rise as market conditions shift",
+    "url_metadata": "https://www.ft.lk/columns/Construction-costs-continue-to-rise-as-market-conditions-shift/4-795531",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785786625.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-4b54205f",
+    "num": "dailyftlk-4b54205f",
+    "date_str": "2026-08-04",
+    "description": "State-owned firm to manage multimodal transport hubs",
+    "url_metadata": "https://www.ft.lk/business/State-owned-firm-to-manage-multimodal-transport-hubs/34-795542",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785788715.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-effad2a7",
+    "num": "dailyftlk-effad2a7",
+    "date_str": "2026-08-04",
+    "description": "Sri Lanka strengthens global textile presence at Texworld NYC 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-strengthens-global-textile-presence-at-Texworld-NYC-2026/34-795543",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785788774.0
   }
 ]

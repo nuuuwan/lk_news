@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_00:23:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_02:22:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,010** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailymirrorlk-b43e1479",
-    "num": "dailymirrorlk-b43e1479",
+    "doc_id": "2026-08-04-dailyftlk-effad2a7",
+    "num": "dailyftlk-effad2a7",
     "date_str": "2026-08-04",
-    "description": "Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development",
-    "url_metadata": "https://www.dailymirror.lk/hard-talk/Our-intention-is-to-increase-the-tenure-of-most-of-the-Professions-Chathuranga-Abeysinghe-Deputy-Minister-of-Industry-and-Entrepreneurship-Development/334-347311",
+    "description": "Sri Lanka strengthens global textile presence at Texworld NYC 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-strengthens-global-textile-presence-at-Texworld-NYC-2026/34-795543",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785782156.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785788774.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-04 | `dailyftlk-effad2a7` | Sri Lanka strengthens global textile presence at Texworld NYC 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-effad2a7)
+- 2026-08-04 | `dailyftlk-4b54205f` | State-owned firm to manage multimodal transport hubs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-4b54205f)
+- 2026-08-04 | `dailyftlk-826dcf88` | Construction costs continue  to rise as market conditions shift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-826dcf88)
+- 2026-08-04 | `dailyftlk-7bf4e1a2` | What Sri Lanka can learn from India’s youth uprising | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-7bf4e1a2)
+- 2026-08-04 | `dailyftlk-d468044a` | Can Sri Lanka overcome past mistakes and craft a path of development? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-d468044a)
+- 2026-08-04 | `dailyftlk-b8e8b609` | CIC Holdings reports strong 20% profit growth in 1Q, group assets exceed Rs. 100 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-b8e8b609)
+- 2026-08-04 | `dailyftlk-904118ee` | SLEIS 2026 to spotlight investment opportunities and economic reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-904118ee)
+- 2026-08-04 | `dailyftlk-51a44f80` | KPMG webinar on understanding Sri Lanka’s recent tax reforms: Navigating complexity with confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-51a44f80)
 - 2026-08-04 | `dailymirrorlk-b43e1479` | Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-b43e1479)
 - 2026-08-03 | `tamilmirrorlk-f1673fc6` | பெரும் அசம்பாவிதம் தவிர்ப்பு: வெள்ளத்தில் சிக்கிய பேருந்திலிருந்து பயணிகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-f1673fc6)
 - 2026-08-03 | `tamilmirrorlk-40952073` | மண்மேடு சரிந்து விபத்து : மூதாட்டியின் சடலம் மீட்பு , நால்வர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-40952073)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-03 | `dailymirrorlk-2a4e528a` | Office of Commission on Public Sector Salaries, Pensions to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-2a4e528a)
 - 2026-08-03 | `dailymirrorlk-17baba71` | Bumrah ruled out, Aaqib Nabi earns India test call-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-17baba71)
 - 2026-08-03 | `dailymirrorlk-39792bbc` | Earth mound collapses on house in Hatton, four missing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-39792bbc)
-- 2026-08-03 | `tamilmirrorlk-e50d54fb` | ஒட்டுமொத்த அனர்த்த சுருக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-e50d54fb)
-- 2026-08-03 | `tamilmirrorlk-2e63ad8a` | கோட்டாவை கைது செய்வதா? இல்லையா?  செப்டம்பர் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-2e63ad8a)
-- 2026-08-03 | `adalk-5905b7ef` | මැදපෙරදිග යුද්ධයෙන් පීඩාවට පත්වූවන්ට සහන දෙන රු.බි. 71.7ක පැකේජයට අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-adalk-5905b7ef)
-- 2026-08-03 | `tamilmirrorlk-220dbb1d` | மாணவர்களின் கண்முன்னே ஆசிரியை தாக்குதல் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-220dbb1d)
-- 2026-08-03 | `dailymirrorlk-fa7e5cba` | Rains to ease by tomorrow afternoon: Met. Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-fa7e5cba)
-- 2026-08-03 | `dailymirrorlk-59528b4c` | Gotabaya’s writ petition fixed for order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-59528b4c)
-- 2026-08-03 | `tamilmirrorlk-42a9cec7` | மகாவலி, களனி கரை​யோரங்களுக்கு சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-42a9cec7)
-- 2026-08-03 | `dailymirrorlk-848e046a` | Communist Party urges President to act on Indian trawler issue affecting Jaffna fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-848e046a)
 
 ---
 
