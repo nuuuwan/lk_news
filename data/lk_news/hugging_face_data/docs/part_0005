@@ -225,6 +225,17 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-2843fe61",
+    "num": "adalk-2843fe61",
+    "date_str": "2026-08-03",
+    "description": "\u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba \u0da9\u0ddc.\u0db6\u0dd2. 6.5\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dc4\u0dad\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba-\u0da9\u0ddc-\u0db6\u0dd2--6-5\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0db4\u0dc4\u0dad\u0da7/11-423566",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785749360.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-03-adalk-55c28e71",
     "num": "adalk-55c28e71",
     "date_str": "2026-08-03",
@@ -489,6 +500,17 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-5905b7ef",
+    "num": "adalk-5905b7ef",
+    "date_str": "2026-08-03",
+    "description": "\u0db8\u0dd0\u0daf\u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd6\u0dc0\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0db1 \u0daf\u0dd9\u0db1 \u0dbb\u0dd4.\u0db6\u0dd2. 71.7\u0d9a \u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0daf\u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c-\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7-\u0db4\u0dad\u0dca\u0dc0\u0dd6\u0dc0\u0db1\u0dca\u0da7-\u0dc3\u0dc4\u0db1-\u0daf\u0dd9\u0db1-\u0dbb\u0dd4-\u0db6\u0dd2--71-7\u0d9a-\u0db4\u0dd0\u0d9a\u0dda\u0da2\u0dba\u0da7-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-423573",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785759228.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-03-tamilmirrorlk-2e63ad8a",
     "num": "tamilmirrorlk-2e63ad8a",
     "date_str": "2026-08-03",
@@ -508,5 +530,71 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785762315.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-39792bbc",
+    "num": "dailymirrorlk-39792bbc",
+    "date_str": "2026-08-03",
+    "description": "Earth mound collapses on house in Hatton, four missing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Earth-mound-collapses-on-house-in-Hatton-four-missing/108-347272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785763286.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-17baba71",
+    "num": "dailymirrorlk-17baba71",
+    "date_str": "2026-08-03",
+    "description": "Bumrah ruled out, Aaqib Nabi earns India test call-up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bumrah-ruled-out-Aaqib-Nabi-earns-India-test-call-up/108-347273",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785763699.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-2a4e528a",
+    "num": "dailymirrorlk-2a4e528a",
+    "date_str": "2026-08-03",
+    "description": "Office of Commission on Public Sector Salaries, Pensions to open tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Office-of-Commission-on-Public-Sector-Salaries-Pensions-to-open-tomorrow/108-347274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785764813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-0cdd1415",
+    "num": "dailymirrorlk-0cdd1415",
+    "date_str": "2026-08-03",
+    "description": "Jay Shah\u2019s Tanzania milestone, US ban, Sri Lanka gold & FIFA leadership crisis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jay-Shahs-Tanzania-milestone-US-ban-Sri-Lanka-gold-FIFA-leadership-crisis/108-347275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785767091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-cef5a548",
+    "num": "tamilmirrorlk-cef5a548",
+    "date_str": "2026-08-03",
+    "description": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1 \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1, \u0baa\u0bb2\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8;  2,000\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd-\u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1-\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bb2\u0bb0\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8-2-000\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380843",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785769028.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-359ad2d1",
+    "num": "dailymirrorlk-359ad2d1",
+    "date_str": "2026-08-03",
+    "description": "Fishing community warned of floating containers on southern seas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishing-community-warned-of-floating-containers-on-southern-seas/108-347276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785769638.0
   }
 ]
