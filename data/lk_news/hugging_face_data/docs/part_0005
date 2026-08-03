@@ -596,5 +596,60 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785769638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-a8cb39e9",
+    "num": "dailymirrorlk-a8cb39e9",
+    "date_str": "2026-08-03",
+    "description": "Oil prices drop 5% to three-week low after Trump cancels attack on Iran",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-prices-drop-5-to-three-week-low-after-Trump-cancels-attack-on-Iran/107-347278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785771545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-411acd90",
+    "num": "dailymirrorlk-411acd90",
+    "date_str": "2026-08-03",
+    "description": "Morocco names longest highway after Donald Trump",
+    "url_metadata": "https://www.dailymirror.lk/international/Morocco-names-longest-highway-after-Donald-Trump/107-347279",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785771933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-613d5433",
+    "num": "dailymirrorlk-613d5433",
+    "date_str": "2026-08-03",
+    "description": "CoPF approves Rs. 71.7 Billion relief package to mitigate impact of Middle East conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CoPF-approves-Rs-71-7-Billion-relief-package-to-mitigate-impact-of-Middle-East-conflict/108-347280",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785772240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-40952073",
+    "num": "tamilmirrorlk-40952073",
+    "date_str": "2026-08-03",
+    "description": "\u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1 \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0bae\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1 , \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1-\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/175-380844",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785773426.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-f1673fc6",
+    "num": "tamilmirrorlk-f1673fc6",
+    "date_str": "2026-08-03",
+    "description": "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1: \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd-\u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-380845",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785774153.0
   }
 ]
