@@ -750,5 +750,60 @@ b\u0dd4\u0db1\u0dca\u0da7/11-423557",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785788774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-bf46d533",
+    "num": "dailyftlk-bf46d533",
+    "date_str": "2026-08-04",
+    "description": "Beyond stabilisation: Sri Lanka\u2019s path to inclusive growth",
+    "url_metadata": "https://www.ft.lk/opinion/Beyond-stabilisation-Sri-Lanka-s-path-to-inclusive-growth/14-795560",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785793151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-00da4e7d",
+    "num": "dailyftlk-00da4e7d",
+    "date_str": "2026-08-04",
+    "description": "Mahara prison riots: Forensic inspections begin amid damage assessment",
+    "url_metadata": "https://www.ft.lk/news/Mahara-prison-riots-Forensic-inspections-begin-amid-damage-assessment/56-795565",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785793859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-6ca556cc",
+    "num": "dailyftlk-6ca556cc",
+    "date_str": "2026-08-04",
+    "description": "President meets Tamil and Muslim political alliance, says committed to abolishing Executive Presidency",
+    "url_metadata": "https://www.ft.lk/news/President-meets-Tamil-and-Muslim-political-alliance-says-committed-to-abolishing-Executive-Presidency/56-795566",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785794010.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-46297e4b",
+    "num": "dailyftlk-46297e4b",
+    "date_str": "2026-08-04",
+    "description": "Rain to ease, but flood risks remain in several areas: Met Dept.",
+    "url_metadata": "https://www.ft.lk/news/Rain-to-ease-but-flood-risks-remain-in-several-areas-Met-Dept/56-795567",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785794139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailyftlk-c0dc917c",
+    "num": "dailyftlk-c0dc917c",
+    "date_str": "2026-08-04",
+    "description": "CIABOC indicts Yoshitha and Karannagoda over alleged  Navy course irregularity",
+    "url_metadata": "https://www.ft.lk/news/CIABOC-indicts-Yoshitha-and-Karannagoda-over-alleged-Navy-course-irregularity/56-795568",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785794195.0
   }
 ]

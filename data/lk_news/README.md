@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_02:22:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_04:15:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,010** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,015** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailyftlk-effad2a7",
-    "num": "dailyftlk-effad2a7",
+    "doc_id": "2026-08-04-dailyftlk-c0dc917c",
+    "num": "dailyftlk-c0dc917c",
     "date_str": "2026-08-04",
-    "description": "Sri Lanka strengthens global textile presence at Texworld NYC 2026",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-strengthens-global-textile-presence-at-Texworld-NYC-2026/34-795543",
+    "description": "CIABOC indicts Yoshitha and Karannagoda over alleged  Navy course irregularity",
+    "url_metadata": "https://www.ft.lk/news/CIABOC-indicts-Yoshitha-and-Karannagoda-over-alleged-Navy-course-irregularity/56-795568",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1785788774.0
+    "time_ut": 1785794195.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-04 | `dailyftlk-c0dc917c` | CIABOC indicts Yoshitha and Karannagoda over alleged  Navy course irregularity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-c0dc917c)
+- 2026-08-04 | `dailyftlk-46297e4b` | Rain to ease, but flood risks remain in several areas: Met Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-46297e4b)
+- 2026-08-04 | `dailyftlk-6ca556cc` | President meets Tamil and Muslim political alliance, says committed to abolishing Executive Presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-6ca556cc)
+- 2026-08-04 | `dailyftlk-00da4e7d` | Mahara prison riots: Forensic inspections begin amid damage assessment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-00da4e7d)
+- 2026-08-04 | `dailyftlk-bf46d533` | Beyond stabilisation: Sri Lanka’s path to inclusive growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-bf46d533)
 - 2026-08-04 | `dailyftlk-effad2a7` | Sri Lanka strengthens global textile presence at Texworld NYC 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-effad2a7)
 - 2026-08-04 | `dailyftlk-4b54205f` | State-owned firm to manage multimodal transport hubs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-4b54205f)
 - 2026-08-04 | `dailyftlk-826dcf88` | Construction costs continue  to rise as market conditions shift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-826dcf88)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-03 | `dailymirrorlk-411acd90` | Morocco names longest highway after Donald Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-411acd90)
 - 2026-08-03 | `dailymirrorlk-a8cb39e9` | Oil prices drop 5% to three-week low after Trump cancels attack on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-a8cb39e9)
 - 2026-08-03 | `dailymirrorlk-359ad2d1` | Fishing community warned of floating containers on southern seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-359ad2d1)
-- 2026-08-03 | `tamilmirrorlk-cef5a548` | ஹட்டனில் மண்மேடு சரிந்தது: ஒருவர் உயிரிழப்பு, பலரைக் காணவில்லை;  2,000க்கும் அதிகமானோர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-cef5a548)
-- 2026-08-03 | `dailymirrorlk-0cdd1415` | Jay Shah’s Tanzania milestone, US ban, Sri Lanka gold & FIFA leadership crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-0cdd1415)
-- 2026-08-03 | `dailymirrorlk-2a4e528a` | Office of Commission on Public Sector Salaries, Pensions to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-2a4e528a)
-- 2026-08-03 | `dailymirrorlk-17baba71` | Bumrah ruled out, Aaqib Nabi earns India test call-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-17baba71)
-- 2026-08-03 | `dailymirrorlk-39792bbc` | Earth mound collapses on house in Hatton, four missing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-39792bbc)
 
 ---
 
