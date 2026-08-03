@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--03_22:40:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_00:23:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-03-tamilmirrorlk-f1673fc6",
-    "num": "tamilmirrorlk-f1673fc6",
-    "date_str": "2026-08-03",
-    "description": "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1: \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b85\u0b9a\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0ba4\u0bae\u0bcd-\u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-380845",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785774153.0
+    "doc_id": "2026-08-04-dailymirrorlk-b43e1479",
+    "num": "dailymirrorlk-b43e1479",
+    "date_str": "2026-08-04",
+    "description": "Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/Our-intention-is-to-increase-the-tenure-of-most-of-the-Professions-Chathuranga-Abeysinghe-Deputy-Minister-of-Industry-and-Entrepreneurship-Development/334-347311",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785782156.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-04 | `dailymirrorlk-b43e1479` | Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-b43e1479)
 - 2026-08-03 | `tamilmirrorlk-f1673fc6` | பெரும் அசம்பாவிதம் தவிர்ப்பு: வெள்ளத்தில் சிக்கிய பேருந்திலிருந்து பயணிகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-f1673fc6)
 - 2026-08-03 | `tamilmirrorlk-40952073` | மண்மேடு சரிந்து விபத்து : மூதாட்டியின் சடலம் மீட்பு , நால்வர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-40952073)
 - 2026-08-03 | `dailymirrorlk-613d5433` | CoPF approves Rs. 71.7 Billion relief package to mitigate impact of Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-613d5433)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-03 | `dailymirrorlk-59528b4c` | Gotabaya’s writ petition fixed for order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-59528b4c)
 - 2026-08-03 | `tamilmirrorlk-42a9cec7` | மகாவலி, களனி கரை​யோரங்களுக்கு சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-42a9cec7)
 - 2026-08-03 | `dailymirrorlk-848e046a` | Communist Party urges President to act on Indian trawler issue affecting Jaffna fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-848e046a)
-- 2026-08-03 | `dailymirrorlk-601bad10` | President reaffirms need to abolish executive presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-601bad10)
 
 ---
 
