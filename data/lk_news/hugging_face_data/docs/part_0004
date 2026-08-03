@@ -324778,5 +324778,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785701797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-886f54ea",
+    "num": "dailyftlk-886f54ea",
+    "date_str": "2026-08-03",
+    "description": "AG clears draft judges\u2019 retirement age Bill",
+    "url_metadata": "https://www.ft.lk/news/AG-clears-draft-judges-retirement-age-Bill/56-795483",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-58a09e30",
+    "num": "dailyftlk-58a09e30",
+    "date_str": "2026-08-03",
+    "description": "Justice Minister suspects outside role in Mahara Prison unrest",
+    "url_metadata": "https://www.ft.lk/news/Justice-Minister-suspects-outside-role-in-Mahara-Prison-unrest/56-795484",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-0758218f",
+    "num": "dailyftlk-0758218f",
+    "date_str": "2026-08-03",
+    "description": "Mahara Prison riot exposes overcrowding crisis, causes heavy destruction",
+    "url_metadata": "https://www.ft.lk/news/Mahara-Prison-riot-exposes-overcrowding-crisis-causes-heavy-destruction/56-795485",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-3f7ef42a",
+    "num": "dailyftlk-3f7ef42a",
+    "date_str": "2026-08-03",
+    "description": "Sri Lanka makes history at World Schools Debating Championships",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-makes-history-at-World-Schools-Debating-Championships/56-795487",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-1506c92d",
+    "num": "dailyftlk-1506c92d",
+    "date_str": "2026-08-03",
+    "description": "Bharti Airtel\u2019s Tarun Kumar joins Dialog Axiata Board",
+    "url_metadata": "https://www.ft.lk/business/Bharti-Airtel-s-Tarun-Kumar-joins-Dialog-Axiata-Board/34-795488",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710894.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-472425e8",
+    "num": "dailyftlk-472425e8",
+    "date_str": "2026-08-03",
+    "description": "Directors must focus on governance, not compliance costs: Minor Group\u2019s Rajakarier",
+    "url_metadata": "https://www.ft.lk/business/Directors-must-focus-on-governance-not-compliance-costs-Minor-Group-s-Rajakarier/34-795489",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785710988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-4bac663e",
+    "num": "dailyftlk-4bac663e",
+    "date_str": "2026-08-03",
+    "description": "The case for returning Hambantota Port\u2019s eastern expansion to Sri Lankan control",
+    "url_metadata": "https://www.ft.lk/columns/The-case-for-returning-Hambantota-Port-s-eastern-expansion-to-Sri-Lankan-control/4-795490",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785716802.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-d4cbfaee",
+    "num": "dailyftlk-d4cbfaee",
+    "date_str": "2026-08-03",
+    "description": "Chalinda Abeykoon: The art of building without permission",
+    "url_metadata": "https://www.ft.lk/columns/Chalinda-Abeykoon-The-art-of-building-without-permission/4-795498",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785717906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailyftlk-e1c91ef3",
+    "num": "dailyftlk-e1c91ef3",
+    "date_str": "2026-08-03",
+    "description": "Binod Chaudhary\u2019s recipe for realising your dreams",
+    "url_metadata": "https://www.ft.lk/columns/Binod-Chaudhary-s-recipe-for-realising-your-dreams/4-795499",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785718140.0
   }
 ]

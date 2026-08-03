@@ -1,0 +1,35 @@
+Chalinda Abeykoon: The art of building without permission
+
+Chalinda Abeykoon sat his final exam on 18 May 2009. The war ended the same day.
+
+It is the sort of coincidence that would look heavy-handed in fiction. His was the first generation in a long time that did not have to organise its life around the question of leaving. The country was suddenly safer, and staying had become a choice rather than a sacrifice. The catch was that the rest of the world had just come apart. The financial crisis had frozen hiring everywhere, and there was very little work to stay for.
+
+Chalinda went looking anyway. More than thirty interviews across six months, almost all of them for the BPO and outsourcing roles that made up nearly the entire ICT market. Half those companies were not really hiring. Of the ones that were, he wanted almost nothing on offer. There were only a handful of genuine tech companies in the country then, and starting one yourself was not a thought anybody had. Nobody in his generation had grown up in an environment where that was something people did.
+
+Then came the job that changed the trajectory: a development role at the Information and Communication Technology Agency (ICTA).
+
+Chalinda is unsentimental about most things, but not about the people who shaped him there. He still describes the leaders above him as the gold standard of the profession, quietly excellent in a way few people outside the building ever knew. They groomed him, and he watched how they worked. Over roughly four and a half years, he split his time between entrepreneurship development and promoting Sri Lanka abroad as an outsourcing destination. Helping some seventy-five companies obtain quality certifications that made them attractive to foreign customers, and putting international technology certifications in the hands of around twenty-five thousand students across Sri Lanka.
+
+The program that would define this stretch started, he insists, by accident. Graduates like him were coming out every year into a market with nowhere near enough jobs to absorb them, and someone had to help them start companies instead. That became Spiralation, the country’s first real tech startup program.
+
+“It did not feel like ecosystem-building at the time, it felt like a party. There were no meeting places, no co-working spaces and no coffee shops to gather in, so we made our own, and the crowd that kept turning up felt less like a professional network than a tribe,” Chalinda admits.
+
+It changed gear with the hackathons. The word had only just arrived in Colombo, and nobody was sure how to define it until a trip to India and a twenty-four-hour startup weekend left them wide-eyed. They came home and ran their own. The one in Kandy is the one Chalinda keeps returning to: more than two hundred students from every corner of the country, the university opening up its hostels to house them.
+
+For many it was the first time they had left their own province. Students who had never been out of the peninsula came down from Jaffna and worked through the night alongside students from the South, discovering over a single weekend how little the versions of each other they had been handed as children matched the people across the table.
+
+The lesson Chalinda guards most carefully is this: “Take a long-term view on people, not opportunities.” Opportunities always come back, and the eagerness to chase them is what gets founders into trouble. People are the real bet, and it took him years to learn to read them properly. It now governs how he invests at nVentures. Before the market, before the numbers, he asks one question. “If the roles were reversed, is this a company I would enjoy working for? Would I enjoy working with this founder?” If the answer is yes, he goes hard. If it is no, he stays out, however good the deal looks.
+
+On founders, Chalinda is just as specific. Prior domain expertise, once his obsession, he now rates as almost optional, what cannot be faked is founder-market fit. The only way to win is to out-learn everyone already in the field, and nobody sustains that pace unless they care about the people on the other side of the problem. He points to founders who walked in knowing nothing about an industry and, within months, watched their command of it go vertical.
+
+Sri Lanka, he says, has always excelled at the permission professions, the doctor, the lawyer, the engineer, each reached through a process no one is allowed to skip. “Entrepreneurship is nothing like that. Nobody buying your software asks where you studied, any more than they ask a painter which art school they attended. It’s closer to art than science, and an artist doesn’t stand around asking what to paint. He just paints.”
+
+So it frustrates him that so much of what the ecosystem celebrates, the certificates, the awards, is still permission dressed up as achievement. He has seen award-winning companies with no customers at all, and wonders aloud what the trophy is actually for. The early years needed that energy: the rooms built out of nothing, the hackathons, the crowds, they all did their job of getting people together. That job is done. The transition that has not happened is the one from the meetup to the company, from activity to real businesses with real revenue walking out the other side.
+
+This is where nVentures comes in. His generation was told to win local customers first, prove the product at home and only then look abroad. With the new software and AI, he thinks that sequence is dead. You can be globally relevant from day one, solving problems for markets you have never set foot in, from an office in Colombo. The companies nVentures wants are “globally relevant and locally inspirational,” built here, sold everywhere.
+
+The fund sits in Singapore for unglamorous reasons: governance, the ability to raise foreign capital, and the plumbing for cross-border investment and institutional exits. Chalinda doubts the exits they have produced would have happened otherwise, and exits are the point, because they not only create jobs, they create wealth. The proof of it is quietly circular. Founders he once invested in through the first fund and are now investors in his second fund, writing bigger cheques than the ones they took. That, to him, is the whole return: not headlines, not job numbers alone, but wealth created and then recycled, by Sri Lankans, for Sri Lankans.
+
+His parting advice is five short words. Stop asking permission. Go build.
+
+(The author is a Consultant at the TiE Colombo Corporate Office, the Sri Lankan chapter of The Indus Entrepreneurs (TiE), a global network committed to nurturing entrepreneurship through mentorship, networking, and access to capital.)
