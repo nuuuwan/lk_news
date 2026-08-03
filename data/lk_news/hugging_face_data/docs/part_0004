@@ -325089,6 +325089,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-d1baf9bc",
+    "num": "adalk-d1baf9bc",
+    "date_str": "2026-08-03",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd2\u0dba\u0dda \u0d9c\u0dd2\u0db1\u0dd2 \u0db1\u0dd2\u0dc0\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0dc4\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db4\u0dca\u0da7\u0dbb\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd2\u0dba\u0dda-\u0d9c\u0dd2\u0db1\u0dd2-\u0db1\u0dd2\u0dc0\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0dc4\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db4\u0dca\u0da7\u0dbb\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423554",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785726439.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-03-tamilmirrorlk-bfacce21",
     "num": "tamilmirrorlk-bfacce21",
     "date_str": "2026-08-03",
@@ -325207,5 +325218,201 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785734642.0
-  }
-]
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-b83163ad",
+    "num": "dailymirrorlk-b83163ad",
+    "date_str": "2026-08-03",
+    "description": "Sri Lanka Debaters Make History at World Schools Debating Championship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Debaters-Make-History-at-World-Schools-Debating-Championship/108-347225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785734940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-f5bf87ad",
+    "num": "adalk-f5bf87ad",
+    "date_str": "2026-08-03",
+    "description": "\u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3 \u0db4\u0dd4\u0dbb \u0d87\u0dc5 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0d9c\u0dbd\u0dcf \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0da2\u0dbd\u0dba\u0da7 \u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3-\u0db4\u0dd4\u0dbb-\u0d87\u0dc5-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca-\u0db4\u0dd2\u0da7\u0dcf\u0dbb-\u0d9c\u0dbd\u0dcf-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca-\u0da2\u0dbd\u0dba\u0da7-\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-423555",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785735048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-fb11c51e",
+    "num": "tamilmirrorlk-fb11c51e",
+    "date_str": "2026-08-03",
+    "description": "\u0ba4\u0bb0\u0bb5\u0bb3\u0bc8 \u0b95\u0bca\u0bb2\u0ba9\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1 \u0b9a\u0bb0\u0bbf\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bb0\u0bb5\u0bb3\u0bc8-\u0b95\u0bca\u0bb2\u0ba9\u0bbf-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1-\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1/76-380808",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785735113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-9e301c02",
+    "num": "dailymirrorlk-9e301c02",
+    "date_str": "2026-08-03",
+    "description": "Second shipping container washes ashore on Southern coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Second-shipping-container-washes-ashore-on-Southern-coast/108-347226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785735156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-93ef6069",
+    "num": "dailymirrorlk-93ef6069",
+    "date_str": "2026-08-03",
+    "description": "River levels rise after heavy rain; residents in low-lying areas urged to remain alert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/River-levels-rise-after-heavy-rain-residents-in-low-lying-areas-urged-to-remain-alert/108-347227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785735538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-50dc0794",
+    "num": "dailymirrorlk-50dc0794",
+    "date_str": "2026-08-03",
+    "description": "Flash flood warning issued for Gelioya, Peradeniya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flash-flood-warning-issued-for-Gelioya-Peradeniya/108-347228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785735789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-67529d11",
+    "num": "dailymirrorlk-67529d11",
+    "date_str": "2026-08-03",
+    "description": "Govt. to seek SC opinion on confusion regarding terms of President and Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-seek-SC-opinion-on-confusion-regarding-terms-of-President-and-Parliament/108-347229",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785735930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-638e16cb",
+    "num": "tamilmirrorlk-638e16cb",
+    "date_str": "2026-08-03",
+    "description": "\u0bae\u0bc7\u0bb2\u0bcd\u0b95\u0bca\u0ba4\u0bcd\u0bae\u0bb2\u0bc8 \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 3 \u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0ba4\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bc7\u0bb2\u0bcd\u0b95\u0bca\u0ba4\u0bcd\u0bae\u0bb2\u0bc8-\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-3-\u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0ba4\u0bb5\u0bc1\u0b95\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1/76-380809",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785736033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-e1a3ed23",
+    "num": "dailymirrorlk-e1a3ed23",
+    "date_str": "2026-08-03",
+    "description": "Patients at risk due to leadership vacuum at J\u2019pura hospital, Doctor claims",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Patients-at-risk-due-to-leadership-vacuum-at-Jpura-hospital-Doctor-claims/108-347231",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785736125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-4b505f0b",
+    "num": "tamilmirrorlk-4b505f0b",
+    "date_str": "2026-08-03",
+    "description": "\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b95\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1: \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3 \u0b85\u0baa\u0bbe\u0baf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf-\u0b95\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3-\u0b85\u0baa\u0bbe\u0baf-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-380810",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785736341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-09440a27",
+    "num": "dailymirrorlk-09440a27",
+    "date_str": "2026-08-03",
+    "description": "Landslide evacuation warning issued for parts of Kandy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-evacuation-warning-issued-for-parts-of-Kandy/108-347239",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785736905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-49f59d94",
+    "num": "adalk-49f59d94",
+    "date_str": "2026-08-03",
+    "description": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd\u0dda\u0daf\u0dd3 \u0db6\u0dc3\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d9c\u0dd0\u0da7\u0dd3 20\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd\u0dda\u0daf\u0dd3-\u0db6\u0dc3\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d9c\u0dd0\u0da7\u0dd3-20\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-423556",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785737408.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-36c94c3d",
+    "num": "tamilmirrorlk-36c94c3d",
+    "date_str": "2026-08-03",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-380811",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785737422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-655f9628",
+    "num": "dailymirrorlk-655f9628",
+    "date_str": "2026-08-03",
+    "description": "Suicide bomber targets rally in Pakistan, killing at least 14",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-least-14/108-347240",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785737563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-1244eb31",
+    "num": "dailymirrorlk-1244eb31",
+    "date_str": "2026-08-03",
+    "description": "Indictments filed against Yoshitha Rajapaksa and Karannagoda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indictments-filed-against-Yoshitha-Rajapaksa-and-Karannagoda/108-347241",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785738219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-62e2e531",
+    "num": "tamilmirrorlk-62e2e531",
+    "date_str": "2026-08-03",
+    "description": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 450 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-450-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380812",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785738680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-adalk-b5c03bd5",
+    "num": "adalk-b5c03bd5",
+    "date_str": "2026-08-03",
+    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0dc4\u0dcf \u0dc4\u0dd0\u0da7\u0db1\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dda \u0db6\u0dbd\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba-\u0dc4\u0dcf-\u0dc4\u0dd0\u0da7\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dc3\u0dcf-\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dda-\u0db6\u0dbd\u0dba-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7/11-423557",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785740043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-1d32bff4",
+    "num": "tamilmirrorlk-1d32bff4",
+    "date_str": "2026-08-03",
+    "description": "\u0bb5\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0baa\u0bb2\u0bbf (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bb5\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0baa\u0bb2\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-380814",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+  
