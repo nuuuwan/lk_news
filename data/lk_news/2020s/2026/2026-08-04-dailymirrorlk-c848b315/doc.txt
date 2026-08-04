@@ -1,0 +1,25 @@
+WhatsApp tests separate folder for business messages to reduce inbox clutter
+
+VarIndia - Meta-owned WhatsApp is testing a new feature designed to help users better manage business communications by automatically moving messages from large enterprises into a dedicated folder. The initiative comes as the platform experiences rapid growth in business messaging and AI-powered customer engagement, prompting efforts to improve the user experience without limiting enterprise interactions.
+
+The feature follows Meta's strong second-quarter 2026 performance, during which CEO Mark Zuckerberg said revenue from the company's "Other" category within its Family of Apps business surpassed $1 billion, driven largely by WhatsApp's paid messaging services and subscription offerings.
+
+As more organisations use WhatsApp to communicate with customers, users are increasingly receiving promotional offers, transaction alerts and service updates alongside personal conversations. Meta's latest experiment is intended to reduce inbox congestion while ensuring important business communications remain accessible.
+
+Under the pilot programme, messages from larger businesses, including banks, airlines and other enterprises, will automatically move to a new "Offers & Updates" folder after a predefined period. Meta is currently evaluating different time intervals, with messages expected to be transferred within a few hours and up to 24 hours after delivery.
+
+Users who prefer to keep business messages in their primary chat list will have the option to disable the feature. However, the timing of when eligible messages are moved during the trial is determined by WhatsApp rather than individual users.
+
+According to the company, separating promotional and transactional communications from personal conversations is expected to make the main inbox easier to navigate while giving businesses a dedicated space where customers can find their messages without them being buried among regular chats.
+
+The feature is currently being tested with selected organisations using the WhatsApp Business Platform. At this stage, smaller businesses and individual WhatsApp Business accounts are not included in the rollout, although Meta indicated that broader support may be considered in the future.
+
+The latest test builds on a series of measures WhatsApp has introduced over recent years to reduce unwanted business messaging. The platform has progressively expanded user controls, including options to unsubscribe from marketing messages, restrictions on broadcast messaging and limits on the number of unsolicited business messages that can be sent without customer engagement.
+
+These initiatives reflect Meta's broader strategy of balancing commercial opportunities with user experience as WhatsApp continues to evolve into a major business communication platform.
+
+The company's business ecosystem has also expanded rapidly with the global rollout of AI-powered business agents in June. Meta said more than one million businesses are already using these AI capabilities to automate customer interactions, sales and support functions. During the company's earnings call, Zuckerberg highlighted improved customer engagement and conversion rates achieved by Brazilian car rental company Movida through AI-driven interactions on WhatsApp.
+
+With WhatsApp now serving more than three billion users worldwide, Meta faces the challenge of supporting increasing enterprise adoption while preserving the app's core role as a personal messaging platform. The new business message folder represents another step toward managing that balance, as AI-enabled business communications become a larger part of the platform's long-term growth strategy.
+
+Why Countries Are Banning Children from Social Media and What It Means for Sri Lanka

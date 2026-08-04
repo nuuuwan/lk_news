@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_12:43:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_14:48:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,077** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,100** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-tamilmirrorlk-01da3d0e",
-    "num": "tamilmirrorlk-01da3d0e",
+    "doc_id": "2026-08-04-dailymirrorlk-a9585034",
+    "num": "dailymirrorlk-a9585034",
     "date_str": "2026-08-04",
-    "description": "\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 6 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-6-\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-380868",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785825511.0
+    "description": "50 low-floor buses added to Metro fleet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/50-low-floor-buses-added-to-Metro-fleet/108-347357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785834438.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-08-04 | `tamilmirrorlk-01da3d0e` | உதயநிதிக்கு எதிராக 6 பிரிவுகளில் வழக்கு: உதயநிதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-01da3d0e)
-- 2026-08-04 | `dailymirrorlk-3d723f23` | Box Office history made as Spider-Man beats Endgame | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-3d723f23)
-- 2026-08-04 | `dailymirrorlk-a393e534` | Cross talk on Auditor General’s salary increase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a393e534)
-- 2026-08-04 | `dailymirrorlk-ef962033` | Very rough seas; fishing, naval communities told not to venture out | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-ef962033)
-- 2026-08-04 | `tamilmirrorlk-3444368e` | சபாநாயகரிடம் எதிர்க்கட்சிப் பிரேரணை கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-3444368e)
-- 2026-08-04 | `dailymirrorlk-f060970f` | Three lions die in zoo as Japan battles extreme heat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-f060970f)
-- 2026-08-04 | `tamilmirrorlk-810c785d` | ’இல்லை நாம் வழங்க மாட்டோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-810c785d)
-- 2026-08-04 | `dailymirrorlk-d6b1ae95` | Dengue wards remain overcrowded despite decline in daily cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-d6b1ae95)
-- 2026-08-04 | `adalk-4c9a09ed` | ජූලි මාසයේ විදේශ රැකියා සඳහා පිටත්වීම් සියයට 4.84 න් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-4c9a09ed)
-- 2026-08-04 | `tamilmirrorlk-e894d043` | நீதிபதிகளின் ஓய்வூதிய வயது நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-e894d043)
-- 2026-08-04 | `tamilmirrorlk-8ffb5a4b` | தெளிவான நிலைப்பாட்டைக் கோரிய பங்களாதேஷ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-8ffb5a4b)
-- 2026-08-04 | `dailymirrorlk-fdd74829` | Half-naked female image in memento stirs hornet’s nest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-fdd74829)
-- 2026-08-04 | `dailymirrorlk-a4475294` | Mahanayake Theras had received wrong information: Justice Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a4475294)
-- 2026-08-04 | `adalk-e7ea1ba2` | අඹගමුවේදි සැඩ පහරට හසු වූ ලංගම බස් රථය තරුණයෝ බේරා ගනිති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-e7ea1ba2)
-- 2026-08-04 | `dailymirrorlk-c0d142b7` | Bangladesh asks India to clarify stance on Hasina’s planned New Delhi speech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c0d142b7)
-- 2026-08-04 | `adalk-b2ca86ce` | ඇමෙරිකාව සමග සාකච්ඡා නෑ, සාකච්ඡා ඕමානය සමගයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-b2ca86ce)
-- 2026-08-04 | `tamilmirrorlk-04cf903c` | மார்பகக் கப்பை காட்டும் விருதுக்கு கடும் எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-04cf903c)
-- 2026-08-04 | `dailymirrorlk-778b5098` | Motorcycle-only lanes planned on major roads | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-778b5098)
-- 2026-08-04 | `tamilmirrorlk-8d697cdf` | வெள்ளத்தால் உயிரிழந்தோர் எண்ணிக்கை 85 ஆக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-8d697cdf)
-- 2026-08-04 | `tamilmirrorlk-4ed83d02` | யாழில்  இரட்டையர்   இருவரும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-4ed83d02)
+- 2026-08-04 | `dailymirrorlk-a9585034` | 50 low-floor buses added to Metro fleet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a9585034)
+- 2026-08-04 | `dailymirrorlk-c9fb8dea` | Cabinet nod to fast-track house arrest bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c9fb8dea)
+- 2026-08-04 | `tamilmirrorlk-1cafe592` | கவர்ச்சியால் கவனம் ஈர்த்த நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-1cafe592)
+- 2026-08-04 | `dailymirrorlk-c424ea03` | Udhayanidhi Stalin arrested over remarks on actor Trisha, DMK cries ’’vendetta’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c424ea03)
+- 2026-08-04 | `dailymirrorlk-ee91f9bf` | Public urged to beware of social media extortion scams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-ee91f9bf)
+- 2026-08-04 | `dailymirrorlk-50552208` | Public urged to use DMC emergency hotline 117 during heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-50552208)
+- 2026-08-04 | `dailymirrorlk-37391831` | Joint Opposition urges international partners to review Anti-Corruption Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-37391831)
+- 2026-08-04 | `tamilmirrorlk-930a7477` | விஜய், த்ரிஷாவை  ஆபாசமாக உதயநிதி இழிவுப்படுத்திய அந்த வசனம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-930a7477)
+- 2026-08-04 | `dailymirrorlk-c848b315` | WhatsApp tests separate folder for business messages to reduce inbox clutter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c848b315)
+- 2026-08-04 | `dailymirrorlk-43c24ec6` | Teachers, principals protest over module issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-43c24ec6)
+- 2026-08-04 | `tamilmirrorlk-541eaf12` | காதலியின் கல்லறையில் காதலன் மாண்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-541eaf12)
+- 2026-08-04 | `tamilmirrorlk-a0380d32` | த்ரிஷாவை இழிவுப்படுத்திய  உதயநிதி ஸ்டாலின் பேச்சுக்கு வைகோ கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-a0380d32)
+- 2026-08-04 | `tamilmirrorlk-9889f9ab` | திரிஷாவிடம் உதயநிதி மன்னிப்பு கேட்க வேண்டும்: குஷ்பு கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-9889f9ab)
+- 2026-08-04 | `dailymirrorlk-1619d3a8` | Government mulls one-year retirement extension for Police officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-1619d3a8)
+- 2026-08-04 | `tamilmirrorlk-a69de38b` | உதயநிதி கைது, கடைகள் அடைப்பு: மு.க. ஸ்டாலின் முக்கிய ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-a69de38b)
+- 2026-08-04 | `dailymirrorlk-1d1ee23f` | Court rejects bid to obtain Chamika Karunaratne’s blood sample for DNA test | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-1d1ee23f)
+- 2026-08-04 | `tamilmirrorlk-cd51ef4a` | உதயநிதி கைதுக்கு எதிராக தி.மு.க. அமளி: மக்களவை  ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-cd51ef4a)
+- 2026-08-04 | `dailymirrorlk-17aec716` | Udhayanidhi’s ’double-meaning’ remark allegedly on actor Trisha courts controversy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-17aec716)
+- 2026-08-04 | `dailymirrorlk-64e8be12` | Opposition calls for select committee to look into clearing of court cases backlog | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-64e8be12)
+- 2026-08-04 | `dailymirrorlk-a8989593` | Draft Bill to extend judges’ retirement age sent for Gazette publication: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a8989593)
 
 ---
 
