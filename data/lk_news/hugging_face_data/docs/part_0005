@@ -1806,6 +1806,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-bcf75623",
+    "num": "adalk-bcf75623",
+    "date_str": "2026-08-04",
+    "description": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda \u0d86\u0dc3\u0db1 \u0db4\u0da7\u0dd2 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0dbd\u0dca \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda-\u0d86\u0dc3\u0db1-\u0db4\u0da7\u0dd2-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0db8\u0dcf\u0dc3-\u0dad\u0dd4\u0db1\u0d9a\u0dd2\u0db1\u0dca-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/11-423588",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785836068.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-adalk-658e36f7",
     "num": "adalk-658e36f7",
     "date_str": "2026-08-04",
@@ -2210,5 +2221,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785852821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-9666278c",
+    "num": "dailymirrorlk-9666278c",
+    "date_str": "2026-08-04",
+    "description": "Rubio says US-Iran strait talks progress, deal could come \u2019very shortly\u2019",
+    "url_metadata": "https://www.dailymirror.lk/international/Rubio-says-US-Iran-strait-talks-progress-deal-could-come-very-shortly/107-347381",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785856639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-2a96518b",
+    "num": "dailymirrorlk-2a96518b",
+    "date_str": "2026-08-04",
+    "description": "Youth arrested for defrauding woman of Rs. 6.6M",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-arrested-for-defrauding-woman-of-Rs-6-6M/108-347382",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785857372.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-d33c06a0",
+    "num": "dailymirrorlk-d33c06a0",
+    "date_str": "2026-08-04",
+    "description": "Eight dead, nearly 12,000 affected by adverse weather",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eight-dead-nearly-12-000-affected-by-adverse-weather/108-347383",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785857526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-313dd5da",
+    "num": "dailymirrorlk-313dd5da",
+    "date_str": "2026-08-04",
+    "description": "Proposed Animal Welfare Bill could destroy Sri Lankan culture",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Proposed-Animal-Welfare-Bill-could-destroy-Sri-Lankan-culture/108-347384",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785859556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-8b08cbb0",
+    "num": "dailymirrorlk-8b08cbb0",
+    "date_str": "2026-08-04",
+    "description": "\u2019It was a rebirth for all of us\u2019: Passengers recall chaos after Air India flight hits turbulence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/It-was-a-rebirth-for-all-of-us-Passengers-recall-chaos-after-Air-India-flight-hits-turbulence/108-347385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785860051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-79a6b8f1",
+    "num": "dailymirrorlk-79a6b8f1",
+    "date_str": "2026-08-04",
+    "description": "Dehiwala shooting attempt foiled as bakery owner seizes gun",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dehiwala-shooting-attempt-foiled-as-bakery-owner-seizes-gun/108-347386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785861631.0
   }
 ]
