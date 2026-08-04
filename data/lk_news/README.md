@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_06:34:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_08:51:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,015** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,042** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailyftlk-c0dc917c",
-    "num": "dailyftlk-c0dc917c",
+    "doc_id": "2026-08-04-tamilmirrorlk-5d2785c6",
+    "num": "tamilmirrorlk-5d2785c6",
     "date_str": "2026-08-04",
-    "description": "CIABOC indicts Yoshitha and Karannagoda over alleged  Navy course irregularity",
-    "url_metadata": "https://www.ft.lk/news/CIABOC-indicts-Yoshitha-and-Karannagoda-over-alleged-Navy-course-irregularity/56-795568",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1785794195.0
+    "description": "\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 7 \u0b86\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-7-\u0b86\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380851",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785812308.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-04 | `tamilmirrorlk-5d2785c6` | அனர்த்தங்களால் உயிரிழந்தவர்களின் எண்ணிக்கை 7 ஆக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-5d2785c6)
+- 2026-08-04 | `tamilmirrorlk-1fd6ef18` | கொழும்பு - கண்டி பிரதான வீதி மீண்டும் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-1fd6ef18)
+- 2026-08-04 | `tamilmirrorlk-98ad5440` | மோசமான வானிலைக்கு மத்தியில் பரீட்சைகள் நடைபெறுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-98ad5440)
+- 2026-08-04 | `adalk-95761995` | ගනේතැන්න - කඩුගන්නාව මාර්ග කොටස විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-95761995)
+- 2026-08-04 | `adalk-834b8c22` | අමානා බැංකුව සිය ප්‍රධාන කාර්යාල පරිශ්‍රය Lee Hedges වෙතින් මිලට ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-834b8c22)
+- 2026-08-04 | `tamilmirrorlk-e7ab1310` | இன்றும் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-e7ab1310)
 - 2026-08-04 | `dailyftlk-c0dc917c` | CIABOC indicts Yoshitha and Karannagoda over alleged  Navy course irregularity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-c0dc917c)
 - 2026-08-04 | `dailyftlk-46297e4b` | Rain to ease, but flood risks remain in several areas: Met Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-46297e4b)
 - 2026-08-04 | `dailyftlk-6ca556cc` | President meets Tamil and Muslim political alliance, says committed to abolishing Executive Presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-6ca556cc)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-08-04 | `dailyftlk-904118ee` | SLEIS 2026 to spotlight investment opportunities and economic reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-904118ee)
 - 2026-08-04 | `dailyftlk-51a44f80` | KPMG webinar on understanding Sri Lanka’s recent tax reforms: Navigating complexity with confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailyftlk-51a44f80)
 - 2026-08-04 | `dailymirrorlk-b43e1479` | Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-b43e1479)
-- 2026-08-03 | `tamilmirrorlk-f1673fc6` | பெரும் அசம்பாவிதம் தவிர்ப்பு: வெள்ளத்தில் சிக்கிய பேருந்திலிருந்து பயணிகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-f1673fc6)
-- 2026-08-03 | `tamilmirrorlk-40952073` | மண்மேடு சரிந்து விபத்து : மூதாட்டியின் சடலம் மீட்பு , நால்வர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-tamilmirrorlk-40952073)
-- 2026-08-03 | `dailymirrorlk-613d5433` | CoPF approves Rs. 71.7 Billion relief package to mitigate impact of Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-613d5433)
-- 2026-08-03 | `dailymirrorlk-411acd90` | Morocco names longest highway after Donald Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-411acd90)
-- 2026-08-03 | `dailymirrorlk-a8cb39e9` | Oil prices drop 5% to three-week low after Trump cancels attack on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-a8cb39e9)
-- 2026-08-03 | `dailymirrorlk-359ad2d1` | Fishing community warned of floating containers on southern seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-03-dailymirrorlk-359ad2d1)
 
 ---
 
