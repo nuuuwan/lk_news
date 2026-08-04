@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_02:17:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_04:12:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailymirrorlk-a5cd03f6",
-    "num": "dailymirrorlk-a5cd03f6",
+    "doc_id": "2026-08-05-dailymirrorlk-3a3bd8a8",
+    "num": "dailymirrorlk-3a3bd8a8",
     "date_str": "2026-08-05",
-    "description": "CDB wins NBEA Overall Excellence Silver",
-    "url_metadata": "https://www.dailymirror.lk/business-news/CDB-wins-NBEA-Overall-Excellence-Silver/273-347394",
+    "description": "A National Security Imperative:  When intelligence exists, but communication fails",
+    "url_metadata": "https://www.dailymirror.lk/opinion/A-National-Security-Imperative-When-intelligence-exists-but-communication-fails/172-347414",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785875721.0
+    "time_ut": 1785882389.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-05 | `dailymirrorlk-3a3bd8a8` | A National Security Imperative:  When intelligence exists, but communication fails | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-3a3bd8a8)
+- 2026-08-05 | `dailymirrorlk-68b8b6e7` | Decision to extend the retirement age of judges: A well-meaning policy implemented in Gotabaya style | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-68b8b6e7)
+- 2026-08-05 | `dailymirrorlk-454f5954` | When will South Asia wake up to climate reality? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-454f5954)
+- 2026-08-05 | `dailymirrorlk-9ad4e0b5` | Has the Consumer Affairs Authority Gone into Hibernation? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-9ad4e0b5)
+- 2026-08-05 | `dailymirrorlk-649fc092` | Local confectioners brace for bitter tariff squeeze | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-649fc092)
+- 2026-08-05 | `dailymirrorlk-1eeec5ac` | FTZMA pitches ‘no wrong door’ pathway to boost forex earnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-1eeec5ac)
+- 2026-08-05 | `dailymirrorlk-9f3f2d68` | Pan Asia Bank appoints new Chairman, Deputy Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-9f3f2d68)
+- 2026-08-05 | `dailymirrorlk-0c0e2b8b` | Audit exposes Rs. 350.7mn bill for rebranded SOE unit with limited progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-0c0e2b8b)
+- 2026-08-05 | `dailymirrorlk-154c7b47` | Sri Lankans working in India can continue Sri Lanka EPF contributions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-154c7b47)
+- 2026-08-05 | `dailymirrorlk-60e7c017` | Limited activity weighs on the secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-60e7c017)
+- 2026-08-05 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-2831aeed)
+- 2026-08-05 | `dailymirrorlk-90718924` | ACL acquires Singair eyeing next growth phase in Bangladesh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-90718924)
+- 2026-08-05 | `dailymirrorlk-7b9a8e6a` | Experts to share insights on Sri Lanka’s latest tax reforms at KPMG webinar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-7b9a8e6a)
+- 2026-08-05 | `dailymirrorlk-28db6373` | BMH highlights advances in scoliosis surgery, outlines support for Sri Lankan patients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-28db6373)
+- 2026-08-05 | `dailymirrorlk-d1f305d6` | Ceylon Chamber’s Motor Vehicle Industry Report returns after six years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-d1f305d6)
+- 2026-08-05 | `dailymirrorlk-e7d4974a` | Syntetica raises US$ 30mn in ‘Series A’ funding round to advance solutions for nylon recycling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-e7d4974a)
+- 2026-08-05 | `dailymirrorlk-cac1fb5d` | ComBank reaffirms position as SL’s No. 1 ranked bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-cac1fb5d)
 - 2026-08-05 | `dailymirrorlk-a5cd03f6` | CDB wins NBEA Overall Excellence Silver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-a5cd03f6)
 - 2026-08-05 | `dailymirrorlk-6c66a7aa` | BOC celebrates 87 years of trust, service and transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-6c66a7aa)
 - 2026-08-05 | `dailymirrorlk-c9d9231d` | Asian Paints Causeway unveils Royale Infinity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-c9d9231d)
-- 2026-08-05 | `dailymirrorlk-55c294fe` | ATG achieves EcoVadis Platinum Rating | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-55c294fe)
-- 2026-08-05 | `dailymirrorlk-d97078b3` | ALT X certified Great Place to Work again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-d97078b3)
-- 2026-08-05 | `dailymirrorlk-1f23d636` | WISTA Sri Lanka reappoints Chamila Bandara as President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-1f23d636)
-- 2026-08-05 | `dailymirrorlk-aeeac4cb` | LB Al-Salamah sweeps boards at SLIBFI Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-aeeac4cb)
-- 2026-08-05 | `dailymirrorlk-21c5f204` | Sports World in Focus: Zaheer joins Jaffna, India arrive & FIFA shake-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-21c5f204)
-- 2026-08-04 | `dailymirrorlk-79a6b8f1` | Dehiwala shooting attempt foiled as bakery owner seizes gun | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-79a6b8f1)
-- 2026-08-04 | `dailymirrorlk-8b08cbb0` | ’It was a rebirth for all of us’: Passengers recall chaos after Air India flight hits turbulence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-8b08cbb0)
-- 2026-08-04 | `dailymirrorlk-313dd5da` | Proposed Animal Welfare Bill could destroy Sri Lankan culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-313dd5da)
-- 2026-08-04 | `dailymirrorlk-d33c06a0` | Eight dead, nearly 12,000 affected by adverse weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-d33c06a0)
-- 2026-08-04 | `dailymirrorlk-2a96518b` | Youth arrested for defrauding woman of Rs. 6.6M | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-2a96518b)
-- 2026-08-04 | `dailymirrorlk-9666278c` | Rubio says US-Iran strait talks progress, deal could come ’very shortly’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-9666278c)
-- 2026-08-04 | `dailymirrorlk-31b3d8d1` | Constitution amendment to extend retirement age of judges will be implemented despite opposition protests: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-31b3d8d1)
-- 2026-08-04 | `dailymirrorlk-400e31bf` | Two remanded over alleged multi-million rupee Customs fraud involving luxury vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-400e31bf)
-- 2026-08-04 | `dailymirrorlk-c882ff79` | Heart and Lung Transplant Programme fundraiser held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c882ff79)
-- 2026-08-04 | `dailymirrorlk-dc7fbeba` | CID launches probe into SLPP General Secretary’s remarks on IGP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-dc7fbeba)
-- 2026-08-04 | `dailymirrorlk-a04d7da8` | Two reservoirs spill as 73 major reservoirs hold 39% capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a04d7da8)
-- 2026-08-04 | `tamilmirrorlk-47d2e2ff` | ஹட்டன் வலயத்துக்கு நாளை பூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-47d2e2ff)
 
 ---
 

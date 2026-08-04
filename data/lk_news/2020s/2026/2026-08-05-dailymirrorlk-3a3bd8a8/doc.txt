@@ -1,0 +1,77 @@
+A National Security Imperative:  When intelligence exists, but communication fails
+
+During Cyclone Ditwah meteorological and landslide warnings existed, yet many communities in the hill country and plantation areas received incomplete, delayed, or language-inaccessible alerts
+
+Time and again, critical information has been available, yet the absence of timely dissemination, confirmed receipt, swift response, structured feedback, and mutual trust between sender and recipient has turned preventable threats into national tragedies
+
+One of the most critical weaknesses in current practice is the absence of disciplined, structured feedback loops. Dissemination without feedback is incomplete communication. Feedback without structure becomes noise
+
+Effective communication is the invisible backbone of national security. Without it, even the most accurate intelligence becomes useless, and coordinated action collapses into confusion. Sri Lanka has repeatedly paid a heavy price for this gap. Time and again, critical information has been available, yet the absence of timely dissemination, confirmed receipt, swift response, structured feedback, and mutual trust between sender and recipient has turned preventable threats into national tragedies. The Easter Sunday attacks of 2019 remain the starkest illustration. Foreign intelligence warnings reached the highest levels of the security apparatus days and even hours before the bombings. Names, locations, and the nature of the threat were known. Yet the system failed to convert that knowledge into decisive protective action. Information moved in fragments, often through informal channels.
+
+There was no reliable mechanism to confirm that the right operational commanders had received it, understood its urgency, or taken ownership. Feedback loops were weak or non-existent. The relationship of trust between intelligence producers and decision-makers had already been eroded by institutional silos and political distance. The result was institutional paralysis at the precise moment when speed and clarity were essential.
+
+This pattern has not been confined to terrorism. Recent disaster responses have exposed the same structural weaknesses. During Cyclone Ditwah in late 2025, meteorological and landslide warnings existed, yet many communities, particularly Tamil-speaking populations in the hill country and plantation areas, received incomplete, delayed, or language-inaccessible alerts. Official channels issued contradictory assessments. Power and telecom outages further severed the link between national centres and ground responders. Once again, the sequence broke down: dissemination occurred in part, but receipt was not ensured, response was uneven, and feedback from the field struggled to reach decision-makers in time.
+
+Even internal security institutions have not been immune. The deadly unrest at Negombo Prison in July 2026 highlighted coordination and information failures within a single system. Conflicting lists of affected inmates, delayed clarity for families, and the disabling of surveillance systems pointed to breakdowns in real-time communication and accountability. When those responsible for order cannot maintain clear, confirmed channels among themselves, the wider public inevitably loses confidence.
+
+These episodes share a common anatomy of failure. Intelligence or early warning is collected. It is partially disseminated. But the critical intermediate steps, ensuring the recipient has actually received and understood the message, confirming that appropriate action has been initiated, establishing a rapid feedback channel, and securing timely acknowledgement,  are frequently missing or informal. In high-stakes environments, informal systems are fragile. They depend on personal relationships that may be strained by institutional rivalry, rank sensitivity, or past mistrust.
+
+At the national security level, communication is not a support function. It is a core operational capability. A modern state facing hybrid threats, organised crime, terrorism, and climate-driven disasters requires a secure, resilient, and government-owned critical communication infrastructure that prioritises clear classification and urgency indicators, guaranteed delivery with confirmation of receipt, priority routing for operationally valuable intelligence, structured two-way feedback, and audit trails that support accountability without paralysing action.
+
+One of the most critical weaknesses in current practice is the absence of disciplined, structured feedback loops. Dissemination without feedback is incomplete communication. Feedback without structure becomes noise. Effective national security communication therefore requires deliberate mechanisms that close the loop between sender and recipient.
+
+A structured feedback loop should include the following essential elements:
+
+Immediate acknowledgement of receipt by the designated recipient or command centre.
+
+Confirmation that the content has been understood, including any clarification sought within a defined short timeframe.
+
+Reporting of the initial action or decision taken in response to the information.
+
+Periodic updates on progress or changing circumstances until the matter is resolved or formally closed.
+
+A final summary that records outcomes and lessons for institutional learning.
+
+These steps must be supported by clear protocols on who is responsible for providing feedback, the maximum acceptable timeframes for each stage, and the channels through which feedback is transmitted. In operational environments, priority channels should allow near real-time two-way exchange, particularly when intelligence of high operational value is involved. Without such structure, critical information can disappear into organisational silence, leaving both the originator and the decision-maker uncertain whether anything has been done.
+
+Structured feedback is only effective when it is also secure. In national security work, the feedback channel itself can become a vulnerability if it is poorly designed. Secure feedback protocols must therefore combine speed, clarity, and protection.
+
+Only pre-authorised personnel, nominated by their respective agencies, should be permitted to send or receive operational feedback. Multi-factor authentication and role-based access controls are essential so that both the identity and the authority of the participants can be verified in real time.
+
+All feedback containing operational or sensitive information must travel under encryption. Classification markings should accompany every transmission so that handling rules remain consistent throughout the cycle.
+
+The protocol must require immediate electronic or voice acknowledgement of receipt, followed by confirmation of understanding within a short, predefined window. Failure to acknowledge within the stipulated time should automatically trigger an escalation to a designated higher authority.
+
+Every exchange should generate a secure log recording the time, parties involved, classification level, and nature of the feedback. These records support later review and institutional learning without creating unnecessary delay during an incident.
+
+A strict technical and procedural firewall must separate operational feedback systems from any channels used for public information or media coordination. This prevents accidental leakage of sensitive material.
+
+The protocol should specify the exact steps to be taken when feedback is not received, when the situation changes, or when the matter is formally closed. A short after-action note recording outcomes and lessons should complete the loop.
+
+Protocols that exist only on paper fail under pressure. Periodic inter-agency exercises are necessary to test the system, expose weaknesses, and ensure that personnel remain proficient in both the technical tools and the procedural discipline required.
+
+When feedback protocols are designed with these elements, they achieve two vital objectives at once: they protect sensitive information and they reinforce professional confidence among agencies. Participants know that what they share will be safeguarded, acknowledged, and acted upon according to agreed standards.
+
+No technical system or protocol can succeed without a foundation of inter-agency trust and confidence. Trust is not built by circulars or occasional high-level meetings. It is cultivated through consistent, professional behaviour over time.
+
+Trust begins with reliability: when one agency shares information, the receiving agency must know that the information is accurate, timely, and shared in good faith. Reciprocity is equally important. Agencies that only take information without contributing in return eventually find themselves isolated. Transparency in handling shared intelligence, without compromising operational security,  helps reduce suspicion. Joint training, combined exercises, and shared after-action reviews create personal and institutional familiarity that makes cooperation more natural under pressure.
+
+Leadership plays a decisive role. When senior officers publicly and privately reinforce the value of collaboration rather than institutional competition, trust grows. Conversely, when agencies are encouraged to protect their own information silos or to seek exclusive credit, confidence erodes. Clear and consistently applied protocols for information sharing, including defined roles and accountability, reduce the fear that cooperation will be misused or that individual officers will be blamed for systemic failures.
+
+Trust is also strengthened when feedback is honest and professional. When an agency reports that information was received, understood, and acted upon, or that it could not be acted upon for specific reasons,  the relationship is reinforced. Silence or vague responses breed doubt. Over time, a culture of reliable two-way communication becomes self-reinforcing: agencies share more readily because they have confidence that their counterparts will respond appropriately and protect the information entrusted to them.
+
+Beyond systems and protocols, the quality of leadership communication itself must improve. Every head of law enforcement and administrative institution must recognise the strategic value of communication and deliberately develop the necessary skills. Tangible results in this domain come only through consistent practice and experience, not through occasional directives or theoretical training.
+
+A deeply damaging habit still persists in many organisations: the tendency to report only what the superior is believed to want to hear, or to frame assessments in a manner designed to keep the decision-maker comfortable. This practice, often rooted in a culture of pleasing rather than informing, places the very person responsible for critical decisions in serious jeopardy. Incomplete, overly optimistic, or carefully filtered assessments deprive leaders of the accurate picture they need. The consequence is delayed or misguided decisions that later prove costly.
+
+Leaders at every level must learn to communicate what they actually visualise through rigorous, professional assessments. This requires the courage to present unwelcome realities, the discipline to separate facts from assumptions, and the skill to convey urgency without exaggeration. Building such competence is not optional; it is a national security requirement. When those entrusted with authority improve their ability to assess situations clearly and communicate them accurately,  and when structured, secure feedback loops ensure that assessments are received, understood, and acted upon, the entire chain of command becomes more resilient.
+
+The relationship between sender and recipient remains decisive. When trust is high, information flows faster and is acted upon with greater confidence. When trust is low, even accurate intelligence is second-guessed, delayed, or quietly set aside. Building that trust demands consistent protocols, joint training, shared situational awareness, and leadership that rewards honest communication over institutional comfort.
+
+Sri Lanka possesses the professional expertise within its security and disaster management institutions to close these gaps. What has been lacking is a coherent, whole-of-government approach that treats reliable communication as a strategic national asset rather than a technical afterthought, and that insists on continuous skill development among those who lead. The cost of continued failure is measured not only in lives and economic damage, but in the steady erosion of public confidence in the state’s ability to protect its citizens.
+
+Timely dissemination, confirmed receipt, swift response, structured and secure feedback loops, and genuine inter-agency trust, underpinned by leaders who communicate with accuracy and integrity, are not administrative niceties. They are the difference between a warning that saves lives and a warning that becomes a post-mortem. The record of recent years makes the requirement clear. The question is whether the system will now treat it with the national security priority it demands.
+
+(This analysis is offered in the interest of national security, institutional reform, and public safety)
+
+Former Deputy Director in Charge, Counter-Terrorism Desk, State Intelligence Service (2005–2009) Former Director, Police Special Branch and former First Secretary (defense) Sri Lanka Embassy – Thailand)
