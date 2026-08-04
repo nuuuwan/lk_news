@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-04 14:47:53",
-  "n_docs": 126100,
+  "time_updated": "2026-08-04 16:38:29",
+  "n_docs": 126124,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126100,
+  "n_docs_with_text": 126124,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-04",
-  "dataset_size": 1967059991,
+  "dataset_size": 1967350922,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailymirrorlk-a9585034",
-    "num": "dailymirrorlk-a9585034",
+    "doc_id": "2026-08-04-dailymirrorlk-9d46082a",
+    "num": "dailymirrorlk-9d46082a",
     "date_str": "2026-08-04",
-    "description": "50 low-floor buses added to Metro fleet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/50-low-floor-buses-added-to-Metro-fleet/108-347357",
+    "description": "Schools in Kandy, Nuwara Eliya to reopen tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-in-Kandy-Nuwara-Eliya-to-reopen-tomorrow/108-347370",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785834438.0
+    "time_ut": 1785841237.0
   }
 }

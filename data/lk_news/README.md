@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_14:48:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--04_16:38:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,100** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,124** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailymirrorlk-a9585034",
-    "num": "dailymirrorlk-a9585034",
+    "doc_id": "2026-08-04-dailymirrorlk-9d46082a",
+    "num": "dailymirrorlk-9d46082a",
     "date_str": "2026-08-04",
-    "description": "50 low-floor buses added to Metro fleet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/50-low-floor-buses-added-to-Metro-fleet/108-347357",
+    "description": "Schools in Kandy, Nuwara Eliya to reopen tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-in-Kandy-Nuwara-Eliya-to-reopen-tomorrow/108-347370",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785834438.0
+    "time_ut": 1785841237.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-08-04 | `dailymirrorlk-a9585034` | 50 low-floor buses added to Metro fleet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a9585034)
-- 2026-08-04 | `dailymirrorlk-c9fb8dea` | Cabinet nod to fast-track house arrest bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c9fb8dea)
-- 2026-08-04 | `tamilmirrorlk-1cafe592` | கவர்ச்சியால் கவனம் ஈர்த்த நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-1cafe592)
-- 2026-08-04 | `dailymirrorlk-c424ea03` | Udhayanidhi Stalin arrested over remarks on actor Trisha, DMK cries ’’vendetta’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c424ea03)
-- 2026-08-04 | `dailymirrorlk-ee91f9bf` | Public urged to beware of social media extortion scams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-ee91f9bf)
-- 2026-08-04 | `dailymirrorlk-50552208` | Public urged to use DMC emergency hotline 117 during heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-50552208)
-- 2026-08-04 | `dailymirrorlk-37391831` | Joint Opposition urges international partners to review Anti-Corruption Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-37391831)
-- 2026-08-04 | `tamilmirrorlk-930a7477` | விஜய், த்ரிஷாவை  ஆபாசமாக உதயநிதி இழிவுப்படுத்திய அந்த வசனம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-930a7477)
-- 2026-08-04 | `dailymirrorlk-c848b315` | WhatsApp tests separate folder for business messages to reduce inbox clutter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c848b315)
-- 2026-08-04 | `dailymirrorlk-43c24ec6` | Teachers, principals protest over module issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-43c24ec6)
-- 2026-08-04 | `tamilmirrorlk-541eaf12` | காதலியின் கல்லறையில் காதலன் மாண்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-541eaf12)
-- 2026-08-04 | `tamilmirrorlk-a0380d32` | த்ரிஷாவை இழிவுப்படுத்திய  உதயநிதி ஸ்டாலின் பேச்சுக்கு வைகோ கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-a0380d32)
-- 2026-08-04 | `tamilmirrorlk-9889f9ab` | திரிஷாவிடம் உதயநிதி மன்னிப்பு கேட்க வேண்டும்: குஷ்பு கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-9889f9ab)
-- 2026-08-04 | `dailymirrorlk-1619d3a8` | Government mulls one-year retirement extension for Police officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-1619d3a8)
-- 2026-08-04 | `tamilmirrorlk-a69de38b` | உதயநிதி கைது, கடைகள் அடைப்பு: மு.க. ஸ்டாலின் முக்கிய ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-a69de38b)
-- 2026-08-04 | `dailymirrorlk-1d1ee23f` | Court rejects bid to obtain Chamika Karunaratne’s blood sample for DNA test | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-1d1ee23f)
-- 2026-08-04 | `tamilmirrorlk-cd51ef4a` | உதயநிதி கைதுக்கு எதிராக தி.மு.க. அமளி: மக்களவை  ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-cd51ef4a)
-- 2026-08-04 | `dailymirrorlk-17aec716` | Udhayanidhi’s ’double-meaning’ remark allegedly on actor Trisha courts controversy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-17aec716)
-- 2026-08-04 | `dailymirrorlk-64e8be12` | Opposition calls for select committee to look into clearing of court cases backlog | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-64e8be12)
-- 2026-08-04 | `dailymirrorlk-a8989593` | Draft Bill to extend judges’ retirement age sent for Gazette publication: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a8989593)
+- 2026-08-04 | `dailymirrorlk-9d46082a` | Schools in Kandy, Nuwara Eliya to reopen tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-9d46082a)
+- 2026-08-04 | `tamilmirrorlk-06474353` | மிருகக்காட்சி சாலையில்  பெண் சிங்கங்கள் பரிதாப மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-06474353)
+- 2026-08-04 | `dailymirrorlk-66798281` | Udhayanidhi Stalin released after arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-66798281)
+- 2026-08-04 | `dailymirrorlk-85978f4d` | Lanka Metro expands Colombo bus network with seven new routes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-85978f4d)
+- 2026-08-04 | `tamilmirrorlk-78056f4f` | ஐவர் கொலை:  பொலிஸ் பாய்ஸுக்கு திறந்த பிடியாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-78056f4f)
+- 2026-08-04 | `dailymirrorlk-7965f7eb` | Man held for attempting to bribe police to free drug suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-7965f7eb)
+- 2026-08-04 | `tamilmirrorlk-92085f5a` | கனடா  வேலைவாய்ப்பு மோசடி வலையமைப்பு முறியடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-92085f5a)
+- 2026-08-04 | `dailymirrorlk-68fdf921` | Athapaththu, Harshitha lead Sri Lanka’s big ICC rankings surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-68fdf921)
+- 2026-08-04 | `tamilmirrorlk-b32618cc` | ’’உதயநிதியை இன்றைக்குள் விடுவிக்கவும்’’: உயர் நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-b32618cc)
+- 2026-08-04 | `dailymirrorlk-154c7b47` | Sri Lankans working in India can continue Sri Lanka EPF contributions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-154c7b47)
+- 2026-08-04 | `dailymirrorlk-c0858469` | France wildfires reveal hundreds of WW2 shells in village | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-c0858469)
+- 2026-08-04 | `tamilmirrorlk-fd2d46ec` | 22ஆவது அரசியல் அமைப்பு திருத்தத்துக்கு அமைச்சரவை அங்கிகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-fd2d46ec)
+- 2026-08-04 | `dailymirrorlk-a29a8709` | Steps initiated to develop Delft Island as sustainable tourism hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a29a8709)
+- 2026-08-04 | `dailymirrorlk-9a2c19f5` | Cabinet approves constitutional and legal amendments to strengthen judicial independence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-9a2c19f5)
+- 2026-08-04 | `tamilmirrorlk-6bf03631` | மண்சரிவில் சிக்கி ஒரே குடும்பத்தைச் சேர்ந்த நால்வர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-6bf03631)
+- 2026-08-04 | `tamilmirrorlk-7a048b37` | டெங்கைஒழிக்க 500 லீற்றர் மலாத்தியானை  வழங்கியது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-7a048b37)
+- 2026-08-04 | `adalk-b785f08a` | 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනයට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-b785f08a)
+- 2026-08-04 | `adalk-658e36f7` | නිවාස අඩස්සියට අදාළ නීති සකස් කිරීම කඩිනම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-658e36f7)
+- 2026-08-04 | `adalk-90f950ce` | තවත් පත්ල පහත් බස් රථ 50ක් මිලදී ගැනීමට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-90f950ce)
+- 2026-08-04 | `tamilmirrorlk-8add836c` | வீட்டுச் சிறைக்கு அமைச்சரவை ஒப்புதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-8add836c)
 
 ---
 
