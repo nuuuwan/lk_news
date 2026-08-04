@@ -2287,5 +2287,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785861631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-21c5f204",
+    "num": "dailymirrorlk-21c5f204",
+    "date_str": "2026-08-05",
+    "description": "Sports World in Focus: Zaheer joins Jaffna, India arrive & FIFA shake-up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sports-World-in-Focus-Zaheer-joins-Jaffna-India-arrive-FIFA-shake-up/108-347387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785869184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-aeeac4cb",
+    "num": "dailymirrorlk-aeeac4cb",
+    "date_str": "2026-08-05",
+    "description": "LB Al-Salamah sweeps boards at SLIBFI Awards",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LB-Al-Salamah-sweeps-boards-at-SLIBFI-Awards/273-347388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785874695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-1f23d636",
+    "num": "dailymirrorlk-1f23d636",
+    "date_str": "2026-08-05",
+    "description": "WISTA Sri Lanka reappoints Chamila Bandara as President",
+    "url_metadata": "https://www.dailymirror.lk/business-news/WISTA-Sri-Lanka-reappoints-Chamila-Bandara-as-President/273-347389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785874788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-d97078b3",
+    "num": "dailymirrorlk-d97078b3",
+    "date_str": "2026-08-05",
+    "description": "ALT X certified Great Place to Work again",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ALT-X-certified-Great-Place-to-Work-again/273-347390",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785874904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-55c294fe",
+    "num": "dailymirrorlk-55c294fe",
+    "date_str": "2026-08-05",
+    "description": "ATG achieves EcoVadis Platinum Rating",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ATG-achieves-EcoVadis-Platinum-Rating/273-347391",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785875015.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-c9d9231d",
+    "num": "dailymirrorlk-c9d9231d",
+    "date_str": "2026-08-05",
+    "description": "Asian Paints Causeway unveils Royale Infinity",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Asian-Paints-Causeway-unveils-Royale-Infinity/273-347392",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785875128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-6c66a7aa",
+    "num": "dailymirrorlk-6c66a7aa",
+    "date_str": "2026-08-05",
+    "description": "BOC celebrates 87 years of trust, service and transformation",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-celebrates-87-years-of-trust-service-and-transformation/273-347393",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785875572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-a5cd03f6",
+    "num": "dailymirrorlk-a5cd03f6",
+    "date_str": "2026-08-05",
+    "description": "CDB wins NBEA Overall Excellence Silver",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CDB-wins-NBEA-Overall-Excellence-Silver/273-347394",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785875721.0
   }
 ]

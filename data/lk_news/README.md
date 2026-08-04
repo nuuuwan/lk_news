@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_00:21:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_02:17:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,150** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailymirrorlk-79a6b8f1",
-    "num": "dailymirrorlk-79a6b8f1",
-    "date_str": "2026-08-04",
-    "description": "Dehiwala shooting attempt foiled as bakery owner seizes gun",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dehiwala-shooting-attempt-foiled-as-bakery-owner-seizes-gun/108-347386",
+    "doc_id": "2026-08-05-dailymirrorlk-a5cd03f6",
+    "num": "dailymirrorlk-a5cd03f6",
+    "date_str": "2026-08-05",
+    "description": "CDB wins NBEA Overall Excellence Silver",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CDB-wins-NBEA-Overall-Excellence-Silver/273-347394",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785861631.0
+    "time_ut": 1785875721.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-05 | `dailymirrorlk-a5cd03f6` | CDB wins NBEA Overall Excellence Silver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-a5cd03f6)
+- 2026-08-05 | `dailymirrorlk-6c66a7aa` | BOC celebrates 87 years of trust, service and transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-6c66a7aa)
+- 2026-08-05 | `dailymirrorlk-c9d9231d` | Asian Paints Causeway unveils Royale Infinity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-c9d9231d)
+- 2026-08-05 | `dailymirrorlk-55c294fe` | ATG achieves EcoVadis Platinum Rating | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-55c294fe)
+- 2026-08-05 | `dailymirrorlk-d97078b3` | ALT X certified Great Place to Work again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-d97078b3)
+- 2026-08-05 | `dailymirrorlk-1f23d636` | WISTA Sri Lanka reappoints Chamila Bandara as President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-1f23d636)
+- 2026-08-05 | `dailymirrorlk-aeeac4cb` | LB Al-Salamah sweeps boards at SLIBFI Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-aeeac4cb)
+- 2026-08-05 | `dailymirrorlk-21c5f204` | Sports World in Focus: Zaheer joins Jaffna, India arrive & FIFA shake-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-21c5f204)
 - 2026-08-04 | `dailymirrorlk-79a6b8f1` | Dehiwala shooting attempt foiled as bakery owner seizes gun | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-79a6b8f1)
 - 2026-08-04 | `dailymirrorlk-8b08cbb0` | ’It was a rebirth for all of us’: Passengers recall chaos after Air India flight hits turbulence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-8b08cbb0)
 - 2026-08-04 | `dailymirrorlk-313dd5da` | Proposed Animal Welfare Bill could destroy Sri Lankan culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-313dd5da)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-04 | `dailymirrorlk-dc7fbeba` | CID launches probe into SLPP General Secretary’s remarks on IGP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-dc7fbeba)
 - 2026-08-04 | `dailymirrorlk-a04d7da8` | Two reservoirs spill as 73 major reservoirs hold 39% capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-a04d7da8)
 - 2026-08-04 | `tamilmirrorlk-47d2e2ff` | ஹட்டன் வலயத்துக்கு நாளை பூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-47d2e2ff)
-- 2026-08-04 | `dailymirrorlk-5c652aff` | All schools in Hatton Education Zone closed tomorrow due to bad weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-5c652aff)
-- 2026-08-04 | `dailymirrorlk-45139fc4` | Appeal Court orders resumption of Johnston Fernando corruption trial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-45139fc4)
-- 2026-08-04 | `dailymirrorlk-52d68473` | No opposition from Mahanayake Theras to judicial reforms: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-52d68473)
-- 2026-08-04 | `tamilmirrorlk-d95b2f93` | நுவரெலியா,கண்டி பாடசாலைகள் இயங்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-d95b2f93)
-- 2026-08-04 | `tamilmirrorlk-c3853b41` | போதையில் பேருந்தை செலுத்திய ’சிசுசெரிய’ ஓட்டுநர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-tamilmirrorlk-c3853b41)
-- 2026-08-04 | `dailymirrorlk-44131b38` | Daily Mirror report comes to limelight in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-dailymirrorlk-44131b38)
-- 2026-08-04 | `adalk-79f9ad67` | මූල්‍ය පනත් කෙටුම්පත් තුනකට කථානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-79f9ad67)
-- 2026-08-04 | `adalk-8c521dd9` | ග්‍රෙගරි වැවේ වාන් දොරටුව විවෘත කරයි, බෝට්ටු පැදීම තාවකිලිකව නවත්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-04-adalk-8c521dd9)
 
 ---
 
