@@ -1311,6 +1311,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-b2ca86ce",
+    "num": "adalk-b2ca86ce",
+    "date_str": "2026-08-04",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8\u0d9c \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db1\u0dd1, \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d95\u0db8\u0dcf\u0db1\u0dba \u0dc3\u0db8\u0d9c\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0dc3\u0db8\u0d9c-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db1\u0dd1--\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0d95\u0db8\u0dcf\u0db1\u0dba-\u0dc3\u0db8\u0d9c\u0dba\u0dd2/11-423580",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785818257.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-dailymirrorlk-c0d142b7",
     "num": "dailymirrorlk-c0d142b7",
     "date_str": "2026-08-04",
@@ -1322,6 +1333,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-e7ea1ba2",
+    "num": "adalk-e7ea1ba2",
+    "date_str": "2026-08-04",
+    "description": "\u0d85\u0db9\u0d9c\u0db8\u0dd4\u0dc0\u0dda\u0daf\u0dd2 \u0dc3\u0dd0\u0da9 \u0db4\u0dc4\u0dbb\u0da7 \u0dc4\u0dc3\u0dd4 \u0dc0\u0dd6 \u0dbd\u0d82\u0d9c\u0db8 \u0db6\u0dc3\u0dca \u0dbb\u0dae\u0dba \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dd2\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d85\u0db9\u0d9c\u0db8\u0dd4\u0dc0\u0dda\u0daf\u0dd2-\u0dc3\u0dd0\u0da9-\u0db4\u0dc4\u0dbb\u0da7-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd6-\u0dbd\u0d82\u0d9c\u0db8-\u0db6\u0dc3\u0dca-\u0dbb\u0dae\u0dba-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dd2\u0dad\u0dd2/10-423581",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785818751.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-dailymirrorlk-a4475294",
     "num": "dailymirrorlk-a4475294",
     "date_str": "2026-08-04",
@@ -1330,5 +1352,137 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785820074.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-fdd74829",
+    "num": "dailymirrorlk-fdd74829",
+    "date_str": "2026-08-04",
+    "description": "Half-naked female image in memento stirs hornet\u2019s nest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Half-naked-female-image-in-memento-stirs-hornets-nest/108-347330",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785820482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-8ffb5a4b",
+    "num": "tamilmirrorlk-8ffb5a4b",
+    "date_str": "2026-08-04",
+    "description": "\u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0baf-\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd/50-380862",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785820971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-e894d043",
+    "num": "tamilmirrorlk-e894d043",
+    "date_str": "2026-08-04",
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf \u0bb5\u0baf\u0ba4\u0bc1 \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf-\u0bb5\u0baf\u0ba4\u0bc1-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380863",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785821193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-4c9a09ed",
+    "num": "adalk-4c9a09ed",
+    "date_str": "2026-08-04",
+    "description": "\u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 4.84 \u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dd6\u0dbd\u0dd2-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-4-84-\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423586",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785821938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-d6b1ae95",
+    "num": "dailymirrorlk-d6b1ae95",
+    "date_str": "2026-08-04",
+    "description": "Dengue wards remain overcrowded despite decline in daily cases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-wards-remain-overcrowded-despite-decline-in-daily-cases/108-347335",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785822001.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-810c785d",
+    "num": "tamilmirrorlk-810c785d",
+    "date_str": "2026-08-04",
+    "description": "\u2019\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 \u0ba8\u0bbe\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0ba8\u0bbe\u0bae\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95-\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bcd/175-380865",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785822106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-f060970f",
+    "num": "dailymirrorlk-f060970f",
+    "date_str": "2026-08-04",
+    "description": "Three lions die in zoo as Japan battles extreme heat",
+    "url_metadata": "https://www.dailymirror.lk/international/Three-lions-die-in-zoo-as-Japan-battles-extreme-heat/107-347336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785823306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-3444368e",
+    "num": "tamilmirrorlk-3444368e",
+    "date_str": "2026-08-04",
+    "description": "\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bb0\u0ba3\u0bc8 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bbf\u0b9f\u0bae\u0bcd-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0bc7\u0bb0\u0ba3\u0bc8-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380866",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785823438.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-ef962033",
+    "num": "dailymirrorlk-ef962033",
+    "date_str": "2026-08-04",
+    "description": "Very rough seas; fishing, naval communities told not to venture out",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Very-rough-seas-fishing-naval-communities-told-not-to-venture-out/108-347338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785824386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-a393e534",
+    "num": "dailymirrorlk-a393e534",
+    "date_str": "2026-08-04",
+    "description": "Cross talk on Auditor General\u2019s salary increase",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cross-talk-on-Auditor-Generals-salary-increase/108-347339",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785824855.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-3d723f23",
+    "num": "dailymirrorlk-3d723f23",
+    "date_str": "2026-08-04",
+    "description": "Box Office history made as Spider-Man beats Endgame",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Box-Office-history-made-as-Spider-Man-beats-Endgame/108-347340",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785824943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-01da3d0e",
+    "num": "tamilmirrorlk-01da3d0e",
+    "date_str": "2026-08-04",
+    "description": "\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 6 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-6-\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-380868",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785825511.0
   }
 ]
