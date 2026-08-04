@@ -1960,6 +1960,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-071380be",
+    "num": "adalk-071380be",
+    "date_str": "2026-08-04",
+    "description": "\u0db8\u0dc4\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0dad\u0dc0\u0db8 \u0dc3\u0ddc\u0dba\u0dcf\u0d9c\u0dd9\u0db1 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dbb-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0da7-\u0d86\u0dc3\u0db1\u0dca\u0db1-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0dad\u0dc0\u0db8-\u0dc3\u0ddc\u0dba\u0dcf\u0d9c\u0dd9\u0db1-\u0db1\u0dd1/11-423591",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785840211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-36ebfbdf",
+    "num": "dailymirrorlk-36ebfbdf",
+    "date_str": "2026-08-04",
+    "description": "Metro bus service to expand to seven routes from September",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-service-to-expand-to-seven-routes-from-September/108-347368",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785840400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-dailymirrorlk-85978f4d",
     "num": "dailymirrorlk-85978f4d",
     "date_str": "2026-08-04",
@@ -2001,5 +2023,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785841237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-0c281564",
+    "num": "tamilmirrorlk-0c281564",
+    "date_str": "2026-08-04",
+    "description": "\u0b85\u0bb0\u0bbf\u0ba4\u0bbe\u0b95 \u0bae\u0bb2\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc7\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1 \u0baa\u0bc2",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b85\u0bb0\u0bbf\u0ba4\u0bbe\u0b95-\u0bae\u0bb2\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0b9a\u0bc7\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1-\u0baa\u0bc2/53-380886",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785841541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-e0bbfc5d",
+    "num": "adalk-e0bbfc5d",
+    "date_str": "2026-08-04",
+    "description": "\u0dbd\u0ddd\u0d9a \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dad\u0dbb\u0d9c \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0ddd\u0d9a-\u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca-\u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0dad\u0dbb\u0d9c-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8-\u0d91\u0dba\u0dd2/11-423593",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785841758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-44131b38",
+    "num": "dailymirrorlk-44131b38",
+    "date_str": "2026-08-04",
+    "description": "Daily Mirror report comes to limelight in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Daily-Mirror-report-comes-to-limelight-in-Parliament/108-347372",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785843512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-c3853b41",
+    "num": "tamilmirrorlk-c3853b41",
+    "date_str": "2026-08-04",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u2019\u0b9a\u0bbf\u0b9a\u0bc1\u0b9a\u0bc6\u0bb0\u0bbf\u0baf\u2019 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8-\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b9a\u0bbf\u0b9a\u0bc1\u0b9a\u0bc6\u0bb0\u0bbf\u0baf-\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380888",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785843875.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-d95b2f93",
+    "num": "tamilmirrorlk-d95b2f93",
+    "date_str": "2026-08-04",
+    "description": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe,\u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd/76-380889",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785844071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-52d68473",
+    "num": "dailymirrorlk-52d68473",
+    "date_str": "2026-08-04",
+    "description": "No opposition from Mahanayake Theras to judicial reforms: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-opposition-from-Mahanayake-Theras-to-judicial-reforms-Nalinda/108-347373",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785844169.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-45139fc4",
+    "num": "dailymirrorlk-45139fc4",
+    "date_str": "2026-08-04",
+    "description": "Appeal Court orders resumption of Johnston Fernando corruption trial",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeal-Court-orders-resumption-of-Johnston-Fernando-corruption-trial/108-347374",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785845405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-5c652aff",
+    "num": "dailymirrorlk-5c652aff",
+    "date_str": "2026-08-04",
+    "description": "All schools in Hatton Education Zone closed tomorrow due to bad weather",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/All-schools-in-Hatton-Education-Zone-closed-tomorrow-due-to-bad-weather/108-347375",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785845990.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-tamilmirrorlk-47d2e2ff",
+    "num": "tamilmirrorlk-47d2e2ff",
+    "date_str": "2026-08-04",
+    "description": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0bb5\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd-\u0bb5\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0bb3\u0bc8-\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1/175-380890",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785846473.0
   }
 ]

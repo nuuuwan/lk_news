@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-04 16:38:29",
-  "n_docs": 126124,
+  "time_updated": "2026-08-04 18:27:07",
+  "n_docs": 126135,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126124,
+  "n_docs_with_text": 126135,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-04",
-  "dataset_size": 1967350922,
+  "dataset_size": 1967579007,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-04-dailymirrorlk-9d46082a",
-    "num": "dailymirrorlk-9d46082a",
+    "doc_id": "2026-08-04-tamilmirrorlk-47d2e2ff",
+    "num": "tamilmirrorlk-47d2e2ff",
     "date_str": "2026-08-04",
-    "description": "Schools in Kandy, Nuwara Eliya to reopen tomorrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-in-Kandy-Nuwara-Eliya-to-reopen-tomorrow/108-347370",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785841237.0
+    "description": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0bb5\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd-\u0bb5\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0bb3\u0bc8-\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1/175-380890",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785846473.0
   }
 }
