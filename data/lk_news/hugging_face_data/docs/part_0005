@@ -2004,6 +2004,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-37efc35e",
+    "num": "adalk-37efc35e",
+    "date_str": "2026-08-04",
+    "description": "\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2 \u0dc3\u0dc4 \u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda \u0da2\u0dbd\u0dcf\u0dc1\u0dc0\u0dbd \u0da2\u0dbd \u0db8\u0da7\u0dca\u0da7\u0db8 \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0db8\u0da7\u0dca\u0da7\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2-\u0dc3\u0dc4-\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda-\u0da2\u0dbd\u0dcf\u0dc1\u0dc0\u0dbd-\u0da2\u0dbd-\u0db8\u0da7\u0dca\u0da7\u0db8-\u0db4\u0dd2\u0da7\u0dcf\u0dbb-\u0db8\u0da7\u0dca\u0da7\u0db8\u0da7/11-423592",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785840795.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-tamilmirrorlk-06474353",
     "num": "tamilmirrorlk-06474353",
     "date_str": "2026-08-04",
@@ -2045,6 +2056,28 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1785841758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-8c521dd9",
+    "num": "adalk-8c521dd9",
+    "date_str": "2026-08-04",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0ddc\u0dbb\u0da7\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2, \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4 \u0db4\u0dd0\u0daf\u0dd3\u0db8 \u0dad\u0dcf\u0dc0\u0d9a\u0dd2\u0dbd\u0dd2\u0d9a\u0dc0 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2-\u0dc0\u0dd0\u0dc0\u0dda-\u0dc0\u0dcf\u0db1\u0dca-\u0daf\u0ddc\u0dbb\u0da7\u0dd4\u0dc0-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dbb\u0dba\u0dd2--\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4-\u0db4\u0dd0\u0daf\u0dd3\u0db8-\u0dad\u0dcf\u0dc0\u0d9a\u0dd2\u0dbd\u0dd2\u0d9a\u0dc0-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/11-423594",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785842065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-79f9ad67",
+    "num": "adalk-79f9ad67",
+    "date_str": "2026-08-04",
+    "description": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0db4\u0db1\u0dad\u0dca-\u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba/11-423595",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785842719.0
   },
   {
     "doc_type": "lk_news",
@@ -2122,5 +2155,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785846473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-a04d7da8",
+    "num": "dailymirrorlk-a04d7da8",
+    "date_str": "2026-08-04",
+    "description": "Two reservoirs spill as 73 major reservoirs hold 39% capacity",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-reservoirs-spill-as-73-major-reservoirs-hold-39-capacity/108-347376",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785848459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-dc7fbeba",
+    "num": "dailymirrorlk-dc7fbeba",
+    "date_str": "2026-08-04",
+    "description": "CID launches probe into SLPP General Secretary\u2019s remarks on IGP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-launches-probe-into-SLPP-General-Secretarys-remarks-on-IGP/108-347377",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785848768.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-c882ff79",
+    "num": "dailymirrorlk-c882ff79",
+    "date_str": "2026-08-04",
+    "description": "Heart and Lung Transplant Programme fundraiser held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Heart-and-Lung-Transplant-Programme-fundraiser-held/110-347378",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785852559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-400e31bf",
+    "num": "dailymirrorlk-400e31bf",
+    "date_str": "2026-08-04",
+    "description": "Two remanded over alleged multi-million rupee Customs fraud involving luxury vehicles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-remanded-over-alleged-multi-million-rupee-Customs-fraud-involving-luxury-vehicles/108-347379",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785852667.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-dailymirrorlk-31b3d8d1",
+    "num": "dailymirrorlk-31b3d8d1",
+    "date_str": "2026-08-04",
+    "description": "Constitution amendment to extend retirement age of judges will be implemented despite opposition protests: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Constitution-amendment-to-extend-retirement-age-of-judges-will-be-implemented-despite-opposition-protests-Minister/108-347380",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785852821.0
   }
 ]
