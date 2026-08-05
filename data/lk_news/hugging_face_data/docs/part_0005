@@ -2752,6 +2752,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-1c6009be",
+    "num": "adalk-1c6009be",
+    "date_str": "2026-08-05",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc3\u0dad\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dc4\u0dc5\u0db8 \u0d85\u0d9c\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dc3\u0dad\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dad\u0dd4\u0dc5-\u0db4\u0dc4\u0dc5\u0db8-\u0d85\u0d9c\u0dba\u0da7/11-423602",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785896588.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailyftlk-2b928eee",
     "num": "dailyftlk-2b928eee",
     "date_str": "2026-08-05",
@@ -2917,6 +2928,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-d059a9ef",
+    "num": "adalk-d059a9ef",
+    "date_str": "2026-08-05",
+    "description": "\u0d89\u0dc4\u0dc5 \u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dda \u0da2\u0dbd\u0dcf\u0dc1\u0dba\u0dda \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0ddc\u0dbb\u0da7\u0dd4 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dc4\u0dc5-\u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dda-\u0da2\u0dbd\u0dcf\u0dc1\u0dba\u0dda-\u0dc0\u0dcf\u0db1\u0dca-\u0daf\u0ddc\u0dbb\u0da7\u0dd4-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad/11-423603",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785905693.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-a04c4f67",
     "num": "dailymirrorlk-a04c4f67",
     "date_str": "2026-08-05",
@@ -2961,6 +2983,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-af88489e",
+    "num": "tamilmirrorlk-af88489e",
+    "date_str": "2026-08-05",
+    "description": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b9c\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe? \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0b9c\u0ba9-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/175-380908",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785906508.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-a2511b5e",
     "num": "dailymirrorlk-a2511b5e",
     "date_str": "2026-08-05",
@@ -2969,5 +3002,225 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785906756.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-5e6c944b",
+    "num": "dailymirrorlk-5e6c944b",
+    "date_str": "2026-08-05",
+    "description": "Indian Foreign Secretary arrives in Colombo for one-day visit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-Foreign-Secretary-arrives-in-Colombo-for-one-day-visit/108-347430",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785907011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-0fbbc6cf",
+    "num": "tamilmirrorlk-0fbbc6cf",
+    "date_str": "2026-08-05",
+    "description": "\u0bb5\u0bc0\u0b9f\u0bca\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bc8\u0ba4\u0bc1 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0b9f\u0bca\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bc8\u0ba4\u0bc1-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1/175-380909",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785907166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-d0a437fe",
+    "num": "tamilmirrorlk-d0a437fe",
+    "date_str": "2026-08-05",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/175-380910",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785907353.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-8777f385",
+    "num": "dailymirrorlk-8777f385",
+    "date_str": "2026-08-05",
+    "description": "Sri Lanka Air Force promotes Rumesh Tharanga",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-promotes-Rumesh-Tharanga/108-347431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785907362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-c345d5aa",
+    "num": "dailymirrorlk-c345d5aa",
+    "date_str": "2026-08-05",
+    "description": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russian-ballistic-missile-strike-on-Kyiv-kills-14-and-injures-22-officials-say/108-347432",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785907752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-89c95168",
+    "num": "dailymirrorlk-89c95168",
+    "date_str": "2026-08-05",
+    "description": "Two medical institutions fined Rs. 400,000 for overcharging patients",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-medical-institutions-fined-Rs-400-000-for-overcharging-patients/108-347433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785907898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-92c25e6d",
+    "num": "tamilmirrorlk-92c25e6d",
+    "date_str": "2026-08-05",
+    "description": "\u0b9a\u0bb7\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b95\u0bcd\u0bb7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb7\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b95\u0bcd\u0bb7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380912",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785908275.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-0a6e1696",
+    "num": "tamilmirrorlk-0a6e1696",
+    "date_str": "2026-08-05",
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0b9f \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0b9f-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bcd/175-380913",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785908285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-549e6fea",
+    "num": "dailymirrorlk-549e6fea",
+    "date_str": "2026-08-05",
+    "description": "Former diplomat Kananathan congratulates President Ibrahim Traor\u00e9 of Burkina Faso",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-diplomat-Kananathan-congratulates-President-Ibrahim-Traor\u00e9-of-Burkina-Faso/108-347434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785908624.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-938afab8",
+    "num": "tamilmirrorlk-938afab8",
+    "date_str": "2026-08-05",
+    "description": "\u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd \u0bb0\u0bbe\u0bb5\u0ba4\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0baa\u0bbf\u0bb0\u0baa\u0bb2-\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd-\u0bb0\u0bbe\u0bb5\u0ba4\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/54-380914",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785908688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-831029f3",
+    "num": "tamilmirrorlk-831029f3",
+    "date_str": "2026-08-05",
+    "description": "\u0b9a\u0bca\u0b95\u0bc1\u0b9a\u0bc1 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bca\u0b95\u0bc1\u0b9a\u0bc1-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc0-\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-380915",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785908789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-9407f033",
+    "num": "dailymirrorlk-9407f033",
+    "date_str": "2026-08-05",
+    "description": "Parliament unanimously approves salary increment of Auditor General",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-unanimously-approves-salary-increment-of-Auditor-General/108-347435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785909024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-d34941fe",
+    "num": "tamilmirrorlk-d34941fe",
+    "date_str": "2026-08-05",
+    "description": "\u0bb5\u0bbe\u0b9f\u0bcd\u0bb8\u0bcd\u0b85\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bb0\u0bbf\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bcd\u0b9a\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b9f\u0bcd\u0bb8\u0bcd\u0b85\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bb0\u0bbf\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bcd\u0b9a\u0bae\u0bcd/175-380916",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785909616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-484ebb6a",
+    "num": "dailymirrorlk-484ebb6a",
+    "date_str": "2026-08-05",
+    "description": "Akila Viraj Kariyawasam appears before Bribery Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Akila-Viraj-Kariyawasam-appears-before-Bribery-Commission/108-347436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785909754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-873c8532",
+    "num": "dailymirrorlk-873c8532",
+    "date_str": "2026-08-05",
+    "description": "NBRO extends landslide warnings for four districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NBRO-extends-landslide-warnings-for-four-districts/108-347437",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785909933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-dba422d6",
+    "num": "tamilmirrorlk-dba422d6",
+    "date_str": "2026-08-05",
+    "description": "4 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/4-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/76-380917",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785910326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-f51458d1",
+    "num": "dailymirrorlk-f51458d1",
+    "date_str": "2026-08-05",
+    "description": "US and Iran having \u2019very good discussions\u2019, Trump says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-and-Iran-having-very-good-discussions-Trump-says/108-347438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785910380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-ed9fe239",
+    "num": "dailymirrorlk-ed9fe239",
+    "date_str": "2026-08-05",
+    "description": "Sri Lanka to add 132 km to expressway network by 2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-add-132-km-to-expressway-network-by-2030/108-347440",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785910712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-bfa850c1",
+    "num": "dailymirrorlk-bfa850c1",
+    "date_str": "2026-08-05",
+    "description": "Colombo playground turned garage, 15-year project under spotlight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-playground-turned-garage-15-year-project-under-spotlight/108-347442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785911248.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-7ee83f3e",
+    "num": "dailymirrorlk-7ee83f3e",
+    "date_str": "2026-08-05",
+    "description": "CEA relaunches \u2019e-Kunu\u2019 programme to boost electronic waste collection",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-relaunches-e-Kunu-programme-to-boost-electronic-waste-collection/108-347450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785912630.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-05 10:48:07",
-  "n_docs": 126212,
+  "time_updated": "2026-08-05 12:43:46",
+  "n_docs": 126235,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126212,
+  "n_docs_with_text": 126235,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-05",
-  "dataset_size": 1968505619,
+  "dataset_size": 1968751050,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailymirrorlk-a2511b5e",
-    "num": "dailymirrorlk-a2511b5e",
+    "doc_id": "2026-08-05-dailymirrorlk-7ee83f3e",
+    "num": "dailymirrorlk-7ee83f3e",
     "date_str": "2026-08-05",
-    "description": "Nearly 40 drugs fail quality tests in 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-40-drugs-fail-quality-tests-in-2026/108-347429",
+    "description": "CEA relaunches \u2019e-Kunu\u2019 programme to boost electronic waste collection",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-relaunches-e-Kunu-programme-to-boost-electronic-waste-collection/108-347450",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785906756.0
+    "time_ut": 1785912630.0
   }
 }
