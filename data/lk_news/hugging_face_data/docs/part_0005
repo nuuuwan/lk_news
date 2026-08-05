@@ -3588,6 +3588,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-c04cf68d",
+    "num": "adalk-c04cf68d",
+    "date_str": "2026-08-05",
+    "description": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc2\u0dc3\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6 \u0db0\u0dd3\u0dc0\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0ddc\u0dbb\u0dd2\u0dc2\u0dc3\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6-\u0db0\u0dd3\u0dc0\u0dbb-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0/11-423613",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785927873.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-804f9ecc",
     "num": "dailymirrorlk-804f9ecc",
     "date_str": "2026-08-05",
@@ -3882,5 +3893,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785941017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-db7ae6ef",
+    "num": "dailymirrorlk-db7ae6ef",
+    "date_str": "2026-08-05",
+    "description": "India, Sri Lanka advance FTA talks during Foreign Secretary Vikram Misri\u2019s visit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-advance-FTA-talks-during-Foreign-Secretary-Vikram-Misris-visit/108-347489",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785942082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-b4227883",
+    "num": "dailymirrorlk-b4227883",
+    "date_str": "2026-08-05",
+    "description": "UNP says Animal Protection Bill undermines Perahera, backs animal welfare reforms",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-says-Animal-Protection-Bill-undermines-Perahera-backs-animal-welfare-reforms/108-347490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785942250.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-ae9fde80",
+    "num": "dailymirrorlk-ae9fde80",
+    "date_str": "2026-08-05",
+    "description": "Rains to intensify from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rains-to-intensify-from-tomorrow/108-347492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785942509.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-9cdeb21e",
+    "num": "dailymirrorlk-9cdeb21e",
+    "date_str": "2026-08-05",
+    "description": "BASL President says he is target of baseless personal attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-President-says-he-is-target-of-baseless-personal-attacks/108-347493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785943113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-5e0668a9",
+    "num": "tamilmirrorlk-5e0668a9",
+    "date_str": "2026-08-05",
+    "description": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8; \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-380951",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785946573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-b13b46f7",
+    "num": "tamilmirrorlk-b13b46f7",
+    "date_str": "2026-08-05",
+    "description": "\u0b9f\u0bbf\u0baf\u0bc1\u0bb7\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0ba4\u0bc1\u0bb5\u0bc8 \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0baf\u0bc1\u0bb7\u0ba9\u0bcd-\u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0ba4\u0bc1\u0bb5\u0bc8-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd/175-380952",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785947405.0
   }
 ]
