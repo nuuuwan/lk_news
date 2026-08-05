@@ -2562,5 +2562,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785882389.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-e9943d94",
+    "num": "dailyftlk-e9943d94",
+    "date_str": "2026-08-05",
+    "description": "Not a Government - or an Opposition  - for ordinary people",
+    "url_metadata": "https://www.ft.lk/columns/Not-a-Government-or-an-Opposition-for-ordinary-people/4-795586",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785885149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-68e861b9",
+    "num": "dailyftlk-68e861b9",
+    "date_str": "2026-08-05",
+    "description": "Preventing any possibility of another July 1983",
+    "url_metadata": "https://www.ft.lk/opinion/Preventing-any-possibility-of-another-July-1983/14-795588",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785885362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-2f7c6d1e",
+    "num": "dailyftlk-2f7c6d1e",
+    "date_str": "2026-08-05",
+    "description": "Beyond GDP: What taxes tell us about a country",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-GDP-What-taxes-tell-us-about-a-country/4-795589",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785885674.0
   }
 ]

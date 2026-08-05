@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_04:12:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_06:22:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailymirrorlk-3a3bd8a8",
-    "num": "dailymirrorlk-3a3bd8a8",
+    "doc_id": "2026-08-05-dailyftlk-2f7c6d1e",
+    "num": "dailyftlk-2f7c6d1e",
     "date_str": "2026-08-05",
-    "description": "A National Security Imperative:  When intelligence exists, but communication fails",
-    "url_metadata": "https://www.dailymirror.lk/opinion/A-National-Security-Imperative-When-intelligence-exists-but-communication-fails/172-347414",
+    "description": "Beyond GDP: What taxes tell us about a country",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-GDP-What-taxes-tell-us-about-a-country/4-795589",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785882389.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785885674.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-05 | `dailyftlk-2f7c6d1e` | Beyond GDP: What taxes tell us about a country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-2f7c6d1e)
+- 2026-08-05 | `dailyftlk-68e861b9` | Preventing any possibility of another July 1983 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-68e861b9)
+- 2026-08-05 | `dailyftlk-e9943d94` | Not a Government - or an Opposition  - for ordinary people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-e9943d94)
 - 2026-08-05 | `dailymirrorlk-3a3bd8a8` | A National Security Imperative:  When intelligence exists, but communication fails | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-3a3bd8a8)
 - 2026-08-05 | `dailymirrorlk-68b8b6e7` | Decision to extend the retirement age of judges: A well-meaning policy implemented in Gotabaya style | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-68b8b6e7)
 - 2026-08-05 | `dailymirrorlk-454f5954` | When will South Asia wake up to climate reality? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-454f5954)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-05 | `dailymirrorlk-d1f305d6` | Ceylon Chamber’s Motor Vehicle Industry Report returns after six years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-d1f305d6)
 - 2026-08-05 | `dailymirrorlk-e7d4974a` | Syntetica raises US$ 30mn in ‘Series A’ funding round to advance solutions for nylon recycling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-e7d4974a)
 - 2026-08-05 | `dailymirrorlk-cac1fb5d` | ComBank reaffirms position as SL’s No. 1 ranked bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-cac1fb5d)
-- 2026-08-05 | `dailymirrorlk-a5cd03f6` | CDB wins NBEA Overall Excellence Silver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-a5cd03f6)
-- 2026-08-05 | `dailymirrorlk-6c66a7aa` | BOC celebrates 87 years of trust, service and transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-6c66a7aa)
-- 2026-08-05 | `dailymirrorlk-c9d9231d` | Asian Paints Causeway unveils Royale Infinity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-c9d9231d)
 
 ---
 
