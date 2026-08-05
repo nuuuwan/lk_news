@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-05 06:21:22",
-  "n_docs": 126178,
+  "time_updated": "2026-08-05 08:53:21",
+  "n_docs": 126195,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126178,
+  "n_docs_with_text": 126195,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-05",
-  "dataset_size": 1968150281,
+  "dataset_size": 1968271372,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailyftlk-2f7c6d1e",
-    "num": "dailyftlk-2f7c6d1e",
+    "doc_id": "2026-08-05-dailymirrorlk-357d38f5",
+    "num": "dailymirrorlk-357d38f5",
     "date_str": "2026-08-05",
-    "description": "Beyond GDP: What taxes tell us about a country",
-    "url_metadata": "https://www.ft.lk/columns/Beyond-GDP-What-taxes-tell-us-about-a-country/4-795589",
+    "description": "Protect animals during floods: AWC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protect-animals-during-floods-AWC/108-347417",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1785885674.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785899204.0
   }
 }

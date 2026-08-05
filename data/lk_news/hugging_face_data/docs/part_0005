@@ -1135,6 +1135,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-3a04cd05",
+    "num": "adalk-3a04cd05",
+    "date_str": "2026-08-04",
+    "description": "Atlas PlayPalz, \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dc5\u0db8\u0dcf \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba \u0dc3\u0db8\u0d9c \u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0dca \u0db6\u0dd0\u0db3 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/Atlas-PlayPalz--\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf-\u0dc5\u0db8\u0dcf-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba-\u0dc3\u0db8\u0d9c-\u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0dca-\u0db6\u0dd0\u0db3-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/7-423577",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785809274.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-adalk-a495a36a",
     "num": "adalk-a495a36a",
     "date_str": "2026-08-04",
@@ -2279,6 +2290,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-64be686f",
+    "num": "adalk-64be686f",
+    "date_str": "2026-08-04",
+    "description": "\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca \u0dc4\u0dcf \u0db4\u0dcf\u0dbd\u0dd2\u0dad \u0d91\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca-\u0dc4\u0dcf-\u0db4\u0dcf\u0dbd\u0dd2\u0dad-\u0d91\u0dad\u0dd2/9-423596",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785860580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-9047bdee",
+    "num": "adalk-9047bdee",
+    "date_str": "2026-08-04",
+    "description": "\u0dc0\u0dd0\u0dc3\u0dd2 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 10 \u0dc0\u0db1\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dc3\u0dd2-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-10-\u0dc0\u0db1\u0daf\u0dcf-\u0daf\u0d9a\u0dca\u0dc0\u0dcf/11-423597",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785861087.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-dailymirrorlk-79a6b8f1",
     "num": "dailymirrorlk-79a6b8f1",
     "date_str": "2026-08-04",
@@ -2295,6 +2328,17 @@
     "date_str": "2026-08-05",
     "description": "Sports World in Focus: Zaheer joins Jaffna, India arrive & FIFA shake-up",
     "url_metadata": "https://www.dailymirror.lk/breaking-news/Sports-World-in-Focus-Zaheer-joins-Jaffna-India-arrive-FIFA-shake-up/108-347387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785869184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-c4523cfb",
+    "num": "dailymirrorlk-c4523cfb",
+    "date_str": "2026-08-05",
+    "description": "Sports World in Focus: Zaheer's Jaffna deal, FIFA shake-up & India arrive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sports-World-in-Focus-Zaheer-s-Jaffna-deal-FIFA-shake-up-India-arrive/108-347387",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785869184.0
@@ -2595,5 +2639,148 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1785885674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-63b488f0",
+    "num": "tamilmirrorlk-63b488f0",
+    "date_str": "2026-08-05",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc8 \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b85\u0b9f\u0bc8-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-380903",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785894490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-eccea01a",
+    "num": "adalk-eccea01a",
+    "date_str": "2026-08-05",
+    "description": "\u0d9a\u0dad\u0dbb\u0d9c\u0db8 \u0db4\u0dcf\u0daf \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dda \u0db6\u0dd0\u0dad\u0dd2\u0db8\u0dad\u0dd4\u0db1\u0dca\u0da7 \u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd6 \u0daf\u0db1\u0dca\u0dc3\u0dd0\u0dbd",
+    "url_metadata": "https://www.ada.lk/business/\u0d9a\u0dad\u0dbb\u0d9c\u0db8-\u0db4\u0dcf\u0daf-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dda-\u0db6\u0dd0\u0dad\u0dd2\u0db8\u0dad\u0dd4\u0db1\u0dca\u0da7-\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd6-\u0daf\u0db1\u0dca\u0dc3\u0dd0\u0dbd/7-423600",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785895700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-6f035be0",
+    "num": "dailyftlk-6f035be0",
+    "date_str": "2026-08-05",
+    "description": "Mahanayake Theras oppose proposed judicial retirement age amendment: BASL President",
+    "url_metadata": "https://www.ft.lk/news/Mahanayake-Theras-oppose-proposed-judicial-retirement-age-amendment-BASL-President/56-795614",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-86f6d17f",
+    "num": "dailyftlk-86f6d17f",
+    "date_str": "2026-08-05",
+    "description": "Eight killed as adverse weather impacts over 11,800 people",
+    "url_metadata": "https://www.ft.lk/news/Eight-killed-as-adverse-weather-impacts-over-11-800-people/56-795615",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-7551fb9a",
+    "num": "dailyftlk-7551fb9a",
+    "date_str": "2026-08-05",
+    "description": "Govt. says briefed Chief Prelates on 22A, no objections raised",
+    "url_metadata": "https://www.ft.lk/news/Govt-says-briefed-Chief-Prelates-on-22A-no-objections-raised/56-795616",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-f62a88f6",
+    "num": "dailyftlk-f62a88f6",
+    "date_str": "2026-08-05",
+    "description": "Don\u2019t interfere with Judiciary: Sajith warns Government",
+    "url_metadata": "https://www.ft.lk/news/Don-t-interfere-with-Judiciary-Sajith-warns-Government/56-795617",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-be16e6f3",
+    "num": "dailyftlk-be16e6f3",
+    "date_str": "2026-08-05",
+    "description": "Rush Metropolis secures BOI approval",
+    "url_metadata": "https://www.ft.lk/business/Rush-Metropolis-secures-BOI-approval/34-795618",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896419.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-22b2bbe5",
+    "num": "dailyftlk-22b2bbe5",
+    "date_str": "2026-08-05",
+    "description": "JAT positions ACL for Bangladesh\u2019s next growth phase with Singair site acquisition",
+    "url_metadata": "https://www.ft.lk/business/JAT-positions-ACL-for-Bangladesh-s-next-growth-phase-with-Singair-site-acquisition/34-795619",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-2b928eee",
+    "num": "dailyftlk-2b928eee",
+    "date_str": "2026-08-05",
+    "description": "Joint Opposition raises alarm over proposed Anti-Corruption Amendment Bill",
+    "url_metadata": "https://www.ft.lk/news/Joint-Opposition-raises-alarm-over-proposed-Anti-Corruption-Amendment-Bill/56-795620",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-f1e558ec",
+    "num": "dailyftlk-f1e558ec",
+    "date_str": "2026-08-05",
+    "description": "Mahara Prison riots: High-level committee appointed to probe conspirators",
+    "url_metadata": "https://www.ft.lk/news/Mahara-Prison-riots-High-level-committee-appointed-to-probe-conspirators/56-795621",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailyftlk-5e0ce2b4",
+    "num": "dailyftlk-5e0ce2b4",
+    "date_str": "2026-08-05",
+    "description": "Boardrooms need more than experience \u2013 they need leadership",
+    "url_metadata": "https://www.ft.lk/news/Boardrooms-need-more-than-experience-they-need-leadership/56-795622",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785896742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-493b0107",
+    "num": "dailymirrorlk-493b0107",
+    "date_str": "2026-08-05",
+    "description": "Train delays on Main Line",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-delays-on-Main-Line/108-347416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785897646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-357d38f5",
+    "num": "dailymirrorlk-357d38f5",
+    "date_str": "2026-08-05",
+    "description": "Protect animals during floods: AWC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protect-animals-during-floods-AWC/108-347417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785899204.0
   }
 ]

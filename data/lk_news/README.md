@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_06:22:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05_08:54:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,195** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailyftlk-2f7c6d1e",
-    "num": "dailyftlk-2f7c6d1e",
+    "doc_id": "2026-08-05-dailymirrorlk-357d38f5",
+    "num": "dailymirrorlk-357d38f5",
     "date_str": "2026-08-05",
-    "description": "Beyond GDP: What taxes tell us about a country",
-    "url_metadata": "https://www.ft.lk/columns/Beyond-GDP-What-taxes-tell-us-about-a-country/4-795589",
+    "description": "Protect animals during floods: AWC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protect-animals-during-floods-AWC/108-347417",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1785885674.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785899204.0
 }
 ```
 
@@ -41,6 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-05 | `dailymirrorlk-357d38f5` | Protect animals during floods: AWC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-357d38f5)
+- 2026-08-05 | `dailymirrorlk-493b0107` | Train delays on Main Line | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-493b0107)
+- 2026-08-05 | `dailyftlk-5e0ce2b4` | Boardrooms need more than experience – they need leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-5e0ce2b4)
+- 2026-08-05 | `dailyftlk-f1e558ec` | Mahara Prison riots: High-level committee appointed to probe conspirators | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-f1e558ec)
+- 2026-08-05 | `dailyftlk-2b928eee` | Joint Opposition raises alarm over proposed Anti-Corruption Amendment Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-2b928eee)
+- 2026-08-05 | `dailyftlk-22b2bbe5` | JAT positions ACL for Bangladesh’s next growth phase with Singair site acquisition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-22b2bbe5)
+- 2026-08-05 | `dailyftlk-be16e6f3` | Rush Metropolis secures BOI approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-be16e6f3)
+- 2026-08-05 | `dailyftlk-f62a88f6` | Don’t interfere with Judiciary: Sajith warns Government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-f62a88f6)
+- 2026-08-05 | `dailyftlk-7551fb9a` | Govt. says briefed Chief Prelates on 22A, no objections raised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-7551fb9a)
+- 2026-08-05 | `dailyftlk-86f6d17f` | Eight killed as adverse weather impacts over 11,800 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-86f6d17f)
+- 2026-08-05 | `dailyftlk-6f035be0` | Mahanayake Theras oppose proposed judicial retirement age amendment: BASL President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-6f035be0)
+- 2026-08-05 | `adalk-eccea01a` | කතරගම පාද යාත්‍රාවේ බැතිමතුන්ට මහජන බැංකුව පිරිනැමූ දන්සැල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-adalk-eccea01a)
+- 2026-08-05 | `tamilmirrorlk-63b488f0` | இன்றும் அடை மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-tamilmirrorlk-63b488f0)
 - 2026-08-05 | `dailyftlk-2f7c6d1e` | Beyond GDP: What taxes tell us about a country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-2f7c6d1e)
 - 2026-08-05 | `dailyftlk-68e861b9` | Preventing any possibility of another July 1983 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-68e861b9)
 - 2026-08-05 | `dailyftlk-e9943d94` | Not a Government - or an Opposition  - for ordinary people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailyftlk-e9943d94)
@@ -48,19 +61,6 @@ A collection of lk_news documents.
 - 2026-08-05 | `dailymirrorlk-68b8b6e7` | Decision to extend the retirement age of judges: A well-meaning policy implemented in Gotabaya style | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-68b8b6e7)
 - 2026-08-05 | `dailymirrorlk-454f5954` | When will South Asia wake up to climate reality? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-454f5954)
 - 2026-08-05 | `dailymirrorlk-9ad4e0b5` | Has the Consumer Affairs Authority Gone into Hibernation? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-9ad4e0b5)
-- 2026-08-05 | `dailymirrorlk-649fc092` | Local confectioners brace for bitter tariff squeeze | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-649fc092)
-- 2026-08-05 | `dailymirrorlk-1eeec5ac` | FTZMA pitches ‘no wrong door’ pathway to boost forex earnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-1eeec5ac)
-- 2026-08-05 | `dailymirrorlk-9f3f2d68` | Pan Asia Bank appoints new Chairman, Deputy Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-9f3f2d68)
-- 2026-08-05 | `dailymirrorlk-0c0e2b8b` | Audit exposes Rs. 350.7mn bill for rebranded SOE unit with limited progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-0c0e2b8b)
-- 2026-08-05 | `dailymirrorlk-154c7b47` | Sri Lankans working in India can continue Sri Lanka EPF contributions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-154c7b47)
-- 2026-08-05 | `dailymirrorlk-60e7c017` | Limited activity weighs on the secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-60e7c017)
-- 2026-08-05 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-2831aeed)
-- 2026-08-05 | `dailymirrorlk-90718924` | ACL acquires Singair eyeing next growth phase in Bangladesh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-90718924)
-- 2026-08-05 | `dailymirrorlk-7b9a8e6a` | Experts to share insights on Sri Lanka’s latest tax reforms at KPMG webinar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-7b9a8e6a)
-- 2026-08-05 | `dailymirrorlk-28db6373` | BMH highlights advances in scoliosis surgery, outlines support for Sri Lankan patients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-28db6373)
-- 2026-08-05 | `dailymirrorlk-d1f305d6` | Ceylon Chamber’s Motor Vehicle Industry Report returns after six years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-d1f305d6)
-- 2026-08-05 | `dailymirrorlk-e7d4974a` | Syntetica raises US$ 30mn in ‘Series A’ funding round to advance solutions for nylon recycling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-e7d4974a)
-- 2026-08-05 | `dailymirrorlk-cac1fb5d` | ComBank reaffirms position as SL’s No. 1 ranked bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-cac1fb5d)
 
 ---
 
