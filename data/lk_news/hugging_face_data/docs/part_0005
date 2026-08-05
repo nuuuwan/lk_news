@@ -3522,6 +3522,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-240ea404",
+    "num": "adalk-240ea404",
+    "date_str": "2026-08-05",
+    "description": "\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7 \u0d9c\u0d82\u0da2\u0dcf \u0dc4\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dd0\u0da7\u0dd2 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dc5 \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf\u0da7 \u0dbb\u0dd4. 410000\u0d9a \u0daf\u0da9",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7-\u0d9c\u0d82\u0da2\u0dcf-\u0dc4\u0dcf-\u0daf\u0dd4\u0db8\u0dca\u0dc0\u0dd0\u0da7\u0dd2-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0d9a\u0dc5-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf\u0da7-\u0dbb\u0dd4--410000\u0d9a-\u0daf\u0da9/11-423611",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785926306.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-699ca590",
     "num": "dailymirrorlk-699ca590",
     "date_str": "2026-08-05",
@@ -3541,6 +3552,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785927477.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-8c9f71d9",
+    "num": "adalk-8c9f71d9",
+    "date_str": "2026-08-05",
+    "description": "\u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0dc4\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dcf\u0dc4\u0db1 327000\u0d9a\u0dca \u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0dbd\u0dca-\u0db8\u0dcf\u0dc3-\u0dc4\u0dba\u0dda\u0daf\u0dd3-\u0dc0\u0dcf\u0dc4\u0db1-327000\u0d9a\u0dca-\u0d9c\u0dd9\u0db1\u0dca\u0dc0\u0dbd\u0dcf/11-423612",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785927563.0
   },
   {
     "doc_type": "lk_news",
@@ -3750,5 +3772,115 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785933651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-8d6d1f7b",
+    "num": "dailymirrorlk-8d6d1f7b",
+    "date_str": "2026-08-05",
+    "description": "Drone carrying explosives found at German airport, police say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drone-carrying-explosives-found-at-German-airport-police-say/108-347481",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785934840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-292c6b63",
+    "num": "dailymirrorlk-292c6b63",
+    "date_str": "2026-08-05",
+    "description": "Two CIDA directors apologise for indecent conduct during COPE proceedings",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-CIDA-directors-apologise-for-indecent-conduct-during-COPE-proceedings/108-347482",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785935003.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-533d7a43",
+    "num": "dailymirrorlk-533d7a43",
+    "date_str": "2026-08-05",
+    "description": "Mo Salah wears new shirt and mobbed by fans as Liverpool icon jets in to seal transfer",
+    "url_metadata": "https://www.dailymirror.lk/international/Mo-Salah-wears-new-shirt-and-mobbed-by-fans-as-Liverpool-icon-jets-in-to-seal-transfer/107-347483",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785936594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-08ccfcce",
+    "num": "tamilmirrorlk-08ccfcce",
+    "date_str": "2026-08-05",
+    "description": "\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1  \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0b9f\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bbe\u0baf\u0bcd \u0b9f\u0bca\u0bb2\u0bcd\u0baa\u0bbf\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bbf\u0bb2\u0bcd-\u0ba4\u0ba9\u0ba4\u0bc1-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b89\u0b9f\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd-\u0ba8\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0ba4\u0bbe\u0baf\u0bcd-\u0b9f\u0bca\u0bb2\u0bcd\u0baa\u0bbf\u0ba9\u0bcd/53-380949",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785937890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-64ef789e",
+    "num": "dailymirrorlk-64ef789e",
+    "date_str": "2026-08-05",
+    "description": "Court seeks IRD clarification before ruling in national cricketers\u2019 tax dispute",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-seeks-IRD-clarification-before-ruling-in-national-cricketers-tax-dispute/108-347484",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785938422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-57d3ef61",
+    "num": "dailymirrorlk-57d3ef61",
+    "date_str": "2026-08-05",
+    "description": "Greater vigilance by CB would have prevented US$2.5 million theft : Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Greater-vigilance-by-CB-would-have-prevented-US-2-5-million-theft-Deputy-Minister/108-347485",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785940560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-a8d80d71",
+    "num": "dailymirrorlk-a8d80d71",
+    "date_str": "2026-08-05",
+    "description": "Animal Welfare Act does not ban elephants in processions: AWC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Animal-Welfare-Act-does-not-ban-elephants-in-processions-AWC/108-347486",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785940789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-5f2e6871",
+    "num": "dailymirrorlk-5f2e6871",
+    "date_str": "2026-08-05",
+    "description": "Pakistan restricts international media reporting",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-restricts-international-media-reporting/107-347487",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785940918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-e384a822",
+    "num": "tamilmirrorlk-e384a822",
+    "date_str": "2026-08-05",
+    "description": "\u0baa\u0bca\u0ba4\u0bc1\u0ba8\u0bb2\u0bb5\u0bbe\u0baf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd: \u0bb1\u0bca\u0bae\u0bc7\u0bb7\u0bcd \u0ba4\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bca\u0ba4\u0bc1\u0ba8\u0bb2\u0bb5\u0bbe\u0baf\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0bb1\u0bca\u0bae\u0bc7\u0bb7\u0bcd-\u0ba4\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd-\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/44-380950",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785940979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-6663e1d2",
+    "num": "dailymirrorlk-6663e1d2",
+    "date_str": "2026-08-05",
+    "description": "Mexican influencer shot dead during livestream",
+    "url_metadata": "https://www.dailymirror.lk/international/Mexican-influencer-shot-dead-during-livestream/107-347488",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785941017.0
   }
 ]
