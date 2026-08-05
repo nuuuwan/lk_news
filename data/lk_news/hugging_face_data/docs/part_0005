@@ -2312,6 +2312,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-8609b30c",
+    "num": "adalk-8609b30c",
+    "date_str": "2026-08-04",
+    "description": "\u0daf\u0dd2\u0db1\u0d9a\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbb\u0dc3 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf 9000\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0db1\u0d9a\u0da7-\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0dbb\u0dc3-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-9000\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db4\u0dd2\u0dba\u0dc0\u0dbb/11-423598",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785861611.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-04-dailymirrorlk-79a6b8f1",
     "num": "dailymirrorlk-79a6b8f1",
     "date_str": "2026-08-04",
@@ -2320,6 +2331,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785861631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-adalk-a8c247ca",
+    "num": "adalk-a8c247ca",
+    "date_str": "2026-08-04",
+    "description": "\u0d9b\u0db1\u0dd2\u0da2 \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd0\u0dab\u0dd3\u0db8, \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba \u0dc3\u0dc4 \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dcf\u0db8 \u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1 \u0dc3\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9b\u0db1\u0dd2\u0da2-\u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd0\u0dab\u0dd3\u0db8--\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba-\u0dc3\u0dc4-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dcf\u0db8-\u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1-\u0dc3\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca/11-423599",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785862879.0
   },
   {
     "doc_type": "lk_news",
@@ -2782,5 +2804,170 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785899204.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-dfff11ad",
+    "num": "dailymirrorlk-dfff11ad",
+    "date_str": "2026-08-05",
+    "description": "Elephant corridors to be restored under new Human-Elephant Conflict strategy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elephant-corridors-to-be-restored-under-new-Human-Elephant-Conflict-strategy/108-347418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785900420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-8ec58ca4",
+    "num": "dailymirrorlk-8ec58ca4",
+    "date_str": "2026-08-05",
+    "description": "Two grenades thrown at Ratmalana home",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-grenades-thrown-at-Ratmalana-home/108-347419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785901273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-5d663e19",
+    "num": "dailymirrorlk-5d663e19",
+    "date_str": "2026-08-05",
+    "description": "Projectile sinks Indian-flagged ship off Yemen coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Projectile-sinks-Indian-flagged-ship-off-Yemen-coast/108-347420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785902764.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-d98e90be",
+    "num": "tamilmirrorlk-d98e90be",
+    "date_str": "2026-08-05",
+    "description": "\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd  \u0b95\u0bcb\u0bb2\u0bcd\u0b83\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd  \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb2\u0bcd\u0b83\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/50-380905",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785903234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-67eec4d7",
+    "num": "dailymirrorlk-67eec4d7",
+    "date_str": "2026-08-05",
+    "description": "Clash between Minister and Deputy Minister reaches boiling point over SriLankan Airlines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Clash-between-Minister-and-Deputy-Minister-reaches-boiling-point-over-SriLankan-Airlines/108-347421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785903547.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-6090c5b2",
+    "num": "dailymirrorlk-6090c5b2",
+    "date_str": "2026-08-05",
+    "description": "CID probes Ethiopia link in Canada job scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-probes-Ethiopia-link-in-Canada-job-scam/108-347422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785903978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-1fb65ae7",
+    "num": "dailymirrorlk-1fb65ae7",
+    "date_str": "2026-08-05",
+    "description": "Referendum needed to extend judges\u2019 retirement age, SC determined earlier",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Referendum-needed-to-extend-judges-retirement-age-SC-determined-earlier/108-347423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785904239.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-6bfea6c8",
+    "num": "dailymirrorlk-6bfea6c8",
+    "date_str": "2026-08-05",
+    "description": "Joint Opposition raises alarm over proposed Anti-Corruption (Amendment) Bill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-Opposition-raises-alarm-over-proposed-Anti-Corruption-Amendment-Bill/108-347424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785904691.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-16dd38ca",
+    "num": "dailymirrorlk-16dd38ca",
+    "date_str": "2026-08-05",
+    "description": "Woman jailed for 14 years for mariticide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Woman-jailed-for-14-years-for-mariticide/108-347425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785905406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-993567df",
+    "num": "dailymirrorlk-993567df",
+    "date_str": "2026-08-05",
+    "description": "Luxury bus destroyed in suspected arson attack at Kaduwela Bus Stand",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Luxury-bus-destroyed-in-suspected-arson-attack-at-Kaduwela-Bus-Stand/108-347426",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785905684.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-a04c4f67",
+    "num": "dailymirrorlk-a04c4f67",
+    "date_str": "2026-08-05",
+    "description": "A SpaceX rocket is about to crash into the moon tonight \u2014 Can you watch it?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/A-SpaceX-rocket-is-about-to-crash-into-the-moon-tonight-Can-you-watch-it/108-347427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785906035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-844d0d41",
+    "num": "tamilmirrorlk-844d0d41",
+    "date_str": "2026-08-05",
+    "description": "\u0b95\u0ba3\u0bb5\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 14 \u0bb5\u0bb0\u0bc1\u0b9f \u0b95\u0b9f\u0bc2\u0bb4\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bb5\u0bb0\u0bc8\u0b95\u0bcd-\u0b95\u0bca\u0bb2\u0bc8-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1-14-\u0bb5\u0bb0\u0bc1\u0b9f-\u0b95\u0b9f\u0bc2\u0bb4\u0bbf\u0baf-\u0b9a\u0bbf\u0bb1\u0bc8/76-380907",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785906175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-f890a728",
+    "num": "dailymirrorlk-f890a728",
+    "date_str": "2026-08-05",
+    "description": "Team India arrive in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Team-India-arrive-in-Sri-Lanka/110-347428",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785906452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-tamilmirrorlk-24d9a120",
+    "num": "tamilmirrorlk-24d9a120",
+    "date_str": "2026-08-05",
+    "description": "\u0b9a\u0ba4\u0bbe\u0b9a\u0baa\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0b9c\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe? \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0ba4\u0bbe\u0b9a\u0baa\u0bc8-\u0bae\u0bc2\u0bb2\u0bae\u0bcd-\u0b9a\u0bb0\u0bcd\u0bb5\u0b9c\u0ba9-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd/175-380908",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785906508.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-a2511b5e",
+    "num": "dailymirrorlk-a2511b5e",
+    "date_str": "2026-08-05",
+    "description": "Nearly 40 drugs fail quality tests in 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-40-drugs-fail-quality-tests-in-2026/108-347429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785906756.0
   }
 ]
