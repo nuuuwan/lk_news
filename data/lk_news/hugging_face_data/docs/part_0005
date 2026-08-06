@@ -3929,6 +3929,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-d85c1487",
+    "num": "dailymirrorlk-d85c1487",
+    "date_str": "2026-08-05",
+    "description": "India calls for early Provincial Council polls, full implementation of Tamil rights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-calls-for-early-Provincial-Council-polls-full-implementation-of-Tamil-rights/108-347489",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785942082.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-db7ae6ef",
     "num": "dailymirrorlk-db7ae6ef",
     "date_str": "2026-08-05",
@@ -4490,6 +4501,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-9474fdc8",
+    "num": "adalk-9474fdc8",
+    "date_str": "2026-08-06",
+    "description": "\u0d9a\u0dd4\u0db4\u0dca\u0db4\u0dd2\u0dba\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dda \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0d9a\u0dbb\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd4\u0db4\u0dca\u0db4\u0dd2\u0dba\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dda-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0d9a\u0dbb\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423623",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785983177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-9519f1c1",
+    "num": "adalk-9519f1c1",
+    "date_str": "2026-08-06",
+    "description": "\u0dc4\u0ddd\u0db8\u0dd6\u0dc3\u0dca \u0dc4\u0dd2 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1  \u0d95\u0db8\u0dcf\u0db1\u0dba \u0dc3\u0db8\u0d9c \u0d85\u0dc0\u0db6\u0ddd\u0db0\u0dba\u0d9a\u0da7 \u0d86\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddd\u0db8\u0dd6\u0dc3\u0dca-\u0dc4\u0dd2-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca-\u0d9c\u0dd0\u0db1--\u0d95\u0db8\u0dcf\u0db1\u0dba-\u0dc3\u0db8\u0d9c-\u0d85\u0dc0\u0db6\u0ddd\u0db0\u0dba\u0d9a\u0da7-\u0d86\u0dc0\u0dcf/11-423625",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785984047.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailymirrorlk-2c0add5f",
     "num": "dailymirrorlk-2c0add5f",
     "date_str": "2026-08-06",
@@ -4597,5 +4630,214 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785993190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-a3ac17f4",
+    "num": "tamilmirrorlk-a3ac17f4",
+    "date_str": "2026-08-06",
+    "description": "\u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0 \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd-\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-380960",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785994032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-ed07c4a5",
+    "num": "tamilmirrorlk-ed07c4a5",
+    "date_str": "2026-08-06",
+    "description": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0b9f\u0bc8/50-380961",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785994515.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-a43d47d8",
+    "num": "tamilmirrorlk-a43d47d8",
+    "date_str": "2026-08-06",
+    "description": "\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1:  \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9c\u0bc7\u0b9a\u0ba9\u0bcd  \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1-\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0b9c\u0bc7\u0b9a\u0ba9\u0bcd-\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe/50-380962",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785995161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-89232784",
+    "num": "dailymirrorlk-89232784",
+    "date_str": "2026-08-06",
+    "description": "Petrol bomb attack on Shakib Al Hasan\u2019s home",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Petrol-bomb-attack-on-Shakib-Al-Hasans-home/108-347544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785995218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-12c9b0e1",
+    "num": "dailymirrorlk-12c9b0e1",
+    "date_str": "2026-08-06",
+    "description": "Only one out of four crude coconut oil importers pay taxes: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Only-one-out-of-four-crude-coconut-oil-importers-pay-taxes-Deputy-Minister/108-347545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785995516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-af5465d0",
+    "num": "dailymirrorlk-af5465d0",
+    "date_str": "2026-08-06",
+    "description": "Govt committed to arrest wrongdoers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-committed-to-arrest-wrongdoers/108-347547",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785996500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-a1fcf20f",
+    "num": "tamilmirrorlk-a1fcf20f",
+    "date_str": "2026-08-06",
+    "description": "\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95 \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8-\u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95-\u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bcd-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe/175-380963",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785996761.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-4a557fcf",
+    "num": "dailymirrorlk-4a557fcf",
+    "date_str": "2026-08-06",
+    "description": "Colombo tops goat and sheep slaughter",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-tops-goat-and-sheep-slaughter/108-347548",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785996857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-20c1a77f",
+    "num": "dailymirrorlk-20c1a77f",
+    "date_str": "2026-08-06",
+    "description": "Hatton-Colombo Road at risk",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Hatton-Colombo-Road-at-risk/110-347549",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785997307.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-0abd4a0c",
+    "num": "dailymirrorlk-0abd4a0c",
+    "date_str": "2026-08-06",
+    "description": "Wasp attack leaves over 50 students hospitalised",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasp-attack-leaves-over-50-students-hospitalised/108-347550",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785997550.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-1255000e",
+    "num": "dailymirrorlk-1255000e",
+    "date_str": "2026-08-06",
+    "description": "Sri Lanka seeks mutual legal assistance from five countries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-mutual-legal-assistance-from-five-countries/108-347551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785997932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-1822614c",
+    "num": "dailymirrorlk-1822614c",
+    "date_str": "2026-08-06",
+    "description": "Mid-air scare for Trump as chopper carrying him flies too close to passenger jet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mid-air-scare-for-Trump-as-chopper-carrying-him-flies-too-close-to-passenger-jet/108-347552",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785998182.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-e40401c5",
+    "num": "tamilmirrorlk-e40401c5",
+    "date_str": "2026-08-06",
+    "description": "\u0b9a\u0b95\u0bbf\u0baa\u0bcd \u0b85\u0bb2\u0bcd \u0bb9\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1   \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b95\u0bbf\u0baa\u0bcd-\u0b85\u0bb2\u0bcd-\u0bb9\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bc1-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1/50-380964",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785998262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-c85b5f9e",
+    "num": "tamilmirrorlk-c85b5f9e",
+    "date_str": "2026-08-06",
+    "description": "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0bbe\u0ba4\u0ba3\u0bbf \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8:  \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5-\u0baa\u0bbe\u0ba4\u0ba3\u0bbf-\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8-\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bcb\u0bb0\u0bbf\u0baf-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd/52-380965",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785998298.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-a345de0f",
+    "num": "dailymirrorlk-a345de0f",
+    "date_str": "2026-08-06",
+    "description": "Government ready to discuss Animal Welfare Bill with all stakeholders: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-ready-to-discuss-Animal-Welfare-Bill-with-all-stakeholders-Minister/108-347553",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785998534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-8c47c91b",
+    "num": "dailymirrorlk-8c47c91b",
+    "date_str": "2026-08-06",
+    "description": "Forest fire accused fined, ordered to pay Rs. 403,509 per hectare in damages",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Forest-fire-accused-fined-ordered-to-pay-Rs-403-509-per-hectare-in-damages/108-347554",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785998797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-26bf6623",
+    "num": "dailymirrorlk-26bf6623",
+    "date_str": "2026-08-06",
+    "description": "Privacy of politicians who publish their assets, liabilities on CIABOC site will not be restricted: Govt.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Privacy-of-politicians-who-publish-their-assets-liabilities-on-CIABOC-site-will-not-be-restricted-Govt/108-347555",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785999246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-3a4e371f",
+    "num": "dailymirrorlk-3a4e371f",
+    "date_str": "2026-08-06",
+    "description": "Varsity student fined Rs. 410,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Varsity-student-fined-Rs-410-000/108-347556",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785999524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-0e124122",
+    "num": "dailymirrorlk-0e124122",
+    "date_str": "2026-08-06",
+    "description": "Landslide risk rises in areas affected by Ditwah, NBRO warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-risk-rises-in-areas-affected-by-Ditwah-NBRO-warns/108-347557",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785999662.0
   }
 ]
