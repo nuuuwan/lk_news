@@ -4523,6 +4523,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-bddae3ba",
+    "num": "adalk-bddae3ba",
+    "date_str": "2026-08-06",
+    "description": "\u0dc3\u0dd6\u0daf\u0dd4 \u0db6\u0dd9\u0dc0\u0dca \u0d85\u0da9\u0dc0\u0dd2 24\u0d9a\u0dca \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd6\u0daf\u0dd4-\u0db6\u0dd9\u0dc0\u0dca-\u0d85\u0da9\u0dc0\u0dd2-24\u0d9a\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca/11-423626",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785984378.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailymirrorlk-2c0add5f",
     "num": "dailymirrorlk-2c0add5f",
     "date_str": "2026-08-06",
@@ -4839,5 +4850,137 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785999662.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-6047e7cf",
+    "num": "tamilmirrorlk-6047e7cf",
+    "date_str": "2026-08-06",
+    "description": "\u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1 \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9e\u0bcd\u0b9a\u0bbe-\u0bb5\u0bbf\u0bb1\u0bcd\u0bb1-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd/175-380967",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786000016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-c3e91dd6",
+    "num": "dailymirrorlk-c3e91dd6",
+    "date_str": "2026-08-06",
+    "description": "Beettu office opened in Damana to help reduce human-elephant conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Beettu-office-opened-in-Damana-to-help-reduce-human-elephant-conflict/108-347559",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786001071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-6cd00085",
+    "num": "tamilmirrorlk-6cd00085",
+    "date_str": "2026-08-06",
+    "description": "\u0b95\u0bb3\u0bcd\u0bb3 \u0b89\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc8 \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba9\u0bcd\u0bb1 \u0b95\u0ba3\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb3\u0bcd\u0bb3-\u0b89\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc8-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bca\u0ba9\u0bcd\u0bb1-\u0b95\u0ba3\u0bb5\u0ba9\u0bcd/175-380968",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786001080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-8be512bf",
+    "num": "adalk-8be512bf",
+    "date_str": "2026-08-06",
+    "description": "\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5 \u0dc4\u0dcf \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0d9a\u0dbd\u0dca \u0db1\u0ddc\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0dc3\u0dc3\u0dca\u0db4\u0dd9\u0dc5-\u0dc4\u0dcf-\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c-\u0d9a\u0dbd\u0dca-\u0db1\u0ddc\u0dba\u0dba\u0dd2/11-423627",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786001090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-8a00497b",
+    "num": "dailymirrorlk-8a00497b",
+    "date_str": "2026-08-06",
+    "description": "A/L and Grade 5 Scholarship exams to proceed as scheduled",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AL-and-Grade-5-Scholarship-exams-to-proceed-as-scheduled/108-347560",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786001343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-e34290e4",
+    "num": "dailymirrorlk-e34290e4",
+    "date_str": "2026-08-06",
+    "description": "Anti-Corruption Bill to be amended: Govt.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anti-Corruption-Bill-to-be-amended-Govt/108-347561",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786001451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-7bd30bb9",
+    "num": "dailymirrorlk-7bd30bb9",
+    "date_str": "2026-08-06",
+    "description": "Coral reef conservation survey conducted",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Coral-reef-conservation-survey-conducted/110-347562",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786002345.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-37eea284",
+    "num": "dailymirrorlk-37eea284",
+    "date_str": "2026-08-06",
+    "description": "Heat-related death toll rises to 21 amid serious heat wave",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-related-death-toll-rises-to-21-amid-serious-heat-wave/108-347563",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786002461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-26712c09",
+    "num": "dailymirrorlk-26712c09",
+    "date_str": "2026-08-06",
+    "description": "Sajith, government MP clash in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-government-MP-clash-in-Parliament/108-347564",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786003999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-5a73320d",
+    "num": "dailymirrorlk-5a73320d",
+    "date_str": "2026-08-06",
+    "description": "Coral reef survey conducted in Kayankerni",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Coral-reef-survey-conducted-in-Kayankerni/108-347565",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786004691.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-bafb3138",
+    "num": "dailymirrorlk-bafb3138",
+    "date_str": "2026-08-06",
+    "description": "Third school term ends tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Third-school-term-ends-tomorrow/108-347567",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786005896.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-15584d12",
+    "num": "dailymirrorlk-15584d12",
+    "date_str": "2026-08-06",
+    "description": "Non-SLS helmets seized; two traders fined",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Non-SLS-helmets-seized-two-traders-fined/108-347568",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786006836.0
   }
 ]
