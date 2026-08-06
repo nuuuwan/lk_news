@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_04:11:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_06:20:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,329** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,334** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-05-dailymirrorlk-a28caa77",
-    "num": "dailymirrorlk-a28caa77",
-    "date_str": "2026-08-05",
-    "description": "Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka\u2019s expatriate  higher  education crisis",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lankan-by-passport-Foreigner-at-uni-gate-Betrayal-behind-Sri-Lankas-expatriate-higher-education-crisis/172-347521",
+    "doc_id": "2026-08-06-dailyftlk-f432d8db",
+    "num": "dailyftlk-f432d8db",
+    "date_str": "2026-08-06",
+    "description": "Expo Commodities Global opens new processing facility",
+    "url_metadata": "https://www.ft.lk/business/Expo-Commodities-Global-opens-new-processing-facility/34-795651",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785953789.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785976946.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-06 | `dailyftlk-f432d8db` | Expo Commodities Global opens new processing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-f432d8db)
+- 2026-08-06 | `dailyftlk-0a7fe181` | Fake left matrix: Five false doctrines misleading Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-0a7fe181)
+- 2026-08-06 | `dailyftlk-3ee292a4` | Hidden luxury brand: Why Ceylon Gems must become a pillar of brand Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-3ee292a4)
+- 2026-08-06 | `dailyftlk-ebdc2702` | Closing loopholes: Why Sri Lanka must reform IRA to capture offshore indirect share transfers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-ebdc2702)
+- 2026-08-06 | `dailyftlk-97d934b7` | What if Sri Lanka’s next economic breakthrough comes from you? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-97d934b7)
 - 2026-08-05 | `dailymirrorlk-a28caa77` | Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka’s expatriate  higher  education crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-a28caa77)
 - 2026-08-05 | `dailymirrorlk-69e41fd2` | Are Easter Sunday victims happy with the death sentences? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-69e41fd2)
 - 2026-08-05 | `dailymirrorlk-db8d6aca` | Customer-friendly hotlines a must! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-db8d6aca)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-05 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-821a32a1)
 - 2026-08-05 | `dailymirrorlk-8d42b0a6` | T-bill auction yields ease across board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-8d42b0a6)
 - 2026-08-05 | `dailymirrorlk-4dfb0604` | EDB-IFC-EU launch 3rd ExpoScaleUp Cohort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-4dfb0604)
-- 2026-08-05 | `dailymirrorlk-c6196273` | Chrishan Fernando BoardPAC’s new VP Sales and Marketing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-c6196273)
-- 2026-08-05 | `dailymirrorlk-be16e6f3` | Rush Metropolis secures BOI approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-be16e6f3)
-- 2026-08-05 | `dailymirrorlk-f3183d43` | Central Bank to promote digital payments in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-f3183d43)
-- 2026-08-05 | `dailymirrorlk-6d8d07d8` | Scale Up 2.0 National SME Forum on Aug. 11 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-6d8d07d8)
-- 2026-08-05 | `dailymirrorlk-be5ee011` | South Asia’s premier textile, garment manufacturing platform opens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-be5ee011)
 
 ---
 
