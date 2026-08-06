@@ -4006,6 +4006,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-dfa9a101",
+    "num": "adalk-dfa9a101",
+    "date_str": "2026-08-05",
+    "description": "\u0d85\u0daf \u0dc3\u0dd2\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0dc3\u0dd2\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-423618",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785948264.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-adalk-2a787eaa",
+    "num": "adalk-2a787eaa",
+    "date_str": "2026-08-05",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dc0\u0dd2\u0db8 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd2\u0db1\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dc0\u0dd2\u0db8-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-423619",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1785948642.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-653c0c12",
     "num": "dailymirrorlk-653c0c12",
     "date_str": "2026-08-05",
@@ -4476,5 +4498,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785984490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-ea37933d",
+    "num": "dailymirrorlk-ea37933d",
+    "date_str": "2026-08-06",
+    "description": "Sri Lanka Navy launches rescue for poaching Indian trawler",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-launches-rescue-for-poaching-Indian-trawler/108-347525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785984490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-fdacee57",
+    "num": "dailymirrorlk-fdacee57",
+    "date_str": "2026-08-06",
+    "description": "Landslide blocks Nallathanniya-Sri Pada road due to heavy rains",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-blocks-Nallathanniya-Sri-Pada-road-due-to-heavy-rains/108-347526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785986414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-9a97138f",
+    "num": "dailymirrorlk-9a97138f",
+    "date_str": "2026-08-06",
+    "description": "Infantino sorry for errors but stays Fifa president",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Infantino-sorry-for-errors-but-stays-Fifa-president/108-347527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785987629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailyftlk-cea14874",
+    "num": "dailyftlk-cea14874",
+    "date_str": "2026-08-06",
+    "description": "Physio Medicare Group wins international healthcare award",
+    "url_metadata": "https://www.ft.lk/business/Physio-Medicare-Group-wins-international-healthcare-award/34-795679",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1785987905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-fb7f9ec9",
+    "num": "tamilmirrorlk-fb7f9ec9",
+    "date_str": "2026-08-06",
+    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0baa\u0bbe\u0ba4 \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1: \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb8\u0bcd\u0bb0\u0bc0\u0baa\u0bbe\u0ba4-\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0b9f\u0bc8/76-380956",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785988058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-1906c5fb",
+    "num": "tamilmirrorlk-1906c5fb",
+    "date_str": "2026-08-06",
+    "description": "\u0b85\u0bb5\u0ba4\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd   \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd  \u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0ba4\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0bae\u0bcd-\u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/91-380957",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785988523.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-d14a6a5f",
+    "num": "tamilmirrorlk-d14a6a5f",
+    "date_str": "2026-08-06",
+    "description": "\u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bbe\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0bbe\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-380958",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785991770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-3a045d12",
+    "num": "tamilmirrorlk-3a045d12",
+    "date_str": "2026-08-06",
+    "description": "\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4\u0baa\u0bcd \u0baa\u0bbe\u0bb1\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0bb3 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4\u0baa\u0bcd-\u0baa\u0bbe\u0bb1\u0bc8-\u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc0\u0bb3-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/76-380959",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785993070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-fe38e050",
+    "num": "dailymirrorlk-fe38e050",
+    "date_str": "2026-08-06",
+    "description": "Rumesh Tharanga becomes world No. 1 in men\u2019s javelin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rumesh-Tharanga-becomes-world-No-1-in-mens-javelin/108-347540",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785993190.0
   }
 ]

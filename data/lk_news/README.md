@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_08:54:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_10:53:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,349** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,360** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-06-dailymirrorlk-2c0add5f",
-    "num": "dailymirrorlk-2c0add5f",
+    "doc_id": "2026-08-06-dailymirrorlk-fe38e050",
+    "num": "dailymirrorlk-fe38e050",
     "date_str": "2026-08-06",
-    "description": "Sri Lanka Navy launches rescue operation for distressed Indian fishing trawler off Delft Island",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-launches-rescue-operation-for-distressed-Indian-fishing-trawler-off-Delft-Island/108-347525",
+    "description": "Rumesh Tharanga becomes world No. 1 in men\u2019s javelin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rumesh-Tharanga-becomes-world-No-1-in-mens-javelin/108-347540",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785984490.0
+    "time_ut": 1785993190.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-06 | `dailymirrorlk-fe38e050` | Rumesh Tharanga becomes world No. 1 in men’s javelin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-fe38e050)
+- 2026-08-06 | `tamilmirrorlk-3a045d12` | சரிந்த ராட்சதப் பாறை அகற்றம்: போக்குவரத்து மீள ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-3a045d12)
+- 2026-08-06 | `tamilmirrorlk-d14a6a5f` | பொறியில் சிக்கிய மாபெரும் சிறுத்தை மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-d14a6a5f)
+- 2026-08-06 | `tamilmirrorlk-1906c5fb` | அவதியுறும் வேளையிலும்   அறுவடை செய்யும்  ஹட்டனியர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-1906c5fb)
+- 2026-08-06 | `tamilmirrorlk-fb7f9ec9` | ஸ்ரீபாத பாதையில் நிலச்சரிவு: போக்குவரத்து தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-fb7f9ec9)
+- 2026-08-06 | `dailyftlk-cea14874` | Physio Medicare Group wins international healthcare award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-cea14874)
+- 2026-08-06 | `dailymirrorlk-9a97138f` | Infantino sorry for errors but stays Fifa president | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-9a97138f)
+- 2026-08-06 | `dailymirrorlk-fdacee57` | Landslide blocks Nallathanniya-Sri Pada road due to heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-fdacee57)
+- 2026-08-06 | `dailymirrorlk-ea37933d` | Sri Lanka Navy launches rescue for poaching Indian trawler | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-ea37933d)
 - 2026-08-06 | `dailymirrorlk-2c0add5f` | Sri Lanka Navy launches rescue operation for distressed Indian fishing trawler off Delft Island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-2c0add5f)
 - 2026-08-06 | `tamilmirrorlk-949c1197` | இன்று பலத்த மழை பெய்யக்கூடும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-949c1197)
 - 2026-08-06 | `dailyftlk-dfe2f250` | EDB, IFC and EU launch third ExpoScaleUp cohort to boost Sri Lanka’s SME export competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-dfe2f250)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-08-06 | `dailyftlk-ac7afd58` | FSP dismisses judges’ retirement age extension as ‘not a move to catch thieves’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-ac7afd58)
 - 2026-08-06 | `adalk-22213957` | තවත් තහනම් පිරමීඩ ක්‍රමයක් මහ බැංකුව විසින් හෙළි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-22213957)
 - 2026-08-06 | `dailyftlk-1a7f7604` | South Asia’s premier textile, garment manufacturing platform gets underway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-1a7f7604)
-- 2026-08-06 | `dailyftlk-f432d8db` | Expo Commodities Global opens new processing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-f432d8db)
-- 2026-08-06 | `dailyftlk-0a7fe181` | Fake left matrix: Five false doctrines misleading Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-0a7fe181)
-- 2026-08-06 | `dailyftlk-3ee292a4` | Hidden luxury brand: Why Ceylon Gems must become a pillar of brand Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-3ee292a4)
-- 2026-08-06 | `dailyftlk-ebdc2702` | Closing loopholes: Why Sri Lanka must reform IRA to capture offshore indirect share transfers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-ebdc2702)
-- 2026-08-06 | `dailyftlk-97d934b7` | What if Sri Lanka’s next economic breakthrough comes from you? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-97d934b7)
-- 2026-08-05 | `dailymirrorlk-a28caa77` | Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka’s expatriate  higher  education crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-a28caa77)
-- 2026-08-05 | `dailymirrorlk-69e41fd2` | Are Easter Sunday victims happy with the death sentences? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-69e41fd2)
-- 2026-08-05 | `dailymirrorlk-db8d6aca` | Customer-friendly hotlines a must! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-db8d6aca)
-- 2026-08-05 | `dailymirrorlk-fc31ae34` | Animal Welfare Bill : A new ray of hope for voiceless beings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-fc31ae34)
 
 ---
 
