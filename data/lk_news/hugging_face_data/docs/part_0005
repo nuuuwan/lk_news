@@ -5161,6 +5161,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-ece5bcc7",
+    "num": "adalk-ece5bcc7",
+    "date_str": "2026-08-06",
+    "description": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dc5\u0dd2\u0dba\u0dda \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0db6\u0dcf\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2 \u0daf\u0ddd\u0dc2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dc5\u0dd2\u0dba\u0dda-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0db6\u0dcf\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2-\u0daf\u0ddd\u0dc2\u0dba/11-423632",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786012886.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailymirrorlk-c863268c",
     "num": "dailymirrorlk-c863268c",
     "date_str": "2026-08-06",
@@ -5169,6 +5180,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786013356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-c2faa60f",
+    "num": "adalk-c2faa60f",
+    "date_str": "2026-08-06",
+    "description": "\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0daf\u0ddc\u0dbb \u0d87\u0dbb\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0daf\u0ddc\u0dbb-\u0d87\u0dbb\u0dd9\u0dba\u0dd2/11-423633",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786013468.0
   },
   {
     "doc_type": "lk_news",
@@ -5279,5 +5301,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786020170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-6265f6b8",
+    "num": "tamilmirrorlk-6265f6b8",
+    "date_str": "2026-08-06",
+    "description": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0bb5\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb-\u0bb5\u0bbf\u0bb2\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-380991",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786020965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-2f601b16",
+    "num": "tamilmirrorlk-2f601b16",
+    "date_str": "2026-08-06",
+    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0bc8\u0baa\u0bcd-\u0baa\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-380992",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786021649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-65ade4b3",
+    "num": "dailymirrorlk-65ade4b3",
+    "date_str": "2026-08-06",
+    "description": "Animals, water board amendment bills passed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Animals-water-board-amendment-bills-passed/108-347585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786021732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-d3d65833",
+    "num": "dailymirrorlk-d3d65833",
+    "date_str": "2026-08-06",
+    "description": "Rough seas suspend fishing in Matara\u2013Pottuvil sea area",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rough-seas-suspend-fishing-in-MataraPottuvil-sea-area/108-347586",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786022724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-37884c60",
+    "num": "dailymirrorlk-37884c60",
+    "date_str": "2026-08-06",
+    "description": "Iran warns Gulf states: tell Trump to desist or we hit you hard",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-warns-Gulf-states-tell-Trump-to-desist-or-we-hit-you-hard/108-347587",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786022878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-dbac6bde",
+    "num": "dailymirrorlk-dbac6bde",
+    "date_str": "2026-08-06",
+    "description": "SLTB to introduce card payment system for bus travel soon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLTB-to-introduce-card-payment-system-for-bus-travel-soon/108-347588",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786023833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-991b3312",
+    "num": "dailymirrorlk-991b3312",
+    "date_str": "2026-08-06",
+    "description": "No price change for LAUGFS gas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-price-change-for-LAUGFS-gas/108-347589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786025463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-304cbdcf",
+    "num": "dailymirrorlk-304cbdcf",
+    "date_str": "2026-08-06",
+    "description": "Qatar Airways resumes Bahrain, Kuwait and Erbil flights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Qatar-Airways-resumes-Bahrain-Kuwait-and-Erbil-flights/108-347590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786025957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-06730275",
+    "num": "dailymirrorlk-06730275",
+    "date_str": "2026-08-06",
+    "description": "TRCSL orders blocking of 146 illegal online gambling websites",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TRCSL-orders-blocking-of-146-illegal-online-gambling-websites/108-347591",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786028159.0
   }
 ]

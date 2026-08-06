@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-06 18:26:24",
-  "n_docs": 126422,
+  "time_updated": "2026-08-06 20:32:47",
+  "n_docs": 126433,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126422,
+  "n_docs_with_text": 126433,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-06",
-  "dataset_size": 1971108236,
+  "dataset_size": 1970944292,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-06-dailymirrorlk-0b214576",
-    "num": "dailymirrorlk-0b214576",
+    "doc_id": "2026-08-06-dailymirrorlk-06730275",
+    "num": "dailymirrorlk-06730275",
     "date_str": "2026-08-06",
-    "description": "Keep kites away from airports",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keep-kites-away-from-airports/108-347584",
+    "description": "TRCSL orders blocking of 146 illegal online gambling websites",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TRCSL-orders-blocking-of-146-illegal-online-gambling-websites/108-347591",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786020170.0
+    "time_ut": 1786028159.0
   }
 }

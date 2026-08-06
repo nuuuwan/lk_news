@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_18:27:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_20:33:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,422** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,433** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-06-dailymirrorlk-0b214576",
-    "num": "dailymirrorlk-0b214576",
+    "doc_id": "2026-08-06-dailymirrorlk-06730275",
+    "num": "dailymirrorlk-06730275",
     "date_str": "2026-08-06",
-    "description": "Keep kites away from airports",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keep-kites-away-from-airports/108-347584",
+    "description": "TRCSL orders blocking of 146 illegal online gambling websites",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TRCSL-orders-blocking-of-146-illegal-online-gambling-websites/108-347591",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786020170.0
+    "time_ut": 1786028159.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-06 | `dailymirrorlk-06730275` | TRCSL orders blocking of 146 illegal online gambling websites | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-06730275)
+- 2026-08-06 | `dailymirrorlk-304cbdcf` | Qatar Airways resumes Bahrain, Kuwait and Erbil flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-304cbdcf)
+- 2026-08-06 | `dailymirrorlk-991b3312` | No price change for LAUGFS gas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-991b3312)
+- 2026-08-06 | `dailymirrorlk-dbac6bde` | SLTB to introduce card payment system for bus travel soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-dbac6bde)
+- 2026-08-06 | `dailymirrorlk-37884c60` | Iran warns Gulf states: tell Trump to desist or we hit you hard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-37884c60)
+- 2026-08-06 | `dailymirrorlk-d3d65833` | Rough seas suspend fishing in Matara–Pottuvil sea area | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-d3d65833)
+- 2026-08-06 | `dailymirrorlk-65ade4b3` | Animals, water board amendment bills passed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-65ade4b3)
+- 2026-08-06 | `tamilmirrorlk-2f601b16` | கொழும்பில் தொலைபேசியைப் பறித்த வெளிநாட்டவர் கைது (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-2f601b16)
+- 2026-08-06 | `tamilmirrorlk-6265f6b8` | லிட்ரோ விலை தொடர்பான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-6265f6b8)
 - 2026-08-06 | `dailymirrorlk-0b214576` | Keep kites away from airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-0b214576)
 - 2026-08-06 | `dailymirrorlk-f21abaed` | Five officers assigned for child welfare work in each DS Division | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-f21abaed)
 - 2026-08-06 | `tamilmirrorlk-4316839f` | வெள்ளவத்தையிலா  வசிக்கின்றீர்கள்? அப்படினா உங்களின் கவனத்துக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-4316839f)
@@ -51,16 +60,7 @@ A collection of lk_news documents.
 - 2026-08-06 | `tamilmirrorlk-54906a65` | போதைப்பொருள் பயன்படுத்திய OIC இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-54906a65)
 - 2026-08-06 | `dailymirrorlk-b5e1457a` | Meta becomes latest firm to say its AI hacked another company | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-b5e1457a)
 - 2026-08-06 | `dailymirrorlk-eaa5ccc8` | MP’s salary increased by Rs. 60,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-eaa5ccc8)
-- 2026-08-06 | `dailymirrorlk-c863268c` | Seven-hour water cut in Wellawatte and Pamankada tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-c863268c)
-- 2026-08-06 | `dailymirrorlk-53a0f222` | No change in Litro gas prices for August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-53a0f222)
-- 2026-08-06 | `adalk-533fb195` | අයහපත් කාලගුණය හැටන් ඩිපෝවේ  ආදායම ලක්ෂ 23කින් පහළ දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-533fb195)
-- 2026-08-06 | `dailymirrorlk-97ec5b9b` | Ministers brief Cardinal Ranjith on judicial and prison reform plans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-97ec5b9b)
-- 2026-08-06 | `adalk-ec599a54` | රුසියාවේ තෙල් පිරිපහදු දෙකකට පහර දුන්නා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-ec599a54)
-- 2026-08-06 | `tamilmirrorlk-87b9f219` | நண்பனை கொன்று சடலத்துடன் செல்ஃபி எடுத்த நண்பர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-87b9f219)
-- 2026-08-06 | `adalk-3a7e3e06` | මහජන නියෝජිතයන්ගේ වත්කම් බැරකම් දැනගැනීමේ  අයිතිය සුරක්ෂිතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-3a7e3e06)
-- 2026-08-06 | `dailymirrorlk-e2dfd19c` | Sri Lanka expands Japan job opportunities for skilled professionals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-e2dfd19c)
-- 2026-08-06 | `tamilmirrorlk-3f14ccad` | இன்றைய சிந்தனை சித்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-3f14ccad)
-- 2026-08-06 | `tamilmirrorlk-5ab31598` | தெருநாய்களுக்கு உணவளித்த பெண் மீது தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-5ab31598)
+- 2026-08-06 | `adalk-c2faa60f` | වෘත්තිකයන්ට ජපානයේ රැකියා දොර ඇරෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-c2faa60f)
 
 ---
 
