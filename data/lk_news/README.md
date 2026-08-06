@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_06:20:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--06_08:54:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,334** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,349** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-06-dailyftlk-f432d8db",
-    "num": "dailyftlk-f432d8db",
+    "doc_id": "2026-08-06-dailymirrorlk-2c0add5f",
+    "num": "dailymirrorlk-2c0add5f",
     "date_str": "2026-08-06",
-    "description": "Expo Commodities Global opens new processing facility",
-    "url_metadata": "https://www.ft.lk/business/Expo-Commodities-Global-opens-new-processing-facility/34-795651",
+    "description": "Sri Lanka Navy launches rescue operation for distressed Indian fishing trawler off Delft Island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-launches-rescue-operation-for-distressed-Indian-fishing-trawler-off-Delft-Island/108-347525",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1785976946.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785984490.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-06 | `dailymirrorlk-2c0add5f` | Sri Lanka Navy launches rescue operation for distressed Indian fishing trawler off Delft Island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailymirrorlk-2c0add5f)
+- 2026-08-06 | `tamilmirrorlk-949c1197` | இன்று பலத்த மழை பெய்யக்கூடும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-tamilmirrorlk-949c1197)
+- 2026-08-06 | `dailyftlk-dfe2f250` | EDB, IFC and EU launch third ExpoScaleUp cohort to boost Sri Lanka’s SME export competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-dfe2f250)
+- 2026-08-06 | `dailyftlk-6a686900` | Asia Asset Finance powers into FY2026/27 with 198% surge in Profit Before Tax | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-6a686900)
+- 2026-08-06 | `dailyftlk-387e374a` | Applications open for CMA Excellence in Integrated Reporting Awards – 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-387e374a)
+- 2026-08-06 | `dailyftlk-97b73ef4` | BASL President says target of baseless, malicious campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-97b73ef4)
+- 2026-08-06 | `dailyftlk-22f89646` | Shanakiyan raises concerns over water and land rights and illegal settlements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-22f89646)
+- 2026-08-06 | `dailyftlk-675a6e7a` | Akila Viraj remanded till 18 August | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-675a6e7a)
+- 2026-08-06 | `dailyftlk-ac7afd58` | FSP dismisses judges’ retirement age extension as ‘not a move to catch thieves’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-ac7afd58)
+- 2026-08-06 | `adalk-22213957` | තවත් තහනම් පිරමීඩ ක්‍රමයක් මහ බැංකුව විසින් හෙළි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-adalk-22213957)
+- 2026-08-06 | `dailyftlk-1a7f7604` | South Asia’s premier textile, garment manufacturing platform gets underway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-1a7f7604)
 - 2026-08-06 | `dailyftlk-f432d8db` | Expo Commodities Global opens new processing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-f432d8db)
 - 2026-08-06 | `dailyftlk-0a7fe181` | Fake left matrix: Five false doctrines misleading Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-0a7fe181)
 - 2026-08-06 | `dailyftlk-3ee292a4` | Hidden luxury brand: Why Ceylon Gems must become a pillar of brand Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-06-dailyftlk-3ee292a4)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-08-05 | `dailymirrorlk-69e41fd2` | Are Easter Sunday victims happy with the death sentences? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-69e41fd2)
 - 2026-08-05 | `dailymirrorlk-db8d6aca` | Customer-friendly hotlines a must! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-db8d6aca)
 - 2026-08-05 | `dailymirrorlk-fc31ae34` | Animal Welfare Bill : A new ray of hope for voiceless beings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-fc31ae34)
-- 2026-08-05 | `dailymirrorlk-c1f4eac6` | Rs.108bn in tax revenue trapped | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-c1f4eac6)
-- 2026-08-05 | `dailymirrorlk-3562d80d` | Local auto industry shifts gear to assembly mode | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-3562d80d)
-- 2026-08-05 | `dailymirrorlk-129432aa` | CCC’s Motor Vehicle Industry Report returns after six-year hiatus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-129432aa)
-- 2026-08-05 | `dailymirrorlk-786ddf10` | Innovation, technology key to future of apparel industry: Handunnetti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-786ddf10)
-- 2026-08-05 | `dailymirrorlk-37e36499` | CBSL declares TM App among latest prohibited pyramid schemes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-37e36499)
-- 2026-08-05 | `dailymirrorlk-e3d273c6` | Harischandra Mills delivers strong first-quarter earnings on revenue surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-e3d273c6)
-- 2026-08-05 | `dailymirrorlk-78844000` | July tea sale average climbs to Rs.1,176 per kg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-78844000)
-- 2026-08-05 | `dailymirrorlk-8b55ce76` | Vallibel Finance surpasses Rs.200bn in total assets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-8b55ce76)
-- 2026-08-05 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-821a32a1)
-- 2026-08-05 | `dailymirrorlk-8d42b0a6` | T-bill auction yields ease across board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-8d42b0a6)
-- 2026-08-05 | `dailymirrorlk-4dfb0604` | EDB-IFC-EU launch 3rd ExpoScaleUp Cohort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-05-dailymirrorlk-4dfb0604)
 
 ---
 
