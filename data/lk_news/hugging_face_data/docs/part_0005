@@ -5117,6 +5117,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-ec599a54",
+    "num": "adalk-ec599a54",
+    "date_str": "2026-08-06",
+    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dad\u0dd9\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0db4\u0dc4\u0daf\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf/11-423630",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786011589.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailymirrorlk-97ec5b9b",
     "num": "dailymirrorlk-97ec5b9b",
     "date_str": "2026-08-06",
@@ -5125,6 +5136,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786011646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-533fb195",
+    "num": "adalk-533fb195",
+    "date_str": "2026-08-06",
+    "description": "\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0dc4\u0dd0\u0da7\u0db1\u0dca \u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dda  \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbd\u0d9a\u0dca\u0dc2 23\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0daf\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba-\u0dc4\u0dd0\u0da7\u0db1\u0dca-\u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dda--\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0dbd\u0d9a\u0dca\u0dc2-23\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/11-423631",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786012395.0
   },
   {
     "doc_type": "lk_news",
@@ -5158,5 +5180,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786013907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-b5e1457a",
+    "num": "dailymirrorlk-b5e1457a",
+    "date_str": "2026-08-06",
+    "description": "Meta becomes latest firm to say its AI hacked another company",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Meta-becomes-latest-firm-to-say-its-AI-hacked-another-company/108-347580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786014143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-54906a65",
+    "num": "tamilmirrorlk-54906a65",
+    "date_str": "2026-08-06",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf OIC \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-OIC-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-380975",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786015283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-46cd7ab9",
+    "num": "dailymirrorlk-46cd7ab9",
+    "date_str": "2026-08-06",
+    "description": "CMC extends deadline for business trade licences until August 31",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CMC-extends-deadline-for-business-trade-licences-until-August-31/108-347581",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786015500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-4157d649",
+    "num": "tamilmirrorlk-4157d649",
+    "date_str": "2026-08-06",
+    "description": "\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd \u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae \u0bae\u0bcb\u0b9a\u0b9f\u0bbf 16.2 \u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd-\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-16-2-\u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bc8\u0ba4\u0bcd-\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1/76-380976",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786015713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-269a68cf",
+    "num": "tamilmirrorlk-269a68cf",
+    "date_str": "2026-08-06",
+    "description": "\u0bb5\u0b9f\u0bae\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0bca\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0b85\u0bb0\u0bbe\u0b9c\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0bae\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb4\u0bc8\u0ba4\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8-\u0ba8\u0bca\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf-\u0b85\u0bb0\u0bbe\u0b9c\u0b95\u0bae\u0bcd/175-380977",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786016933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-91df3947",
+    "num": "dailymirrorlk-91df3947",
+    "date_str": "2026-08-06",
+    "description": "Mirror Missions: Can You Stop the Next Dengue Surge in Sri Lanka?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mirror-Missions-Can-You-Stop-the-Next-Dengue-Surge-in-Sri-Lanka/108-347582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786017166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-tamilmirrorlk-4316839f",
+    "num": "tamilmirrorlk-4316839f",
+    "date_str": "2026-08-06",
+    "description": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bbe  \u0bb5\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd? \u0b85\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0ba9\u0bbe \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bbe-\u0bb5\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0ba9\u0bbe-\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-380978",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786018291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-f21abaed",
+    "num": "dailymirrorlk-f21abaed",
+    "date_str": "2026-08-06",
+    "description": "Five officers assigned for child welfare work in each DS Division",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-officers-assigned-for-child-welfare-work-in-each-DS-Division/108-347583",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786019763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-0b214576",
+    "num": "dailymirrorlk-0b214576",
+    "date_str": "2026-08-06",
+    "description": "Keep kites away from airports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keep-kites-away-from-airports/108-347584",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786020170.0
   }
 ]

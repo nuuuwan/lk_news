@@ -1,0 +1,43 @@
+Meta becomes latest firm to say its AI hacked another company
+
+BBC - Facebook owner Meta has become the latest tech firm to say one of its AI models was able to connect to the internet and hack into another organisation's systems, during testing.
+
+The incident, which Meta says occurred during an evaluation by an independent company, is the fourth recent incident of its kind disclosed by AI companies.
+
+Similar breaches by OpenAI and Anthropic models have raised cyber-security concerns and prompted calls for tougher safeguards and more rigorous testing.
+
+A Meta spokesperson told the BBC that it was investigating the hack, which it said had been caused by a "misconfiguration" by its independent tester.
+
+It also described what happened as similar to previously reported incidents at other firms.
+
+Meta said the security trials were conducted by Irregular, the same AI security vendor that carried out tests for Anthropic's AI model that had gained access to three other companies' systems.
+
+An Irregular spokesperson said the Meta incident "is the exact same evaluation-environment issue that was already disclosed by Anthropic last week."
+
+Irregular is working on a report on how to securely run cyber-security tests involving AI agents, the firm's spokesperson told the BBC.
+
+Meta also said it will publish more information on the incident "once we have all the facts."
+
+In the past two weeks, AI leaders OpenAI and Anthropic have also reported incidents in which their models hacked into other organisation's systems during testing.
+
+ChatGPT-maker OpenAI said in a series of announcements that its agents attacked several publicly available services, including AI tools hub Hugging Face.
+
+OpenAI's disclosure prompted rival Anthropic to conduct its own checks, leading to the discovery that its Claude AI model had carried out similar attacks on several firms after a "misconfiguration" gave it access to the internet.
+
+Daniel Hulme, global chief AI officer of advertising firm WPP, told the BBC that such AI models "are not conscious — they're not deliberately doing something devious".
+
+"What they're doing is coming up with very sophisticated strategies or cyberattacks to be able to achieve the goal that they've been given," he told the Today programme.
+
+"When you give an AI a goal, if you don't think of all the ways it might be able to achieve the goal, it will find a way to achieve a goal that you haven't thought about."
+
+Some commentators have questioned the timing of disclosures about the incidents as tech firms wrestle for dominance in AI development.
+
+OpenAI and Anthropic are preparing blockbuster stock market listings that are expected to value each firm at around $1tn (£740bn).
+
+This week, the UK's AI Security Institute (AISI) said that its testing had found that some models tried to carry out cyber-attacks by creating fake human profiles to try and trick people.
+
+In the most serious case, the AISI said Anthropic's Mythos AI tried to gain access to a service by sending private messages using fake accounts mimicking real people.
+
+Anthropic said AISI's tests were not "representative of any of our production models". OpenAI, whose models were also tested, said AISI's evaluations did not reflect ordinary use.
+
+More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?
