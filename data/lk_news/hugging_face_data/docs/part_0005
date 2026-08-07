@@ -5708,5 +5708,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786045852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-f24f258b",
+    "num": "dailyftlk-f24f258b",
+    "date_str": "2026-08-07",
+    "description": "UNP rejects judicial tenure extension, urges IMF-backed court reforms",
+    "url_metadata": "https://www.ft.lk/news/UNP-rejects-judicial-tenure-extension-urges-IMF-backed-court-reforms/56-795690",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-0a1fdd29",
+    "num": "dailymirrorlk-0a1fdd29",
+    "date_str": "2026-08-07",
+    "description": "The transport system needs an upgrade !",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-transport-system-needs-an-upgrade/172-347618",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786058334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-82a14a9f",
+    "num": "dailyftlk-82a14a9f",
+    "date_str": "2026-08-07",
+    "description": "Lanka IOC launches its new corporate website",
+    "url_metadata": "https://www.ft.lk/business/Lanka-IOC-launches-its-new-corporate-website/34-795691",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-64dfe918",
+    "num": "dailyftlk-64dfe918",
+    "date_str": "2026-08-07",
+    "description": "National SME Forum Scale Up 2.0 to help SMEs access markets, build competitiveness and prepare for growth",
+    "url_metadata": "https://www.ft.lk/business/National-SME-Forum-Scale-Up-2-0-to-help-SMEs-access-markets-build-competitiveness-and-prepare-for-growth/34-795692",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-132bbdd8",
+    "num": "dailyftlk-132bbdd8",
+    "date_str": "2026-08-07",
+    "description": "PickMe launches Colombo Connect first city-wide destination",
+    "url_metadata": "https://www.ft.lk/business/PickMe-launches-Colombo-Connect-first-city-wide-destination/34-795693",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-6240e7fd",
+    "num": "dailymirrorlk-6240e7fd",
+    "date_str": "2026-08-07",
+    "description": "Iran-Oman deal: Breakthrough or not, peace elusive in West Asia",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Iran-Oman-deal-Breakthrough-or-not-peace-elusive-in-West-Asia/172-347619",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786058567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-ba41ed28",
+    "num": "dailyftlk-ba41ed28",
+    "date_str": "2026-08-07",
+    "description": "Pick a Book\u2019s Readers\u2019 Summit returns on 29 August",
+    "url_metadata": "https://www.ft.lk/business/Pick-a-Book-s-Readers-Summit-returns-on-29-August/34-795694",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-fe46b38c",
+    "num": "dailymirrorlk-fe46b38c",
+    "date_str": "2026-08-07",
+    "description": "Judiciary not to be adjusted according to the convenience of the day",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Judiciary-not-to-be-adjusted-according-to-the-convenience-of-the-day/172-347620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786058648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-397b9ddf",
+    "num": "dailyftlk-397b9ddf",
+    "date_str": "2026-08-07",
+    "description": "BNI Sri Lanka targets 5,000-member network as leaders urge AI, collaboration and entrepreneurship",
+    "url_metadata": "https://www.ft.lk/business/BNI-Sri-Lanka-targets-5-000-member-network-as-leaders-urge-AI-collaboration-and-entrepreneurship/34-795695",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786058718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-d220914a",
+    "num": "dailyftlk-d220914a",
+    "date_str": "2026-08-07",
+    "description": "AI, energy, investment and recasting resilience as Balance Sheet discipline in era of disruption",
+    "url_metadata": "https://www.ft.lk/opinion/AI-energy-investment-and-recasting-resilience-as-Balance-Sheet-discipline-in-era-of-disruption/14-795707",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786060542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-2f9e7b87",
+    "num": "dailyftlk-2f9e7b87",
+    "date_str": "2026-08-07",
+    "description": "From red tape to red carpet: Why Sri Lanka needs a world-class single window for investment",
+    "url_metadata": "https://www.ft.lk/columns/From-red-tape-to-red-carpet-Why-Sri-Lanka-needs-a-world-class-single-window-for-investment/4-795708",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786060968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-19e8a953",
+    "num": "dailyftlk-19e8a953",
+    "date_str": "2026-08-07",
+    "description": "Sri Lanka Cricket: Questions before the change of guard",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-Cricket-Questions-before-the-change-of-guard/14-795710",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786061161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-140b4532",
+    "num": "dailyftlk-140b4532",
+    "date_str": "2026-08-07",
+    "description": "NGO Bill: Ineffective and unjustified",
+    "url_metadata": "https://www.ft.lk/columns/NGO-Bill-Ineffective-and-unjustified/4-795711",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786061519.0
   }
 ]
