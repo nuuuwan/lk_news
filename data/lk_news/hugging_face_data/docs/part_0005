@@ -6855,6 +6855,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-3ab127eb",
+    "num": "adalk-3ab127eb",
+    "date_str": "2026-08-07",
+    "description": "\u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8 \u0db8\u0dd0\u0da9\u0dbd\u0dd3\u0db8\u0da7 \u0dba\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd0\u0db4\u0dd1\u0dbd-\u0dc4\u0dbb\u0dc4\u0dcf-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8-\u0db8\u0dd0\u0da9\u0dbd\u0dd3\u0db8\u0da7-\u0dba\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2/11-423656",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786100632.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-07-dailymirrorlk-0890f6d2",
     "num": "dailymirrorlk-0890f6d2",
     "date_str": "2026-08-07",
@@ -7006,5 +7017,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786112441.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-4eae080b",
+    "num": "dailymirrorlk-4eae080b",
+    "date_str": "2026-08-07",
+    "description": "Elite Joes brought down by Maliyadeva",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elite-Joes-brought-down-by-Maliyadeva/108-347693",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786113306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-91bbf1de",
+    "num": "dailymirrorlk-91bbf1de",
+    "date_str": "2026-08-07",
+    "description": "In Quest for Gold, Pathirage Braved Every Demon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/In-Quest-for-Gold-Pathirage-Braved-Every-Demon/108-347694",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786114971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-013ff679",
+    "num": "dailymirrorlk-013ff679",
+    "date_str": "2026-08-07",
+    "description": "No impact on Kandy Esala Perahera from Animal Welfare Act: Governor",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-impact-on-Kandy-Esala-Perahera-from-Animal-Welfare-Act-Governor/108-347695",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786115008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-2c3646f1",
+    "num": "dailymirrorlk-2c3646f1",
+    "date_str": "2026-08-07",
+    "description": "CSE rally continues as broad buying pushes ASPI toward 21,400",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rally-continues-as-broad-buying-pushes-ASPI-toward-21-400/108-347696",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786116383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-8c956c3d",
+    "num": "dailymirrorlk-8c956c3d",
+    "date_str": "2026-08-07",
+    "description": "22nd Amendment gazetted amidst warning by President\u2019s Counsels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-gazetted-amidst-warning-by-Presidents-Counsels/108-347697",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786117108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-e2f260e3",
+    "num": "dailymirrorlk-e2f260e3",
+    "date_str": "2026-08-07",
+    "description": "Rice supplier fined Rs. 1 mn for selling Red Nadu above MRP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rice-supplier-fined-Rs-1-mn-for-selling-Red-Nadu-above-MRP/108-347698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786119485.0
   }
 ]
