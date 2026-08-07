@@ -5546,6 +5546,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-dailymirrorlk-158fdd9d",
+    "num": "dailymirrorlk-158fdd9d",
+    "date_str": "2026-08-06",
+    "description": "National Business Excellence Awards 2026 Barista wins Gold for  2nd consecutive year",
+    "url_metadata": "https://www.dailymirror.lk/business/National-Business-Excellence-Awards-2026-Barista-wins-Gold-for-2nd-consecutive-year/215-347601",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786039399.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailymirrorlk-8e076033",
     "num": "dailymirrorlk-8e076033",
     "date_str": "2026-08-06",
@@ -5631,6 +5642,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786041170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-904118ee",
+    "num": "dailymirrorlk-904118ee",
+    "date_str": "2026-08-07",
+    "description": "SLEIS 2026 to spotlight investment opportunities and economic reform",
+    "url_metadata": "https://www.dailymirror.lk/business/SLEIS-2026-to-spotlight-investment-opportunities-and-economic-reform/215-347609",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786041412.0
   },
   {
     "doc_type": "lk_news",
@@ -5942,6 +5964,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-2699d04b",
+    "num": "adalk-2699d04b",
+    "date_str": "2026-08-07",
+    "description": "\u200b\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0daf\u0dba\u0da7 \u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0d87\u0dad\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca \u0db4\u0dd0\u0da7\u0dc0\u0dcf \u0dc3\u0db8\u0d9f \u0d85\u0dc3\u0dbb\u0dab \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u200b\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0daf\u0dba\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4-\u0d87\u0dad\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca-\u0db4\u0dd0\u0da7\u0dc0\u0dcf-\u0dc3\u0db8\u0d9f-\u0d85\u0dc3\u0dbb\u0dab-\u0dc0\u0dd9\u0dba\u0dd2/10-423638",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786068835.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-07-dailymirrorlk-3b9deff9",
     "num": "dailymirrorlk-3b9deff9",
     "date_str": "2026-08-07",
@@ -5983,5 +6016,137 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786071887.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-b449ef14",
+    "num": "dailymirrorlk-b449ef14",
+    "date_str": "2026-08-07",
+    "description": "Cinnamon Box Office launches",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Cinnamon-Box-Office-launches/110-347627",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786072664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-f1578ad7",
+    "num": "dailymirrorlk-f1578ad7",
+    "date_str": "2026-08-07",
+    "description": "Meta fined $567m in largest child safety ruling against social media giant",
+    "url_metadata": "https://www.dailymirror.lk/international/Meta-fined-567m-in-largest-child-safety-ruling-against-social-media-giant/107-347628",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786072867.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-6cb97c72",
+    "num": "tamilmirrorlk-6cb97c72",
+    "date_str": "2026-08-07",
+    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbf\u0ba9\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbf\u0ba9\u0bcd-\u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-381001",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786073642.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-d1a071fb",
+    "num": "tamilmirrorlk-d1a071fb",
+    "date_str": "2026-08-07",
+    "description": "\u0b95\u0bbe\u0bb8\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 300 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0bb2\u0bc8: \u0baf\u0bc2\u0ba9\u0bbf\u0b9a\u0bc6\u0b83\u0baa\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb8\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-300-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bca\u0bb2\u0bc8-\u0baf\u0bc2\u0ba9\u0bbf\u0b9a\u0bc6\u0b83\u0baa\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/50-381002",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786074247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-995846fe",
+    "num": "dailymirrorlk-995846fe",
+    "date_str": "2026-08-07",
+    "description": "Unrest at New Magazine Prison leaves 11 inmates injured",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Unrest-at-New-Magazine-Prison-leaves-11-inmates-injured/108-347629",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786074678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-23463d8a",
+    "num": "dailymirrorlk-23463d8a",
+    "date_str": "2026-08-07",
+    "description": "Betty, 97, breaks record for oldest wingwalker",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Betty-97-breaks-record-for-oldest-wingwalker/108-347630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786075057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-24c2cdb0",
+    "num": "tamilmirrorlk-24c2cdb0",
+    "date_str": "2026-08-07",
+    "description": "\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-381004",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786075457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-afbed8f8",
+    "num": "dailymirrorlk-afbed8f8",
+    "date_str": "2026-08-07",
+    "description": "Two inmates killed, two injured in clash at Kuruwita Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-inmates-killed-two-injured-in-clash-at-Kuruwita-Prison/108-347631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786075503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-a70c25f0",
+    "num": "dailymirrorlk-a70c25f0",
+    "date_str": "2026-08-07",
+    "description": "Youth leadership journey begins",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Youth-leadership-journey-begins/110-347632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786076189.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-90ce3335",
+    "num": "dailymirrorlk-90ce3335",
+    "date_str": "2026-08-07",
+    "description": "Mobile Number Portability service will not launch in September",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mobile-Number-Portability-service-will-not-launch-in-September/108-347633",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786076724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-8e869d71",
+    "num": "dailymirrorlk-8e869d71",
+    "date_str": "2026-08-07",
+    "description": "Motorcycle lanes coming in future: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Motorcycle-lanes-coming-in-future-Minister/108-347634",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786076818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-8ce2d142",
+    "num": "dailymirrorlk-8ce2d142",
+    "date_str": "2026-08-07",
+    "description": "Bravo Mr. President but please address the reality of your people too",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bravo-Mr-President-but-please-address-the-reality-of-your-people-too/108-347636",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786077385.0
   }
 ]
