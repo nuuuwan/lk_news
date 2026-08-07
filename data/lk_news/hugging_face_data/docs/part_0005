@@ -6393,6 +6393,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-5fcfe30c",
+    "num": "adalk-5fcfe30c",
+    "date_str": "2026-08-07",
+    "description": "\u0dad\u0dbd\u0dc0\u0d9a\u0dd0\u0dbd\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dc3\u0daf\u0dca\u0db0\u0dbb\u0dca\u0db8\u0dcf\u0dbb\u0dcf\u0db8 \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db1\u0dcf\u0dba \u0dba\u0dd1\u0db8\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dbd\u0dc0\u0d9a\u0dd0\u0dbd\u0dda-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dc3\u0daf\u0dca\u0db0\u0dbb\u0dca\u0db8\u0dcf\u0dbb\u0dcf\u0db8-\u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0db1\u0dcf\u0dba-\u0dba\u0dd1\u0db8\u0dda-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a/11-423646",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786083732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-07-dailymirrorlk-42c75353",
     "num": "dailymirrorlk-42c75353",
     "date_str": "2026-08-07",
@@ -6401,6 +6412,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786084052.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-c00de63f",
+    "num": "adalk-c00de63f",
+    "date_str": "2026-08-07",
+    "description": "\u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 20\u0d9a \u0dc0\u0d9c\u0dcf\u0dc0\u0db1\u0dca \u0dc0\u0db1\u0dc3\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0db1-\u0d85\u0dbd\u0dd2-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-20\u0d9a-\u0dc0\u0d9c\u0dcf\u0dc0\u0db1\u0dca-\u0dc0\u0db1\u0dc3\u0dad\u0dd2/11-423647",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786084055.0
   },
   {
     "doc_type": "lk_news",
@@ -6588,5 +6610,137 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786091355.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-2caa72d5",
+    "num": "tamilmirrorlk-2caa72d5",
+    "date_str": "2026-08-07",
+    "description": "\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-381023",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786091960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-3e62d558",
+    "num": "dailymirrorlk-3e62d558",
+    "date_str": "2026-08-07",
+    "description": "Security tightened at Jaffna prison as military and Police deployed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Security-tightened-at-Jaffna-prison-as-military-and-Police-deployed/108-347668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786092354.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-d77df6f2",
+    "num": "dailymirrorlk-d77df6f2",
+    "date_str": "2026-08-07",
+    "description": "Over 271,000 helmet-related cases filed so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-271-000-helmet-related-cases-filed-so-far-this-year/108-347669",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786092533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-23370074",
+    "num": "dailymirrorlk-23370074",
+    "date_str": "2026-08-07",
+    "description": "Badulla reservoirs spill, downstream warning issued",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Badulla-reservoirs-spill-downstream-warning-issued/108-347670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786092666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-dc7e9436",
+    "num": "dailymirrorlk-dc7e9436",
+    "date_str": "2026-08-07",
+    "description": "Academic activities of Peradeniya university to resume",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Academic-activities-of-Peradeniya-university-to-resume/108-347671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786092982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-d329cfe6",
+    "num": "dailymirrorlk-d329cfe6",
+    "date_str": "2026-08-07",
+    "description": "\u2018AI Amplified\u2019 media launch held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/AI-Amplified-media-launch-held/110-347672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786093031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-283070fc",
+    "num": "tamilmirrorlk-283070fc",
+    "date_str": "2026-08-07",
+    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bb0\u0bc8\u0baf\u0bca\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0bb0\u0bc8\u0baf\u0bca\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/175-381024",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786093545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-ca0ab7b9",
+    "num": "dailymirrorlk-ca0ab7b9",
+    "date_str": "2026-08-07",
+    "description": "Senanayake Samudraya fisheries anchorage proposal reviewed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senanayake-Samudraya-fisheries-anchorage-proposal-reviewed/108-347673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786093968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-532d1c78",
+    "num": "dailymirrorlk-532d1c78",
+    "date_str": "2026-08-07",
+    "description": "Eight dead, including teen suspect's grandparents, in Thailand shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eight-dead-including-teen-suspect-s-grandparents-in-Thailand-shooting/108-347674",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786094119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-9019ca4c",
+    "num": "adalk-9019ca4c",
+    "date_str": "2026-08-07",
+    "description": "\u0db4\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0dc3\u0dda\u0db1 \u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0dc3\u0dda\u0db1-\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-423649",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786094679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-2dd7e97a",
+    "num": "tamilmirrorlk-2dd7e97a",
+    "date_str": "2026-08-07",
+    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1/52-381032",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786095611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-248d3a65",
+    "num": "tamilmirrorlk-248d3a65",
+    "date_str": "2026-08-07",
+    "description": "\u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0baa\u0baf\u0ba9\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9-\u0baa\u0baf\u0ba9\u0bcd/175-381033",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786096327.0
   }
 ]
