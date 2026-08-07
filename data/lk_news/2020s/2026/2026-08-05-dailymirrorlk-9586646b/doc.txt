@@ -1,0 +1,103 @@
+More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?
+
+Sri Lanka’s relationship with artificial intelligence has crossed a critical threshold. According to the Digital Outlook Sri Lanka 2026 report, 81 percent of the island’s internet users now use AI to search for information, with a quarter abandoning traditional search engines entirely. However, as millions turn to tools like ChatGPT for educational, financial, and medical queries, experts warn that algorithmically generated confidence is dangerously outpacing basic digital literacy.
+
+Eight in ten Sri Lankan internet users now build AI into their information-search habits, and a quarter have dropped Google-style search altogether. New survey data suggests the island’s relationship with artificial intelligence has quietly crossed a threshold that digital literacy hasn’t caught up with.
+
+Ask an AI chatbot a question, and you’ll get an answer in seconds. It will sound fluent and certain, whether or not it’s actually correct. That combination, speed paired with certainty, appears to be exactly what has won over Sri Lanka’s internet users.
+
+81% of internet users have built AI into how they search for information
+
+47% of AI users pick ChatGPT’s free version, the most popular tool, up from 42% last year
+
+31% say education is their main reason for using AI, the single largest category
+
+Source: Digital Outlook Sri Lanka 2026 (APIDM & University of Kelaniya), a survey of 2,948 respondents across all nine provinces and 25 districts
+
+Those figures come from Digital Outlook Sri Lanka 2026, published by the Asia Pacific Institute of Digital Marketing (APIDM) with the Department of Marketing Management at the University of Kelaniya.
+
+It’s a large, structured sample, the sort of dataset advertisers and policymakers rely on to make decisions, not a casual poll. And the trend is moving fast. Last year, 76% of respondents said they had switched to AI platforms for information retrieval. That figure has climbed to 81%, with a quarter of users now saying they’ve dropped search engines entirely from their routine.
+
+Sri Lanka has about 13.9 million individual internet users, roughly 59.7% of its 23.3 million people, according to the same report. If the survey’s proportions hold across that population, the number of people getting at least some of their answers from AI runs into the millions.
+
+The tool of choice is ChatGPT’s free version, used by 47% of AI users, up from 42% last year. Google Gemini’s free tier follows at 32%, up from 26%. Paid tiers of both, along with newer entrants like Claude AI, Microsoft Copilot, and NotebookLM, make up smaller, growing slices of the market.  What almost none of these tools do well, by design, is admit when they don’t know something.
+
+Large language models such as ChatGPT and Gemini build answers by predicting the most likely next word, based on patterns learned from enormous amounts of text. They aren’t checking a verified database. When the pattern-matching misfires, or a question falls into a gap in what the model was trained on, the result is what researchers call a hallucination: a fabricated fact, an invented date, a citation to a study that doesn’t exist, delivered in the same even, authoritative tone as a correct answer. There’s usually no flag, no hedge, nothing that visibly changes. The chatbot doesn’t know it’s wrong, because it has no real concept of knowing anything at all.
+
+That’s the trap. A search engine hands you a list of sources and lets you judge them. A chatbot hands you a finished answer and asks you to believe it.
+
+For low-stakes questions, that’s often fine. For everything else, it isn’t.
+
+Education is the single biggest reason Sri Lankans use AI tools, cited by 31% of users, though that share is down from 42% the year before as everyday personal use, now 29%, catches up. That makes AI reliability a live concern not just for professionals, but for students, parents helping with homework, and teachers setting assignments.
+
+Four kinds of questions deserve extra caution, because getting them wrong has real consequences.
+
+1) Medical questions, where a plausible-sounding answer about symptoms, drug interactions, or dosages can be dangerously wrong.
+
+2) Legal questions, where AI tools abroad have been caught inventing case law that reads as entirely real.
+
+3) Financial questions, where confident but incorrect guidance on tax, investment, or loan terms can cost real money.
+
+4) Political or current-affairs claims, where models can misstate facts about live events, especially anything after their training data was collected, or repeat misinformation that was already baked into that training data.
+
+None of this makes AI tools useless on these topics. It means their answers belong at the start of your research, not the end of it.
+
+How to ask an AI for its sources, and why that’s not enough.
+
+Most chatbots will list sources if you ask directly. Try “What are your sources for this?” or “Can you give me links to where this comes from?” That usually prompts a list of references, studies, or articles.
+
+The catch is that the AI can invent sources just as confidently as it invented the original claim. It might cite a “2023 study in a respected medical journal” that doesn’t exist, attach a real-sounding title to the wrong author, or generate a URL that looks legitimate but leads nowhere. Asking for sources is a habit worth building. It isn’t proof of anything by itself.
+
+Search the exact title of the study, article, or report in quotation marks. A real source should turn up on the publisher’s own site or in a recognised database.
+
+If you’re given a URL, open it. A broken link, a 404 page, or content that doesn’t match the claim is a clear warning sign.
+
+For academic claims, check Google Scholar, PubMed, or the journal’s own site, and confirm the named authors are real, findable people.
+
+For statistics, trace them back to the original institution, the Department of Census and Statistics, the Central Bank of Sri Lanka, a university report, an international body, rather than trusting a chatbot’s summary of a summary.
+
+If you can’t find the source after a reasonable search, treat the claim as unverified. Not “probably fine.”
+
+Part of the confusion here is that search engines and AI chatbots look similar on the surface. Both are text boxes that produce answers. They’re built to do different jobs.
+
+A search engine retrieves. It finds pages that already contain information, ranks them by relevance and, imperfectly, by credibility, and lets you compare sources and judge them yourself. The information existed before you asked for it.
+
+An AI chatbot generates. It produces new text assembled in the moment, based on patterns rather than a lookup. Even when it’s right, it’s right because the pattern happened to hold, not because it checked something and confirmed it. That distinction matters most on exactly the questions where being right matters most.
+
+Some AI tools now search the web live and cite sources as they answer, which blurs this line. It’s worth checking whether the tool you’re using actually does that by default; many don’t, and even then, the same verification habits still apply.  Five steps before you trust or share an AI answer:
+
+1. Work out what kind of question this is. Health, money, legal rights, or a live news story? Treat the AI’s answer as a first draft, not a final one.
+
+2. Ask the AI to name its sources. Push for specific studies, articles, or institutions, not reassurance.
+
+3. Verify at least one source yourself. Search for it, open it, and confirm it actually says what the AI claimed. If you can’t find it, that tells you something too.
+
+4. Cross-check against something else. A search engine, a reputable outlet, or even a second AI tool. If sources disagree, dig further before you settle on an answer.
+
+5. Pause before you share it. Forwarding an AI answer on WhatsApp or posting it online carries the same confident tone that convinced you. If you haven’t checked it, say so, or don’t send it.
+
+The report carries its own warning on this front. In an accompanying essay titled “AI Slop in Sri Lanka: The Hidden Threat to Digital Trust,” Udara Dharmasena, Regional VP for Client Success at Roar AdX, argues that Sri Lanka’s social media-first environment, where Facebook, TikTok, and YouTube dominate how people consume information, is increasingly filled with what he calls AI slop: large volumes of low-quality, AI-generated content built for speed and scale rather than accuracy or depth.
+
+“The problem is not just misinformation, but ‘convincing content without substance,’ where outputs sound credible but lack factual integrity,” Dharmasena writes. He warns that content farms, automated pages, and even individual creators are using AI tools to mass-produce viral content, from pseudo-educational videos to manipulated images and fake news, faster than human fact-checkers can keep up.
+
+His warning boils down to three points worth remembering the next time a slick, AI-polished post crosses your feed: volume isn’t value, trust is becoming the scarce resource everyone is competing for, and human judgment, the plain habit of pausing to ask “is this actually true?”, is something no algorithm replaces.
+
+Sri Lanka adopted AI faster than its institutions built the habits to question it. The technology isn’t the problem. Treating a confident-sounding answer as a verified one is. The tools will only get faster and more persuasive from here. Closing that gap is on the reader now.
+
+Frequently asked questions: Why does AI sometimes give wrong answers so confidently?
+
+AI chatbots like ChatGPT and Gemini generate text by predicting likely word patterns, not by checking a verified database. When that pattern-matching goes wrong, they produce a fabricated answer, called a hallucination, in the same confident tone as a correct one, with nothing that visibly signals the mistake.
+
+Is it safe to trust AI for medical, legal, or financial advice?
+
+Treat AI answers on health, law, money, and politics as a starting point, not a final answer. These are the categories where being wrong carries the highest real-world cost, so verify with a qualified professional or a source before acting on what an AI tells you.
+
+Search for the exact title in quotation marks, open any link it provides directly, and check whether the named authors, journal, or institution actually exist. If you can’t confirm it after a reasonable search, treat the underlying claim as unverified.
+
+Is Google search or an AI chatbot better for finding accurate information?
+
+They do different jobs. A search engine retrieves existing pages and lets you compare and judge sources yourself. An AI chatbot generates a new answer in the moment, which is convenient but removes that built-in ability to check where the information actually came from.
+
+According to Digital Outlook Sri Lanka 2026, 26% of Sri Lankan internet users now use AI instead of a search engine, and another 55% use both, for a combined 81% who have built AI into their information search habits.
+
+Why Countries Are Banning Children from Social Media and What It Means for Sri Lanka

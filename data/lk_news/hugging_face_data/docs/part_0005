@@ -4336,6 +4336,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-9586646b",
+    "num": "dailymirrorlk-9586646b",
+    "date_str": "2026-08-05",
+    "description": "More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/More-Sri-Lankans-Are-Turning-to-AI-for-Answers-But-Can-Every-Answer-Be-Trusted/231-347522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785954016.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailyftlk-97d934b7",
     "num": "dailyftlk-97d934b7",
     "date_str": "2026-08-06",
@@ -6756,6 +6767,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-6b53dc55",
+    "num": "adalk-6b53dc55",
+    "date_str": "2026-08-07",
+    "description": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0dbd\u0dd0\u0db6\u0dd3 \u0d87\u0dad\u0dd2 \u0dba\u0ddd\u0da2\u0db1\u0dcf 31\u0d9a\u0dca \u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba\u0da7-\u0dbd\u0dd0\u0db6\u0dd3-\u0d87\u0dad\u0dd2-\u0dba\u0ddd\u0da2\u0db1\u0dcf-31\u0d9a\u0dca-\u0dc3\u0db8\u0dcf\u0dbd\u0ddd\u0da0\u0db1\u0dba\u0da7/11-423652",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786097730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-00cd2378",
+    "num": "adalk-00cd2378",
+    "date_str": "2026-08-07",
+    "description": "\u0d8c\u0dbb\u0db1\u0dca, \u0db6\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0d91\u0dc5\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8c\u0dbb\u0db1\u0dca--\u0db6\u0dd0\u0da7\u0dc5\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dc4-\u0d91\u0dc5\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda\u0daf\u0dd3-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dba\u0dd2/11-423653",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786097854.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-07-dailymirrorlk-7700c546",
     "num": "dailymirrorlk-7700c546",
     "date_str": "2026-08-07",
@@ -6885,5 +6918,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786105420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-48e15251",
+    "num": "dailymirrorlk-48e15251",
+    "date_str": "2026-08-07",
+    "description": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Saudi-Arabia-Turkey-and-Pakistan-sign-defence-pact/108-347687",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786107062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-6dd507d7",
+    "num": "dailymirrorlk-6dd507d7",
+    "date_str": "2026-08-07",
+    "description": "Senior Police officers transferred, subject to NPC approval",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-Police-officers-transferred-subject-to-NPC-approval/108-347688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786107821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-00400d56",
+    "num": "dailymirrorlk-00400d56",
+    "date_str": "2026-08-07",
+    "description": "Justice Minister warns of attempts to incite prisoners",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-Minister-warns-of-attempts-to-incite-prisoners/108-347689",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786108605.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-95035008",
+    "num": "tamilmirrorlk-95035008",
+    "date_str": "2026-08-07",
+    "description": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 36 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-36-\u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-381066",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786109763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-699a0a75",
+    "num": "tamilmirrorlk-699a0a75",
+    "date_str": "2026-08-07",
+    "description": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 : \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf.\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf-\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe/175-381067",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786110839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-d2de2579",
+    "num": "dailymirrorlk-d2de2579",
+    "date_str": "2026-08-07",
+    "description": "Injured inmates transferred to Welikada Hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Injured-inmates-transferred-to-Welikada-Hospital/108-347690",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786111147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-19ec1f61",
+    "num": "dailymirrorlk-19ec1f61",
+    "date_str": "2026-08-07",
+    "description": "Joint mechanism to be established to ensure safety of inmates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-mechanism-to-be-established-to-ensure-safety-of-inmates/108-347691",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786111528.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-8ae0cd58",
+    "num": "dailymirrorlk-8ae0cd58",
+    "date_str": "2026-08-07",
+    "description": "Road to the title begins tomorrow: SLSRFA Elite U18 Rugby 7s Knockout Battle Set",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Road-to-the-title-begins-tomorrow-SLSRFA-Elite-U18-Rugby-7s-Knockout-Battle-Set/108-347692",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786112441.0
   }
 ]

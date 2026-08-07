@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-07 18:02:14",
-  "n_docs": 126568,
+  "time_updated": "2026-08-07 20:09:35",
+  "n_docs": 126579,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126568,
+  "n_docs_with_text": 126579,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-07",
-  "dataset_size": 1972534494,
+  "dataset_size": 1972663162,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-07-dailymirrorlk-5f1b13bf",
-    "num": "dailymirrorlk-5f1b13bf",
+    "doc_id": "2026-08-07-dailymirrorlk-8ae0cd58",
+    "num": "dailymirrorlk-8ae0cd58",
     "date_str": "2026-08-07",
-    "description": "Free entry for for Sri Lanka-India Test series",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Free-entry-for-for-Sri-Lanka-India-Test-series/108-347686",
+    "description": "Road to the title begins tomorrow: SLSRFA Elite U18 Rugby 7s Knockout Battle Set",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Road-to-the-title-begins-tomorrow-SLSRFA-Elite-U18-Rugby-7s-Knockout-Battle-Set/108-347692",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786105420.0
+    "time_ut": 1786112441.0
   }
 }
