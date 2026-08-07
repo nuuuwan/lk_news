@@ -7116,5 +7116,115 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786122423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-550f5053",
+    "num": "dailyftlk-550f5053",
+    "date_str": "2026-08-08",
+    "description": "China pledges more support as GDI marks fifth year",
+    "url_metadata": "https://www.ft.lk/opinion/China-pledges-more-support-as-GDI-marks-fifth-year/14-795733",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786128869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-4e474466",
+    "num": "dailyftlk-4e474466",
+    "date_str": "2026-08-08",
+    "description": "Robert Knox, revisited",
+    "url_metadata": "https://www.ft.lk/columns/Robert-Knox-revisited/4-795734",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786129328.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-ddfb1505",
+    "num": "dailyftlk-ddfb1505",
+    "date_str": "2026-08-08",
+    "description": "The new NGO Bill: Regulating civil society or restricting democratic space?",
+    "url_metadata": "https://www.ft.lk/columns/The-new-NGO-Bill-Regulating-civil-society-or-restricting-democratic-space/4-795735",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786129853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-26ff9dd3",
+    "num": "dailyftlk-26ff9dd3",
+    "date_str": "2026-08-08",
+    "description": "India at 80: From Nehru\u2019s \u2018Tryst with Destiny\u2019 to Viksit Bharat 2047\u2014A view from Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/India-at-80-From-Nehru-s-Tryst-with-Destiny-to-Viksit-Bharat-2047A-view-from-Sri-Lanka/4-795736",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786130513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-a0b7ab77",
+    "num": "dailyftlk-a0b7ab77",
+    "date_str": "2026-08-08",
+    "description": "Is there method to madness at Magazine+?",
+    "url_metadata": "https://www.ft.lk/columns/Is-there-method-to-madness-at-Magazine/4-795740",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786132222.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-fbce63e0",
+    "num": "dailyftlk-fbce63e0",
+    "date_str": "2026-08-08",
+    "description": "Nimal Fernando joins Commercial Development Company Board",
+    "url_metadata": "https://www.ft.lk/business/Nimal-Fernando-joins-Commercial-Development-Company-Board/34-795741",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786132644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-eb9b01d4",
+    "num": "dailyftlk-eb9b01d4",
+    "date_str": "2026-08-08",
+    "description": "Thushantha appointed Indian Chamber of Commerce Chief Country Rep. in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Thushantha-appointed-Indian-Chamber-of-Commerce-Chief-Country-Rep-in-Sri-Lanka/34-795742",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786132724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-829f5164",
+    "num": "dailyftlk-829f5164",
+    "date_str": "2026-08-08",
+    "description": "BOI calls for daily commitment to environmental protection, sustainable production",
+    "url_metadata": "https://www.ft.lk/business/BOI-calls-for-daily-commitment-to-environmental-protection-sustainable-production/34-795743",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786132987.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-2f978e89",
+    "num": "dailyftlk-2f978e89",
+    "date_str": "2026-08-08",
+    "description": "NCE visit to Northern province connects exporters with regional enterprises",
+    "url_metadata": "https://www.ft.lk/business/NCE-visit-to-Northern-province-connects-exporters-with-regional-enterprises/34-795744",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786133094.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-f9f71e52",
+    "num": "dailyftlk-f9f71e52",
+    "date_str": "2026-08-08",
+    "description": "EDB eyes expansion of Sri Lanka\u2019s graphite industry to boost mineral export revenue",
+    "url_metadata": "https://www.ft.lk/business/EDB-eyes-expansion-of-Sri-Lanka-s-graphite-industry-to-boost-mineral-export-revenue/34-795745",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786133170.0
   }
 ]
