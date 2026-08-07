@@ -7226,5 +7226,104 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1786133170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-a7db6053",
+    "num": "dailyftlk-a7db6053",
+    "date_str": "2026-08-08",
+    "description": "India hands over next set of Bailey bridges under $ 450 m reconstruction package",
+    "url_metadata": "https://www.ft.lk/news/India-hands-over-next-set-of-Bailey-bridges-under-450-m-reconstruction-package/56-795756",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786134959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-e70c06cc",
+    "num": "dailyftlk-e70c06cc",
+    "date_str": "2026-08-08",
+    "description": "Lankan candidate vies for Vice President post of World Federation of United Nations  Associations",
+    "url_metadata": "https://www.ft.lk/news/Lankan-candidate-vies-for-Vice-President-post-of-World-Federation-of-United-Nations-Associations/56-795757",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135176.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-ff3433e2",
+    "num": "dailyftlk-ff3433e2",
+    "date_str": "2026-08-08",
+    "description": "Rosamund Pike visits Sri Lanka as mine clearance reaches one-million milestone",
+    "url_metadata": "https://www.ft.lk/news/Rosamund-Pike-visits-Sri-Lanka-as-mine-clearance-reaches-one-million-milestone/56-795758",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-22201c2f",
+    "num": "dailyftlk-22201c2f",
+    "date_str": "2026-08-08",
+    "description": "Revisiting Buddhist studies: PGIPBS Researchers\u2019 Conference 2026",
+    "url_metadata": "https://www.ft.lk/news/Revisiting-Buddhist-studies-PGIPBS-Researchers-Conference-2026/56-795759",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-66432263",
+    "num": "dailyftlk-66432263",
+    "date_str": "2026-08-08",
+    "description": "Parliamentary Caucus for Persons with Disabilities calls for disability-inclusive 2027 Budget",
+    "url_metadata": "https://www.ft.lk/news/Parliamentary-Caucus-for-Persons-with-Disabilities-calls-for-disability-inclusive-2027-Budget/56-795760",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135603.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-2f31aede",
+    "num": "dailyftlk-2f31aede",
+    "date_str": "2026-08-08",
+    "description": "Rs. 8.32 b recovery program cleared for fisheries sector",
+    "url_metadata": "https://www.ft.lk/news/Rs-8-32-b-recovery-program-cleared-for-fisheries-sector/56-795761",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-85ac7822",
+    "num": "dailyftlk-85ac7822",
+    "date_str": "2026-08-08",
+    "description": "Annual Aadi\u00a0Vel\u00a0Festival",
+    "url_metadata": "https://www.ft.lk/news/Annual-AadiVelFestival/56-795762",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786135870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailyftlk-6c28d6fd",
+    "num": "dailyftlk-6c28d6fd",
+    "date_str": "2026-08-08",
+    "description": "Prison unrest spreads across SL while rights group calls on UN to probe alleged HR violations",
+    "url_metadata": "https://www.ft.lk/news/Prison-unrest-spreads-across-SL-while-rights-group-calls-on-UN-to-probe-alleged-HR-violations/56-795763",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786136022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-08cd7bad",
+    "num": "dailymirrorlk-08cd7bad",
+    "date_str": "2026-08-08",
+    "description": "Galle Gallants reach LPL 2026 Final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Galle-Gallants-reach-LPL-2026-Final/108-347701",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786140930.0
   }
 ]

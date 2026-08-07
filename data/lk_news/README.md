@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_02:06:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_04:01:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,599** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,608** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-dailyftlk-f9f71e52",
-    "num": "dailyftlk-f9f71e52",
+    "doc_id": "2026-08-08-dailymirrorlk-08cd7bad",
+    "num": "dailymirrorlk-08cd7bad",
     "date_str": "2026-08-08",
-    "description": "EDB eyes expansion of Sri Lanka\u2019s graphite industry to boost mineral export revenue",
-    "url_metadata": "https://www.ft.lk/business/EDB-eyes-expansion-of-Sri-Lanka-s-graphite-industry-to-boost-mineral-export-revenue/34-795745",
+    "description": "Galle Gallants reach LPL 2026 Final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Galle-Gallants-reach-LPL-2026-Final/108-347701",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1786133170.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786140930.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-08 | `dailymirrorlk-08cd7bad` | Galle Gallants reach LPL 2026 Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-08cd7bad)
+- 2026-08-08 | `dailyftlk-6c28d6fd` | Prison unrest spreads across SL while rights group calls on UN to probe alleged HR violations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-6c28d6fd)
+- 2026-08-08 | `dailyftlk-85ac7822` | Annual Aadi Vel Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-85ac7822)
+- 2026-08-08 | `dailyftlk-2f31aede` | Rs. 8.32 b recovery program cleared for fisheries sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-2f31aede)
+- 2026-08-08 | `dailyftlk-66432263` | Parliamentary Caucus for Persons with Disabilities calls for disability-inclusive 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-66432263)
+- 2026-08-08 | `dailyftlk-22201c2f` | Revisiting Buddhist studies: PGIPBS Researchers’ Conference 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-22201c2f)
+- 2026-08-08 | `dailyftlk-ff3433e2` | Rosamund Pike visits Sri Lanka as mine clearance reaches one-million milestone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-ff3433e2)
+- 2026-08-08 | `dailyftlk-e70c06cc` | Lankan candidate vies for Vice President post of World Federation of United Nations  Associations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-e70c06cc)
+- 2026-08-08 | `dailyftlk-a7db6053` | India hands over next set of Bailey bridges under $ 450 m reconstruction package | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-a7db6053)
 - 2026-08-08 | `dailyftlk-f9f71e52` | EDB eyes expansion of Sri Lanka’s graphite industry to boost mineral export revenue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-f9f71e52)
 - 2026-08-08 | `dailyftlk-2f978e89` | NCE visit to Northern province connects exporters with regional enterprises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-2f978e89)
 - 2026-08-08 | `dailyftlk-829f5164` | BOI calls for daily commitment to environmental protection, sustainable production | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-829f5164)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `dailyftlk-4e474466` | Robert Knox, revisited | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-4e474466)
 - 2026-08-08 | `dailyftlk-550f5053` | China pledges more support as GDI marks fifth year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-550f5053)
 - 2026-08-07 | `tamilmirrorlk-8e88d0ed` | இந்திய நிதியமைச்சரை சந்தித்தார்  செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-tamilmirrorlk-8e88d0ed)
-- 2026-08-07 | `dailymirrorlk-82c03583` | CID Director Shani Abeysekara promoted to Deputy Inspector General of Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-82c03583)
-- 2026-08-07 | `dailymirrorlk-9bd1523f` | 100 days of Chemmani Excavations – Human Skeletal Remains Surpass 500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-9bd1523f)
-- 2026-08-07 | `dailymirrorlk-e2f260e3` | Rice supplier fined Rs. 1 mn for selling Red Nadu above MRP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-e2f260e3)
-- 2026-08-07 | `dailymirrorlk-8c956c3d` | 22nd Amendment gazetted amidst warning by President’s Counsels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-8c956c3d)
-- 2026-08-07 | `dailymirrorlk-2c3646f1` | CSE rally continues as broad buying pushes ASPI toward 21,400 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-2c3646f1)
-- 2026-08-07 | `dailymirrorlk-013ff679` | No impact on Kandy Esala Perahera from Animal Welfare Act: Governor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-013ff679)
-- 2026-08-07 | `dailymirrorlk-91bbf1de` | In Quest for Gold, Pathirage Braved Every Demon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-91bbf1de)
-- 2026-08-07 | `dailymirrorlk-4eae080b` | Elite Joes brought down by Maliyadeva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-4eae080b)
-- 2026-08-07 | `dailymirrorlk-8ae0cd58` | Road to the title begins tomorrow: SLSRFA Elite U18 Rugby 7s Knockout Battle Set | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-8ae0cd58)
 
 ---
 
