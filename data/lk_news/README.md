@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--07_22:04:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_00:05:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,586** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,589** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-07-dailymirrorlk-e2f260e3",
-    "num": "dailymirrorlk-e2f260e3",
+    "doc_id": "2026-08-07-tamilmirrorlk-8e88d0ed",
+    "num": "tamilmirrorlk-8e88d0ed",
     "date_str": "2026-08-07",
-    "description": "Rice supplier fined Rs. 1 mn for selling Red Nadu above MRP",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rice-supplier-fined-Rs-1-mn-for-selling-Red-Nadu-above-MRP/108-347698",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786119485.0
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd  \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd/175-381068",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786122423.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-07 | `tamilmirrorlk-8e88d0ed` | இந்திய நிதியமைச்சரை சந்தித்தார்  செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-tamilmirrorlk-8e88d0ed)
+- 2026-08-07 | `dailymirrorlk-82c03583` | CID Director Shani Abeysekara promoted to Deputy Inspector General of Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-82c03583)
+- 2026-08-07 | `dailymirrorlk-9bd1523f` | 100 days of Chemmani Excavations – Human Skeletal Remains Surpass 500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-9bd1523f)
 - 2026-08-07 | `dailymirrorlk-e2f260e3` | Rice supplier fined Rs. 1 mn for selling Red Nadu above MRP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-e2f260e3)
 - 2026-08-07 | `dailymirrorlk-8c956c3d` | 22nd Amendment gazetted amidst warning by President’s Counsels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-8c956c3d)
 - 2026-08-07 | `dailymirrorlk-2c3646f1` | CSE rally continues as broad buying pushes ASPI toward 21,400 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-2c3646f1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-07 | `dailymirrorlk-5f1b13bf` | Free entry for for Sri Lanka-India Test series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-5f1b13bf)
 - 2026-08-07 | `dailymirrorlk-f7964802` | Jaffna Court orders Gotabaya to give online testimony in disappearance case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-f7964802)
 - 2026-08-07 | `dailymirrorlk-f52a07c3` | Control restored at Kuruvita and Pallansena prisons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-f52a07c3)
-- 2026-08-07 | `adalk-84d360fa` | බන්ධනාගාරවල ආරක්ෂාව තරකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-adalk-84d360fa)
-- 2026-08-07 | `adalk-a57931e3` | විගණකාධිපතිවරියගේ වැටුපට මුදල් පිළිබඳ කාරක සභාවේ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-adalk-a57931e3)
-- 2026-08-07 | `dailymirrorlk-0890f6d2` | Heavy showers, strong winds on the cards in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-dailymirrorlk-0890f6d2)
 
 ---
 
