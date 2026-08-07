@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-07 10:23:33",
-  "n_docs": 126501,
+  "time_updated": "2026-08-07 12:14:58",
+  "n_docs": 126527,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126501,
+  "n_docs_with_text": 126527,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-07",
-  "dataset_size": 1971785376,
+  "dataset_size": 1971981329,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-07-dailymirrorlk-8ce2d142",
-    "num": "dailymirrorlk-8ce2d142",
+    "doc_id": "2026-08-07-dailymirrorlk-04d5ee80",
+    "num": "dailymirrorlk-04d5ee80",
     "date_str": "2026-08-07",
-    "description": "Bravo Mr. President but please address the reality of your people too",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bravo-Mr-President-but-please-address-the-reality-of-your-people-too/108-347636",
+    "description": "Strong winds of up to 50 kmph forecast for several provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-of-up-to-50-kmph-forecast-for-several-provinces/108-347660",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786077385.0
+    "time_ut": 1786084624.0
   }
 }
