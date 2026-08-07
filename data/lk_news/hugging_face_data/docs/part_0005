@@ -5238,6 +5238,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-06-adalk-548755da",
+    "num": "adalk-548755da",
+    "date_str": "2026-08-06",
+    "description": "\u0dc0\u0dd2\u0dc2 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dc2-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dbb\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0dc3\u0dda\u0dc0\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/11-423635",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786014228.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-tamilmirrorlk-54906a65",
     "num": "tamilmirrorlk-54906a65",
     "date_str": "2026-08-06",
@@ -5851,5 +5862,126 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1786061519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-77267a64",
+    "num": "dailyftlk-77267a64",
+    "date_str": "2026-08-07",
+    "description": "Delay is not denial",
+    "url_metadata": "https://www.ft.lk/columns/Delay-is-not-denial/4-795712",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786062184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-bd5d5bff",
+    "num": "dailyftlk-bd5d5bff",
+    "date_str": "2026-08-07",
+    "description": "Adaptive policy frameworks: Building resilient governance for an uncertain future",
+    "url_metadata": "https://www.ft.lk/columns/Adaptive-policy-frameworks-Building-resilient-governance-for-an-uncertain-future/4-795713",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786062513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailyftlk-b4e9042d",
+    "num": "dailyftlk-b4e9042d",
+    "date_str": "2026-08-07",
+    "description": "AKD\u2019s Budget optimism against relentless pessimism",
+    "url_metadata": "https://www.ft.lk/columns/AKD-s-Budget-optimism-against-relentless-pessimism/4-795714",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786062852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-94539235",
+    "num": "tamilmirrorlk-94539235",
+    "date_str": "2026-08-07",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd/175-380996",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786065205.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-e9a3431a",
+    "num": "dailymirrorlk-e9a3431a",
+    "date_str": "2026-08-07",
+    "description": "Why watching videos while driving is dangerous?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-watching-videos-while-driving-is-dangerous/108-347625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786066672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-5af91628",
+    "num": "tamilmirrorlk-5af91628",
+    "date_str": "2026-08-07",
+    "description": "\u0bae\u0bc6\u0b95\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc6\u0b95\u0b9a\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-380997",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786067955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-adalk-66746ec7",
+    "num": "adalk-66746ec7",
+    "date_str": "2026-08-07",
+    "description": "\u0db8\u0dd0\u0d9c\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0d9c\u0dc3\u0dd2\u0db1\u0dca-\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca/11-423637",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786068436.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-3b9deff9",
+    "num": "dailymirrorlk-3b9deff9",
+    "date_str": "2026-08-07",
+    "description": "Unrest erupts at Kuruwita Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Unrest-erupts-at-Kuruwita-Prison/108-347626",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786070147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-a7ccf155",
+    "num": "tamilmirrorlk-a7ccf155",
+    "date_str": "2026-08-07",
+    "description": "\u2019\u0ba4\u0bc2\u0baf\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0b95\u0bb0\u0bae\u0bcd\u2019 \u0b95\u0bb4\u0bbf\u0bb5\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc2\u0baf\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9-\u0ba8\u0b95\u0bb0\u0bae\u0bcd-\u0b95\u0bb4\u0bbf\u0bb5\u0bc1-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-380998",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786070482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-68d978f4",
+    "num": "tamilmirrorlk-68d978f4",
+    "date_str": "2026-08-07",
+    "description": "\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-380999",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786071585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-tamilmirrorlk-0ee4561f",
+    "num": "tamilmirrorlk-0ee4561f",
+    "date_str": "2026-08-07",
+    "description": "\u0bb2\u0bca\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bca\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8-\u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bb2\u0bcd\u0bb5\u0bbf-\u0b89\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-381000",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786071887.0
   }
 ]
