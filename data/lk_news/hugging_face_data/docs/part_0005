@@ -7067,6 +7067,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-d6e05de8",
+    "num": "dailymirrorlk-d6e05de8",
+    "date_str": "2026-08-07",
+    "description": "Massive fraud involving Aswesuma",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Massive-fraud-involving-Aswesuma/108-347681",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786103945.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-07-dailymirrorlk-f52a07c3",
     "num": "dailymirrorlk-f52a07c3",
     "date_str": "2026-08-07",
@@ -7075,6 +7086,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786104232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-dailymirrorlk-ad2bd315",
+    "num": "dailymirrorlk-ad2bd315",
+    "date_str": "2026-08-07",
+    "description": "Over 749 killed in motorcycle crashes so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-749-killed-in-motorcycle-crashes-so-far-this-year/108-347683",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786104521.0
   },
   {
     "doc_type": "lk_news",
@@ -7658,5 +7680,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786162957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-8b748bfd",
+    "num": "dailymirrorlk-8b748bfd",
+    "date_str": "2026-08-08",
+    "description": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+    "url_metadata": "https://www.dailymirror.lk/international/US-expects-deal-soon-on-Strait-of-Hormuz-Sunni-powers-unite-in-defense-pact/107-347704",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786163917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-tamilmirrorlk-d8f9adf6",
+    "num": "tamilmirrorlk-d8f9adf6",
+    "date_str": "2026-08-08",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bc1\u0bae\u0bcd/91-381077",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786167860.0
   }
 ]
