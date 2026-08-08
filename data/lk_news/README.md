@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_06:07:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_08:28:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,628** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,633** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-dailymirrorlk-08cd7bad",
-    "num": "dailymirrorlk-08cd7bad",
+    "doc_id": "2026-08-08-tamilmirrorlk-d806dcb4",
+    "num": "tamilmirrorlk-d806dcb4",
     "date_str": "2026-08-08",
-    "description": "Galle Gallants reach LPL 2026 Final",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Galle-Gallants-reach-LPL-2026-Final/108-347701",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786140930.0
+    "description": "60 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b9a\u0bbf\u0b95\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/60-\u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0b9a\u0bbf\u0b95\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381073",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786156236.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-08 | `tamilmirrorlk-d806dcb4` | 60 இலட்சம் ரூபாய் பெறுமதியான சிகரட்டுக்களுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-d806dcb4)
+- 2026-08-08 | `dailymirrorlk-955521ce` | Thai PM vows to introduce stricter gun laws after eight killed in shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-955521ce)
+- 2026-08-08 | `tamilmirrorlk-c86a50f3` | மக்களுக்கான அஸ்வெசும நிதியை அபகரித்த அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-c86a50f3)
+- 2026-08-08 | `tamilmirrorlk-03ca61c4` | ஷானி அபேசேகரவிற்கு பதவி உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-03ca61c4)
+- 2026-08-08 | `tamilmirrorlk-b55c9d93` | காலநிலையில் இன்று ஏற்படவுள்ள மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-b55c9d93)
 - 2026-08-08 | `dailymirrorlk-08cd7bad` | Galle Gallants reach LPL 2026 Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-08cd7bad)
 - 2026-08-08 | `dailyftlk-6c28d6fd` | Prison unrest spreads across SL while rights group calls on UN to probe alleged HR violations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-6c28d6fd)
 - 2026-08-08 | `dailyftlk-85ac7822` | Annual Aadi Vel Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-85ac7822)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `dailyftlk-eb9b01d4` | Thushantha appointed Indian Chamber of Commerce Chief Country Rep. in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-eb9b01d4)
 - 2026-08-08 | `dailyftlk-fbce63e0` | Nimal Fernando joins Commercial Development Company Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-fbce63e0)
 - 2026-08-08 | `dailyftlk-a0b7ab77` | Is there method to madness at Magazine+? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-a0b7ab77)
-- 2026-08-08 | `dailyftlk-26ff9dd3` | India at 80: From Nehru’s ‘Tryst with Destiny’ to Viksit Bharat 2047—A view from Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-26ff9dd3)
-- 2026-08-08 | `dailyftlk-ddfb1505` | The new NGO Bill: Regulating civil society or restricting democratic space? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-ddfb1505)
-- 2026-08-08 | `dailyftlk-4e474466` | Robert Knox, revisited | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-4e474466)
-- 2026-08-08 | `dailyftlk-550f5053` | China pledges more support as GDI marks fifth year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-550f5053)
-- 2026-08-07 | `tamilmirrorlk-8e88d0ed` | இந்திய நிதியமைச்சரை சந்தித்தார்  செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-07-tamilmirrorlk-8e88d0ed)
 
 ---
 
