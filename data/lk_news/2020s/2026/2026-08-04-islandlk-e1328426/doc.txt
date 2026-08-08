@@ -1,0 +1,49 @@
+Economic consequences, organised crime and road ahead
+
+In 2024, Sri Lanka’s customs records show the country exported a modest US$ 41 million worth of goods to Thailand, cinnamon, coconut products, rubber, and assorted manufactured goods, ranked 47th among Sri Lanka’s export destinations. It is a small, unremarkable trading relationship by any measure.
+
+Except that when researchers at Global Financial Integrity (GFI), a Washington-based think tank that tracks illicit financial flows, applied their standard “mirror trade” methodology, comparing what Sri Lanka reports exporting against what Thailand reports importing from Sri Lanka, they found something extraordinary. The value gap between the two countries’ trade records for that single bilateral relationship came to 207% of the declared export value.
+
+Two hundred and seven percent. Not a rounding error. Not a measurement discrepancy. A gap more than twice the size of the trade itself, a gap that, according to GFI’s March 2026 report “Trade-Related Illicit Financial Flows in Developing Asia,” is one of the clearest fingerprints of deliberate trade misinvoicing: exporters and importers colluding to move money across a border, disguised as payment for goods that were never worth what the invoice says.
+
+This is not a one-off anomaly. The same GFI report calculates that across all of Sri Lanka’s trading partners during the 2013–2022 period, the country’s total trade value gap stood at 20.51%, meaning roughly one in every five dollars of Sri Lanka’s recorded trade may carry a misinvoicing fingerprint.
+
+This is, in fact, the fourth time, in under a decade, that GFI has documented this exact pattern in Sri Lanka’s trade data, and the consistency of the finding across study periods, methodologies, and years is itself the most damning evidence of all. (See Table 1)
+
+To place this in perspective: Newspapers reported that appx. US$4 billion disappearing annually through trade misinvoicing was, on its own, enough to pay Sri Lanka’s entire yearly fuel import bill, with money left over. Global Financial Integrity has also noted that misinvoicing is frequently used to launder proceeds of criminal activity, evade tax and customs duties, and circumvent currency controls, placing trade misinvoicing squarely within the laundering ecosystem this series has traced from Part I onward, rather than as a separate phenomenon.
+
+The Tax Justice Network’s Illicit Financial Flows Vulnerability Tracker has identified the most common destinations for Sri Lanka’s illicit outflows: Singapore, Hong Kong, the Maldives, the Seychelles, Thailand, Bangladesh, Mauritius, India, Malaysia, and the British Virgin Islands, a list that reads as a roadmap of global secrecy jurisdictions rather than ordinary trading partners.
+
+Readers of this series may reasonably ask: why does a misinvoiced cinnamon shipment to Thailand matter to a family in Kurunegala buying rice, or a small business in Matara importing machine parts? The answer runs through a chain of consequences that this series has now traced across four instalments. (See Figure 1)
+
+Every dollar that should have entered Sri Lanka’s formal foreign exchange reserves through honest export proceeds, but instead remained offshore through over- or under-invoicing, is a dollar the Central Bank does not have when it needs to defend the rupee or pay for essential imports. Sri Lanka’s Gross Official Reserves stood at USD 6.8 billion by the end of 2025, a hard-won recovery from the near-zero reserves of 2022, but still a fraction of what successive GFI reports suggest has leaked out through trade channels alone over the preceding decade. The rupee depreciated 5.6% against the US dollar in 2025, and 7.9% in the first six months in 2026; moving from 309.99 LKR per USD at the end of December 2025 to 336.66 LKR per USD by June 30, a depreciation that makes every imported good, fuel, medicine, machinery, food, more expensive in rupee terms for every household in the country.
+
+Workers’ remittances, the legitimate, hard-won foreign exchange earned by over three million Sri Lankans working abroad, have covered around 80% of Sri Lanka’s annual trade deficit on average over the past two decades, according to the Central Bank, and are projected to exceed USD 8 billion in 2026. These are precisely the foreign exchange earnings that Part I of this series showed migrating toward informal Undiyal and Hawala channels whenever the formal exchange rate becomes uncompetitive. Every dollar that should reinforce the country’s reserves through formal remittance channels, but instead flows through informal channels invisible to the Central Bank, weakens the very buffer the country needs to withstand future shocks, whether a global oil price spike, a fresh debt crisis, or simply the next wave of speculative pressure on the rupee.
+
+All four instalments of this series converge on a single, concrete test that Sri Lanka faces this year. The Financial Action Task Force will conduct Sri Lanka’s third mutual evaluation on anti-money laundering and counter-terrorism financing in 2026, and unlike the two evaluations that preceded it, this one will measure effectiveness rather than the mere existence of legislation.
+
+“The bottom line, simply, is that we cannot afford to be grey-listed again,” FIU Director Dr. Subhani Keerthiratne has said, as documented in Part II of this series. The stakes are not abstract. Grey-listing in 2017 led directly to European Union blacklisting, increased correspondent banking costs, and reduced foreign investment, economic costs Sri Lanka absorbed at the worst possible time, while still recovering from the Easter Sunday attacks, the pandemic, and the 2022 sovereign default. A second grey-listing in 2026, at a moment when the country is still rebuilding reserves and investor confidence after that default, would compound an already fragile recovery. (See Figure 2)
+
+Across this four-part series, a consistent set of policy lessons has emerged, not as abstract theory, but as conclusions forced by the evidence itself. (See Table 2)
+
+None of these recommendations are radical. Each follows directly from evidence already gathered by Sri Lanka’s own institutions, by the FATF, and by independent international researchers. What has been missing, repeatedly, is not diagnosis but sustained follow-through, the gap between a report receiving “wide publicity in Sri Lanka,” as one assessment of the 2017 GFI findings noted, and any visible investigation into the specific flows it identified.
+
+This series began with Sunil, a driver in Dubai, choosing an  Undiyal broker over his bank because the broker offered him a better deal. It ends with a cinnamon exporter whose invoice to a Thai buyer conceals a value gap more than twice the size of the underlying trade.
+
+Between these two bookends sits an enormous, interconnected architecture: three-stage laundering cycles, AI-generated synthetic brokerages, stablecoin pipelines moving USD 154 billion in illicit value in a single year, and a national reckoning at the FATF that will test whether Sri Lanka’s institutions can finally convert a decade of documentation into a decade of enforcement.
+
+The economics explored across this series are not abstract. They show up as a weaker rupee, a thinner reserve buffer, a higher cost of borrowing, and, ultimately, a higher cost of living for every Sri Lankan household, regardless of whether any individual reader has ever knowingly touched an informal financial channel in their life.
+
+If Sri Lanka’s 2026 FATF evaluation is to mean something more than another report that receives wide publicity and limited follow-through, it must mark the year the country chose to compete with the shadow economy rather than merely legislate against it.
+
+This series set out, four instalments ago, to explain one of the world’s most misunderstood financial systems using simple language, rigorous evidence, and an honest acknowledgement of what we know versus what remains allegation. We have tried to honour that standard throughout, distinguishing established fact from informed inference, and naming our sources at every turn rather than asking readers to take our word for it.
+
+If the overseas worker sending money home, the family receiving it, the student studying economics, the banker reading for technical accuracy, the policymaker looking for practical next steps can explain confidently to someone else why Sri Lanka’s exchange rate, its remittance flows, and its trade data matter to their own daily life, then this series will have done what it set out to do.
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe. Views expressed in this article are personal.)
+
+Tarnished Pearl: How short-sighted governance is squandering Sri Lanka’s greatest treasures
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

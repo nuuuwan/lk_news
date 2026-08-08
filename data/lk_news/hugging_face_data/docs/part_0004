@@ -321624,6 +321624,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-islandlk-2a050ce6",
+    "num": "islandlk-2a050ce6",
+    "date_str": "2026-07-31",
+    "description": "El Ni\u00f1o threat looms large",
+    "url_metadata": "http://island.lk/el-nino-threat-looms-large/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785439020.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-331d92ce",
     "num": "dailymirrorlk-331d92ce",
     "date_str": "2026-07-31",
@@ -322889,6 +322900,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-31-islandlk-32826784",
+    "num": "islandlk-32826784",
+    "date_str": "2026-07-31",
+    "description": "El Ni\u00f1o: Misplaced priorities",
+    "url_metadata": "http://island.lk/el-nino-misplaced-priorities/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785516600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-31-dailymirrorlk-9adb582f",
     "num": "dailymirrorlk-9adb582f",
     "date_str": "2026-07-31",
@@ -323469,6 +323491,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785577260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-01-islandlk-20c81a47",
+    "num": "islandlk-20c81a47",
+    "date_str": "2026-08-01",
+    "description": "Govt. heading into an imbroglio",
+    "url_metadata": "http://island.lk/govt-heading-into-an-imbroglio/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785579360.0
   },
   {
     "doc_type": "lk_news",
@@ -324594,6 +324627,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-02-islandlk-68a20667",
+    "num": "islandlk-68a20667",
+    "date_str": "2026-08-02",
+    "description": "From Negombo to Mahara",
+    "url_metadata": "http://island.lk/from-negombo-to-mahara/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785688140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-02-dailymirrorlk-8525f6dc",
     "num": "dailymirrorlk-8525f6dc",
     "date_str": "2026-08-02",
@@ -325390,29 +325434,4 @@
     "num": "dailymirrorlk-655f9628",
     "date_str": "2026-08-03",
     "description": "Suicide bomber targets rally in Pakistan, killing at least 14",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-least-14/108-347240",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785737563.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-08-03-dailymirrorlk-1244eb31",
-    "num": "dailymirrorlk-1244eb31",
-    "date_str": "2026-08-03",
-    "description": "Indictments filed against Yoshitha Rajapaksa and Karannagoda",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indictments-filed-against-Yoshitha-Rajapaksa-and-Karannagoda/108-347241",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1785738219.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-08-03-tamilmirrorlk-62e2e531",
-    "num": "tamilmirrorlk-62e2e531",
-    "date_str": "2026-08-03",
-    "description": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 450 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-450-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380812",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-   
+    "url_metadata": "https://www.daily

@@ -1,4 +1,29 @@
- "time_ut": 1785738680.0
+mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-least-14/108-347240",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785737563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-dailymirrorlk-1244eb31",
+    "num": "dailymirrorlk-1244eb31",
+    "date_str": "2026-08-03",
+    "description": "Indictments filed against Yoshitha Rajapaksa and Karannagoda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indictments-filed-against-Yoshitha-Rajapaksa-and-Karannagoda/108-347241",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785738219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-62e2e531",
+    "num": "tamilmirrorlk-62e2e531",
+    "date_str": "2026-08-03",
+    "description": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 450 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-450-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-380812",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1785738680.0
   },
   {
     "doc_type": "lk_news",
@@ -695,6 +720,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-03-islandlk-46e95913",
+    "num": "islandlk-46e95913",
+    "date_str": "2026-08-03",
+    "description": "A juggernaut careening menacingly downhill",
+    "url_metadata": "http://island.lk/a-juggernaut-careening-menacingly-downhill/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785779400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-03-dailymirrorlk-31d43c1d",
     "num": "dailymirrorlk-31d43c1d",
     "date_str": "2026-08-03",
@@ -780,6 +816,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1785779805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-03-islandlk-81c5d473",
+    "num": "islandlk-81c5d473",
+    "date_str": "2026-08-03",
+    "description": "Leadership matters in justice",
+    "url_metadata": "http://island.lk/leadership-matters-in-justice/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785779820.0
   },
   {
     "doc_type": "lk_news",
@@ -2342,6 +2389,39 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1785862879.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-islandlk-561b1b06",
+    "num": "islandlk-561b1b06",
+    "date_str": "2026-08-04",
+    "description": "Govt. vs. Reason",
+    "url_metadata": "http://island.lk/govt-vs-reason/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785865920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-islandlk-e1328426",
+    "num": "islandlk-e1328426",
+    "date_str": "2026-08-04",
+    "description": "Economic consequences, organised crime and road ahead",
+    "url_metadata": "http://island.lk/economic-consequences-organised-crime-and-road-ahead/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785866160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-04-islandlk-d2fa7b1f",
+    "num": "islandlk-d2fa7b1f",
+    "date_str": "2026-08-04",
+    "description": "Tarnished Pearl: How short-sighted governance is squandering Sri Lanka\u2019s greatest treasures",
+    "url_metadata": "http://island.lk/tarnished-pearl-how-short-sighted-governance-is-squandering-sri-lankas-greatest-treasures/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785866340.0
   },
   {
     "doc_type": "lk_news",
@@ -4347,6 +4427,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-islandlk-369dfb7a",
+    "num": "islandlk-369dfb7a",
+    "date_str": "2026-08-05",
+    "description": "Pakistan\u2019s NWFP and Myanmar: silent suffering mounts",
+    "url_metadata": "http://island.lk/pakistans-nwfp-and-myanmar-silent-suffering-mounts/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785954120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-05-islandlk-a5fd2d55",
+    "num": "islandlk-a5fd2d55",
+    "date_str": "2026-08-05",
+    "description": "From a whisper in rainforest to a national treasure: The Serendib Scops Owl still guards its secrets",
+    "url_metadata": "http://island.lk/from-a-whisper-in-rainforest-to-a-national-treasure-the-serendib-scops-owl-still-guards-its-secrets/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785954480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-islandlk-da00add7",
+    "num": "islandlk-da00add7",
+    "date_str": "2026-08-06",
+    "description": "New benchmark in pageant industry",
+    "url_metadata": "http://island.lk/new-benchmark-in-pageant-industry/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785954780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-islandlk-7a18bfb1",
+    "num": "islandlk-7a18bfb1",
+    "date_str": "2026-08-06",
+    "description": "The egg scene\u2026",
+    "url_metadata": "http://island.lk/the-egg-scene/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785954840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-06-dailyftlk-97d934b7",
     "num": "dailyftlk-97d934b7",
     "date_str": "2026-08-06",
@@ -5510,6 +5634,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786038018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-islandlk-9e5236df",
+    "num": "islandlk-9e5236df",
+    "date_str": "2026-08-06",
+    "description": "\u2018Sri Lanka AI Week 2026\u2019 launched with theme \u2018AI Amplified\u2019 by Ministry of Digital Economy and SLT-MOBITEL",
+    "url_metadata": "http://island.lk/sri-lanka-ai-week-2026-launched-with-theme-ai-amplified-by-ministry-of-digital-economy-and-slt-mobitel/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786038120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-06-islandlk-79658662",
+    "num": "islandlk-79658662",
+    "date_str": "2026-08-06",
+    "description": "Historic Rs 9 billion share transaction by Commercial Credit and Finance boosts bourse",
+    "url_metadata": "http://island.lk/historic-rs-9-billion-share-transaction-by-commercial-credit-and-finance-boosts-bourse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786038240.0
   },
   {
     "doc_type": "lk_news",
@@ -7094,6 +7240,61 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786120192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-178c64ba",
+    "num": "islandlk-178c64ba",
+    "date_str": "2026-08-07",
+    "description": "Spa Ceylon launches Sri Lanka\u2019s first Nature Trail Wellness Run",
+    "url_metadata": "http://island.lk/spa-ceylon-launches-sri-lankas-first-nature-trail-wellness-run/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786120260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-21fb2e9d",
+    "num": "islandlk-21fb2e9d",
+    "date_str": "2026-08-07",
+    "description": "Dull Friday at CSE, hopes shift to next week",
+    "url_metadata": "http://island.lk/dull-friday-at-cse-hopes-shift-to-next-week/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786120260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-41c3fb48",
+    "num": "islandlk-41c3fb48",
+    "date_str": "2026-08-07",
+    "description": "99x rebuilds flood-damaged IT labs restoring digital learning for rural schools in Mahiyanganaya",
+    "url_metadata": "http://island.lk/99x-rebuilds-flood-damaged-it-labs-restoring-digital-learning-for-rural-schools-in-mahiyanganaya/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786120260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-dd9d31da",
+    "num": "islandlk-dd9d31da",
+    "date_str": "2026-08-07",
+    "description": "John Keells Foundation celebrates purpose-driven volunteerism at Volunteer Recognition Day 2026",
+    "url_metadata": "http://island.lk/john-keells-foundation-celebrates-purpose-driven-volunteerism-at-volunteer-recognition-day-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786120260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-f48c720f",
+    "num": "islandlk-f48c720f",
+    "date_str": "2026-08-07",
+    "description": "HNB Life delivers robust first half performance",
+    "url_metadata": "http://island.lk/hnb-life-delivers-robust-first-half-performance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786120260.0
   },
   {
     "doc_type": "lk_news",
