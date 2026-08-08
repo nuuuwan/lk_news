@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_21:53:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_23:55:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,675** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,678** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-dailymirrorlk-e092f05e",
-    "num": "dailymirrorlk-e092f05e",
+    "doc_id": "2026-08-08-dailymirrorlk-d869d58f",
+    "num": "dailymirrorlk-d869d58f",
     "date_str": "2026-08-08",
-    "description": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-Columbia-district-declares-state-of-emergency-issues-evacuation-orders-as-wildfire-rages/108-347727",
+    "description": "Galle Gallants Crowned LPL 2026 Champions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Galle-Gallants-Crowned-LPL-2026-Champions/108-347728",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786205478.0
+    "time_ut": 1786210363.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-08 | `dailymirrorlk-d869d58f` | Galle Gallants Crowned LPL 2026 Champions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-d869d58f)
+- 2026-08-08 | `adalk-39ae6533` | ශ්‍රී ලන්කන් කුවේට් ගමන් යළි අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-39ae6533)
 - 2026-08-08 | `dailymirrorlk-e092f05e` | British Columbia district declares state of emergency, issues evacuation orders as wildfire rages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-e092f05e)
 - 2026-08-08 | `dailymirrorlk-406c3cb1` | India hands over Bailey Bridges weighing over 250 MT to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-406c3cb1)
 - 2026-08-08 | `dailymirrorlk-4e015f96` | SriLankan Airlines resumes Colombo–Kuwait flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-4e015f96)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `dailymirrorlk-2cc96db4` | Award-winning actor Rosamund Pike to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-2cc96db4)
 - 2026-08-08 | `tamilmirrorlk-d19bdb2d` | நுளம்பின் கடிக்கு 64 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-d19bdb2d)
 - 2026-08-08 | `adalk-b418fec2` | සෞදිය, තුර්කිය හා පාකිස්තානය ඒකාබද්ධ ආරක්ෂක ගිවිසුමකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-b418fec2)
-- 2026-08-08 | `adalk-5a2eca30` | ලංකා සතොස භාණ්ඩ 10ක මිල බස්සවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-5a2eca30)
-- 2026-08-08 | `tamilmirrorlk-7a230abb` | 749 பேரின் உயிரை பறித்த மோட்டார் சைக்கிள் விபத்துக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-7a230abb)
 
 ---
 
