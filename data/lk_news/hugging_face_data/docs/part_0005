@@ -4416,6 +4416,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-dailymirrorlk-3f078e3c",
+    "num": "dailymirrorlk-3f078e3c",
+    "date_str": "2026-08-05",
+    "description": "81% of Sri Lankans Now Use AI Instead of Google \u2014 Is That Safe?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/81-of-Sri-Lankans-Now-Use-AI-Instead-of-Google-Is-That-Safe/231-347522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1785954016.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-9586646b",
     "num": "dailymirrorlk-9586646b",
     "date_str": "2026-08-05",
@@ -7966,5 +7977,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786200233.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-tamilmirrorlk-eb492128",
+    "num": "tamilmirrorlk-eb492128",
+    "date_str": "2026-08-08",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4, \u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8-\u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4-\u0b95\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1/175-381091",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786201304.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-tamilmirrorlk-9412b74c",
+    "num": "tamilmirrorlk-9412b74c",
+    "date_str": "2026-08-08",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f-\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd-\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9/175-381092",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786203419.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-tamilmirrorlk-ff8a9879",
+    "num": "tamilmirrorlk-ff8a9879",
+    "date_str": "2026-08-08",
+    "description": "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb2\u0bcd \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b95\u0b9f\u0bb2\u0bcd-\u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381093",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786204362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-4e015f96",
+    "num": "dailymirrorlk-4e015f96",
+    "date_str": "2026-08-08",
+    "description": "SriLankan Airlines resumes Colombo\u2013Kuwait flights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-resumes-ColomboKuwait-flights/108-347725",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786204833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-406c3cb1",
+    "num": "dailymirrorlk-406c3cb1",
+    "date_str": "2026-08-08",
+    "description": "India hands over Bailey Bridges weighing over 250 MT to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-hands-over-Bailey-Bridges-weighing-over-250-MT-to-Sri-Lanka/108-347726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786205115.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-e092f05e",
+    "num": "dailymirrorlk-e092f05e",
+    "date_str": "2026-08-08",
+    "description": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-Columbia-district-declares-state-of-emergency-issues-evacuation-orders-as-wildfire-rages/108-347727",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786205478.0
   }
 ]
