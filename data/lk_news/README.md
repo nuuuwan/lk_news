@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_15:54:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_17:54:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,663** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-tamilmirrorlk-cf847fae",
-    "num": "tamilmirrorlk-cf847fae",
+    "doc_id": "2026-08-08-dailymirrorlk-59be5538",
+    "num": "dailymirrorlk-59be5538",
     "date_str": "2026-08-08",
-    "description": "\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba9\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0ba9\u0bcd-\u0bae\u0bc0\u0ba9\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8/175-381086",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786183485.0
+    "description": "Scientists turn to sharks to improve hurricane predictions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Scientists-turn-to-sharks-to-improve-hurricane-predictions/108-347723",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786186096.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-08 | `dailymirrorlk-59be5538` | Scientists turn to sharks to improve hurricane predictions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-59be5538)
+- 2026-08-08 | `dailymirrorlk-6e77a86d` | Mahanayake theras confirm letter sent to President on extending judges’  retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-6e77a86d)
 - 2026-08-08 | `tamilmirrorlk-cf847fae` | டின் மீன் தயாரிப்பு நிறுவனம் முற்றுகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-cf847fae)
 - 2026-08-08 | `tamilmirrorlk-85d2d246` | நீங்கள் நுளம்புகளின் பிரியரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-85d2d246)
 - 2026-08-08 | `dailymirrorlk-2cc96db4` | Award-winning actor Rosamund Pike to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-2cc96db4)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `tamilmirrorlk-d8f9adf6` | சிறைச்சாலை சம்பவங்களும் அதன் பின்னணியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-d8f9adf6)
 - 2026-08-08 | `dailymirrorlk-8b748bfd` | US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-8b748bfd)
 - 2026-08-08 | `tamilmirrorlk-96f82d29` | ஓய்வு வயதெல்லையை நீடிப்பதற்கான வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-96f82d29)
-- 2026-08-08 | `tamilmirrorlk-e4ec2634` | இந்திய நிதியமைச்சரை சந்தித்தார் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-e4ec2634)
-- 2026-08-08 | `dailymirrorlk-dacb0618` | Lanka Sathosa reduces prices of 10 essential food items | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-dacb0618)
 
 ---
 

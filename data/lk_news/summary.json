@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-08 15:54:02",
-  "n_docs": 126661,
+  "time_updated": "2026-08-08 17:53:40",
+  "n_docs": 126663,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126661,
+  "n_docs_with_text": 126663,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-08",
-  "dataset_size": 1974008119,
+  "dataset_size": 1974126156,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-tamilmirrorlk-cf847fae",
-    "num": "tamilmirrorlk-cf847fae",
+    "doc_id": "2026-08-08-dailymirrorlk-59be5538",
+    "num": "dailymirrorlk-59be5538",
     "date_str": "2026-08-08",
-    "description": "\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba9\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0ba9\u0bcd-\u0bae\u0bc0\u0ba9\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8/175-381086",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786183485.0
+    "description": "Scientists turn to sharks to improve hurricane predictions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Scientists-turn-to-sharks-to-improve-hurricane-predictions/108-347723",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786186096.0
   }
 }

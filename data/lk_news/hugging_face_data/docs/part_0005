@@ -7889,5 +7889,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786183485.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-6e77a86d",
+    "num": "dailymirrorlk-6e77a86d",
+    "date_str": "2026-08-08",
+    "description": "Mahanayake theras confirm letter sent to President on extending judges\u2019  retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahanayake-theras-confirm-letter-sent-to-President-on-extending-judges-retirement-age/108-347722",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786184442.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-dailymirrorlk-59be5538",
+    "num": "dailymirrorlk-59be5538",
+    "date_str": "2026-08-08",
+    "description": "Scientists turn to sharks to improve hurricane predictions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Scientists-turn-to-sharks-to-improve-hurricane-predictions/108-347723",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786186096.0
   }
 ]
