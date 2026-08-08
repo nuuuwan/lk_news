@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_14:00:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--08_15:54:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,650** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-08-dailymirrorlk-196c33bf",
-    "num": "dailymirrorlk-196c33bf",
+    "doc_id": "2026-08-08-tamilmirrorlk-cf847fae",
+    "num": "tamilmirrorlk-cf847fae",
     "date_str": "2026-08-08",
-    "description": "Sri Lanka\u2019s Free Media Movement condemns media restrictions in Pakistan",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Free-Media-Movement-condemns-media-restrictions-in-Pakistan/108-347718",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786176818.0
+    "description": "\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba9\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0ba9\u0bcd-\u0bae\u0bc0\u0ba9\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8/175-381086",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786183485.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-08 | `tamilmirrorlk-cf847fae` | டின் மீன் தயாரிப்பு நிறுவனம் முற்றுகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-cf847fae)
+- 2026-08-08 | `tamilmirrorlk-85d2d246` | நீங்கள் நுளம்புகளின் பிரியரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-85d2d246)
+- 2026-08-08 | `dailymirrorlk-2cc96db4` | Award-winning actor Rosamund Pike to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-2cc96db4)
+- 2026-08-08 | `tamilmirrorlk-d19bdb2d` | நுளம்பின் கடிக்கு 64 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-d19bdb2d)
+- 2026-08-08 | `adalk-b418fec2` | සෞදිය, තුර්කිය හා පාකිස්තානය ඒකාබද්ධ ආරක්ෂක ගිවිසුමකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-b418fec2)
+- 2026-08-08 | `adalk-5a2eca30` | ලංකා සතොස භාණ්ඩ 10ක මිල බස්සවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-5a2eca30)
+- 2026-08-08 | `tamilmirrorlk-7a230abb` | 749 பேரின் உயிரை பறித்த மோட்டார் சைக்கிள் விபத்துக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-7a230abb)
+- 2026-08-08 | `dailymirrorlk-c7146441` | US appeals court blocks Trump’s $400 million White House ballroom project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-c7146441)
+- 2026-08-08 | `tamilmirrorlk-1c6b0d3e` | விரைவில் இணையும் விஜய் - சங்கீதா : ஜேசன் சஞ்சய் ட்விஸ்ட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-1c6b0d3e)
+- 2026-08-08 | `dailymirrorlk-b0ec30ec` | e-Passports within less than a year: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-b0ec30ec)
 - 2026-08-08 | `dailymirrorlk-196c33bf` | Sri Lanka’s Free Media Movement condemns media restrictions in Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-196c33bf)
 - 2026-08-08 | `dailymirrorlk-a4bb52d1` | Grade 5 scholarship exam to be held at 2,723 centres tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-a4bb52d1)
 - 2026-08-08 | `tamilmirrorlk-14176a21` | யாழ். பல்கலைக்கழக மாணவி திடீர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-14176a21)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `tamilmirrorlk-96f82d29` | ஓய்வு வயதெல்லையை நீடிப்பதற்கான வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-96f82d29)
 - 2026-08-08 | `tamilmirrorlk-e4ec2634` | இந்திய நிதியமைச்சரை சந்தித்தார் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-e4ec2634)
 - 2026-08-08 | `dailymirrorlk-dacb0618` | Lanka Sathosa reduces prices of 10 essential food items | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-dacb0618)
-- 2026-08-08 | `tamilmirrorlk-62847ea7` | இலங்கை தபால் துறை தொடர்பில் ஜனாதிபதி  செயலாளர் தலைமையில் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-62847ea7)
-- 2026-08-08 | `adalk-d9b40e48` | ශානි අබේසේකර නියෝජ්‍ය පොලිස්පති ධුරයට උසස් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-adalk-d9b40e48)
-- 2026-08-08 | `tamilmirrorlk-d806dcb4` | 60 இலட்சம் ரூபாய் பெறுமதியான சிகரட்டுக்களுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-d806dcb4)
-- 2026-08-08 | `dailymirrorlk-955521ce` | Thai PM vows to introduce stricter gun laws after eight killed in shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-955521ce)
-- 2026-08-08 | `tamilmirrorlk-c86a50f3` | மக்களுக்கான அஸ்வெசும நிதியை அபகரித்த அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-c86a50f3)
-- 2026-08-08 | `tamilmirrorlk-03ca61c4` | ஷானி அபேசேகரவிற்கு பதவி உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-03ca61c4)
-- 2026-08-08 | `tamilmirrorlk-b55c9d93` | காலநிலையில் இன்று ஏற்படவுள்ள மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-b55c9d93)
-- 2026-08-08 | `dailymirrorlk-08cd7bad` | Galle Gallants reach LPL 2026 Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-08cd7bad)
-- 2026-08-08 | `dailyftlk-6c28d6fd` | Prison unrest spreads across SL while rights group calls on UN to probe alleged HR violations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-6c28d6fd)
-- 2026-08-08 | `dailyftlk-85ac7822` | Annual Aadi Vel Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailyftlk-85ac7822)
 
 ---
 
