@@ -8362,5 +8362,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786262730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-dailymirrorlk-a3e8682a",
+    "num": "dailymirrorlk-a3e8682a",
+    "date_str": "2026-08-09",
+    "description": "Sri Lanka\u2019s foreign remittances surpass US$5 Billion in first seven months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-foreign-remittances-surpass-US-5-Billion-in-first-seven-months/108-347742",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786272262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-dailymirrorlk-c9f2be83",
+    "num": "dailymirrorlk-c9f2be83",
+    "date_str": "2026-08-09",
+    "description": "Police bust counterfeit currency operation in Kotte",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-bust-counterfeit-currency-operation-in-Kotte/108-347743",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786274488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-dailymirrorlk-0fefc7b7",
+    "num": "dailymirrorlk-0fefc7b7",
+    "date_str": "2026-08-09",
+    "description": "Three Hettipola motorcycle dealers fined for overcharging",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-Hettipola-motorcycle-dealers-fined-for-overcharging/108-347744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786276203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-dailymirrorlk-ee3c7bec",
+    "num": "dailymirrorlk-ee3c7bec",
+    "date_str": "2026-08-09",
+    "description": "Community clean-up programme in Gampaha",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Community-clean-up-programme-in-Gampaha/110-347745",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786277287.0
   }
 ]
