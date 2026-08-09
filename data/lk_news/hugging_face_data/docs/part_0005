@@ -8057,6 +8057,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-08-adalk-4b1ca7f4",
+    "num": "adalk-4b1ca7f4",
+    "date_str": "2026-08-08",
+    "description": "\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0db8\u0dd6\u0db4\u0dba\u0dda \u0db6\u0dbd\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0db8\u0dd6\u0db4\u0dba\u0dda-\u0db6\u0dbd\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0da7/11-423664",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786205811.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-08-adalk-39ae6533",
     "num": "adalk-39ae6533",
     "date_str": "2026-08-08",
@@ -8120,5 +8131,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786234257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-dailymirrorlk-3773db82",
+    "num": "dailymirrorlk-3773db82",
+    "date_str": "2026-08-09",
+    "description": "Fifa criticises campaign to oust president Infantino",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fifa-criticises-campaign-to-oust-president-Infantino/108-347729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786238952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-tamilmirrorlk-31395357",
+    "num": "tamilmirrorlk-31395357",
+    "date_str": "2026-08-09",
+    "description": "\u0bae\u0bb4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb4\u0bc8-\u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-381098",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786241948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-tamilmirrorlk-7a133f6c",
+    "num": "tamilmirrorlk-7a133f6c",
+    "date_str": "2026-08-09",
+    "description": "\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd - \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381099",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786243093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-tamilmirrorlk-425c5a45",
+    "num": "tamilmirrorlk-425c5a45",
+    "date_str": "2026-08-09",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0baa\u0bca\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8-\u0baa\u0bca\u0ba4\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381100",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786243927.0
   }
 ]
