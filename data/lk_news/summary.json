@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-09 08:28:44",
-  "n_docs": 126687,
+  "time_updated": "2026-08-09 10:54:44",
+  "n_docs": 126692,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126687,
+  "n_docs_with_text": 126692,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-09",
-  "dataset_size": 1974443775,
+  "dataset_size": 1974502841,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-09-tamilmirrorlk-425c5a45",
-    "num": "tamilmirrorlk-425c5a45",
+    "doc_id": "2026-08-09-dailymirrorlk-6ea33d8c",
+    "num": "dailymirrorlk-6ea33d8c",
     "date_str": "2026-08-09",
-    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0baa\u0bca\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8-\u0baa\u0bca\u0ba4\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381100",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786243927.0
+    "description": "Two arrested over viral cat cruelty incident in Thalathuoya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-over-viral-cat-cruelty-incident-in-Thalathuoya/108-347731",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786246559.0
   }
 }

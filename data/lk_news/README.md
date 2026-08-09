@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--09_08:29:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--09_10:55:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,687** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,692** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-09-tamilmirrorlk-425c5a45",
-    "num": "tamilmirrorlk-425c5a45",
+    "doc_id": "2026-08-09-dailymirrorlk-6ea33d8c",
+    "num": "dailymirrorlk-6ea33d8c",
     "date_str": "2026-08-09",
-    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0baa\u0bca\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8-\u0baa\u0bca\u0ba4\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381100",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786243927.0
+    "description": "Two arrested over viral cat cruelty incident in Thalathuoya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-over-viral-cat-cruelty-incident-in-Thalathuoya/108-347731",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786246559.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-09 | `dailymirrorlk-6ea33d8c` | Two arrested over viral cat cruelty incident in Thalathuoya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-6ea33d8c)
+- 2026-08-09 | `dailymirrorlk-7a6a9075` | Four arrested over hand grenade attack on house in Ratmalana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-7a6a9075)
+- 2026-08-09 | `tamilmirrorlk-f69382e0` | 121 ஆண்டுகளுக்குப் பிறகு முழு சூரிய கிரகணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-f69382e0)
+- 2026-08-09 | `tamilmirrorlk-eb6b3a4a` | போலியை வைப்புச் செய்ய சென்றவர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-eb6b3a4a)
+- 2026-08-09 | `tamilmirrorlk-aa63e15e` | நாணயத்தாள்களை அச்சிட்டவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-aa63e15e)
 - 2026-08-09 | `tamilmirrorlk-425c5a45` | போதைபொருளை பொதி செய்து வீசியவர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-425c5a45)
 - 2026-08-09 | `tamilmirrorlk-7a133f6c` | கைக்குண்டுத்தாக்குதல் - நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-7a133f6c)
 - 2026-08-09 | `tamilmirrorlk-31395357` | மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-31395357)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-08 | `dailymirrorlk-406c3cb1` | India hands over Bailey Bridges weighing over 250 MT to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-406c3cb1)
 - 2026-08-08 | `dailymirrorlk-4e015f96` | SriLankan Airlines resumes Colombo–Kuwait flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-dailymirrorlk-4e015f96)
 - 2026-08-08 | `tamilmirrorlk-ff8a9879` | பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-ff8a9879)
-- 2026-08-08 | `tamilmirrorlk-9412b74c` | சிறைச்சாலைகளில் மோதலில் ஈடுபட்ட கும்பல்கள் அடையாளம் காணப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-9412b74c)
-- 2026-08-08 | `tamilmirrorlk-eb492128` | செம்மணியில் தலை இல்லாத, கைகள் கட்டப்பட்ட எலும்புக்கூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-eb492128)
-- 2026-08-08 | `tamilmirrorlk-c251b04e` | மெஸ்சியின் தந்தை ஜொர்ஜ் மெஸ்சி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-c251b04e)
-- 2026-08-08 | `tamilmirrorlk-b997ef7c` | இலங்கையிலும் மின் - கடவுச்சீட்டு (e-Passports) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-b997ef7c)
-- 2026-08-08 | `tamilmirrorlk-620999a4` | வெளிநாட்டு கையிருப்பில் திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-08-tamilmirrorlk-620999a4)
 
 ---
 
