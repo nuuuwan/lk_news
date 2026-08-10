@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_14:20:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_16:14:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,823** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,836** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-10-dailymirrorlk-1ce2d633",
-    "num": "dailymirrorlk-1ce2d633",
+    "doc_id": "2026-08-10-dailymirrorlk-a1ba6771",
+    "num": "dailymirrorlk-a1ba6771",
     "date_str": "2026-08-10",
-    "description": "Close relative of Kanjipani Imran shot dead in Maligawatte",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Close-relative-of-Kanjipani-Imran-shot-dead-in-Maligawatte/108-347805",
+    "description": "Govt. targets teacher shortages in North, East",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-targets-teacher-shortages-in-North-East/108-347812",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786351080.0
+    "time_ut": 1786357965.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-10 | `dailymirrorlk-a1ba6771` | Govt. targets teacher shortages in North, East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-a1ba6771)
+- 2026-08-10 | `tamilmirrorlk-9a2193a0` | வரவுசெலவுத் திட்டத்திற்குத் தயாராகும் வெரிட்டே ரிசர்ச் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-9a2193a0)
+- 2026-08-10 | `tamilmirrorlk-cf5c7302` | யுவதியின் ஆபாசம் ;  பௌத்த துறவி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-cf5c7302)
+- 2026-08-10 | `dailymirrorlk-acbe24c2` | Strong winds of up to 40 kmph expected in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-acbe24c2)
+- 2026-08-10 | `dailymirrorlk-403f560c` | Protest in India state intensifies over alleged corruption in job exams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-403f560c)
+- 2026-08-10 | `tamilmirrorlk-88420929` | டொல்பின் சூறாவளி: சீனாவில் 10 இலட்சத்துக்கும் அதிகமானோர் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-88420929)
+- 2026-08-10 | `dailymirrorlk-09d9948e` | Sri Lankan student assumes Presidency of Junior Enterprises Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-09d9948e)
+- 2026-08-10 | `tamilmirrorlk-3f7e29af` | கஞ்சிபானி இம்ரானின் நெருங்கிய உறவினர் சுட்டுக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-3f7e29af)
+- 2026-08-10 | `dailymirrorlk-5b37c314` | Court grants interim order to prevent removal of two Lincoln Navigator vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-5b37c314)
+- 2026-08-10 | `tamilmirrorlk-4eb587ee` | முத்தத்தை உணர வைக்கும் தொழில்நுட்பம்: ’Kissenger’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-4eb587ee)
 - 2026-08-10 | `dailymirrorlk-1ce2d633` | Close relative of Kanjipani Imran shot dead in Maligawatte | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-1ce2d633)
 - 2026-08-10 | `dailymirrorlk-15525ec6` | China evacuates one million from homes as massive storm arrives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-15525ec6)
 - 2026-08-10 | `dailymirrorlk-178117db` | Navy, STF seize 7,000 foreign cigarettes in Puttalam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-178117db)
+- 2026-08-10 | `adalk-9fd4d0fe` | ශිෂ්‍යත්ව ප්‍රථිඵල මාසයකින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-9fd4d0fe)
+- 2026-08-10 | `tamilmirrorlk-d56fde50` | பேத்திகளுடன் சூதாடிய  பாட்டிக்கு:  3 மாத சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-d56fde50)
 - 2026-08-10 | `tamilmirrorlk-aa1da523` | பேத்திகளுடன் சீட்டாடிய பாட்டி:  3 மாத ஒத்திவைக்கப்பட்ட சிறை தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-aa1da523)
+- 2026-08-10 | `adalk-c97864bc` | විදේශීය දුම්වැටි 7,000ක් සමග සැකකරුවෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-c97864bc)
 - 2026-08-10 | `dailymirrorlk-4d0b97eb` | Joint Opposition seeks full 12-judge SC bench on 22A petitions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-4d0b97eb)
 - 2026-08-10 | `adalk-b603a51a` | මරණ දඩුවම නියම වූ චූදිතයෙක් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-b603a51a)
 - 2026-08-10 | `dailymirrorlk-8ae5a254` | Air India’s Phuket-Delhi turbulence hit flight captain allegedly failed dope test; suspended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-8ae5a254)
-- 2026-08-10 | `tamilmirrorlk-2ea397c9` | மொஜ்தபா காமேனி வீடியோவை வெளியிட்டது ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-2ea397c9)
-- 2026-08-10 | `tamilmirrorlk-3148d1e6` | யானைகளின் வழித்தடத்தில் ட்ரோன் பறக்கவிட்ட நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-3148d1e6)
-- 2026-08-10 | `tamilmirrorlk-8275bd74` | புலமை பரிசில் மாணவர்களுக்கு அநீதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-8275bd74)
-- 2026-08-10 | `dailymirrorlk-7b20444e` | SLBFE portal opens today for 16,000 Israel job applicants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-7b20444e)
-- 2026-08-10 | `dailymirrorlk-5634f4b6` | Loan victims protest over interest charges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-5634f4b6)
-- 2026-08-10 | `dailymirrorlk-a318907f` | Sharp rise in Syphilis cases among men in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-a318907f)
-- 2026-08-10 | `tamilmirrorlk-21744421` | மனைவிக்குப் பயந்து கறையானுக்கு இரைபோட்ட விவசாயி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-21744421)
-- 2026-08-10 | `dailymirrorlk-128ab2cf` | Drone operator arrested over Kasikote elephant disruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-128ab2cf)
-- 2026-08-10 | `dailymirrorlk-6cfc1270` | From Ethiopia to the World: What Ethiopian Airline’s rise can teach SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-6cfc1270)
-- 2026-08-10 | `dailymirrorlk-7c4c32dc` | Lotus Tower could bloom into South East Asia’s largest Christmas tree | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-7c4c32dc)
-- 2026-08-10 | `dailymirrorlk-5ccbdd52` | Gunman fires inside Thai government office as country reels from school shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-5ccbdd52)
-- 2026-08-10 | `adalk-8a166b4f` | සාගර කාරියවසම් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-8a166b4f)
-- 2026-08-10 | `dailymirrorlk-e8023ce4` | Trump signals shift to economic pressure on Iran over new military strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-e8023ce4)
 
 ---
 
