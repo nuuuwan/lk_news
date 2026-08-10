@@ -9762,6 +9762,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-10-adalk-ce3bcf5a",
+    "num": "adalk-ce3bcf5a",
+    "date_str": "2026-08-10",
+    "description": "\u0db8\u0dcf\u0dc5\u0dd2\u0d9c\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0da5\u0dcf\u0dad\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dc5\u0dd2\u0d9c\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0da5\u0dcf\u0dad\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-423685",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786354994.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-10-dailymirrorlk-403f560c",
     "num": "dailymirrorlk-403f560c",
     "date_str": "2026-08-10",
@@ -9814,5 +9825,115 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786357965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-ec10a9f3",
+    "num": "dailymirrorlk-ec10a9f3",
+    "date_str": "2026-08-10",
+    "description": "2026 Grade Five Scholarship results to be released within a month",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2026-Grade-Five-Scholarship-results-to-be-released-within-a-month/108-347813",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786358073.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-bbdf00f8",
+    "num": "dailymirrorlk-bbdf00f8",
+    "date_str": "2026-08-10",
+    "description": "Mobile drug-testing bus handed over to NITM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mobile-drug-testing-bus-handed-over-to-NITM/108-347814",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786358384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-adalk-087e4526",
+    "num": "adalk-087e4526",
+    "date_str": "2026-08-10",
+    "description": "\u0db8\u0dad\u0dca \u0db6\u0dc3\u0dca \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0dad\u0dc0\u0dad\u0dca \u0da2\u0d82\u0d9c\u0db8 \u0dbb\u0dae\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca-\u0db6\u0dc3\u0dca-\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0dad\u0dc0\u0dad\u0dca-\u0da2\u0d82\u0d9c\u0db8-\u0dbb\u0dae\u0dba\u0d9a\u0dca/11-423686",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786359727.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-68581bdd",
+    "num": "dailymirrorlk-68581bdd",
+    "date_str": "2026-08-10",
+    "description": "Sri Lanka\u2019s landmine clearance programme a great success: Rosamund Pike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-landmine-clearance-programme-a-great-success-Rosamund-Pike/108-347815",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786359765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-856e8666",
+    "num": "dailymirrorlk-856e8666",
+    "date_str": "2026-08-10",
+    "description": "Fake SLS helmets: Company fined Rs. 80,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fake-SLS-helmets-Company-fined-Rs-80-000/108-347816",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786359883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-e2caaa4f",
+    "num": "dailymirrorlk-e2caaa4f",
+    "date_str": "2026-08-10",
+    "description": "Battery storage systems to join national grid in September",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Battery-storage-systems-to-join-national-grid-in-September/108-347817",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786360775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-823365da",
+    "num": "tamilmirrorlk-823365da",
+    "date_str": "2026-08-10",
+    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd - \u0ba4\u0bcd\u0bb0\u0bbf\u0bb7\u0bbe \u0b9c\u0bcb\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0ba4\u0bcd\u0bb0\u0bbf\u0bb7\u0bbe-\u0b9c\u0bcb\u0b9f\u0bbf/54-381173",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786361344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-589a965c",
+    "num": "dailymirrorlk-589a965c",
+    "date_str": "2026-08-10",
+    "description": "CSE extends winning streak as ASPI rises for fourth straight session",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-winning-streak-as-ASPI-rises-for-fourth-straight-session/108-347818",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786363869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-b1f25357",
+    "num": "dailymirrorlk-b1f25357",
+    "date_str": "2026-08-10",
+    "description": "\u2019Body in suitcase\u2019 found in Australia turns out to be lifelike doll",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Body-in-suitcase-found-in-Australia-turns-out-to-be-lifelike-doll/108-347819",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786364362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-86dde001",
+    "num": "dailymirrorlk-86dde001",
+    "date_str": "2026-08-10",
+    "description": "1,506 of 4,962 drug offenders undergoing rehabilitation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-506-of-4-962-drug-offenders-undergoing-rehabilitation/108-347820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786364545.0
   }
 ]

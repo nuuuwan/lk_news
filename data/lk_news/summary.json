@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-10 16:13:16",
-  "n_docs": 126836,
+  "time_updated": "2026-08-10 18:01:54",
+  "n_docs": 126847,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126836,
+  "n_docs_with_text": 126847,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-10",
-  "dataset_size": 1976603096,
+  "dataset_size": 1976783798,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-10-dailymirrorlk-a1ba6771",
-    "num": "dailymirrorlk-a1ba6771",
+    "doc_id": "2026-08-10-dailymirrorlk-86dde001",
+    "num": "dailymirrorlk-86dde001",
     "date_str": "2026-08-10",
-    "description": "Govt. targets teacher shortages in North, East",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-targets-teacher-shortages-in-North-East/108-347812",
+    "description": "1,506 of 4,962 drug offenders undergoing rehabilitation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-506-of-4-962-drug-offenders-undergoing-rehabilitation/108-347820",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786357965.0
+    "time_ut": 1786364545.0
   }
 }
