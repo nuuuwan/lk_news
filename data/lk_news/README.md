@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_18:02:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_20:13:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,847** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,856** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-10-dailymirrorlk-86dde001",
-    "num": "dailymirrorlk-86dde001",
+    "doc_id": "2026-08-10-adalk-5125819f",
+    "num": "adalk-5125819f",
     "date_str": "2026-08-10",
-    "description": "1,506 of 4,962 drug offenders undergoing rehabilitation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-506-of-4-962-drug-offenders-undergoing-rehabilitation/108-347820",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786364545.0
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd0\u0dbb\u0daf\u0dd2\u0dc0\u0dbd\u0da7 \u0db8\u0dbb\u0dab \u0daf\u0da9\u0dd4\u0dc0\u0db8  \u0dbd\u0db6\u0dcf\u0daf\u0dd2\u0db8\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dc0\u0dd0\u0dbb\u0daf\u0dd2\u0dc0\u0dbd\u0da7-\u0db8\u0dbb\u0dab-\u0daf\u0da9\u0dd4\u0dc0\u0db8--\u0dbd\u0db6\u0dcf\u0daf\u0dd2\u0db8\u0da7-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-423689",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786372278.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-10 | `adalk-5125819f` | මත්ද්‍රව්‍ය වැරදිවලට මරණ දඩුවම  ලබාදිමට අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-5125819f)
+- 2026-08-10 | `dailymirrorlk-f1eb839f` | Google Drive is ending Google Photos backup starting August 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-f1eb839f)
+- 2026-08-10 | `dailymirrorlk-19fd205b` | Sri Lanka ranks 73rd in global English proficiency index | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-19fd205b)
+- 2026-08-10 | `dailymirrorlk-b21fce95` | World’s oceans hit record-high July temperatures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-b21fce95)
+- 2026-08-10 | `dailymirrorlk-66c37009` | Health Ministry warns against misleading reports on firewood use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-66c37009)
+- 2026-08-10 | `dailymirrorlk-49e9fc22` | Sri Lanka considers death penalty for drug-related offences | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-49e9fc22)
+- 2026-08-10 | `tamilmirrorlk-2a3a29bd` | ’கஞ்சிபானி இம்ரானின்’ சகாக்கள்  கட்டுநாயக்கவுக்கு அழைத்து வரப்பட்டனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-2a3a29bd)
+- 2026-08-10 | `tamilmirrorlk-443c0037` | போதைப்பொருள் குற்றவாளிகளில் 1,506 பேருக்கு மறுவாழ்வுப் பயிற்சிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-443c0037)
 - 2026-08-10 | `dailymirrorlk-86dde001` | 1,506 of 4,962 drug offenders undergoing rehabilitation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-86dde001)
 - 2026-08-10 | `dailymirrorlk-b1f25357` | ’Body in suitcase’ found in Australia turns out to be lifelike doll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-b1f25357)
 - 2026-08-10 | `dailymirrorlk-589a965c` | CSE extends winning streak as ASPI rises for fourth straight session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-589a965c)
 - 2026-08-10 | `tamilmirrorlk-823365da` | மீண்டும் திரையில் விஜய் - த்ரிஷா ஜோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-823365da)
 - 2026-08-10 | `dailymirrorlk-e2caaa4f` | Battery storage systems to join national grid in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-e2caaa4f)
+- 2026-08-10 | `adalk-57c39ce8` | බටරි බලශක්ති ගබඩාකරණ පද්ධතිය සැප්තැම්බරයේදි ජාතික පද්ධතියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-57c39ce8)
 - 2026-08-10 | `dailymirrorlk-856e8666` | Fake SLS helmets: Company fined Rs. 80,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-856e8666)
 - 2026-08-10 | `dailymirrorlk-68581bdd` | Sri Lanka’s landmine clearance programme a great success: Rosamund Pike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-68581bdd)
 - 2026-08-10 | `adalk-087e4526` | මත් බස් රියදුරන් අල්ලන්න තවත් ජංගම රථයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-087e4526)
 - 2026-08-10 | `dailymirrorlk-bbdf00f8` | Mobile drug-testing bus handed over to NITM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-bbdf00f8)
 - 2026-08-10 | `dailymirrorlk-ec10a9f3` | 2026 Grade Five Scholarship results to be released within a month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-ec10a9f3)
 - 2026-08-10 | `dailymirrorlk-a1ba6771` | Govt. targets teacher shortages in North, East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-a1ba6771)
-- 2026-08-10 | `tamilmirrorlk-9a2193a0` | வரவுசெலவுத் திட்டத்திற்குத் தயாராகும் வெரிட்டே ரிசர்ச் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-9a2193a0)
-- 2026-08-10 | `tamilmirrorlk-cf5c7302` | யுவதியின் ஆபாசம் ;  பௌத்த துறவி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-cf5c7302)
-- 2026-08-10 | `dailymirrorlk-acbe24c2` | Strong winds of up to 40 kmph expected in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-acbe24c2)
-- 2026-08-10 | `dailymirrorlk-403f560c` | Protest in India state intensifies over alleged corruption in job exams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-403f560c)
-- 2026-08-10 | `adalk-ce3bcf5a` | මාළිගාවත්තේ වෙඩි තැබීමකින් සංවිධානාත්මක අපරාධකරුවෙක් ඥාතියෙක් ජිවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-adalk-ce3bcf5a)
-- 2026-08-10 | `tamilmirrorlk-88420929` | டொல்பின் சூறாவளி: சீனாவில் 10 இலட்சத்துக்கும் அதிகமானோர் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-88420929)
-- 2026-08-10 | `dailymirrorlk-09d9948e` | Sri Lankan student assumes Presidency of Junior Enterprises Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-09d9948e)
-- 2026-08-10 | `tamilmirrorlk-3f7e29af` | கஞ்சிபானி இம்ரானின் நெருங்கிய உறவினர் சுட்டுக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-tamilmirrorlk-3f7e29af)
-- 2026-08-10 | `dailymirrorlk-5b37c314` | Court grants interim order to prevent removal of two Lincoln Navigator vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailymirrorlk-5b37c314)
 
 ---
 
