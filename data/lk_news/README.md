@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_03:51:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--10_06:15:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**126,717** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**126,742** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-09-tamilmirrorlk-65db4264",
-    "num": "tamilmirrorlk-65db4264",
-    "date_str": "2026-08-09",
-    "description": "\u0b86\u0baa\u0bbe\u0b9a \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0bb0\u0bbf \u0b9a\u0bc1\u0bb0\u0bc1\u0ba4\u0bbf \u0bb9\u0bbe\u0b9a\u0ba9\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b86\u0baa\u0bbe\u0b9a-\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bcb\u0bb0\u0bbf-\u0b9a\u0bc1\u0bb0\u0bc1\u0ba4\u0bbf-\u0bb9\u0bbe\u0b9a\u0ba9\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1/54-381122",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786290156.0
+    "doc_id": "2026-08-10-dailyftlk-b8ab683b",
+    "num": "dailyftlk-b8ab683b",
+    "date_str": "2026-08-10",
+    "description": "Sri Lanka-Maldives Business Council holds 18th AGM with new opportunities and challenges",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Maldives-Business-Council-holds-18th-AGM-with-new-opportunities-and-challenges/34-795791",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786321632.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-10 | `dailyftlk-b8ab683b` | Sri Lanka-Maldives Business Council holds 18th AGM with new opportunities and challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-b8ab683b)
+- 2026-08-10 | `dailyftlk-656159ab` | India’s rise presents Sri Lanka with reform imperative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-656159ab)
+- 2026-08-10 | `dailyftlk-2479a04a` | India–Sri Lanka textile industries interact in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-2479a04a)
+- 2026-08-10 | `dailyftlk-3fae4f69` | Private sector takes up Mediation Pledge in boost for alternate dispute resolution mechanism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-3fae4f69)
+- 2026-08-10 | `dailyftlk-e7b377f1` | CMA Sri Lanka recognises outstanding professional accountants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-e7b377f1)
+- 2026-08-10 | `dailyftlk-190ee21e` | Sri Lankan business delegation heads to Australia after 15 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-190ee21e)
+- 2026-08-10 | `dailyftlk-c3fefebe` | Sunshine Holdings records 16.6% revenue growth to Rs. 18.5 b in 1Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-c3fefebe)
+- 2026-08-10 | `dailyftlk-4064997e` | Indigenous communities to receive legal recognition under new measures: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-4064997e)
+- 2026-08-10 | `dailyftlk-8ec89378` | Rosamund Pike visits Sri Lanka as landmine clearance reaches 1 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-10-dailyftlk-8ec89378)
+- 2026-08-09 | `islandlk-15ef5355` | InsureMe Insurance Brokers PLC celebrates 10 years of ‘Insurance Made Easy’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-15ef5355)
+- 2026-08-09 | `islandlk-9f43ed35` | UK care leader praises IIHS for building a globally ready health workforce | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-9f43ed35)
+- 2026-08-09 | `islandlk-0fac5207` | John Keells Foundation celebrates purpose-driven volunteerism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-0fac5207)
+- 2026-08-09 | `islandlk-36733adf` | Commercial Bank opens doors to nurture young creative talent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-36733adf)
+- 2026-08-09 | `islandlk-d1546290` | Lakarcade expands luxury footprint with 8th showroom at Shangri-La Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-d1546290)
+- 2026-08-09 | `islandlk-4626b82d` | SriLankan Airlines resumes flights to Kuwait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-4626b82d)
+- 2026-08-09 | `islandlk-0da1df1f` | SLT-MOBITEL marks double success at National Business Excellence Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-islandlk-0da1df1f)
 - 2026-08-09 | `tamilmirrorlk-65db4264` | ஆபாச படத்தை நீக்கக்கோரி சுருதி ஹாசன் வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-65db4264)
 - 2026-08-09 | `dailymirrorlk-4c9a7bfb` | Indigenous communities to receive legal identification under new measures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-4c9a7bfb)
 - 2026-08-09 | `dailymirrorlk-4d616e41` | Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-4d616e41)
 - 2026-08-09 | `adalk-f0bccdb0` | ආදිවාසී පනත අමාත්‍ය මණ්ඩලයට යොමු කළා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-adalk-f0bccdb0)
-- 2026-08-09 | `adalk-2491646b` | බන්ධනාගාර දෙපාර්තමේන්තුවට නව මාධ්‍ය ප්‍රකාශකවරයෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-adalk-2491646b)
-- 2026-08-09 | `adalk-0c6543d8` | අතුරු වෛද්‍ය සේවාවේ වෘත්තීන් 8 ක පාඨමාලාවන් සඳහා සිසුන් බඳවා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-adalk-0c6543d8)
-- 2026-08-09 | `tamilmirrorlk-fcaff344` | எமது காணி இராணுவத்தின் சரணாலயமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-fcaff344)
-- 2026-08-09 | `tamilmirrorlk-2fb12aeb` | நாவலப்பிட்டியில் பாடசாலையொன்று நீரில் மூழ்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-2fb12aeb)
-- 2026-08-09 | `dailymirrorlk-ee3c7bec` | Community clean-up programme in Gampaha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-ee3c7bec)
-- 2026-08-09 | `dailymirrorlk-0fefc7b7` | Three Hettipola motorcycle dealers fined for overcharging | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-0fefc7b7)
-- 2026-08-09 | `dailymirrorlk-c9f2be83` | Police bust counterfeit currency operation in Kotte | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-c9f2be83)
-- 2026-08-09 | `dailymirrorlk-a3e8682a` | Sri Lanka’s foreign remittances surpass US$5 Billion in first seven months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-a3e8682a)
-- 2026-08-09 | `adalk-b914c4b7` | ඇසිඩ් ප්‍රහාරයෙන් සැමියා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-adalk-b914c4b7)
-- 2026-08-09 | `tamilmirrorlk-d2ea63b0` | பைக்கில்   குழந்தை பெற்றெடுத்த பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-d2ea63b0)
-- 2026-08-09 | `tamilmirrorlk-2987d61a` | மலம் கழித்து மாணவர்களை அள்ளச்செய்த அதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-2987d61a)
-- 2026-08-09 | `dailymirrorlk-7db1d740` | A moment of relief and joy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-7db1d740)
-- 2026-08-09 | `dailymirrorlk-26ff9d95` | Kusal Mendis elected first President of Sri Lanka Professional Cricketers’ Association | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-26ff9d95)
-- 2026-08-09 | `tamilmirrorlk-0f7e76f4` | கிராம அலுவலர்கள் அடையாள வேலைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-tamilmirrorlk-0f7e76f4)
-- 2026-08-09 | `dailymirrorlk-94eb5705` | Controversy erupts at ‘Battle of the Queens’ cricket encounter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-94eb5705)
-- 2026-08-09 | `dailymirrorlk-72be0956` | Ex-President Joe Biden’s cancer has spread, is very painful, son says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-09-dailymirrorlk-72be0956)
 
 ---
 

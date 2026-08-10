@@ -4416,6 +4416,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-05-islandlk-e51b67bc",
+    "num": "islandlk-e51b67bc",
+    "date_str": "2026-08-05",
+    "description": "Wars that redefine new world order",
+    "url_metadata": "http://island.lk/wars-that-redefine-new-world-order/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1785954000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-05-dailymirrorlk-3f078e3c",
     "num": "dailymirrorlk-3f078e3c",
     "date_str": "2026-08-05",
@@ -6140,6 +6151,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1786068835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-07-islandlk-7162196f",
+    "num": "islandlk-7162196f",
+    "date_str": "2026-08-07",
+    "description": "India\u2019s message couched in Misri\u2019s diplomatese",
+    "url_metadata": "http://island.lk/indias-message-couched-in-misris-diplomatese/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786069140.0
   },
   {
     "doc_type": "lk_news",
@@ -7980,6 +8002,50 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-81e0bc07",
+    "num": "islandlk-81e0bc07",
+    "date_str": "2026-08-08",
+    "description": "Fifty years after the fifth Non Aligned Summit in Colombo",
+    "url_metadata": "http://island.lk/fifty-years-after-the-fifth-non-aligned-summit-in-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786198920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-8ad8fa3a",
+    "num": "islandlk-8ad8fa3a",
+    "date_str": "2026-08-08",
+    "description": "The Tragedy of Vision: Sri Lanka\u2019s Hidden Eye Health Crisis",
+    "url_metadata": "http://island.lk/the-tragedy-of-vision-sri-lankas-hidden-eye-health-crisis/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786199040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-94828c27",
+    "num": "islandlk-94828c27",
+    "date_str": "2026-08-08",
+    "description": "A Brief history of the Anglo-Indians",
+    "url_metadata": "http://island.lk/a-brief-history-of-the-anglo-indians/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786199040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-f965090c",
+    "num": "islandlk-f965090c",
+    "date_str": "2026-08-08",
+    "description": "Rediscovery of Faith",
+    "url_metadata": "http://island.lk/rediscovery-of-faith/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786199100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-08-tamilmirrorlk-c251b04e",
     "num": "tamilmirrorlk-c251b04e",
     "date_str": "2026-08-08",
@@ -8068,6 +8134,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-5cde4e81",
+    "num": "islandlk-5cde4e81",
+    "date_str": "2026-08-08",
+    "description": "\u201cElephant Conservation in a Human Dominated Landscape\u201d",
+    "url_metadata": "http://island.lk/elephant-conservation-in-a-human-dominated-landscape/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786206120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-d0198afb",
+    "num": "islandlk-d0198afb",
+    "date_str": "2026-08-08",
+    "description": "The day my father climbed a tree to watch Sir Garfield Sobers bat",
+    "url_metadata": "http://island.lk/the-day-my-father-climbed-a-tree-to-watch-sir-garfield-sobers-bat/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786206180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-08-adalk-39ae6533",
     "num": "adalk-39ae6533",
     "date_str": "2026-08-08",
@@ -8076,6 +8164,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1786206280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-08-islandlk-39296937",
+    "num": "islandlk-39296937",
+    "date_str": "2026-08-08",
+    "description": "Measured from Life",
+    "url_metadata": "http://island.lk/measured-from-life/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786207440.0
   },
   {
     "doc_type": "lk_news",
@@ -8505,5 +8604,181 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786290156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-0da1df1f",
+    "num": "islandlk-0da1df1f",
+    "date_str": "2026-08-09",
+    "description": "SLT-MOBITEL marks double success at National Business Excellence Awards 2026",
+    "url_metadata": "http://island.lk/slt-mobitel-marks-double-success-at-national-business-excellence-awards-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-4626b82d",
+    "num": "islandlk-4626b82d",
+    "date_str": "2026-08-09",
+    "description": "SriLankan Airlines resumes flights to Kuwait",
+    "url_metadata": "http://island.lk/srilankan-airlines-resumes-flights-to-kuwait/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-d1546290",
+    "num": "islandlk-d1546290",
+    "date_str": "2026-08-09",
+    "description": "Lakarcade expands luxury footprint with 8th showroom at Shangri-La Colombo",
+    "url_metadata": "http://island.lk/lakarcade-expands-luxury-footprint-with-8th-showroom-at-shangri-la-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-36733adf",
+    "num": "islandlk-36733adf",
+    "date_str": "2026-08-09",
+    "description": "Commercial Bank opens doors to nurture young creative talent",
+    "url_metadata": "http://island.lk/commercial-bank-opens-doors-to-nurture-young-creative-talent/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-0fac5207",
+    "num": "islandlk-0fac5207",
+    "date_str": "2026-08-09",
+    "description": "John Keells Foundation celebrates purpose-driven volunteerism",
+    "url_metadata": "http://island.lk/john-keells-foundation-celebrates-purpose-driven-volunteerism/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-9f43ed35",
+    "num": "islandlk-9f43ed35",
+    "date_str": "2026-08-09",
+    "description": "UK care leader praises IIHS for building a globally ready health workforce",
+    "url_metadata": "http://island.lk/uk-care-leader-praises-iihs-for-building-a-globally-ready-health-workforce/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786294980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-09-islandlk-15ef5355",
+    "num": "islandlk-15ef5355",
+    "date_str": "2026-08-09",
+    "description": "InsureMe Insurance Brokers PLC celebrates 10 years of \u2018Insurance Made Easy\u2019",
+    "url_metadata": "http://island.lk/insureme-insurance-brokers-plc-celebrates-10-years-of-insurance-made-easy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1786295040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-8ec89378",
+    "num": "dailyftlk-8ec89378",
+    "date_str": "2026-08-10",
+    "description": "Rosamund Pike visits Sri Lanka as landmine clearance reaches 1 m",
+    "url_metadata": "https://www.ft.lk/news/Rosamund-Pike-visits-Sri-Lanka-as-landmine-clearance-reaches-1-m/56-795783",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-4064997e",
+    "num": "dailyftlk-4064997e",
+    "date_str": "2026-08-10",
+    "description": "Indigenous communities to receive legal recognition under new measures: PM",
+    "url_metadata": "https://www.ft.lk/news/Indigenous-communities-to-receive-legal-recognition-under-new-measures-PM/56-795784",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-c3fefebe",
+    "num": "dailyftlk-c3fefebe",
+    "date_str": "2026-08-10",
+    "description": "Sunshine Holdings records 16.6% revenue growth to Rs. 18.5 b in 1Q",
+    "url_metadata": "https://www.ft.lk/business/Sunshine-Holdings-records-16-6-revenue-growth-to-Rs-18-5-b-in-1Q/34-795785",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-190ee21e",
+    "num": "dailyftlk-190ee21e",
+    "date_str": "2026-08-10",
+    "description": "Sri Lankan business delegation heads to Australia after 15 years",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-business-delegation-heads-to-Australia-after-15-years/34-795786",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-e7b377f1",
+    "num": "dailyftlk-e7b377f1",
+    "date_str": "2026-08-10",
+    "description": "CMA Sri Lanka recognises outstanding professional accountants",
+    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-recognises-outstanding-professional-accountants/34-795787",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-3fae4f69",
+    "num": "dailyftlk-3fae4f69",
+    "date_str": "2026-08-10",
+    "description": "Private sector takes up Mediation Pledge in boost for alternate dispute resolution mechanism",
+    "url_metadata": "https://www.ft.lk/business/Private-sector-takes-up-Mediation-Pledge-in-boost-for-alternate-dispute-resolution-mechanism/34-795788",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-2479a04a",
+    "num": "dailyftlk-2479a04a",
+    "date_str": "2026-08-10",
+    "description": "India\u2013Sri Lanka textile industries interact in Colombo",
+    "url_metadata": "https://www.ft.lk/business/IndiaSri-Lanka-textile-industries-interact-in-Colombo/34-795789",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786320884.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-656159ab",
+    "num": "dailyftlk-656159ab",
+    "date_str": "2026-08-10",
+    "description": "India\u2019s rise presents Sri Lanka with reform imperative",
+    "url_metadata": "https://www.ft.lk/business/India-s-rise-presents-Sri-Lanka-with-reform-imperative/34-795790",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786321136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailyftlk-b8ab683b",
+    "num": "dailyftlk-b8ab683b",
+    "date_str": "2026-08-10",
+    "description": "Sri Lanka-Maldives Business Council holds 18th AGM with new opportunities and challenges",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Maldives-Business-Council-holds-18th-AGM-with-new-opportunities-and-challenges/34-795791",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786321632.0
   }
 ]
