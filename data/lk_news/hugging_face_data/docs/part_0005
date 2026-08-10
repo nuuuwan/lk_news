@@ -10034,5 +10034,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1786372278.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-9e3fe22a",
+    "num": "dailymirrorlk-9e3fe22a",
+    "date_str": "2026-08-10",
+    "description": "Interpol Red Notice suspect brought back to Sri Lanka from Malaysia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Interpol-Red-Notice-suspect-brought-back-to-Sri-Lanka-from-Malaysia/108-347826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786374011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-44c4655e",
+    "num": "dailymirrorlk-44c4655e",
+    "date_str": "2026-08-10",
+    "description": "Sagara Kariyawasam released on bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sagara-Kariyawasam-released-on-bail/108-347827",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786374130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-22da92e7",
+    "num": "tamilmirrorlk-22da92e7",
+    "date_str": "2026-08-10",
+    "description": "\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-381178",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786374529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-7ff98f0e",
+    "num": "tamilmirrorlk-7ff98f0e",
+    "date_str": "2026-08-10",
+    "description": "\u0b87\u0bb7\u0bbe\u0bb0\u0bbe \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 21 \u0bb5\u0bb0\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb7\u0bbe\u0bb0\u0bbe-\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-21-\u0bb5\u0bb0\u0bc8-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-381179",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786375162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-3138379c",
+    "num": "tamilmirrorlk-3138379c",
+    "date_str": "2026-08-10",
+    "description": "\u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd  \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bb0\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bb0\u0bc1\u0bae\u0bcd/175-381180",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786377082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-408af13b",
+    "num": "tamilmirrorlk-408af13b",
+    "date_str": "2026-08-10",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bb0\u0ba3-\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8/175-381181",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786377791.0
   }
 ]
