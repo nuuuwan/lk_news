@@ -1,0 +1,95 @@
+AI’s next big promise: Tackle inequity issues before using it
+
+Artificial Intelligence (AI) has been hailed as the next big promise for the prosperity and modernity of the global economy.
+
+Today, this groundbreaking technology is rapidly reshaping almost every sphere of human activity. In education, AI acts as an interactive assistant, adapting lessons to individual student needs and making learning more interactive. In healthcare, it analyses complex medical data to help doctors diagnose diseases faster and more accurately than ever before. Governments use it to streamline public services, while businesses and management teams rely on it to optimise supply chains, predict market trends, and automate routine tasks.
+
+By processing vast amounts of data in seconds, AI significantly improves human performance, opening up a future that feels both exciting and full of endless possibilities.
+
+However, beneath this brilliant promise lies a serious challenge that we cannot afford to ignore. While AI offers immense benefits, it also brings a critical shortcoming: what can be called the "AI Divide." This term describes a growing gap in society where some individuals, companies, and nations have easy access to this powerful tool, while many others are completely left behind. Because of this divide, the benefits of AI are not shared equally, threatening to worsen existing global inequalities rather than solve them.
+
+This AI Divide creates three major problems across the globe.
+
+First, there is the Corporate Gap, in which AI does not improve productivity evenly across the entire economy. It primarily helps big corporations that possess the deep financial resources needed to invest in advanced software and hire expensive tech experts.
+
+These large firms become hyper-efficient and highly profitable. In contrast, small and medium enterprises, which form the backbone of local communities, cannot afford these high costs. Left without AI tools, small businesses struggle to compete, creating an unfair marketplace where the big get bigger and the small are forced out.
+
+Second, even in the global economy, there persists a gap which can be termed the Global Gap. AI does not help all countries grow together. Developing nations often lack the digital infrastructure, reliable electricity, and tech-trained workforce required to build and implement AI systems.
+
+Consequently, wealthy nations with advanced tech ecosystems grow at an accelerated pace, while poorer nations lag further behind. Instead of closing the global wealth gap, AI is expanding it, deepening the rift between the developed and developing worlds.
+
+Third, society is also crippled by a gap that can be called the Social Divide. This divide hits the most vulnerable groups within a single nation, leading to a highly uneven income distribution. AI ownership concentrates wealth in the hands of capital owners—the tech executives and investors—who see their profits skyrocket.
+
+Meanwhile, everyday workers face job displacement or stagnant wages as automation replaces routine tasks. This shifts economic power away from labor and toward capital, widening the gap between the rich and the poor inside the borders of a nation.
+
+To prevent this unequal future, we need urgent global action. AI should not be a luxury tool owned by a wealthy few. Instead, all nations must collaborate to produce and manage AI as a "Global Public Good." By sharing AI knowledge, creating fair standards, and funding accessible technology, the international community can ensure that this new era lifts all of humanity rather than a privileged minority.
+
+The challenges we face with AI are not entirely new. Throughout human history, whenever a major technological breakthrough occurred, it reshaped society and the global economy in the exact same pattern. Every revolutionary tool initially created a "divide"—a period where a wealthy minority reaped the benefits while the majority waited on the sidelines.
+
+First, the Electricity Divide: When electricity was first harnessed, it was a luxury reserved for rich factories and affluent urban homes, leaving rural areas in the dark.
+
+Second, the Electronics Divide: The discovery of electronics and automated manufacturing initially boosted only the most advanced industrialised economies.
+
+Third, the Digital Divide: The rise of computers and the internet created a massive gap between those who could afford digital tools and those who could not.
+
+Historically, closing these gaps took several decades. It required deep societal adaptation, active Government intervention, and international cooperation. A perfect example of this is Sri Lanka’s journey with electricity. In the early 20th century, only a privileged few in major cities had access to power lines.
+
+However, through persistent domestic policies and vital aid programs from multilateral lending institutions like the World Bank, the Asian Development Bank (ADB), and generous donor nations, the country built its national grid. Today, nearly every citizen in Sri Lanka enjoys the fruits of electricity. History proves that with enough time, public funding, and global aid, technological gaps can be narrowed, if not eliminated.
+
+However, we cannot simply wait for history to repeat itself with AI. The critical difference today is speed. Past innovations like electricity or the internet evolved over generations, giving governments and workers decades to train, adapt, and build infrastructure. In stark contrast, AI is evolving at an exponential, dizzying pace. Changes that used to take decades are now happening in months.
+
+Because AI moves so fast, societies left behind today face a much harsher reality. Vulnerable people and developing countries cannot simply "catch up" on their own; they are being locked out of AI platforms before they even understand how to use them. The digital gap is widening faster than schools can write textbooks or governments can build server systems.
+
+The wealthy nations that currently build, own, and profit from AI cannot afford to isolate their technology. To prevent a permanent global underclass, advanced economies must proactively provide financial aid, technical knowledge, and infrastructure support to emerging nations. Just as global aid once brought electricity to the developing world, a new wave of international support must now help emerging countries build their own AI systems and secure their place in the modern world.
+
+Recognising the gravity of the growing technology gap, world leaders have begun speaking out about the dangers of a fractured digital world. A major milestone in this discussion occurred recently at the 2026 World AI Conference in Shanghai. During his opening keynote address, Chinese President Xi Jinping addressed the audience with a warning against allowing "new historical injustices" to form through unequal access to artificial intelligence.
+
+To combat this, President Xi announced that China is ready to step up and support the developing world. He stated that China will provide 5,000 artificial intelligence training and seminar opportunities over the next five years to developing nations.
+
+Furthermore, China plans to establish specialised international AI application cooperation centers, directly partnering with major economic blocs, including BRICS, ASEAN, the African Union, and the League of Arab States. This initiative aims to equip emerging economies with the training, technology, and adaptation tools necessary to build their own technical foundations as they navigate the remainder of the decade.
+
+While the international community should warmly welcome China’s commitment, we must honestly recognise that a move by a single nation cannot solve the AI Divide on a permanent basis. China is only one country developing its own proprietary AI ecosystem.
+
+For a global challenge of this magnitude, individual actions are simply not enough. Other major powers at the absolute forefront of the AI race—such as the United States, the European Union, the United Kingdom, and Japan—must join this cooperative effort early.
+
+If these powerful nations act entirely on their own, it will lead to massive inefficiencies. We would likely see a wasteful duplication of resources, with multiple countries building competing, incompatible systems in the same regions. Furthermore, decentralised aid easily becomes "supply-driven," meaning wealthy nations hand down the tools they want to give away, rather than providing what vulnerable communities actually need.
+
+Most dangerous of all is the risk of geopolitical favoritism. Left to individual nations, AI tools will be distributed based on political alliances and strategic loyalty rather than true humanitarian need, leaving the most vulnerable populations completely cut off.
+
+Therefore, the world urgently needs to establish a unified Global Action Group for AI. This international body would coordinate efforts among all tech-heavy nations to distribute AI tools, data infrastructure, and training resources equitably across the globe.
+
+Rather than relying on temporary charity, this group must explore sustainable ways to weave AI knowledge permanently into the domestic technological foundations of developing countries. Only through a coordinated, global symphony of cooperation can we transform AI from a tool of geopolitical division into a lasting public asset for all of humanity.
+
+To bring a truly fair AI ecosystem to life, we must carefully choose the international vehicle that will drive it. The most obvious candidate for creating a Global Action Group is the United Nations (UN).
+
+As the world’s premier forum for international cooperation, the UN possesses an unmatched global reach, a deep commitment to human rights, and established bodies like the International Telecommunication Union (ITU). In a perfect scenario, the UN would be the ideal home for this initiative. It has the unique ability to bring all 193 member states to the same table to draft ethical boundaries and champion digital inclusion for every corner of the planet.
+
+However, we must be entirely realistic about the severe limitations of the UN system. In recent decades, the UN has repeatedly failed to prevent or resolve devastating regional conflicts. This paralysis is primarily due to the veto power held by a few dominant nations in the UN Security Council.
+
+When global powers are locked in intense geopolitical competition, the veto mechanism is frequently used to protect national interests rather than global welfare. Because AI is currently viewed as the ultimate tool for future economic and military supremacy, a UN-led AI group would almost certainly get bogged down by these same political rivalries. A single veto could block progress, leaving the initiative toothless and incapable of moving at the lightning-fast speed that AI technology demands.
+
+Given this gridlock, we must look beyond the traditional UN political framework. To bypass paralysing political vetoes, we need to marshal the initiatives of global financial and development institutions. Organisations like the International Monetary Fund (IMF), the World Bank, and regional development banks—such as the Asian Development Bank (ADB) and the African Development Bank—are far better suited for this operational task. These institutions possess the financial muscle, project management experience, and technical expertise required to build actual infrastructure on the ground.
+
+Rather than focusing on political debates, a coalition of these financial giants can treat AI access as a vital economic development issue. They can tie AI infrastructure funding directly to economic development loans, ensure transparent resource distribution, and fund large-scale educational programs to train local workforces. By shifting the responsibility from a highly politicised UN assembly to results-driven global development institutions, we can create a practical, agile Global Action Group. This approach ensures that aid is distributed based on real human and economic needs, rather than the geopolitical games of powerful nations.
+
+To turn AI’s promise into a shared human victory, the proposed Global Action Group cannot rely on vague promises or open-ended goals. It must immediately design and implement a strict, time-bound roadmap and a concrete action plan. The primary objective of this plan must be clear: to transform AI technology from an exclusive luxury of wealthy corporations and nations into an inclusive utility accessible to all.
+
+Because AI technology evolves at a staggering pace, this action plan cannot be a rigid document locked in time. Instead, it must be a living strategy, regularly reviewed and dynamically modified to meet emerging technological breakthroughs and unpredictable economic shifts.
+
+To ensure accountability and measure true progress, the global community needs a standardised method to track how effectively AI is being distributed. A highly practical approach would be to classify the nations of the world according to their AI applications and literacy. This system would mirror the trusted economic classifications used by the World Bank, categorising countries into four distinct tiers:
+
+First, High AI: Nations leading development with widespread, highly advanced integration across all economic sectors.
+
+Second, Medium AI: Countries with stable digital infrastructure making steady progress in adopting automated systems.
+
+Third, Emerging AI: Developing nations starting to integrate basic technologies but facing significant training gaps.
+
+Fourth, Low AI: Vulnerable regions with minimal infrastructure, heavily at risk of complete digital exclusion.
+
+By publishing these rankings in an annual global report, the international community will clearly highlight the leaders and the laggards of the tech era. This yearly index will create healthy competition, guide development institutions on exactly where to direct funding, and prevent wealthy nations from ignoring the poorest regions.
+
+Ultimately, without a structured, measurable, and adaptable plan, even a well-intentioned global action group will see its resources wasted.
+
+We stand at a critical crossroads in human history. If we do not actively tackle these severe inequity issues before completely weaving AI into the fabric of the global economy, we will create a deeply divided world that is impossible to fix. By treating AI knowledge as a global public good and holding nations accountable through a clear roadmap, we can ensure that the next big promise of technology lifts up every human being, leaving absolutely no one behind in the dark.
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected])
