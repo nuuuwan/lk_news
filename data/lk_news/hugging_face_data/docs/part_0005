@@ -9121,5 +9121,115 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786328782.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-adalk-35ad2804",
+    "num": "adalk-35ad2804",
+    "date_str": "2026-08-10",
+    "description": "\u0da9\u0ddc\u0dbd\u0dca\u0dc6\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0da0\u0dd3\u0db1\u0dba\u0dda \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0da9\u0ddc\u0dbd\u0dca\u0dc6\u0dd2\u0db1\u0dca-\u0db1\u0dd2\u0dc3\u0dcf-\u0da0\u0dd3\u0db1\u0dba\u0dda-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-423674",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786328882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-adalk-8fb070e2",
+    "num": "adalk-8fb070e2",
+    "date_str": "2026-08-10",
+    "description": "\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba \u0db1\u0dd9\u0dad\u0db1\u0dca\u0dba\u0dcf\u0dc4\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dda-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba-\u0db1\u0dd9\u0dad\u0db1\u0dca\u0dba\u0dcf\u0dc4\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0d9a\u0dbb\u0dba\u0dd2/11-423675",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786329318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-d442ea88",
+    "num": "tamilmirrorlk-d442ea88",
+    "date_str": "2026-08-10",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b9a\u0bc2\u0b9f\u0bc1-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-381126",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786331364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-d714ee74",
+    "num": "tamilmirrorlk-d714ee74",
+    "date_str": "2026-08-10",
+    "description": "\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc7\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0ba4\u0bc7\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381127",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786332367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-30b29456",
+    "num": "tamilmirrorlk-30b29456",
+    "date_str": "2026-08-10",
+    "description": "\u0b95.\u0baa\u0bca.\u0ba4 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95-\u0baa\u0bca-\u0ba4-\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-381128",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786332784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-9b0dc90f",
+    "num": "tamilmirrorlk-9b0dc90f",
+    "date_str": "2026-08-10",
+    "description": "\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc1\u0b95\u0baf\u0bc0\u0ba9 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb0\u0bbe\u0bae-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc1\u0b95\u0baf\u0bc0\u0ba9-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd/175-381129",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786332859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-b64d39dd",
+    "num": "tamilmirrorlk-b64d39dd",
+    "date_str": "2026-08-10",
+    "description": "\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bc8 \u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bc8-\u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381131",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786333323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-dailymirrorlk-fdbc5140",
+    "num": "dailymirrorlk-fdbc5140",
+    "date_str": "2026-08-10",
+    "description": "Typhoon Dolphin hits China\u2019s east coast, over 1 million evacuated",
+    "url_metadata": "https://www.dailymirror.lk/international/Typhoon-Dolphin-hits-Chinas-east-coast-over-1-million-evacuated/107-347782",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786334190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-ea9e24c5",
+    "num": "tamilmirrorlk-ea9e24c5",
+    "date_str": "2026-08-10",
+    "description": "\u0b87\u0bb3\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb3\u0bae\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3-\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95-\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0ba8\u0baa\u0bb0\u0bcd/175-381133",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786334570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-10-tamilmirrorlk-84856477",
+    "num": "tamilmirrorlk-84856477",
+    "date_str": "2026-08-10",
+    "description": "\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381134",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786334852.0
   }
 ]
