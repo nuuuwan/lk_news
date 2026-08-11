@@ -10609,6 +10609,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-1e7f27f1",
+    "num": "tamilmirrorlk-1e7f27f1",
+    "date_str": "2026-08-11",
+    "description": "\u2019\u0baa\u0bcb\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0ba4\u0bb0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1-\u0ba4\u0bb0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/50-381189",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786400454.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-adalk-614032b4",
     "num": "adalk-614032b4",
     "date_str": "2026-08-11",
@@ -10631,6 +10642,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-35bfcb73",
+    "num": "adalk-35bfcb73",
+    "date_str": "2026-08-11",
+    "description": "\u0dbb\u0dad\u0dca\u0db8\u0dbd\u0dcf\u0db1\u0dda \u0dc3\u0dba\u0dd2\u0db8\u0dcf\u0d9c\u0dda \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dad\u0dca\u0db8\u0dbd\u0dcf\u0db1\u0dda-\u0dc3\u0dba\u0dd2\u0db8\u0dcf\u0d9c\u0dda-\u0d85\u0db4\u0dbb\u0dcf\u0db0-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-423694",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786412518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-06b28e9d",
+    "num": "adalk-06b28e9d",
+    "date_str": "2026-08-11",
+    "description": "\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423695",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786413304.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-673530de",
     "num": "dailymirrorlk-673530de",
     "date_str": "2026-08-11",
@@ -10650,5 +10683,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786415784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-69d2abba",
+    "num": "tamilmirrorlk-69d2abba",
+    "date_str": "2026-08-11",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-381193",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786417310.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-1accc669",
+    "num": "tamilmirrorlk-1accc669",
+    "date_str": "2026-08-11",
+    "description": "\u0b95\u0b9f\u0bb5\u0bc1 \u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb5\u0bc1-\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381194",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786418595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-0e919959",
+    "num": "dailymirrorlk-0e919959",
+    "date_str": "2026-08-11",
+    "description": "Immigration system outage disrupts one-day passport service",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Immigration-system-outage-disrupts-one-day-passport-service/108-347856",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786419324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-5e054abe",
+    "num": "tamilmirrorlk-5e054abe",
+    "date_str": "2026-08-11",
+    "description": "\u0b86\u0ba3\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0ba3\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381195",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786419685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-7fbdb693",
+    "num": "tamilmirrorlk-7fbdb693",
+    "date_str": "2026-08-11",
+    "description": "\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-381196",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786420843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-525b7d47",
+    "num": "dailymirrorlk-525b7d47",
+    "date_str": "2026-08-11",
+    "description": "Mobile hospital service planned to provide emergency care for wild elephants",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mobile-hospital-service-planned-to-provide-emergency-care-for-wild-elephants/108-347857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786421376.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-633a0019",
+    "num": "tamilmirrorlk-633a0019",
+    "date_str": "2026-08-11",
+    "description": "\u0b87\u0bb0\u0ba4\u0bcd\u0bae\u0bb2\u0bbe\u0ba9\u0bc8 \u0b9a\u0bc8\u0bae\u0bbe \u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0b9a\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0ba4\u0bcd\u0bae\u0bb2\u0bbe\u0ba9\u0bc8-\u0b9a\u0bc8\u0bae\u0bbe-\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bb5\u0b9a\u0bae\u0bcd/175-381197",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786421656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-eae77cb2",
+    "num": "dailymirrorlk-eae77cb2",
+    "date_str": "2026-08-11",
+    "description": "Two arrested with protected animal parts in Kuruwita raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-with-protected-animal-parts-in-Kuruwita-raid/108-347858",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786421695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-6bc0eaa1",
+    "num": "dailymirrorlk-6bc0eaa1",
+    "date_str": "2026-08-11",
+    "description": "Immigration Department system restored after morning breakdown",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Immigration-Department-system-restored-after-morning-breakdown/108-347859",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786422111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-f3b56ea5",
+    "num": "dailymirrorlk-f3b56ea5",
+    "date_str": "2026-08-11",
+    "description": "Sri Lanka moves to strengthen regulation and welfare of captive elephants",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-moves-to-strengthen-regulation-and-welfare-of-captive-elephants/108-347860",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786422207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-9d8730b5",
+    "num": "dailymirrorlk-9d8730b5",
+    "date_str": "2026-08-11",
+    "description": "President to meet BASL over proposed judicial retirement age changes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-to-meet-BASL-over-proposed-judicial-retirement-age-changes/108-347861",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786422953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-2e0fd11a",
+    "num": "tamilmirrorlk-2e0fd11a",
+    "date_str": "2026-08-11",
+    "description": "\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc8-\u0ba8\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-381198",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786423227.0
   }
 ]
