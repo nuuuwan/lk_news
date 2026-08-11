@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--11_18:04:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--11_20:15:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,003** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,012** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-11-dailymirrorlk-e3ee3892",
-    "num": "dailymirrorlk-e3ee3892",
+    "doc_id": "2026-08-11-dailymirrorlk-1acb9e84",
+    "num": "dailymirrorlk-1acb9e84",
     "date_str": "2026-08-11",
-    "description": "CSE snaps four-day winning streak as indices edge lower",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-snaps-four-day-winning-streak-as-indices-edge-lower/108-347917",
+    "description": "BASL rejects allegations by Jagath Abeynayaka over discussions on extending judges\u2019 tenure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-rejects-allegations-by-Jagath-Abeynayaka-over-discussions-on-extending-judges-tenure/108-347921",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786451168.0
+    "time_ut": 1786458758.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-11 | `dailymirrorlk-1acb9e84` | BASL rejects allegations by Jagath Abeynayaka over discussions on extending judges’ tenure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-1acb9e84)
+- 2026-08-11 | `tamilmirrorlk-cd1c0eda` | ஜனாதிபதி மற்றும் சீன முதலீட்டாளர்கள் குழுவிற்கு இடையிலான சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-cd1c0eda)
+- 2026-08-11 | `dailymirrorlk-d8ada4ba` | New Chinese Envoy arrives, vows to strengthen bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-d8ada4ba)
+- 2026-08-11 | `dailymirrorlk-f5f28011` | Prison officer arrested over drug supply to Magazine Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-f5f28011)
+- 2026-08-11 | `dailymirrorlk-75e1125f` | Six-planet parade to grace Sri Lankan skies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-75e1125f)
 - 2026-08-11 | `dailymirrorlk-e3ee3892` | CSE snaps four-day winning streak as indices edge lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-e3ee3892)
 - 2026-08-11 | `dailymirrorlk-979fd61e` | Six State bungalows up for 30-year commercial leases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-979fd61e)
 - 2026-08-11 | `dailymirrorlk-9f8593b1` | Govt briefs Chief Prelates on judicial reform programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-9f8593b1)
@@ -54,13 +59,8 @@ A collection of lk_news documents.
 - 2026-08-11 | `tamilmirrorlk-25ceba7d` | அயர்பியில்  குளவித் தாக்குதல்; 11 பேர் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-25ceba7d)
 - 2026-08-11 | `dailymirrorlk-cdb0a3c7` | This is your Parliament! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-cdb0a3c7)
 - 2026-08-11 | `tamilmirrorlk-a770ffef` | தொண்டையில் சிக்கிய மூக்குத்தி: நடிகர் செய்த மருத்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-a770ffef)
-- 2026-08-11 | `dailymirrorlk-3120cf60` | Cabinet approves coconut land rehabilitation programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-3120cf60)
-- 2026-08-11 | `dailymirrorlk-ab757149` | ‘Sumana’ becomes Pinnawala attraction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-ab757149)
-- 2026-08-11 | `adalk-b6f7ced7` | මීළඟ පාර්ලිමේන්තු සතියේ කටයුතු තීරණය කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-adalk-b6f7ced7)
-- 2026-08-11 | `tamilmirrorlk-7fc05dc9` | அரசின் தந்திரத்துக்குத் துணை போக வேண்டாம்: மனோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-7fc05dc9)
-- 2026-08-11 | `tamilmirrorlk-ec9961f7` | விக்ரமின் ’லார் கிப்பான்’ குரங்கு வீடியோ நீக்கம்: வனத்துறை விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-ec9961f7)
-- 2026-08-11 | `tamilmirrorlk-9e8b659e` | பாஷ் அல்-அசாத்திற்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-tamilmirrorlk-9e8b659e)
-- 2026-08-11 | `dailymirrorlk-e7f8cb07` | Jaffna MC members protest against commissioner’s interference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-dailymirrorlk-e7f8cb07)
+- 2026-08-11 | `adalk-26ba2f39` | මුතුරාජවෙලට නව ඉන්ධන ගබඩා ටැංකි තුනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-adalk-26ba2f39)
+- 2026-08-11 | `adalk-7a918884` | ඉඩම් පරිපාලනය ඩිජිටල් කිරීමට අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-11-adalk-7a918884)
 
 ---
 
