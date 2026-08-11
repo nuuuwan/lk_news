@@ -10961,6 +10961,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-fc57d1c7",
+    "num": "adalk-fc57d1c7",
+    "date_str": "2026-08-11",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd3\u0dca\u0db1\u0dca 90000\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd3\u0dca\u0db1\u0dca-90000\u0d9a\u0dca-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-423700",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786427781.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-55e096fd",
     "num": "dailymirrorlk-55e096fd",
     "date_str": "2026-08-11",
@@ -10980,6 +10991,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786427913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-e5f2a833",
+    "num": "adalk-e5f2a833",
+    "date_str": "2026-08-11",
+    "description": "\u0dc3\u0dcf\u0d9c\u0dbb \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9c\u0dad \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0d9c\u0dbb-\u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9c\u0dad-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5\u0da7/11-423701",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786428198.0
   },
   {
     "doc_type": "lk_news",
@@ -11159,6 +11181,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-4579c38a",
+    "num": "tamilmirrorlk-4579c38a",
+    "date_str": "2026-08-11",
+    "description": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0\u0baa\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1/175-381214",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786432761.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-4eb8d26a",
     "num": "dailymirrorlk-4eb8d26a",
     "date_str": "2026-08-11",
@@ -11222,5 +11255,225 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786437034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-58cc3ad2",
+    "num": "dailymirrorlk-58cc3ad2",
+    "date_str": "2026-08-11",
+    "description": "Cabinet nod to amend Fishermen\u2019s Pension Scheme Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-amend-Fishermens-Pension-Scheme-Act/108-347883",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786437549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-7e09d079",
+    "num": "tamilmirrorlk-7e09d079",
+    "date_str": "2026-08-11",
+    "description": "\u2019\u2019\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b95\u0ba3\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bb5\u0bb5\u0bc1\u0bae\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0-\u0baa\u0bbf\u0bb0\u0baa\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b95\u0ba3\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0bae\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95-\u0b89\u0ba4\u0bb5\u0bb5\u0bc1\u0bae\u0bcd/97-381217",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786437876.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-3cf15030",
+    "num": "dailymirrorlk-3cf15030",
+    "date_str": "2026-08-11",
+    "description": "Muthurajawela to get three new fuel tanks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Muthurajawela-to-get-three-new-fuel-tanks/108-347887",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786438247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-e62c5911",
+    "num": "dailymirrorlk-e62c5911",
+    "date_str": "2026-08-11",
+    "description": "Rs. 232 mn allocated to restore 144 disaster-affected sacred sites",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-232-mn-allocated-to-restore-144-disaster-affected-sacred-sites/108-347888",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786438455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-37f0fee7",
+    "num": "dailymirrorlk-37f0fee7",
+    "date_str": "2026-08-11",
+    "description": "Cabinet approves coal supply contracts for Lakvijaya Power Plant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-coal-supply-contracts-for-Lakvijaya-Power-Plant/108-347890",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786438558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-2661e910",
+    "num": "dailymirrorlk-2661e910",
+    "date_str": "2026-08-11",
+    "description": "$2.73 million project approved to improve maternal and child nutrition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2-73-million-project-approved-to-improve-maternal-and-child-nutrition/108-347891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786438704.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-a1e9af49",
+    "num": "dailymirrorlk-a1e9af49",
+    "date_str": "2026-08-11",
+    "description": "Rs. 1.2 bn approved for expressway maintenance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-1-2-bn-approved-for-expressway-maintenance/108-347893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786438829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-99455d7e",
+    "num": "dailymirrorlk-99455d7e",
+    "date_str": "2026-08-11",
+    "description": "30,000 MT of paddy to be converted into rice for market",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/30-000-MT-of-paddy-to-be-converted-into-rice-for-market/108-347894",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786439009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-7b400910",
+    "num": "tamilmirrorlk-7b400910",
+    "date_str": "2026-08-11",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd-\u0baa\u0bc1\u0b95\u0bc1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/150-381219",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786439149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-1313bf56",
+    "num": "dailymirrorlk-1313bf56",
+    "date_str": "2026-08-11",
+    "description": "World Bank approves US$100 mn for North, East development programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Bank-approves-US-100-mn-for-North-East-development-programme/108-347897",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786439666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-f6309ae6",
+    "num": "dailymirrorlk-f6309ae6",
+    "date_str": "2026-08-11",
+    "description": "Former Syrian President Assad sentenced to death in absentia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Syrian-President-Assad-sentenced-to-death-in-absentia/108-347898",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786439776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-b4303a7a",
+    "num": "tamilmirrorlk-b4303a7a",
+    "date_str": "2026-08-11",
+    "description": "\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba8\u0b95\u0bc8 \u0b89\u0bb0\u0bbf\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4-\u0ba8\u0b95\u0bc8-\u0b89\u0bb0\u0bbf\u0baf-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-381220",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786440124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-bb024169",
+    "num": "dailymirrorlk-bb024169",
+    "date_str": "2026-08-11",
+    "description": "Let Sri Lankan wild elephant become national animal: Sajith",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Let-Sri-Lankan-wild-elephant-become-national-animal-Sajith/108-347899",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786440245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-8b3aad02",
+    "num": "adalk-8b3aad02",
+    "date_str": "2026-08-11",
+    "description": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc3\u0dad\u0dd4 \u0dc0\u0dd3 \u0da7\u0ddc\u0db1\u0dca 30000\u0d9a\u0dca \u0dc3\u0dc4\u0dbd\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dc3\u0dad\u0dd4-\u0dc0\u0dd3-\u0da7\u0ddc\u0db1\u0dca-30000\u0d9a\u0dca-\u0dc3\u0dc4\u0dbd\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dba\u0dba\u0dd2/11-423702",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786440473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-10654520",
+    "num": "dailymirrorlk-10654520",
+    "date_str": "2026-08-11",
+    "description": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-hidden-in-catering-truck-in-secret-plane-swap-over-Iran-threat-reports-say/108-347901",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786440707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-e7f8cb07",
+    "num": "dailymirrorlk-e7f8cb07",
+    "date_str": "2026-08-11",
+    "description": "Jaffna MC members protest against commissioner\u2019s interference",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-MC-members-protest-against-commissioners-interference/108-347904",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786440882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-9e8b659e",
+    "num": "tamilmirrorlk-9e8b659e",
+    "date_str": "2026-08-11",
+    "description": "\u0baa\u0bbe\u0bb7\u0bcd \u0b85\u0bb2\u0bcd-\u0b85\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb7\u0bcd-\u0b85\u0bb2\u0bcd-\u0b85\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0bae\u0bb0\u0ba3-\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8/50-381222",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786440987.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-ec9961f7",
+    "num": "tamilmirrorlk-ec9961f7",
+    "date_str": "2026-08-11",
+    "description": "\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae\u0bbf\u0ba9\u0bcd \u2019\u0bb2\u0bbe\u0bb0\u0bcd \u0b95\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd\u2019 \u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd: \u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae\u0bbf\u0ba9\u0bcd-\u0bb2\u0bbe\u0bb0\u0bcd-\u0b95\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd-\u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/52-381223",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786441989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-7fc05dc9",
+    "num": "tamilmirrorlk-7fc05dc9",
+    "date_str": "2026-08-11",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0baa\u0bcb\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd: \u0bae\u0ba9\u0bcb",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd-\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bc1\u0ba3\u0bc8-\u0baa\u0bcb\u0b95-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd-\u0bae\u0ba9\u0bcb/175-381224",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786442299.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-ab757149",
+    "num": "dailymirrorlk-ab757149",
+    "date_str": "2026-08-11",
+    "description": "\u2018Sumana\u2019 becomes Pinnawala attraction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sumana-becomes-Pinnawala-attraction/108-347908",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786443616.0
   }
 ]
