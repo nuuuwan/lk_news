@@ -1,0 +1,81 @@
+Sri Lanka’s inflation target: Should it be cut from 5% to 2%?
+
+If interest rates are held below natural rates in order to boost growth, projects that would normally be rejected may be undertaken. These projects rely on the artificially low rates in order to be viable. This increases the risk to financial system stability, at one point when market forces reassert themselves and interest rates rise it could lead to widespread failures that could threaten banking stability
+
+In a recent article Dr. Harischandra argues that lowering the inflation target to 2% would be premature and identifies some issues with moving to a lower target. I have written an essay that argues for a 2% ceiling (available online https://samvaada.substack.com/p/issue-1-rethinking-inflation-policy ) which addresses many of the concerns raised by Dr. Harischandra but some specific aspects will be dealt with briefly below.
+
+Dr. Harischandra’s concerns (see: https://www.ft.lk/opinion/Sri-Lanka-s-inflation-target-Should-it-be-cut-from-5-to-2/14-794598) on the impact of a lower target on growth and investment are related to those on employment and incomes. Those on exchange rate adjustment are connected to policy flexibility, those on debt dynamics to financial sector stability.
+
+Dr. Harischandra provides graphical evidence that since 2015 inflation dynamics have been highly volatile and subject to large, abrupt shifts. This is undisputed and underlines the fact that inflation is very difficult to control, partly due to the long and variable lags between money growth and prices.  There always is the risk of overshooting the target: the higher the target the greater the risk which is why a lower target is preferred to a higher one.
+
+Generally rising prices are a phenomenon that occurs when the stock of money increases faster than the increase in supply of goods and services. Controlling increase in the monetary base lies in the hands of the Central Bank.  It is worth recalling Friedman’s remark that “inflation is always and everywhere a monetary phenomenon”.
+
+Dr. Harischandra states that achieving a 2% inflation target would require maintaining higher interest rates over a prolonged period in order to tighten financial conditions. This would in turn discourage capital formation. This is not necessarily true.
+
+Once the rate of inflation has risen, bringing it down will indeed require tighter monetary conditions to withdraw excess liquidity from the market. This would involve high interest rates, particularly when credit growth has accelerated rapidly. However once the excess money supply has been withdrawn rates will stabilise. Once achieved, maintaining monetary stability does not necessarily require high rates.
+
+For interest rates to remain stable, it is critical that they be allowed to reflect the real underlying conditions for the supply and demand for loanable funds. Attempts to lower the interest rate by injecting liquidity to the banking sector will distort investment and savings decisions. As these are necessarily long-term decisions and as investments involve specific productive assets in particular sectors the consequences of errors are not easily undone.
+
+The interest rate is one of the most critical prices in an economy because it coordinates intertemporal preferences. Once inflation falls and monetary conditions stabilise the inflation premium that arises from uncertainty about the value of money will decline leading to permanently low rates.
+
+This is best illustrated by historical data. Under the currency board Ceylon had very low and stable inflation and correspondingly low interest rates. These were also present in the early years of the Central Bank and are visible in the tables shown.
+
+For example between 1953 – 1963 inflation rates were mostly below 2%. Interbank call rates were 05%-1.5%, FD rates were between 0.5% -2.5% and lending rates were between 3-8%. These later increased as inflation rose.
+
+Countries which have achieved monetary stability such as Singapore have very low interest rates, similar to the experience of Ceylon in the 1950’s. Maintaining monetary stability is the key to sustainable low inflation and leads to low interest rates.
+
+Dr. Harischandra’s argument on the impact on employment follows from his argument on growth and investment. In a sustainable low inflation environment that arises from monetary stability both rates of inflation and interest will be low so concerns on employment and income stemming from high interest rates will not arise.
+
+He correctly identifies that a durable recovery depends on reviving investment, rebuilding dynamism and strengthening credit flows. This cannot be achieved in a sustained manner through infusions of money. In the short-term money creation will quicken economy activity which creates a temporary illusion of prosperity but this is not sustainable.
+
+Sustained growth is can only arise from increases in productivity. Productivity growth is low in Sri Lanka due to various constraints: policy inconsistency and monetary instability which deters investment as well high levels of regulation (including restrictions on investment) and taxation (including a highly protectionist tariff structure). To achieve sustainable real growth, these root causes must be addressed. It is not possible to resolve these problems through monetary policy and attempting to do so takes attention away from the underlying causes of unemployment and slow growth.
+
+It is also not advisable to resort the temporary quickening of economic activity which is possible through monetary policy simply to buy time necessary to address more fundamental causes. This is because the distortions inflation creates are persistent, long term and can lead to further problems particularly Balance of Payments crises. In the standard neoclassical framework, the costs of inflation are assumed to be minimal on the basis of the assumption that money is neutral. However my essay ( https://samvaada.substack.com/p/issue-1-rethinking-inflation-policy)  argues that the conditions necessary for neutrality do not hold in practice which leads to various adverse outcomes.
+
+Higher interest rates will indeed place greater strain on borrowers but as discussed above, achieving monetary stability results in sustained lower interest rates, not higher except during the period of transition. Higher interest rates tend to reflect an inflation premium due to the uncertainty that arises when trying to take decisions over longer periods. If the CBSL is guided by fixed rules that result in low inflation it will build credibility and provide the confidence necessary to eliminate the inflation premium attached to interest rates.
+
+In the short term it is indeed possible to ‘inflate away’ part of the rupee public debt but the dynamics reverse the moment a Balance of Payments crisis occurs. (The essay at https://samvaada.substack.com/p/issue-1-rethinking-inflation-policy explains in detail how this results from an inflationary policy).
+
+The stabilisation measures that follow from the Balance of Payments crisis slow the economy. Public sector wages and costs catch up and there is pressure to increase welfare payments to offset inflation. The slowing economy lowers tax collection while expenses increase and the budget deficit increases. This is particularly important because of the foreign debt forms about 40% of the debt stock.
+
+The recent depreciation of the currency has resulted in the the overall value of the public debt increasing in rupee terms, despite the debt repayments and the primary surplus in the Government Budget. This is because the value of the foreign debt increased following the currency depreciation. Foreign debt is serviced with taxes collected in rupees so the burden on the citizens increases.
+
+A low target does indeed reduce policy flexibility, which is its objective. Credibility arises from a rules based environment. The Central Bank must be bound by clear rules that are evident to all. If the Central Bank follows clear rules, consistently its actions become predictable. This builds credibility and leads to increased confidence.
+
+Flexibility means greater discretion and necessitates looser rules which reduces predictability and certainty. Conceptually, flexibility and credibility are two opposites that cannot be reconciled.
+
+Practically, requiring the Central Bank to monitor and adjust to various shocks across a multitude of international prices that may be moving in different directions is an all but impossible task.  Any adjustment in response to changes in international conditions must ultimately take place in the real economy. This is best left in the hands of the firms and individuals—the actual decision makers in the economy. Neither the Government nor the Central Bank is omniscient and omnipresent.
+
+The role that governments can play in response to international shocks is to minimise regulatory and other barriers that impede adjustment. The role that the Central Bank can play is to ensure minimum distortions to the price signals, international and local, on which the real adjustments must be based.
+
+Tight monetary policy will indeed help maintain a stable exchange rate, which I view as desirable. A stable exchange rate gives greater predictability; it removes one variable that adds uncertainty. This will facilitate international trade and investment.
+
+If the exchange rate is to act as a shock absorber, it would need to minimise the transmission of any external shocks or in other words insulate the economy to some extent from the outside world. In theory, if the prices of key exports fall, the depreciation  of currency may help offset this. This sounds appealing, who would not wish the country to be sheltered from foreign-induced turmoil?
+
+For example, in the first quarter of 2026 tea prices declined. All exporters and tourism were affected after the outbreak of the war. The rupee has depreciated this year and it may be argued that this helped cushion the shock for exporters. However, exporters depend on at least some imported inputs so depreciation increases their costs as well as their revenues. Nevertheless, exporters should enjoy some incremental benefit from the depreciation, but only for a while, before local prices catch up.
+
+At the same time oil prices increased. In this case the currency depreciation has had the opposite effect: it has not cushioned but amplified the shock. This impacts the entire economy including the export sector. For exporters the cushion of better rupee prices may have helped offset the magnified shock of higher rupee energy costs but for purely domestic producers and consumers, it has only amplified the shock.
+
+Fundamentally, s depreciation intended to boost exports does not change the underlying competitive advantage of an industry in the long run. It temporarily shifts relative prices but does not alter real productivity or resource endowments.
+
+There are many different international goods and their prices and they may not necessarily move in the same direction. Changes in international prices reflect changes in underlying conditions that local businesses and consumers must adapt to. Attempting to insulate domestic producers may at best only delay the necessary adjustment. The depreciation may also create additional problems for the domestic economy because of higher input costs for food, medicines and raw materials.
+
+A stable exchange rate cannot eliminate external shocks, but it prevents monetary instability from making them worse.
+
+Conditions necessary for the neutrality of money in the long term do not hold in practice. The costs that arise if the neutrality assumption is lifted are heavy: the redistribution of wealth and distortions to the production structure and investment. Most seriously it leads to Balance of Payments crises which derail growth. If all the associated costs are considered the advantage of an immediate lowering of the inflation target becomes apparent
+
+Under a system of fractional reserve banking the financial sector is inherently vulnerable. Widespread panic can lead to bank runs therefore maintaining confidence is paramount. The Central Bank’s has an important role as the lender of last resort. However in playing this role and ensuring the proper functioning of the interbank market it is necessary to guard against problems of moral hazard.
+
+The potential for moral hazard arises if the provision of liquidity support reduces the incentive for financial institutions to devote resources to enhancing the efficiency and effectiveness of their daily liquidity management operations. Moreover, excessive reliance on the Central Bank for daily liquidity management would substantially undermine private interbank market activity.
+
+Bonuses, increments, incentives and promotions of senior bank staff are tried to profits. Recourse to cheap funds from the CBSL on a regular basis can encourage risky lending based not on deposit mobilisation from the market but in continuous use of short-term borrowing from the CBSL. If liquidity is freely and cheaply available from the CBSL, the top management of banks may be incentivised to pursue short-term profit maximisation through expanding the loan book that can threaten financial system stability.
+
+Moreover if interest rates are held below natural rates in order to boost growth, projects that would normally be rejected may be undertaken. These projects rely on the artificially low rates in order to be viable. This increases the risk to financial system stability, at one point when market forces reassert themselves and interest rates rise it could lead to widespread failures that could threaten banking stability.
+
+All financial crises involve excessive levels of debt accumulation. This is more likely to occur if interest rates are held artificially low.
+
+Dr. Harischandra suggests that moving to a lower inflation target should be done only gradually and over time. My essay argues that the higher inflation target will lead to Balance of Payments crises. In general, a gradual approach to change may be preferable but if a policy is likely to lead to a crisis then this must be weighed against the costs that arise from a crisis.
+
+In the neoclassical framework under the neutrality assumption the costs of inflation are transitional and are outweighed by the advantages. My essay argues to the contrary, that the conditions necessary for the neutrality of money in the long term do not hold in practice.
+
+The costs that arise if the neutrality assumption is lifted are heavy: the redistribution of wealth and distortions to the production structure and investment. Most seriously it leads to Balance of Payments crises which derail growth. If all the associated costs are considered the advantage of an immediate lowering of the inflation target becomes apparent.

@@ -1,0 +1,25 @@
+Dossiers-de Risk Partners’ transaction monitoring workshop on August 19
+
+Sri Lankan financial-crime technology company Dossiers, together with international compliance firm de Risk Partners, will host a free virtual workshop series on transaction monitoring for compliance, risk and IT professionals at the country’s banks and non-bank financial institutions (NBFIs).
+
+The first session, ‘From Risk to Rule’, takes place on Wednesday, August 19, at 3:00 p.m., online.
+
+The series responds to a pressing need in the local market. Under the Financial Transactions Reporting Act, No. 6 of 2006, every financial institution in Sri Lanka must carry out the ongoing customer due diligence, monitor transactions and report suspicious activity to the Financial Intelligence Unit (FIU).
+
+The Financial Institutions (Customer Due Diligence) Rules, No. 1 of 2016 set out what that monitoring, screening and reporting must look like in practice and the FIU has already penalised institutions for falling short.
+
+With Sri Lanka’s 2026 mutual evaluation now assessing how effective these controls are in practice, rather than whether they merely exist on paper, the banks and NBFIs are moving quickly to put credible transaction monitoring systems in place.
+
+Buying a tool is the easy part. A monitoring system is only as good as the rules behind it and calibrating those rules well takes experience that few teams in the local market have had the opportunity to build. The workshop series aims to help close that gap.
+
+The series is led by de Risk Partners, a compliance firm founded by Wall Street financial-crime veterans, with a Swiss arm in Lucerne and a US arm in Connecticut.
+
+The first session is delivered by de Risk Partners Founder and CEO Ravi de Silva, who spent 20 years inside the financial system, including as Global Head of Financial Crimes Compliance Testing at Citigroup, with senior roles before that at JPMorgan Chase and American Express.
+
+The firm’s wider bench includes Cassie Schock, a former US Federal Reserve regulator who led sanctions and compliance operations at HSBC, including in Sri Lanka and spent close to a decade as Head of Sanctions at BNP Paribas and Erin DeWitt, a former US Federal Reserve examiner and bank Chief Risk Officer, who has led high-stakes AML and fraud remediation at some of the world’s largest institutions.
+
+‘From Risk to Rule’ covers how transaction monitoring actually works, what regulators expect and how a risk turns into a working detection rule that holds up under scrutiny. The session is educational and vendor-neutral and free to attend, with places limited.
+
+“Every bank and finance company in Sri Lanka is being asked to raise its game on transaction monitoring but the practical know-how to do it well is scarce here. We wanted to give the local compliance community direct access to people who have built and run these programmes at the world’s largest banks. That is what this series is about,” said Dossiers CEO Nisal Periyapperuma.
+
+“Sri Lanka is at an important moment with its 2026 evaluation and the questions its banks and NBFIs are working through are the same ones we have faced inside global institutions. We are glad to share that experience openly with the market,” said de Silva.
