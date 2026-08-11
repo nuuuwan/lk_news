@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-11 16:04:52",
-  "n_docs": 126987,
+  "time_updated": "2026-08-11 18:03:04",
+  "n_docs": 127003,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 126987,
+  "n_docs_with_text": 127003,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-11",
-  "dataset_size": 1978599670,
+  "dataset_size": 1978897329,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-11-dailymirrorlk-ab757149",
-    "num": "dailymirrorlk-ab757149",
+    "doc_id": "2026-08-11-dailymirrorlk-e3ee3892",
+    "num": "dailymirrorlk-e3ee3892",
     "date_str": "2026-08-11",
-    "description": "\u2018Sumana\u2019 becomes Pinnawala attraction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sumana-becomes-Pinnawala-attraction/108-347908",
+    "description": "CSE snaps four-day winning streak as indices edge lower",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-snaps-four-day-winning-streak-as-indices-edge-lower/108-347917",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786443616.0
+    "time_ut": 1786451168.0
   }
 }

@@ -11423,6 +11423,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-b63963fd",
+    "num": "adalk-b63963fd",
+    "date_str": "2026-08-11",
+    "description": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0dbb\u0dd4. \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7-\u0dbb\u0dd4--\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca/11-423703",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786440843.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-e7f8cb07",
     "num": "dailymirrorlk-e7f8cb07",
     "date_str": "2026-08-11",
@@ -11467,6 +11478,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-b6f7ced7",
+    "num": "adalk-b6f7ced7",
+    "date_str": "2026-08-11",
+    "description": "\u0db8\u0dd3\u0dc5\u0d9f \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd3\u0dc5\u0d9f-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d9a\u0dd9\u0dbb\u0dda/11-423704",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786442736.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-ab757149",
     "num": "dailymirrorlk-ab757149",
     "date_str": "2026-08-11",
@@ -11475,5 +11497,159 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786443616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-3120cf60",
+    "num": "dailymirrorlk-3120cf60",
+    "date_str": "2026-08-11",
+    "description": "Cabinet approves coconut land rehabilitation programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-coconut-land-rehabilitation-programme/108-347909",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786444066.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-a770ffef",
+    "num": "tamilmirrorlk-a770ffef",
+    "date_str": "2026-08-11",
+    "description": "\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc2\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf: \u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0bc2\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd/54-381225",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786445083.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-cdb0a3c7",
+    "num": "dailymirrorlk-cdb0a3c7",
+    "date_str": "2026-08-11",
+    "description": "This is your Parliament!",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/This-is-your-Parliament/110-347910",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786445093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-25ceba7d",
+    "num": "tamilmirrorlk-25ceba7d",
+    "date_str": "2026-08-11",
+    "description": "\u0b85\u0baf\u0bb0\u0bcd\u0baa\u0bbf\u0baf\u0bbf\u0bb2\u0bcd  \u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd; 11 \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0baf\u0bb0\u0bcd\u0baa\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-11-\u0baa\u0bc7\u0bb0\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/76-381226",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786445759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-75188b54",
+    "num": "tamilmirrorlk-75188b54",
+    "date_str": "2026-08-11",
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0bc0\u0b9f\u0bbf \u0b87\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0bb1\u0bbf\u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9-\u0baa\u0bc0\u0b9f\u0bbf-\u0b87\u0bb2\u0bc8\u0ba4\u0bcd-\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf-\u0baa\u0bb1\u0bbf\u0bae\u0bc1\u0ba4\u0bb2\u0bcd/175-381227",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786446129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-485966ca",
+    "num": "dailymirrorlk-485966ca",
+    "date_str": "2026-08-11",
+    "description": "Biometric system proposed for future electronic passports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Biometric-system-proposed-for-future-electronic-passports/108-347911",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786446348.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-0a134693",
+    "num": "dailymirrorlk-0a134693",
+    "date_str": "2026-08-11",
+    "description": "Cabinet approves return of Sri Lankan refugees from India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-return-of-Sri-Lankan-refugees-from-India/108-347912",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786446555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-4b2d6d00",
+    "num": "tamilmirrorlk-4b2d6d00",
+    "date_str": "2026-08-11",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 1,000 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-1-000-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b9f\u0bca\u0bb2\u0bb0\u0bcd/175-381231",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786447032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-901b02a8",
+    "num": "tamilmirrorlk-901b02a8",
+    "date_str": "2026-08-11",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3 \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3-\u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-381232",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786447059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-52dd113c",
+    "num": "dailymirrorlk-52dd113c",
+    "date_str": "2026-08-11",
+    "description": "Sri Lanka, given its small domestic market, should liberalize the economy more than India  \u2013 top Indian Economist",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/Sri-Lanka-given-its-small-domestic-market-should-liberalize-the-economy-more-than-India-top-Indian-Economist/334-347913",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786447462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-11ecf129",
+    "num": "tamilmirrorlk-11ecf129",
+    "date_str": "2026-08-11",
+    "description": "\u0b9a\u0bc7\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0ba3\u0b95\u0bcd\u0b95 \u0bb8\u0bcd\u0ba4\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc7\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-\u0bb5\u0ba3\u0b95\u0bcd\u0b95-\u0bb8\u0bcd\u0ba4\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-381233",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786448186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-9f8593b1",
+    "num": "dailymirrorlk-9f8593b1",
+    "date_str": "2026-08-11",
+    "description": "Govt briefs Chief Prelates on judicial reform programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-briefs-Chief-Prelates-on-judicial-reform-programme/108-347915",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786449744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-979fd61e",
+    "num": "dailymirrorlk-979fd61e",
+    "date_str": "2026-08-11",
+    "description": "Six State bungalows up for 30-year commercial leases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-State-bungalows-up-for-30-year-commercial-leases/108-347916",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786450199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-e3ee3892",
+    "num": "dailymirrorlk-e3ee3892",
+    "date_str": "2026-08-11",
+    "description": "CSE snaps four-day winning streak as indices edge lower",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-snaps-four-day-winning-streak-as-indices-edge-lower/108-347917",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786451168.0
   }
 ]
