@@ -11577,6 +11577,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-ed326408",
+    "num": "adalk-ed326408",
+    "date_str": "2026-08-11",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0\u0db8 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0dc3\u0dca\u0dad\u0dba\u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0\u0db8-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc4\u0dc3\u0dca\u0dad\u0dba\u0d9a\u0dca-\u0db6\u0dc0\u0da7-\u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dbd\u0dcf/11-423709",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786445674.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-tamilmirrorlk-25ceba7d",
     "num": "tamilmirrorlk-25ceba7d",
     "date_str": "2026-08-11",
@@ -11742,6 +11753,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-11-adalk-dd611e4a",
+    "num": "adalk-dd611e4a",
+    "date_str": "2026-08-11",
+    "description": "\u0da0\u0dd3\u0db1 - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db6\u0db3\u0dad\u0dcf\u0dc0\u0dbd\u0da7 \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba\u0d9a\u0dca \u0d8b\u0daf\u0dcf\u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1---\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db6\u0db3\u0dad\u0dcf\u0dc0\u0dbd\u0da7-\u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca-\u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba\u0d9a\u0dca-\u0d8b\u0daf\u0dcf\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-423711",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786457902.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-11-dailymirrorlk-1acb9e84",
     "num": "dailymirrorlk-1acb9e84",
     "date_str": "2026-08-11",
@@ -11750,5 +11772,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786458758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-8fd0a0e0",
+    "num": "tamilmirrorlk-8fd0a0e0",
+    "date_str": "2026-08-11",
+    "description": "\u201c\u0b9a\u0bc0\u0ba9\u0bbe - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0b9f\u0bcd\u0baa\u0bc1\u0bb1\u0bb5\u0bc8 \u0b89\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bc7\u0ba9\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9\u0bbe-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba8\u0b9f\u0bcd\u0baa\u0bc1\u0bb1\u0bb5\u0bc8-\u0b89\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bc7\u0ba9\u0bcd/175-381248",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786462935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-72e2649f",
+    "num": "tamilmirrorlk-72e2649f",
+    "date_str": "2026-08-11",
+    "description": "\u0bb5\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb2\u0bcd\u0bb2\u0bae\u0bcd-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bb2\u0bbf/175-381249",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786463839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-dailymirrorlk-e9625b76",
+    "num": "dailymirrorlk-e9625b76",
+    "date_str": "2026-08-11",
+    "description": "CCCC explores further investment opportunities in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCCC-explores-further-investment-opportunities-in-Sri-Lanka/108-347922",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786464892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-11-tamilmirrorlk-e37a1a06",
+    "num": "tamilmirrorlk-e37a1a06",
+    "date_str": "2026-08-11",
+    "description": "\u0bae\u0bc6\u0b95\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd ; \u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc6\u0b95\u0b9a\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381250",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786465654.0
   }
 ]
