@@ -13084,6 +13084,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-e3e7e563",
+    "num": "adalk-e3e7e563",
+    "date_str": "2026-08-12",
+    "description": "\u0db8\u0dda\u0d9a \u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dc0 \u0d9a\u0dbb\u0db1 \u0dc3\u0da7\u0db1\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dda\u0d9a-\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca-\u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dc0-\u0d9a\u0dbb\u0db1-\u0dc3\u0da7\u0db1\u0d9a\u0dca-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-423727",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786533805.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-12-dailymirrorlk-74e0de04",
     "num": "dailymirrorlk-74e0de04",
     "date_str": "2026-08-12",
@@ -13114,5 +13125,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786537600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-559712f7",
+    "num": "tamilmirrorlk-559712f7",
+    "date_str": "2026-08-12",
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf \u0bb5\u0baf\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd BASL \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0ba8\u0bc0\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf-\u0bb5\u0baf\u0ba4\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-BASL-\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8/150-381335",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786538495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-cf5c8a0f",
+    "num": "tamilmirrorlk-cf5c8a0f",
+    "date_str": "2026-08-12",
+    "description": "7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/7-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-381336",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786538963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-50695d1f",
+    "num": "dailymirrorlk-50695d1f",
+    "date_str": "2026-08-12",
+    "description": "Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Zhu-Rongji-Chinese-premier-who-cajoled-economy-into-modern-era-dies-at-97/108-347989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786539395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-7c75d1dc",
+    "num": "dailymirrorlk-7c75d1dc",
+    "date_str": "2026-08-12",
+    "description": "Backhoe Saman\u2019s mother reportedly injured in shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Backhoe-Samans-mother-reportedly-injured-in-shooting/108-347990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786540962.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-719ab12f",
+    "num": "dailymirrorlk-719ab12f",
+    "date_str": "2026-08-12",
+    "description": "President says judges\u2019 retirement age extension not aimed at any individual",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-says-judges-retirement-age-extension-not-aimed-at-any-individual/108-347991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786542800.0
   }
 ]
