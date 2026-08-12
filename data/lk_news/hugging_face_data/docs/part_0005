@@ -12842,6 +12842,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-6ed05d29",
+    "num": "adalk-6ed05d29",
+    "date_str": "2026-08-12",
+    "description": "\u0dc3\u0dd4\u0d9c\u0dd3\u0dc2\u0dca\u0dc0\u0dbb\u0da7 \u0d87\u0db4 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd4\u0d9c\u0dd3\u0dc2\u0dca\u0dc0\u0dbb\u0da7-\u0d87\u0db4-\u0db1\u0dd1/11-423723",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786519989.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-12-dailymirrorlk-10f89d99",
     "num": "dailymirrorlk-10f89d99",
     "date_str": "2026-08-12",
@@ -12894,5 +12905,115 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786523415.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-c21df964",
+    "num": "dailymirrorlk-c21df964",
+    "date_str": "2026-08-12",
+    "description": "Japan sounds alarm as North Korea launches suspected ballistic missile",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Japan-sounds-alarm-as-North-Korea-launches-suspected-ballistic-missile/108-347981",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786525387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-f71109eb",
+    "num": "tamilmirrorlk-f71109eb",
+    "date_str": "2026-08-12",
+    "description": "\u0b95\u0bbf\u0bb3\u0bbe\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9c\u0bcb\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b95\u0bbf\u0bb3\u0bbe\u0b9a\u0bbf\u0b95\u0bcd-\u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4-\u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0-\u0b9c\u0bcb\u0b9f\u0bbf/53-381285",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786525952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-83bac453",
+    "num": "tamilmirrorlk-83bac453",
+    "date_str": "2026-08-12",
+    "description": "\u0ba4\u0bbf\u0b95\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd \u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bbf\u0b95\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd-\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-381286",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786526817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-b24d02fd",
+    "num": "tamilmirrorlk-b24d02fd",
+    "date_str": "2026-08-12",
+    "description": "\u0b9a\u0bbe\u0b95\u0bbe \u0bb5\u0bb0\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd  \u2019\u0ba4\u0bc7\u0bb5\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0bb2\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b9a\u0bbe\u0b95\u0bbe-\u0bb5\u0bb0\u0bae\u0bcd-\u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bc7\u0bb5\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbe\u0bb2\u0bae\u0bcd/53-381288",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786527720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-012a35f3",
+    "num": "tamilmirrorlk-012a35f3",
+    "date_str": "2026-08-12",
+    "description": "\u0ba4\u0bbe\u0baf\u0bbe\u0bb0\u0bcd \u0bae\u0bb0\u0ba3 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd  \u0b95\u0bbe\u0bae\u0bc6\u0b9f\u0bbf \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba4\u0bbe\u0baf\u0bbe\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf-\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-\u0b95\u0bbe\u0bae\u0bc6\u0b9f\u0bbf-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8/54-381289",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786528113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-84e186c5",
+    "num": "dailymirrorlk-84e186c5",
+    "date_str": "2026-08-12",
+    "description": "Pramodya to take legal action over premature termination of tenure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pramodya-to-take-legal-action-over-premature-termination-of-tenure/108-347983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786528224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-1b822708",
+    "num": "dailymirrorlk-1b822708",
+    "date_str": "2026-08-12",
+    "description": "Government trying to disable Judiciary and create dictatorship: Sajith",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-trying-to-disable-Judiciary-and-create-dictatorship-Sajith/108-347984",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786528571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-9b1a396d",
+    "num": "tamilmirrorlk-9b1a396d",
+    "date_str": "2026-08-12",
+    "description": "\u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0bb5\u0bbe\u0bb4\u0bc1\u0bae\u0bcd 16 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7-\u0bb5\u0bbe\u0bb4\u0bc1\u0bae\u0bcd-16-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-381291",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786529761.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-e7d63ee6",
+    "num": "dailymirrorlk-e7d63ee6",
+    "date_str": "2026-08-12",
+    "description": "Court finds favouritism, illegality in Peradeniya lecturer selection",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-finds-favouritism-illegality-in-Peradeniya-lecturer-selection/108-347985",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786529784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-e4fb2cc4",
+    "num": "tamilmirrorlk-e4fb2cc4",
+    "date_str": "2026-08-12",
+    "description": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baa\u0bcd-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-381292",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786530360.0
   }
 ]
