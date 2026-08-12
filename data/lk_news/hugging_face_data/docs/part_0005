@@ -12124,5 +12124,159 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1786487442.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-e1c73e11",
+    "num": "dailyftlk-e1c73e11",
+    "date_str": "2026-08-12",
+    "description": "International Youth Day 2026 - Turning shared aspirations into AI-powered future",
+    "url_metadata": "https://www.ft.lk/columns/International-Youth-Day-2026-Turning-shared-aspirations-into-AI-powered-future/4-795877",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786488278.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-c71768d9",
+    "num": "dailyftlk-c71768d9",
+    "date_str": "2026-08-12",
+    "description": "Independence of judiciary and retirement age",
+    "url_metadata": "https://www.ft.lk/columns/Independence-of-judiciary-and-retirement-age/4-795878",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786488796.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-3a32164e",
+    "num": "dailyftlk-3a32164e",
+    "date_str": "2026-08-12",
+    "description": "Rethinking retirement age: A win-win solution for Sri Lanka\u2019s ageing workforce",
+    "url_metadata": "https://www.ft.lk/columns/Rethinking-retirement-age-A-win-win-solution-for-Sri-Lanka-s-ageing-workforce/4-795885",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786491147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-c2c659e1",
+    "num": "dailyftlk-c2c659e1",
+    "date_str": "2026-08-12",
+    "description": "Japan- Sri Lanka Economic Corridor: Let\u2019s not miss this opportunity too",
+    "url_metadata": "https://www.ft.lk/columns/Japan-Sri-Lanka-Economic-Corridor-Let-s-not-miss-this-opportunity-too/4-795886",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786492184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-2d3f4420",
+    "num": "dailyftlk-2d3f4420",
+    "date_str": "2026-08-12",
+    "description": "Arjuna Samaratunga joins ACME, CM Holdings, York Arcade Boards",
+    "url_metadata": "https://www.ft.lk/business/Arjuna-Samaratunga-joins-ACME-CM-Holdings-York-Arcade-Boards/34-795893",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786493816.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-30cbcbff",
+    "num": "dailyftlk-30cbcbff",
+    "date_str": "2026-08-12",
+    "description": "SITREK Group celebrates 49 years of excellence at Annual Awards Ceremony",
+    "url_metadata": "https://www.ft.lk/business/SITREK-Group-celebrates-49-years-of-excellence-at-Annual-Awards-Ceremony/34-795894",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786493901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-a0016946",
+    "num": "dailyftlk-a0016946",
+    "date_str": "2026-08-12",
+    "description": "Vitol Asia and Aditya Birla get petrol, diesel and crude contracts",
+    "url_metadata": "https://www.ft.lk/business/Vitol-Asia-and-Aditya-Birla-get-petrol-diesel-and-crude-contracts/34-795895",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786493918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-6981d953",
+    "num": "dailyftlk-6981d953",
+    "date_str": "2026-08-12",
+    "description": "Cabinet clears construction of three new fuel storage tanks at Muthurajawela",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-clears-construction-of-three-new-fuel-storage-tanks-at-Muthurajawela/34-795896",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-df3ea7a5",
+    "num": "dailyftlk-df3ea7a5",
+    "date_str": "2026-08-12",
+    "description": "Official poverty line rises to  Rs. 17,592 in June",
+    "url_metadata": "https://www.ft.lk/news/Official-poverty-line-rises-to-Rs-17-592-in-June/56-795898",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-8ecd1b95",
+    "num": "dailyftlk-8ecd1b95",
+    "date_str": "2026-08-12",
+    "description": "Cabinet approves Rs. 800 m equity injection for Lanka Metro Transit",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-800-m-equity-injection-for-Lanka-Metro-Transit/56-795899",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494363.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-a62c993e",
+    "num": "dailyftlk-a62c993e",
+    "date_str": "2026-08-12",
+    "description": "Ajman Crown Prince receives Ambassador of Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Ajman-Crown-Prince-receives-Ambassador-of-Sri-Lanka/56-795900",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-9d1c775d",
+    "num": "dailyftlk-9d1c775d",
+    "date_str": "2026-08-12",
+    "description": "New Ambassador Saman Chandrasiri presents credentials to Israeli President",
+    "url_metadata": "https://www.ft.lk/news/New-Ambassador-Saman-Chandrasiri-presents-credentials-to-Israeli-President/56-795901",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494535.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-b3304495",
+    "num": "dailyftlk-b3304495",
+    "date_str": "2026-08-12",
+    "description": "Cardinal Ranjith says Church opposes death penalty, reiterates call for Easter attacks justice",
+    "url_metadata": "https://www.ft.lk/news/Cardinal-Ranjith-says-Church-opposes-death-penalty-reiterates-call-for-Easter-attacks-justice/56-795902",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailyftlk-c1cf3c37",
+    "num": "dailyftlk-c1cf3c37",
+    "date_str": "2026-08-12",
+    "description": "Sajith proposes Sri Lankan elephant as National Animal",
+    "url_metadata": "https://www.ft.lk/news/Sajith-proposes-Sri-Lankan-elephant-as-National-Animal/56-795903",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786494705.0
   }
 ]
