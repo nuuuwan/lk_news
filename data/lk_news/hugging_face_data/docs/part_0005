@@ -13161,6 +13161,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-5168a5a9",
+    "num": "dailymirrorlk-5168a5a9",
+    "date_str": "2026-08-12",
+    "description": "Update: Backhoe Saman\u2019s mother killed in shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-Backhoe-Samans-mother-killed-in-shooting/108-347990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786540962.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-12-dailymirrorlk-7c75d1dc",
     "num": "dailymirrorlk-7c75d1dc",
     "date_str": "2026-08-12",
@@ -13172,6 +13183,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-a68d3fe5",
+    "num": "adalk-a68d3fe5",
+    "date_str": "2026-08-12",
+    "description": "\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dba\u0dc3 \u0daf\u0dd2\u0dbb\u0dca\u0d9d \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dcf \u0d9c\u0dad\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dba\u0dc3-\u0daf\u0dd2\u0dbb\u0dca\u0d9d-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dcf-\u0d9c\u0dad\u0dca-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-423728",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786542124.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-12-dailymirrorlk-719ab12f",
     "num": "dailymirrorlk-719ab12f",
     "date_str": "2026-08-12",
@@ -13180,5 +13202,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786542800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-9be2d0f9",
+    "num": "adalk-9be2d0f9",
+    "date_str": "2026-08-12",
+    "description": "\u0db6\u0dd0\u0d9a\u0ddd \u0dc3\u0db8\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dc0 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0db6\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd0\u0d9a\u0ddd-\u0dc3\u0db8\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dc0-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0db6\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-423729",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786545778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-d09d1fef",
+    "num": "dailymirrorlk-d09d1fef",
+    "date_str": "2026-08-12",
+    "description": "Police warn against fake news following viral Kohuwala image",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-warn-against-fake-news-following-viral-Kohuwala-image/108-347992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786547443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-df217f6e",
+    "num": "tamilmirrorlk-df217f6e",
+    "date_str": "2026-08-12",
+    "description": "\u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bcb \u0b9a\u0bae\u0ba9\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bcb-\u0b9a\u0bae\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbe\u0baf\u0bcd-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-381337",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786548020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-650f080b",
+    "num": "dailymirrorlk-650f080b",
+    "date_str": "2026-08-12",
+    "description": "Messi unsure he will play \u2019much longer\u2019 after father\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-unsure-he-will-play-much-longer-after-fathers-death/108-347993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786548980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-1130a818",
+    "num": "tamilmirrorlk-1130a818",
+    "date_str": "2026-08-12",
+    "description": "\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd  \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd \u200b; \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381338",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786549142.0
   }
 ]
