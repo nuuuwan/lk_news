@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_00:09:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_02:03:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,149** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-12-tamilmirrorlk-1130a818",
-    "num": "tamilmirrorlk-1130a818",
-    "date_str": "2026-08-12",
-    "description": "\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd  \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd \u200b; \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381338",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786549142.0
+    "doc_id": "2026-08-13-dailymirrorlk-37f0fee7",
+    "num": "dailymirrorlk-37f0fee7",
+    "date_str": "2026-08-13",
+    "description": "Cabinet approves coal supply contracts for Lakvijaya Power Plant",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cabinet-approves-coal-supply-contracts-for-Lakvijaya-Power-Plant/273-348012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786566139.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-13 | `dailymirrorlk-37f0fee7` | Cabinet approves coal supply contracts for Lakvijaya Power Plant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-37f0fee7)
+- 2026-08-13 | `dailymirrorlk-f7882bd9` | Buying sentiment remains strong in secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-f7882bd9)
+- 2026-08-13 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-821a32a1)
+- 2026-08-13 | `dailymirrorlk-4af7f2dd` | SL poultry producers honoured as Global Sustainability Leaders at Soy Connext 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-4af7f2dd)
+- 2026-08-13 | `dailymirrorlk-df37144d` | Civic impact platform ‘Touli’ launches in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-df37144d)
+- 2026-08-13 | `dailymirrorlk-a1634578` | Theekshana Jayarathna appointed CEO of TWCDM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-a1634578)
+- 2026-08-13 | `dailymirrorlk-97c701d2` | Diva Fresh introduces improved solution for day-to-day stains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-97c701d2)
+- 2026-08-13 | `dailymirrorlk-06789842` | Crescent recognised for purpose-driven storytelling at 31st Sumathi Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-06789842)
+- 2026-08-13 | `dailymirrorlk-ab6413f1` | Fly A World Consultants recognised for excellence in travel consultancy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-ab6413f1)
+- 2026-08-13 | `dailymirrorlk-70439826` | Ceylon Chamber-Maldives Business Chamber MoU to expand bilateral business opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-70439826)
+- 2026-08-13 | `dailymirrorlk-5df3b8e9` | SHRM strengthens Sri Lanka presence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-5df3b8e9)
+- 2026-08-13 | `dailymirrorlk-a23a4020` | EY to help financial institutions unlock next phase of sustainability reporting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-a23a4020)
+- 2026-08-13 | `dailymirrorlk-261d2d24` | Sri Lanka-China Business Council holds 25th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-261d2d24)
+- 2026-08-13 | `dailymirrorlk-d18f4a90` | LOLC Finance becomes country’s first financial institution to achieve ‘WaterConscious’ certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d18f4a90)
+- 2026-08-13 | `dailymirrorlk-d71535d9` | Amãna Bank marks 15th anniversary with commemorative cover and stamp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d71535d9)
+- 2026-08-13 | `dailymirrorlk-8bc991a8` | Cargills Food City’s ‘Shop & Win’ winner drives away in brand-new BAW E7 electric car | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-8bc991a8)
+- 2026-08-13 | `dailymirrorlk-710cbf54` | Screenline Kandy ISO certification advances standards-led apparel manufacturing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-710cbf54)
+- 2026-08-13 | `dailymirrorlk-9961b27c` | HNB Finance secures CRIB Silver for disciplined credit data governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-9961b27c)
+- 2026-08-13 | `dailymirrorlk-a7fc369a` | Seylan Cards rewards programme offers chance to win return air tickets to Malaysia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-a7fc369a)
 - 2026-08-12 | `tamilmirrorlk-1130a818` | வைரல்  புகைப்படம் ​; பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-1130a818)
-- 2026-08-12 | `dailymirrorlk-650f080b` | Messi unsure he will play ’much longer’ after father’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-650f080b)
-- 2026-08-12 | `tamilmirrorlk-df217f6e` | பெக்கோ சமனின் தாய் சுட்டுக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-df217f6e)
-- 2026-08-12 | `dailymirrorlk-d09d1fef` | Police warn against fake news following viral Kohuwala image | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-d09d1fef)
-- 2026-08-12 | `adalk-9be2d0f9` | බැකෝ සමන්ගේ මව වෙඩි තබා ඝාතනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-9be2d0f9)
-- 2026-08-12 | `dailymirrorlk-719ab12f` | President says judges’ retirement age extension not aimed at any individual | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-719ab12f)
-- 2026-08-12 | `adalk-a68d3fe5` | විනිසුරු විශ්‍රාම වයස දිර්ඝ කිරීම පුද්ගලයෙක් අරඹයා ගත් තීරණයක් නෙමෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-a68d3fe5)
-- 2026-08-12 | `dailymirrorlk-7c75d1dc` | Backhoe Saman’s mother reportedly injured in shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-7c75d1dc)
-- 2026-08-12 | `dailymirrorlk-5168a5a9` | Update: Backhoe Saman’s mother killed in shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-5168a5a9)
-- 2026-08-12 | `dailymirrorlk-50695d1f` | Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-50695d1f)
-- 2026-08-12 | `tamilmirrorlk-cf5c8a0f` | 7  மாவட்ட மக்களின் கவனத்துக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-cf5c8a0f)
-- 2026-08-12 | `tamilmirrorlk-559712f7` | நீதிபதிகளின் ஓய்வூதிய வயது திருத்தத்தை மீளாய்வு செய்யும் BASL நம்பிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-559712f7)
-- 2026-08-12 | `dailymirrorlk-08959889` | BASL urges President to consult experts before extending judges’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-08959889)
-- 2026-08-12 | `tamilmirrorlk-7fb9bc1b` | பெற்றோல் அடித்த அரச ஊழியருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-7fb9bc1b)
-- 2026-08-12 | `dailymirrorlk-74e0de04` | Iran refutes Trump’s claim to ‘control’ Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-74e0de04)
-- 2026-08-12 | `adalk-e3e7e563` | මේක කාටවත් විරුද්ධව කරන සටනක් නෙමෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-e3e7e563)
-- 2026-08-12 | `dailymirrorlk-403225e8` | Mahanayake Thera says President has not responded to letter on judges’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-403225e8)
-- 2026-08-12 | `adalk-7a6c174d` | නිරෝෂන් දික්වැල්ල යළිත් ජාතික කණ්ඩායමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-7a6c174d)
-- 2026-08-12 | `tamilmirrorlk-83549e3a` | உயிரிழந்த சிறுத்தை மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-83549e3a)
-- 2026-08-12 | `tamilmirrorlk-15c86d1d` | விமானத்தின் தவறான புறப்பாடு:  அதிர்ஷ்டவசமாகத் தப்பிய விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-15c86d1d)
 
 ---
 

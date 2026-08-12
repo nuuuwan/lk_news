@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-13 00:08:03",
-  "n_docs": 127149,
+  "time_updated": "2026-08-13 02:02:36",
+  "n_docs": 127168,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127149,
+  "n_docs_with_text": 127168,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-08-12",
-  "dataset_size": 1981286286,
+  "date_str_max": "2026-08-13",
+  "dataset_size": 1981352345,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-12-tamilmirrorlk-1130a818",
-    "num": "tamilmirrorlk-1130a818",
-    "date_str": "2026-08-12",
-    "description": "\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd  \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd \u200b; \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381338",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786549142.0
+    "doc_id": "2026-08-13-dailymirrorlk-37f0fee7",
+    "num": "dailymirrorlk-37f0fee7",
+    "date_str": "2026-08-13",
+    "description": "Cabinet approves coal supply contracts for Lakvijaya Power Plant",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cabinet-approves-coal-supply-contracts-for-Lakvijaya-Power-Plant/273-348012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786566139.0
   }
 }
