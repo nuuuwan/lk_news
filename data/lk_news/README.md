@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_02:03:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_04:03:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-13-dailymirrorlk-37f0fee7",
-    "num": "dailymirrorlk-37f0fee7",
+    "doc_id": "2026-08-13-tamilmirrorlk-5cc8da8a",
+    "num": "tamilmirrorlk-5cc8da8a",
     "date_str": "2026-08-13",
-    "description": "Cabinet approves coal supply contracts for Lakvijaya Power Plant",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Cabinet-approves-coal-supply-contracts-for-Lakvijaya-Power-Plant/273-348012",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786566139.0
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381342",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786571192.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-13 | `tamilmirrorlk-5cc8da8a` | ஜனாதிபதிக்கும் சட்டத்தரணிகள் சங்கத்திற்கும் இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-5cc8da8a)
+- 2026-08-13 | `dailymirrorlk-1a8c2696` | “NPP which came with many promises is dragging country towards a dictatorship”  MP Ranjith Madduma Bandara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-1a8c2696)
+- 2026-08-13 | `dailymirrorlk-bfc8add5` | The iconic MiG-21:  Interceptor which gave third world air forces a fighting chance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-bfc8add5)
+- 2026-08-13 | `dailymirrorlk-d7b7c970` | Can the NPP implement  the death  penalty  again? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d7b7c970)
+- 2026-08-13 | `dailymirrorlk-43be63a4` | Why Sri Lanka needs to protect its remaining elephants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-43be63a4)
+- 2026-08-13 | `dailymirrorlk-b0b18437` | Why re-introduce the death penalty now? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-b0b18437)
+- 2026-08-13 | `dailymirrorlk-e1286177` | Sri Lanka-EU put GSP+ transition at centre of investment talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-e1286177)
+- 2026-08-13 | `dailymirrorlk-2cf48fbb` | Hayleys more than doubles 1Q attributable profit to Rs.3.6bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-2cf48fbb)
+- 2026-08-13 | `dailymirrorlk-944d7123` | Industry Ministry-UNDP to establish expert unit to support industrial reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-944d7123)
+- 2026-08-13 | `dailymirrorlk-f8a72785` | UN Global Compact launches coalition to take sustainability into SL boardrooms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-f8a72785)
 - 2026-08-13 | `dailymirrorlk-37f0fee7` | Cabinet approves coal supply contracts for Lakvijaya Power Plant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-37f0fee7)
 - 2026-08-13 | `dailymirrorlk-f7882bd9` | Buying sentiment remains strong in secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-f7882bd9)
 - 2026-08-13 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-821a32a1)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-08-13 | `dailymirrorlk-06789842` | Crescent recognised for purpose-driven storytelling at 31st Sumathi Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-06789842)
 - 2026-08-13 | `dailymirrorlk-ab6413f1` | Fly A World Consultants recognised for excellence in travel consultancy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-ab6413f1)
 - 2026-08-13 | `dailymirrorlk-70439826` | Ceylon Chamber-Maldives Business Chamber MoU to expand bilateral business opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-70439826)
-- 2026-08-13 | `dailymirrorlk-5df3b8e9` | SHRM strengthens Sri Lanka presence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-5df3b8e9)
-- 2026-08-13 | `dailymirrorlk-a23a4020` | EY to help financial institutions unlock next phase of sustainability reporting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-a23a4020)
-- 2026-08-13 | `dailymirrorlk-261d2d24` | Sri Lanka-China Business Council holds 25th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-261d2d24)
-- 2026-08-13 | `dailymirrorlk-d18f4a90` | LOLC Finance becomes country’s first financial institution to achieve ‘WaterConscious’ certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d18f4a90)
-- 2026-08-13 | `dailymirrorlk-d71535d9` | Amãna Bank marks 15th anniversary with commemorative cover and stamp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d71535d9)
-- 2026-08-13 | `dailymirrorlk-8bc991a8` | Cargills Food City’s ‘Shop & Win’ winner drives away in brand-new BAW E7 electric car | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-8bc991a8)
-- 2026-08-13 | `dailymirrorlk-710cbf54` | Screenline Kandy ISO certification advances standards-led apparel manufacturing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-710cbf54)
-- 2026-08-13 | `dailymirrorlk-9961b27c` | HNB Finance secures CRIB Silver for disciplined credit data governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-9961b27c)
-- 2026-08-13 | `dailymirrorlk-a7fc369a` | Seylan Cards rewards programme offers chance to win return air tickets to Malaysia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-a7fc369a)
-- 2026-08-12 | `tamilmirrorlk-1130a818` | வைரல்  புகைப்படம் ​; பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-1130a818)
 
 ---
 
