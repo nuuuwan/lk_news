@@ -12897,6 +12897,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-0286171e",
+    "num": "adalk-0286171e",
+    "date_str": "2026-08-12",
+    "description": "\u0db8\u0dc4\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d91\u0dc0\u0db4\u0dd4 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0da7 \u0dc0\u0dd9\u0da0\u0dca\u0da0 \u0daf\u0dd9\u0dba\u0d9a\u0dca \u0db1\u0dd1 - GL",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0db1\u0dcf\u0dba\u0d9a-\u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0d91\u0dc0\u0db4\u0dd4-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0da7-\u0dc0\u0dd9\u0da0\u0dca\u0da0-\u0daf\u0dd9\u0dba\u0d9a\u0dca-\u0db1\u0dd1---GL/11-423724",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786522909.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-12-dailymirrorlk-fa31ed25",
     "num": "dailymirrorlk-fa31ed25",
     "date_str": "2026-08-12",
@@ -13015,5 +13026,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786530360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-e8d34911",
+    "num": "tamilmirrorlk-e8d34911",
+    "date_str": "2026-08-12",
+    "description": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bc7\u0bbe\u0bb2\u0bcd - \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u2018\u0bb5\u0bbf\u0ba4\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bbe\u0ba4\u0bc8 \u0bb5\u0bb0\u0bbf\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bc7\u0bbe\u0bb2\u0bcd-\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba4\u0bb5\u0bc8-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b85\u0ba9\u0bbe\u0ba4\u0bc8-\u0bb5\u0bb0\u0bbf/175-381296",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786530703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-15c86d1d",
+    "num": "tamilmirrorlk-15c86d1d",
+    "date_str": "2026-08-12",
+    "description": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1:  \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb7\u0bcd\u0b9f\u0bb5\u0b9a\u0bae\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9-\u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb7\u0bcd\u0b9f\u0bb5\u0b9a\u0bae\u0bbe\u0b95\u0ba4\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/50-381304",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786531279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-83549e3a",
+    "num": "tamilmirrorlk-83549e3a",
+    "date_str": "2026-08-12",
+    "description": "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-381312",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786532565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-adalk-7a6c174d",
+    "num": "adalk-7a6c174d",
+    "date_str": "2026-08-12",
+    "description": "\u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0db1\u0dca \u0daf\u0dd2\u0d9a\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0db1\u0dd2\u0dbb\u0ddd\u0dc2\u0db1\u0dca-\u0daf\u0dd2\u0d9a\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7/9-423726",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786532604.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-403225e8",
+    "num": "dailymirrorlk-403225e8",
+    "date_str": "2026-08-12",
+    "description": "Mahanayake Thera says President has not responded to letter on judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahanayake-Thera-says-President-has-not-responded-to-letter-on-judges-retirement-age/108-347986",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786533372.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-74e0de04",
+    "num": "dailymirrorlk-74e0de04",
+    "date_str": "2026-08-12",
+    "description": "Iran refutes Trump\u2019s claim to \u2018control\u2019 Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-refutes-Trumps-claim-to-control-Hormuz/108-347987",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786535312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-tamilmirrorlk-7fb9bc1b",
+    "num": "tamilmirrorlk-7fb9bc1b",
+    "date_str": "2026-08-12",
+    "description": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0b85\u0bb0\u0b9a-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-381333",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786536680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-12-dailymirrorlk-08959889",
+    "num": "dailymirrorlk-08959889",
+    "date_str": "2026-08-12",
+    "description": "BASL urges President to consult experts before extending judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-urges-President-to-consult-experts-before-extending-judges-retirement-age/108-347988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786537600.0
   }
 ]

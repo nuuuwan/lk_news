@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--12_16:11:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--12_18:05:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,127** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,136** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-12-tamilmirrorlk-e4fb2cc4",
-    "num": "tamilmirrorlk-e4fb2cc4",
+    "doc_id": "2026-08-12-dailymirrorlk-08959889",
+    "num": "dailymirrorlk-08959889",
     "date_str": "2026-08-12",
-    "description": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baa\u0bcd-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-381292",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786530360.0
+    "description": "BASL urges President to consult experts before extending judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-urges-President-to-consult-experts-before-extending-judges-retirement-age/108-347988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786537600.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-12 | `dailymirrorlk-08959889` | BASL urges President to consult experts before extending judges’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-08959889)
+- 2026-08-12 | `tamilmirrorlk-7fb9bc1b` | பெற்றோல் அடித்த அரச ஊழியருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-7fb9bc1b)
+- 2026-08-12 | `dailymirrorlk-74e0de04` | Iran refutes Trump’s claim to ‘control’ Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-74e0de04)
+- 2026-08-12 | `dailymirrorlk-403225e8` | Mahanayake Thera says President has not responded to letter on judges’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-403225e8)
+- 2026-08-12 | `adalk-7a6c174d` | නිරෝෂන් දික්වැල්ල යළිත් ජාතික කණ්ඩායමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-7a6c174d)
+- 2026-08-12 | `tamilmirrorlk-83549e3a` | உயிரிழந்த சிறுத்தை மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-83549e3a)
+- 2026-08-12 | `tamilmirrorlk-15c86d1d` | விமானத்தின் தவறான புறப்பாடு:  அதிர்ஷ்டவசமாகத் தப்பிய விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-15c86d1d)
+- 2026-08-12 | `tamilmirrorlk-e8d34911` | பெட்ரோல் - டீசல் மீது ‘விதவை மற்றும் அனாதை வரி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-e8d34911)
 - 2026-08-12 | `tamilmirrorlk-e4fb2cc4` | பேராதனைப் பல்கலைக்கழகத்திற்கு அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-e4fb2cc4)
 - 2026-08-12 | `dailymirrorlk-e7d63ee6` | Court finds favouritism, illegality in Peradeniya lecturer selection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-e7d63ee6)
 - 2026-08-12 | `tamilmirrorlk-9b1a396d` | தண்ணீருக்குள் மட்டுமே வாழும் 16 வயது சிறுவன் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-9b1a396d)
@@ -52,15 +60,7 @@ A collection of lk_news documents.
 - 2026-08-12 | `tamilmirrorlk-f71109eb` | கிளாசிக் கவர்ச்சியுடன் இணைந்த நட்சத்திர ஜோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-f71109eb)
 - 2026-08-12 | `dailymirrorlk-c21df964` | Japan sounds alarm as North Korea launches suspected ballistic missile | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-c21df964)
 - 2026-08-12 | `dailymirrorlk-fa31ed25` | Dikwella makes Test return as Sri Lanka name India squad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-fa31ed25)
-- 2026-08-12 | `tamilmirrorlk-e09b6bf4` | ரொனால்டோவின் கேரளா பாணி திருமணம் இணையத்தில் வைரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-e09b6bf4)
-- 2026-08-12 | `dailymirrorlk-f83f7980` | 22nd Amendment: Sujeewa makes Chief Prelates’ letter public | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-f83f7980)
-- 2026-08-12 | `tamilmirrorlk-9e5d7501` | டில்வினை சந்தித்தார் சந்தோஷ் ஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-9e5d7501)
-- 2026-08-12 | `dailymirrorlk-10f89d99` | Yoshitha Rajapaksa leaves CID | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-10f89d99)
-- 2026-08-12 | `adalk-6ed05d29` | සුගීෂ්වරට ඇප නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-6ed05d29)
-- 2026-08-12 | `tamilmirrorlk-37e7d3f7` | YouTube கொண்டு வந்த Rules! அதிர்ச்சியில் கிரியேட்டர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-37e7d3f7)
-- 2026-08-12 | `tamilmirrorlk-5c580d39` | மடு திருத்தலத்தின் பாரம்பரியங்களைப் பாதுகாக்க வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-tamilmirrorlk-5c580d39)
-- 2026-08-12 | `adalk-2e03eb39` | ගුවන් යානා මාරුවක් වූ බව ට්‍රම්ප් කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-2e03eb39)
-- 2026-08-12 | `dailymirrorlk-3ecdc54a` | Taliban have barred 2.4 million Afghan girls from school since 2021, UNESCO says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-dailymirrorlk-3ecdc54a)
+- 2026-08-12 | `adalk-0286171e` | මහනායක හිමිවරු ජනපතිට එවපු ලිපියට වෙච්ච දෙයක් නෑ - GL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-12-adalk-0286171e)
 
 ---
 
