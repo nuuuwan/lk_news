@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_20:19:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--13_22:10:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,250** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,256** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-13-dailymirrorlk-3bf20fdc",
-    "num": "dailymirrorlk-3bf20fdc",
+    "doc_id": "2026-08-13-tamilmirrorlk-7de9ba51",
+    "num": "tamilmirrorlk-7de9ba51",
     "date_str": "2026-08-13",
-    "description": "Train services delayed on Main Line following breakdown",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-services-delayed-on-Main-Line-following-breakdown/108-348067",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786630980.0
+    "description": "\u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd  \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1/175-381378",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786638046.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-13 | `tamilmirrorlk-7de9ba51` | கத்தோலிக்கப் பாடசாலைகளின்  பிரச்சினைகளுக்குத் தீர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-7de9ba51)
+- 2026-08-13 | `tamilmirrorlk-6e368251` | படம் வெற்றி பெற மொட்டை அடித்து சாமி தரிசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-6e368251)
+- 2026-08-13 | `dailymirrorlk-65784230` | No exam papers opened or leaked: Exams chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-65784230)
+- 2026-08-13 | `dailymirrorlk-dfff80fa` | Govt. moves to break Sri Lanka’s exam-centred education culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-dfff80fa)
+- 2026-08-13 | `dailymirrorlk-bc43dd10` | Woman abandons 4-year-old girl in Wattegama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-bc43dd10)
+- 2026-08-13 | `tamilmirrorlk-493339d4` | உயர்தரப் பரீட்சை வினாத்தாள் குழப்பம்:  கல்வி அமைச்சு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-493339d4)
 - 2026-08-13 | `dailymirrorlk-3bf20fdc` | Train services delayed on Main Line following breakdown | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-3bf20fdc)
 - 2026-08-13 | `dailymirrorlk-af567a5d` | Education Ministry probes Physics paper mix-up at Ambalantota A/L exam centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-af567a5d)
 - 2026-08-13 | `dailymirrorlk-d7afaf96` | Over 1,000 foreigners arrested in cybercrime raids this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-d7afaf96)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-08-13 | `adalk-a80c49d8` | නිළධාරීන් ලෙස පෙනී සිටි ඊශ්‍රායල් රැකියා ජාවාරම්කරුවන් කාර්යාංශය තුළදී අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-adalk-a80c49d8)
 - 2026-08-13 | `dailymirrorlk-836a6b73` | Dogs can distinguish between emotions in a human face, study shows | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-836a6b73)
 - 2026-08-13 | `adalk-3ebcabf1` | අවුරුදු හතරක දැරියක් ත්‍රී රෝද රථයකින්  ගෙනවිත් මහ මඟ දමා ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-adalk-3ebcabf1)
-- 2026-08-13 | `tamilmirrorlk-21f38a56` | ஷகிலா படுக்கையில் செய்தது என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-21f38a56)
-- 2026-08-13 | `dailymirrorlk-012f7364` | Civil organisations form common platform to fight against 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-012f7364)
-- 2026-08-13 | `adalk-08659299` | එතුමා එතුමාගේ මතේ ඉන්නවා, අපි අපේ මතේ ඉන්නවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-adalk-08659299)
-- 2026-08-13 | `adalk-490ad6eb` | අතුරු වෛද්‍ය සේවයේ පාඨමාලා 8ට අයදුම්පත් කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-adalk-490ad6eb)
-- 2026-08-13 | `adalk-8b87e3f3` | යන්න වුණොත් යන්න ලෑස්තියි, පාස්කු පරීක්ෂණය නිසා ජීවිත අවධානමක් තිබෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-adalk-8b87e3f3)
-- 2026-08-13 | `tamilmirrorlk-a1dfd6b5` | வீதி​யோரத்தில் விடப்பட்ட சிறுமி மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-tamilmirrorlk-a1dfd6b5)
 
 ---
 
