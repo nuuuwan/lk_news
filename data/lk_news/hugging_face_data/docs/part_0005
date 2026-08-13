@@ -13576,5 +13576,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786571192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailyftlk-666e3cee",
+    "num": "dailyftlk-666e3cee",
+    "date_str": "2026-08-13",
+    "description": "BASL reiterates 22nd Amendment requires referendum, urges Govt. to withdraw Bill",
+    "url_metadata": "https://www.ft.lk/news/BASL-reiterates-22nd-Amendment-requires-referendum-urges-Govt-to-withdraw-Bill/56-795921",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786580733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailyftlk-41e84315",
+    "num": "dailyftlk-41e84315",
+    "date_str": "2026-08-13",
+    "description": "Sri Lanka seeks deeper India market access for gems, jewellery",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-seeks-deeper-India-market-access-for-gems-jewellery/34-795922",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786580855.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailyftlk-d6263214",
+    "num": "dailyftlk-d6263214",
+    "date_str": "2026-08-13",
+    "description": "Sri Lanka, EU convene high-level investment dialogue in Colombo",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-EU-convene-high-level-investment-dialogue-in-Colombo/34-795923",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786580934.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailyftlk-d636a27e",
+    "num": "dailyftlk-d636a27e",
+    "date_str": "2026-08-13",
+    "description": "Responsible business is resilient business \u2013 UN Global Compact Chief Sanda Ojiambo",
+    "url_metadata": "https://www.ft.lk/business/Responsible-business-is-resilient-business-UN-Global-Compact-Chief-Sanda-Ojiambo/34-795924",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786581360.0
   }
 ]
