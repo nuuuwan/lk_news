@@ -13909,6 +13909,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-b908754c",
+    "num": "adalk-b908754c",
+    "date_str": "2026-08-13",
+    "description": "\u0db0\u0dc0\u0dbd \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0dda \u0dc5\u0dcf\u0db6\u0dcf\u0dbd\u0db8 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dd2\u0dba \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db0\u0dc0\u0dbd-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0dda-\u0dc5\u0dcf\u0db6\u0dcf\u0dbd\u0db8-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dd2\u0dba-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-423738",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786597852.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-13-tamilmirrorlk-d8643124",
     "num": "tamilmirrorlk-d8643124",
     "date_str": "2026-08-13",
@@ -13917,6 +13928,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786597903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-2729dc3a",
+    "num": "adalk-2729dc3a",
+    "date_str": "2026-08-13",
+    "description": "\u0dbd\u0ddc\u0dbb\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d9c\u0dd0\u0da7\u0dd3 \u0dbb\u0dd2\u0dba \u0dc3\u0dc4\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0ddc\u0dbb\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d9c\u0dd0\u0da7\u0dd3-\u0dbb\u0dd2\u0dba-\u0dc3\u0dc4\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-423739",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786598068.0
   },
   {
     "doc_type": "lk_news",
@@ -13939,6 +13961,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786598652.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-1d0a4ea5",
+    "num": "tamilmirrorlk-1d0a4ea5",
+    "date_str": "2026-08-13",
+    "description": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0b9f\u0bb2\u0bcd \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0b9f\u0bb2\u0bcd-\u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bbe/91-381355",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786599575.0
   },
   {
     "doc_type": "lk_news",
@@ -13983,5 +14016,104 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786601423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-275e2be0",
+    "num": "tamilmirrorlk-275e2be0",
+    "date_str": "2026-08-13",
+    "description": "\u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb2\u0bb0\u0ba4\u0bcd\u0ba9 \u0b86\u0b9c\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4-\u0b95\u0bc1\u0bb2\u0bb0\u0ba4\u0bcd\u0ba9-\u0b86\u0b9c\u0bb0\u0bcd/175-381359",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786603982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-f6ea2ffd",
+    "num": "dailymirrorlk-f6ea2ffd",
+    "date_str": "2026-08-13",
+    "description": "Woman steals ATM cards to fund her honeymoon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Woman-steals-ATM-cards-to-fund-her-honeymoon/108-348037",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786603984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-bdadefbf",
+    "num": "dailymirrorlk-bdadefbf",
+    "date_str": "2026-08-13",
+    "description": "Trump spokeswoman Karoline Leavitt to step down",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-spokeswoman-Karoline-Leavitt-to-step-down/107-348038",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786604541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-9fa2aacd",
+    "num": "tamilmirrorlk-9fa2aacd",
+    "date_str": "2026-08-13",
+    "description": "\u2019\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bcb \u0b9a\u0bae\u0ba9\u0bcd\u2019 \u0b87\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bca\u0bb2\u0bc8: \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bcb-\u0b9a\u0bae\u0ba9\u0bcd-\u0b87\u0ba9\u0bcd-\u0ba4\u0bbe\u0baf\u0bbe\u0bb0\u0bcd-\u0b95\u0bca\u0bb2\u0bc8-\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381360",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786605464.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-8e4118cf",
+    "num": "dailymirrorlk-8e4118cf",
+    "date_str": "2026-08-13",
+    "description": "Feels-like temperature rises as dry weather persists",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Feels-like-temperature-rises-as-dry-weather-persists/108-348040",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786605639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-0d0fb683",
+    "num": "dailymirrorlk-0d0fb683",
+    "date_str": "2026-08-13",
+    "description": "Ambassador Dewi showcases Indonesian culture",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Ambassador-Dewi-showcases-Indonesian-culture/110-348051",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786607247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-c49c4c07",
+    "num": "dailymirrorlk-c49c4c07",
+    "date_str": "2026-08-13",
+    "description": "Colombia declares three days of mourning after deadly earthquake",
+    "url_metadata": "https://www.dailymirror.lk/international/Colombia-declares-three-days-of-mourning-after-deadly-earthquake/107-348053",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786607462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-e4efe3a7",
+    "num": "dailymirrorlk-e4efe3a7",
+    "date_str": "2026-08-13",
+    "description": "Sri Lanka names squad for Women\u2019s Asia Cup 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-names-squad-for-Womens-Asia-Cup-2026/108-348056",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786608434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-3c492192",
+    "num": "dailymirrorlk-3c492192",
+    "date_str": "2026-08-13",
+    "description": "Test series in Sri Lanka won\u2019t be easy, Gavaskar warns Indian team",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Test-series-in-Sri-Lanka-wont-be-easy-Gavaskar-warns-Indian-team/108-348057",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786610427.0
   }
 ]
