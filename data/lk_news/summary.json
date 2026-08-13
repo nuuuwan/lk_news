@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-13 14:18:43",
-  "n_docs": 127227,
+  "time_updated": "2026-08-13 16:11:12",
+  "n_docs": 127236,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127227,
+  "n_docs_with_text": 127236,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-13",
-  "dataset_size": 1982425084,
+  "dataset_size": 1982612855,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-13-dailymirrorlk-3c492192",
-    "num": "dailymirrorlk-3c492192",
+    "doc_id": "2026-08-13-dailymirrorlk-224dba8a",
+    "num": "dailymirrorlk-224dba8a",
     "date_str": "2026-08-13",
-    "description": "Test series in Sri Lanka won\u2019t be easy, Gavaskar warns Indian team",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Test-series-in-Sri-Lanka-wont-be-easy-Gavaskar-warns-Indian-team/108-348057",
+    "description": "Ready to risk office for change, says President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ready-to-risk-office-for-change-says-President/108-348062",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786610427.0
+    "time_ut": 1786616845.0
   }
 }

@@ -13964,6 +13964,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-90c0fbb4",
+    "num": "adalk-90c0fbb4",
+    "date_str": "2026-08-13",
+    "description": "\u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba \u0dc4\u0dd0\u0da9\u0d9a\u0dc5 \u0dad\u0dc0\u0dad\u0dca \u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba-\u0dc4\u0dd0\u0da9\u0d9a\u0dc5-\u0dad\u0dc0\u0dad\u0dca-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/11-423740",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786598867.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-13-tamilmirrorlk-1d0a4ea5",
     "num": "tamilmirrorlk-1d0a4ea5",
     "date_str": "2026-08-13",
@@ -13983,6 +13994,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786599575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-efcf7825",
+    "num": "adalk-efcf7825",
+    "date_str": "2026-08-13",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 91059, \u0db8\u0dbb\u0dab 68",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-91059--\u0db8\u0dbb\u0dab-68/11-423741",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786599599.0
   },
   {
     "doc_type": "lk_news",
@@ -14115,5 +14137,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786610427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-a1dfd6b5",
+    "num": "tamilmirrorlk-a1dfd6b5",
+    "date_str": "2026-08-13",
+    "description": "\u0bb5\u0bc0\u0ba4\u0bbf\u200b\u0baf\u0bcb\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0ba4\u0bbf-\u0baf\u0bcb\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381363",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786610795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-8b87e3f3",
+    "num": "adalk-8b87e3f3",
+    "date_str": "2026-08-13",
+    "description": "\u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca \u0dba\u0db1\u0dca\u0db1 \u0dbd\u0dd1\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dd2, \u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0dbd\u0dd1\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dd2--\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca-\u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf/11-423742",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786611552.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-012f7364",
+    "num": "dailymirrorlk-012f7364",
+    "date_str": "2026-08-13",
+    "description": "Civil organisations form common platform to fight against 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Civil-organisations-form-common-platform-to-fight-against-22A/108-348058",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786613361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-21f38a56",
+    "num": "tamilmirrorlk-21f38a56",
+    "date_str": "2026-08-13",
+    "description": "\u0bb7\u0b95\u0bbf\u0bb2\u0bbe \u0baa\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bb7\u0b95\u0bbf\u0bb2\u0bbe-\u0baa\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9/54-381366",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786613704.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-836a6b73",
+    "num": "dailymirrorlk-836a6b73",
+    "date_str": "2026-08-13",
+    "description": "Dogs can distinguish between emotions in a human face, study shows",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dogs-can-distinguish-between-emotions-in-a-human-face-study-shows/108-348059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786614194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-800b19ab",
+    "num": "dailymirrorlk-800b19ab",
+    "date_str": "2026-08-13",
+    "description": "Sri Lanka seeks Interpol Red Notices for 93 suspects hiding abroad",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-Interpol-Red-Notices-for-93-suspects-hiding-abroad/108-348061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786615785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-224dba8a",
+    "num": "dailymirrorlk-224dba8a",
+    "date_str": "2026-08-13",
+    "description": "Ready to risk office for change, says President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ready-to-risk-office-for-change-says-President/108-348062",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786616845.0
   }
 ]
