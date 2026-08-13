@@ -13766,6 +13766,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-dbbab421",
+    "num": "adalk-dbbab421",
+    "date_str": "2026-08-13",
+    "description": "\u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0d85\u0db7\u0dcf\u0dc0\u0dba\u0dad\u0dca \u0dc3\u0db8\u0d9c \u0db8\u0dd9\u0dc3\u0dd3 \u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2\u0daf?",
+    "url_metadata": "https://www.ada.lk/sports/\u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda-\u0d85\u0db7\u0dcf\u0dc0\u0dba\u0dad\u0dca-\u0dc3\u0db8\u0d9c-\u0db8\u0dd9\u0dc3\u0dd3-\u0db4\u0dcf\u0db4\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2\u0daf-/9-423734",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786587359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-10fa0d57",
+    "num": "adalk-10fa0d57",
+    "date_str": "2026-08-13",
+    "description": "2026-08-13",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-08-13/11-423735",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786588721.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-13-tamilmirrorlk-4857f625",
     "num": "tamilmirrorlk-4857f625",
     "date_str": "2026-08-13",
@@ -13774,5 +13796,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786589021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-093b8bea",
+    "num": "dailymirrorlk-093b8bea",
+    "date_str": "2026-08-13",
+    "description": "Eric Meyer sworn in as new U.S. Ambassador to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eric-Meyer-sworn-in-as-new-U-S-Ambassador-to-Sri-Lanka/108-348026",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786592172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-7139fd98",
+    "num": "dailymirrorlk-7139fd98",
+    "date_str": "2026-08-13",
+    "description": "Sri Lankan student fatally stabbed by compatriot in Japan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-student-fatally-stabbed-by-compatriot-in-Japan/108-348027",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786592859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-8ece3d25",
+    "num": "dailymirrorlk-8ece3d25",
+    "date_str": "2026-08-13",
+    "description": "UN Special Rapporteur concerned over proposed increase in judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-Special-Rapporteur-concerned-over-proposed-increase-in-judges-retirement-age/108-348028",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786593823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-e0a82cec",
+    "num": "tamilmirrorlk-e0a82cec",
+    "date_str": "2026-08-13",
+    "description": "\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b8f\u0ba9\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4-\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bcd/175-381347",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786593951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-45fd563f",
+    "num": "dailymirrorlk-45fd563f",
+    "date_str": "2026-08-13",
+    "description": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+    "url_metadata": "https://www.dailymirror.lk/international/Ebola-outbreak-on-track-to-be-deadliest-ever-WHO-chief-says/107-348029",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786594775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-7b5e4453",
+    "num": "tamilmirrorlk-7b5e4453",
+    "date_str": "2026-08-13",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd/175-381349",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786594781.0
   }
 ]
