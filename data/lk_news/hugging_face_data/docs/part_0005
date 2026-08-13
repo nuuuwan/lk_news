@@ -14162,6 +14162,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-490ad6eb",
+    "num": "adalk-490ad6eb",
+    "date_str": "2026-08-13",
+    "description": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0dda \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf 8\u0da7 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dba\u0dda-\u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf-8\u0da7-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2/11-423743",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786612138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-adalk-08659299",
+    "num": "adalk-08659299",
+    "date_str": "2026-08-13",
+    "description": "\u0d91\u0dad\u0dd4\u0db8\u0dcf \u0d91\u0dad\u0dd4\u0db8\u0dcf\u0d9c\u0dda \u0db8\u0dad\u0dda \u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf, \u0d85\u0db4\u0dd2 \u0d85\u0db4\u0dda \u0db8\u0dad\u0dda \u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dad\u0dd4\u0db8\u0dcf-\u0d91\u0dad\u0dd4\u0db8\u0dcf\u0d9c\u0dda-\u0db8\u0dad\u0dda-\u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf--\u0d85\u0db4\u0dd2-\u0d85\u0db4\u0dda-\u0db8\u0dad\u0dda-\u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf/11-423744",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786613238.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-13-dailymirrorlk-012f7364",
     "num": "dailymirrorlk-012f7364",
     "date_str": "2026-08-13",
@@ -14214,5 +14236,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786616845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-800ff992",
+    "num": "dailymirrorlk-800ff992",
+    "date_str": "2026-08-13",
+    "description": "Police say Malaysia operation to arrest Kanjipani was not a failure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-say-Malaysia-operation-to-arrest-Kanjipani-was-not-a-failure/108-348063",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786617916.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-a04104e6",
+    "num": "tamilmirrorlk-a04104e6",
+    "date_str": "2026-08-13",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0bae\u0bbe\u0b95\u0bbe\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bc1 \u0b85\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0bae\u0bbe\u0b95\u0bbe\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0ba4\u0bc1-\u0b85\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-\u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd/175-381367",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786617985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-559f1dc2",
+    "num": "dailymirrorlk-559f1dc2",
+    "date_str": "2026-08-13",
+    "description": "South Korea\u2019s Incheon airport becomes world\u2019s busiest for global traffic",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Koreas-Incheon-airport-becomes-worlds-busiest-for-global-traffic/108-348064",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786618102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-96e516d6",
+    "num": "tamilmirrorlk-96e516d6",
+    "date_str": "2026-08-13",
+    "description": "\u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381368",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786618527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-42f28b6d",
+    "num": "tamilmirrorlk-42f28b6d",
+    "date_str": "2026-08-13",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bc0\u0ba4\u0bbf \u0b95\u0bcb\u0bb0\u0bbf ; \u201c\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b93\u0bb2\u0bae\u0bcd 2\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf-\u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0ba8\u0bc0\u0ba4\u0bbf-\u0b95\u0bcb\u0bb0\u0bbf-\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b93\u0bb2\u0bae\u0bcd-2/150-381369",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786621883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-tamilmirrorlk-b53e89c5",
+    "num": "tamilmirrorlk-b53e89c5",
+    "date_str": "2026-08-13",
+    "description": "\u0b9a\u0baa\u0bc8\u0baf\u0bc8 \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0ba9\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0baa\u0bc8\u0baf\u0bc8-\u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0ba9\u0bcd-\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd/76-381370",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786622774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-d7afaf96",
+    "num": "dailymirrorlk-d7afaf96",
+    "date_str": "2026-08-13",
+    "description": "Over 1,000 foreigners arrested in cybercrime raids this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1-000-foreigners-arrested-in-cybercrime-raids-this-year/108-348065",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786624144.0
   }
 ]
