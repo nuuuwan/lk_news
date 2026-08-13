@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-13 18:06:32",
-  "n_docs": 127245,
+  "time_updated": "2026-08-13 20:18:56",
+  "n_docs": 127250,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127245,
+  "n_docs_with_text": 127250,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-13",
-  "dataset_size": 1982706467,
+  "dataset_size": 1982807033,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-13-dailymirrorlk-d7afaf96",
-    "num": "dailymirrorlk-d7afaf96",
+    "doc_id": "2026-08-13-dailymirrorlk-3bf20fdc",
+    "num": "dailymirrorlk-3bf20fdc",
     "date_str": "2026-08-13",
-    "description": "Over 1,000 foreigners arrested in cybercrime raids this year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1-000-foreigners-arrested-in-cybercrime-raids-this-year/108-348065",
+    "description": "Train services delayed on Main Line following breakdown",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-services-delayed-on-Main-Line-following-breakdown/108-348067",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786624144.0
+    "time_ut": 1786630980.0
   }
 }
