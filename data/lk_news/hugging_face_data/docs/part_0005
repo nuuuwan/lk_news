@@ -14536,6 +14536,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-13-dailymirrorlk-38563a93",
+    "num": "dailymirrorlk-38563a93",
+    "date_str": "2026-08-13",
+    "description": "More competition  better  prices \u2013 why the CEP 4 tender risks wasting public money",
+    "url_metadata": "https://www.dailymirror.lk/news-features/More-competition-better-prices-why-the-CEP-4-tender-risks-wasting-public-money/131-348078",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786642217.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-13-adalk-c285010a",
     "num": "adalk-c285010a",
     "date_str": "2026-08-13",
@@ -14745,6 +14756,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-14-adalk-96652218",
+    "num": "adalk-96652218",
+    "date_str": "2026-08-14",
+    "description": "\u0dbb\u0da2\u0dba\u0da7 \u0db4\u0dc0\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0d9a\u0dad\u0ddd\u0dbd\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba\u0da7-\u0db4\u0dc0\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0d9a\u0dad\u0ddd\u0dbd\u0dd2\u0d9a-\u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-423749",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786669474.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-14-adalk-72a46fec",
     "num": "adalk-72a46fec",
     "date_str": "2026-08-14",
@@ -14808,5 +14830,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786674803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-adalk-6910a1d2",
+    "num": "adalk-6910a1d2",
+    "date_str": "2026-08-14",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dd9\u0db1\u0dca \u0d8b\u0db4\u0dba\u0dcf\u0d9c\u0dad\u0dca \u0dbd\u0d9a\u0dca\u0dc2 573\u0d9a \u0daf\u0dda\u0db4\u0dc5 \u0dc3\u0db8\u0d9c \u0dc3\u0dd0\u0d9a\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dd9\u0db1\u0dca-\u0d8b\u0db4\u0dba\u0dcf\u0d9c\u0dad\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-573\u0d9a-\u0daf\u0dda\u0db4\u0dc5-\u0dc3\u0db8\u0d9c-\u0dc3\u0dd0\u0d9a\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423753",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786675466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-d6fe75f2",
+    "num": "dailymirrorlk-d6fe75f2",
+    "date_str": "2026-08-14",
+    "description": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "url_metadata": "https://www.dailymirror.lk/international/Conditions-on-US-aircraft-carrier-at-sea-for-more-than-250-days-raise-alarms/107-348081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786679373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-f79a0710",
+    "num": "dailymirrorlk-f79a0710",
+    "date_str": "2026-08-14",
+    "description": "Wattala shooting suspects deported from India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wattala-shooting-suspects-deported-from-India/108-348082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786679685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-a1e424a2",
+    "num": "dailymirrorlk-a1e424a2",
+    "date_str": "2026-08-14",
+    "description": "Police told to stop playing hide and seek when checking for traffic offences",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-told-to-stop-playing-hide-and-seek-when-checking-for-traffic-offences/108-348083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786680298.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-3cdfcee6",
+    "num": "dailymirrorlk-3cdfcee6",
+    "date_str": "2026-08-14",
+    "description": "Air India to test all pilots for banned substances",
+    "url_metadata": "https://www.dailymirror.lk/international/Air-India-to-test-all-pilots-for-banned-substances/107-348084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786681329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-3f24d9ed",
+    "num": "dailymirrorlk-3f24d9ed",
+    "date_str": "2026-08-14",
+    "description": "\u2018Kotu Kapima\u2019 gambling ring expands as bets soar beyond Rs.100,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kotu-Kapima-gambling-ring-expands-as-bets-soar-beyond-Rs-100-000/108-348085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786682609.0
   }
 ]
