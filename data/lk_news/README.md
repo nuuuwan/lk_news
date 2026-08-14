@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_14:23:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_16:16:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailymirrorlk-9d1f1e3c",
-    "num": "dailymirrorlk-9d1f1e3c",
+    "doc_id": "2026-08-14-dailymirrorlk-ce47b902",
+    "num": "dailymirrorlk-ce47b902",
     "date_str": "2026-08-14",
-    "description": "SJB accuses Justice Minister of putting showpiece on social media",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-accuses-Justice-Minister-of-putting-showpiece-on-social-media/108-348116",
+    "description": "Over 200,000 disputes referred to Mediation Boards annually",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-200-000-disputes-referred-to-Mediation-Boards-annually/108-348124",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786696976.0
+    "time_ut": 1786703273.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-14 | `dailymirrorlk-ce47b902` | Over 200,000 disputes referred to Mediation Boards annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-ce47b902)
+- 2026-08-14 | `tamilmirrorlk-d36ddaf5` | 15 வயது சிறுமியை வன்புணர்ந்த 70 வயது பிஷப்   ஆஜர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-d36ddaf5)
+- 2026-08-14 | `tamilmirrorlk-ef93160f` | ஹேர்ட்ரையரில் குழந்தையைக் கொன்ற தாய்க்கு சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-ef93160f)
+- 2026-08-14 | `tamilmirrorlk-45f6f750` | ஹோட்டல்  விருந்துக்கு வந்த முதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-45f6f750)
+- 2026-08-14 | `dailymirrorlk-778aad2d` | Pakistan marks 79th Independence Day in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-778aad2d)
+- 2026-08-14 | `dailymirrorlk-ea3c4270` | Unexpected guest: Croc on the loose at popular hotel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-ea3c4270)
+- 2026-08-14 | `tamilmirrorlk-eb4dc6d9` | ஹார்முஸ் மீதான கட்டுப்பாட்டை உறுதி செய்தனர் ஈரான் அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-eb4dc6d9)
+- 2026-08-14 | `tamilmirrorlk-a5cf03ba` | முதலிரவில் பெண்ணின் அந்த உறுப்பை பார்த்து அதிர்ந்த 30 வயது இளைஞர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-a5cf03ba)
+- 2026-08-14 | `tamilmirrorlk-a9f55b1e` | ’’ஆணின் அந்த உறுப்பைத்தான் முதலில் பார்ப்பேன்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-a9f55b1e)
+- 2026-08-14 | `adalk-18d60ddf` | 2025දී පොලීසිය කුලී ලෙස රු. කෝටි 54ක් ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-18d60ddf)
 - 2026-08-14 | `dailymirrorlk-9d1f1e3c` | SJB accuses Justice Minister of putting showpiece on social media | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-9d1f1e3c)
 - 2026-08-14 | `tamilmirrorlk-64e184aa` | சிறுமியின் தாயும், தாயின் காதலனும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-64e184aa)
 - 2026-08-14 | `dailymirrorlk-2ce0a302` | Mother and paramour arrested over abandonment of 4-year-old girl | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-2ce0a302)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-08-14 | `tamilmirrorlk-13d5ec32` | மரண தண்டனை குறித்த புதிய சிந்தனையும் யதார்த்தமும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-13d5ec32)
 - 2026-08-14 | `tamilmirrorlk-01f99a6e` | அனுர அரசாங்கமும் தமிழ் மக்களின் நம்பிக்கையின்மையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-01f99a6e)
 - 2026-08-14 | `dailymirrorlk-28b90270` | 25,000 patients await surgery as heart list extends to 2029 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-28b90270)
-- 2026-08-14 | `dailymirrorlk-54af8a0d` | Audit exposes decades of environmental compliance gaps, millions sunk in ghost projects at BOI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-54af8a0d)
-- 2026-08-14 | `dailymirrorlk-e9f70745` | PABC 2Q profit up 28% on tax reversal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-e9f70745)
-- 2026-08-14 | `dailymirrorlk-30d2b09d` | NTB 2Q profit jumps 133% on HSBC acquisition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-30d2b09d)
-- 2026-08-14 | `dailymirrorlk-edbf80c5` | ComBank posts 8% profit growth as provisions weigh on strong income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-edbf80c5)
-- 2026-08-14 | `dailymirrorlk-7adcf807` | JXG to acquire 100% stake in Continental Insurance Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-7adcf807)
-- 2026-08-14 | `dailymirrorlk-bf8484fc` | Sampath Bank 2Q profit jumps 64% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-bf8484fc)
-- 2026-08-14 | `dailymirrorlk-adb090fc` | HNB quarterly profit rises 20% on stronger lending income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-adb090fc)
-- 2026-08-14 | `tamilmirrorlk-592e1704` | ஜும்ஆப் பிரசங்க நேரத்தைச் சுருக்குமாறும் அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-592e1704)
-- 2026-08-14 | `dailymirrorlk-de906cb8` | SLEIS 2026 to examine next phase of growth, reform and competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-de906cb8)
-- 2026-08-14 | `dailymirrorlk-9760e055` | Cartoon of the Day 14-08-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-9760e055)
 
 ---
 
