@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-14 18:07:07",
-  "n_docs": 127354,
+  "time_updated": "2026-08-14 20:09:53",
+  "n_docs": 127360,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127354,
+  "n_docs_with_text": 127360,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-14",
-  "dataset_size": 1984472768,
+  "dataset_size": 1984569127,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailymirrorlk-08e2aae6",
-    "num": "dailymirrorlk-08e2aae6",
+    "doc_id": "2026-08-14-dailymirrorlk-e1d92a56",
+    "num": "dailymirrorlk-e1d92a56",
     "date_str": "2026-08-14",
-    "description": "Heat index likely to reach \u2018Caution\u2019 level in seven districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-index-likely-to-reach-Caution-level-in-seven-districts/108-348126",
+    "description": "President calls for stronger Co-operative network to regulate prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-stronger-Co-operative-network-to-regulate-prices/108-348128",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786708650.0
+    "time_ut": 1786714194.0
   }
 }
