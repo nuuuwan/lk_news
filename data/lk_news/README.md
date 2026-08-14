@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_10:26:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_12:28:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,325** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailymirrorlk-3f24d9ed",
-    "num": "dailymirrorlk-3f24d9ed",
+    "doc_id": "2026-08-14-tamilmirrorlk-01f99a6e",
+    "num": "tamilmirrorlk-01f99a6e",
     "date_str": "2026-08-14",
-    "description": "\u2018Kotu Kapima\u2019 gambling ring expands as bets soar beyond Rs.100,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kotu-Kapima-gambling-ring-expands-as-bets-soar-beyond-Rs-100-000/108-348085",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786682609.0
+    "description": "\u0b85\u0ba9\u0bc1\u0bb0 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd/91-381404",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786689998.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-08-14 | `dailymirrorlk-3f24d9ed` | ‘Kotu Kapima’ gambling ring expands as bets soar beyond Rs.100,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-3f24d9ed)
-- 2026-08-14 | `dailymirrorlk-3cdfcee6` | Air India to test all pilots for banned substances | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-3cdfcee6)
-- 2026-08-14 | `dailymirrorlk-a1e424a2` | Police told to stop playing hide and seek when checking for traffic offences | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-a1e424a2)
-- 2026-08-14 | `dailymirrorlk-f79a0710` | Wattala shooting suspects deported from India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-f79a0710)
-- 2026-08-14 | `dailymirrorlk-d6fe75f2` | Conditions on US aircraft carrier at sea for more than 250 days raise alarms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-d6fe75f2)
-- 2026-08-14 | `adalk-6910a1d2` | මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් ලක්ෂ 573ක දේපළ සමග සැකකාරියක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-6910a1d2)
-- 2026-08-14 | `tamilmirrorlk-8047a394` | இப்போதுதான் சரியான ’System’ : விரைவில் முற்றுப்புள்ளி வைக்கப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-8047a394)
-- 2026-08-14 | `tamilmirrorlk-f33665f1` | காலநிலையில் இன்று ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-f33665f1)
-- 2026-08-14 | `tamilmirrorlk-94ad64e3` | செவ்வந்தி குறித்து புதிய செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-94ad64e3)
-- 2026-08-14 | `tamilmirrorlk-8c2e655a` | மோசமான முறையில் சொத்து சேர்த்த பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-8c2e655a)
-- 2026-08-14 | `adalk-3cba4dc0` | මහ බැංකුවේ 2026 වසර දෙවැනි මුදල් ප්‍රතිපත්ති වාර්තාව එළිදකී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-3cba4dc0)
-- 2026-08-14 | `adalk-72a46fec` | ප්‍රශ්න පත්‍ර පිටවිමක් නෑ, නියමිත පරිදි විභාගයට මුහුණ දෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-72a46fec)
-- 2026-08-14 | `adalk-96652218` | රජයට පවරාගත් කතෝලික පාසල්වල පරිපාලන ගැටලු ගැන අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-96652218)
-- 2026-08-14 | `dailymirrorlk-fe7d2a3f` | Active secondary market amid moderate volumes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-fe7d2a3f)
-- 2026-08-14 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-821a32a1)
-- 2026-08-14 | `dailyftlk-efa3c8ed` | President defends proposed 22nd Amendment, explains stance to BASL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-efa3c8ed)
-- 2026-08-14 | `dailyftlk-53904a00` | Cabinet approves Rs. 635 m correctional centre for drug offenders in Kekirawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-53904a00)
-- 2026-08-14 | `dailyftlk-a623e916` | Cabinet clears Rs. 232 m to restore 144 religious sites damaged by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-a623e916)
-- 2026-08-14 | `dailyftlk-649b7962` | ProFood ProPack and AgBiz 23rd edition from 21 Aug. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-649b7962)
-- 2026-08-14 | `dailyftlk-f5ba4924` | AB Securitas takes Gold at National Business Excellence Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-f5ba4924)
+- 2026-08-14 | `tamilmirrorlk-01f99a6e` | அனுர அரசாங்கமும் தமிழ் மக்களின் நம்பிக்கையின்மையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-01f99a6e)
+- 2026-08-14 | `dailymirrorlk-28b90270` | 25,000 patients await surgery as heart list extends to 2029 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-28b90270)
+- 2026-08-14 | `dailymirrorlk-54af8a0d` | Audit exposes decades of environmental compliance gaps, millions sunk in ghost projects at BOI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-54af8a0d)
+- 2026-08-14 | `dailymirrorlk-e9f70745` | PABC 2Q profit up 28% on tax reversal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-e9f70745)
+- 2026-08-14 | `dailymirrorlk-30d2b09d` | NTB 2Q profit jumps 133% on HSBC acquisition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-30d2b09d)
+- 2026-08-14 | `dailymirrorlk-edbf80c5` | ComBank posts 8% profit growth as provisions weigh on strong income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-edbf80c5)
+- 2026-08-14 | `dailymirrorlk-7adcf807` | JXG to acquire 100% stake in Continental Insurance Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-7adcf807)
+- 2026-08-14 | `dailymirrorlk-bf8484fc` | Sampath Bank 2Q profit jumps 64% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-bf8484fc)
+- 2026-08-14 | `dailymirrorlk-adb090fc` | HNB quarterly profit rises 20% on stronger lending income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-adb090fc)
+- 2026-08-14 | `tamilmirrorlk-592e1704` | ஜும்ஆப் பிரசங்க நேரத்தைச் சுருக்குமாறும் அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-592e1704)
+- 2026-08-14 | `dailymirrorlk-de906cb8` | SLEIS 2026 to examine next phase of growth, reform and competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-de906cb8)
+- 2026-08-14 | `dailymirrorlk-9760e055` | Cartoon of the Day 14-08-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-9760e055)
+- 2026-08-14 | `tamilmirrorlk-0bd41a3f` | சிலந்திப் பெண்  கால் உடைந்த நிலையில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-0bd41a3f)
+- 2026-08-14 | `dailymirrorlk-4d5915cf` | CA Sri Lanka’s flagship National Conference returns this October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-4d5915cf)
+- 2026-08-14 | `dailymirrorlk-81bc4e6f` | Oceans Talent set to double Sri Lankan workforce as embedded employment model gains traction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-81bc4e6f)
+- 2026-08-14 | `tamilmirrorlk-a46c92d0` | வெளிநாட்டு சிகரெட்டுகளுடன் இலங்கைப் பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-a46c92d0)
+- 2026-08-14 | `dailymirrorlk-e1dadd77` | Port City Colombo brings SL’s South Asian investment proposition to Maldives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-e1dadd77)
+- 2026-08-14 | `tamilmirrorlk-6e0cf9c0` | சீனத் சிகரெட்டுகளுடன் இந்தியப் பயணி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-6e0cf9c0)
+- 2026-08-14 | `dailymirrorlk-aae06d00` | DFCC Bank-SriLankan launch Visa Platinum credit card | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-aae06d00)
+- 2026-08-14 | `dailymirrorlk-669ca780` | NeuroX 1.0 crowns SL’s top undergraduate innovators | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-669ca780)
 
 ---
 

@@ -1,0 +1,15 @@
+NeuroX 1.0 crowns SL’s top undergraduate innovators
+
+NeuroX 1.0, Sri Lanka’s premier buildathon, was held recently at NSBM Green University, bringing together undergraduate innovators from across the country for a national buildathon competition.
+
+Organised by the Hackathon Hub of the Faculty of Computing, NSBM Green University, the inaugural buildathon attracted over 300 participants, with more than 80 teams representing 20+ universities across Sri Lanka.
+
+The first round was judged by Sysco Labs, who shortlisted the Top 15 Elite Builder Teams to advance to the Grand Finale, where they presented technology solutions to real-world challenges in a live, physical demo before a panel of judges.
+
+Team Alt + F4, from the University of Peradeniya, was crowned Champions of NeuroX 1.0 for an autonomous, agentic supply chain management system that advises shipping companies on logistics decisions.  Team Power secured the First Runner-Up position, while Team Binary Blitz claimed the Second Runner-Up title.
+
+The phase two buildathon challenged teams to design and deploy a functioning, autonomous multi-step agent operating in the B2B domain, capable of goal-directed autonomy, multi-tool integration, human-in-the-loop control and a transparent decision trail. Agents were tested against real, unrehearsed inputs rather than pre-scripted demos.
+
+“As people in technology we need to adapt to new technologies. What better way to do it than through hackathons,” said Faculty of Computing Dean Dr. Rasika Ranaweera.
+
+“We allow AI to do a lot of tasks but it is really important for us to be ourselves,” said Hackathon Hub Master-in-Charge Anton Jayakody.
