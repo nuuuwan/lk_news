@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-14 12:27:05",
-  "n_docs": 127325,
+  "time_updated": "2026-08-14 14:22:31",
+  "n_docs": 127335,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127325,
+  "n_docs_with_text": 127335,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-14",
-  "dataset_size": 1983778961,
+  "dataset_size": 1984121342,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-tamilmirrorlk-01f99a6e",
-    "num": "tamilmirrorlk-01f99a6e",
+    "doc_id": "2026-08-14-dailymirrorlk-9d1f1e3c",
+    "num": "dailymirrorlk-9d1f1e3c",
     "date_str": "2026-08-14",
-    "description": "\u0b85\u0ba9\u0bc1\u0bb0 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd/91-381404",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786689998.0
+    "description": "SJB accuses Justice Minister of putting showpiece on social media",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-accuses-Justice-Minister-of-putting-showpiece-on-social-media/108-348116",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786696976.0
   }
 }
