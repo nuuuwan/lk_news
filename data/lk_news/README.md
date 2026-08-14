@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_20:10:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_22:05:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,360** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,367** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailymirrorlk-e1d92a56",
-    "num": "dailymirrorlk-e1d92a56",
+    "doc_id": "2026-08-14-dailymirrorlk-2372d4e3",
+    "num": "dailymirrorlk-2372d4e3",
     "date_str": "2026-08-14",
-    "description": "President calls for stronger Co-operative network to regulate prices",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-stronger-Co-operative-network-to-regulate-prices/108-348128",
+    "description": "Notorious drug kingpin Shiran Basik brought back to Sri Lanka from Dubai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Notorious-drug-kingpin-Shiran-Basik-brought-back-to-Sri-Lanka-from-Dubai/108-348133",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786714194.0
+    "time_ut": 1786724445.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-14 | `dailymirrorlk-2372d4e3` | Notorious drug kingpin Shiran Basik brought back to Sri Lanka from Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-2372d4e3)
+- 2026-08-14 | `tamilmirrorlk-b1459175` | பெரும் கடத்தல்காரர்களில் ஒருவர் நாட்டிற்கு அழைத்து வரப்பட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-b1459175)
+- 2026-08-14 | `dailymirrorlk-10f4a191` | Police to take legal action against vehicles obstructing bus stops | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-10f4a191)
+- 2026-08-14 | `tamilmirrorlk-e0a4de3b` | வாகன இறக்குமதி : மிகைக் கட்டணம் டிசம்பர் வரை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-e0a4de3b)
+- 2026-08-14 | `dailymirrorlk-426318cc` | Residents demand probe into newly opened Chabad house in Hiriketiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-426318cc)
+- 2026-08-14 | `dailymirrorlk-f8109b7f` | Lal Kantha says he will not contest next parliamentary election from Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-f8109b7f)
+- 2026-08-14 | `dailymirrorlk-b0e4c08d` | Nearly 8,000 Police, tri-forces deployed for Kandy Esala Perahera security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-b0e4c08d)
 - 2026-08-14 | `dailymirrorlk-e1d92a56` | President calls for stronger Co-operative network to regulate prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-e1d92a56)
 - 2026-08-14 | `dailymirrorlk-b16322b7` | 50% Customs surcharge on vehicle imports extended until December | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-b16322b7)
 - 2026-08-14 | `dailymirrorlk-08e2aae6` | Heat index likely to reach ‘Caution’ level in seven districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-08e2aae6)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-08-14 | `tamilmirrorlk-45f6f750` | ஹோட்டல்  விருந்துக்கு வந்த முதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-45f6f750)
 - 2026-08-14 | `dailymirrorlk-778aad2d` | Pakistan marks 79th Independence Day in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-778aad2d)
 - 2026-08-14 | `dailymirrorlk-ea3c4270` | Unexpected guest: Croc on the loose at popular hotel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-ea3c4270)
-- 2026-08-14 | `tamilmirrorlk-eb4dc6d9` | ஹார்முஸ் மீதான கட்டுப்பாட்டை உறுதி செய்தனர் ஈரான் அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-eb4dc6d9)
-- 2026-08-14 | `tamilmirrorlk-a5cf03ba` | முதலிரவில் பெண்ணின் அந்த உறுப்பை பார்த்து அதிர்ந்த 30 வயது இளைஞர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-a5cf03ba)
-- 2026-08-14 | `adalk-c020eca4` | රු. මිලියන 2500ක වටිනාකමකින් ආදායම් ව්‍යාපෘති 100ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-c020eca4)
-- 2026-08-14 | `dailymirrorlk-43604629` | Viral video raises questions over police conduct | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-43604629)
-- 2026-08-14 | `adalk-5f47c6e5` | දිත්වා හානි වූ නිවාස හදන්න රු.බි. 25ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-5f47c6e5)
-- 2026-08-14 | `dailymirrorlk-577c6faa` | Pakistan Lifestyle Exhibition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-577c6faa)
-- 2026-08-14 | `dailymirrorlk-698672db` | 22nd Amendment Bill to be tabled in Parliament on August 18 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-698672db)
 
 ---
 
