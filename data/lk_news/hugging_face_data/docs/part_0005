@@ -15655,5 +15655,170 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786724445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-4959f24a",
+    "num": "dailyftlk-4959f24a",
+    "date_str": "2026-08-14",
+    "description": "Justice, shadow and substance",
+    "url_metadata": "https://www.ft.lk/columns/Justice-shadow-and-substance/4-796019",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786727954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-0d672fda",
+    "num": "dailyftlk-0d672fda",
+    "date_str": "2026-08-14",
+    "description": "Cabinet approves $ 2.73 m grant for nutrition project in four districts",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-2-73-m-grant-for-nutrition-project-in-four-districts/56-796021",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-bff259c4",
+    "num": "dailyftlk-bff259c4",
+    "date_str": "2026-08-14",
+    "description": "Cabinet directs Legal Draftsman to prepare Bill to amend Fishermen\u2019s Pension and Social Security Scheme Act",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-directs-Legal-Draftsman-to-prepare-Bill-to-amend-Fishermen-s-Pension-and-Social-Security-Scheme-Act/56-796022",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-bebb3023",
+    "num": "dailyftlk-bebb3023",
+    "date_str": "2026-08-14",
+    "description": "H.C.P. Jayaweera appointed as new DG of Department of National Botanic Gardens",
+    "url_metadata": "https://www.ft.lk/news/H-C-P-Jayaweera-appointed-as-new-DG-of-Department-of-National-Botanic-Gardens/56-796023",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-59af777c",
+    "num": "dailyftlk-59af777c",
+    "date_str": "2026-08-14",
+    "description": "Cabinet nod to gazette new draft Immigration Bill",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-to-gazette-new-draft-Immigration-Bill/56-796024",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-3aeb1c64",
+    "num": "dailyftlk-3aeb1c64",
+    "date_str": "2026-08-14",
+    "description": "UNFPA and NYSC empower 100 youth to lead local disaster preparedness and response",
+    "url_metadata": "https://www.ft.lk/news/UNFPA-and-NYSC-empower-100-youth-to-lead-local-disaster-preparedness-and-response/56-796025",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-48a53de0",
+    "num": "dailyftlk-48a53de0",
+    "date_str": "2026-08-14",
+    "description": "Sri Lankan refugees in  India to receive facilitation for voluntary return",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lankan-refugees-in-India-to-receive-facilitation-for-voluntary-return/56-796026",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-3cff68d1",
+    "num": "dailyftlk-3cff68d1",
+    "date_str": "2026-08-14",
+    "description": "RCSS Commemorates Prof. Shelton Kodikara",
+    "url_metadata": "https://www.ft.lk/news/RCSS-Commemorates-Prof-Shelton-Kodikara/56-796027",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786728789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-4ba0c189",
+    "num": "dailyftlk-4ba0c189",
+    "date_str": "2026-08-14",
+    "description": "Sri Lanka: A judicial system in disarray due to years of neglect",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-A-judicial-system-in-disarray-due-to-years-of-neglect/4-796029",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786729365.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-f5aed501",
+    "num": "dailyftlk-f5aed501",
+    "date_str": "2026-08-14",
+    "description": "Land mines story, a grave  affair and as plain as pikestaff",
+    "url_metadata": "https://www.ft.lk/columns/Land-mines-story-a-grave-affair-and-as-plain-as-pikestaff/4-796042",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786730543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-8401ffc6",
+    "num": "dailyftlk-8401ffc6",
+    "date_str": "2026-08-14",
+    "description": "Ceylon Chamber of Commerce and Cochin Chamber explore regional business partnerships",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-of-Commerce-and-Cochin-Chamber-explore-regional-business-partnerships/34-796043",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786731936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-50e296ca",
+    "num": "dailyftlk-50e296ca",
+    "date_str": "2026-08-14",
+    "description": "Port City Colombo pitches  Sri Lanka\u2019s South Asian investment proposition in Maldives",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-pitches-Sri-Lanka-s-South-Asian-investment-proposition-in-Maldives/34-796044",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786732067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-c229f902",
+    "num": "dailyftlk-c229f902",
+    "date_str": "2026-08-14",
+    "description": "Parliament website wins Gold, overall Silver at BestWeb.lk 2026",
+    "url_metadata": "https://www.ft.lk/news/Parliament-website-wins-Gold-overall-Silver-at-BestWeb-lk-2026/56-796045",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786732135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailyftlk-1495307a",
+    "num": "dailyftlk-1495307a",
+    "date_str": "2026-08-15",
+    "description": "Pakistan High Commission celebrates 79th Independence Day in Colombo",
+    "url_metadata": "https://www.ft.lk/news/Pakistan-High-Commission-celebrates-79th-Independence-Day-in-Colombo/56-796046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786732207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailyftlk-694c436a",
+    "num": "dailyftlk-694c436a",
+    "date_str": "2026-08-15",
+    "description": "Sajith welcomes UN expert\u2019s concerns over 22nd Amendment",
+    "url_metadata": "https://www.ft.lk/news/Sajith-welcomes-UN-expert-s-concerns-over-22nd-Amendment/56-796047",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786732266.0
   }
 ]

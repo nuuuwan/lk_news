@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 00:05:05",
-  "n_docs": 127367,
+  "time_updated": "2026-08-15 02:07:44",
+  "n_docs": 127382,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127367,
+  "n_docs_with_text": 127382,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-08-14",
-  "dataset_size": 1984653662,
+  "date_str_max": "2026-08-15",
+  "dataset_size": 1984726408,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailymirrorlk-2372d4e3",
-    "num": "dailymirrorlk-2372d4e3",
-    "date_str": "2026-08-14",
-    "description": "Notorious drug kingpin Shiran Basik brought back to Sri Lanka from Dubai",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Notorious-drug-kingpin-Shiran-Basik-brought-back-to-Sri-Lanka-from-Dubai/108-348133",
+    "doc_id": "2026-08-15-dailyftlk-694c436a",
+    "num": "dailyftlk-694c436a",
+    "date_str": "2026-08-15",
+    "description": "Sajith welcomes UN expert\u2019s concerns over 22nd Amendment",
+    "url_metadata": "https://www.ft.lk/news/Sajith-welcomes-UN-expert-s-concerns-over-22nd-Amendment/56-796047",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786724445.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786732266.0
   }
 }
