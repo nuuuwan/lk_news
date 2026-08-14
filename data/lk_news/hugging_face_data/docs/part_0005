@@ -15295,6 +15295,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-49cacfee",
+    "num": "dailymirrorlk-49cacfee",
+    "date_str": "2026-08-14",
+    "description": "\u201cShilpabhimani\u201d Sales Fair",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Shilpabhimani-Sales-Fair/110-348114",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786693729.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-14-tamilmirrorlk-64e184aa",
     "num": "tamilmirrorlk-64e184aa",
     "date_str": "2026-08-14",
@@ -15336,6 +15347,50 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786698038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-698672db",
+    "num": "dailymirrorlk-698672db",
+    "date_str": "2026-08-14",
+    "description": "22nd Amendment Bill to be tabled in Parliament on August 18",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-Bill-to-be-tabled-in-Parliament-on-August-18/108-348117",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786698579.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-adalk-5f47c6e5",
+    "num": "adalk-5f47c6e5",
+    "date_str": "2026-08-14",
+    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf \u0dc4\u0dcf\u0db1\u0dd2 \u0dc0\u0dd6 \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0dbb\u0dd4.\u0db6\u0dd2. 25\u0d9a\u0dca \u0dc0\u0dd0\u0dba \u0d9a\u0dbb\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf-\u0dc4\u0dcf\u0db1\u0dd2-\u0dc0\u0dd6-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0dbb\u0dd4-\u0db6\u0dd2--25\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0d9a\u0dbb\u0dbd\u0dcf/11-423761",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786699302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-43604629",
+    "num": "dailymirrorlk-43604629",
+    "date_str": "2026-08-14",
+    "description": "Viral video raises questions over police conduct",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Viral-video-raises-questions-over-police-conduct/108-348119",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786699979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-adalk-c020eca4",
+    "num": "adalk-c020eca4",
+    "date_str": "2026-08-14",
+    "description": "\u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2500\u0d9a \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 100\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4--\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-2500\u0d9a-\u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-100\u0d9a\u0dca/11-423762",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786700055.0
   },
   {
     "doc_type": "lk_news",
@@ -15424,5 +15479,38 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786703273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-tamilmirrorlk-ecb0c3f0",
+    "num": "tamilmirrorlk-ecb0c3f0",
+    "date_str": "2026-08-14",
+    "description": "\u0b95\u0bc7\u0ba4\u0ba9\u0bcd \u0b85\u0b95\u0bb0\u0bcd\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bca\u0bb2\u0bc8: \u0baa\u0bb2\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc7\u0ba4\u0ba9\u0bcd-\u0b85\u0b95\u0bb0\u0bcd\u0bb5\u0bbe\u0bb2\u0bcd-\u0b95\u0bca\u0bb2\u0bc8-\u0baa\u0bb2\u0bcd-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd-\u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-381428",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786704650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-bc6fbcd6",
+    "num": "dailymirrorlk-bc6fbcd6",
+    "date_str": "2026-08-14",
+    "description": "Japan confirms construction work of BIA 2nd terminal to begin before November",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Japan-confirms-construction-work-of-BIA-2nd-terminal-to-begin-before-November/108-348125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786704748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailymirrorlk-08e2aae6",
+    "num": "dailymirrorlk-08e2aae6",
+    "date_str": "2026-08-14",
+    "description": "Heat index likely to reach \u2018Caution\u2019 level in seven districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-index-likely-to-reach-Caution-level-in-seven-districts/108-348126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786708650.0
   }
 ]
