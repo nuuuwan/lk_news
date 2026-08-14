@@ -14533,5 +14533,170 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786641954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-1ac9e64c",
+    "num": "dailyftlk-1ac9e64c",
+    "date_str": "2026-08-14",
+    "description": "Lessons from global experience for Sri Lanka\u2019s inflation target",
+    "url_metadata": "https://www.ft.lk/columns/Lessons-from-global-experience-for-Sri-Lanka-s-inflation-target/4-795978",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786661574.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-fb47687f",
+    "num": "dailyftlk-fb47687f",
+    "date_str": "2026-08-14",
+    "description": "When mosquitoes bite in Sri Lanka - A post-traumatic mosquito disorder",
+    "url_metadata": "https://www.ft.lk/columns/When-mosquitoes-bite-in-Sri-Lanka-A-post-traumatic-mosquito-disorder/4-795980",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786662636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-edbb0b5f",
+    "num": "dailyftlk-edbb0b5f",
+    "date_str": "2026-08-14",
+    "description": "Entrepreneurs who left lasting footprints on Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Entrepreneurs-who-left-lasting-footprints-on-Sri-Lanka/4-795981",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786662913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-6b32ec7a",
+    "num": "dailyftlk-6b32ec7a",
+    "date_str": "2026-08-14",
+    "description": "Urgent need to fill diplomatic vacancies in key capitals",
+    "url_metadata": "https://www.ft.lk/opinion/Urgent-need-to-fill-diplomatic-vacancies-in-key-capitals/14-795982",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786663696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-5c287e91",
+    "num": "dailyftlk-5c287e91",
+    "date_str": "2026-08-14",
+    "description": "CMA NCMA Awards 2026 applications open till 28 Aug.",
+    "url_metadata": "https://www.ft.lk/business/CMA-NCMA-Awards-2026-applications-open-till-28-Aug/34-795983",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786663905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-b19948b1",
+    "num": "dailyftlk-b19948b1",
+    "date_str": "2026-08-14",
+    "description": "Deloitte Sri Lanka discusses Board governance in rapidly evolving risk landscape",
+    "url_metadata": "https://www.ft.lk/business/Deloitte-Sri-Lanka-discusses-Board-governance-in-rapidly-evolving-risk-landscape/34-795984",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786663993.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-4d5915cf",
+    "num": "dailyftlk-4d5915cf",
+    "date_str": "2026-08-14",
+    "description": "CA Sri Lanka\u2019s flagship National Conference returns this October",
+    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-s-flagship-National-Conference-returns-this-October/34-795985",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786664129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-c9b7a6af",
+    "num": "dailyftlk-c9b7a6af",
+    "date_str": "2026-08-14",
+    "description": "SEC, CSE  to host \u2018Invest Sri Lanka\u2019 forum from 17-20 Aug. in Australia",
+    "url_metadata": "https://www.ft.lk/business/SEC-CSE-to-host-Invest-Sri-Lanka-forum-from-17-20-Aug-in-Australia/34-796001",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667182.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-4f565bc1",
+    "num": "dailyftlk-4f565bc1",
+    "date_str": "2026-08-14",
+    "description": "Sri Lanka to host World CIO 200 Awards and Roadshow 2026 in September",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-to-host-World-CIO-200-Awards-and-Roadshow-2026-in-September/34-796002",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-f1129080",
+    "num": "dailyftlk-f1129080",
+    "date_str": "2026-08-14",
+    "description": "NCE Export Awards 2026: Another year of recognising Sri Lanka\u2019s export sector",
+    "url_metadata": "https://www.ft.lk/business/NCE-Export-Awards-2026-Another-year-of-recognising-Sri-Lanka-s-export-sector/34-796003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-cf4adf0f",
+    "num": "dailyftlk-cf4adf0f",
+    "date_str": "2026-08-14",
+    "description": "JICA Senior Vice President Hara visits Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/JICA-Senior-Vice-President-Hara-visits-Sri-Lanka/34-796004",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667391.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-f5ba4924",
+    "num": "dailyftlk-f5ba4924",
+    "date_str": "2026-08-14",
+    "description": "AB Securitas takes Gold at National Business Excellence Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/AB-Securitas-takes-Gold-at-National-Business-Excellence-Awards-2026/34-796005",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667484.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-649b7962",
+    "num": "dailyftlk-649b7962",
+    "date_str": "2026-08-14",
+    "description": "ProFood ProPack and AgBiz 23rd edition from 21 Aug.",
+    "url_metadata": "https://www.ft.lk/business/ProFood-ProPack-and-AgBiz-23rd-edition-from-21-Aug/34-796006",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-a623e916",
+    "num": "dailyftlk-a623e916",
+    "date_str": "2026-08-14",
+    "description": "Cabinet clears Rs. 232 m to restore 144 religious sites damaged by Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-Rs-232-m-to-restore-144-religious-sites-damaged-by-Cyclone-Ditwah/56-796007",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-14-dailyftlk-53904a00",
+    "num": "dailyftlk-53904a00",
+    "date_str": "2026-08-14",
+    "description": "Cabinet approves Rs. 635 m correctional centre for drug offenders in Kekirawa",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-635-m-correctional-centre-for-drug-offenders-in-Kekirawa/56-796008",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786667576.0
   }
 ]
