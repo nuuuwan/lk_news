@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_06:21:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--14_08:45:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,280** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,290** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailyftlk-53904a00",
-    "num": "dailyftlk-53904a00",
+    "doc_id": "2026-08-14-tamilmirrorlk-8047a394",
+    "num": "tamilmirrorlk-8047a394",
     "date_str": "2026-08-14",
-    "description": "Cabinet approves Rs. 635 m correctional centre for drug offenders in Kekirawa",
-    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-635-m-correctional-centre-for-drug-offenders-in-Kekirawa/56-796008",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1786667576.0
+    "description": "\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u2019System\u2019 : \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd-\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9-System-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-381388",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786674803.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-14 | `tamilmirrorlk-8047a394` | இப்போதுதான் சரியான ’System’ : விரைவில் முற்றுப்புள்ளி வைக்கப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-8047a394)
+- 2026-08-14 | `tamilmirrorlk-f33665f1` | காலநிலையில் இன்று ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-f33665f1)
+- 2026-08-14 | `tamilmirrorlk-94ad64e3` | செவ்வந்தி குறித்து புதிய செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-94ad64e3)
+- 2026-08-14 | `tamilmirrorlk-8c2e655a` | மோசமான முறையில் சொத்து சேர்த்த பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-tamilmirrorlk-8c2e655a)
+- 2026-08-14 | `adalk-3cba4dc0` | මහ බැංකුවේ 2026 වසර දෙවැනි මුදල් ප්‍රතිපත්ති වාර්තාව එළිදකී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-3cba4dc0)
+- 2026-08-14 | `adalk-72a46fec` | ප්‍රශ්න පත්‍ර පිටවිමක් නෑ, නියමිත පරිදි විභාගයට මුහුණ දෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-adalk-72a46fec)
+- 2026-08-14 | `dailymirrorlk-fe7d2a3f` | Active secondary market amid moderate volumes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-fe7d2a3f)
+- 2026-08-14 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailymirrorlk-821a32a1)
+- 2026-08-14 | `dailyftlk-efa3c8ed` | President defends proposed 22nd Amendment, explains stance to BASL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-efa3c8ed)
 - 2026-08-14 | `dailyftlk-53904a00` | Cabinet approves Rs. 635 m correctional centre for drug offenders in Kekirawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-53904a00)
 - 2026-08-14 | `dailyftlk-a623e916` | Cabinet clears Rs. 232 m to restore 144 religious sites damaged by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-a623e916)
 - 2026-08-14 | `dailyftlk-649b7962` | ProFood ProPack and AgBiz 23rd edition from 21 Aug. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-649b7962)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-08-14 | `dailyftlk-4d5915cf` | CA Sri Lanka’s flagship National Conference returns this October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-4d5915cf)
 - 2026-08-14 | `dailyftlk-b19948b1` | Deloitte Sri Lanka discusses Board governance in rapidly evolving risk landscape | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-b19948b1)
 - 2026-08-14 | `dailyftlk-5c287e91` | CMA NCMA Awards 2026 applications open till 28 Aug. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-5c287e91)
-- 2026-08-14 | `dailyftlk-6b32ec7a` | Urgent need to fill diplomatic vacancies in key capitals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-6b32ec7a)
-- 2026-08-14 | `dailyftlk-edbb0b5f` | Entrepreneurs who left lasting footprints on Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-edbb0b5f)
-- 2026-08-14 | `dailyftlk-fb47687f` | When mosquitoes bite in Sri Lanka - A post-traumatic mosquito disorder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-fb47687f)
-- 2026-08-14 | `dailyftlk-1ac9e64c` | Lessons from global experience for Sri Lanka’s inflation target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-14-dailyftlk-1ac9e64c)
-- 2026-08-13 | `dailymirrorlk-0b55fae7` | A Pyrrhic Triumph on the Bench | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-0b55fae7)
-- 2026-08-13 | `dailymirrorlk-202d0068` | The holy and not‑so‑holy sides of the Mecca pact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-202d0068)
-- 2026-08-13 | `dailymirrorlk-f67dcf36` | It’s time to fix the street lights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-f67dcf36)
-- 2026-08-13 | `dailymirrorlk-0806b761` | Re-evaluating Abortion Laws in Sri Lanka:  A Call for Change Towards Women’s Health and Rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-0806b761)
-- 2026-08-13 | `dailymirrorlk-2cf2e913` | Remembering Gunapala Malalasekera:  Great Intellectual who brought Sinhala and English together | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-13-dailymirrorlk-2cf2e913)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-14 06:20:46",
-  "n_docs": 127280,
+  "time_updated": "2026-08-14 08:44:35",
+  "n_docs": 127290,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127280,
+  "n_docs_with_text": 127290,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-14",
-  "dataset_size": 1983191294,
+  "dataset_size": 1983417387,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-14-dailyftlk-53904a00",
-    "num": "dailyftlk-53904a00",
+    "doc_id": "2026-08-14-tamilmirrorlk-8047a394",
+    "num": "tamilmirrorlk-8047a394",
     "date_str": "2026-08-14",
-    "description": "Cabinet approves Rs. 635 m correctional centre for drug offenders in Kekirawa",
-    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-635-m-correctional-centre-for-drug-offenders-in-Kekirawa/56-796008",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1786667576.0
+    "description": "\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u2019System\u2019 : \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd-\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9-System-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-381388",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786674803.0
   }
 }
