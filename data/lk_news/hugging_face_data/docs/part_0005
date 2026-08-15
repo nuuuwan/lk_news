@@ -16285,6 +16285,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-15-adalk-43d8265f",
+    "num": "adalk-43d8265f",
+    "date_str": "2026-08-15",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf \u0db7\u0dd6 \u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dd9\u0db1\u0dca 14\u0d9a\u0dca \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf-\u0db7\u0dd6-\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dd9\u0db1\u0dca-14\u0d9a\u0dca-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-423767",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786779765.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-15-adalk-aa7f7f8a",
     "num": "adalk-aa7f7f8a",
     "date_str": "2026-08-15",
@@ -16362,6 +16373,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-eb16543d",
+    "num": "dailymirrorlk-eb16543d",
+    "date_str": "2026-08-15",
+    "description": "Judges\u2019 retirement age: BASL yet to receive complete recording of meeting with President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Judges-retirement-age-BASL-yet-to-receive-complete-recording-of-meeting-with-President/108-348183",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786794772.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-15-dailymirrorlk-0fb4f70a",
     "num": "dailymirrorlk-0fb4f70a",
     "date_str": "2026-08-15",
@@ -16392,5 +16414,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786802273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-e06454a1",
+    "num": "tamilmirrorlk-e06454a1",
+    "date_str": "2026-08-15",
+    "description": "\u0b85\u0b99\u0bcd\u0b95\u0bc1\u0bb2\u0bbe\u0ba9\u0bbe \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9 \u0b95\u0b9f\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bc8 \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b99\u0bcd\u0b95\u0bc1\u0bb2\u0bbe\u0ba9\u0bbe-\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9-\u0b95\u0b9f\u0bb2\u0bcd\u0baa\u0b9f\u0bc8-\u0bb5\u0bc0\u0bb0\u0bb0\u0bc8-\u0ba4\u0bc7\u0b9f\u0bbf-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8/175-381445",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786804709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-4305af54",
+    "num": "tamilmirrorlk-4305af54",
+    "date_str": "2026-08-15",
+    "description": "\u0ba8\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0bc0",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bc8-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0bc0/175-381447",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786807176.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-e089bb2b",
+    "num": "tamilmirrorlk-e089bb2b",
+    "date_str": "2026-08-15",
+    "description": "72 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb7\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0bbe\u0b9a\u0bbf\u0b95\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/72-\u0bae\u0ba3\u0bbf-\u0ba8\u0bc7\u0bb0-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd-\u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd-\u0bb7\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0bbe\u0b9a\u0bbf\u0b95\u0bcd/175-381448",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786807935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-f154b332",
+    "num": "tamilmirrorlk-f154b332",
+    "date_str": "2026-08-15",
+    "description": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8 : \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381449",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786809169.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-adalk-8a4fb7c3",
+    "num": "adalk-8a4fb7c3",
+    "date_str": "2026-08-15",
+    "description": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc0\u0dda\u0d9c \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0d9a \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a\u0dba\u0db1\u0dca 11 \u0daf\u0dd9\u0db1\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dc0\u0dda\u0d9c-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0d9a-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a\u0dba\u0db1\u0dca-11-\u0daf\u0dd9\u0db1\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd9\u0dba\u0dd2/11-423770",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786809840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-731ebfc0",
+    "num": "dailymirrorlk-731ebfc0",
+    "date_str": "2026-08-15",
+    "description": "Three arrested over viral sword-threat incident in Divulapitiya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-arrested-over-viral-sword-threat-incident-in-Divulapitiya/108-348188",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786810065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-e2712292",
+    "num": "dailymirrorlk-e2712292",
+    "date_str": "2026-08-15",
+    "description": "72-hour detention order obtained to question Shiran Basik",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/72-hour-detention-order-obtained-to-question-Shiran-Basik/108-348189",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786810382.0
   }
 ]

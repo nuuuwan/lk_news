@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 19:50:55",
-  "n_docs": 127434,
+  "time_updated": "2026-08-15 21:53:23",
+  "n_docs": 127443,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127434,
+  "n_docs_with_text": 127443,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-15",
-  "dataset_size": 1985594650,
+  "dataset_size": 1985636052,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-b5ad21fd",
-    "num": "dailymirrorlk-b5ad21fd",
+    "doc_id": "2026-08-15-dailymirrorlk-e2712292",
+    "num": "dailymirrorlk-e2712292",
     "date_str": "2026-08-15",
-    "description": "No tsunami threat to Sri Lanka following 6.8-magnitude Indonesia earthquake",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-following-6-8-magnitude-Indonesia-earthquake/108-348186",
+    "description": "72-hour detention order obtained to question Shiran Basik",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/72-hour-detention-order-obtained-to-question-Shiran-Basik/108-348189",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786802273.0
+    "time_ut": 1786810382.0
   }
 }
