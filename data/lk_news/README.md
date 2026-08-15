@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_09:58:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_11:53:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,414** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,421** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-4cca20d1",
-    "num": "dailymirrorlk-4cca20d1",
+    "doc_id": "2026-08-15-dailymirrorlk-9d2f2452",
+    "num": "dailymirrorlk-9d2f2452",
     "date_str": "2026-08-15",
-    "description": "Hatton\u2013Colombo Main Road partially reopened after landslide",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/HattonColombo-Main-Road-partially-reopened-after-landslide/108-348160",
+    "description": "Legal battles loom against 22nd amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Legal-battles-loom-against-22nd-amendment/108-348165",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786765603.0
+    "time_ut": 1786774520.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-15 | `dailymirrorlk-9d2f2452` | Legal battles loom against 22nd amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-9d2f2452)
+- 2026-08-15 | `tamilmirrorlk-d9d40d0e` | திருட வந்தவருக்கு ஏமாற்றம் : வலைவீசும் பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-d9d40d0e)
+- 2026-08-15 | `dailymirrorlk-3b64bb79` | 72-hour detention order issued against drug trafficker Shiran Basik | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-3b64bb79)
+- 2026-08-15 | `dailymirrorlk-298f8573` | Sri Lanka to invite international bids later this month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-298f8573)
+- 2026-08-15 | `tamilmirrorlk-a3721c1a` | ஹட்டன் - கொழுப்பு போக்குவரத்து தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-a3721c1a)
+- 2026-08-15 | `dailymirrorlk-a81fa8e6` | Strengthen criminal justice system before reintroducing death penalty: Criminal Defence Attorney | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-a81fa8e6)
+- 2026-08-15 | `dailymirrorlk-e4cc7000` | Indonesia Flores earthquake kills two, tsunami warning lifted after panic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e4cc7000)
 - 2026-08-15 | `dailymirrorlk-4cca20d1` | Hatton–Colombo Main Road partially reopened after landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-4cca20d1)
 - 2026-08-15 | `dailymirrorlk-ed5cac77` | Did Justice Minister record a livestream while driving? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-ed5cac77)
 - 2026-08-15 | `tamilmirrorlk-df8cba73` | ’ஈரான் மீதான போரின் முதல் இலக்கு மசகு எண்ணெய் விலை குறைப்புதான்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-df8cba73)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-08-15 | `dailymirrorlk-f43c8a23` | A solution to the drug-fuelled prison system How the rehabilitation of 12,000 LTTE cadres can show the way | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-f43c8a23)
 - 2026-08-15 | `dailymirrorlk-6db95fe9` | Decriminalising LGBTIQ, death penalty etc. as means to secure GSP+ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-6db95fe9)
 - 2026-08-15 | `dailymirrorlk-eaf20df2` | NPP at a Constitutional Crossroads: Pragmatism, Provincial Democracy and the Price of Public Trust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-eaf20df2)
-- 2026-08-15 | `dailymirrorlk-e9bb9e5c` | SL seeks Japan backing for National AI Data Centre, digital TV push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e9bb9e5c)
-- 2026-08-15 | `dailymirrorlk-55501b64` | Sri Lanka strengthens investor links with Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-55501b64)
-- 2026-08-15 | `dailymirrorlk-5f3bc283` | Ceylinco Life crosses Rs.300bn assets milestone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-5f3bc283)
-- 2026-08-15 | `dailymirrorlk-a2a52db7` | Colombo tea auction strengthens as buyer activity improves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-a2a52db7)
-- 2026-08-15 | `dailymirrorlk-4d368d1d` | Tokyo Cement posts steady FY26/27 1Q performance amid gradual market recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-4d368d1d)
-- 2026-08-15 | `dailymirrorlk-f898e1d2` | Long tenures attract modest buying interest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-f898e1d2)
-- 2026-08-15 | `dailymirrorlk-dd76ffb4` | Week ends in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-dd76ffb4)
 
 ---
 

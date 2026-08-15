@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 09:57:49",
-  "n_docs": 127414,
+  "time_updated": "2026-08-15 11:52:21",
+  "n_docs": 127421,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127414,
+  "n_docs_with_text": 127421,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-15",
-  "dataset_size": 1985357652,
+  "dataset_size": 1985432527,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-4cca20d1",
-    "num": "dailymirrorlk-4cca20d1",
+    "doc_id": "2026-08-15-dailymirrorlk-9d2f2452",
+    "num": "dailymirrorlk-9d2f2452",
     "date_str": "2026-08-15",
-    "description": "Hatton\u2013Colombo Main Road partially reopened after landslide",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/HattonColombo-Main-Road-partially-reopened-after-landslide/108-348160",
+    "description": "Legal battles loom against 22nd amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Legal-battles-loom-against-22nd-amendment/108-348165",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786765603.0
+    "time_ut": 1786774520.0
   }
 }
