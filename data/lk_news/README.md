@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_13:56:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_15:52:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,430** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-47418866",
-    "num": "dailymirrorlk-47418866",
+    "doc_id": "2026-08-15-dailymirrorlk-e8fda9ce",
+    "num": "dailymirrorlk-e8fda9ce",
     "date_str": "2026-08-15",
-    "description": "Sri Lanka has most favourable view of India globally",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-most-favourable-view-of-India-globally/108-348178",
+    "description": "Indonesia quake death toll rises to 38",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-quake-death-toll-rises-to-38/108-348182",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786780913.0
+    "time_ut": 1786787048.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-15 | `dailymirrorlk-e8fda9ce` | Indonesia quake death toll rises to 38 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e8fda9ce)
+- 2026-08-15 | `dailymirrorlk-e61ce13e` | Eleven rescued after fast attack craft runs into distress off Angulana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e61ce13e)
+- 2026-08-15 | `dailymirrorlk-f5075a05` | Search and rescue launched after Navy craft accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-f5075a05)
+- 2026-08-15 | `tamilmirrorlk-31c8c47a` | சுதந்திர தின விழாவில் த்ரிஷா : சல்யூட் அடித்த முதல்வர் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-31c8c47a)
 - 2026-08-15 | `dailymirrorlk-47418866` | Sri Lanka has most favourable view of India globally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-47418866)
 - 2026-08-15 | `adalk-aa7f7f8a` | ශිරාන් බාසික් කොළඹ මධ්‍යම අපරාධ විමර්ශන ඒකකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-adalk-aa7f7f8a)
 - 2026-08-15 | `dailymirrorlk-a46dc557` | Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-a46dc557)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-15 | `tamilmirrorlk-df8cba73` | ’ஈரான் மீதான போரின் முதல் இலக்கு மசகு எண்ணெய் விலை குறைப்புதான்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-df8cba73)
 - 2026-08-15 | `tamilmirrorlk-330a5fc6` | சிறைச்சாலை அதிகாரிகளுக்கு ஆபத்து? பாதாள உலக குழு உறுப்பினர் அதிரடி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-330a5fc6)
 - 2026-08-15 | `tamilmirrorlk-fc977fc3` | ஹட்டன் கண்டி ஹட்டன் கொழுப்பு பிரதான சாலை போக்குவரத்து தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-fc977fc3)
-- 2026-08-15 | `tamilmirrorlk-4a6597f1` | நாட்டுக்கு அழைத்துவரப்பட்ட ஷிரான் பாசிக் : அடுத்தகட்ட நடவடிக்கை என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-4a6597f1)
-- 2026-08-15 | `tamilmirrorlk-dc3b19af` | இன்று அதிகாலை பயங்கர நிலநடுக்கம் : சுனாமி எச்சரிக்கை விடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-dc3b19af)
-- 2026-08-15 | `tamilmirrorlk-6479f533` | ’கூட்டுறவு முறைமையை சந்தையில் மேம்படுத்த வேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-6479f533)
-- 2026-08-15 | `tamilmirrorlk-a1ad5675` | வீதியில் நின்ற வாகனத்தை பள்ளத்தில் வீசிய கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-a1ad5675)
 
 ---
 

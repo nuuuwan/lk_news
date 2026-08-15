@@ -16304,5 +16304,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786780913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-31c8c47a",
+    "num": "tamilmirrorlk-31c8c47a",
+    "date_str": "2026-08-15",
+    "description": "\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0bbf\u0ba9 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bcd\u0bb0\u0bbf\u0bb7\u0bbe : \u0b9a\u0bb2\u0bcd\u0baf\u0bc2\u0b9f\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0-\u0ba4\u0bbf\u0ba9-\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bcd\u0bb0\u0bbf\u0bb7\u0bbe-\u0b9a\u0bb2\u0bcd\u0baf\u0bc2\u0b9f\u0bcd-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd/54-381444",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786782533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-f5075a05",
+    "num": "dailymirrorlk-f5075a05",
+    "date_str": "2026-08-15",
+    "description": "Search and rescue launched after Navy craft accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Search-and-rescue-launched-after-Navy-craft-accident/108-348179",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786782869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-e61ce13e",
+    "num": "dailymirrorlk-e61ce13e",
+    "date_str": "2026-08-15",
+    "description": "Eleven rescued after fast attack craft runs into distress off Angulana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eleven-rescued-after-fast-attack-craft-runs-into-distress-off-Angulana/108-348180",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786784062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-e8fda9ce",
+    "num": "dailymirrorlk-e8fda9ce",
+    "date_str": "2026-08-15",
+    "description": "Indonesia quake death toll rises to 38",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-quake-death-toll-rises-to-38/108-348182",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786787048.0
   }
 ]
