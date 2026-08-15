@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_23:54:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_01:52:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,445** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,446** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-adalk-2f131ee3",
-    "num": "adalk-2f131ee3",
+    "doc_id": "2026-08-15-dailymirrorlk-f5f1d4c6",
+    "num": "dailymirrorlk-f5f1d4c6",
     "date_str": "2026-08-15",
-    "description": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0d85\u0dad\u0dca\u0dad\u0db1\u0ddd\u0db8\u0dad\u0dd2\u0d9a \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d85\u0dbb\u0d9c\u0dd9\u0db1",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0dad\u0db1\u0ddd\u0db8\u0dad\u0dd2\u0d9a-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dbb\u0d9c\u0dd9\u0db1/11-423772",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1786811489.0
+    "description": "Man shot dead in Mount Lavinia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-shot-dead-in-Mount-Lavinia/108-348190",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786818233.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-15 | `dailymirrorlk-f5f1d4c6` | Man shot dead in Mount Lavinia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-f5f1d4c6)
 - 2026-08-15 | `adalk-2f131ee3` | ජනාධිපතිවරයා අත්තනෝමතික තීරණයක් අරගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-adalk-2f131ee3)
 - 2026-08-15 | `dailymirrorlk-e2712292` | 72-hour detention order obtained to question Shiran Basik | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e2712292)
 - 2026-08-15 | `dailymirrorlk-731ebfc0` | Three arrested over viral sword-threat incident in Divulapitiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-731ebfc0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-15 | `dailymirrorlk-f5075a05` | Search and rescue launched after Navy craft accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-f5075a05)
 - 2026-08-15 | `tamilmirrorlk-31c8c47a` | சுதந்திர தின விழாவில் த்ரிஷா : சல்யூட் அடித்த முதல்வர் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-31c8c47a)
 - 2026-08-15 | `dailymirrorlk-47418866` | Sri Lanka has most favourable view of India globally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-47418866)
-- 2026-08-15 | `adalk-aa7f7f8a` | ශිරාන් බාසික් කොළඹ මධ්‍යම අපරාධ විමර්ශන ඒකකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-adalk-aa7f7f8a)
 
 ---
 
