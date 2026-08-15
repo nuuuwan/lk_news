@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 21:53:23",
-  "n_docs": 127443,
+  "time_updated": "2026-08-15 23:54:02",
+  "n_docs": 127445,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127443,
+  "n_docs_with_text": 127445,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-15",
-  "dataset_size": 1985636052,
+  "dataset_size": 1985699031,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-e2712292",
-    "num": "dailymirrorlk-e2712292",
+    "doc_id": "2026-08-15-adalk-2f131ee3",
+    "num": "adalk-2f131ee3",
     "date_str": "2026-08-15",
-    "description": "72-hour detention order obtained to question Shiran Basik",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/72-hour-detention-order-obtained-to-question-Shiran-Basik/108-348189",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786810382.0
+    "description": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0d85\u0dad\u0dca\u0dad\u0db1\u0ddd\u0db8\u0dad\u0dd2\u0d9a \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d85\u0dbb\u0d9c\u0dd9\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0dad\u0db1\u0ddd\u0db8\u0dad\u0dd2\u0d9a-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dbb\u0d9c\u0dd9\u0db1/11-423772",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786811489.0
   }
 }
