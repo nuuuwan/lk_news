@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 15:51:19",
-  "n_docs": 127430,
+  "time_updated": "2026-08-15 17:51:46",
+  "n_docs": 127431,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127430,
+  "n_docs_with_text": 127431,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-15",
-  "dataset_size": 1985553790,
+  "dataset_size": 1985582815,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-e8fda9ce",
-    "num": "dailymirrorlk-e8fda9ce",
+    "doc_id": "2026-08-15-dailymirrorlk-c7191ad8",
+    "num": "dailymirrorlk-c7191ad8",
     "date_str": "2026-08-15",
-    "description": "Indonesia quake death toll rises to 38",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-quake-death-toll-rises-to-38/108-348182",
+    "description": "judges\u2019 retirement age: BASL yet to receive complete recording of meeting with President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/judges-retirement-age-BASL-yet-to-receive-complete-recording-of-meeting-with-President/108-348183",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786787048.0
+    "time_ut": 1786794772.0
   }
 }
