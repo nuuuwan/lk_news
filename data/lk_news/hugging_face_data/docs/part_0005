@@ -16065,6 +16065,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-a83cf4cf",
+    "num": "dailymirrorlk-a83cf4cf",
+    "date_str": "2026-08-15",
+    "description": "CHARTING THE NEXT WATCH",
+    "url_metadata": "https://www.dailymirror.lk/news-features/CHARTING-THE-NEXT-WATCH/131-348154",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786741212.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-15-tamilmirrorlk-a1ad5675",
     "num": "tamilmirrorlk-a1ad5675",
     "date_str": "2026-08-15",
@@ -16117,5 +16128,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786761119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-330a5fc6",
+    "num": "tamilmirrorlk-330a5fc6",
+    "date_str": "2026-08-15",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1? \u0baa\u0bbe\u0ba4\u0bbe\u0bb3 \u0b89\u0bb2\u0b95 \u0b95\u0bc1\u0bb4\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0ba4\u0bbe\u0bb3-\u0b89\u0bb2\u0b95-\u0b95\u0bc1\u0bb4\u0bc1-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-381440",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786762893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-tamilmirrorlk-df8cba73",
+    "num": "tamilmirrorlk-df8cba73",
+    "date_str": "2026-08-15",
+    "description": "\u2019\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bbe\u0ba9-\u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0b9a\u0b95\u0bc1-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd/50-381441",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786764733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-ed5cac77",
+    "num": "dailymirrorlk-ed5cac77",
+    "date_str": "2026-08-15",
+    "description": "Did Justice Minister record a livestream while driving?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Did-Justice-Minister-record-a-livestream-while-driving/108-348159",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786765321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-4cca20d1",
+    "num": "dailymirrorlk-4cca20d1",
+    "date_str": "2026-08-15",
+    "description": "Hatton\u2013Colombo Main Road partially reopened after landslide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/HattonColombo-Main-Road-partially-reopened-after-landslide/108-348160",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786765603.0
   }
 ]
