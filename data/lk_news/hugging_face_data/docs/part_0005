@@ -15361,6 +15361,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-14-adalk-dacbe82f",
+    "num": "adalk-dacbe82f",
+    "date_str": "2026-08-14",
+    "description": "\u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 49\u0d9a\u0dca \u0d9c\u0dd2\u0dbd \u0daf\u0dd0\u0db8\u0dd6 \u0d8a \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-49\u0d9a\u0dca-\u0d9c\u0dd2\u0dbd-\u0daf\u0dd0\u0db8\u0dd6-\u0d8a-\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba/11-423760",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786698309.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-14-dailymirrorlk-698672db",
     "num": "dailymirrorlk-698672db",
     "date_str": "2026-08-14",
@@ -16249,5 +16260,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786774520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-8ab632b8",
+    "num": "dailymirrorlk-8ab632b8",
+    "date_str": "2026-08-15",
+    "description": "Alcohol-related health and economic costs exceed tax revenue in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Alcohol-related-health-and-economic-costs-exceed-tax-revenue-in-Sri-Lanka/108-348174",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786778882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-a46dc557",
+    "num": "dailymirrorlk-a46dc557",
+    "date_str": "2026-08-15",
+    "description": "Trump says he will declare Strait of Hormuz a US \u2018territory\u2019 amid Iran war",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-he-will-declare-Strait-of-Hormuz-a-US-territory-amid-Iran-war/108-348177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786779371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-adalk-aa7f7f8a",
+    "num": "adalk-aa7f7f8a",
+    "date_str": "2026-08-15",
+    "description": "\u0dc1\u0dd2\u0dbb\u0dcf\u0db1\u0dca \u0db6\u0dcf\u0dc3\u0dd2\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1 \u0d92\u0d9a\u0d9a\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dbb\u0dcf\u0db1\u0dca-\u0db6\u0dcf\u0dc3\u0dd2\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d85\u0db4\u0dbb\u0dcf\u0db0-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1-\u0d92\u0d9a\u0d9a\u0dba\u0da7/11-423768",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786780036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-47418866",
+    "num": "dailymirrorlk-47418866",
+    "date_str": "2026-08-15",
+    "description": "Sri Lanka has most favourable view of India globally",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-most-favourable-view-of-India-globally/108-348178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786780913.0
   }
 ]
