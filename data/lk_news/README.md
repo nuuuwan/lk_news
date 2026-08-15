@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_17:52:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--15_19:51:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,431** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,434** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-c7191ad8",
-    "num": "dailymirrorlk-c7191ad8",
+    "doc_id": "2026-08-15-dailymirrorlk-b5ad21fd",
+    "num": "dailymirrorlk-b5ad21fd",
     "date_str": "2026-08-15",
-    "description": "judges\u2019 retirement age: BASL yet to receive complete recording of meeting with President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/judges-retirement-age-BASL-yet-to-receive-complete-recording-of-meeting-with-President/108-348183",
+    "description": "No tsunami threat to Sri Lanka following 6.8-magnitude Indonesia earthquake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-following-6-8-magnitude-Indonesia-earthquake/108-348186",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786794772.0
+    "time_ut": 1786802273.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-15 | `dailymirrorlk-b5ad21fd` | No tsunami threat to Sri Lanka following 6.8-magnitude Indonesia earthquake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-b5ad21fd)
+- 2026-08-15 | `dailymirrorlk-7df2c09e` | Second major quake hits Indonesia in a day as 7.7 magnitude tremor leaves 38 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-7df2c09e)
+- 2026-08-15 | `dailymirrorlk-0fb4f70a` | Vehicle prices to surge as 50% import duty surcharge extended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-0fb4f70a)
 - 2026-08-15 | `dailymirrorlk-c7191ad8` | judges’ retirement age: BASL yet to receive complete recording of meeting with President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-c7191ad8)
 - 2026-08-15 | `dailymirrorlk-e8fda9ce` | Indonesia quake death toll rises to 38 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e8fda9ce)
 - 2026-08-15 | `dailymirrorlk-e61ce13e` | Eleven rescued after fast attack craft runs into distress off Angulana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e61ce13e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-15 | `dailymirrorlk-a81fa8e6` | Strengthen criminal justice system before reintroducing death penalty: Criminal Defence Attorney | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-a81fa8e6)
 - 2026-08-15 | `dailymirrorlk-e4cc7000` | Indonesia Flores earthquake kills two, tsunami warning lifted after panic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-e4cc7000)
 - 2026-08-15 | `dailymirrorlk-4cca20d1` | Hatton–Colombo Main Road partially reopened after landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-4cca20d1)
-- 2026-08-15 | `dailymirrorlk-ed5cac77` | Did Justice Minister record a livestream while driving? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-dailymirrorlk-ed5cac77)
-- 2026-08-15 | `tamilmirrorlk-df8cba73` | ’ஈரான் மீதான போரின் முதல் இலக்கு மசகு எண்ணெய் விலை குறைப்புதான்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-df8cba73)
-- 2026-08-15 | `tamilmirrorlk-330a5fc6` | சிறைச்சாலை அதிகாரிகளுக்கு ஆபத்து? பாதாள உலக குழு உறுப்பினர் அதிரடி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-15-tamilmirrorlk-330a5fc6)
 
 ---
 

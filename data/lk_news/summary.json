@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-15 17:51:46",
-  "n_docs": 127431,
+  "time_updated": "2026-08-15 19:50:55",
+  "n_docs": 127434,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127431,
+  "n_docs_with_text": 127434,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-15",
-  "dataset_size": 1985582815,
+  "dataset_size": 1985594650,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-15-dailymirrorlk-c7191ad8",
-    "num": "dailymirrorlk-c7191ad8",
+    "doc_id": "2026-08-15-dailymirrorlk-b5ad21fd",
+    "num": "dailymirrorlk-b5ad21fd",
     "date_str": "2026-08-15",
-    "description": "judges\u2019 retirement age: BASL yet to receive complete recording of meeting with President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/judges-retirement-age-BASL-yet-to-receive-complete-recording-of-meeting-with-President/108-348183",
+    "description": "No tsunami threat to Sri Lanka following 6.8-magnitude Indonesia earthquake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-following-6-8-magnitude-Indonesia-earthquake/108-348186",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786794772.0
+    "time_ut": 1786802273.0
   }
 }

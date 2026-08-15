@@ -16359,5 +16359,38 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786794772.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-0fb4f70a",
+    "num": "dailymirrorlk-0fb4f70a",
+    "date_str": "2026-08-15",
+    "description": "Vehicle prices to surge as 50% import duty surcharge extended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vehicle-prices-to-surge-as-50-import-duty-surcharge-extended/108-348184",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786798046.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-7df2c09e",
+    "num": "dailymirrorlk-7df2c09e",
+    "date_str": "2026-08-15",
+    "description": "Second major quake hits Indonesia in a day as 7.7 magnitude tremor leaves 38 dead",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Second-major-quake-hits-Indonesia-in-a-day-as-7-7-magnitude-tremor-leaves-38-dead/108-348185",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786798777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-15-dailymirrorlk-b5ad21fd",
+    "num": "dailymirrorlk-b5ad21fd",
+    "date_str": "2026-08-15",
+    "description": "No tsunami threat to Sri Lanka following 6.8-magnitude Indonesia earthquake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-following-6-8-magnitude-Indonesia-earthquake/108-348186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786802273.0
   }
 ]
