@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_19:50:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_21:47:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,492** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-dailymirrorlk-bb381962",
-    "num": "dailymirrorlk-bb381962",
+    "doc_id": "2026-08-16-tamilmirrorlk-961c71f3",
+    "num": "tamilmirrorlk-961c71f3",
     "date_str": "2026-08-16",
-    "description": "Rs. 45 bn allocated to complete stalled hospital projects",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-45-bn-allocated-to-complete-stalled-hospital-projects/108-348207",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786888577.0
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb0\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0b95\u0bc1 \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb0\u0b95\u0baa\u0bcd-\u0baa\u0b9f\u0b95\u0bc1-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381509",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786896181.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-16 | `tamilmirrorlk-961c71f3` | சிறுரகப் படகு கவிழ்ந்து விபத்து : பயணிகள் பத்திரமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-961c71f3)
+- 2026-08-16 | `tamilmirrorlk-c23f3ad7` | பொலிஸ் ஜீப்பை கண்டு பதற்றம் ; விபத்தில் தந்தை மகன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-c23f3ad7)
+- 2026-08-16 | `tamilmirrorlk-2bd6985b` | டெங்கு நோயாளர்களின் எண்ணிக்கை 92,000-ஐக் கடந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-2bd6985b)
+- 2026-08-16 | `dailymirrorlk-8a4b1519` | Science College produce stunning rugby to lift U-16 Elite Ten-a-Side Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-8a4b1519)
+- 2026-08-16 | `dailymirrorlk-70805671` | Delft-bound boat in distress, Navy rescues 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-70805671)
 - 2026-08-16 | `dailymirrorlk-bb381962` | Rs. 45 bn allocated to complete stalled hospital projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-bb381962)
 - 2026-08-16 | `tamilmirrorlk-d5dd16c7` | பொருளாதார நம்பிக்கை சுட்டெண் மீண்டும் எதிர்மறை நிலையை அடைகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-d5dd16c7)
 - 2026-08-16 | `tamilmirrorlk-5e579a6c` | H5 பறவைக் காய்ச்சலால் சிறு பெங்குயின் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-5e579a6c)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-16 | `tamilmirrorlk-d8c0c3fe` | ஊரறியச் செய்தாலும் குற்றம் குற்றமே: திரிஷாவை விளாசிய முன்னணி நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-d8c0c3fe)
 - 2026-08-16 | `dailymirrorlk-84ac5fdf` | ICC World Test Championship race wide open after Bangladesh stun Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-84ac5fdf)
 - 2026-08-16 | `dailymirrorlk-87ed0961` | Navy board probes Angulana craft accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-87ed0961)
-- 2026-08-16 | `adalk-2dbcb463` | නුවරඑළිය ප්‍රාදේශීය ලේකම් කාර්යාලවල මුදල් අක්‍රමිකතා හොයන්න විගණන කණ්ඩයමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-adalk-2dbcb463)
-- 2026-08-16 | `adalk-07d66d90` | ප්‍රමාද වූ රස පරීක්ෂක වාර්තා 9000ක් අධිකරණයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-adalk-07d66d90)
-- 2026-08-16 | `dailymirrorlk-85e23dd6` | Audit Committee to investigate alleged financial fraud at Nuwara Eliya DS offices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-85e23dd6)
-- 2026-08-16 | `dailymirrorlk-d1e9f39d` | Twelve killed and at least 10 injured in Polish bus crash in Hungary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-d1e9f39d)
-- 2026-08-16 | `tamilmirrorlk-51c81907` | நுவரெலியா மாவட்ட பிரதேச செயலகங்களில் நிதி முறைகேடுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-51c81907)
 
 ---
 
