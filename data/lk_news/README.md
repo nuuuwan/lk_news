@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_21:47:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_23:56:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,499** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-tamilmirrorlk-961c71f3",
-    "num": "tamilmirrorlk-961c71f3",
+    "doc_id": "2026-08-16-tamilmirrorlk-6db11205",
+    "num": "tamilmirrorlk-6db11205",
     "date_str": "2026-08-16",
-    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb0\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0b95\u0bc1 \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb0\u0b95\u0baa\u0bcd-\u0baa\u0b9f\u0b95\u0bc1-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381509",
+    "description": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd \u0b95\u0ba8\u0bcd\u0ba4\u0ba9\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd-\u0b95\u0ba8\u0bcd\u0ba4\u0ba9\u0bbf\u0ba9\u0bcd-\u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8/175-381511",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786896181.0
+    "time_ut": 1786897745.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-16 | `tamilmirrorlk-6db11205` | நல்லூர் கந்தனின் வருடாந்த கொடியேற்றம் நாளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-6db11205)
+- 2026-08-16 | `tamilmirrorlk-f2a360df` | “வழக்குகளை விசாரிக்க நானும் தயார்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-f2a360df)
 - 2026-08-16 | `tamilmirrorlk-961c71f3` | சிறுரகப் படகு கவிழ்ந்து விபத்து : பயணிகள் பத்திரமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-961c71f3)
 - 2026-08-16 | `tamilmirrorlk-c23f3ad7` | பொலிஸ் ஜீப்பை கண்டு பதற்றம் ; விபத்தில் தந்தை மகன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-c23f3ad7)
 - 2026-08-16 | `tamilmirrorlk-2bd6985b` | டெங்கு நோயாளர்களின் எண்ணிக்கை 92,000-ஐக் கடந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-2bd6985b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-08-16 | `dailymirrorlk-e3313f02` | Public approval of the government declines: Verité Research poll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e3313f02)
 - 2026-08-16 | `tamilmirrorlk-2a52cced` | ’’நான் யாருக்கும் உதட்டு முத்தம் கொடுக்கவில்லை’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-2a52cced)
 - 2026-08-16 | `tamilmirrorlk-d8c0c3fe` | ஊரறியச் செய்தாலும் குற்றம் குற்றமே: திரிஷாவை விளாசிய முன்னணி நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-d8c0c3fe)
-- 2026-08-16 | `dailymirrorlk-84ac5fdf` | ICC World Test Championship race wide open after Bangladesh stun Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-84ac5fdf)
-- 2026-08-16 | `dailymirrorlk-87ed0961` | Navy board probes Angulana craft accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-87ed0961)
 
 ---
 
