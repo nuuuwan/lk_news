@@ -16700,5 +16700,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786852478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-c94950e4",
+    "num": "tamilmirrorlk-c94950e4",
+    "date_str": "2026-08-16",
+    "description": "\u2019\u0b9f\u0bc7\u0bb5\u0bcb\u0bb0\u0bbe\u2019 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc7\u0bb5\u0bcb\u0bb0\u0bbe-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-\u0ba4\u0bc7\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd-\u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd/175-381473",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786856283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-1e018814",
+    "num": "tamilmirrorlk-1e018814",
+    "date_str": "2026-08-16",
+    "description": "\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-381474",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786857491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-e61ca3aa",
+    "num": "dailymirrorlk-e61ca3aa",
+    "date_str": "2026-08-16",
+    "description": "Bathing incident in Ma Oya leaves one dead, one missing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bathing-incident-in-Ma-Oya-leaves-one-dead-one-missing/108-348195",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786857880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-8001f4b6",
+    "num": "dailymirrorlk-8001f4b6",
+    "date_str": "2026-08-16",
+    "description": "Bangladesh notch historic first Test win in Australia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bangladesh-notch-historic-first-Test-win-in-Australia/108-348196",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786859687.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-870411c8",
+    "num": "dailymirrorlk-870411c8",
+    "date_str": "2026-08-16",
+    "description": "Sri Lanka expresses deep sorrow over loss of lives in Indonesian earthquake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-expresses-deep-sorrow-over-loss-of-lives-in-Indonesian-earthquake/108-348197",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786860489.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-33cc5136",
+    "num": "dailymirrorlk-33cc5136",
+    "date_str": "2026-08-16",
+    "description": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thousands-evacuate-after-Indonesia-quake-kills-51-cuts-roads/108-348198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786860881.0
   }
 ]

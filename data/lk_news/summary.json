@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-16 10:04:21",
-  "n_docs": 127462,
+  "time_updated": "2026-08-16 11:58:33",
+  "n_docs": 127468,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127462,
+  "n_docs_with_text": 127468,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-16",
-  "dataset_size": 1985825420,
+  "dataset_size": 1985966207,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-dailymirrorlk-bb18eef6",
-    "num": "dailymirrorlk-bb18eef6",
+    "doc_id": "2026-08-16-dailymirrorlk-33cc5136",
+    "num": "dailymirrorlk-33cc5136",
     "date_str": "2026-08-16",
-    "description": "Search continues after Navy craft incident Off Angulana",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Search-continues-after-Navy-craft-incident-Off-Angulana/108-348192",
+    "description": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thousands-evacuate-after-Indonesia-quake-kills-51-cuts-roads/108-348198",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786852478.0
+    "time_ut": 1786860881.0
   }
 }
