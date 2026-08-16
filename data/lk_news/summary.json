@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-16 15:51:10",
-  "n_docs": 127480,
+  "time_updated": "2026-08-16 17:52:48",
+  "n_docs": 127488,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127480,
+  "n_docs_with_text": 127488,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-16",
-  "dataset_size": 1986100588,
+  "dataset_size": 1986196933,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-tamilmirrorlk-2a52cced",
-    "num": "tamilmirrorlk-2a52cced",
+    "doc_id": "2026-08-16-dailymirrorlk-746e14af",
+    "num": "dailymirrorlk-746e14af",
     "date_str": "2026-08-16",
-    "description": "\u2019\u2019\u0ba8\u0bbe\u0ba9\u0bcd \u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba8\u0bbe\u0ba9\u0bcd-\u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b89\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/54-381483",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786875139.0
+    "description": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-attacks-Russia-with-hundreds-of-drones-in-one-of-Kyivs-largest-aerial-assaults-of-the-conflict/108-348206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786881850.0
   }
 }

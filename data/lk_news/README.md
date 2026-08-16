@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_15:52:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_17:53:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,480** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,488** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-tamilmirrorlk-2a52cced",
-    "num": "tamilmirrorlk-2a52cced",
+    "doc_id": "2026-08-16-dailymirrorlk-746e14af",
+    "num": "dailymirrorlk-746e14af",
     "date_str": "2026-08-16",
-    "description": "\u2019\u2019\u0ba8\u0bbe\u0ba9\u0bcd \u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba8\u0bbe\u0ba9\u0bcd-\u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b89\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/54-381483",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786875139.0
+    "description": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-attacks-Russia-with-hundreds-of-drones-in-one-of-Kyivs-largest-aerial-assaults-of-the-conflict/108-348206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786881850.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-16 | `dailymirrorlk-746e14af` | Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-746e14af)
+- 2026-08-16 | `tamilmirrorlk-3148bb7c` | இலங்கை ஊடக வரலாற்றில் புதிய சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-3148bb7c)
+- 2026-08-16 | `dailymirrorlk-e99d60d1` | Revised VAT invoice format mandatory from October 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e99d60d1)
+- 2026-08-16 | `tamilmirrorlk-ea154e3d` | 3.1 கிலோ எடையுள்ள ராட்சத சிறுநீரகக் கல் அகற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-ea154e3d)
+- 2026-08-16 | `tamilmirrorlk-4b60707f` | 457 கிலோ எடையில் ராட்சத பூசணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-4b60707f)
+- 2026-08-16 | `tamilmirrorlk-055f5279` | சுவர்களில் செங்கக்கற்களுக்கு இடையில் தங்கப் புதையல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-055f5279)
+- 2026-08-16 | `dailymirrorlk-e3313f02` | Public approval of the government declines: Verité Research poll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e3313f02)
 - 2026-08-16 | `tamilmirrorlk-2a52cced` | ’’நான் யாருக்கும் உதட்டு முத்தம் கொடுக்கவில்லை’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-2a52cced)
 - 2026-08-16 | `tamilmirrorlk-d8c0c3fe` | ஊரறியச் செய்தாலும் குற்றம் குற்றமே: திரிஷாவை விளாசிய முன்னணி நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-d8c0c3fe)
 - 2026-08-16 | `dailymirrorlk-84ac5fdf` | ICC World Test Championship race wide open after Bangladesh stun Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-84ac5fdf)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-08-16 | `tamilmirrorlk-591a8e9e` | சாதனை படைத்த உலகின் மிகப்பெரிய மின்சார விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-591a8e9e)
 - 2026-08-16 | `dailymirrorlk-33cc5136` | Thousands evacuate after Indonesia quake kills 51, cuts roads | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-33cc5136)
 - 2026-08-16 | `dailymirrorlk-870411c8` | Sri Lanka expresses deep sorrow over loss of lives in Indonesian earthquake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-870411c8)
-- 2026-08-16 | `dailymirrorlk-8001f4b6` | Bangladesh notch historic first Test win in Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-8001f4b6)
-- 2026-08-16 | `dailymirrorlk-e61ca3aa` | Bathing incident in Ma Oya leaves one dead, one missing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e61ca3aa)
-- 2026-08-16 | `tamilmirrorlk-1e018814` | மோட்டார் சைக்கிள் மோதிய விபத்துகளில் இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-1e018814)
-- 2026-08-16 | `tamilmirrorlk-c94950e4` | ’டேவோரா’ கப்பல் விபத்து : தொடர்ந்தும் தேடுதல் பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-c94950e4)
-- 2026-08-16 | `dailymirrorlk-bb18eef6` | Search continues after Navy craft incident Off Angulana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-bb18eef6)
-- 2026-08-16 | `adalk-86d6ea0e` | මදු දෙකකටත් හසුව ජීවිතය බේරාගත් කඳුකර කොටියා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-adalk-86d6ea0e)
-- 2026-08-16 | `dailymirrorlk-e9bbbb42` | At least 72 dead, including 18 children, in Zimbabwe ferry disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e9bbbb42)
 
 ---
 

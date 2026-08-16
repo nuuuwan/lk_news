@@ -16725,6 +16725,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-d21964cd",
+    "num": "dailymirrorlk-d21964cd",
+    "date_str": "2026-08-16",
+    "description": "India celebrates 80th Independence Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/India-celebrates-80th-Independence-Day/110-348193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786856752.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-16-tamilmirrorlk-1e018814",
     "num": "tamilmirrorlk-1e018814",
     "date_str": "2026-08-16",
@@ -16898,5 +16909,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786875139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-e3313f02",
+    "num": "dailymirrorlk-e3313f02",
+    "date_str": "2026-08-16",
+    "description": "Public approval of the government declines: Verit\u00e9 Research poll",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-approval-of-the-government-declines-Verit\u00e9-Research-poll/108-348204",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786877432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-055f5279",
+    "num": "tamilmirrorlk-055f5279",
+    "date_str": "2026-08-16",
+    "description": "\u0b9a\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bb1\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bc1\u0ba4\u0bc8\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bb1\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd-\u0baa\u0bc1\u0ba4\u0bc8\u0baf\u0bb2\u0bcd/50-381484",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786877558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-4b60707f",
+    "num": "tamilmirrorlk-4b60707f",
+    "date_str": "2026-08-16",
+    "description": "457 \u0b95\u0bbf\u0bb2\u0bcb \u0b8e\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4 \u0baa\u0bc2\u0b9a\u0ba3\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/457-\u0b95\u0bbf\u0bb2\u0bcb-\u0b8e\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4-\u0baa\u0bc2\u0b9a\u0ba3\u0bbf/50-381485",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786877721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-ea154e3d",
+    "num": "tamilmirrorlk-ea154e3d",
+    "date_str": "2026-08-16",
+    "description": "3.1 \u0b95\u0bbf\u0bb2\u0bcb \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4 \u0b9a\u0bbf\u0bb1\u0bc1\u0ba8\u0bc0\u0bb0\u0b95\u0b95\u0bcd \u0b95\u0bb2\u0bcd \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8/3-1-\u0b95\u0bbf\u0bb2\u0bcb-\u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3-\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0ba4-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba8\u0bc0\u0bb0\u0b95\u0b95\u0bcd-\u0b95\u0bb2\u0bcd-\u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/75-381487",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786878373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-e99d60d1",
+    "num": "dailymirrorlk-e99d60d1",
+    "date_str": "2026-08-16",
+    "description": "Revised VAT invoice format mandatory from October 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Revised-VAT-invoice-format-mandatory-from-October-1/108-348205",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786881564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-3148bb7c",
+    "num": "tamilmirrorlk-3148bb7c",
+    "date_str": "2026-08-16",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8a\u0b9f\u0b95 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b8a\u0b9f\u0b95-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8/46-381489",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786881814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-746e14af",
+    "num": "dailymirrorlk-746e14af",
+    "date_str": "2026-08-16",
+    "description": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-attacks-Russia-with-hundreds-of-drones-in-one-of-Kyivs-largest-aerial-assaults-of-the-conflict/108-348206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786881850.0
   }
 ]
