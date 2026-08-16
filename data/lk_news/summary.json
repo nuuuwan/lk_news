@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-16 08:17:47",
-  "n_docs": 127451,
+  "time_updated": "2026-08-16 10:04:21",
+  "n_docs": 127462,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127451,
+  "n_docs_with_text": 127462,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-16",
-  "dataset_size": 1985736344,
+  "dataset_size": 1985825420,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-tamilmirrorlk-a171c50f",
-    "num": "tamilmirrorlk-a171c50f",
+    "doc_id": "2026-08-16-dailymirrorlk-bb18eef6",
+    "num": "dailymirrorlk-bb18eef6",
     "date_str": "2026-08-16",
-    "description": "\u0b86\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0bb0\u0bbf\u0bb7\u0bbe\u0b9f\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9f\u0bc8-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0bb0\u0bbf\u0bb7\u0bbe\u0b9f\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381453",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786847570.0
+    "description": "Search continues after Navy craft incident Off Angulana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Search-continues-after-Navy-craft-incident-Off-Angulana/108-348192",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786852478.0
   }
 }
