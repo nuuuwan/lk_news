@@ -16692,6 +16692,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-16-adalk-86d6ea0e",
+    "num": "adalk-86d6ea0e",
+    "date_str": "2026-08-16",
+    "description": "\u0db8\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0da7\u0dad\u0dca \u0dc4\u0dc3\u0dd4\u0dc0 \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba \u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0daf\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0da7\u0dad\u0dca-\u0dc4\u0dc3\u0dd4\u0dc0-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba-\u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb-\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dcf/11-423775",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786852321.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-16-dailymirrorlk-bb18eef6",
     "num": "dailymirrorlk-bb18eef6",
     "date_str": "2026-08-16",
@@ -16766,5 +16777,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786860881.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-591a8e9e",
+    "num": "tamilmirrorlk-591a8e9e",
+    "date_str": "2026-08-16",
+    "description": "\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8-\u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4-\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd-\u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd/50-381477",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786863572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-tamilmirrorlk-51c81907",
+    "num": "tamilmirrorlk-51c81907",
+    "date_str": "2026-08-16",
+    "description": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba4\u0bbf-\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1\u0b95\u0bb3\u0bcd/175-381478",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786864207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-d1e9f39d",
+    "num": "dailymirrorlk-d1e9f39d",
+    "date_str": "2026-08-16",
+    "description": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Twelve-killed-and-at-least-10-injured-in-Polish-bus-crash-in-Hungary/108-348199",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786864739.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-16-dailymirrorlk-85e23dd6",
+    "num": "dailymirrorlk-85e23dd6",
+    "date_str": "2026-08-16",
+    "description": "Audit Committee to investigate alleged financial fraud at Nuwara Eliya DS offices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Audit-Committee-to-investigate-alleged-financial-fraud-at-Nuwara-Eliya-DS-offices/108-348200",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786867574.0
   }
 ]

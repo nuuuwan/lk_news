@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-16 11:58:33",
-  "n_docs": 127468,
+  "time_updated": "2026-08-16 13:55:43",
+  "n_docs": 127473,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127468,
+  "n_docs_with_text": 127473,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-16",
-  "dataset_size": 1985966207,
+  "dataset_size": 1986027266,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-dailymirrorlk-33cc5136",
-    "num": "dailymirrorlk-33cc5136",
+    "doc_id": "2026-08-16-dailymirrorlk-85e23dd6",
+    "num": "dailymirrorlk-85e23dd6",
     "date_str": "2026-08-16",
-    "description": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thousands-evacuate-after-Indonesia-quake-kills-51-cuts-roads/108-348198",
+    "description": "Audit Committee to investigate alleged financial fraud at Nuwara Eliya DS offices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Audit-Committee-to-investigate-alleged-financial-fraud-at-Nuwara-Eliya-DS-offices/108-348200",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786860881.0
+    "time_ut": 1786867574.0
   }
 }
