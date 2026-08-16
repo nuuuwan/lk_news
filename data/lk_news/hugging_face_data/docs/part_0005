@@ -17107,5 +17107,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786897745.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-be417d96",
+    "num": "dailymirrorlk-be417d96",
+    "date_str": "2026-08-17",
+    "description": "Global CEO Andr\u00e9 Lacroix brings \u2018Leadership with Soul\u2019 to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Global-CEO-Andr\u00e9-Lacroix-brings-Leadership-with-Soul-to-Sri-Lanka/273-348210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786906032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-81c80da2",
+    "num": "dailymirrorlk-81c80da2",
+    "date_str": "2026-08-17",
+    "description": "First Capital navigates market volatility in 1Q of financial year 2026/27",
+    "url_metadata": "https://www.dailymirror.lk/business-news/First-Capital-navigates-market-volatility-in-1Q-of-financial-year-202627/273-348211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786906252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-ae0143a2",
+    "num": "dailymirrorlk-ae0143a2",
+    "date_str": "2026-08-17",
+    "description": "Abans brings \u2018Living Just Right with LG AI\u2019 to Colombo City Centre",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Abans-brings-Living-Just-Right-with-LG-AI-to-Colombo-City-Centre/273-348212",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786908121.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-2722696b",
+    "num": "dailymirrorlk-2722696b",
+    "date_str": "2026-08-17",
+    "description": "Vietjet\u2019s direct Colombo-Ho Chi Minh City flight launch tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vietjets-direct-Colombo-Ho-Chi-Minh-City-flight-launch-tomorrow/273-348213",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786908282.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-6c60d20c",
+    "num": "dailymirrorlk-6c60d20c",
+    "date_str": "2026-08-17",
+    "description": "Ceylon Hotels Corporation marks 60 years",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Hotels-Corporation-marks-60-years/273-348214",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786909943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-57aa6996",
+    "num": "dailymirrorlk-57aa6996",
+    "date_str": "2026-08-17",
+    "description": "SLIM SME Development Awards returns",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLIM-SME-Development-Awards-returns/273-348215",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-dd45f436",
+    "num": "dailymirrorlk-dd45f436",
+    "date_str": "2026-08-17",
+    "description": "BYD Galle reaches 1,000 services and deliveries",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BYD-Galle-reaches-1-000-services-and-deliveries/273-348216",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-413a164b",
+    "num": "dailymirrorlk-413a164b",
+    "date_str": "2026-08-17",
+    "description": "ISF launches world\u2019s 1st fully automated coconut dewatering system",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ISF-launches-worlds-1st-fully-automated-coconut-dewatering-system/273-348217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-afad4530",
+    "num": "dailymirrorlk-afad4530",
+    "date_str": "2026-08-17",
+    "description": "DFCC Bank 2Q earnings fall as costs offset stronger fee income",
+    "url_metadata": "https://www.dailymirror.lk/business-news/DFCC-Bank-2Q-earnings-fall-as-costs-offset-stronger-fee-income/273-348218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-5d001396",
+    "num": "dailymirrorlk-5d001396",
+    "date_str": "2026-08-17",
+    "description": "Govt. to appoint internal interim CEO for SriLankan this week amidst restructuring drive",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Govt-to-appoint-internal-interim-CEO-for-SriLankan-this-week-amidst-restructuring-drive/273-348219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-28b0775d",
+    "num": "dailymirrorlk-28b0775d",
+    "date_str": "2026-08-17",
+    "description": "Strict conditions placed on pre-May LC exemptions to curb vehicle trade loopholes",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Strict-conditions-placed-on-pre-May-LC-exemptions-to-curb-vehicle-trade-loopholes/273-348220",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-9e488352",
+    "num": "dailymirrorlk-9e488352",
+    "date_str": "2026-08-17",
+    "description": "No anchor, no accountability as economists blast Central Bank over two-year inflation miss",
+    "url_metadata": "https://www.dailymirror.lk/business-news/No-anchor-no-accountability-as-economists-blast-Central-Bank-over-two-year-inflation-miss/273-348221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786910712.0
   }
 ]
