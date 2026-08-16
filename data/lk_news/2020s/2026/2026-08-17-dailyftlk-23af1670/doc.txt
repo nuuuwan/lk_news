@@ -1,0 +1,33 @@
+A deep dive into market manipulation: Part 1
+
+The securities market offers a credible route for portfolio diversification. By spreading risk across asset classes, investors can reduce reliance on a single source of returns and improve the resilience of their savings over time
+
+Sri Lanka’s securities market is most visible through trading in listed shares on the Colombo Stock Exchange. Market capitalisation represents the combined value of these listed companies at a given point in time and is commonly used as a gauge of the market’s size relative to the wider economy. In 2024, market capitalisation stood at 19.7% of nominal GDP, according to the World Bank. This places the stock market as a meaningful, though still modest, component of the national financial system.
+
+Average returns of the stock market between 2023 and 2025 amounted to roughly 39%. Alongside equities, investors also have access to other capital market instruments. These include listed and unlisted debentures, as well as unit trusts. Most unit trusts in Sri Lanka operate outside the listed space. Broadly speaking, unit trusts pool investor funds and allocate them across different asset classes. Investors receive units whose value reflects the underlying assets of the fund. Together, these instruments widen the set of alternatives available to savers beyond conventional bank deposits.
+
+The securities market therefore offers a credible route for portfolio diversification. By spreading risk across asset classes, investors can reduce reliance on a single source of returns and improve the resilience of their savings over time.
+
+For a securities market to function, confidence is essential. Investors must believe that prices reflect genuine supply and demand, that risks are understood, and that the system is not tilted in favour of a few insiders. Without this confidence, participation shrinks and capital formation suffers.
+
+Building and maintaining this confidence is one of the central responsibilities of the Securities and Exchange Commission of Sri Lanka. The Securities and Exchange Commission of Sri Lanka Act No. 19 of 2021 assigns the regulator the task of ensuring that the market operates in a fair, orderly and efficient manner. Part V of the Act identifies forms of prohibited conduct, including market manipulation, and criminalises behaviour that distorts the price discovery process.
+
+Market manipulation refers to conduct that interferes with the natural formation of prices or trading volumes in the market. To understand the legal framework governing manipulation in Sri Lanka, it is useful to consider the broader logic behind these rules. Prices in a securities market should move in response to genuine information, investor expectations and economic fundamentals. Manipulation occurs when artificial actions or false information are used to influence prices or trading activity.
+
+In general, manipulation takes three forms. Action-based manipulation involves carrying out transactions designed to move prices or volumes. Information-based manipulation relies on spreading false or misleading information. Trade-based manipulation uses excessive or coordinated trading to exert pressure on prices. Sri Lankan law addresses all three under the umbrella of prohibited conduct under market manipulation.
+
+Under the previous legal regime, market manipulation was addressed primarily through rules issued under the repealed statute. The 2021 Act changed this approach by placing manipulation offences directly on a statutory footing.
+
+Sections 128 to 132 of the Act set out specific market manipulation offences. These include false trading and market rigging, stock market manipulation, dissemination of false or misleading statements, fraudulently inducing persons to deal in securities, and the use of manipulative or deceptive devices. These provisions apply mainly to the listed market and to offers made in connection with listings like initial public offerings.
+
+The structure of these offences draws heavily on regional precedents. Comparable provisions exist in Malaysia’s Capital Markets Services Act and Singapore’s Securities and Futures Act. While Sri Lanka has yet to develop its own case law under the new Act, courts and regulators can draw on regional jurisprudence when interpreting these provisions.
+
+The purpose of these rules is to protect the integrity of the price formation process. Disclosure obligations and manipulation prohibitions work together. Disclosure ensures that relevant information reaches the market promptly. Manipulation rules prevent the abuse of market power or the deliberate distortion of prices.
+
+Regulators rely heavily on market surveillance to detect manipulation. Trading data, corporate disclosures and live monitoring systems are used to identify unusual patterns and anomalies. Regulators through live monitoring can control interferences. Where necessary, preventive action can be taken to limit disruption and protect investors.
+
+Corporate filings ensure transparency and equitable distribution of information and will also limit the dissemination of false information. That is why the Colombo Stock Exchange Listing rules need immediate disclosures of price sensitive information. Annexure 8A lists down events that can be price sensitive. Listed companies must announce mergers or acquisitions, change of directors, a major transaction or similar occurrences.
+
+Part V of the Act makes clear that the objective of these provisions is deterrence and operation of a fair market. Conduct that interferes with the equitable operation of the market may attract enforcement action.
+
+(Dr. K. Kanag-Isvaran is a Presidential Counsel and Suhadini Wickremasinghe is an Attorney-at-Law and NDB Capital Holdings’ Group Head of Legal and Compliance)

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--17_01:51:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--17_03:57:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,511** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,519** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-17-dailymirrorlk-9e488352",
-    "num": "dailymirrorlk-9e488352",
+    "doc_id": "2026-08-17-dailyftlk-de906cb8",
+    "num": "dailyftlk-de906cb8",
     "date_str": "2026-08-17",
-    "description": "No anchor, no accountability as economists blast Central Bank over two-year inflation miss",
-    "url_metadata": "https://www.dailymirror.lk/business-news/No-anchor-no-accountability-as-economists-blast-Central-Bank-over-two-year-inflation-miss/273-348221",
+    "description": "SLEIS 2026 to examine next phase of growth, reform and competitiveness",
+    "url_metadata": "https://www.ft.lk/business/SLEIS-2026-to-examine-next-phase-of-growth-reform-and-competitiveness/34-796081",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786910712.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786918575.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-17 | `dailyftlk-de906cb8` | SLEIS 2026 to examine next phase of growth, reform and competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-de906cb8)
+- 2026-08-17 | `dailyftlk-56dc3a6f` | Sri Lanka – France Business Council charts new course at 22nd Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-56dc3a6f)
+- 2026-08-17 | `dailyftlk-ff4d5b1c` | Consequences of instalment defaults under Sri Lanka’s IRA 2017 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-ff4d5b1c)
+- 2026-08-17 | `dailyftlk-23af1670` | A deep dive into market manipulation: Part 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-23af1670)
+- 2026-08-17 | `dailyftlk-9662199f` | Real relief, not a headline rate cut: Fixing the personal income tax regime | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-9662199f)
+- 2026-08-17 | `dailyftlk-09eadf82` | Another unsung hero: Darshana Narampanawa’s initiative that took central banking to ordinary people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-09eadf82)
+- 2026-08-17 | `dailyftlk-08d29956` | Structural reforms with quick results | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailyftlk-08d29956)
+- 2026-08-17 | `dailymirrorlk-41677978` | Seifert powers Super Giants to maiden Hundred title | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-41677978)
 - 2026-08-17 | `dailymirrorlk-9e488352` | No anchor, no accountability as economists blast Central Bank over two-year inflation miss | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-9e488352)
 - 2026-08-17 | `dailymirrorlk-28b0775d` | Strict conditions placed on pre-May LC exemptions to curb vehicle trade loopholes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-28b0775d)
 - 2026-08-17 | `dailymirrorlk-5d001396` | Govt. to appoint internal interim CEO for SriLankan this week amidst restructuring drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-5d001396)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-17 | `dailymirrorlk-ae0143a2` | Abans brings ‘Living Just Right with LG AI’ to Colombo City Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-ae0143a2)
 - 2026-08-17 | `dailymirrorlk-81c80da2` | First Capital navigates market volatility in 1Q of financial year 2026/27 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-81c80da2)
 - 2026-08-17 | `dailymirrorlk-be417d96` | Global CEO André Lacroix brings ‘Leadership with Soul’ to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-be417d96)
-- 2026-08-16 | `tamilmirrorlk-6db11205` | நல்லூர் கந்தனின் வருடாந்த கொடியேற்றம் நாளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-6db11205)
-- 2026-08-16 | `tamilmirrorlk-f2a360df` | “வழக்குகளை விசாரிக்க நானும் தயார்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-f2a360df)
-- 2026-08-16 | `tamilmirrorlk-961c71f3` | சிறுரகப் படகு கவிழ்ந்து விபத்து : பயணிகள் பத்திரமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-961c71f3)
-- 2026-08-16 | `tamilmirrorlk-c23f3ad7` | பொலிஸ் ஜீப்பை கண்டு பதற்றம் ; விபத்தில் தந்தை மகன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-c23f3ad7)
-- 2026-08-16 | `tamilmirrorlk-2bd6985b` | டெங்கு நோயாளர்களின் எண்ணிக்கை 92,000-ஐக் கடந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-2bd6985b)
-- 2026-08-16 | `dailymirrorlk-8a4b1519` | Science College produce stunning rugby to lift U-16 Elite Ten-a-Side Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-8a4b1519)
-- 2026-08-16 | `dailymirrorlk-70805671` | Delft-bound boat in distress, Navy rescues 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-70805671)
-- 2026-08-16 | `dailymirrorlk-bb381962` | Rs. 45 bn allocated to complete stalled hospital projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-bb381962)
 
 ---
 

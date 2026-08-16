@@ -17239,5 +17239,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786910712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-41677978",
+    "num": "dailymirrorlk-41677978",
+    "date_str": "2026-08-17",
+    "description": "Seifert powers Super Giants to maiden Hundred title",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seifert-powers-Super-Giants-to-maiden-Hundred-title/108-348226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786913738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-08d29956",
+    "num": "dailyftlk-08d29956",
+    "date_str": "2026-08-17",
+    "description": "Structural reforms with quick results",
+    "url_metadata": "https://www.ft.lk/columns/Structural-reforms-with-quick-results/4-796073",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786915378.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-09eadf82",
+    "num": "dailyftlk-09eadf82",
+    "date_str": "2026-08-17",
+    "description": "Another unsung hero: Darshana Narampanawa\u2019s initiative that took central banking to ordinary people",
+    "url_metadata": "https://www.ft.lk/columns/Another-unsung-hero-Darshana-Narampanawa-s-initiative-that-took-central-banking-to-ordinary-people/4-796074",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786916212.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-9662199f",
+    "num": "dailyftlk-9662199f",
+    "date_str": "2026-08-17",
+    "description": "Real relief, not a headline rate cut: Fixing the personal income tax regime",
+    "url_metadata": "https://www.ft.lk/columns/Real-relief-not-a-headline-rate-cut-Fixing-the-personal-income-tax-regime/4-796075",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786916929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-23af1670",
+    "num": "dailyftlk-23af1670",
+    "date_str": "2026-08-17",
+    "description": "A deep dive into market manipulation: Part 1",
+    "url_metadata": "https://www.ft.lk/columns/A-deep-dive-into-market-manipulation-Part-1/4-796076",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786917315.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-ff4d5b1c",
+    "num": "dailyftlk-ff4d5b1c",
+    "date_str": "2026-08-17",
+    "description": "Consequences of instalment defaults under Sri Lanka\u2019s IRA 2017",
+    "url_metadata": "https://www.ft.lk/columns/Consequences-of-instalment-defaults-under-Sri-Lanka-s-IRA-2017/4-796077",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786917819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-56dc3a6f",
+    "num": "dailyftlk-56dc3a6f",
+    "date_str": "2026-08-17",
+    "description": "Sri Lanka \u2013 France Business Council charts new course at 22nd Annual General Meeting",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-France-Business-Council-charts-new-course-at-22nd-Annual-General-Meeting/34-796080",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786918456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-de906cb8",
+    "num": "dailyftlk-de906cb8",
+    "date_str": "2026-08-17",
+    "description": "SLEIS 2026 to examine next phase of growth, reform and competitiveness",
+    "url_metadata": "https://www.ft.lk/business/SLEIS-2026-to-examine-next-phase-of-growth-reform-and-competitiveness/34-796081",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786918575.0
   }
 ]
