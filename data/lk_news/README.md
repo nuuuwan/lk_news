@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_17:53:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--16_19:50:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,488** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,492** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-dailymirrorlk-746e14af",
-    "num": "dailymirrorlk-746e14af",
+    "doc_id": "2026-08-16-dailymirrorlk-bb381962",
+    "num": "dailymirrorlk-bb381962",
     "date_str": "2026-08-16",
-    "description": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-attacks-Russia-with-hundreds-of-drones-in-one-of-Kyivs-largest-aerial-assaults-of-the-conflict/108-348206",
+    "description": "Rs. 45 bn allocated to complete stalled hospital projects",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-45-bn-allocated-to-complete-stalled-hospital-projects/108-348207",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786881850.0
+    "time_ut": 1786888577.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-16 | `dailymirrorlk-bb381962` | Rs. 45 bn allocated to complete stalled hospital projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-bb381962)
+- 2026-08-16 | `tamilmirrorlk-d5dd16c7` | பொருளாதார நம்பிக்கை சுட்டெண் மீண்டும் எதிர்மறை நிலையை அடைகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-d5dd16c7)
+- 2026-08-16 | `tamilmirrorlk-5e579a6c` | H5 பறவைக் காய்ச்சலால் சிறு பெங்குயின் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-5e579a6c)
+- 2026-08-16 | `tamilmirrorlk-bc879caa` | உக்ரைன் ஆளில்லா விமானம்   ரஷ்யாவின் மீது சரமாரியாகத் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-bc879caa)
 - 2026-08-16 | `dailymirrorlk-746e14af` | Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-746e14af)
 - 2026-08-16 | `tamilmirrorlk-3148bb7c` | இலங்கை ஊடக வரலாற்றில் புதிய சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-3148bb7c)
 - 2026-08-16 | `dailymirrorlk-e99d60d1` | Revised VAT invoice format mandatory from October 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-e99d60d1)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-16 | `dailymirrorlk-85e23dd6` | Audit Committee to investigate alleged financial fraud at Nuwara Eliya DS offices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-85e23dd6)
 - 2026-08-16 | `dailymirrorlk-d1e9f39d` | Twelve killed and at least 10 injured in Polish bus crash in Hungary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-d1e9f39d)
 - 2026-08-16 | `tamilmirrorlk-51c81907` | நுவரெலியா மாவட்ட பிரதேச செயலகங்களில் நிதி முறைகேடுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-51c81907)
-- 2026-08-16 | `adalk-cbd96d58` | පසුගිය වසර 13දී මනුෂ්‍ය ඝාතන1664ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-adalk-cbd96d58)
-- 2026-08-16 | `tamilmirrorlk-591a8e9e` | சாதனை படைத்த உலகின் மிகப்பெரிய மின்சார விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-tamilmirrorlk-591a8e9e)
-- 2026-08-16 | `dailymirrorlk-33cc5136` | Thousands evacuate after Indonesia quake kills 51, cuts roads | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-33cc5136)
-- 2026-08-16 | `dailymirrorlk-870411c8` | Sri Lanka expresses deep sorrow over loss of lives in Indonesian earthquake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-16-dailymirrorlk-870411c8)
 
 ---
 

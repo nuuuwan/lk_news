@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-16 17:52:48",
-  "n_docs": 127488,
+  "time_updated": "2026-08-16 19:50:09",
+  "n_docs": 127492,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127488,
+  "n_docs_with_text": 127492,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-16",
-  "dataset_size": 1986196933,
+  "dataset_size": 1986305302,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-16-dailymirrorlk-746e14af",
-    "num": "dailymirrorlk-746e14af",
+    "doc_id": "2026-08-16-dailymirrorlk-bb381962",
+    "num": "dailymirrorlk-bb381962",
     "date_str": "2026-08-16",
-    "description": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-attacks-Russia-with-hundreds-of-drones-in-one-of-Kyivs-largest-aerial-assaults-of-the-conflict/108-348206",
+    "description": "Rs. 45 bn allocated to complete stalled hospital projects",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-45-bn-allocated-to-complete-stalled-hospital-projects/108-348207",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1786881850.0
+    "time_ut": 1786888577.0
   }
 }
