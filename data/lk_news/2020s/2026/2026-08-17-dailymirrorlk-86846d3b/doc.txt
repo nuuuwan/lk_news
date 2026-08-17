@@ -1,0 +1,15 @@
+CBSL governor reports debt reduction with reduced accuracy
+
+Colombo, Aug. 17 (Daily Mirror) - The Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe was reported to have stated that Sri Lanka’s national debt burden had fallen, from 105% to 95% of the GDP.
+
+FactCheck.lk could not locate the Governor’s original statement. However, this precise wording was carried by several media outlets, including the Daily News on 5 June 2026, indicating a single official source. The numbers and reporting indicate that he was referring to the reduction in the country’s debt-to-GDP ratio after the economic crisis in 2022-2023.
+
+To verify this claim, FactCheck.lk reviewed central government and public debt data published by the CBSL, the IMF Fifth and Sixth Review reports and the Ministry of Finance’s quarterly Debt Bulletin.
+
+The figures cited by the Governor are proximate to the “Central Government Debt” (CGD), which was recorded as 104.2% of GDP in 2023 and 95.5% in 2024. However, the CGD is only a partial measure of debt. The measure used in debt sustainability analysis and in Sri Lanka’s IMF programme is “Public Debt” (PD). PD is a comprehensive measure that counts not only debt recorded as CGD, but also recorded as provincial and local government borrowing, publicly guaranteed debt of state-owned enterprises, and outstanding IMF credit. In addition to this PD measure used by the government, the IMF programme also records the CBSL’s international currency swap arrangements as PD.
+
+Compared to the CGD numbers cited by the Governor, the PD figures reported by the government are higher (those reported in the IMF programme are even higher). Total PD as reported by the Ministry of Finance was 111.7% of GDP in 2023 and 103.2% in 2024 and therefore remained above 100% of GDP.
+
+On the scale of the reduction, the Governor cites debt-to-GDP ratio as falling by 10 percentage points between 2023 and 2024. PD fell by only 8.5 percentage points, and even CGD fell by only 8.7 percentage points—both more than a full percentage point less than the reduction he indicated, though still proximate.
+
+In sum, the Governor seems to have presented proximately correct numbers on CGD, which is however not the total PD that is tracked for Sri Lankan’s debt sustainability. The decline in debt-to-GDP ratio that says is also materially higher than the actual decline measured either as CGD or PD. Overall, however, an 8.5 percentage reduction in the national debt burden is rather a larger reduction, which despite the deviations in the numbers referenced, supports the core message of his claim.
