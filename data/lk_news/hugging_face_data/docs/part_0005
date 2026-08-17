@@ -18482,5 +18482,16 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786987945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-11baea01",
+    "num": "dailymirrorlk-11baea01",
+    "date_str": "2026-08-18",
+    "description": "Fifa chief sacked after criticism of Infantino\u2019s World Cup sell-off plan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fifa-chief-sacked-after-criticism-of-Infantinos-World-Cup-sell-off-plan/108-348287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787001590.0
   }
 ]

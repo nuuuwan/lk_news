@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_01:54:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_03:53:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,624** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,625** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-17-tamilmirrorlk-60efaefc",
-    "num": "tamilmirrorlk-60efaefc",
-    "date_str": "2026-08-17",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe-\u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe/175-381559",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1786987945.0
+    "doc_id": "2026-08-18-dailymirrorlk-11baea01",
+    "num": "dailymirrorlk-11baea01",
+    "date_str": "2026-08-18",
+    "description": "Fifa chief sacked after criticism of Infantino\u2019s World Cup sell-off plan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fifa-chief-sacked-after-criticism-of-Infantinos-World-Cup-sell-off-plan/108-348287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787001590.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-18 | `dailymirrorlk-11baea01` | Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-11baea01)
 - 2026-08-17 | `tamilmirrorlk-60efaefc` | இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் தலைவர் இராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-tamilmirrorlk-60efaefc)
 - 2026-08-17 | `tamilmirrorlk-3e690c53` | அத்துருகிரியவில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-tamilmirrorlk-3e690c53)
 - 2026-08-17 | `dailymirrorlk-fd9e22b6` | Govt. aims to make vehicle ownership accessible to every citizen: Vijitha Herath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-fd9e22b6)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-17 | `dailymirrorlk-3a47ee45` | Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-3a47ee45)
 - 2026-08-17 | `tamilmirrorlk-a1091e00` | காயமடைந்த யானைக் குட்டிக்கு கடற்படை சிகிச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-tamilmirrorlk-a1091e00)
 - 2026-08-17 | `dailymirrorlk-2a544152` | Yala strengthens water supply for wildlife due to dry weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-2a544152)
-- 2026-08-17 | `dailymirrorlk-cc8695f0` | Instagram and Facebook could change forever if Meta loses child privacy trial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-17-dailymirrorlk-cc8695f0)
 
 ---
 
