@@ -17242,6 +17242,50 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-a6468446",
+    "num": "dailymirrorlk-a6468446",
+    "date_str": "2026-08-17",
+    "description": "Cargills Bank 2Q profit slips despite stronger core income",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cargills-Bank-2Q-profit-slips-despite-stronger-core-income/273-348222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786912008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-d3331705",
+    "num": "dailymirrorlk-d3331705",
+    "date_str": "2026-08-17",
+    "description": "Bank of Ceylon delivers  Rs. 62.7bn PBT for 1H 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Bank-of-Ceylon-delivers-Rs-62-7bn-PBT-for-1H-2026/273-348223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786912351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-84cdf174",
+    "num": "dailymirrorlk-84cdf174",
+    "date_str": "2026-08-17",
+    "description": "Stop worshipping growth, start measuring poverty, economists tell government",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Stop-worshipping-growth-start-measuring-poverty-economists-tell-government/245-348224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786912657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-4484b466",
+    "num": "dailymirrorlk-4484b466",
+    "date_str": "2026-08-17",
+    "description": "Leave the iconic tusker Kavantissa alone!",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Leave-the-iconic-tusker-Kavantissa-alone/172-348225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786913666.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-17-dailymirrorlk-41677978",
     "num": "dailymirrorlk-41677978",
     "date_str": "2026-08-17",
@@ -17250,6 +17294,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1786913738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-4595642a",
+    "num": "dailymirrorlk-4595642a",
+    "date_str": "2026-08-17",
+    "description": "Why is Sri Lanka importing its fish?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Why-is-Sri-Lanka-importing-its-fish/172-348227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786914316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-a9f62d24",
+    "num": "dailymirrorlk-a9f62d24",
+    "date_str": "2026-08-17",
+    "description": "Kethesh Loganathan and the Lost Generation",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Kethesh-Loganathan-and-the-Lost-Generation/172-348228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786914968.0
   },
   {
     "doc_type": "lk_news",
@@ -17327,5 +17393,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1786918575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-0d9d6e24",
+    "num": "dailyftlk-0d9d6e24",
+    "date_str": "2026-08-17",
+    "description": "Sri Lanka-China Business Council marks 25 years, calls for stronger trade, investment, and balanced growth",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-China-Business-Council-marks-25-years-calls-for-stronger-trade-investment-and-balanced-growth/34-796082",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786918960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-a6b08556",
+    "num": "dailyftlk-a6b08556",
+    "date_str": "2026-08-17",
+    "description": "SLBC NextGen: Investing in next generation of Sri Lankan business leadership in UAE",
+    "url_metadata": "https://www.ft.lk/business/SLBC-NextGen-Investing-in-next-generation-of-Sri-Lankan-business-leadership-in-UAE/34-796083",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-50213411",
+    "num": "dailyftlk-50213411",
+    "date_str": "2026-08-17",
+    "description": "SEC defers trading suspension of Softlogic Holdings, Odel",
+    "url_metadata": "https://www.ft.lk/business/SEC-defers-trading-suspension-of-Softlogic-Holdings-Odel/34-796084",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-01b6cc7d",
+    "num": "dailyftlk-01b6cc7d",
+    "date_str": "2026-08-17",
+    "description": "Brandix advances conversation on people-centred sustainability at CATALYZE 2026",
+    "url_metadata": "https://www.ft.lk/business/Brandix-advances-conversation-on-people-centred-sustainability-at-CATALYZE-2026/34-796085",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919388.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-16777433",
+    "num": "dailyftlk-16777433",
+    "date_str": "2026-08-17",
+    "description": "Balaji joins Lanka Ashok Leyland Board",
+    "url_metadata": "https://www.ft.lk/business/Balaji-joins-Lanka-Ashok-Leyland-Board/34-796086",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919485.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-4838ecd0",
+    "num": "dailyftlk-4838ecd0",
+    "date_str": "2026-08-17",
+    "description": "Himali Jinadasa helms UNESCO EENET South Asia Chapter",
+    "url_metadata": "https://www.ft.lk/business/Himali-Jinadasa-helms-UNESCO-EENET-South-Asia-Chapter/34-796087",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-6c253b41",
+    "num": "dailyftlk-6c253b41",
+    "date_str": "2026-08-17",
+    "description": "ISF launches world\u2019s first fully automated coconut de-watering system",
+    "url_metadata": "https://www.ft.lk/business/ISF-launches-world-s-first-fully-automated-coconut-de-watering-system/34-796088",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailyftlk-d06fd019",
+    "num": "dailyftlk-d06fd019",
+    "date_str": "2026-08-17",
+    "description": "Cabinet approves conversion of 30,000 tons of PMB paddy into rice",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-conversion-of-30-000-tons-of-PMB-paddy-into-rice/56-796089",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1786919787.0
   }
 ]

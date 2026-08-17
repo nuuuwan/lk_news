@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-17 03:56:31",
-  "n_docs": 127519,
+  "time_updated": "2026-08-17 06:04:54",
+  "n_docs": 127533,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127519,
+  "n_docs_with_text": 127533,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-17",
-  "dataset_size": 1986712380,
+  "dataset_size": 1986925259,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-17-dailyftlk-de906cb8",
-    "num": "dailyftlk-de906cb8",
+    "doc_id": "2026-08-17-dailyftlk-d06fd019",
+    "num": "dailyftlk-d06fd019",
     "date_str": "2026-08-17",
-    "description": "SLEIS 2026 to examine next phase of growth, reform and competitiveness",
-    "url_metadata": "https://www.ft.lk/business/SLEIS-2026-to-examine-next-phase-of-growth-reform-and-competitiveness/34-796081",
+    "description": "Cabinet approves conversion of 30,000 tons of PMB paddy into rice",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-conversion-of-30-000-tons-of-PMB-paddy-into-rice/56-796089",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1786918575.0
+    "time_ut": 1786919787.0
   }
 }
