@@ -18089,6 +18089,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-866a634e",
+    "num": "adalk-866a634e",
+    "date_str": "2026-08-17",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0da2\u0dd9\u0dc3\u0dca\u0da7\u0dca\u0d9a\u0dd2 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2-\u0dc0\u0dd0\u0dc0\u0dda-\u0da2\u0dd9\u0dc3\u0dca\u0da7\u0dca\u0d9a\u0dd2-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-423793",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786958644.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-17-tamilmirrorlk-9f027915",
     "num": "tamilmirrorlk-9f027915",
     "date_str": "2026-08-17",
@@ -18122,6 +18133,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-9f423c19",
+    "num": "dailymirrorlk-9f423c19",
+    "date_str": "2026-08-17",
+    "description": "Does the Public Have Any Say in Sri Lanka's Budget? The Score Is 9 Out of 100",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Does-the-Public-Have-Any-Say-in-Sri-Lanka-s-Budget-The-Score-Is-9-Out-of-100/108-348264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786959297.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-17-dailymirrorlk-a86705b4",
     "num": "dailymirrorlk-a86705b4",
     "date_str": "2026-08-17",
@@ -18141,5 +18163,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786961318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-037cc601",
+    "num": "dailymirrorlk-037cc601",
+    "date_str": "2026-08-17",
+    "description": "CCID obtains 90-day detention order for drug trafficker Shiran Basik",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCID-obtains-90-day-detention-order-for-drug-trafficker-Shiran-Basik/108-348266",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786963416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-5e104762",
+    "num": "tamilmirrorlk-5e104762",
+    "date_str": "2026-08-17",
+    "description": "ChatGPT-\u0b90\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd, \u0ba4\u0bbe\u0baf\u0bcd, \u0b9a\u0b95\u0bcb\u0ba4\u0bb0\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba9\u0bcd\u0bb1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/ChatGPT-\u0b90\u0baa\u0bcd-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbe\u0baf\u0bcd-\u0b9a\u0b95\u0bcb\u0ba4\u0bb0\u0ba9\u0bc8\u0b95\u0bcd-\u0b95\u0bca\u0ba9\u0bcd\u0bb1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd/175-381538",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786964749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-7f26029b",
+    "num": "tamilmirrorlk-7f26029b",
+    "date_str": "2026-08-17",
+    "description": "\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8; \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381539",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786965450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-52d005a6",
+    "num": "tamilmirrorlk-52d005a6",
+    "date_str": "2026-08-17",
+    "description": "\u0bb7\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0bb8\u0bbf\u0b95\u0bcd\u0b95\u0bc1 90 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb7\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0bb8\u0bbf\u0b95\u0bcd\u0b95\u0bc1-90-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bbe\u0bb5\u0bb2\u0bcd/175-381540",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786965479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-b325ba86",
+    "num": "dailymirrorlk-b325ba86",
+    "date_str": "2026-08-17",
+    "description": "Slave Island Kovil priest wanted over jewelry theft",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Slave-Island-Kovil-priest-wanted-over-jewelry-theft/108-348268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786967775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-5bda34fe",
+    "num": "dailymirrorlk-5bda34fe",
+    "date_str": "2026-08-17",
+    "description": "Yala national park to get major development boost to ease tourist congestion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yala-national-park-to-get-major-development-boost-to-ease-tourist-congestion/108-348269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786967889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-1f91acba",
+    "num": "tamilmirrorlk-1f91acba",
+    "date_str": "2026-08-17",
+    "description": "\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bbf\u0ba9\u0bcd \u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b86\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f \u0b90\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bc8-\u0b86\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f-\u0b90\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb2\u0bc8/175-381547",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786968958.0
   }
 ]
