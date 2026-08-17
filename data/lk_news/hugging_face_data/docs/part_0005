@@ -17836,6 +17836,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-2697d646",
+    "num": "adalk-2697d646",
+    "date_str": "2026-08-17",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7 \u0dc4\u0dd0\u0dbb\u0dd9\u0dc0\u0dca\u0dc0\u0ddc\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 500\u0d9a \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0da7-\u0dc4\u0dd0\u0dbb\u0dd9\u0dc0\u0dca\u0dc0\u0ddc\u0dad\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-500\u0d9a-\u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dba\u0d9a\u0dca/11-423788",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786947653.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-17-tamilmirrorlk-5c1ffa0f",
     "num": "tamilmirrorlk-5c1ffa0f",
     "date_str": "2026-08-17",
@@ -17844,5 +17855,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786947853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-b21d0486",
+    "num": "tamilmirrorlk-b21d0486",
+    "date_str": "2026-08-17",
+    "description": "\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-381525",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786948443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-4da69443",
+    "num": "dailymirrorlk-4da69443",
+    "date_str": "2026-08-17",
+    "description": "Two children rescued after jet ski overturns at Gregory Lake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-children-rescued-after-jet-ski-overturns-at-Gregory-Lake/108-348251",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786948518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-ae0068d8",
+    "num": "dailymirrorlk-ae0068d8",
+    "date_str": "2026-08-17",
+    "description": "Homeopathic medical sector raises concerns over regulatory issues",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Homeopathic-medical-sector-raises-concerns-over-regulatory-issues/108-348253",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786949091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-4f3b2c9b",
+    "num": "tamilmirrorlk-4f3b2c9b",
+    "date_str": "2026-08-17",
+    "description": "\u0b9c\u0bc6\u0b9f\u0bcd \u0bb8\u0bcd\u0b95\u0bbf \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1:   \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9c\u0bc6\u0b9f\u0bcd-\u0bb8\u0bcd\u0b95\u0bbf-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-381526",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786949305.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-e366779e",
+    "num": "adalk-e366779e",
+    "date_str": "2026-08-17",
+    "description": "\u0dc0\u0dd2\u0dba\u0da7\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc4\u0dcf \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0dad\u0dbb \u0dc3\u0dd8\u0da2\u0dd4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dba\u0da7\u0dca\u0db1\u0dcf\u0db8\u0dba-\u0dc4\u0dcf-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d85\u0dad\u0dbb-\u0dc3\u0dd8\u0da2\u0dd4-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-423789",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786949726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-6ef03169",
+    "num": "dailymirrorlk-6ef03169",
+    "date_str": "2026-08-17",
+    "description": "Hayden Panettiere, \u2019Heroes\u2019 and \u2019Nashville\u2019 actress, dies at 36",
+    "url_metadata": "https://www.dailymirror.lk/international/Hayden-Panettiere-Heroes-and-Nashville-actress-dies-at-36/107-348254",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786949917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-8c9444e9",
+    "num": "tamilmirrorlk-8c9444e9",
+    "date_str": "2026-08-17",
+    "description": "\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bcd/175-381527",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786950679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-b9935711",
+    "num": "dailymirrorlk-b9935711",
+    "date_str": "2026-08-17",
+    "description": "BJP national spokesperson Shehzad Poonawalla quits party",
+    "url_metadata": "https://www.dailymirror.lk/international/BJP-national-spokesperson-Shehzad-Poonawalla-quits-party/107-348255",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786950780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-07b23166",
+    "num": "dailymirrorlk-07b23166",
+    "date_str": "2026-08-17",
+    "description": "Govt will have to hold referendum or PC polls to survive: SJB",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-will-have-to-hold-referendum-or-PC-polls-to-survive-SJB/108-348257",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786952788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-0f4745e5",
+    "num": "tamilmirrorlk-0f4745e5",
+    "date_str": "2026-08-17",
+    "description": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b8f\u0ba4\u0bc7\u0ba9\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7 \u0ba4\u0bc0\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0b8f\u0ba4\u0bc7\u0ba9\u0bc1\u0bae\u0bcd-\u0b92\u0bb0\u0bc1-\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7-\u0ba4\u0bc0\u0bb0-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-381528",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786953383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-3f95131d",
+    "num": "dailymirrorlk-3f95131d",
+    "date_str": "2026-08-17",
+    "description": "Inquiry launched into misplaced school textbooks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inquiry-launched-into-misplaced-school-textbooks/108-348258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786954280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-da5dc606",
+    "num": "tamilmirrorlk-da5dc606",
+    "date_str": "2026-08-17",
+    "description": "\u0ba4\u0bc7\u0ba9\u0bbf\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bb5\u0bbf\u0b9f\u0bbe\u0baf\u0bcd: \u0b95\u0ba3\u0bb5\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0ba9\u0bbf\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0ba4\u0bb5\u0bbf\u0b9f\u0bbe\u0baf\u0bcd-\u0b95\u0ba3\u0bb5\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1/175-381529",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786954467.0
   }
 ]
