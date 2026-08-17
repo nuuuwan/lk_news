@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-17 19:56:04",
-  "n_docs": 127615,
+  "time_updated": "2026-08-17 21:49:34",
+  "n_docs": 127622,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127615,
+  "n_docs_with_text": 127622,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-17",
-  "dataset_size": 1988099491,
+  "dataset_size": 1988214120,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-17-adalk-54176f4b",
-    "num": "adalk-54176f4b",
+    "doc_id": "2026-08-17-dailymirrorlk-fd9e22b6",
+    "num": "dailymirrorlk-fd9e22b6",
     "date_str": "2026-08-17",
-    "description": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7/11-423797",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1786974680.0
+    "description": "Govt. aims to make vehicle ownership accessible to every citizen: Vijitha Herath",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-aims-to-make-vehicle-ownership-accessible-to-every-citizen-Vijitha-Herath/108-348286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786982252.0
   }
 }

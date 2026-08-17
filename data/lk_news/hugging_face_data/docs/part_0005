@@ -18383,5 +18383,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1786974680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-085836e8",
+    "num": "dailymirrorlk-085836e8",
+    "date_str": "2026-08-17",
+    "description": "Donald Trump threatens to bomb Oman if it \u2018gets in the way\u2019 of ending Iran war",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Donald-Trump-threatens-to-bomb-Oman-if-it-gets-in-the-way-of-ending-Iran-war/108-348281",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786977821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-40e15b83",
+    "num": "dailymirrorlk-40e15b83",
+    "date_str": "2026-08-17",
+    "description": "VIASL urges higher LTV over import surcharge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/VIASL-urges-higher-LTV-over-import-surcharge/108-348282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786978062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-63b93cfb",
+    "num": "dailymirrorlk-63b93cfb",
+    "date_str": "2026-08-17",
+    "description": "Sainthamaruthu Acting OIC arrested over Rs. 20,000 bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sainthamaruthu-Acting-OIC-arrested-over-Rs-20-000-bribe/108-348283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786978240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-ffda7970",
+    "num": "tamilmirrorlk-ffda7970",
+    "date_str": "2026-08-17",
+    "description": "\u0b87\u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0b87\u0bb0\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381556",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786980748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-54d1ad9f",
+    "num": "dailymirrorlk-54d1ad9f",
+    "date_str": "2026-08-17",
+    "description": "Elephant takes a peaceful stroll through Kandalama hotel lobby",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elephant-takes-a-peaceful-stroll-through-Kandalama-hotel-lobby/108-348284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786981455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-c7192af6",
+    "num": "dailymirrorlk-c7192af6",
+    "date_str": "2026-08-17",
+    "description": "Special information system launched for 2026 Kandy Esala Perahera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-information-system-launched-for-2026-Kandy-Esala-Perahera/108-348285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786982147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-fd9e22b6",
+    "num": "dailymirrorlk-fd9e22b6",
+    "date_str": "2026-08-17",
+    "description": "Govt. aims to make vehicle ownership accessible to every citizen: Vijitha Herath",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-aims-to-make-vehicle-ownership-accessible-to-every-citizen-Vijitha-Herath/108-348286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786982252.0
   }
 ]
