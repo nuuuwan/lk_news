@@ -18177,6 +18177,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-7596bc60",
+    "num": "adalk-7596bc60",
+    "date_str": "2026-08-17",
+    "description": "\u0db1\u0dd9\u0da7\u0dca\u0db6\u0ddd\u0dbd\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7 \u0dbd\u0ddd\u0d9a \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0da7 \u0dba\u0db1 \u0db4\u0dcf\u0dbb \u0dc0\u0dd0\u0dc3\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0db1\u0dd9\u0da7\u0dca\u0db6\u0ddd\u0dbd\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7-\u0dbd\u0ddd\u0d9a-\u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba\u0da7-\u0dba\u0db1-\u0db4\u0dcf\u0dbb-\u0dc0\u0dd0\u0dc3\u0dd9\u0dba\u0dd2/9-423794",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786963439.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-17-tamilmirrorlk-5e104762",
     "num": "tamilmirrorlk-5e104762",
     "date_str": "2026-08-17",
@@ -18240,5 +18251,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1786968958.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-f8c6a504",
+    "num": "dailymirrorlk-f8c6a504",
+    "date_str": "2026-08-17",
+    "description": "CSE opens week mixed as large-cap strength offsets broad selling pressure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-opens-week-mixed-as-large-cap-strength-offsets-broad-selling-pressure/108-348270",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786969358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-cc8695f0",
+    "num": "dailymirrorlk-cc8695f0",
+    "date_str": "2026-08-17",
+    "description": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Instagram-and-Facebook-could-change-forever-if-Meta-loses-child-privacy-trial/108-348271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786969815.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-2a544152",
+    "num": "dailymirrorlk-2a544152",
+    "date_str": "2026-08-17",
+    "description": "Yala strengthens water supply for wildlife due to dry weather",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yala-strengthens-water-supply-for-wildlife-due-to-dry-weather/108-348272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786969933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-tamilmirrorlk-a1091e00",
+    "num": "tamilmirrorlk-a1091e00",
+    "date_str": "2026-08-17",
+    "description": "\u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-\u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bcd-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8-\u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8/175-381548",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1786970203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-3a47ee45",
+    "num": "dailymirrorlk-3a47ee45",
+    "date_str": "2026-08-17",
+    "description": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-envoy-Kushner-meets-Netanyahu-after-Hamas-talks-on-peace-plan/108-348273",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786970448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-258feb77",
+    "num": "dailymirrorlk-258feb77",
+    "date_str": "2026-08-17",
+    "description": "President proposes unified defence research centre",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-proposes-unified-defence-research-centre/108-348274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786970595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-ddb78669",
+    "num": "dailymirrorlk-ddb78669",
+    "date_str": "2026-08-17",
+    "description": "Suthar, Jadeja put India in command after Dinusha ton",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suthar-Jadeja-put-India-in-command-after-Dinusha-ton/108-348275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786971806.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-0ed1ec02",
+    "num": "dailymirrorlk-0ed1ec02",
+    "date_str": "2026-08-17",
+    "description": "Two women appointed as NTC scheduler officers for first time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-women-appointed-as-NTC-scheduler-officers-for-first-time/108-348276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786972098.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-4f2f3444",
+    "num": "dailymirrorlk-4f2f3444",
+    "date_str": "2026-08-17",
+    "description": "Liquor shops in Kandy to close for 11 days during Esala Perahera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Liquor-shops-in-Kandy-to-close-for-11-days-during-Esala-Perahera/108-348277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786972941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-dailymirrorlk-d9555c88",
+    "num": "dailymirrorlk-d9555c88",
+    "date_str": "2026-08-17",
+    "description": "Bollywood stars told to stop appearing in surrogate ads in Indian state\u2019s food safety drive",
+    "url_metadata": "https://www.dailymirror.lk/international/Bollywood-stars-told-to-stop-appearing-in-surrogate-ads-in-Indian-states-food-safety-drive/107-348278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1786974234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-bdc3de9a",
+    "num": "adalk-bdc3de9a",
+    "date_str": "2026-08-17",
+    "description": "\u0dba\u0dd4\u0db0, \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dd4\u0db0--\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dc4-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db4\u0dbb\u0dca\u0dba\u0dda\u0dc2\u0dab-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca/11-423796",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786974296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-17-adalk-54176f4b",
+    "num": "adalk-54176f4b",
+    "date_str": "2026-08-17",
+    "description": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7/11-423797",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1786974680.0
   }
 ]
