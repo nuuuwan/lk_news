@@ -1,0 +1,31 @@
+YouTube changes how views are counted: What it means for creators
+
+CNBC TV18 - YouTube is changing the way it counts public views across videos, shorts and live streams, with a view set to count from the moment playback begins. The change will standardise view counting across formats and help creators better understand their overall exposure.
+
+Starting August 24, a YouTube view will be counted from the very first frame of a video, with no minimum watch-time requirement. The new system will apply globally across regular videos, Shorts and live content. YouTube says the move will bring different content formats under the same view-counting standard.
+
+“Starting 8/24, views will count the moment a video begins to play (w/ no minimum watch time) across all formats (VOD, Shorts, & Live). We’re standardising views to reflect creators’ true exposure across YouTube, making it easier to show their value to brand partners,” the video-sharing platform wrote on X.
+
+Until now, YouTube used different view counting systems to measure views across its various formats. Shorts already moved to the same approach in 2025, while other formats followed different counting methods.
+
+YouTube said it was making the change to eliminate confusion caused by different view-counting systems and help creators better understand their ‘true exposure.’ With the new system, the platform wants public view counts to provide a more consistent picture across its formats.
+
+Most likely, yes. Since a view will be registered as soon as playback begins, videos that attract viewers who leave almost immediately could still record a public view.
+
+YouTube itself expects creators to see their view counts increase faster once the change takes effect. "We hope that having metric parity across all formats gives creators a clearer picture of their overall exposure and makes it easier to confidently express their true scale and value to brand partners and sponsors," it shared in its blogpost.
+
+A higher public view count will not necessarily mean that people watched more of the video.
+
+YouTube is not removing the older measurement. It will remain available in YouTube Analytics as “Engaged views”, allowing creators to see how many viewers continued watching beyond the initial playback.
+
+This means creators will effectively have two useful ways to look at performance: the new public view count, which captures exposure from the start of playback, and engagement-focused metrics that provide more context on whether viewers actually stayed to watch.
+
+No. YouTube has specifically said that the change in public view counting will not affect creator earnings or eligibility for the YouTube Partner Program (YPP).
+
+According to the company, earnings will continue to be based on metrics such as engaged Shorts views and engaged watch hours, rather than simply the new public view count. YouTube also says there is no change to YPP eligibility requirements as part of this particular update.
+
+"There is no change to YPP eligibility. YPP entry requirements will also now be referred to as ‘qualified Shorts views’ and ‘qualified watch hours’ (previously ‘valid public Shorts views’ and ‘valid public watch hours’)," YouTube wrote.
+
+The change could make public view counts less useful when used on their own to compare the popularity or engagement of videos. A video that gets many people to start watching but loses them almost immediately could now accumulate views more quickly.
+
+For brands and advertisers, metrics such as watch time and engagement may therefore offer a clearer picture of how effectively a video held viewers' attention.

@@ -19255,6 +19255,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-992e300a",
+    "num": "adalk-992e300a",
+    "date_str": "2026-08-18",
+    "description": "\u2019\u0db1\u0dcf\u0db8\u0dbd\u0dca\u200d \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dad\u0dc0 \u0da7\u0dd2\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0dd2\u0dbb\u0dda \u0dba\u0db1\u0dc0\u0dbd\u0dd4\u2019",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u2019\u0db1\u0dcf\u0db8\u0dbd\u0dca\u200d-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0dad\u0dc0-\u0da7\u0dd2\u0d9a-\u0daf\u0dc0\u0dc3\u0d9a\u0dd2\u0db1\u0dca-\u0dc4\u0dd2\u0dbb\u0dda-\u0dba\u0db1\u0dc0\u0dbd\u0dd4\u2019/11-423807",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787035602.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-tamilmirrorlk-833d5b70",
     "num": "tamilmirrorlk-833d5b70",
     "date_str": "2026-08-18",
@@ -19461,5 +19472,203 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787040905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-be84a550",
+    "num": "adalk-be84a550",
+    "date_str": "2026-08-18",
+    "description": "\u0d9a\u0dd9\u0dc4\u0dd9\u0dc5\u0dd2\u0dba \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd9\u0dc4\u0dd9\u0dc5\u0dd2\u0dba-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423808",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787040985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-5d676eb9",
+    "num": "dailymirrorlk-5d676eb9",
+    "date_str": "2026-08-18",
+    "description": "Education Council to be established in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Education-Council-to-be-established-in-Sri-Lanka/108-348357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787041939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-8b925c50",
+    "num": "dailymirrorlk-8b925c50",
+    "date_str": "2026-08-18",
+    "description": "Doctors remove 3.1kg stone from man\u2019s bladder and claim record",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-remove-3-1kg-stone-from-mans-bladder-and-claim-record/108-348358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042163.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-abbbeab3",
+    "num": "dailymirrorlk-abbbeab3",
+    "date_str": "2026-08-18",
+    "description": "Sri Lanka to implement national pharmaceutical policy 2026-2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-implement-national-pharmaceutical-policy-2026-2030/108-348359",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042349.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-b1711244",
+    "num": "dailymirrorlk-b1711244",
+    "date_str": "2026-08-18",
+    "description": "Canada braces for 50% US tariffs, with negotiators still far apart",
+    "url_metadata": "https://www.dailymirror.lk/international/Canada-braces-for-50-US-tariffs-with-negotiators-still-far-apart/107-348360",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-47cbcce2",
+    "num": "dailymirrorlk-47cbcce2",
+    "date_str": "2026-08-18",
+    "description": "Sri Lanka, Poland approve extradition agreement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Poland-approve-extradition-agreement/108-348361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-6c743fd7",
+    "num": "dailymirrorlk-6c743fd7",
+    "date_str": "2026-08-18",
+    "description": "Special programme launched to distribute drinking water in drought-hit districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-programme-launched-to-distribute-drinking-water-in-drought-hit-districts/108-348362",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-54c45f78",
+    "num": "dailymirrorlk-54c45f78",
+    "date_str": "2026-08-18",
+    "description": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-top-court-orders-ex-PM-Imran-Khan-be-moved-to-hospital-from-jail-his-party-says/107-348363",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042855.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-df360649",
+    "num": "dailymirrorlk-df360649",
+    "date_str": "2026-08-18",
+    "description": "Digital IDs planned by next year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Digital-IDs-planned-by-next-year/108-348365",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787042979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-9f651399",
+    "num": "dailymirrorlk-9f651399",
+    "date_str": "2026-08-18",
+    "description": "BASL takes 22nd amendment battle to Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-takes-22nd-amendment-battle-to-Supreme-Court/108-348366",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787043097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-28126aee",
+    "num": "dailymirrorlk-28126aee",
+    "date_str": "2026-08-18",
+    "description": "Sri Lanka moves to replace Prevention of Terrorism Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-moves-to-replace-Prevention-of-Terrorism-Act/108-348367",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787043326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-06747d60",
+    "num": "dailymirrorlk-06747d60",
+    "date_str": "2026-08-18",
+    "description": "Rs. 5,000 allowance for over 5,000 special-needs students",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-5-000-allowance-for-over-5-000-special-needs-students/108-348368",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787043730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-ffeadc1d",
+    "num": "dailymirrorlk-ffeadc1d",
+    "date_str": "2026-08-18",
+    "description": "Cabinet approves Inter-Ministerial Committee on Human Rights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-Inter-Ministerial-Committee-on-Human-Rights/108-348370",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787044439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-084cd330",
+    "num": "tamilmirrorlk-084cd330",
+    "date_str": "2026-08-18",
+    "description": "\u0ba8\u0bbf\u0bb2\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0b9f\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95 \u0baf\u0bcb\u0b9a\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bbf\u0bb2\u0bcd\u0ba4\u0bbf\u0baf-\u0ba4\u0b9f\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95-\u0baf\u0bcb\u0b9a\u0ba9\u0bc8/76-381579",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787045459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-4f3aeed6",
+    "num": "dailymirrorlk-4f3aeed6",
+    "date_str": "2026-08-18",
+    "description": "YouTube changes how views are counted: What it means for creators",
+    "url_metadata": "https://www.dailymirror.lk/international/YouTube-changes-how-views-are-counted-What-it-means-for-creators/107-348371",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787045583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-c18bb4e4",
+    "num": "tamilmirrorlk-c18bb4e4",
+    "date_str": "2026-08-18",
+    "description": "PTA \u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bbe\u0b95 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/PTA-\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0ba4\u0bbf\u0bb2\u0bbe\u0b95-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-381580",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787045849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-0a711358",
+    "num": "dailymirrorlk-0a711358",
+    "date_str": "2026-08-18",
+    "description": "Tourism activities at Nildiya Pokuna to come under Wildlife Department regulation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tourism-activities-at-Nildiya-Pokuna-to-come-under-Wildlife-Department-regulation/108-348372",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787046473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-015163eb",
+    "num": "dailymirrorlk-015163eb",
+    "date_str": "2026-08-18",
+    "description": "British couple on honeymoon killed in helicopter crash on Greek island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-couple-on-honeymoon-killed-in-helicopter-crash-on-Greek-island/108-348373",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787046783.0
   }
 ]
