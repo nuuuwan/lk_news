@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_15:56:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_17:56:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,732** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,748** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-18-dailymirrorlk-015163eb",
-    "num": "dailymirrorlk-015163eb",
+    "doc_id": "2026-08-18-dailymirrorlk-e6e17784",
+    "num": "dailymirrorlk-e6e17784",
     "date_str": "2026-08-18",
-    "description": "British couple on honeymoon killed in helicopter crash on Greek island",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-couple-on-honeymoon-killed-in-helicopter-crash-on-Greek-island/108-348373",
+    "description": "ADB provides US$200 million for post-Ditwah recovery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ADB-provides-US-200-million-for-post-Ditwah-recovery/108-348384",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787046783.0
+    "time_ut": 1787055130.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-18 | `dailymirrorlk-e6e17784` | ADB provides US$200 million for post-Ditwah recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-e6e17784)
+- 2026-08-18 | `dailymirrorlk-589f9057` | Government will not confront UN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-589f9057)
+- 2026-08-18 | `tamilmirrorlk-6e6cfaea` | மக்களை அச்சுறுத்தும் ‘XL Gullies’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-tamilmirrorlk-6e6cfaea)
+- 2026-08-18 | `dailymirrorlk-d3d755ef` | Ex-Australia batter Warner fined for drink-driving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-d3d755ef)
+- 2026-08-18 | `dailymirrorlk-61b34f7c` | Keheliya Rambukwella released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-61b34f7c)
+- 2026-08-18 | `adalk-6356fcf3` | 22ට ජනමත විචාරණයක් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-adalk-6356fcf3)
+- 2026-08-18 | `dailymirrorlk-4c9d0a69` | US states call for big changes to Instagram and Facebook as Meta child privacy trial begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-4c9d0a69)
+- 2026-08-18 | `dailymirrorlk-282d1c83` | Two dead in school shooting in southern Philippines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-282d1c83)
+- 2026-08-18 | `dailymirrorlk-7c5bb3bd` | Warm weather advisory for Eastern Province, seven districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-7c5bb3bd)
+- 2026-08-18 | `dailymirrorlk-6e89131b` | World Photography Day held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-6e89131b)
+- 2026-08-18 | `dailymirrorlk-18860eca` | G.L. Peiris files another petition against 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-18860eca)
+- 2026-08-18 | `tamilmirrorlk-0d5e23e2` | களத்தடுப்பின்போது காயமடைந்த சந்திமால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-tamilmirrorlk-0d5e23e2)
+- 2026-08-18 | `dailymirrorlk-a346d002` | The Milky Way devoured a smaller galaxy about 11.8 billion years ago | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-a346d002)
+- 2026-08-18 | `adalk-d31f3fb7` | ආපදා ගැටළුවලට මුහුණ දෙන්න 20000ක් සවිබල ගන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-adalk-d31f3fb7)
+- 2026-08-18 | `dailymirrorlk-8a6c01f7` | Health Ministry seeks solution to Muslim nurses’ uniform concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-8a6c01f7)
+- 2026-08-18 | `adalk-6d957f78` | අවස්ථා 10151කදී රු.බි. 74ක් නීතිවිරෝධී ලෙස පිටරට යවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-adalk-6d957f78)
 - 2026-08-18 | `dailymirrorlk-015163eb` | British couple on honeymoon killed in helicopter crash on Greek island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-015163eb)
 - 2026-08-18 | `dailymirrorlk-0a711358` | Tourism activities at Nildiya Pokuna to come under Wildlife Department regulation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-0a711358)
 - 2026-08-18 | `tamilmirrorlk-c18bb4e4` | PTA க்கு பதிலாக புதிய சட்டம் வருகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-tamilmirrorlk-c18bb4e4)
 - 2026-08-18 | `dailymirrorlk-4f3aeed6` | YouTube changes how views are counted: What it means for creators | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-4f3aeed6)
-- 2026-08-18 | `tamilmirrorlk-084cd330` | நில்திய தடாகத்தை பாதுகாக்க யோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-tamilmirrorlk-084cd330)
-- 2026-08-18 | `dailymirrorlk-ffeadc1d` | Cabinet approves Inter-Ministerial Committee on Human Rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-ffeadc1d)
-- 2026-08-18 | `dailymirrorlk-06747d60` | Rs. 5,000 allowance for over 5,000 special-needs students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-06747d60)
-- 2026-08-18 | `dailymirrorlk-28126aee` | Sri Lanka moves to replace Prevention of Terrorism Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-28126aee)
-- 2026-08-18 | `dailymirrorlk-9f651399` | BASL takes 22nd amendment battle to Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-9f651399)
-- 2026-08-18 | `dailymirrorlk-df360649` | Digital IDs planned by next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-df360649)
-- 2026-08-18 | `dailymirrorlk-54c45f78` | Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-54c45f78)
-- 2026-08-18 | `dailymirrorlk-6c743fd7` | Special programme launched to distribute drinking water in drought-hit districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-6c743fd7)
-- 2026-08-18 | `dailymirrorlk-47cbcce2` | Sri Lanka, Poland approve extradition agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-47cbcce2)
-- 2026-08-18 | `dailymirrorlk-b1711244` | Canada braces for 50% US tariffs, with negotiators still far apart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-b1711244)
-- 2026-08-18 | `dailymirrorlk-abbbeab3` | Sri Lanka to implement national pharmaceutical policy 2026-2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-abbbeab3)
-- 2026-08-18 | `dailymirrorlk-8b925c50` | Doctors remove 3.1kg stone from man’s bladder and claim record | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-8b925c50)
-- 2026-08-18 | `dailymirrorlk-5d676eb9` | Education Council to be established in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-5d676eb9)
-- 2026-08-18 | `adalk-be84a550` | කෙහෙළිය අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-adalk-be84a550)
-- 2026-08-18 | `tamilmirrorlk-87843986` | 600 மாணவிகளை  வெளியேற்றிய கொலுசுச் சத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-tamilmirrorlk-87843986)
-- 2026-08-18 | `dailymirrorlk-e531b49b` | Zambia’s President Hakainde Hichilema wins second term | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-18-dailymirrorlk-e531b49b)
 
 ---
 
