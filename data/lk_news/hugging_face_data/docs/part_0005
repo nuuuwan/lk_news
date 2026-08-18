@@ -19343,6 +19343,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-b621cd51",
+    "num": "dailyftlk-b621cd51",
+    "date_str": "2026-08-18",
+    "description": "Labour Ministry flags forced labour risks in Southern tea smallholder sector",
+    "url_metadata": "https://www.ft.lk/business/Labour-Ministry-flags-forced-labour-risks-in-Southern-tea-smallholder-sector/34-796181",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787037100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-a416cb5e",
+    "num": "dailyftlk-a416cb5e",
+    "date_str": "2026-08-18",
+    "description": "Manufacturing, services PMI improve in July",
+    "url_metadata": "https://www.ft.lk/business/Manufacturing-services-PMI-improve-in-July/34-796182",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787037114.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-dailymirrorlk-a1620cb1",
     "num": "dailymirrorlk-a1620cb1",
     "date_str": "2026-08-18",
@@ -19362,6 +19384,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787037165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-bfc788b4",
+    "num": "dailyftlk-bfc788b4",
+    "date_str": "2026-08-18",
+    "description": "Teejay Group strengthens resilience as market conditions soften in 1Q",
+    "url_metadata": "https://www.ft.lk/business/Teejay-Group-strengthens-resilience-as-market-conditions-soften-in-1Q/34-796183",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787037225.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-1281fc7e",
+    "num": "dailyftlk-1281fc7e",
+    "date_str": "2026-08-18",
+    "description": "Jaffna\u2019s tallest residential building project gets BOI nod",
+    "url_metadata": "https://www.ft.lk/business/Jaffna-s-tallest-residential-building-project-gets-BOI-nod/34-796184",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787037292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-68a07924",
+    "num": "dailyftlk-68a07924",
+    "date_str": "2026-08-18",
+    "description": "Banks see slower lending growth amid tighter monetary conditions",
+    "url_metadata": "https://www.ft.lk/business/Banks-see-slower-lending-growth-amid-tighter-monetary-conditions/34-796185",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787037364.0
   },
   {
     "doc_type": "lk_news",
@@ -19695,6 +19750,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-5b7cf8dd",
+    "num": "adalk-5b7cf8dd",
+    "date_str": "2026-08-18",
+    "description": "\u0db4\u0dbd\u0dd9\u0dba\u0dd2 \u0d9a\u0dd0\u0dbd\u0dba\u0dda \u0d91\u0dbd\u0dca.\u0da7\u0dd3.\u0da7\u0dd3.\u0d8a. \u0db4\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbd\u0dd9\u0dba\u0dd2-\u0d9a\u0dd0\u0dbd\u0dba\u0dda-\u0d91\u0dbd\u0dca-\u0da7\u0dd3-\u0da7\u0dd3-\u0d8a--\u0db4\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0d9a\u0dca-\u0db1\u0dd1/11-423811",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787048396.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-adalk-d31f3fb7",
     "num": "adalk-d31f3fb7",
     "date_str": "2026-08-18",
@@ -19714,6 +19780,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787048603.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-7129a185",
+    "num": "adalk-7129a185",
+    "date_str": "2026-08-18",
+    "description": "\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1-\u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8\u0da7-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-423813",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787048831.0
   },
   {
     "doc_type": "lk_news",
@@ -19758,6 +19835,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787050295.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-43f141a8",
+    "num": "adalk-43f141a8",
+    "date_str": "2026-08-18",
+    "description": "\u0dc3\u0dbb\u0dd4\u0d82\u0d9c\u0dbd\u0dca \u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dbb\u0dd4\u0d82\u0d9c\u0dbd\u0dca-\u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dda-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-423815",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787050430.0
   },
   {
     "doc_type": "lk_news",
@@ -19846,5 +19934,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787055130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-9ea9a8b5",
+    "num": "tamilmirrorlk-9ea9a8b5",
+    "date_str": "2026-08-18",
+    "description": "\u0b95\u0bc1\u0b9f\u0bbf\u0baa\u0bcb\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bbf\u0baf  \u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba9\u0bb0\u0bcd \u0b95\u0bb5\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b95\u0bc1\u0b9f\u0bbf\u0baa\u0bcb\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd-\u0b93\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd-\u0bb5\u0bbe\u0bb0\u0bcd\u0ba9\u0bb0\u0bcd-\u0b95\u0bb5\u0bb2\u0bc8/44-381594",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787055607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-4aedf66d",
+    "num": "dailymirrorlk-4aedf66d",
+    "date_str": "2026-08-18",
+    "description": "Major reservoirs hold 37.2% of effective storage capacity",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Major-reservoirs-hold-37-2-of-effective-storage-capacity/108-348385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787055840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-1c2df93f",
+    "num": "dailymirrorlk-1c2df93f",
+    "date_str": "2026-08-18",
+    "description": "Ukraine fires nearly 800 drones at Russia in one of war\u2019s biggest attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-fires-nearly-800-drones-at-Russia-in-one-of-wars-biggest-attacks/108-348386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787056571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-fee36f5d",
+    "num": "tamilmirrorlk-fee36f5d",
+    "date_str": "2026-08-18",
+    "description": "22\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 2 \u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/22\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-2-\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-381599",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787057460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-9f7f4b43",
+    "num": "dailymirrorlk-9f7f4b43",
+    "date_str": "2026-08-18",
+    "description": "Huge challenge before SL to avoid another economic crisis: Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Huge-challenge-before-SL-to-avoid-another-economic-crisis-Ranil/108-348387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787058916.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-90c9636c",
+    "num": "dailymirrorlk-90c9636c",
+    "date_str": "2026-08-18",
+    "description": "Ven. Rambukana Siddhartha Thero passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ven-Rambukana-Siddhartha-Thero-passes-away/108-348388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787061256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-73429f51",
+    "num": "dailymirrorlk-73429f51",
+    "date_str": "2026-08-18",
+    "description": "Govt denies claims of LTTE training camp operating in Pallai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-denies-claims-of-LTTE-training-camp-operating-in-Pallai/108-348389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787061498.0
   }
 ]

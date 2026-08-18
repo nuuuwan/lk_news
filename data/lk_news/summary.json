@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-18 17:56:14",
-  "n_docs": 127748,
+  "time_updated": "2026-08-18 20:00:40",
+  "n_docs": 127763,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127748,
+  "n_docs_with_text": 127763,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-18",
-  "dataset_size": 1989655532,
+  "dataset_size": 1989847952,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-18-dailymirrorlk-e6e17784",
-    "num": "dailymirrorlk-e6e17784",
+    "doc_id": "2026-08-18-dailymirrorlk-73429f51",
+    "num": "dailymirrorlk-73429f51",
     "date_str": "2026-08-18",
-    "description": "ADB provides US$200 million for post-Ditwah recovery",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/ADB-provides-US-200-million-for-post-Ditwah-recovery/108-348384",
+    "description": "Govt denies claims of LTTE training camp operating in Pallai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-denies-claims-of-LTTE-training-camp-operating-in-Pallai/108-348389",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787055130.0
+    "time_ut": 1787061498.0
   }
 }
