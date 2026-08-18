@@ -18595,6 +18595,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-6791e82c",
+    "num": "adalk-6791e82c",
+    "date_str": "2026-08-18",
+    "description": "\u0dbb\u0dd4. 20000\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0d9c\u0dad\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7 \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0daf\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4--20000\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0d9c\u0dad\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0daf\u0dd2\u0dba\u0dd2/11-423804",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787024215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-e91d3a0e",
+    "num": "adalk-e91d3a0e",
+    "date_str": "2026-08-18",
+    "description": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-423805",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787024732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-tamilmirrorlk-9e4b7950",
     "num": "tamilmirrorlk-9e4b7950",
     "date_str": "2026-08-18",
@@ -18705,6 +18727,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-29410e4c",
+    "num": "dailymirrorlk-29410e4c",
+    "date_str": "2026-08-18",
+    "description": "Laugfs Supermarkets opens 44th outlet in Mount Lavinia",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Laugfs-Supermarkets-opens-44th-outlet-in-Mount-Lavinia/273-348297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787029483.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-72f702e8",
+    "num": "dailymirrorlk-72f702e8",
+    "date_str": "2026-08-18",
+    "description": "Sheraton Colombo elevates culinary landscape with authentic Mughlai heritage festival",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sheraton-Colombo-elevates-culinary-landscape-with-authentic-Mughlai-heritage-festival/273-348298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787029614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-4250a5dc",
+    "num": "dailymirrorlk-4250a5dc",
+    "date_str": "2026-08-18",
+    "description": "DFCC Pragathi to strengthen support for MSMEs",
+    "url_metadata": "https://www.dailymirror.lk/business-news/DFCC-Pragathi-to-strengthen-support-for-MSMEs/273-348299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787029672.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-tamilmirrorlk-5f31e70e",
     "num": "tamilmirrorlk-5f31e70e",
     "date_str": "2026-08-18",
@@ -18713,6 +18768,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787029703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-e7ae98c2",
+    "num": "dailymirrorlk-e7ae98c2",
+    "date_str": "2026-08-18",
+    "description": "FINEX unveils SL\u2019s 1st facial tissue canister",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FINEX-unveils-SLs-1st-facial-tissue-canister/273-348300",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787029763.0
   },
   {
     "doc_type": "lk_news",
@@ -18738,6 +18804,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-76642767",
+    "num": "dailymirrorlk-76642767",
+    "date_str": "2026-08-18",
+    "description": "Browns Hotels & Resorts launches Learning Academy",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Browns-Hotels-Resorts-launches-Learning-Academy/273-348303",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787029995.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-a827e070",
+    "num": "dailymirrorlk-a827e070",
+    "date_str": "2026-08-18",
+    "description": "HNB Finance appoints new Non-Independent Non-Executive Directors",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-Finance-appoints-new-Non-Independent-Non-Executive-Directors/273-348304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-3954c88a",
+    "num": "dailymirrorlk-3954c88a",
+    "date_str": "2026-08-18",
+    "description": "Minister pledges to build Australia-like Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Minister-pledges-to-build-Australia-like-Sri-Lanka/273-348305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030164.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-tamilmirrorlk-3b25b6ad",
     "num": "tamilmirrorlk-3b25b6ad",
     "date_str": "2026-08-18",
@@ -18760,6 +18859,50 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-d7fe933b",
+    "num": "dailymirrorlk-d7fe933b",
+    "date_str": "2026-08-18",
+    "description": "Hemas pays US $ 16.2mn for 75% stake in Kenya\u2019s Twiga Stationers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hemas-pays-US-16-2mn-for-75-stake-in-Kenyas-Twiga-Stationers/273-348307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-f5c9f122",
+    "num": "dailymirrorlk-f5c9f122",
+    "date_str": "2026-08-18",
+    "description": "Muted trading keeps yield curve anchored",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Muted-trading-keeps-yield-curve-anchored/273-348308",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-435b8ced",
+    "num": "dailymirrorlk-435b8ced",
+    "date_str": "2026-08-18",
+    "description": "Indices close on a mixed note",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-on-a-mixed-note/273-348309",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-f3e90593",
+    "num": "dailymirrorlk-f3e90593",
+    "date_str": "2026-08-18",
+    "description": "Dialog doubles 2Q profit to Rs.10.1bn as operating margins widen",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dialog-doubles-2Q-profit-to-Rs-10-1bn-as-operating-margins-widen/273-348310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030529.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-dailymirrorlk-c49c6298",
     "num": "dailymirrorlk-c49c6298",
     "date_str": "2026-08-18",
@@ -18768,6 +18911,61 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787030568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-c512f184",
+    "num": "dailymirrorlk-c512f184",
+    "date_str": "2026-08-18",
+    "description": "SLT group delivers 55% profit growth in second quarter",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLT-group-delivers-55-profit-growth-in-second-quarter/273-348312",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-e3b11e1d",
+    "num": "dailymirrorlk-e3b11e1d",
+    "date_str": "2026-08-18",
+    "description": "Logistics carries Aitken Spence as tourism sinks deeper into loss",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Logistics-carries-Aitken-Spence-as-tourism-sinks-deeper-into-loss/273-348313",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-32496afa",
+    "num": "dailymirrorlk-32496afa",
+    "date_str": "2026-08-18",
+    "description": "Buddika steps down from SLTDA",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Buddika-steps-down-from-SLTDA/273-348314",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-6a34b41a",
+    "num": "dailymirrorlk-6a34b41a",
+    "date_str": "2026-08-18",
+    "description": "Sri Lanka on track to complete IMF programme by 2H27",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-on-track-to-complete-IMF-programme-by-2H27/273-348315",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-51800f23",
+    "num": "dailymirrorlk-51800f23",
+    "date_str": "2026-08-18",
+    "description": "\u2018This is the time\u2019 to enter  Sri Lanka: CB Governor tells investors",
+    "url_metadata": "https://www.dailymirror.lk/business-main/This-is-the-time-to-enter-Sri-Lanka-CB-Governor-tells-investors/245-348316",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787030843.0
   },
   {
     "doc_type": "lk_news",
@@ -18881,6 +19079,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-20cb1f1e",
+    "num": "dailymirrorlk-20cb1f1e",
+    "date_str": "2026-08-18",
+    "description": "The NPP and economic democracy",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-NPP-and-economic-democracy/172-348322",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787032794.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-dailymirrorlk-d1dc3d09",
     "num": "dailymirrorlk-d1dc3d09",
     "date_str": "2026-08-18",
@@ -18900,6 +19109,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787032913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-ac3db9f2",
+    "num": "dailymirrorlk-ac3db9f2",
+    "date_str": "2026-08-18",
+    "description": "\u2018Between the Lamp and the Pot:\u2019 A referendum remembered, and a warning for today",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Between-the-Lamp-and-the-Pot-A-referendum-remembered-and-a-warning-for-today/172-348324",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787032942.0
   },
   {
     "doc_type": "lk_news",
@@ -18936,6 +19156,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-39bdcbe4",
+    "num": "dailymirrorlk-39bdcbe4",
+    "date_str": "2026-08-18",
+    "description": "\u201cCyclone Ditwah exposed critical structural gaps in  Sri Lanka\u2019s early warning  architecture\u201d - Prof. Amaratunga -",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/Cyclone-Ditwah-exposed-critical-structural-gaps-in-Sri-Lankas-early-warning-architecture-Prof-Amaratunga/334-348330",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787033553.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-18-tamilmirrorlk-34cd144c",
     "num": "tamilmirrorlk-34cd144c",
     "date_str": "2026-08-18",
@@ -18955,5 +19186,280 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787033722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-fae458e7",
+    "num": "dailymirrorlk-fae458e7",
+    "date_str": "2026-08-18",
+    "description": "Four Monaragala Crime Unit cops arrested over Rs. 500,000 ganja bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-Monaragala-Crime-Unit-cops-arrested-over-Rs-500-000-ganja-bribe/108-348336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787034027.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-54f7372a",
+    "num": "dailymirrorlk-54f7372a",
+    "date_str": "2026-08-18",
+    "description": "Dinesh Chandimal suffers injury, taken to hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dinesh-Chandimal-suffers-injury-taken-to-hospital/108-348338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787034540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-52e62c70",
+    "num": "dailymirrorlk-52e62c70",
+    "date_str": "2026-08-18",
+    "description": "Former Fisheries Corporation chairman arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Fisheries-Corporation-chairman-arrested/108-348341",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787034826.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-adalk-2a5ba09c",
+    "num": "adalk-2a5ba09c",
+    "date_str": "2026-08-18",
+    "description": "\u0db8\u0ddd\u0daf\u0dbb \u0da0\u0dad\u0dd4\u0dad\u0dca \u0d9c\u0dd9\u0db1 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0daf\u0dbb-\u0da0\u0dad\u0dd4\u0dad\u0dca-\u0d9c\u0dd9\u0db1-\u0d91\u0dba\u0dd2/11-423806",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787034900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-49a6748a",
+    "num": "dailyftlk-49a6748a",
+    "date_str": "2026-08-18",
+    "description": "Reassessing Sri Lanka\u2019s inflation target: Response to the case for 2%",
+    "url_metadata": "https://www.ft.lk/columns/Reassessing-Sri-Lanka-s-inflation-target-Response-to-the-case-for-2/4-796174",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787034971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-91bcce79",
+    "num": "dailymirrorlk-91bcce79",
+    "date_str": "2026-08-18",
+    "description": "22nd Amendment to Constitution presented to Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-to-Constitution-presented-to-Parliament/108-348343",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787035452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-833d5b70",
+    "num": "tamilmirrorlk-833d5b70",
+    "date_str": "2026-08-18",
+    "description": "\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bc8 \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95 150 \u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0ba9\u0bcd\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b85\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bc8-\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95-150-\u0bae\u0bc1\u0bb1\u0bc8-\u0b95\u0ba9\u0bcd\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0b85\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-381572",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787035767.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-94579078",
+    "num": "dailyftlk-94579078",
+    "date_str": "2026-08-18",
+    "description": "When the risk is judicial independence, a President must not take it",
+    "url_metadata": "https://www.ft.lk/columns/When-the-risk-is-judicial-independence-a-President-must-not-take-it/4-796178",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787036059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-84deea4b",
+    "num": "tamilmirrorlk-84deea4b",
+    "date_str": "2026-08-18",
+    "description": "22\u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd   \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/22\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b9a\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd-\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bc1/150-381573",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787036351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-750cfbbe",
+    "num": "dailyftlk-750cfbbe",
+    "date_str": "2026-08-18",
+    "description": "Bopage backs NPP but warns of gaps in governance and priorities",
+    "url_metadata": "https://www.ft.lk/opinion/Bopage-backs-NPP-but-warns-of-gaps-in-governance-and-priorities/14-796179",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787036411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-7503b96a",
+    "num": "dailymirrorlk-7503b96a",
+    "date_str": "2026-08-18",
+    "description": "Opposition MPs display Daily Mirror cartoon to protest against 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-MPs-display-Daily-Mirror-cartoon-to-protest-against-22A/108-348346",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787036553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailyftlk-7d138b39",
+    "num": "dailyftlk-7d138b39",
+    "date_str": "2026-08-18",
+    "description": "Lokka: The call  I still half-expect",
+    "url_metadata": "https://www.ft.lk/columns/Lokka-The-call-I-still-half-expect/4-796180",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787036820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-8e274810",
+    "num": "dailymirrorlk-8e274810",
+    "date_str": "2026-08-18",
+    "description": "Tri-forces step in to treat injured elephant calf amid wildlife vets\u2019 strike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tri-forces-step-in-to-treat-injured-elephant-calf-amid-wildlife-vets-strike/108-348347",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787036951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-a1620cb1",
+    "num": "dailymirrorlk-a1620cb1",
+    "date_str": "2026-08-18",
+    "description": "Against 22A",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Against-22A/110-348348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787037119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-17f474e7",
+    "num": "tamilmirrorlk-17f474e7",
+    "date_str": "2026-08-18",
+    "description": "\u0b9f\u0bc6\u0baf\u0bcd\u0bb2\u0bbf \u0bae\u0bbf\u0bb0\u0bb0\u0bcd\u2019 \u0b95\u0bc7\u0bb2\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0ba8\u0bcd\u0ba4\u0bbf \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bb3\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc6\u0baf\u0bcd\u0bb2\u0bbf-\u0bae\u0bbf\u0bb0\u0bb0\u0bcd-\u0b95\u0bc7\u0bb2\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b8f\u0ba8\u0bcd\u0ba4\u0bbf-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bb3\u0bbf/175-381574",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787037165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-42a64086",
+    "num": "dailymirrorlk-42a64086",
+    "date_str": "2026-08-18",
+    "description": "Akila Viraj granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Akila-Viraj-granted-bail/108-348349",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787038052.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-10b2ae79",
+    "num": "dailymirrorlk-10b2ae79",
+    "date_str": "2026-08-18",
+    "description": "Keheliya Rambukwella arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keheliya-Rambukwella-arrested/108-348350",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787038137.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-d4d7bdd6",
+    "num": "dailymirrorlk-d4d7bdd6",
+    "date_str": "2026-08-18",
+    "description": "Suranjith Wevita appointed SLTDA Chairman",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Suranjith-Wevita-appointed-SLTDA-Chairman/273-348351",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787038606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-fc919ab9",
+    "num": "dailymirrorlk-fc919ab9",
+    "date_str": "2026-08-18",
+    "description": "Two arrested with deer antlers, elephant tusk ornaments in Kuruwita raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-with-deer-antlers-elephant-tusk-ornaments-in-Kuruwita-raid/108-348352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787038883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-418f9683",
+    "num": "tamilmirrorlk-418f9683",
+    "date_str": "2026-08-18",
+    "description": "\u0b95\u0bc6\u0bb9\u0bb2\u0bbf\u0baf \u0b95\u0bc8\u0ba4\u0bc1; \u0b85\u0b95\u0bbf\u0bb2\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bb9\u0bb2\u0bbf\u0baf-\u0b95\u0bc8\u0ba4\u0bc1-\u0b85\u0b95\u0bbf\u0bb2\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-381575",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787039117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-4756c5d0",
+    "num": "dailymirrorlk-4756c5d0",
+    "date_str": "2026-08-18",
+    "description": "Strong winds, rough seas expected along Sri Lanka coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-rough-seas-expected-along-Sri-Lanka-coast/108-348353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787040403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-4a059fbe",
+    "num": "tamilmirrorlk-4a059fbe",
+    "date_str": "2026-08-18",
+    "description": "\u0b93\u0bae\u0bbe\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd: \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0bae\u0bbe\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/50-381576",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787040645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-8bad66db",
+    "num": "dailymirrorlk-8bad66db",
+    "date_str": "2026-08-18",
+    "description": "How do NPP Ministers predict my verdict before court? \u2013 asks Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-do-NPP-Ministers-predict-my-verdict-before-court-asks-Namal/108-348354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787040760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-dailymirrorlk-e531b49b",
+    "num": "dailymirrorlk-e531b49b",
+    "date_str": "2026-08-18",
+    "description": "Zambia\u2019s President Hakainde Hichilema wins second term",
+    "url_metadata": "https://www.dailymirror.lk/international/Zambias-President-Hakainde-Hichilema-wins-second-term/107-348355",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787040892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-18-tamilmirrorlk-87843986",
+    "num": "tamilmirrorlk-87843986",
+    "date_str": "2026-08-18",
+    "description": "600 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc8  \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0bca\u0bb2\u0bc1\u0b9a\u0bc1\u0b9a\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/600-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b95\u0bca\u0bb2\u0bc1\u0b9a\u0bc1\u0b9a\u0bcd-\u0b9a\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-381577",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787040905.0
   }
 ]

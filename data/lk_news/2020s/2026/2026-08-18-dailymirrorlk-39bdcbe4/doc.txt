@@ -1,0 +1,107 @@
+“Cyclone Ditwah exposed critical structural gaps in  Sri Lanka’s early warning  architecture” - Prof. Amaratunga -
+
+We’re also not yet building resilience cumulatively the way we should be. That’s the gap my research tries to address
+
+Sri Lanka sits at a particular intersection of vulnerability that makes preparedness not optional, but foundational
+
+Prof. Amaratunga conducts joint research with Sri Lankan scholars focusing on areas like disaster risk management
+
+Sri Lanka has witnessed many natural disasters from time to time, ever since the 2004 Indian Ocean tsunami to cyclone Ditwah. In each one of these disasters, many lives were lost in addition to damage to property and infrastructure. Researchers have identified gaps in disaster preparedness planning despite Sri Lanka improving considerably in terms of establishing early warning systems and evacuation infrastructure post 2004.
+
+In this exclusive interview with the Daily Mirror, Dilanthi Amaratunga, professor of Disaster Risks and Climate Resilience at Loughborough University, UK, one of the world’s most cited scholars in built environment disaster resilience, responded to some pertinent questions related to disaster risk reduction and disaster mitigation. In 2019, she won the prestigious Newton Prize alongside Prof. Richard Haigh (University of Huddersfield) and Dr. Harkunti Rahayu (Institut Teknologi Bandung) for their collaborative research project protecting coastal communities from tsunamis and natural hazards in Indonesia. She continues to conduct joint research with Sri Lankan scholars, focusing on disaster risk management, preparedness, mitigation, and governance
+
+QSri Lanka experienced many natural disasters from the tsunami to 2016 floods and cyclone Ditwah. In each one of them, many lives were lost in addition to damage to infrastructure. What are your observations about these natural calamities, loss of lives and damage?
+
+Looking across these events, the 2004 Indian Ocean tsunami, the 2016 floods and landslides and 2025 Cyclone Ditwah, a few patterns strike me immediately, and they concern me precisely because they keep repeating.
+
+The 2004 tsunami killed close to 35,000 people in Sri Lanka and was, understandably, treated as a singular, unprecedented catastrophe, a once-in-a-generation event that justified building an entirely new disaster management architecture, which is exactly what happened with the Disaster Management Act of 2005. But the assumption embedded in that response was that we were preparing for another rare mega-event of that type.
+
+What 2016 showed us was different. That disaster, over 100 lives lost, nearly half a million people affected, and the Aranayake landslide alone burying entire villages, wasn’t a freak occurrence. It was described at the time as the worst rainfall in nearly two decades, and it was still recognisably a monsoon-driven flood-and-landslide event, the kind Sri Lanka has always been exposed to. And then in 2017, just a year later, we saw over 200 more deaths from very similar flooding. So the pattern isn’t ‘rare mega-disaster, then decades of calm’, and it’s recurring, monsoon-linked, compound hazard risk, arriving on a much shorter cycle than our institutions were built to expect.
+
+Cyclone Ditwah takes that pattern and escalates it further: over 600 deaths, more than 2 million people affected, and what’s been called the most extensive flooding and landslide damage in two decades, with cascading impacts through health systems, water supply, and livelihoods that are still unresolved months later.
+
+So my core observation is this: the loss of life and damage in each of these events wasn’t simply a function of the hazard’s severity; it was shaped by how well our institutional memory and infrastructure retained the lessons from the previous events. Early warning systems, evacuation infrastructure, and health system surge capacity all improved after 2004. But each subsequent event exposed a new set of gaps, such as data fragmentation, delayed anticipatory action, health system strain, prioritising response rather than concentrating on preparedness planning, and protracted rather than short-term displacement, and these weren’t fully addressed. We are not starting from zero each time, which is progress. But we are also not yet building resilience cumulatively the way we should be. That’s the gap my research tries to address.
+
+QDid we have opportunities to introduce and implement disaster preparedness and disaster risk mitigation plans in earlier instances?
+
+Yes, and this is really the central finding across nearly two decades of my research in this area in Sri Lanka. The opportunities were there, repeatedly, but implementation consistently lagged behind intention. What the research shows is a recurring gap between designing good frameworks and embedding them operationally, with sufficient resourcing, all the way down through local government and frontline response. That gap, more than any lack of technical knowledge, is what I think has cost us the most in repeated events.
+
+Take the tsunami for instance. Our work on post-tsunami knowledge sharing made the case clearly back then, that effective lesson-learning should reduce future risk through well-informed mitigation and preparedness planning. But that depends on having an efficient system for capturing and sharing disaster risk knowledge. We had the raw material for learning. What we lacked, and in many ways still lack, was the systematic infrastructure to convert that knowledge into standing institutional practice.
+
+You can see this gap concretely in local government. Our research found that even a full decade after the tsunami, despite genuine initiatives to institutionalise disaster risk reduction, local governments were still struggling. DRR had not been properly integrated into the local government system. That’s not a lack of opportunity; the Disaster Management Act and the national architecture it created gave us the opening. It’s a failure to push that architecture all the way down to where implementation actually happens, at the divisional and community level.
+
+The same pattern shows up in early warning. Our research identifying gaps in tsunami early-warning and evacuation procedures, and separately mapping the ‘upstream-downstream interface’ of Sri Lanka’s tsunami warning system, both point to the same underlying issue: we capture the upstream detection reasonably well, but the downstream link, getting an accurate warning to the right person in time for them to act, remained weak. Cyclone Ditwah’s own retrospective makes this explicit: Sri Lanka was actually among the first countries globally to develop anticipatory-action triggers for a biological hazard like dengue, which shows we’re capable of genuine innovation. But we have noted that pre-positioning of essential supplies based on those triggers materialised only to a limited extent when Ditwah hit, so even where the tools existed, the operational follow-through didn’t fully happen.
+
+QWhy are disaster preparedness and disaster risk mitigation plans and policies important for a country like Sri Lanka?
+
+Because Sri Lanka sits at a particular intersection of vulnerability that makes preparedness not optional, but foundational.
+
+Geographically, Sri Lanka is exposed to a genuinely wide hazard profile for a country of its size, monsoon flooding, landslides in the central highlands, cyclones making landfall with increasing frequency, coastal erosion, drought in the dry zone, and climate-sensitive disease burden like dengue that rises with every monsoon. Very few countries face that breadth of concurrent hazard types. That alone means a narrow, single-hazard approach to planning was never going to be adequate for us.
+
+Economically, the country simply cannot afford to keep absorbing these losses reactively. Cyclone Ditwah alone affected over two million people and caused damage across every sector such as housing, agriculture, health, and livelihoods, and this was on top of a country still recovering from a severe economic crisis. Post-disaster reconstruction is more expensive than pre-disaster mitigation. Socially, the impact of disasters in Sri Lanka is never evenly distributed. Our research on gender and disaster governance, on post-conflict housing reconstruction, and on vulnerable communities in landslide and flood-prone areas all points to the same pattern: those with the least capacity to absorb shocks, women, the elderly, low-income households, communities in marginal or informal settlements are hit the hardest and recover the slowest. Good preparedness planning is one of the few tools available to correct for that inequity before disaster strikes, rather than trying to patch it afterwards.
+
+And institutionally, Sri Lanka has already demonstrated real capability, a functioning Disaster Management Centre, genuine innovation like early anticipatory-action triggers for dengue, and hard-won lessons from the tsunami, the 2016 and 2017 floods, and now Ditwah. That institutional memory and technical capacity is a real asset. But it only pays off if it’s embedded into standing policy and practice, rather than reconstructed reactively after every event. Otherwise we keep re-learning the same lessons at the cost of lives and livelihoods each time.
+
+So preparedness and mitigation planning matter for Sri Lanka not as a bureaucratic exercise, but because they are the only way to convert hard-earned experience into reduced loss of life, reduced economic damage, and a fairer distribution of risk across the population, before the next event, not after it.
+
+Recovery is actually where I think Sri Lanka’s record is most mixed, where genuine achievements sit right alongside recurring, well-documented failures, often in the same reconstruction programme.
+
+On the achievement side: the sheer scale of post-tsunami housing delivery was real. By the end of 2007, roughly 85% of the required housing programme, around 99,500 of a needed 117,000-plus houses had been completed, which UN-Habitat itself called a genuine success story, particularly along the southern and western coast where implementation went comparatively smoothly.
+
+Some of the community-driven reconstruction models were also genuinely strong, and projects that combined housing with livelihood restoration, skills training for local masons, safer construction techniques, and priority housing for widows and the elderly showed that ‘build back better’ could be more than a slogan when properly resourced and community-embedded. And critically, 2004 gave us the institutional foundation, the Disaster Management Act, the DMC, that every subsequent recovery has built on, however imperfectly.
+
+On the failure side, our own work titled ‘Statement of Research Gaps in Post-tsunami Sri Lanka’ and later research on post-conflict housing reconstruction identified a consistent gap between what recovery plans promised and what was delivered. A few specific, recurring failures stand out:
+
+Quality and durability failures:  Houses built quickly, under donor pressure to show fast results, were in some cases already falling apart within a few years, and some resettlement sites lacked basic roads, water, and electricity from the outset.
+
+Deep unevenness between regions: Recovery in the south and west proceeded far faster than in the conflict-affected north and east, and housing reconstruction in former conflict zones consistently lagged, which is precisely the fairness and equity failure that our evaluation of ‘build back better’ in Sri Lanka flagged as a core test of whether the concept was actually being honoured, not just claimed.
+
+The ‘transition to what?’ problem: Temporary shelter was frequently disconnected from a clear pathway to permanent, livelihood-connected housing. People moved from emergency shelter into another form of limbo rather than into a functioning, resilient community.
+
+Failure to connect relief with development: Recovery efforts tended to replace what was physically lost without addressing the underlying vulnerability that made communities exposed in the first place. Which is exactly why we then saw major loss of life again in 2016, 2017, and now with Ditwah. If recovery had systematically tackled root vulnerability the first time, later events should have caused proportionally less damage. They didn’t.
+
+Governance and accountability gaps: Analyses tracking tsunami aid found large gaps between committed and expended donor funds, inaccurate beneficiary lists, and land allocation problems, and structural weaknesses in how recovery was managed and accounted for, not just technical construction issues.
+
+We’ve proven we can rebuild housing at scale, reasonably quickly, in favourable conditions. What we have not yet demonstrated across three major recovery episodes now is the ability to recover in a way that structurally reduces vulnerability for the next event, and to do so equitably across every affected region. That’s the unfinished work.
+
+QDuring Ditwah there were major lapses in communication, such as disseminating trilingual red alerts and warnings, which could have saved more lives. What are your thoughts?
+
+The severe impacts of Cyclone Ditwah exposed critical structural gaps in Sri Lanka’s early warning architecture. The research and commentary led by me on Cyclone Ditwah directly addressed these communication breakdowns. My analysis frames early warning not merely as a technical issue (issuing data), but as a socio-technical chain where message clarity, language inclusion, and multi-agency coordination are as vital as physical infrastructure.
+
+Some of the key gaps identified during Ditwah are as follows;
+
+During Cyclone Ditwah, warnings were often inconsistent and siloed. Parallel warnings came from different technical institutions (such as the Department of Meteorology and the Department of Irrigation) alongside the central Disaster Management Centre (DMC), creating fragmented messaging.
+
+Alerts lacked complete, simultaneous trilingual reach (Sinhala, Tamil, and English) at local grassroots levels, disproportionately placing non-native majority language speakers in vulnerable areas at severe risk.
+
+Technical “red alerts” failed to communicate localised risks clearly enough to prompt immediate self-evacuation.
+
+Based on my research there is in fact a four-pillar framework to carry out effective disaster early warnings. These include end-to-end trilingual and multi-lingual infrastructure, institutional harmonisation where a single, coordinate multi-hazard early warning protocol needs to be established. It is also important to move from hazard-based to impact-based forecasting. For instance, weather warnings should state specific impacts; “High risk of sudden landslides in [specific division]; road access will be cut in 2 hours; relocate to shelter immediately.” Having robust last-mile delivery mechanisms is also important and this includes empowering local Disaster Management Committees and Grama Niladharis.
+
+QWhat more needs to be done to transform Sri Lanka into a disaster resilient country?
+
+Transforming Sri Lanka into a disaster-resilient nation requires shifting from a reactive disaster response paradigm to a proactive, systemic disaster risk reduction (DRR) framework. Many key actions are needed alongside an assessment of whether current efforts are on course.
+
+Mainstreaming DRR into Built Environment & Infrastructure - Post-disaster reconstruction is insufficient without long-term structural resilience. Capital investments such as roads, schools, hospitals, and housing schemes must undergo mandatory hazard risk assessments prior to approval. Enforcing risk-sensitive building codes in high-risk topographies (e.g., steep slopes in Kegalle, Badulla, or floodplains in Ratnapura) prevents infrastructure from becoming a liability during extreme weather.
+
+Impact-Based Early Warning Systems - Early warnings must move from pure meteorological measurements (e.g., “150mm rainfall expected”) to impact-based alerts (e.g., “High risk of flash flooding and road access cut-off in Division X within 3 hours”). Warnings should be simultaneously generated in Sinhala, Tamil, and English, reaching last-mile communities via synchronised digital and community channels.
+
+Livelihood-Integrated Relocation Models. Resettlement strategies fail when they isolate communities from their economic base. Policy frameworks must favour:
+
+Near-site relocation within local administrative boundaries to preserve access to ancestral farming or trading grounds.
+
+Dual-zone land access allowing farmers to cultivate original non-hazardous plots while living in safer cluster developments.
+
+Financial Resilience & Risk Transfer - Sri Lanka’s fiscal space limits post-disaster government payouts. Transitioning toward public-private disaster risk financing such as catastrophic risk insurance, parametric micro-insurance for smallholder farmers, and contingency emergency funds ensures rapid recovery without straining national reserves.
+
+Local Empowerment & Capacity Building - Disaster management cannot remain top-heavy. Empowering Grama Niladhari-level Disaster Management Committees, local governments, and civil society ensures that community-level first responders have the training, localised risk maps, and resources to act immediately when central links break down.
+
+Sri Lanka is moving in the right direction structurally and institutionally, but progress remains hampered by implementation bottlenecks and fiscal constraints:
+
+Legal & Policy Frameworks: Sri Lanka established early legislative anchors (Disaster Management Act No. 13 of 2005) and updated policies like the NDMP 2023–2030, aligning with the international Sendai Framework for Disaster Risk Reduction. Technical bodies like the National Building Research Organisation (NBRO) produce high-precision landslide hazard mapping.
+
+Execution & Enforcement (Lags Behind): Despite sound policies, enforceability remains a key hurdle. Unplanned urbanisation, informal hill-slope settlements, and economic pressures frequently lead local authorities to bypass hazard maps.
+
+Socio-Economic Integration: Relocation projects still frequently prioritise physical housing over socio-economic continuity, leading to community pushback and high vacancy rates in resettlement sites.
+
+Sri Lanka has laid a solid policy and analytical foundation. However, transforming into a fully disaster-resilient nation requires closing the gap between national plans and local enforcement, securing sustainable climate financing, and treating socio-economic security as a mandatory component of disaster risk management.
