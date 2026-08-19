@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-19 10:00:09",
-  "n_docs": 127805,
+  "time_updated": "2026-08-19 11:58:29",
+  "n_docs": 127828,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127805,
+  "n_docs_with_text": 127828,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-19",
-  "dataset_size": 1990746293,
+  "dataset_size": 1990923621,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-19-dailymirrorlk-9977e576",
-    "num": "dailymirrorlk-9977e576",
+    "doc_id": "2026-08-19-dailymirrorlk-9ebdd9de",
+    "num": "dailymirrorlk-9ebdd9de",
     "date_str": "2026-08-19",
-    "description": "19-year-old arrested over Rs. 10.4 mn \u2018Undiyal\u2019 transaction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/19-year-old-arrested-over-Rs-10-4-mn-Undiyal-transaction/108-348395",
+    "description": "No threat of another bankruptcy, Deputy Minister responds to Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-threat-of-another-bankruptcy-Deputy-Minister-responds-to-Ranil/108-348421",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787113240.0
+    "time_ut": 1787120135.0
   }
 }
