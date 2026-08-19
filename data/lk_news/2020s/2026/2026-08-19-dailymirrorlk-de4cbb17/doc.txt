@@ -1,0 +1,65 @@
+Landmark trial on Meta’s impact on children’s mental health begins in US
+
+ALJAZEERA - Opening statements in a landmark case against Meta, the parent company of Facebook and Instagram, have begun in the United States, with California, Colorado, Kentucky and New Jersey accusing the social media giant of deliberately making its platforms addictive to young people.
+
+The trial, which is expected to last several weeks, began on Tuesday in a US federal court in California before District Judge Yvonne Gonzalez Rogers. While there is an eight-person jury, the group is serving in an advisory role, as Judge Rogers will ultimately decide the case.
+
+Megan O’Neill, a deputy California attorney general, in her opening statement said that Meta designed its products to “hook the users, hold them for as long as they can, harvest their data, and then hide the truth from the public”.
+
+California, Colorado, Kentucky and New Jersey were among the 29 states that sued the tech giant in 2023 over child safety and privacy. The other 25 will go to trial later.
+
+The lawsuit accuses Meta of contributing to the youth mental health crisis by knowingly and deliberately designing features that addict children to its platforms and hiding these harms from the public. It also argues that Meta routinely collects data on children under 13 without their parents’ consent, in violation of federal law.
+
+“Meta needed kids, and it needed to reassure the people who cared about those kids that the kids are safe,” O’Neill said.
+
+The four states are seeking billions of dollars in damages as well as fundamental changes to how Meta runs its platforms.
+
+Meta’s lawyer Paul Schmidt told the court there was “no dispute” that some social media users face struggles, but that research showed no clear link between ‌adolescents’ social media use and a lack of wellbeing.
+
+He also said Mark Zuckerberg, Meta’s cofounder and CEO, shared the company’s desire to improve its services, and not make them dangerous.
+
+“They don’t believe they’re going to do well if people don’t like their service,” Schmidt said.
+
+In a statement before the trial, a Meta spokesperson said the states’ claims are unsubstantiated, and the company stands by its record of creating strong protections for teenagers, including launching Instagram Teen Accounts in 2024, which limit who can contact underage users, as well as a feature that allows parents to set time limits on use.
+
+If Judge Rogers finds Meta liable, she could impose civil penalties and order changes to Facebook and Instagram.
+
+The potential impact on Meta’s bottom line is existential. The company could face fines as high as $1.4 trillion, which is just shy of its $1.5 trillion market cap. However, the coalition is seeking fines of roughly $200bn.
+
+Meta has already been ordered to pay $942m in fines in a separate New Mexico lawsuit. These include $375m in civil penalties in a March jury verdict and $567m ordered by a judge earlier this month.
+
+Meta has acknowledged that the lawsuits it faces, including those related to youth social media addiction, could lead to “substantial monetary damages or fines” in a US Securities and Exchange Commission filing in January.
+
+Stephanie Otway, a Meta spokesperson, told Al Jazeera in a statement that while the state attorneys general call the trial “a landmark case”, their “limited claims are unsubstantiated and their financial demands are vastly disproportionate”.
+
+She said the attorneys general offer “no proof anyone in their states was misled” and are attempting to “penalise Meta” for industry-wide challenges like age verification. “Rather than sticking to the facts or the law, the states have instead decided to chase an outlandish payout,” she added.
+
+After opening arguments concluded, former Meta safety engineer Arturo Bejar began testifying as the states’ first witness. Bejar has long said Meta knew its child safety tools did not work, and has testified against the company in four trials.
+
+Meta sought to block his testimony, allegedly for deleting Signal messages with former employees, but Rogers rejected what she considered a long-shot bid to eliminate a key witness.
+
+Bejar told jurors that “move fast and break things” was a mantra at Meta, which took a “don’t ask, don’t tell” approach to monitoring whether children under 13 were online.
+
+“Many products were shipped into the world”, such as Reels short-form videos, “and safety was not a consideration in how it was initially deployed”, Bejar said.
+
+Zuckerberg and Instagram chief Adam Mosseri are also expected ⁠to testify.
+
+The case’s impetus came from a US Senate committee hearing in 2021, when whistleblower Frances Haugen, a former data scientist at Facebook, claimed the company knowingly pushed products that could impact the health of young users as it pursued higher profits.
+
+Meta has repeatedly tried to end the coalition lawsuit, including in 2024, and as recently as June, when it sought summary judgement – a decision that a court might make without going to trial – which would have ended the lawsuit.
+
+Al Jazeera’s Eva McKend, reporting from Washington, DC, said the states have a “substantial case”, but that “proving intent” will be their biggest challenge.
+
+But, she said, “it speaks volumes that they were even able to get this far”. “No doubt, Meta, with all the corporate might that they have, have tried for a long time to get this squashed and not let this reach before a judge,” she added. “So [the company has] to be quite worried at this point.”
+
+On Wall Street, Meta shares traded lower most of Tuesday and closed down 4.4 percent at $543.67.
+
+The trial is the latest in an avalanche of lawsuits against Meta Platforms and other social media companies, including Google’s YouTube, TikTok and Snap, over arguments that their platforms harm young people, illegally collect their data and are deliberately designed to addict them.
+
+As the trial began, child safety advocates and parents who trace their children’s deaths to social media harms gathered outside of the court on Tuesday. Many parents held photos of their late children as they spoke to reporters outside, at times through tears.
+
+Several parents held a banner with the names and ages of children who died from social media-related harms. It was several feet long.
+
+Among the people outside the court was Mary Rodee, who said her 15-year-old son Riley Basford died by suicide in 2021 after being victimised by a predator on Facebook.
+
+“They call it spontaneous suicide,” she said. “I call it what it was: the predictable outcome of a system that protects corporations instead of children.”
