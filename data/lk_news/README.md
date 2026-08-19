@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--19_06:03:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--19_08:16:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**127,796** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**127,799** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-19-dailyftlk-6c624615",
-    "num": "dailyftlk-6c624615",
+    "doc_id": "2026-08-19-adalk-dd95ee05",
+    "num": "adalk-dd95ee05",
     "date_str": "2026-08-19",
-    "description": "JAT Holdings records 34% revenue growth in 1Q FY26/27, led by international operations revenue increased 34% YoY to Rs. 3.04 b",
-    "url_metadata": "https://www.ft.lk/business/JAT-Holdings-records-34-revenue-growth-in-1Q-FY26-27-led-by-international-operations-revenue-increased-34-YoY-to-Rs-3-04-b/34-796229",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1787096847.0
+    "description": "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dad\u0dca\u0dc0\u0dba \u0d85\u0d9c\u0dba\u0db1 SLIM SMEDA 2026 \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dad\u0dca\u0dc0\u0dba-\u0d85\u0d9c\u0dba\u0db1-SLIM-SMEDA-2026-\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca/7-423818",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787100899.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-19 | `adalk-dd95ee05` | ව්‍යවසායක විශිෂ්ටත්වය අගයන SLIM SMEDA 2026 නැවතත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-adalk-dd95ee05)
 - 2026-08-19 | `dailyftlk-6c624615` | JAT Holdings records 34% revenue growth in 1Q FY26/27, led by international operations revenue increased 34% YoY to Rs. 3.04 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-dailyftlk-6c624615)
 - 2026-08-19 | `dailyftlk-75842633` | Cabinet clears new anti-terror Bill to replace PTA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-dailyftlk-75842633)
 - 2026-08-19 | `dailyftlk-2d516b92` | Shoora Council urges PM to probe obstruction of newly appointed public officers assuming duties at Kalmunai Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-dailyftlk-2d516b92)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-19 | `tamilmirrorlk-367456eb` | ரணில் – ராஜபக்ச ஆட்சியில் விடுவிக்கப்பட்டவரே ஷிரான் ராசிக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-tamilmirrorlk-367456eb)
 - 2026-08-19 | `tamilmirrorlk-03d8d06b` | ’22 ஆம் திருத்தம் கறுப்புப் பேயல்ல’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-tamilmirrorlk-03d8d06b)
 - 2026-08-19 | `tamilmirrorlk-8c18d20c` | புலிகளை திருப்திப்படுத்தவே 22 ஆவது திருத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-tamilmirrorlk-8c18d20c)
-- 2026-08-19 | `tamilmirrorlk-7449c0bf` | ’செம்மணி படுகொலைக்கு சர்வதேச நீதி விசாரணை அவசியம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-19-tamilmirrorlk-7449c0bf)
 
 ---
 
