@@ -1,0 +1,33 @@
+Rails are built: So why are we still queuing?
+
+On paper, Sri Lanka has the makings of a fast, modern, cash-light economy. And yet cash remains king. Small merchants still prefer notes changing hands over a QR code. Salaries get withdrawn in full the day they land. Bank queues persist not because there’s no alternative but because the alternative hasn’t become second nature. This is not an infrastructure problem. It is an adoption issue and since trust cannot be legislated into being, adoption issues are more difficult to resolve
+
+Many account holders have never been shown how CEFTS or LankaPay actually works, what it costs or how quickly it settles. The rails exist but nobody has handed most people the map. This isn’t  a small inefficiency. Operating in a cash-heavy economy is more costly for businesses balancing tills, banks moving actual currency and governments trying to legitimise economic activity and broaden the tax base. It also quietly excludes people who could benefit most from digital finance: those in rural areas without easy access to a branch, for whom a phone-based transfer would be a genuine improvement, not just a convenience
+
+It is a Friday afternoon at a bank branch somewhere in Colombo and the queue snakes past the pillars and out toward the door. A man near the front counts out cash for a payment he could have sent from his phone in under ten seconds. He doesn’t  do things that way, not because the technology isn't available but rather because he didn't realise it was.
+
+That’s the part most people get wrong about Sri Lanka’s relationship with digital payments. We believe that infrastructure is the issue, meaning that the pipes haven’t been constructed yet. They have. LankaPay has run the country’s common ATM switch and payment infrastructure for years. CEFTS, the Common Electronic Fund Transfer Switch, allows real-time, round-the-clock transfers between banks. SLIPS and RTGS cover same-day and large-value settlement. It has been in place for years, silently operating in the background each time a transfer clears instantly; none of this is novel or experimental. On paper, Sri Lanka has the makings of a fast, modern, cash-light economy.
+
+And yet cash remains king. Small merchants still prefer notes changing hands over a QR code. Salaries get withdrawn in full the day they land. Bank queues persist not because there’s  no alternative but because the alternative hasn’t become second nature.
+
+This is not an infrastructure problem. It is an adoption issue and since trust cannot be legislated into being, adoption issues are more difficult to resolve.
+
+Part of it is simple unfamiliarity. For many consumers, especially those who live outside of major cities and are older, cash is more palpable and understandable than bank transfers. When something goes wrong with cash, you can see the problem immediately. When a digital transfer doesn’t go through, the uncertainty is unnerving: who do you call, how long do you wait, what if the money simply disappears into some invisible queue with no one to explain it?
+
+Part of it is incentive or the lack of it, on the merchant side. A small shop owner weighing the cost of a POS terminal, transaction fees and settlement delays against the simplicity of a cash drawer will often choose the cash drawer. Nothing about digital payments currently tips that calculation clearly in their favour.
+
+And part of it is simply awareness. Many account holders have never been shown how CEFTS or LankaPay actually works, what it costs or how quickly it settles. The rails exist but nobody has handed most people the map.
+
+This isn’t a small inefficiency. Operating in a cash-heavy economy is more costly for businesses balancing tills, banks moving actual currency and governments trying to legitimise economic activity and broaden the tax base. It also quietly excludes people who could benefit most from digital finance: those in rural areas without easy access to a branch, for whom a phone-based transfer would be a genuine improvement, not just a convenience.
+
+Fixing this doesn’t require new infrastructure. It requires making the existing infrastructure feel safe, cheap and obvious to use.
+
+First, merchant-side incentives, which are comparable to programs used worldwide to encourage adoption, include lowered or eliminated transaction fees for small firms during the first year of implementing digital payments.
+
+Second, there should be visible, local-language public awareness efforts that go beyond just stating that “digital payments exist” to demonstrate, step-by-step, how a typical transfer operates and what happens if something goes wrong. This is because fear of the unknown is more likely to hold people in line than any technological issue.
+
+Third, banks themselves must streamline the onboarding process; there should be fewer steps, clearer confirmation and visible customer help integrated into the procedure rather than being hidden in a call centre queue.
+
+None of this is exotic. It is the unglamourous, patient work of building trust in a system that is, technically, already ready.
+
+Picture that same Friday afternoon branch, five years on. The reason the line is shorter is not because the branch has shrunk but rather because the majority of tasks that used to necessitate standing in line are now completed silently over the phone in the time it takes to read this sentence. Sri Lanka doesn’t need to build the rails for that future. It already has. What it needs now is to convince people to get on board.

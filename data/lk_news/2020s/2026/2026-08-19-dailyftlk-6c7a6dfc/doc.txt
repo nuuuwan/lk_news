@@ -1,0 +1,47 @@
+When gatekeepers become facilitators in fraud
+
+Sri Lanka has faced, and continues to face, sophisticated financial threats that exploit both the formal and informal systems. The present case is a reminder that when the guardians of the banking system become facilitators, the damage extends far beyond individual transactions. Closing the loopholes, strengthening independent compliance, matching financial and trade data, and maintaining consistent accountability are no longer optional. They are essential to protecting the national economy and the security of the country
+
+The $1 b phantom trade and Sri Lanka’s unfinished battle against trade-based money laundering
+
+The arrest of four managers from leading private commercial banks by the Financial Crimes Investigation Division marks a significant moment in Sri Lanka’s struggle against large-scale financial crime. For the first time, bank officers themselves have been taken into custody in connection with an alleged racket that channelled approximately $1 billion out of the country through purported import transactions where no goods ever arrived. The principal operator, a money changer operating from Colombo Fort, is reported to have made regular weekly payments to the managers, amounts ranging from Rs. 30,000 to Rs. 100,000, with one instance of a payment close to Rs. 1 million. The suspects have been remanded. Investigations continue.
+
+This is not merely another fraud case. It is a clear demonstration of how the formal banking system can be co-opted to facilitate capital flight on a scale that directly threatens both the national economy and broader security interests. The method employed, payments justified by trade documentation for goods that never moved,  is a classic example of the phantom shipment typology within trade-based money laundering. In such schemes, invoices, bills of lading and related papers are used to create the appearance of legitimate commerce while the underlying physical trade is absent. The money leaves; the goods do not arrive.
+
+What makes the case particularly serious is the alleged role of the bank managers. Banking systems are designed with multiple layers of control precisely to prevent this outcome.
+
+Customer Due Diligence, Know Your Customer procedures, and trade-finance scrutiny exist to surface red flags: unsupported advance payments, documentary inconsistencies, pricing anomalies, third-party involvement, and the repeated absence of corresponding customs clearances. When those indicators are deliberately ignored or overridden in return for inducements, the gatekeepers cease to protect the system and become participants in its abuse. The red flag is turned into a green light.
+
+Sri Lanka is not unique in facing this threat. Trade-based money laundering is recognised globally by the Financial Action Task Force as one of the most significant and under-detected methods of moving illicit value. Over-invoicing, under-invoicing, multiple invoicing, and phantom shipments have long been used by criminal networks because the volume and complexity of international trade provide excellent cover. What is distinctive in the present case is the volume involved and the fact that the facilitators inside the banks have been identified and arrested. That is progress. It must not be the end of the matter.
+
+Detection after the event, however necessary, is not enough. Many parallel channels continue to operate with far less visibility. Informal value-transfer systems such as Undiyal and Hawala still move substantial sums outside formal oversight. Under-invoicing of exports and over-invoicing of imports remain common techniques for transferring value across borders under the cover of trade. Fabricated or manipulated letters of credit and supporting documents continue to be used. Advance import payment regimes, if not rigorously monitored after the funds have left, create windows that can be exploited at scale. These methods do not only drain foreign exchange; they can also finance networks whose activities carry wider security implications. Experience from earlier investigations into terrorist financing through informal transfer systems demonstrated precisely this dual character: economic leakage and potential security risk often travel together.
+
+The current cooperation between the Central Bank’s Financial Intelligence Unit and the financial crime and cyber units of the police is therefore welcome and necessary. Regular detections signal that the system is capable of identifying and acting against serious offenders. Yet the more strategic task is to reduce the opportunities that make such schemes viable in the first place. Prevention must move to the centre of the response.
+
+First, systematic matching between bank outward remittance data, particularly advance import payments, and Sri Lanka Customs arrival and clearance records must become routine and near real-time. Where substantial payments are made and no corresponding goods appear within defined time frames, automated escalation should follow as a matter of course.
+
+Second, trade-finance controls inside banks require strengthening, especially for open-account and advance-payment transactions that carry higher risk than traditional documentary letters of credit.
+
+Documentary review must be substantive rather than procedural. Independent compliance functions need both the authority and the capacity to challenge relationship managers when red flags appear, and internal audit must test whether those challenges actually occur.
+
+Third, price and quantity analytics against international benchmarks for commonly traded commodities should be embedded in monitoring systems so that material deviations trigger review rather than automatic clearance.
+
+Fourth, the human element must be addressed directly. When bank officers receive payments to ignore controls, the consequences must be both criminal and professional. Consistent accountability is the only reliable deterrent.
+
+The informal sector also requires sustained attention. Undiyal and similar systems thrive on trust and speed. Disrupting them demands a combination of financial intelligence, human intelligence, and the identification of the formal banking touch-points that many operators still use for settlement. Purely reactive approaches will always lag behind adaptive networks.
+
+These issues are not abstract. Large undocumented outflows reduce the foreign exchange available for legitimate imports, add pressure to the exchange rate, and undermine confidence in the formal financial system. They also create parallel channels that national security agencies cannot afford to ignore. The health of the external sector and the integrity of the financial system are inseparable from the broader security of the state.
+
+The arrests of the four managers send an important signal. They demonstrate that facilitators inside formal institutions can be identified and held to account. Whether that signal changes behaviour across the banking sector will depend on consistency of enforcement and the seriousness with which preventive reforms are pursued.
+
+Institutionalising the present inter-agency cooperation, through joint analytical capacity, shared data protocols, and regular joint risk assessments, will make the current collaboration more durable than any individual set of relationships.
+
+Sri Lanka has faced, and continues to face, sophisticated financial threats that exploit both the formal and informal systems. The present case is a reminder that when the guardians of the banking system become facilitators, the damage extends far beyond individual transactions. Closing the loopholes, strengthening independent compliance, matching financial and trade data, and maintaining consistent accountability are no longer optional. They are essential to protecting the national economy and the security of the country.
+
+“flags exist to warn; green flags exist to reassure. National interest demands that the distinction is never deliberately blurred.”
+
+The detections are encouraging. The harder and more necessary work of prevention remains.
+
+(This analysis is offered in the interest of national security, institutional reform, and public safety)
+
+(The author is a Senior Superintendent of Police (Retd.), former Head of (Counter Terrorism), State Intelligence Service,  Former Director, Police Special Branch and former First Secretary (defense) Sri Lanka Embassy - Thailand and former investigation consultant of the Sri Lanka Police Financial Investigation Division)

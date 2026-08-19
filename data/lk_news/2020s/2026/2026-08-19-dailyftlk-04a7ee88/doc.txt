@@ -1,0 +1,67 @@
+Beyond tax collection: Can Sri Lanka use tax policy to build a solar-powered economy?
+
+Sri Lanka needs strong and sustainable Government revenue. But tax revenue cannot be separated from the economic environment in which it is generated. High energy costs can reduce business profitability, while dependence on imported fuel places pressure on foreign exchange. Encouraging domestic renewable-energy investment can therefore strengthen the broader economic foundation from which future Government revenue is generated
+
+A Chartered Accountant’s perspective on tax incentives, foreign-exchange conservation and energy security
+
+Sri Lanka’s economic crisis has taught us an important lesson: foreign exchange is not merely a monetary statistic; it is a national economic resource. When scarce foreign currency is spent on imported commodities that could partly be replaced by domestic resources, policymakers should consider whether a better long-term alternative exists. Energy is one of the clearest examples. Sri Lanka cannot control international oil prices, geopolitical tensions or global shipping costs. But it can influence the amount of imported fuel it needs. That is where solar energy—and tax policy—enter the economic debate.
+
+Sri Lanka possesses a natural resource that does not have to be purchased with US dollars: sunlight. For a household, solar is an investment decision. For a business, it can be a cost management decision. At the national level, however, it is an investment in reducing structural dependence on imported energy. If thousands of households, SMEs and businesses invest in solar, the impact goes beyond individual decisions. It becomes an energy, industrial and ultimately fiscal policy opportunity.
+
+Sri Lanka’s current income-tax framework provides a solar-panel relief of up to Rs.600,000 per year of assessment for qualifying resident individuals, subject to applicable statutory conditions and limits. This relief was introduced with effect from 1 April 2021 and has continued under the tax framework. The Rs.1.8 million personal relief is a later change, applicable from the 2025/26 year of assessment. This is an important policy signal: the tax system can influence household investment towards renewable energy. But should Sri Lanka stop there? I believe it should not.
+
+The cost of moving towards a renewable-energy economy cannot be borne by individuals alone. Businesses, SMEs, factories, hotels, agricultural enterprises and institutions must also invest. Banks must finance those investments, while the electricity network must be capable of absorbing increasing distributed generation. Sri Lanka therefore needs to move from an individual solar deduction towards a National Solar Tax Strategy, connecting four core pillars:
+
+The Government’s objective should not simply be to install more solar panels. It should be to maximise the economic value created by solar investment. Policy should therefore consider how much imported fuel can be displaced, foreign exchange conserved, private investment mobilised, business energy costs reduced and employment created, while also assessing the implications for the electricity grid and future tax revenue.
+
+A good tax incentive should therefore not merely reduce the cost of an investment. It should encourage investment that contributes to energy security, productivity, export competitiveness, foreign-exchange conservation and broader economic growth. Incentives should have clear eligibility criteria, measurable objectives and transparent conditions.
+
+Sri Lanka should consider a package of complementary measures rather than relying on a single deduction.
+
+First, the existing Rs.600,000 individual relief should be periodically reviewed. Solar system prices, inflation, installation costs, battery-storage costs, household electricity costs and national renewable-energy targets should be considered to ensure that the relief remains economically meaningful.
+
+Second, a Business Solar Investment Allowance could be introduced for qualifying expenditure on solar panels, inverters, battery-storage systems and related renewable-energy infrastructure. Such an allowance could operate alongside normal capital allowances and reduce the effective after-tax cost of investment. It should primarily apply to new qualifying investments meeting prescribed technical and regulatory standards and be periodically reviewed based on measurable economic impact.
+
+Third, enhanced allowances could be considered for strategic investments in manufacturing, exports, SMEs, agriculture, tourism and energy-intensive industries where renewable-energy investment can generate significant productivity, competitiveness, employment and foreign-exchange benefits. Such incentives should be targeted, transparent, time-bound and measurable, rather than open-ended concessions.
+
+Income Tax is only one part of the investment equation. VAT, SSCL, Customs and other import-related costs also affect the upfront cost of solar equipment. The policy question should therefore not simply be “How much revenue does this equipment generate at the border?” It should also be “What is the economic cost of continuing to depend on imported fuel because renewable investment remains relatively expensive?” A carefully designed VAT, SSCL and Customs framework for qualifying renewable-energy equipment could form part of a broader solar strategy, while maintaining safeguards against misclassification and revenue leakage.
+
+Tax relief cannot solve the financing problem. A household may qualify for a deduction but still lack the funds for the initial investment. SMEs may recognise the long-term benefit but face cash-flow constraints. Banks and licensed financial institutions should therefore develop dedicated Solar and Green Finance products with competitive interest rates, longer repayment periods, simpler documentation and appropriate credit assessment. A solar investment should not always be treated like an ordinary consumer loan. The investment itself can generate measurable energy savings and strengthen future cash flow. The combination is important:
+
+Together, these can turn renewable-energy investment from a long-term aspiration into a commercially viable decision.
+
+The effectiveness of tax policy depends heavily on administration. The Inland Revenue Department should provide clear guidance on qualifying solar expenditure, eligibility, documentation and the treatment of battery storage, inverters and related equipment. Digital claims, standardised procedures, consistent interpretation and clear processing timelines would reduce uncertainty and compliance costs. For a taxpayer considering a multi-million-rupee solar investment, knowing how the tax rules will apply before making the investment is itself an incentive.
+
+SMEs face tighter cash flows and significant operating-cost pressures. Solar investment could help reduce recurring energy expenditure, improve cash flow and strengthen competitiveness. A dedicated SME Solar Investment Programme could combine tax incentives, simplified compliance, concessional green finance, technical assistance and streamlined approvals. This would transform renewable-energy policy from merely an environmental initiative into an
+
+The benefits of solar extend beyond electricity generation. Growth in the sector can create opportunities for engineers, technicians, installers, maintenance providers, software developers, energy auditors, financial advisers and other professional services. Over time, opportunities could also emerge in local assembly, battery storage, energy management, monitoring technologies and related digital services. Sri Lanka should therefore aim not simply to import and install solar equipment, but gradually to develop a broader renewable energy ecosystem.
+
+Solar expansion cannot be separated from the electricity network. Greater rooftop generation will require appropriate investment in transmission, distribution, smart metering, forecasting, storage and system balancing. The CEB and relevant institutions should ensure that grid planning keeps pace with solar investment. Otherwise, incentives could encourage investment faster than the network can efficiently absorb it. A successful national solar programme must therefore be both tax-smart and grid-smart.
+
+Sri Lanka has already taken an important step through the existing Rs.600,000 solar-panel relief for qualifying resident individuals. The next step is to build on this foundation through a coherent National Solar Tax Policy, supported by finance, efficient tax administration, adequate grid infrastructure and measurable evaluation
+
+A key policy question is how the Government should measure the success of a tax incentive. I propose a framework that could be called “Return on Tax Incentives – ROTI.” ROTI should measure not merely the tax revenue foregone, but the economic value generated by the incentive. For solar investment, this could include:
+
+foreign exchange conserved + fossil-fuel imports displaced + private investment mobilised + employment created + additional economic activity + future tax revenue.
+
+This would allow the Government to strengthen incentives that produce measurable national benefits and review or discontinue those that do not. It would also introduce greater fiscal accountability and transparency into tax policy.
+
+Tax incentives can also create risks if eligibility and administration are weak. Artificial transactions, inflated invoices, equipment misclassification, import-related abuse and inappropriate claims can result in revenue leakage. Therefore, solar tax incentives should be targeted, transparent, measurable, time-bound and subject to periodic review. From a Chartered Accountant’s perspective, good tax policy is not about providing the maximum tax relief. It is about achieving the maximum sustainable economic outcome from every rupee of tax expenditure.
+
+Sri Lanka should consider moving beyond individual concessions towards a National Solar Tax Policy Framework integrating:
+
+Income Tax + VAT + Customs + Green Finance + SME Policy + Grid Investment + Energy Policy + Investment Promotion + Tax Administration.
+
+This requires coordination among the Ministry of Finance, IRD, Ministry of Energy, CEB, Sri Lanka Customs, Central Bank, Sri Lanka Sustainable Energy Authority, financial institutions and the private sector. The objective should be simple: Make solar investment economically attractive while ensuring measurable national value in return. Major incentives should be periodically assessed using a ROTI-based framework.
+
+A taxpayer who invests in a productive solar system should not be viewed simply as someone seeking a tax deduction. That investment contributes to renewable electricity generation, lower energy costs, foreign-exchange conservation, energy resilience and reduced dependence on imported fuel. The taxpayer is therefore not merely a recipient of a tax benefit, but a private investor contributing to national economic priorities. The relevant policy question is not simply: “How much tax revenue is being foregone?” It should also be: “What measurable
+
+Sri Lanka needs strong and sustainable Government revenue. But tax revenue cannot be separated from the economic environment in which it is generated. High energy costs can reduce business profitability, while dependence on imported fuel places pressure on foreign exchange. Encouraging domestic renewable-energy investment can therefore strengthen the broader economic foundation from which future Government revenue is generated.
+
+Sri Lanka has already taken an important step through the existing Rs.600,000 solar-panel relief for qualifying resident individuals. The next step is to build on this foundation through a coherent National Solar Tax Policy, supported by finance, efficient tax administration, adequate grid infrastructure and measurable evaluation.
+
+As a practising Chartered Accountant, I believe Sri Lanka should not ask only how much tax it can collect from today’s economy. It should also ask how tax policy can help build the stronger, more competitive and energy-secure economy from which tomorrow’s tax revenue will come.
+
+The sun is available. The technology is available. Private capital can be mobilised. What is required is policy alignment.
+
+If designed strategically, tax policy can become a powerful instrument not merely for collecting revenue, but for creating economic value, conserving foreign exchange, strengthening energy security and building Sri Lanka’s future fiscal resilience.
