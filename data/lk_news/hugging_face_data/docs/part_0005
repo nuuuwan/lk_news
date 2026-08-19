@@ -21279,6 +21279,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-19-adalk-c66adbcc",
+    "num": "adalk-c66adbcc",
+    "date_str": "2026-08-19",
+    "description": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0da7 \u0db6\u0daf\u0dd4 \u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8 \u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0dbd\u0dca \u0daf\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0da7-\u0db6\u0daf\u0dd4-\u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8-\u0daf\u0dd2\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0dd2\u0db1\u0dca-\u0d9a\u0dbd\u0dca-\u0daf\u0db8\u0dba\u0dd2/11-423834",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787135732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-19-tamilmirrorlk-e03b88d2",
     "num": "tamilmirrorlk-e03b88d2",
     "date_str": "2026-08-19",
@@ -21345,6 +21356,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-19-tamilmirrorlk-6e42c859",
+    "num": "tamilmirrorlk-6e42c859",
+    "date_str": "2026-08-19",
+    "description": "\u0b95\u0bc7\u0bb2\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0b9f\u0bbf \u0ba4\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc7\u0bb2\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd-\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf-\u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0b9f\u0bbf-\u0ba4\u0bbe\u0ba9\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd/50-381644",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787137981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-19-adalk-35e3bf89",
+    "num": "adalk-35e3bf89",
+    "date_str": "2026-08-19",
+    "description": "\u0daf\u0dd9\u0dc4\u0dd2\u0dc0\u0dbd \u0dc0\u0dba\u0dc3\u0dca\u0d9c\u0dad\u0db8 \u0d9c\u0dd0\u0dc4\u0dd0\u0dab\u0dd4 \u0da2\u0dd2\u0dbb\u0dcf\u0dc6\u0dca \u0dc3\u0dad\u0dca\u0dc0\u0dba\u0dcf \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc4\u0dd2\u0dc0\u0dbd-\u0dc0\u0dba\u0dc3\u0dca\u0d9c\u0dad\u0db8-\u0d9c\u0dd0\u0dc4\u0dd0\u0dab\u0dd4-\u0da2\u0dd2\u0dbb\u0dcf\u0dc6\u0dca-\u0dc3\u0dad\u0dca\u0dc0\u0dba\u0dcf-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/11-423835",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787137993.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-19-tamilmirrorlk-0ac6e111",
     "num": "tamilmirrorlk-0ac6e111",
     "date_str": "2026-08-19",
@@ -21375,5 +21408,38 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787141279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-19-dailymirrorlk-67abdee0",
+    "num": "dailymirrorlk-67abdee0",
+    "date_str": "2026-08-19",
+    "description": "CSE extends decline as ASPI slips below 21,450 despite foreign buying",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-decline-as-ASPI-slips-below-21-450-despite-foreign-buying/108-348461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787143361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-19-tamilmirrorlk-34fbf9ad",
+    "num": "tamilmirrorlk-34fbf9ad",
+    "date_str": "2026-08-19",
+    "description": "\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8: \u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0ba8\u0bbe\u0bb2\u0bc1 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8-\u0baa\u0bc6\u0ba3\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-\u0ba8\u0bbe\u0bb2\u0bc1-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381660",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787143846.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-19-dailymirrorlk-7b770366",
+    "num": "dailymirrorlk-7b770366",
+    "date_str": "2026-08-19",
+    "description": "BASL president addresses high court of Bhutan during historic visit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-president-addresses-high-court-of-Bhutan-during-historic-visit/108-348462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787145153.0
   }
 ]
