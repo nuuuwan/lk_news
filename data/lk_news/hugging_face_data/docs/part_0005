@@ -20421,6 +20421,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-19-adalk-c0cee2c8",
+    "num": "adalk-c0cee2c8",
+    "date_str": "2026-08-19",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0dc4 \u0dbd\u0dd2\u0dad\u0dd4\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0d85\u0dad\u0dbb \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0dc0\u0dc3\u0dbb 30\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dc3\u0dc4-\u0dbd\u0dd2\u0dad\u0dd4\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0-\u0d85\u0dad\u0dbb-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a-\u0dc3\u0db6\u0db3\u0dad\u0dcf-\u0dc0\u0dc3\u0dbb-30\u0dba\u0dd2/7-423819",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787101078.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-19-adalk-aaab9187",
     "num": "adalk-aaab9187",
     "date_str": "2026-08-19",
@@ -21224,6 +21235,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-19-adalk-530045d2",
+    "num": "adalk-530045d2",
+    "date_str": "2026-08-19",
+    "description": "\u0db6\u0da2\u0da7\u0dca \u0dc0\u0dd2\u0dba\u0da7\u0dca \u0da2\u0dd9\u0da7\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0da2\u0da7\u0dca-\u0dc0\u0dd2\u0dba\u0da7\u0dca-\u0da2\u0dd9\u0da7\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/11-423830",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787132280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-19-tamilmirrorlk-0a15579c",
     "num": "tamilmirrorlk-0a15579c",
     "date_str": "2026-08-19",
@@ -21620,6 +21642,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-33f541f1",
+    "num": "adalk-33f541f1",
+    "date_str": "2026-08-20",
+    "description": "Orion City \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8 \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dab\u0dba Orion Tower II \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/Orion-City-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dad\u0db8-\u0dc0\u0dcf\u0dab\u0dd2\u0da2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dab\u0dba-Orion-Tower-II-\u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2/7-423837",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787186068.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-adalk-1cb955a3",
     "num": "adalk-1cb955a3",
     "date_str": "2026-08-20",
@@ -21650,6 +21683,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1787189207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-8c5ab1ec",
+    "num": "adalk-8c5ab1ec",
+    "date_str": "2026-08-20",
+    "description": "\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0dc4\u0dcf \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0dc4\u0dcf-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423840",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787189241.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-b8bad9c2",
+    "num": "adalk-b8bad9c2",
+    "date_str": "2026-08-20",
+    "description": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dc0\u0dcf\u0dc4\u0db1 \u0daf\u0da9 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0dc0\u0dcf\u0dc4\u0db1-\u0daf\u0da9-\u0d9c\u0dd9\u0dc0\u0dd3\u0db8-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dc4\u0dbb\u0dc4\u0dcf-\u0db4\u0db8\u0dab\u0dba\u0dd2/11-423841",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787189500.0
   },
   {
     "doc_type": "lk_news",
@@ -21884,6 +21939,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-4439bf9c",
+    "num": "adalk-4439bf9c",
+    "date_str": "2026-08-20",
+    "description": "\u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd \u0dc3\u0dd2\u0da7 \u0db8\u0dcf\u0dad\u0dbb \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dbb\u0dc5 \u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd-\u0dc3\u0dd2\u0da7-\u0db8\u0dcf\u0dad\u0dbb-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dbb\u0dc5-\u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dba-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/11-423842",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787194614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-ef7a9214",
+    "num": "dailymirrorlk-ef7a9214",
+    "date_str": "2026-08-20",
+    "description": "Trump threatens \u2019tremendous economic consequences\u2019 on any country helping Iran",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-threatens-tremendous-economic-consequences-on-any-country-helping-Iran/107-348465",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787199534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-23e75dbe",
+    "num": "tamilmirrorlk-23e75dbe",
+    "date_str": "2026-08-20",
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bc6\u0ba3\u0bcd \u0b85\u0bb0\u0b9a \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc8-\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bc6\u0ba3\u0bcd-\u0b85\u0bb0\u0b9a-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-381675",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787199718.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-tamilmirrorlk-f00bc432",
     "num": "tamilmirrorlk-f00bc432",
     "date_str": "2026-08-20",
@@ -21892,6 +21980,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787199718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-092079f7",
+    "num": "dailymirrorlk-092079f7",
+    "date_str": "2026-08-20",
+    "description": "Public Health Inspectors withdraw from dengue control duties island-wide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Health-Inspectors-withdraw-from-dengue-control-duties-island-wide/108-348467",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787199806.0
   },
   {
     "doc_type": "lk_news",
@@ -21914,5 +22013,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787199946.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-13976178",
+    "num": "dailymirrorlk-13976178",
+    "date_str": "2026-08-20",
+    "description": "Sri Lanka\u2019s capital market pitches investment case in Australia",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankas-capital-market-pitches-investment-case-in-Australia/273-348473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787200130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-83f42f34",
+    "num": "tamilmirrorlk-83f42f34",
+    "date_str": "2026-08-20",
+    "description": "\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc8-\u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9e\u0bcd\u0b9a\u0bbe-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-381678",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787201145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-5b14dafc",
+    "num": "tamilmirrorlk-5b14dafc",
+    "date_str": "2026-08-20",
+    "description": "\u0ba4\u0bc6\u0bb2\u0bcd\u0b95\u0bca\u0b9f \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb2\u0bcd\u0b95\u0bca\u0b9f-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-381679",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787201731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-a3b0b9be",
+    "num": "dailymirrorlk-a3b0b9be",
+    "date_str": "2026-08-20",
+    "description": "President arrives at Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-arrives-at-Parliament/108-348485",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787202824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-704f7ae4",
+    "num": "dailymirrorlk-704f7ae4",
+    "date_str": "2026-08-20",
+    "description": "Court orders restraint on Kaduwela company over Hummer EV dispute",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-restraint-on-Kaduwela-company-over-Hummer-EV-dispute/108-348488",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787203819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-587603cf",
+    "num": "tamilmirrorlk-587603cf",
+    "date_str": "2026-08-20",
+    "description": "\u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0b95 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0b95-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bcd/175-381682",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787205661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-b214abec",
+    "num": "dailymirrorlk-b214abec",
+    "date_str": "2026-08-20",
+    "description": "SL to spend USD 1,878 million for electrification of railway service: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SL-to-spend-USD-1-878-million-for-electrification-of-railway-service-Deputy-Minister/108-348490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787205815.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-19e4d1b7",
+    "num": "dailymirrorlk-19e4d1b7",
+    "date_str": "2026-08-20",
+    "description": "Strong winds, rough seas expected in several coastal areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-rough-seas-expected-in-several-coastal-areas/108-348491",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787205928.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-e556b752",
+    "num": "tamilmirrorlk-e556b752",
+    "date_str": "2026-08-20",
+    "description": "\u0baf\u0bcb\u0bb7\u0bbf\u0ba4, \u0b95\u0bb0\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bca\u0b9f\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bcb\u0bb7\u0bbf\u0ba4-\u0b95\u0bb0\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bca\u0b9f\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-381683",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787205984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-0a772246",
+    "num": "dailymirrorlk-0a772246",
+    "date_str": "2026-08-20",
+    "description": "Excise officers raid Colombo Port City, including luxury party boat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Excise-officers-raid-Colombo-Port-City-including-luxury-party-boat/108-348493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787206460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-6368be62",
+    "num": "dailymirrorlk-6368be62",
+    "date_str": "2026-08-20",
+    "description": "Sri Lanka\u2019s 2028 debt repayments not cause for alarm: Economist",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-2028-debt-repayments-not-cause-for-alarm-Economist/108-348497",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787206763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-862a46b1",
+    "num": "dailymirrorlk-862a46b1",
+    "date_str": "2026-08-20",
+    "description": "\u2019Govt. has drawn up plans for debt repayments up to 2030\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-has-drawn-up-plans-for-debt-repayments-up-to-2030/108-348499",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787207067.0
   }
 ]
