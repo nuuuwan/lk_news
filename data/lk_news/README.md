@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--20_21:59:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_00:38:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,038** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,039** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-20-tamilmirrorlk-84fd9618",
-    "num": "tamilmirrorlk-84fd9618",
+    "doc_id": "2026-08-20-dailymirrorlk-d9e4e2c5",
+    "num": "dailymirrorlk-d9e4e2c5",
     "date_str": "2026-08-20",
-    "description": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1-\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe/46-381744",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787242993.0
+    "description": "Three-day national mourning declared for late Nanda Malani",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-day-national-mourning-declared-for-late-Nanda-Malani/108-348534",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787247651.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-20 | `dailymirrorlk-d9e4e2c5` | Three-day national mourning declared for late Nanda Malani | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-d9e4e2c5)
 - 2026-08-20 | `tamilmirrorlk-84fd9618` | மூன்றாவது கும்பல் பெரஹரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-84fd9618)
 - 2026-08-20 | `tamilmirrorlk-92e065cb` | அதிப​ரை கொன்று கோவாவுக்கு சுற்றுலா சென்ற மாணவர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-92e065cb)
 - 2026-08-20 | `dailymirrorlk-a2e1561f` | Final rites of late Nanda Malani to be held on Saturday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-a2e1561f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-20 | `tamilmirrorlk-d44fcd98` | சிறுவர்கள் மீதான வன்முறை:   26 வயது நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-d44fcd98)
 - 2026-08-20 | `dailymirrorlk-e8549205` | Joint emergency response mechanism established at Matara prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-e8549205)
 - 2026-08-20 | `dailymirrorlk-c8d8cbc0` | ASPI holds 21,400 despite third straight day of market weakness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-c8d8cbc0)
-- 2026-08-20 | `adalk-7690d4c5` | ඩෙංගු මරණ 71යි, රෝගීන් 93 115 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-adalk-7690d4c5)
 
 ---
 
