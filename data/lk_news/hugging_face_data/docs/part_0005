@@ -22753,6 +22753,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-9ed1c850",
+    "num": "adalk-9ed1c850",
+    "date_str": "2026-08-20",
+    "description": "\u0dc4\u0ddd\u0db8\u0dd6\u0dc3\u0dca \u0dc0\u0dd0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dcf\u0dc3\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0dc0\u0db1 \u0dc4\u0dd0\u0da7\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0dc4\u0ddd\u0db8\u0dd6\u0dc3\u0dca-\u0dc0\u0dd0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc0\u0dcf\u0dc3\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0dc0\u0db1-\u0dc4\u0dd0\u0da7\u0dd2/10-423850",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787226579.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-cb09f6dc",
     "num": "dailymirrorlk-cb09f6dc",
     "date_str": "2026-08-20",
@@ -22775,6 +22786,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-ce4144ca",
+    "num": "adalk-ce4144ca",
+    "date_str": "2026-08-20",
+    "description": "\u0db0\u0dd3\u0dc0\u0dbb \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db0\u0dd3\u0dc0\u0dbb-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2/11-423851",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787226929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-890ddcf4",
+    "num": "adalk-890ddcf4",
+    "date_str": "2026-08-20",
+    "description": "\u0d91\u0dbd\u0dca \u0db1\u0dd2\u0db1\u0ddd\u0dc0\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dbb\u0da2\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dbd\u0dca-\u0db1\u0dd2\u0db1\u0ddd\u0dc0\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0dab-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dbb\u0da2\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/11-423852",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787227277.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-9afa3768",
     "num": "dailymirrorlk-9afa3768",
     "date_str": "2026-08-20",
@@ -22786,6 +22819,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-c8d8cbc0",
+    "num": "dailymirrorlk-c8d8cbc0",
+    "date_str": "2026-08-20",
+    "description": "ASPI holds 21,400 despite third straight day of market weakness",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ASPI-holds-21-400-despite-third-straight-day-of-market-weakness/108-348525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787228518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-e8549205",
+    "num": "dailymirrorlk-e8549205",
+    "date_str": "2026-08-20",
+    "description": "Joint emergency response mechanism established at Matara prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-emergency-response-mechanism-established-at-Matara-prison/108-348526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787228605.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-tamilmirrorlk-d44fcd98",
     "num": "tamilmirrorlk-d44fcd98",
     "date_str": "2026-08-20",
@@ -22794,5 +22849,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787228619.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-061fd646",
+    "num": "tamilmirrorlk-061fd646",
+    "date_str": "2026-08-20",
+    "description": "\u2019\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-381727",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787229089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-6cbb463a",
+    "num": "dailymirrorlk-6cbb463a",
+    "date_str": "2026-08-20",
+    "description": "Chamber of Commerce Nuwara Eliya marks first anniversary",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Chamber-of-Commerce-Nuwara-Eliya-marks-first-anniversary/110-348527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787229208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-ed64ae19",
+    "num": "dailymirrorlk-ed64ae19",
+    "date_str": "2026-08-20",
+    "description": "Police officer allegedly commits suicide at temple",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-officer-allegedly-commits-suicide-at-temple/108-348528",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787231310.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-349899e9",
+    "num": "dailymirrorlk-349899e9",
+    "date_str": "2026-08-20",
+    "description": "Veteran singer Nanda Malini dies at 82",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Veteran-singer-Nanda-Malini-dies-at-82/108-348529",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787232028.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-8c2174b2",
+    "num": "adalk-8c2174b2",
+    "date_str": "2026-08-20",
+    "description": "\u0db1\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dcf\u0dbd\u0db1\u0dd3 \u0daf\u0dd2\u0dc0\u0dd2\u0dc3\u0dd0\u0dbb\u0dd2\u0dba \u0db1\u0dd2\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0db1\u0dca\u0daf\u0dcf-\u0db8\u0dcf\u0dbd\u0db1\u0dd3-\u0daf\u0dd2\u0dc0\u0dd2\u0dc3\u0dd0\u0dbb\u0dd2\u0dba-\u0db1\u0dd2\u0db8-\u0d9a\u0dbb\u0dba\u0dd2/11-423854",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787232692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-abcbf519",
+    "num": "dailymirrorlk-abcbf519",
+    "date_str": "2026-08-20",
+    "description": "Telangana Boy Stabbed Principal 27 Times. How His Lavish Lifestyle Busted Him",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Telangana-Boy-Stabbed-Principal-27-Times-How-His-Lavish-Lifestyle-Busted-Him/108-348530",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787234041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-22732c0b",
+    "num": "dailymirrorlk-22732c0b",
+    "date_str": "2026-08-20",
+    "description": "Catholic Bishops\u2019 Conference expresses concern over 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Catholic-Bishops-Conference-expresses-concern-over-22A/108-348531",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787235847.0
   }
 ]
