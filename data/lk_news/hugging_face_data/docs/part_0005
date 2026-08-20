@@ -22819,6 +22819,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-7690d4c5",
+    "num": "adalk-7690d4c5",
+    "date_str": "2026-08-20",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dab 71\u0dba\u0dd2, \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 93 115",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dab-71\u0dba\u0dd2--\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-93-115/11-423853",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787227646.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-c8d8cbc0",
     "num": "dailymirrorlk-c8d8cbc0",
     "date_str": "2026-08-20",
@@ -22926,5 +22937,104 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787235847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-febbb399",
+    "num": "tamilmirrorlk-febbb399",
+    "date_str": "2026-08-20",
+    "description": "\u0ba8\u0ba8\u0bcd\u0ba4\u0bbe \u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0ba8\u0bcd\u0ba4\u0bbe-\u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-381738",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787235903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-6d2a1fab",
+    "num": "tamilmirrorlk-6d2a1fab",
+    "date_str": "2026-08-20",
+    "description": "\u0b9e\u0bbe\u0ba9\u0b9a\u0bbe\u0bb0 \u0ba4\u0bc7\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf  \u0b89\u0baf\u0bbf\u0bb0\u0bc8 \u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9e\u0bbe\u0ba9\u0b9a\u0bbe\u0bb0-\u0ba4\u0bc7\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf-\u0b89\u0baf\u0bbf\u0bb0\u0bc8-\u0bae\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-381739",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787236628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-1249c585",
+    "num": "dailymirrorlk-1249c585",
+    "date_str": "2026-08-20",
+    "description": "Rs. 300,000 fine for substandard helmets, expired baby milk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-300-000-fine-for-substandard-helmets-expired-baby-milk/108-348532",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787237368.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-3aee1cf0",
+    "num": "tamilmirrorlk-3aee1cf0",
+    "date_str": "2026-08-20",
+    "description": "\u0b9a\u0bb7\u0bbf \u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb7\u0bbf-\u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-381740",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787237743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-288cd4f5",
+    "num": "tamilmirrorlk-288cd4f5",
+    "date_str": "2026-08-20",
+    "description": "\u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9a\u0bcd\u0b9a\u0bbe-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381741",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787240088.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-e78e7d6a",
+    "num": "tamilmirrorlk-e78e7d6a",
+    "date_str": "2026-08-20",
+    "description": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b89\u0ba3\u0bcd\u0bae\u0bc8 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd-\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b89\u0ba3\u0bcd\u0bae\u0bc8-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-381742",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787240531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-a2e1561f",
+    "num": "dailymirrorlk-a2e1561f",
+    "date_str": "2026-08-20",
+    "description": "Final rites of late Nanda Malani to be held on Saturday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Final-rites-of-late-Nanda-Malani-to-be-held-on-Saturday/108-348533",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787240971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-92e065cb",
+    "num": "tamilmirrorlk-92e065cb",
+    "date_str": "2026-08-20",
+    "description": "\u0b85\u0ba4\u0bbf\u0baa\u200b\u0bb0\u0bc8 \u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bbf\u0baa-\u0bb0\u0bc8-\u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1-\u0b95\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-381743",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787241329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-84fd9618",
+    "num": "tamilmirrorlk-84fd9618",
+    "date_str": "2026-08-20",
+    "description": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1-\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd-\u0baa\u0bc6\u0bb0\u0bb9\u0bb0\u0bbe/46-381744",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787242993.0
   }
 ]
