@@ -22629,5 +22629,170 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787220381.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-fb0b2b0f",
+    "num": "tamilmirrorlk-fb0b2b0f",
+    "date_str": "2026-08-20",
+    "description": "\u2019\u0ba4\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe\u2019 \u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe-\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381695",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787221024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-2b60ebe3",
+    "num": "adalk-2b60ebe3",
+    "date_str": "2026-08-20",
+    "description": "\u0dbd\u0dbd\u0dd2\u0dad\u0dca \u0d91\u0dbd\u0dca\u0dbd\u0dcf\u0dc0\u0dbd \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca \u0db4\u0dc5\u0daf\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0dbd\u0dd2\u0dad\u0dca-\u0d91\u0dbd\u0dca\u0dbd\u0dcf\u0dc0\u0dbd-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca-\u0db4\u0dc5\u0daf\u0dd2\u0dba\u0dd2/11-423846",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787221124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-60bdeee6",
+    "num": "dailymirrorlk-60bdeee6",
+    "date_str": "2026-08-20",
+    "description": "Russian missile barrage kills at least 13 people in Ukraine\u2019s Kyiv",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russian-missile-barrage-kills-at-least-13-people-in-Ukraines-Kyiv/108-348517",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787221324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-54cc59d1",
+    "num": "dailymirrorlk-54cc59d1",
+    "date_str": "2026-08-20",
+    "description": "CAA conducts 108 raids on imported cosmetics and footwear",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-conducts-108-raids-on-imported-cosmetics-and-footwear/108-348518",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787221975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-3af42e2a",
+    "num": "dailymirrorlk-3af42e2a",
+    "date_str": "2026-08-20",
+    "description": "14 Lamborghinis routed through Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/14-Lamborghinis-routed-through-Sri-Lanka/110-348519",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787222051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-3dc43884",
+    "num": "dailymirrorlk-3dc43884",
+    "date_str": "2026-08-20",
+    "description": "Children need holidays to rest, PM says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Children-need-holidays-to-rest-PM-says/108-348520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787224788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-3f14ccad",
+    "num": "tamilmirrorlk-3f14ccad",
+    "date_str": "2026-08-20",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/62-381697",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787224967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-a7ef40c7",
+    "num": "adalk-a7ef40c7",
+    "date_str": "2026-08-20",
+    "description": "\u0d9a\u0ddc\u0dc3\u0dca\u0d9c\u0ddc\u0da9 \u0dc3\u0dd4\u0da2\u0dd3\u0da7 \u0d85\u0dba\u0dad\u0dca \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db1 \u0d85\u0d9a\u0dca\u0d9a\u0dbb 12\u0d9a \u0d89\u0da9\u0db8\u0d9a\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc3\u0dca\u0d9c\u0ddc\u0da9-\u0dc3\u0dd4\u0da2\u0dd3\u0da7-\u0d85\u0dba\u0dad\u0dca-\u0db6\u0dc0-\u0d9a\u0dd2\u0dba\u0db1-\u0d85\u0d9a\u0dca\u0d9a\u0dbb-12\u0d9a-\u0d89\u0da9\u0db8\u0d9a\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-423847",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787224978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-5f070fbe",
+    "num": "dailymirrorlk-5f070fbe",
+    "date_str": "2026-08-20",
+    "description": "Former Liberian vice-president charged in drug-trafficking probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Liberian-vice-president-charged-in-drug-trafficking-probe/108-348521",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787225170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-56d6aa90",
+    "num": "adalk-56d6aa90",
+    "date_str": "2026-08-20",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d87\u0db8\u0dad\u0dd2 \u0da2\u0d9c\u0dad\u0dca\u0d9c\u0dda \u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dda \u0db8\u0dbb\u0dab\u0dba\u0da7 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d87\u0db8\u0dad\u0dd2-\u0da2\u0d9c\u0dad\u0dca\u0d9c\u0dda-\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dda-\u0db8\u0dbb\u0dab\u0dba\u0da7-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-423848",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787225261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-32eac89c",
+    "num": "tamilmirrorlk-32eac89c",
+    "date_str": "2026-08-20",
+    "description": "\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0ba9 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd \u0b9a\u0bc1\u0bae\u0bc8 \u0ba4\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8-\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0ba9-\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc1\u0bae\u0bc8-\u0ba4\u0bb0-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd/175-381698",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787225628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-cb09f6dc",
+    "num": "dailymirrorlk-cb09f6dc",
+    "date_str": "2026-08-20",
+    "description": "Man arrested after video of child assault goes viral",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-after-video-of-child-assault-goes-viral/108-348522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787226778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-cbd970f3",
+    "num": "dailymirrorlk-cbd970f3",
+    "date_str": "2026-08-20",
+    "description": "Keeping boys in school beyond 16 a growing challenge: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keeping-boys-in-school-beyond-16-a-growing-challenge-PM/108-348523",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787226883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-9afa3768",
+    "num": "dailymirrorlk-9afa3768",
+    "date_str": "2026-08-20",
+    "description": "Joint operation launched to contain fire at Anawilundawa Ramsar Wetland",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-operation-launched-to-contain-fire-at-Anawilundawa-Ramsar-Wetland/108-348524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787227640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-d44fcd98",
+    "num": "tamilmirrorlk-d44fcd98",
+    "date_str": "2026-08-20",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8:   26 \u0bb5\u0baf\u0ba4\u0bc1 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bbe\u0ba9-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-26-\u0bb5\u0baf\u0ba4\u0bc1-\u0ba8\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381717",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787228619.0
   }
 ]
