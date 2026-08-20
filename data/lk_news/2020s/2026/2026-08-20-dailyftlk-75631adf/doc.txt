@@ -1,0 +1,15 @@
+WSO2 names new CEO to lead next growth phase
+
+WSO2 has announced the appointment of Harry Ault as Chief Executive Officer. He will assume day-to-day leadership of WSO2 immediately, working closely with the executive team to advance the company’s strategy and drive continued momentum across its global customer base.
+
+Ault succeeds Founder and former CEO Dr. Sanjiva Weerawarana, who stepped down from the role in May 2026. WSO2 Chief Revenue Officer Devaka Randeniya, has served as Acting CEO during the transition period and will continue to partner closely with Ault as he steps into the role.
+
+Ault joins WSO2 with over 20 years of experience in revenue leadership, strategic partnerships, corporate development, and go-to-market strategy across global markets.
+
+Prior to taking up this role, he was Chief Revenue Officer at SambaNova Systems, a pioneer in AI inference chip technology, where he led the company’s global sales, marketing, field engineering, and global support organisations. Throughout his career, Ault has built a track record of driving above-market growth, leading successful M&A integrations, and scaling go-to-market strategies across diverse industries.
+
+His appointment follows a year of significant leadership expansion at WSO2, which has added a new Chief Financial Officer and Chief Marketing Officer. These are part of efforts in building a senior team designed to support the company’s next stage of growth as it advances its vision for Trusted AI Governance, bringing API management, integration, identity, engineering, and agent platforms together into the WSO2 Agentic Enterprise Fabric (AEF), so governance extends to both the agents themselves and the foundation they run on, built in natively and not added on.
+
+Chairman Jonas Persson said: “We are thrilled to welcome Harry to WSO2 at such a pivotal moment for the company. Harry’s proven ability to build winning teams and scale go-to-market strategy globally makes him the right leader to take WSO2 into its next chapter.”
+
+Incoming CEO Harry Ault said: “Over the past two decades, WSO2 has built a remarkable platform and a loyal customer base of more than 700 enterprise organisations, and I’m honored to join at such an exciting inflection point. As organisations transform into AI-driven, agentic enterprises, they need a trusted open-source partner to navigate the change with speed, control and confidence without adding complexity. I am looking forward to deepening our engagement in the open-source community, growing our global partner ecosystem, and expanding WSO2’s value to customers and developers everywhere.”

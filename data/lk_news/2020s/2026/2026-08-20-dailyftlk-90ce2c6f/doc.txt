@@ -1,0 +1,75 @@
+Sri Lanka’s $ 5 b IT Industry Strategic Roadmap and the English Language blindspot
+
+Automation is swallowing routine tasks, leaving high-value growth in IT sector dependent on an advanced English talent pool Sri Lanka has yet to build
+
+At the recent World Bank/KPMG Validation Workshop on Sri Lanka’s IT Industry Strategic Roadmap, a target was proposed to reach
+
+$ 5 billion in revenue by 2030, representing a $ 2 billion policy-driven revenue increment over current, based on: 35% of growth from Global Capability Centres (GCCs), 25% from IT Products and SaaS, 25% from IT Services, and 15% from Freelancers and Digital Talent.
+
+Five strategic enablers were identified including “Skills, Literacy, and Jobs”.  However, the roadmap makes four critical miscalculations in relation to this enabler: misjudging current English proficiency levels;  assuming Sri Lanka’s English proficiency makes it competitive in attracting investment; omitting any linked investment in raising English proficiency; and relying on the State education sector to deliver the English proficiency outcomes required for AI.
+
+AI literacy is understanding what AI-powered systems do and evaluating their output. AI fluency is the ability to apply AI productively within a discipline and is what the revenue targets directly depend on. For Sri Lanka, both depend on English language competence.
+
+AI is transforming all four strategic growth sectors. AI is absorbing the work that requires little in the way of English language and leaving behind the work that requires a great deal of it at increasing levels of understanding.
+
+GCCs: No longer back-office processing centres following scripted, rule-based procedures. They now integrate AI into product development, conduct research, run negotiations, and make critical decisions.
+
+For IT Products and SaaS: AI capability means building AI-native features, integrating and evaluating models, and exercising product judgement.
+
+In IT Services AI-assisted delivery is compressing the build layer leaving only the client-facing layer (e.g. Forward Deployed Engineers who understand business workflows, how to integrate AI, and code generation.
+
+Freelancers and Digital Talent: Lacking an employer buffer, this pathway is most exposed to AI displacement, as generic, low-complexity work is automated.
+
+The IT Strategic Roadmap uses the Education First (EF) Global English Proficiency framework to argue that Sri Lanka is well-placed. However, the EF framework averages proficiency across a convenience sample of online test volunteers. It is not population-representative like OECD surveys (e.g., PISA, PIAAC).
+
+EF maps to the Common European Framework of Reference (CEFR) as shown in the table below. CEFR is used to assess individual language competency across six levels (A1 to C2) including:
+
+B1 (Intermediate): Competence in routine tasks, precisely the work AI is absorbing.
+
+B2 (Upper Intermediate): The working floor for entry-level GCC roles (handling unfamiliar technical material, internal documentation, and abstract content)
+
+C1 (Advanced): Required for client-facing and team-lead roles (negotiating, handling ambiguity, writing under pressure).
+
+The NIE 2022 DRAFT English Curriculum for General Education sets CEFR B1 as the benchmark for  Grades 10-11, and B2 for Grades 12-13.
+
+A digital skills baseline that counts digital competence, while assuming English, will produce a baseline with a built-in binding constraint. The proposed digital skills survey and national professional skills framework must include an appropriate CEFR metric for English proficiency and the OECD’s AI Literacy Framework (the basis of PISA’s Media and AI Literacy student assessment in 2029).
+
+For GCCs, success depends on the absolute size of the talent pool entering the workforce at B2 and C1 levels. If supply is insufficient, the cost of competing for talent threatens investment.
+
+The roadmap claims Sri Lanka’s score of 486 is a differentiator against India (484) and Thailand (402), while citing Philippines, Vietnam, and Armenia – all well ahead in English proficiency - as benchmarks. This comparison is misleading. Even though India’s EF score is almost the same as Sri Lanka, India’s annual engineering and IT graduate output alone is many multiples of Sri Lanka’s total annual graduate output.
+
+The roadmap targets an IT workforce of 200,000 by 2030, set against a current base of 175,000 professionals and 17,000 annual ICT graduates. The current pipeline is already acknowledged as too small, and filtering for required English proficiency based on CEFR shrinks it further.
+
+The English proficiency trajectory in absolute numbers needs to be reverse-engineered from 2030 demand. That means establishing how many graduates from relevant post-secondary educational sectors and providers (State and NHSE)  currently reach B2 and above, and setting the annual rate of improvement required to fill the demand the revenue target implies. Without this calculation, revenue targets are numbers without a workforce behind them, and no one can say how big or small the gap is.
+
+The third miscalculation which follows from the above is that targets can be achieved without any investment in English language infrastructure.
+
+An interim solution is needed until the general education system can deliver English language and AI literacy skills at volume. One option is for the NSHE agile skills pathways to include English and AI literacy. This is a cost that needs to be factored into the roadmap. This capability has in itself export revenue potential as unique ed-tech.
+
+But English proficiency and AI literacy are shared national infrastructure on which the digital roadmap, the labour migration strategy, tourism, and higher education all draw. Worker remittances reached $ 8.08 billion in 2025, the largest single foreign exchange earner, against IT exports of $ 1.6-2 billion. Housing core curriculum and standards inside a single sector plan long term guarantees it will be under- and under-funded.
+
+The fourth miscalculation is the assumption that the general education system will deliver the required English proficiency in CEFR terms at scale through ongoing reforms.
+
+The argument for reliance on NSHE  to deliver professional skills based on a digital skills survey and national skills professional framework, is that a much greater agility is needed beyond what can be achieved by the State sector, in particular Universities, in adapting to constant change driven by AI.
+
+English and AI literacy both fall squarely within the responsibility and accountability of the general education system. However, the assumption that the latter can deliver what is needed in the timeframe is highly unstable given the slow rollout (reaching Grade 10 only by 2030) and lack of clear AI literacy curriculum framework.
+
+The strategic solution is institutional change. At present there is no ownership of standards and  curriculum and pedagogy, policy research, delivery, and quality assurance are shared across different State and Provincial entities.
+
+A model which would ensure better alignment with the demands of the economy would involve  separation of standard-setting and quality assurance from curriculum and delivery. A new independent statutory body would be established to own national skills benchmarks across sectors, specify required proficiencies for educational and career pathways, commission independent assessments, and report annually to Parliament.
+
+Malaysia reached EF 581 by establishing the English Language Standards and Quality Council, which produced a ten-year CEFR-referenced roadmap covering preschool to university and began with a target of all 40,000 English teachers at C1.
+
+The argument in support of this is the same as that which created GovTech itself. A nationally critical capability cannot be built at the pace line ministries operate at, so a separate agile vehicle needs to be created and given a mandate.
+
+To hit $ 5 billion by 2030, the IT Strategic Roadmap needs four corrections. It needs to:
+
+Count how many graduates reach B2 and C1 each year, not cite a national average, so that the talent gap is sized before it is priced;
+
+Build English proficiency and AI literacy into the digital skills survey and the professional skills framework, so that the baseline reveals the binding constraint instead of concealing it;
+
+Fund an interim English pathway through the NSHE sector, so that revenue does not wait on a curriculum reform reaching Grade 10 in 2030; and
+
+Establish a new statutory body owning standards and assurance across sectors, accountable to Parliament, so that English and AI literacy are built as national infrastructure rather than as one sector’s afterthought.
+
+(The author is the President of Partners In Micro-development (PIMD - https://microdevpartners.org/), an international NGO with over 20 years of experience in educational development in Sri Lanka. Based in Sydney, she works extensively with Sri Lankan State universities providing online training for English teachers in English literacy instruction based on the Science of Reading and the Science of Learning. PIMD was founded by Dr. Vaughan’s late husband, Dr. Mahesan Kandaiya)

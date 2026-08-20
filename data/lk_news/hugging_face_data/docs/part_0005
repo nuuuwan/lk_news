@@ -21562,5 +21562,181 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787179516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-1cb955a3",
+    "num": "adalk-1cb955a3",
+    "date_str": "2026-08-20",
+    "description": "\u0db4\u0dbd\u0dd9\u0dba\u0dd2 \u0d91\u0dbd\u0dca.\u0da7\u0dd3.\u0da7\u0dd3.\u0d8a. \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0d9a\u0dca \u0dba\u0dd0\u0dba\u0dd2 \u0d85\u0dc3\u0dad\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbd\u0dd9\u0dba\u0dd2-\u0d91\u0dbd\u0dca-\u0da7\u0dd3-\u0da7\u0dd3-\u0d8a--\u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0d9a\u0dca-\u0dba\u0dd0\u0dba\u0dd2-\u0d85\u0dc3\u0dad\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dc5-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-423839",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787186324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-37e53afa",
+    "num": "dailyftlk-37e53afa",
+    "date_str": "2026-08-20",
+    "description": "NMSJ urges lawmakers to avoid SC \u2018hearing its own case\u2019",
+    "url_metadata": "https://www.ft.lk/news/NMSJ-urges-lawmakers-to-avoid-SC-hearing-its-own-case/56-796248",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787188640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-90ce2c6f",
+    "num": "dailyftlk-90ce2c6f",
+    "date_str": "2026-08-20",
+    "description": "Sri Lanka\u2019s $ 5 b IT Industry Strategic Roadmap and the English Language blindspot",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-5-b-IT-Industry-Strategic-Roadmap-and-the-English-Language-blindspot/4-796249",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787189207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-87ff6c22",
+    "num": "dailyftlk-87ff6c22",
+    "date_str": "2026-08-20",
+    "description": "One rate, and the SMEs who absorbed the difference",
+    "url_metadata": "https://www.ft.lk/columns/One-rate-and-the-SMEs-who-absorbed-the-difference/4-796250",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787189576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-023797d5",
+    "num": "dailyftlk-023797d5",
+    "date_str": "2026-08-20",
+    "description": "Abaya and Muslim identity politics",
+    "url_metadata": "https://www.ft.lk/columns/Abaya-and-Muslim-identity-politics/4-796253",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787189995.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-a1db9f4f",
+    "num": "dailyftlk-a1db9f4f",
+    "date_str": "2026-08-20",
+    "description": "AKD\u2019s risk-taking: Losing legitimacy, de-stabilising democracy",
+    "url_metadata": "https://www.ft.lk/columns/AKD-s-risk-taking-Losing-legitimacy-de-stabilising-democracy/4-796254",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787190795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-f4d70f6a",
+    "num": "dailyftlk-f4d70f6a",
+    "date_str": "2026-08-20",
+    "description": "LAUGFS Supermarkets opens 44th outlet in Mount Lavinia",
+    "url_metadata": "https://www.ft.lk/business/LAUGFS-Supermarkets-opens-44th-outlet-in-Mount-Lavinia/34-796255",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787190967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-8e0972e1",
+    "num": "dailyftlk-8e0972e1",
+    "date_str": "2026-08-20",
+    "description": "Sri Lanka\u2013China Business Council holds 25th AGM",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaChina-Business-Council-holds-25th-AGM/34-796256",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-cc787e4c",
+    "num": "dailyftlk-cc787e4c",
+    "date_str": "2026-08-20",
+    "description": "Digital ID, online fines on schedule as President reviews $ 30 b digital economy strategy",
+    "url_metadata": "https://www.ft.lk/business/Digital-ID-online-fines-on-schedule-as-President-reviews-30-b-digital-economy-strategy/34-796257",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191131.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-633ea7fa",
+    "num": "dailyftlk-633ea7fa",
+    "date_str": "2026-08-20",
+    "description": "Global Biz Connect expands beyond borders from Colombo to Melbourne",
+    "url_metadata": "https://www.ft.lk/business/Global-Biz-Connect-expands-beyond-borders-from-Colombo-to-Melbourne/34-796258",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-cfee63a8",
+    "num": "dailyftlk-cfee63a8",
+    "date_str": "2026-08-20",
+    "description": "SLABA launches Boardroom Series with NDB Investment Bank, CBSL on financing and forex",
+    "url_metadata": "https://www.ft.lk/business/SLABA-launches-Boardroom-Series-with-NDB-Investment-Bank-CBSL-on-financing-and-forex/34-796259",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-b2e5fcaf",
+    "num": "dailyftlk-b2e5fcaf",
+    "date_str": "2026-08-20",
+    "description": "Call for stronger fire  resilience in built environment",
+    "url_metadata": "https://www.ft.lk/business/Call-for-stronger-fire-resilience-in-built-environment/34-796260",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-75631adf",
+    "num": "dailyftlk-75631adf",
+    "date_str": "2026-08-20",
+    "description": "WSO2 names new CEO to lead next growth phase",
+    "url_metadata": "https://www.ft.lk/business/WSO2-names-new-CEO-to-lead-next-growth-phase/34-796261",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191663.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-b34bf3a3",
+    "num": "dailyftlk-b34bf3a3",
+    "date_str": "2026-08-20",
+    "description": "ASUS launches AI-powered flagship ExpertBook Ultra in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/ASUS-launches-AI-powered-flagship-ExpertBook-Ultra-in-Sri-Lanka/34-796262",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-55acb381",
+    "num": "dailyftlk-55acb381",
+    "date_str": "2026-08-20",
+    "description": "Lakshan Madurasinghe becomes Sri Lanka\u2019s first certified WHY Coach by Simon Sinek\u2019s Why School",
+    "url_metadata": "https://www.ft.lk/business/Lakshan-Madurasinghe-becomes-Sri-Lanka-s-first-certified-WHY-Coach-by-Simon-Sinek-s-Why-School/34-796263",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailyftlk-e1e31dc9",
+    "num": "dailyftlk-e1e31dc9",
+    "date_str": "2026-08-20",
+    "description": "CA Sri Lanka launches Business Language School and national \u2018StepUp English\u2019 CSR initiative",
+    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-launches-Business-Language-School-and-national-StepUp-English-CSR-initiative/34-796264",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787191887.0
   }
 ]
