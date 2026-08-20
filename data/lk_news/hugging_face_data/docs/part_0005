@@ -21950,6 +21950,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-96c2d2be",
+    "num": "adalk-96c2d2be",
+    "date_str": "2026-08-20",
+    "description": "\u0dc4\u0dd0\u0dbb\u0dd3 \u0dc4\u0dcf \u0db8\u0dda\u0d9c\u0db1\u0dca \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd0\u0dbb\u0dd3-\u0dc4\u0dcf-\u0db8\u0dda\u0d9c\u0db1\u0dca-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d91\u0d82\u0d9c\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7/11-423843",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787195242.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-ef7a9214",
     "num": "dailymirrorlk-ef7a9214",
     "date_str": "2026-08-20",
@@ -21983,6 +21994,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-70a9efb4",
+    "num": "dailymirrorlk-70a9efb4",
+    "date_str": "2026-08-20",
+    "description": "Inside Sri Lanka\u2019s strategic blueprint for global tourism marketing promotion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Inside-Sri-Lankas-strategic-blueprint-for-global-tourism-marketing-promotion/273-348466",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787199777.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-092079f7",
     "num": "dailymirrorlk-092079f7",
     "date_str": "2026-08-20",
@@ -21991,6 +22013,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787199806.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-8ae1dc4a",
+    "num": "dailymirrorlk-8ae1dc4a",
+    "date_str": "2026-08-20",
+    "description": "Nolimit\u00a0joins Dialog Pay merchant ecosystem",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Nolimitjoins-Dialog-Pay-merchant-ecosystem/273-348468",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787199872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-a5b43146",
+    "num": "dailymirrorlk-a5b43146",
+    "date_str": "2026-08-20",
+    "description": "Uber expands services to Kurunegala",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Uber-expands-services-to-Kurunegala/273-348469",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787199918.0
   },
   {
     "doc_type": "lk_news",
@@ -22016,6 +22060,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-82c0e7f3",
+    "num": "dailymirrorlk-82c0e7f3",
+    "date_str": "2026-08-20",
+    "description": "WSO2 names Harry Ault as CEO to lead company\u2019s next growth phase",
+    "url_metadata": "https://www.dailymirror.lk/business-news/WSO2-names-Harry-Ault-as-CEO-to-lead-companys-next-growth-phase/273-348471",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787200014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-1486b194",
+    "num": "dailymirrorlk-1486b194",
+    "date_str": "2026-08-20",
+    "description": "Amana Bank celebrates 15 years with 15% savings at 150+ merchant outlets",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Amana-Bank-celebrates-15-years-with-15-savings-at-150-merchant-outlets/273-348472",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787200073.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-13976178",
     "num": "dailymirrorlk-13976178",
     "date_str": "2026-08-20",
@@ -22024,6 +22090,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787200130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-3dd378c5",
+    "num": "dailymirrorlk-3dd378c5",
+    "date_str": "2026-08-20",
+    "description": "BOC Launches C Flex Corporate to Expand Digital Cash Management Services",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-Launches-C-Flex-Corporate-to-Expand-Digital-Cash-Management-Services/273-348474",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787200340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-0c7aaf88",
+    "num": "dailymirrorlk-0c7aaf88",
+    "date_str": "2026-08-20",
+    "description": "Hutch serves more rural communities",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hutch-serves-more-rural-communities/273-348475",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787200391.0
   },
   {
     "doc_type": "lk_news",
@@ -22038,6 +22126,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-edeea36b",
+    "num": "dailymirrorlk-edeea36b",
+    "date_str": "2026-08-20",
+    "description": "Secondary market sees mixed activity amid modest volumes",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-sees-mixed-activity-amid-modest-volumes/273-348477",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787201317.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-08-20",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-348478",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787201365.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-tamilmirrorlk-5b14dafc",
     "num": "tamilmirrorlk-5b14dafc",
     "date_str": "2026-08-20",
@@ -22049,6 +22159,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-e6be22e3",
+    "num": "dailymirrorlk-e6be22e3",
+    "date_str": "2026-08-20",
+    "description": "Amana Bank 2Q profit rises 33% on financing, trading gains",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Amana-Bank-2Q-profit-rises-33-on-financing-trading-gains/273-348482",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787202608.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-f356bb16",
+    "num": "dailymirrorlk-f356bb16",
+    "date_str": "2026-08-20",
+    "description": "JAT Holdings 1Q profit stalls despite 34% revenue growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/JAT-Holdings-1Q-profit-stalls-despite-34-revenue-growth/273-348483",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787202707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-f5104ca3",
+    "num": "dailymirrorlk-f5104ca3",
+    "date_str": "2026-08-20",
+    "description": "S&P assigns Hayleys \u2018B+\u2019 foreign currency rating with stable outlook",
+    "url_metadata": "https://www.dailymirror.lk/business-news/S-P-assigns-Hayleys-B-foreign-currency-rating-with-stable-outlook/273-348484",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787202816.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-a3b0b9be",
     "num": "dailymirrorlk-a3b0b9be",
     "date_str": "2026-08-20",
@@ -22057,6 +22200,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787202824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-1f2db502",
+    "num": "dailymirrorlk-1f2db502",
+    "date_str": "2026-08-20",
+    "description": "Govt. shifts export strategy towards higher volumes and scale",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Govt-shifts-export-strategy-towards-higher-volumes-and-scale/273-348486",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787202901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-97d935c1",
+    "num": "dailymirrorlk-97d935c1",
+    "date_str": "2026-08-20",
+    "description": "SL kicks off long-awaited Rs.1.5bn interim campaign",
+    "url_metadata": "https://www.dailymirror.lk/business-main/SL-kicks-off-long-awaited-Rs-1-5bn-interim-campaign/245-348487",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787203314.0
   },
   {
     "doc_type": "lk_news",
@@ -22126,6 +22291,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-d75f7f29",
+    "num": "dailymirrorlk-d75f7f29",
+    "date_str": "2026-08-20",
+    "description": "Is human thinking at the brink of extinction?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Is-human-thinking-at-the-brink-of-extinction/172-348494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787206542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-3d863c70",
+    "num": "dailymirrorlk-3d863c70",
+    "date_str": "2026-08-20",
+    "description": "Judicial Retirement Age: Let the Judges\u2019 Wishes Guide the Way",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Judicial-Retirement-Age-Let-the-Judges-Wishes-Guide-the-Way/172-348495",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787206639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-c0b54189",
+    "num": "dailymirrorlk-c0b54189",
+    "date_str": "2026-08-20",
+    "description": "22A in place of the new Constitution promised",
+    "url_metadata": "https://www.dailymirror.lk/opinion/22A-in-place-of-the-new-Constitution-promised/172-348496",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787206760.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-6368be62",
     "num": "dailymirrorlk-6368be62",
     "date_str": "2026-08-20",
@@ -22145,5 +22343,115 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787207067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-feeaf0db",
+    "num": "dailymirrorlk-feeaf0db",
+    "date_str": "2026-08-20",
+    "description": "Another container scam : MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Another-container-scam-MP/108-348501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787207384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-6524264d",
+    "num": "dailymirrorlk-6524264d",
+    "date_str": "2026-08-20",
+    "description": "\u201dAKD lost his revolutionary conscience long ago\u201c Kumar Gunaratnam",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/AKD-lost-his-revolutionary-conscience-long-ago-Kumar-Gunaratnam/334-348502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787207511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-9a5da03c",
+    "num": "dailymirrorlk-9a5da03c",
+    "date_str": "2026-08-20",
+    "description": "Principal, teacher caught drunk on duty at exam center",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Principal-teacher-caught-drunk-on-duty-at-exam-center/108-348503",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787208017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-5ab40945",
+    "num": "dailymirrorlk-5ab40945",
+    "date_str": "2026-08-20",
+    "description": "Sri Lanka Is the Only South Asian Country Its Neighbors All View Favorably, Pew Survey Finds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Is-the-Only-South-Asian-Country-Its-Neighbors-All-View-Favorably-Pew-Survey-Finds/108-348504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787208510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-cc02094d",
+    "num": "dailymirrorlk-cc02094d",
+    "date_str": "2026-08-20",
+    "description": "Daily Mirror story comes to limelight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Daily-Mirror-story-comes-to-limelight/108-348505",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787208746.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-b800e820",
+    "num": "dailymirrorlk-b800e820",
+    "date_str": "2026-08-20",
+    "description": "El Ni\u00f1o : Heavier Maha rains, drier Yala raise food security concerns for Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Ni\u00f1o-Heavier-Maha-rains-drier-Yala-raise-food-security-concerns-for-Sri-Lanka/108-348506",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787208912.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-766deba4",
+    "num": "tamilmirrorlk-766deba4",
+    "date_str": "2026-08-20",
+    "description": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0bb5\u0bbf\u0b9a\u0bbe \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd : \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe-\u0bb5\u0bbf\u0b9a\u0bbe-\u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-381684",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787209149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-c28329d9",
+    "num": "dailymirrorlk-c28329d9",
+    "date_str": "2026-08-20",
+    "description": "Retirement declarations of assets and liabilities introduced",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Retirement-declarations-of-assets-and-liabilities-introduced/108-348507",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787209459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-9e372684",
+    "num": "dailymirrorlk-9e372684",
+    "date_str": "2026-08-20",
+    "description": "Dengue deaths surpass 70 as cases top 93,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-deaths-surpass-70-as-cases-top-93-000/108-348508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787210648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-0c4f5360",
+    "num": "dailymirrorlk-0c4f5360",
+    "date_str": "2026-08-20",
+    "description": "Four bank officials further remanded over US$1 billion outflow scheme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-bank-officials-further-remanded-over-US-1-billion-outflow-scheme/108-348509",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787214003.0
   }
 ]

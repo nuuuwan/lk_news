@@ -1,0 +1,77 @@
+BOC Launches C Flex Corporate to Expand Digital Cash Management Services
+
+Bank of Ceylon has launched C Flex Corporate, a digital cash management solution designed to help corporate and small and medium-sized enterprise customers manage payments, collections, liquidity and other banking activities through a single secure system.
+
+The new service was developed under the Bank’s digital transformation program in response to changing customer expectations and the increasing complexity of business banking requirements. It replaces the limited functions of BOC’s existing corporate online banking service with a wider range of transaction, administration, reporting and cash management capabilities.
+
+“Digital transformation is no longer an option but a business imperative. With the introduction of C Flex Corporate, Bank of Ceylon is reinforcing its commitment to empowering Sri Lankan enterprises with world-class digital banking capabilities that enhance competitiveness, strengthen financial resilience and support the nation’s long-term economic progress. This long awaited initiative reflects our vision of creating sustainable value for businesses through innovation.”
+
+C Flex Corporate gives authorized users access to balances and transaction details across their accounts through a centralized dashboard.
+
+Customers can view summaries covering current and savings accounts, loans and fixed deposits. This allows finance teams to monitor available funds, examine account activity and assess the company’s banking position without moving between separate systems.
+
+Real-time visibility can help businesses make faster decisions on outgoing payments, expected receipts and working capital requirements. Companies can review cash movements as they occur and respond to funding needs with access to updated account information.
+
+The service also supports companies operating through several subsidiaries. Different entities can be managed under one corporate profile, giving finance teams centralized oversight while allowing each company to maintain its own users and approval procedures.
+
+This arrangement is suited to conglomerates and corporate groups where banking duties may be handled by several teams, branches or business units. Central administration can provide clearer supervision of company accounts and transaction activity across the group.
+
+“Today’s businesses require banking solutions that are not only secure and reliable, but also intelligent, seamless, and efficient. C Flex Corporate has been designed to meet these evolving needs by providing a comprehensive Cash Management platform that streamlines day-to-day financial operations, enhances visibility, strengthens control, and improves operational efficiency.
+
+This launch marks another significant milestone in our digital transformation journey, reinforcing our commitment to delivering world-class banking solutions that empower our corporate and SME customers to manage their finances with greater convenience, confidence, and agility.”
+
+The platform supports both single transactions and bulk payments, allowing businesses to process salaries, supplier payments, standing instructions and high volumes of fund transfers.
+
+Customers can conduct transactions through intrabank fund transfers, the Common Electronic Fund Transfer Switch, Real Time Gross Settlement and USD Online. Bill payments can also be completed through the same interface.
+
+Bulk processing can reduce the manual effort required for recurring payments and large transaction batches. It can also limit data-entry errors and shorten the time needed to prepare and process salary or supplier payment files.
+
+Companies can establish approval procedures according to transaction value, user responsibility or internal financial policies. Payments can be routed through several authorization levels before completion, depending on the controls selected by the organization.
+
+Dual authorization is available for transactions requiring an additional level of review. The platform also stores transaction histories, allowing finance teams and administrators to examine previous payments within selected periods.
+
+Customers can open fixed deposits digitally, check cheque status and submit requests for cheque books online. Combining these banking services within one interface is intended to simplify routine financial administration.
+
+Senior Deputy General Manager/ Head of Corporate and Offshore Banking Mr Rohana Kumara stated,
+
+“C Flex Corporate has been designed with a strong focus on functionality, security and flexibility. By integrating real-time account monitoring, advanced payment capabilities, customizable authorization workflows and seamless system integration, we have created a platform that enables businesses to automate financial processes, strengthen governance and manage their operations with greater confidence in an increasingly digital environment.”
+
+C Flex Corporate includes tools to help companies monitor incoming funds and manage receivables. Businesses can track payments in real time and use reconciliation tools to identify receipts linked to customers, invoices, branches or business units. Improved reconciliation can help finance teams maintain accurate records and determine which amounts remain outstanding.
+
+Virtual Account Management allows companies to assign virtual accounts for different collection purposes. Incoming payments can then be identified without requiring staff to manually examine and match each transaction.
+
+The service supports Payments on Behalf Of and Collections on Behalf Of arrangements, known as POBO and COBO. Under these models, a central company can make payments or collect funds for subsidiaries or related entities.
+
+These capabilities can assist corporate groups that manage treasury operations centrally. Payments and collections can be coordinated across several companies while account information remains available through one corporate profile.
+
+Post-Dated Cheque Management allows businesses to record and monitor cheques issued for future realization. Escrow Management is also included for transactions where funds must be retained and released according to agreed conditions. The combination of real-time tracking, reconciliation and virtual accounts is intended to help companies improve collection processes and maintain closer control over receivables.
+
+The service uses encryption, two-factor authentication, role-based access controls and dual authorization to protect customer information and transactions. Organizations can manage their own banking users through an administration portal. Corporate administrators can create, modify, activate or deactivate user profiles and determine the services available to each employee.
+
+Access can be assigned according to job duties, company, business unit or level of authority. A user preparing transactions can be given different permissions from a manager or executive responsible for approval.
+
+Businesses can also create transaction approval hierarchies based on their internal governance policies. This allows companies to separate transaction preparation, review and authorization duties. Administrators can monitor user activity and examine transaction histories within selected periods. These controls are intended to improve accountability and help organizations maintain their internal compliance and financial control requirements.
+
+Flexible user administration is especially relevant to companies with several finance teams or employees working across branches and subsidiaries. Access can be updated as responsibilities change, reducing the risk of outdated user permissions remaining active.
+
+C Flex Corporate provides customizable reports covering transactions, account activity and other financial information. Finance managers and corporate executives can generate reports according to their operational requirements. The information can be used to review payments, collections, account movements and transaction histories.
+
+The platform also supports integration with enterprise resource planning systems. This allows banking activity to connect with company systems used for accounting, payroll, procurement and treasury management.
+
+ERP integration can reduce the manual transfer of transaction data between company records and banking systems. It can also assist with reconciliation and improve consistency across financial records. For organizations processing large transaction volumes, automation can reduce administrative work and allow finance teams to concentrate on monitoring, analysis and financial planning.
+
+C Flex Corporate includes mobile banking functions that allow authorized users to monitor and approve transactions away from the office.
+
+Executives and finance managers can review pending transactions and access account information through secure mobile channels. This can reduce delays when approval is required from an official who is traveling, attending meetings or working from another location.
+
+Mobile access also supports business continuity by allowing selected banking activities to continue outside the company’s main workplace. Transactions remain subject to the approval procedures and security controls established by the organization.
+
+The service has been developed for large companies, conglomerates and SMEs. Smaller businesses often manage salary payments, supplier settlements, customer receipts and cash flow with limited administrative resources. Access to bulk processing, reconciliation, reporting and user controls can help them reduce manual work and improve financial oversight.
+
+C Flex Corporate gives SMEs access to advanced cash management functions commonly used by larger organizations. These tools can assist growing businesses as transaction volumes increase and internal financial responsibilities become more complex. For corporate and SME customers, the main benefits include faster payment processing, clearer cash flow visibility, improved user control, stronger transaction security and easier access to banking services.
+
+The launch comes as Sri Lankan businesses increase their use of digital systems across finance, operations and supply chains. Corporate banking services are increasingly expected to connect with internal company systems while giving finance teams access to current account and transaction information. Secure digital approval and administration functions are also important as companies operate across several locations and business entities.
+
+C Flex Corporate brings account monitoring, payments, collections, liquidity management, reporting, mobile access and corporate user administration into one digital environment.
+
+The service gives BOC a broader corporate banking offering while providing businesses with tools to automate routine processes, strengthen financial controls and manage cash through a centralized system. Its introduction also contributes to Sri Lanka’s wider digitalization agenda by giving corporate and SME customers access to banking infrastructure that can support efficient transactions, improved financial administration and business growth.

@@ -1,0 +1,27 @@
+Is human thinking at the brink of extinction?
+
+With Generative AI slowly but subtly commanding its way into search engines and social media apps that are being used by millions of users, one might wonder whether the human brain is forced to stop thinking. A Google search for a simple definition now provides an elaborate explanation, sometimes with related sources. But what is quite funny is the fact that many of these sources often don’t exist.
+
+According to an article by Philippa Wain for BBC, second hand book sales have recently increased in an unusual manner. Scores of novels are now being shipped off to faraway warehouses but booksellers are not aware of the final destination. But speculation is rife as to whether these books are being bought to feed the ‘voracious appetite’ for new information, also known AI.
+
+In August 2024, three authors Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sued Anthropic, alleging that the AI company used millions of pirated books from shadow libraries to train its Claude models. The case led to a historic USD 1.5 billion class-action settlement approved in July 2026.
+
+In 2025, Judge William Alsup ruled that ‘using books purchased in this way to train AI software was not a violation of US copyright law.’ Court documents also revealed that books were being destroyed in the process of training Anthropic’ AI chatbot, Claude.
+
+Even though booksellers are ‘happy’ about the spike in book sales, they have expressed dissatisfaction regarding the idea of destroying books. However, documents from Anthropic revealed about a project of ingesting old books known as ‘Project Panama’. According to the contents, the company aims to ‘destructively scan all the books in the world.’
+
+Experts opine that unusual and rare texts could provide fresh material to train large language models (LLMs) such as OpenAI’s ChatGPT chatbot. LLMs are a particular type of language model, which is a mathematical representation of language based on probabilities. Language models function similarly to predictive text on a mobile phone. But in most instances, predictive texts such as Autocorrect have provided the wrong option. Language models are designed to estimate how likely it would be to see a particular sequence of words. This is where probabilities come in.
+
+AI systems have been developed and modelled similarly to how the human brain works. Some models are being trained on over a trillion words. Another development is the way in which users interact with AI by way of prompts. Prompts are either questions or instructions. Prompts keep most users engaged and they eventually become attached to an unknown robot.
+
+Research studies indicate that chatbots can stimulate empathy, respond without judgment and offer a sense of privacy, making them not only sources of information but also potential providers of emotional support. As a result, users begin to develop affective bonds with these systems, raising important questions about the broader social and behavioural consequences of everyday human–AI interaction.
+
+Systematic reviews of social chatbots highlight risks ranging from emotional over-reliance with negative impacts on real-world relationships to heightened loneliness. Multiple reports have underscored risks pertaining to the link between interactions with AI chatbots and subsequent teen suicides.
+
+The dark side of using AI chatbots such as ChatGPT came to the limelight on August 15, when a  Massachusetts teen was charged of the double murder of his mother and younger brother. Investigations revealed that the teen had used ChatGPT to search for ‘theoretical ideas or fantasy stories’ regarding the killing of his family.
+
+AI technology allegedly has been linked to other criminal acts, and Florida this spring sued ChatGPT owner OpenAI, alleging the tool had “no parental oversight,” got minors addicted, caused users to lose “critical thinking skills,” helped mass shooters and encouraged suicide.
+
+Sri Lanka is currently experiencing an unusual spike in daylight robberies, shootings and so on. Investigators should perhaps look at the involvement of AI in these criminal activities. It is both ironic and scary to understand the fact that robots or non-humans are now commanding how to manipulate a criminal activity. A world without human thinking would be chaotic, stagnant and disconnected. Whether we are heading towards such a catastrophe is a question that remains.
+
+‘Your Thought’ is a space, a right of the readers to support or contradict and discuss the issues highlighted in the editorial and other articles in the editorial and op-ed pages. Designed as the reader’s editorial; our readers can send in their writings, with a word count not exceeding 200, to ‘Your Thought’, Daily Mirror Political Features Desk, No 8, Hunupitiya Cross Road, Colombo 2 or email to [email protected]
