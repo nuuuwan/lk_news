@@ -22247,6 +22247,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-5adaad69",
+    "num": "tamilmirrorlk-5adaad69",
+    "date_str": "2026-08-20",
+    "description": "\u0b8e\u0bb2\u0bcd\u0bb2 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0b95 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd\u0bb2-\u0ba8\u0bc0\u0bb0\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0b95-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b95\u0bbe\u0bb0\u0bcd/175-381682",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787205661.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-b214abec",
     "num": "dailymirrorlk-b214abec",
     "date_str": "2026-08-20",
@@ -22423,6 +22434,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-60eb5f94",
+    "num": "adalk-60eb5f94",
+    "date_str": "2026-08-20",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a\u0dc0\u0dbb\u0dd4 \u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dca\u0daf\u0db1 \u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd3\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0da2\u0db1-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a\u0dc0\u0dbb\u0dd4-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dca\u0daf\u0db1-\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd3\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-423844",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787209437.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-dailymirrorlk-c28329d9",
     "num": "dailymirrorlk-c28329d9",
     "date_str": "2026-08-20",
@@ -22453,5 +22475,159 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787214003.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-52ac2897",
+    "num": "dailymirrorlk-52ac2897",
+    "date_str": "2026-08-20",
+    "description": "Avoid sun exposure from 11 am to 3 pm - Health officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Avoid-sun-exposure-from-11-am-to-3-pm-Health-officials/108-348510",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787214193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-0b1fd304",
+    "num": "dailymirrorlk-0b1fd304",
+    "date_str": "2026-08-20",
+    "description": "BASL chief\u2019s remark causes rumpus in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-chiefs-remark-causes-rumpus-in-Parliament/108-348511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787214636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-2f3b752c",
+    "num": "dailymirrorlk-2f3b752c",
+    "date_str": "2026-08-20",
+    "description": "New preschool guides launched under education reforms",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-preschool-guides-launched-under-education-reforms/108-348512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787214847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-69e9ea7f",
+    "num": "tamilmirrorlk-69e9ea7f",
+    "date_str": "2026-08-20",
+    "description": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381686",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787215114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-11fd968a",
+    "num": "dailymirrorlk-11fd968a",
+    "date_str": "2026-08-20",
+    "description": "14 Lamborghinis take new route through Sri Lanka due to strait of Hormuz closure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/14-Lamborghinis-take-new-route-through-Sri-Lanka-due-to-strait-of-Hormuz-closure/108-348513",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787215245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-d74be008",
+    "num": "adalk-d74be008",
+    "date_str": "2026-08-20",
+    "description": "\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0\u0dba\u0dda \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dad\u0dca  \u0d87\u0d9c\u0dba\u0dd3\u0db8 \u0d85\u0daf \u0dc3\u0dd2\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0\u0dba\u0dda-\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dad\u0dca--\u0d87\u0d9c\u0dba\u0dd3\u0db8-\u0d85\u0daf-\u0dc3\u0dd2\u0da7/11-423845",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787215595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-f81dc0d6",
+    "num": "dailymirrorlk-f81dc0d6",
+    "date_str": "2026-08-20",
+    "description": "Pakistan to host Sri Lanka for Tests and T20Is, England for ODI tri-series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-to-host-Sri-Lanka-for-Tests-and-T20Is-England-for-ODI-tri-series/108-348514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787216498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-68429b5c",
+    "num": "dailymirrorlk-68429b5c",
+    "date_str": "2026-08-20",
+    "description": "US national debt passes $40tn after doubling in a decade",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-national-debt-passes-40tn-after-doubling-in-a-decade/108-348515",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787216631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-5944edf5",
+    "num": "tamilmirrorlk-5944edf5",
+    "date_str": "2026-08-20",
+    "description": "8 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8: 12 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/8-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8-12-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/50-381687",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787217197.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-ffce9e11",
+    "num": "tamilmirrorlk-ffce9e11",
+    "date_str": "2026-08-20",
+    "description": "\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb2\u0bc2\u0baa\u0bc2\u0b9f\u0bbf\u0ba9\u0bcd   \u0baa\u0bbe\u0ba4\u0ba3\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0bb2\u0bc2\u0baa\u0bc2\u0b9f\u0bbf\u0ba9\u0bcd-\u0baa\u0bbe\u0ba4\u0ba3\u0bbf\u0baf\u0bbe\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd/53-381688",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787217909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-dailymirrorlk-e809c0c3",
+    "num": "dailymirrorlk-e809c0c3",
+    "date_str": "2026-08-20",
+    "description": "Blue Water Hotel denies involvement after dogs found dead near premises",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Blue-Water-Hotel-denies-involvement-after-dogs-found-dead-near-premises/108-348516",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787218040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-957faacf",
+    "num": "tamilmirrorlk-957faacf",
+    "date_str": "2026-08-20",
+    "description": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc0 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc0-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-381690",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787218664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-06cb8c7a",
+    "num": "tamilmirrorlk-06cb8c7a",
+    "date_str": "2026-08-20",
+    "description": "\u0bae\u0bc7\u0bb2\u0bbe\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd \u0bb5\u0bb2\u0bae\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0baa\u0bbe\u0b9f\u0b95\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bae\u0bc7\u0bb2\u0bbe\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd-\u0bb5\u0bb2\u0bae\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4-\u0baa\u0bbf\u0bb0\u0baa\u0bb2-\u0baa\u0bbe\u0b9f\u0b95\u0bbf/54-381693",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787219860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-20-tamilmirrorlk-2b0de654",
+    "num": "tamilmirrorlk-2b0de654",
+    "date_str": "2026-08-20",
+    "description": "\u0b90\u0baf\u0bb0\u0bcd \u0b85\u0bb3\u0bcd\u0bb3\u0bbf\u0baf \u0ba4\u0b99\u0bcd\u0b95 \u0b86\u0baa\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0baf\u0bb0\u0bcd-\u0b85\u0bb3\u0bcd\u0bb3\u0bbf\u0baf-\u0ba4\u0b99\u0bcd\u0b95-\u0b86\u0baa\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-381694",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787220381.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-20 14:02:12",
-  "n_docs": 127985,
+  "time_updated": "2026-08-20 16:00:54",
+  "n_docs": 128001,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 127985,
+  "n_docs_with_text": 128001,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-20",
-  "dataset_size": 1993509858,
+  "dataset_size": 1993844132,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-20-dailymirrorlk-0c4f5360",
-    "num": "dailymirrorlk-0c4f5360",
+    "doc_id": "2026-08-20-tamilmirrorlk-2b0de654",
+    "num": "tamilmirrorlk-2b0de654",
     "date_str": "2026-08-20",
-    "description": "Four bank officials further remanded over US$1 billion outflow scheme",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-bank-officials-further-remanded-over-US-1-billion-outflow-scheme/108-348509",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787214003.0
+    "description": "\u0b90\u0baf\u0bb0\u0bcd \u0b85\u0bb3\u0bcd\u0bb3\u0bbf\u0baf \u0ba4\u0b99\u0bcd\u0b95 \u0b86\u0baa\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0baf\u0bb0\u0bcd-\u0b85\u0bb3\u0bcd\u0bb3\u0bbf\u0baf-\u0ba4\u0b99\u0bcd\u0b95-\u0b86\u0baa\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-381694",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787220381.0
   }
 }
