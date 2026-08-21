@@ -24458,6 +24458,50 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-b63a2913",
+    "num": "dailyftlk-b63a2913",
+    "date_str": "2026-08-22",
+    "description": "Abans joins Dialog Pay merchant ecosystem",
+    "url_metadata": "https://www.ft.lk/business/Abans-joins-Dialog-Pay-merchant-ecosystem/34-796358",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787337241.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-756312ec",
+    "num": "dailyftlk-756312ec",
+    "date_str": "2026-08-22",
+    "description": "Chathuranga visits Custom Denning facilities in Sydney",
+    "url_metadata": "https://www.ft.lk/business/Chathuranga-visits-Custom-Denning-facilities-in-Sydney/34-796359",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787337432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-311067f7",
+    "num": "dailyftlk-311067f7",
+    "date_str": "2026-08-22",
+    "description": "Sri Lanka Expo 2027 promotional event in Melbourne highlights investment and trade opportunities",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Expo-2027-promotional-event-in-Melbourne-highlights-investment-and-trade-opportunities/34-796360",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787337580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-16a5380e",
+    "num": "dailyftlk-16a5380e",
+    "date_str": "2026-08-22",
+    "description": "Neil Marine strengthens boat building capacity with new Dikovita yard",
+    "url_metadata": "https://www.ft.lk/business/Neil-Marine-strengthens-boat-building-capacity-with-new-Dikovita-yard/34-796361",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787337778.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-22-dailyftlk-7f7568f1",
     "num": "dailyftlk-7f7568f1",
     "date_str": "2026-08-22",
@@ -24532,5 +24576,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1787339532.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-9b2de132",
+    "num": "dailyftlk-9b2de132",
+    "date_str": "2026-08-22",
+    "description": "A third way for Sri Lanka \u2013 lifting the rural economy",
+    "url_metadata": "https://www.ft.lk/columns/A-third-way-for-Sri-Lanka-lifting-the-rural-economy/4-796385",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787347373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-162eb290",
+    "num": "dailyftlk-162eb290",
+    "date_str": "2026-08-22",
+    "description": "Sri Lanka\u2019s journey towards Upper Middle Income Status",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-journey-towards-Upper-Middle-Income-Status/4-796386",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787348573.0
   }
 ]
