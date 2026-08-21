@@ -24172,6 +24172,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-12726134",
+    "num": "adalk-12726134",
+    "date_str": "2026-08-21",
+    "description": "\u0d91\u0dbd\u0dca \u0db1\u0dd2\u0db1\u0ddd\u0dc0 \u0da2\u0dd3\u0dc0\u0db8\u0dcf\u0db1 \u0db8\u0dad\u0d9a\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd\u0dad\u0db8 \u0d91\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0da7 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dbd\u0dca-\u0db1\u0dd2\u0db1\u0ddd\u0dc0-\u0da2\u0dd3\u0dc0\u0db8\u0dcf\u0db1-\u0db8\u0dad\u0d9a\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd\u0dad\u0db8-\u0d91\u0d9a\u0d9a\u0dca-\u0dc0\u0dd2\u0dba-\u0dc4\u0dd0\u0d9a\u0dd2-\u0db6\u0dc0\u0da7-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/11-423867",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787305935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-928f1166",
+    "num": "adalk-928f1166",
+    "date_str": "2026-08-21",
+    "description": "2027 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dcf\u0dbb \u0dc4\u0dcf \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d9a\u0dcf\u0dbd\u0dc3\u0da7\u0dc4\u0db1\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2027-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dcf\u0dbb-\u0dc4\u0dcf-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4-\u0d9a\u0dcf\u0dbd\u0dc3\u0da7\u0dc4\u0db1\u0dca-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-423868",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787306230.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-tamilmirrorlk-be3a6731",
     "num": "tamilmirrorlk-be3a6731",
     "date_str": "2026-08-21",
@@ -24180,5 +24202,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787306620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-ed419529",
+    "num": "adalk-ed419529",
+    "date_str": "2026-08-21",
+    "description": "\u0d89\u0db8\u0dca\u0dbb\u0dcf\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba \u0dba\u0dc4\u0db4\u0dad\u0dca, \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db8\u0dca\u0dbb\u0dcf\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba-\u0dba\u0dc4\u0db4\u0dad\u0dca--\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7/11-423869",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787306683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-44c7e01f",
+    "num": "dailymirrorlk-44c7e01f",
+    "date_str": "2026-08-21",
+    "description": "Parliament approves Rs. 7.5 Billion supplementary estimate for Yala paddy purchases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-Rs-7-5-Billion-supplementary-estimate-for-Yala-paddy-purchases/108-348599",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787307432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-16745aad",
+    "num": "dailymirrorlk-16745aad",
+    "date_str": "2026-08-21",
+    "description": "Fake banker, big food order, then theft: Police hunt suspect",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fake-banker-big-food-order-then-theft-Police-hunt-suspect/108-348600",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787307875.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-ff122592",
+    "num": "tamilmirrorlk-ff122592",
+    "date_str": "2026-08-21",
+    "description": "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-381785",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787310346.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-ace51919",
+    "num": "dailymirrorlk-ace51919",
+    "date_str": "2026-08-21",
+    "description": "Heat warning issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heat-warning-issued-for-several-areas/108-348602",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787310757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-bdb04600",
+    "num": "dailymirrorlk-bdb04600",
+    "date_str": "2026-08-21",
+    "description": "Snake undergoes \u2019world-first\u2019 human cancer therapy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Snake-undergoes-world-first-human-cancer-therapy/108-348603",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787311693.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-02dffcc6",
+    "num": "tamilmirrorlk-02dffcc6",
+    "date_str": "2026-08-21",
+    "description": "\u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0baa\u0bb0\u0bcd: \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf \u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0ba8\u0baa\u0bb0\u0bcd-\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b89\u0ba4\u0bb5\u0bbf-\u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd/175-381786",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787311705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-c2bb85b0",
+    "num": "dailymirrorlk-c2bb85b0",
+    "date_str": "2026-08-21",
+    "description": "Excessive lighting at temple festival in Jaffna leaves hundreds with vision problems",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Excessive-lighting-at-temple-festival-in-Jaffna-leaves-hundreds-with-vision-problems/108-348604",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787312513.0
   }
 ]
