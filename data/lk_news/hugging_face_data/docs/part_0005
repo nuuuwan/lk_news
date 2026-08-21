@@ -24260,6 +24260,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-4dfb52eb",
+    "num": "dailymirrorlk-4dfb52eb",
+    "date_str": "2026-08-21",
+    "description": "Final respects for Nanda Malini",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Final-respects-for-Nanda-Malini/110-348601",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787308603.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-adalk-e84ee9ab",
     "num": "adalk-e84ee9ab",
     "date_str": "2026-08-21",
@@ -24348,6 +24359,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-c6773d09",
+    "num": "dailymirrorlk-c6773d09",
+    "date_str": "2026-08-21",
+    "description": "Japan hangs man convicted of killing 5 people in pachinko parlor fire",
+    "url_metadata": "https://www.dailymirror.lk/international/Japan-hangs-man-convicted-of-killing-5-people-in-pachinko-parlor-fire/107-348605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787316228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-3ec632dd",
+    "num": "dailymirrorlk-3ec632dd",
+    "date_str": "2026-08-21",
+    "description": "Hashan Tillakaratne appointed Sri Lanka batting coach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hashan-Tillakaratne-appointed-Sri-Lanka-batting-coach/108-348606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787319389.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-tamilmirrorlk-a2a0e19a",
     "num": "tamilmirrorlk-a2a0e19a",
     "date_str": "2026-08-21",
@@ -24367,5 +24400,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787322539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-888f68b0",
+    "num": "dailymirrorlk-888f68b0",
+    "date_str": "2026-08-21",
+    "description": "Over 1,600 fatal road accidents reported so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1-600-fatal-road-accidents-reported-so-far-this-year/108-348609",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787327195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-4982f60b",
+    "num": "dailymirrorlk-4982f60b",
+    "date_str": "2026-08-21",
+    "description": "Suresh Sallay\u2019s wife urges President not to extend detention order",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suresh-Sallays-wife-urges-President-not-to-extend-detention-order/108-348610",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787327578.0
   }
 ]
