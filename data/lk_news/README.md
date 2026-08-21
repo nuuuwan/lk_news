@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_06:05:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_08:27:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,043** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,064** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-21-tamilmirrorlk-19200058",
-    "num": "tamilmirrorlk-19200058",
+    "doc_id": "2026-08-21-tamilmirrorlk-b9059171",
+    "num": "tamilmirrorlk-b9059171",
     "date_str": "2026-08-21",
-    "description": "\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbe?",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95-\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbe/175-381749",
+    "description": "\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc7 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 5 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc7-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd-\u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-5-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/150-381756",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787265600.0
+    "time_ut": 1787280180.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-21 | `tamilmirrorlk-b9059171` | விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-b9059171)
+- 2026-08-21 | `dailymirrorlk-fc26ee7a` | Tipper-tractor crash claims five lives in Monaragala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-fc26ee7a)
+- 2026-08-21 | `dailyftlk-6956b72e` | Uniformity without discrimination: Revisiting the health workers’ dress code | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-6956b72e)
+- 2026-08-21 | `tamilmirrorlk-653743bf` | இன்றும் மழை பெய்யும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-653743bf)
+- 2026-08-21 | `adalk-8ac4e5b6` | අපිත් ඔහොම කළා පස්සේ තමයි තේරුණේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-8ac4e5b6)
+- 2026-08-21 | `dailyftlk-add044f0` | Sri Lanka’s reform Government is testing judicial independence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-add044f0)
+- 2026-08-21 | `adalk-076ea2e9` | ජාතියේ ගායිකාවගේ දේහය අද නන්දා මාලනි සංගීත ආශ්‍රමයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-076ea2e9)
+- 2026-08-21 | `dailyftlk-59fe3033` | Stability was the first step; Sri Lanka now needs development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-59fe3033)
+- 2026-08-21 | `dailyftlk-3c6b8b56` | The TT transfer crisis: A total regulatory and Customs failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-3c6b8b56)
+- 2026-08-21 | `dailyftlk-2639e3b4` | Institutional insights for Sri Lanka from Dubai International Financial Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-2639e3b4)
+- 2026-08-21 | `dailyftlk-c364894e` | Sri Lanka’s platform for next generation of global businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-c364894e)
+- 2026-08-21 | `dailyftlk-01de0543` | Shanakiyan calls on Govt. to urgently ensure uninterrupted Filgrastim supply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-01de0543)
+- 2026-08-21 | `dailyftlk-898b630a` | Cabinet fast-tracks National Medicinal Drug Policy 2026-2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-898b630a)
+- 2026-08-21 | `dailyftlk-a224ccba` | Port City Colombo welcomes high-level Omani delegation, deepening investment ties between Oman and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-a224ccba)
+- 2026-08-21 | `dailyftlk-4ec6dfe9` | EO Sri Lanka begins new chapter under President Abeetha Perera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-4ec6dfe9)
+- 2026-08-21 | `dailyftlk-1c9d21e4` | EDB and Global Electronics Association India jointly hold first-ever workshop in capacity building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-1c9d21e4)
+- 2026-08-21 | `dailyftlk-4e3c6cef` | Tony Ganlath elected President of Sri Lanka-Malaysia Business Council | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-4e3c6cef)
+- 2026-08-21 | `adalk-0c4fd9bf` | DFCC බැංකුව ’ගරුසරු’ විශ්‍රාම ණය පහසුකම ලක්ෂ 120ක් දක්වා නංවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-0c4fd9bf)
+- 2026-08-21 | `tamilmirrorlk-90a1f202` | வடக்கு, கிழக்கு காணி விடுவிப்பு குறித்த ஜனாதிபதி தலைமையில் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-90a1f202)
 - 2026-08-21 | `tamilmirrorlk-19200058` | மகாநாயக்க தேரர்கள் திருடர்களா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-19200058)
-- 2026-08-21 | `tamilmirrorlk-ab039924` | புற்றுநோய் மருந்து பற்றாக்குறைக்கு ஒரு வாரத்தில் தீர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-ab039924)
-- 2026-08-21 | `tamilmirrorlk-22d21234` | ஆசிரியர்களின் சம்பள குற்றச்சாட்டு உண்மைக்குப் புறம்பானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-22d21234)
-- 2026-08-21 | `tamilmirrorlk-28dfa16c` | ஒரு வேளை சாப்பாட்டை எல் நினோ பாதிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-28dfa16c)
-- 2026-08-20 | `dailymirrorlk-d9e4e2c5` | Three-day national mourning declared for late Nanda Malani | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-d9e4e2c5)
-- 2026-08-20 | `tamilmirrorlk-84fd9618` | மூன்றாவது கும்பல் பெரஹரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-84fd9618)
-- 2026-08-20 | `tamilmirrorlk-92e065cb` | அதிப​ரை கொன்று கோவாவுக்கு சுற்றுலா சென்ற மாணவர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-92e065cb)
-- 2026-08-20 | `dailymirrorlk-a2e1561f` | Final rites of late Nanda Malani to be held on Saturday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-a2e1561f)
-- 2026-08-20 | `tamilmirrorlk-e78e7d6a` | விடுதலைப் புலிகளின் பயிற்சி முகாம் குறித்த உண்மை தகவல் வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-e78e7d6a)
-- 2026-08-20 | `tamilmirrorlk-288cd4f5` | கச்சா எண்ணெய் விலை மீண்டும் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-288cd4f5)
-- 2026-08-20 | `tamilmirrorlk-3aee1cf0` | சஷி வீரவன்சவுக்கு மீண்டும் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-3aee1cf0)
-- 2026-08-20 | `dailymirrorlk-1249c585` | Rs. 300,000 fine for substandard helmets, expired baby milk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-1249c585)
-- 2026-08-20 | `tamilmirrorlk-6d2a1fab` | ஞானசார தேரரின் பாதுகாப்பு அதிகாரி  உயிரை மாய்த்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-6d2a1fab)
-- 2026-08-20 | `tamilmirrorlk-febbb399` | நந்தா மாலினி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-tamilmirrorlk-febbb399)
-- 2026-08-20 | `dailymirrorlk-22732c0b` | Catholic Bishops’ Conference expresses concern over 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-22732c0b)
-- 2026-08-20 | `dailymirrorlk-abcbf519` | Telangana Boy Stabbed Principal 27 Times. How His Lavish Lifestyle Busted Him | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-abcbf519)
-- 2026-08-20 | `adalk-8c2174b2` | නන්දා මාලනී දිවිසැරිය නිම කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-adalk-8c2174b2)
-- 2026-08-20 | `dailymirrorlk-349899e9` | Veteran singer Nanda Malini dies at 82 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-349899e9)
-- 2026-08-20 | `dailymirrorlk-ed64ae19` | Police officer allegedly commits suicide at temple | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-ed64ae19)
-- 2026-08-20 | `dailymirrorlk-6cbb463a` | Chamber of Commerce Nuwara Eliya marks first anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-20-dailymirrorlk-6cbb463a)
 
 ---
 

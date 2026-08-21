@@ -1,0 +1,83 @@
+The TT transfer crisis: A total regulatory and Customs failure
+
+I refer to the articles published in your esteemed paper. The blame has been disproportionately placed on the banking system, while the critical responsibilities of the Central Bank and Customs are being overlooked.
+
+The current crisis surrounding suspicious telegraphic transfers (TTs) involving 14 Banks only one exposed so far publicly by the media should not be treated simply as a banking-sector failure. Most banks operate strictly within the regulations and supervisory framework established by the Central Bank of Sri Lanka (CBSL), with the objective of ensuring compliance and avoiding regulatory sanctions.
+
+If the facts emerging are accurate, Sri Lanka is in fact confronting something far more serious: a systemic breakdown involving banks, Customs, the Financial Intelligence Unit (FIU), regulators, and law-enforcement authorities. Also a total lack of real time coordination.
+
+The central issue may not necessarily be that goods never entered the country. A more complex and plausible scenario is that legitimate companies imported goods through normal channels but declared values below their actual purchase prices, while the balance was settled through TT transfers. In such cases, the goods do enter Sri Lanka, but the declared import value is understated, potentially depriving the State of customs duties, taxes, and other revenue.
+
+This distinction is critical. Before law enforcement draws conclusions based solely on TT transactions, it must establish whether those transfers can be reconciled with goods entering Sri Lanka through airports, courier services, postal channels, or other import routes.
+
+At present, there appears to be no sufficiently integrated system to systematically reconcile banking transactions with customs declarations and the actual physical movement of goods. This creates a significant blind spot in the national financial oversight framework.
+
+The issue is therefore not merely one of suspicious banking transactions. It is potentially a wider problem of trade-based financial crime, customs under-valuation, and systemic revenue leakage.
+
+There is also a broader parallel with digital and over-the-top (OTT) services, where payments are often collected offshore while economic activity takes place within Sri Lanka. If the Inland Revenue Department has limited visibility over such transactions, the State can similarly lose significant revenue without any single institution necessarily appearing to be in breach.
+
+The most important question is not simply who executed the transactions. It is how a system allowed potentially suspicious activity through the Havala network to continue for such an extended period—possibly 20 to 25 years—without effective intervention.
+
+One particularly troubling issue is the reported long-term weakness of the Customs system, dating back to 2012.
+
+If the system was dysfunctional or materially weakened for more than a decade, this raises fundamental questions about governance, oversight, and accountability.
+
+Customs is a critical line of defence against trade-based financial crime. Import and export documentation, declared values, counterparties, and the physical movement of goods should collectively provide essential intelligence for identifying under-invoicing, fraudulent trade, and potential money laundering. Banks cannot be expected to perform the functions of Customs or FIU .
+
+A bank only sees the information available to it: its customer, the account, the transaction, supporting documentation, and the customer’s stated purpose. It does not have direct visibility over whether the declared value of goods entering the country corresponds to their actual value unless that information is independently verified and made available through an effective Government system. This is precisely why the banking system must be connected to Customs and other relevant Government databases.
+
+Equally important is the role of the Financial Intelligence Unit (FIU).Banks are required to submit Suspicious Transaction Reports (STRs) when transactions give rise to reasonable suspicion. However, filing an STR cannot be the end of the process. Should be the start for an investigation . The purpose of the FIU is to analyse financial intelligence, identify patterns, connect transactions across institutions, and where appropriate, refer matters to law enforcement while providing feedback and guidance to reporting institutions. Are they doing it? If STRs relating to these transactions were submitted, the obvious question is: What did the FIU do with that information? Has the FCID questioned the Director FIU?
+
+If suspicious patterns were visible across multiple accounts, customers, or institutions, why were they not identified and acted upon earlier? Before it become 1 Billion USD? If the FIU did not receive STRs, then the question shifts to whether banks fully discharged their reporting obligations and whether the regulatory framework itself was effective. Banks do for fear of retribution. Either way, the complete chain of responsibility must be examined.
+
+There is, of course, a legitimate question regarding the role of banks themselves.
+
+Banks have a responsibility to conduct proper Know Your Customer (KYC), transaction monitoring, and enhanced due diligence. Commercial pressure to acquire customers or increase transaction volumes can never justify weakening these controls.
+
+If bank employees deliberately bypassed controls, concealed information, or accepted bribes, they must face appropriate disciplinary and legal consequences. Individual misconduct cannot and should not be tolerated. However, it would be wrong to end the investigation there. Happily blame it on the Banks.
+
+Regulators must also examine whether banks were adequately supervised, whether weaknesses in KYC and transaction monitoring were repeatedly identified, whether corrective action was mandated, and whether such action was actually implemented.
+
+A regulatory framework is only as strong as its enforcement.
+
+At the same time, banks cannot be expected to determine matters that are fundamentally outside their field of visibility. They cannot independently verify every overseas supplier, the true commercial value of every imported product, or whether goods declared to Customs actually entered the country through airports, courier services, or postal channels.
+
+Law-enforcement agencies investigating these transactions would also benefit from specialist expertise in banking, trade finance, Customs procedures, and transaction monitoring.
+
+It is essential to understand how TT transactions actually function before drawing conclusions based solely on transaction volumes.
+
+A large TT flow is not, by itself, evidence of money laundering or fraud. Investigators must establish the underlying economic activity: who paid whom, for what goods or services, at what declared value, through which channel the goods entered the country, and whether the banking transaction aligns with the underlying commercial transaction.
+
+The investigation should therefore reconcile TT flows with Customs declarations, import documentation, courier and postal records, airport cargo data, and other relevant information.
+
+Without such reconciliation, there is a real risk of mistaking a symptom for the underlying problem.
+
+This crisis should therefore lead to a comprehensive review of the entire chain: Customs, banks, the FIU, CBSL, tax authorities, regulators, and law enforcement.
+
+Whether under-invoicing or other forms of trade-based financial crime were identified
+
+Sri Lanka cannot afford a narrow investigation focused only on individual transactions or individual low level bank employees.
+
+If institutional weaknesses enabled suspicious transfers to continue for years, accountability must extend to the institutions responsible for preventing, detecting, and acting upon those weaknesses.
+
+The objective should not be to protect any bank or individual, nor to shift blame between institutions.
+
+The objective must be to establish the facts and fix the system.
+
+If every suspicious TT transaction is automatically treated as evidence of banking misconduct, without examining the underlying trade and regulatory failures, there is a real risk of undermining confidence in Sri Lanka’s banking system.
+
+Banks are essential intermediaries in a modern economy. They are expected to facilitate legitimate business while complying with increasingly complex regulatory requirements. They must apply KYC and AML controls, but they cannot replace Customs, the FIU, the tax authorities, or law enforcement.
+
+A sound financial system requires three elements: strong controls, effective supervision, and timely enforcement.
+
+Where one of these fails, financial crime can flourish. Where several fail simultaneously, the consequences can be far more severe.
+
+The TT transfer crisis should therefore become a turning point.Sri Lanka needs an independent, end-to-end review of its trade, banking, customs, and financial intelligence architecture. The objective must be to identify precisely where the system broke down and why.The most important question is no longer simply:
+
+Law enforcement must investigate wrongdoing wherever it exists. However, investigations must be grounded in a correct understanding of how banking, trade, and Customs systems actually operate.
+
+If the authorities reduce the crisis to a banking failure alone, without examining its deeper structural causes, they risk punishing individual institutions while leaving systemic weaknesses untouched.
+
+It could instead damage confidence in the banking system while allowing the real vulnerabilities to persist. Sri Lanka now has an opportunity to learn from this crisis. The solution is not to weaken the banking system through indiscriminate blame, but to build an integrated framework in which banks, Customs, the FIU, tax authorities, regulators, and law enforcement can share information, identify risks, and act before problems escalate into crises.
+
+The country needs accountability—but it also needs intelligent regulation, accountability from Government institutions like CBSL and Customs and institutional coordination, and a clear understanding of where the real failures occurred. It is now or never for Sri Lanka.

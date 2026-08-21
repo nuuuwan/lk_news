@@ -21653,6 +21653,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-03fd24f2",
+    "num": "adalk-03fd24f2",
+    "date_str": "2026-08-20",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u2019YES Infinity 2026\u2019 \u0dc3\u0db8\u0d9c \u0dad\u0dbb\u0dd4\u0dab \u0db4\u0dbb\u0db4\u0dd4\u0dbb\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0dbb\u0dd0\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u2019YES-Infinity-2026\u2019-\u0dc3\u0db8\u0d9c-\u0dad\u0dbb\u0dd4\u0dab-\u0db4\u0dbb\u0db4\u0dd4\u0dbb\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca/7-423838",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787186137.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-adalk-1cb955a3",
     "num": "adalk-1cb955a3",
     "date_str": "2026-08-20",
@@ -22753,6 +22764,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-20-adalk-b1e9ce55",
+    "num": "adalk-b1e9ce55",
+    "date_str": "2026-08-20",
+    "description": "\u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0\u0dda \u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0d8b\u0d9c\u0dca\u200d\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0\u0dda-\u0dc0\u0dd2\u0dba\u0dc5\u0dd2-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4-\u0d8b\u0d9c\u0dca\u200d\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/11-423849",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787226007.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-20-adalk-9ed1c850",
     "num": "adalk-9ed1c850",
     "date_str": "2026-08-20",
@@ -23091,5 +23113,214 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787265600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-90a1f202",
+    "num": "tamilmirrorlk-90a1f202",
+    "date_str": "2026-08-21",
+    "description": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1, \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0ba3\u0bbf \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0ba3\u0bbf-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-381754",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787267137.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-0c4fd9bf",
+    "num": "adalk-0c4fd9bf",
+    "date_str": "2026-08-21",
+    "description": "DFCC \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u2019\u0d9c\u0dbb\u0dd4\u0dc3\u0dbb\u0dd4\u2019 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dab\u0dba \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8 \u0dbd\u0d9a\u0dca\u0dc2 120\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db1\u0d82\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/DFCC-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u2019\u0d9c\u0dbb\u0dd4\u0dc3\u0dbb\u0dd4\u2019-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dab\u0dba-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8-\u0dbd\u0d9a\u0dca\u0dc2-120\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0db1\u0d82\u0dc0\u0dba\u0dd2/7-423855",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787271821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-4e3c6cef",
+    "num": "dailyftlk-4e3c6cef",
+    "date_str": "2026-08-21",
+    "description": "Tony Ganlath elected President of Sri Lanka-Malaysia Business Council",
+    "url_metadata": "https://www.ft.lk/business/Tony-Ganlath-elected-President-of-Sri-Lanka-Malaysia-Business-Council/34-796310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787272744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-1c9d21e4",
+    "num": "dailyftlk-1c9d21e4",
+    "date_str": "2026-08-21",
+    "description": "EDB and Global Electronics Association India jointly hold first-ever workshop in capacity building",
+    "url_metadata": "https://www.ft.lk/business/EDB-and-Global-Electronics-Association-India-jointly-hold-first-ever-workshop-in-capacity-building/34-796311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787272805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-4ec6dfe9",
+    "num": "dailyftlk-4ec6dfe9",
+    "date_str": "2026-08-21",
+    "description": "EO Sri Lanka begins new chapter under President Abeetha Perera",
+    "url_metadata": "https://www.ft.lk/business/EO-Sri-Lanka-begins-new-chapter-under-President-Abeetha-Perera/34-796312",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787272884.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-a224ccba",
+    "num": "dailyftlk-a224ccba",
+    "date_str": "2026-08-21",
+    "description": "Port City Colombo welcomes high-level Omani delegation, deepening investment ties between Oman and Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-welcomes-high-level-Omani-delegation-deepening-investment-ties-between-Oman-and-Sri-Lanka/34-796313",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787272954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-898b630a",
+    "num": "dailyftlk-898b630a",
+    "date_str": "2026-08-21",
+    "description": "Cabinet fast-tracks National Medicinal Drug Policy 2026-2030",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-fast-tracks-National-Medicinal-Drug-Policy-2026-2030/56-796314",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787273007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-01de0543",
+    "num": "dailyftlk-01de0543",
+    "date_str": "2026-08-21",
+    "description": "Shanakiyan calls on Govt. to urgently ensure uninterrupted Filgrastim supply",
+    "url_metadata": "https://www.ft.lk/news/Shanakiyan-calls-on-Govt-to-urgently-ensure-uninterrupted-Filgrastim-supply/56-796315",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787273076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-c364894e",
+    "num": "dailyftlk-c364894e",
+    "date_str": "2026-08-21",
+    "description": "Sri Lanka\u2019s platform for next generation of global businesses",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-platform-for-next-generation-of-global-businesses/4-796316",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787273280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-2639e3b4",
+    "num": "dailyftlk-2639e3b4",
+    "date_str": "2026-08-21",
+    "description": "Institutional insights for Sri Lanka from Dubai International Financial Centre",
+    "url_metadata": "https://www.ft.lk/columns/Institutional-insights-for-Sri-Lanka-from-Dubai-International-Financial-Centre/4-796317",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787273601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-3c6b8b56",
+    "num": "dailyftlk-3c6b8b56",
+    "date_str": "2026-08-21",
+    "description": "The TT transfer crisis: A total regulatory and Customs failure",
+    "url_metadata": "https://www.ft.lk/columns/The-TT-transfer-crisis-A-total-regulatory-and-Customs-failure/4-796319",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787273953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-59fe3033",
+    "num": "dailyftlk-59fe3033",
+    "date_str": "2026-08-21",
+    "description": "Stability was the first step; Sri Lanka now needs development",
+    "url_metadata": "https://www.ft.lk/columns/Stability-was-the-first-step-Sri-Lanka-now-needs-development/4-796320",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787274416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-076ea2e9",
+    "num": "adalk-076ea2e9",
+    "date_str": "2026-08-21",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0dba\u0dda \u0d9c\u0dcf\u0dba\u0dd2\u0d9a\u0dcf\u0dc0\u0d9c\u0dda \u0daf\u0dda\u0dc4\u0dba \u0d85\u0daf \u0db1\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dcf\u0dbd\u0db1\u0dd2 \u0dc3\u0d82\u0d9c\u0dd3\u0dad \u0d86\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0dba\u0dda-\u0d9c\u0dcf\u0dba\u0dd2\u0d9a\u0dcf\u0dc0\u0d9c\u0dda-\u0daf\u0dda\u0dc4\u0dba-\u0d85\u0daf-\u0db1\u0db1\u0dca\u0daf\u0dcf-\u0db8\u0dcf\u0dbd\u0db1\u0dd2-\u0dc3\u0d82\u0d9c\u0dd3\u0dad-\u0d86\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/11-423857",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787275926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-add044f0",
+    "num": "dailyftlk-add044f0",
+    "date_str": "2026-08-21",
+    "description": "Sri Lanka\u2019s reform Government is testing judicial independence",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-reform-Government-is-testing-judicial-independence/4-796321",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787276420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-8ac4e5b6",
+    "num": "adalk-8ac4e5b6",
+    "date_str": "2026-08-21",
+    "description": "\u0d85\u0db4\u0dd2\u0dad\u0dca \u0d94\u0dc4\u0ddc\u0db8 \u0d9a\u0dc5\u0dcf \u0db4\u0dc3\u0dca\u0dc3\u0dda \u0dad\u0db8\u0dba\u0dd2 \u0dad\u0dda\u0dbb\u0dd4\u0dab\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db4\u0dd2\u0dad\u0dca-\u0d94\u0dc4\u0ddc\u0db8-\u0d9a\u0dc5\u0dcf-\u0db4\u0dc3\u0dca\u0dc3\u0dda-\u0dad\u0db8\u0dba\u0dd2-\u0dad\u0dda\u0dbb\u0dd4\u0dab\u0dda/11-423858",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787276916.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-653743bf",
+    "num": "tamilmirrorlk-653743bf",
+    "date_str": "2026-08-21",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-381755",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787277792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailyftlk-6956b72e",
+    "num": "dailyftlk-6956b72e",
+    "date_str": "2026-08-21",
+    "description": "Uniformity without discrimination: Revisiting the health workers\u2019 dress code",
+    "url_metadata": "https://www.ft.lk/columns/Uniformity-without-discrimination-Revisiting-the-health-workers-dress-code/4-796323",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787279347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-fc26ee7a",
+    "num": "dailymirrorlk-fc26ee7a",
+    "date_str": "2026-08-21",
+    "description": "Tipper-tractor crash claims five lives in Monaragala",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tipper-tractor-crash-claims-five-lives-in-Monaragala/108-348543",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787279710.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-b9059171",
+    "num": "tamilmirrorlk-b9059171",
+    "date_str": "2026-08-21",
+    "description": "\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc7 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 5 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc7-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd-\u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-5-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/150-381756",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787280180.0
   }
 ]
