@@ -23886,6 +23886,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-9696e153",
+    "num": "adalk-9696e153",
+    "date_str": "2026-08-21",
+    "description": "\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2 \u0dc3\u0dc4 \u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0db8\u0da7\u0dca\u0da7\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d9a\u0dcf\u0dc3\u0dbd\u0dca\u0dbb\u0dd2-\u0dc3\u0dc4-\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda-\u0db4\u0dd2\u0da7\u0dcf\u0dbb-\u0db8\u0da7\u0dca\u0da7\u0db8\u0da7/10-423865",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787291095.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-tamilmirrorlk-719ca0f0",
     "num": "tamilmirrorlk-719ca0f0",
     "date_str": "2026-08-21",
@@ -23894,6 +23905,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787291460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-216088b5",
+    "num": "adalk-216088b5",
+    "date_str": "2026-08-21",
+    "description": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0 \u0db4\u0dbd\u0dad\u0dd4\u0dbb\u0dd4 \u0d89\u0daf\u0dc0\u0db1 \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dd4\u0db1\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd0\u0da9\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dc5\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0db4\u0dbd\u0dad\u0dd4\u0dbb\u0dd4-\u0d89\u0daf\u0dc0\u0db1-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dd4\u0db1\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dd0\u0da9\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dc5\u0d9a\u0dca/11-423866",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787291564.0
   },
   {
     "doc_type": "lk_news",
@@ -24062,6 +24084,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-b533c825",
+    "num": "dailymirrorlk-b533c825",
+    "date_str": "2026-08-21",
+    "description": "\u2019\u2019Profood Propack & Agbiz 2026\u2019\u2019",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Profood-Propack-Agbiz-2026/110-348592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787300668.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-dailymirrorlk-efc05797",
     "num": "dailymirrorlk-efc05797",
     "date_str": "2026-08-21",
@@ -24070,5 +24103,82 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787300699.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-502e009e",
+    "num": "dailymirrorlk-502e009e",
+    "date_str": "2026-08-21",
+    "description": "Sri Lankan rescuers win long-term Korean visas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-rescuers-win-long-term-Korean-visas/108-348594",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787301340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-3f14ccad",
+    "num": "tamilmirrorlk-3f14ccad",
+    "date_str": "2026-08-21",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/62-381767",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787302569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-b009e0c6",
+    "num": "dailymirrorlk-b009e0c6",
+    "date_str": "2026-08-21",
+    "description": "SLPP files petition against 22nd amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-files-petition-against-22nd-amendment/108-348595",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787304541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-feef7b5b",
+    "num": "dailymirrorlk-feef7b5b",
+    "date_str": "2026-08-21",
+    "description": "Iran vows \u2019devastating\u2019 response as US threatens toughest ever economic hit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-vows-devastating-response-as-US-threatens-toughest-ever-economic-hit/108-348596",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787304945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-42f28d39",
+    "num": "dailymirrorlk-42f28d39",
+    "date_str": "2026-08-21",
+    "description": "Namal leaves FCID after six-hour statement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-leaves-FCID-after-six-hour-statement/108-348597",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787305402.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-eba5ca1d",
+    "num": "tamilmirrorlk-eba5ca1d",
+    "date_str": "2026-08-21",
+    "description": "2027 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0b95\u0bbe\u0bb2 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8 \u0bb5\u0bcc\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2027-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0b95\u0bbe\u0bb2-\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8-\u0bb5\u0bcc\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-381768",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787305536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-be3a6731",
+    "num": "tamilmirrorlk-be3a6731",
+    "date_str": "2026-08-21",
+    "description": "\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0ba4\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0b87\u0b9f\u0bbf\u0baf\u0baa\u0bcd\u0baa \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc8-\u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0ba4\u0bcd-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0b9f\u0bbf\u0baf\u0baa\u0bcd\u0baa-\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/73-381769",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787306620.0
   }
 ]
