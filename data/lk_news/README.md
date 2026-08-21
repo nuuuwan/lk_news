@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_10:06:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_12:06:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,079** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,090** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-21-tamilmirrorlk-365ace78",
-    "num": "tamilmirrorlk-365ace78",
+    "doc_id": "2026-08-21-dailymirrorlk-cefe6f8d",
+    "num": "dailymirrorlk-cefe6f8d",
     "date_str": "2026-08-21",
-    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd: \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381757",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787286701.0
+    "description": "Sri Lanka becomes new transshipment hub for Lamborghinis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-becomes-new-transshipment-hub-for-Lamborghinis/108-348578",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787292738.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-21 | `dailymirrorlk-cefe6f8d` | Sri Lanka becomes new transshipment hub for Lamborghinis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-cefe6f8d)
+- 2026-08-21 | `tamilmirrorlk-719ca0f0` | நிதி குற்றப் புலனாய்வுப் பிரிவில் ஆஜரானார் நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-719ca0f0)
+- 2026-08-21 | `dailymirrorlk-e79802da` | High Court acquits technical officer in Rs. 40,000 bribery case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-e79802da)
+- 2026-08-21 | `tamilmirrorlk-9bac29cb` | நந்தா மாலினியை நினைவு கூர்ந்த பாராளுமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-9bac29cb)
+- 2026-08-21 | `tamilmirrorlk-17411743` | தொடர் மழையால் நீர் மட்டம் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-17411743)
+- 2026-08-21 | `tamilmirrorlk-659c3a82` | சிறைச்சாலைச் சுவருக்கு வெளியே நின்று பட்டச் சான்றிதழைக் காட்டிய சிறுமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-659c3a82)
+- 2026-08-21 | `dailymirrorlk-ae40884a` | Poor engine condition caused Colombo-KKS train breakdown: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-ae40884a)
+- 2026-08-21 | `dailymirrorlk-b5eac6c5` | Cartoon of the Day 21-08-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-b5eac6c5)
+- 2026-08-21 | `dailymirrorlk-263a7d50` | Parliament pays tribute to late singer Nanda Malini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-263a7d50)
 - 2026-08-21 | `tamilmirrorlk-365ace78` | பொலிஸாருக்கு இலஞ்சம்: ஐவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-365ace78)
 - 2026-08-21 | `dailymirrorlk-1fdece84` | Namal appears before Police FCID | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-1fdece84)
 - 2026-08-21 | `dailymirrorlk-99dd7e8a` | Two reservoirs reach overflow levels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-99dd7e8a)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-08-21 | `dailymirrorlk-18098df9` | Programme planned to certify chemical-free fruits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-18098df9)
 - 2026-08-21 | `tamilmirrorlk-b9059171` | விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-b9059171)
 - 2026-08-21 | `adalk-f1be5578` | ටිපර් හා ට්‍රැක්ටර් ගැටී පහක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-f1be5578)
-- 2026-08-21 | `dailymirrorlk-fc26ee7a` | Tipper-tractor crash claims five lives in Monaragala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-fc26ee7a)
-- 2026-08-21 | `dailyftlk-6956b72e` | Uniformity without discrimination: Revisiting the health workers’ dress code | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-6956b72e)
-- 2026-08-21 | `tamilmirrorlk-653743bf` | இன்றும் மழை பெய்யும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-653743bf)
-- 2026-08-21 | `adalk-340f2667` | නන්දා මාලනිය වෙනුවෙන් තෙදිනක ශෝක කාලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-340f2667)
-- 2026-08-21 | `adalk-8ac4e5b6` | අපිත් ඔහොම කළා පස්සේ තමයි තේරුණේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-8ac4e5b6)
-- 2026-08-21 | `dailyftlk-add044f0` | Sri Lanka’s reform Government is testing judicial independence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-add044f0)
-- 2026-08-21 | `adalk-076ea2e9` | ජාතියේ ගායිකාවගේ දේහය අද නන්දා මාලනි සංගීත ආශ්‍රමයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-076ea2e9)
-- 2026-08-21 | `dailyftlk-59fe3033` | Stability was the first step; Sri Lanka now needs development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-59fe3033)
-- 2026-08-21 | `dailyftlk-3c6b8b56` | The TT transfer crisis: A total regulatory and Customs failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailyftlk-3c6b8b56)
 
 ---
 

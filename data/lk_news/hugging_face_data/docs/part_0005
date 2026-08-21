@@ -23347,6 +23347,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-4259a1c7",
+    "num": "adalk-4259a1c7",
+    "date_str": "2026-08-21",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1 \u0daf\u0dad\u0dca\u0dad \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0db6\u0dd2\u0db3 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1-\u0daf\u0dad\u0dca\u0dad-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0db6\u0dd2\u0db3-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/11-423860",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787278453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-a6b67e72",
+    "num": "adalk-a6b67e72",
+    "date_str": "2026-08-21",
+    "description": "2025 \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0dca\u0da2\u0db1 \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca \u0daf\u0dd2\u0db1 14691\u0d9a\u0dca \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0dca\u0da2\u0db1-\u0db1\u0dd2\u0dc3\u0dcf-\u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca-\u0daf\u0dd2\u0db1-14691\u0d9a\u0dca-\u0d85\u0dc4\u0dd2\u0db8\u0dd2-\u0dc0\u0dd9\u0dbd\u0dcf/11-423861",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787278962.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-dailyftlk-6956b72e",
     "num": "dailyftlk-6956b72e",
     "date_str": "2026-08-21",
@@ -23487,5 +23509,104 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787286701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-263a7d50",
+    "num": "dailymirrorlk-263a7d50",
+    "date_str": "2026-08-21",
+    "description": "Parliament pays tribute to late singer Nanda Malini",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-pays-tribute-to-late-singer-Nanda-Malini/108-348574",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787287450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-b5eac6c5",
+    "num": "dailymirrorlk-b5eac6c5",
+    "date_str": "2026-08-21",
+    "description": "Cartoon of the Day 21-08-2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cartoon-of-the-Day-21-08-2026/273-348575",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787287533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-ae40884a",
+    "num": "dailymirrorlk-ae40884a",
+    "date_str": "2026-08-21",
+    "description": "Poor engine condition caused Colombo-KKS train breakdown: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Poor-engine-condition-caused-Colombo-KKS-train-breakdown-Deputy-Minister/108-348576",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787287569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-659c3a82",
+    "num": "tamilmirrorlk-659c3a82",
+    "date_str": "2026-08-21",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b9a\u0bcd-\u0b9a\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7-\u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd-\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf/50-381758",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787288969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-17411743",
+    "num": "tamilmirrorlk-17411743",
+    "date_str": "2026-08-21",
+    "description": "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0bae\u0bb4\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0b9f\u0bb0\u0bcd-\u0bae\u0bb4\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0ba8\u0bc0\u0bb0\u0bcd-\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381759",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787289118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-9bac29cb",
+    "num": "tamilmirrorlk-9bac29cb",
+    "date_str": "2026-08-21",
+    "description": "\u0ba8\u0ba8\u0bcd\u0ba4\u0bbe \u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0b95\u0bc2\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0ba8\u0bcd\u0ba4\u0bbe-\u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0baf\u0bc8-\u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1-\u0b95\u0bc2\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd/175-381760",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787289711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-e79802da",
+    "num": "dailymirrorlk-e79802da",
+    "date_str": "2026-08-21",
+    "description": "High Court acquits technical officer in Rs. 40,000 bribery case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-Court-acquits-technical-officer-in-Rs-40-000-bribery-case/108-348577",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787290740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-tamilmirrorlk-719ca0f0",
+    "num": "tamilmirrorlk-719ca0f0",
+    "date_str": "2026-08-21",
+    "description": "\u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0ba9\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b86\u0b9c\u0bb0\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0bae\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0ba4\u0bbf-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd-\u0baa\u0bc1\u0bb2\u0ba9\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd-\u0b86\u0b9c\u0bb0\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd/175-381761",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787291460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-cefe6f8d",
+    "num": "dailymirrorlk-cefe6f8d",
+    "date_str": "2026-08-21",
+    "description": "Sri Lanka becomes new transshipment hub for Lamborghinis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-becomes-new-transshipment-hub-for-Lamborghinis/108-348578",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787292738.0
   }
 ]
