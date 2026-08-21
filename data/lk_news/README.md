@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--21_22:34:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_00:28:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,164** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-21-dailymirrorlk-4982f60b",
-    "num": "dailymirrorlk-4982f60b",
-    "date_str": "2026-08-21",
-    "description": "Suresh Sallay\u2019s wife urges President not to extend detention order",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suresh-Sallays-wife-urges-President-not-to-extend-detention-order/108-348610",
+    "doc_id": "2026-08-22-dailyftlk-7f7568f1",
+    "num": "dailyftlk-7f7568f1",
+    "date_str": "2026-08-22",
+    "description": "Korea announces opening of Visa Application Centre; changes to Visa procedures",
+    "url_metadata": "https://www.ft.lk/news/Korea-announces-opening-of-Visa-Application-Centre-changes-to-Visa-procedures/56-796362",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787327578.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787338371.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-22 | `dailyftlk-7f7568f1` | Korea announces opening of Visa Application Centre; changes to Visa procedures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-7f7568f1)
+- 2026-08-21 | `dailymirrorlk-51c940b1` | Police hunt three Chinese nationals in Port City murder case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-51c940b1)
+- 2026-08-21 | `tamilmirrorlk-9241ce7d` | பாராளுமன்றத்தில் பகிரங்க மன்னிப்பு கோரினார் அர்ச்சுனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-9241ce7d)
+- 2026-08-21 | `dailymirrorlk-c2cb8bed` | Sri Lanka exports first fresh pineapple consignment to Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-c2cb8bed)
 - 2026-08-21 | `dailymirrorlk-4982f60b` | Suresh Sallay’s wife urges President not to extend detention order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-4982f60b)
 - 2026-08-21 | `dailymirrorlk-888f68b0` | Over 1,600 fatal road accidents reported so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-888f68b0)
 - 2026-08-21 | `tamilmirrorlk-89572c9c` | பொலிஸார் பொது மக்களுக்கு அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-89572c9c)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-21 | `adalk-e84ee9ab` | මරණ දඬුවම, ජීවිතාන්තය දක්වා සිර දඬුවම් නියමව සිටින සිරකරුවන්ට ජනාධිපති සමාව දීමට අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-e84ee9ab)
 - 2026-08-21 | `dailymirrorlk-4dfb52eb` | Final respects for Nanda Malini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-4dfb52eb)
 - 2026-08-21 | `tamilmirrorlk-62cf112e` | சௌகார் ஜானகி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-62cf112e)
-- 2026-08-21 | `dailymirrorlk-16745aad` | Fake banker, big food order, then theft: Police hunt suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-16745aad)
-- 2026-08-21 | `dailymirrorlk-44c7e01f` | Parliament approves Rs. 7.5 Billion supplementary estimate for Yala paddy purchases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-44c7e01f)
-- 2026-08-21 | `adalk-ed419529` | ඉම්රාන්ගේ සෞඛ්‍යය යහපත්, නැවතත් බන්ධනාගාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-adalk-ed419529)
-- 2026-08-21 | `tamilmirrorlk-be3a6731` | மொட்டை மாடியில் கஞ்சாத் தோட்டம்: இடியப்ப வியாபாரிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-be3a6731)
 
 ---
 
