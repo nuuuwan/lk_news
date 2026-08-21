@@ -24466,5 +24466,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1787338371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-ced09082",
+    "num": "dailyftlk-ced09082",
+    "date_str": "2026-08-22",
+    "description": "EU, Sri Lanka discuss stronger economic ties as Ambassador departs",
+    "url_metadata": "https://www.ft.lk/news/EU-Sri-Lanka-discuss-stronger-economic-ties-as-Ambassador-departs/56-796363",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787338657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-a3fdbe19",
+    "num": "dailyftlk-a3fdbe19",
+    "date_str": "2026-08-22",
+    "description": "Before sirens, Sri Lanka puts its young people on front line",
+    "url_metadata": "https://www.ft.lk/news/Before-sirens-Sri-Lanka-puts-its-young-people-on-front-line/56-796364",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787338930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-a19d1cbe",
+    "num": "dailyftlk-a19d1cbe",
+    "date_str": "2026-08-22",
+    "description": "National Youth Innovation Challenge to mark World Food Day in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/National-Youth-Innovation-Challenge-to-mark-World-Food-Day-in-Sri-Lanka/56-796365",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787339134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-ffff6435",
+    "num": "dailyftlk-ffff6435",
+    "date_str": "2026-08-22",
+    "description": "Namal grilled for six hours by FCID",
+    "url_metadata": "https://www.ft.lk/news/Namal-grilled-for-six-hours-by-FCID/56-796366",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787339266.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-ff60d46f",
+    "num": "dailyftlk-ff60d46f",
+    "date_str": "2026-08-22",
+    "description": "Govt. steps up preparations for El Ni\u00f1o threat: President\u2019s Office",
+    "url_metadata": "https://www.ft.lk/news/Govt-steps-up-preparations-for-El-Ni\u00f1o-threat-President-s-Office/56-796367",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787339296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailyftlk-014b56fe",
+    "num": "dailyftlk-014b56fe",
+    "date_str": "2026-08-22",
+    "description": "Parliament pays tribute to music icon Nanda Malini",
+    "url_metadata": "https://www.ft.lk/news/Parliament-pays-tribute-to-music-icon-Nanda-Malini/56-796368",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787339532.0
   }
 ]

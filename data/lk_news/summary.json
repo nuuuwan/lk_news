@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-22 00:28:21",
-  "n_docs": 128168,
+  "time_updated": "2026-08-22 02:33:12",
+  "n_docs": 128174,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128168,
+  "n_docs_with_text": 128174,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-22",
-  "dataset_size": 1996151309,
+  "dataset_size": 1996194897,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-22-dailyftlk-7f7568f1",
-    "num": "dailyftlk-7f7568f1",
+    "doc_id": "2026-08-22-dailyftlk-014b56fe",
+    "num": "dailyftlk-014b56fe",
     "date_str": "2026-08-22",
-    "description": "Korea announces opening of Visa Application Centre; changes to Visa procedures",
-    "url_metadata": "https://www.ft.lk/news/Korea-announces-opening-of-Visa-Application-Centre-changes-to-Visa-procedures/56-796362",
+    "description": "Parliament pays tribute to music icon Nanda Malini",
+    "url_metadata": "https://www.ft.lk/news/Parliament-pays-tribute-to-music-icon-Nanda-Malini/56-796368",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1787338371.0
+    "time_ut": 1787339532.0
   }
 }
