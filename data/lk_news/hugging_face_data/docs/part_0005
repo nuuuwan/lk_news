@@ -24829,5 +24829,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787386673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-02de36e9",
+    "num": "dailymirrorlk-02de36e9",
+    "date_str": "2026-08-22",
+    "description": "Sri Lankan Podcasters convene for landmark media landscape forum in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Podcasters-convene-for-landmark-media-landscape-forum-in-Colombo/108-348671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787388465.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-380e486a",
+    "num": "dailymirrorlk-380e486a",
+    "date_str": "2026-08-22",
+    "description": "Final Kumbal Perahera to take to Kandy streets today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Final-Kumbal-Perahera-to-take-to-Kandy-streets-today/108-348672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787390455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-tamilmirrorlk-cc61358b",
+    "num": "tamilmirrorlk-cc61358b",
+    "date_str": "2026-08-22",
+    "description": "\u0b89\u0bb4\u0bb5\u0bc1 \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb4\u0bb5\u0bc1-\u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8-\u0baa\u0bb2\u0bbf/175-381794",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787393210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-tamilmirrorlk-34bad12c",
+    "num": "tamilmirrorlk-34bad12c",
+    "date_str": "2026-08-22",
+    "description": "\u0ba4\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4 \u0bb7\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba4\u0bc1\u0b95\u0bcd\u0b95-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4-\u0bb7\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf/54-381795",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787394496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-b28f2064",
+    "num": "dailymirrorlk-b28f2064",
+    "date_str": "2026-08-22",
+    "description": "Fire at Anawilundawa Ramsar Wetland brought under control; Probe underway",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-at-Anawilundawa-Ramsar-Wetland-brought-under-control-Probe-underway/108-348673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787394973.0
   }
 ]
