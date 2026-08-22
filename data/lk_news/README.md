@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_10:29:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_12:22:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,190** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,197** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-22-tamilmirrorlk-926fd37c",
-    "num": "tamilmirrorlk-926fd37c",
+    "doc_id": "2026-08-22-dailymirrorlk-6d89bfab",
+    "num": "dailymirrorlk-6d89bfab",
     "date_str": "2026-08-22",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd. \u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd \u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd-\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd-\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-381792",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787372852.0
+    "description": "Jaffna temple festival eye injuries raise concerns over possible UV exposure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-temple-festival-eye-injuries-raise-concerns-over-possible-UV-exposure/108-348630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787378947.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-22 | `dailymirrorlk-6d89bfab` | Jaffna temple festival eye injuries raise concerns over possible UV exposure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-6d89bfab)
+- 2026-08-22 | `dailymirrorlk-378861f6` | US-Canada trade war reignites as talks fail at last minute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-378861f6)
+- 2026-08-22 | `tamilmirrorlk-08c62db6` | ஆலய சூழலில் வெற்றிலை மென்று நடமாடிய ஐவருக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-08c62db6)
+- 2026-08-22 | `adalk-b3d9cabc` | නන්දා මාලනී අද දැයෙන් සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-adalk-b3d9cabc)
+- 2026-08-22 | `dailymirrorlk-badd64a7` | World’s oldest living person celebrates 117th birthday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-badd64a7)
 - 2026-08-22 | `tamilmirrorlk-926fd37c` | யாழ். முருகன் கோயில் சம்பவத்திற்கான காரணம் வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-926fd37c)
 - 2026-08-22 | `dailymirrorlk-6a508e86` | President pays final respects to veteran singer Nanda Malini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-6a508e86)
 - 2026-08-22 | `dailymirrorlk-dce8221f` | Nine deaths reported due to adverse weather conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-dce8221f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-22 | `dailyftlk-014b56fe` | Parliament pays tribute to music icon Nanda Malini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-014b56fe)
 - 2026-08-22 | `dailyftlk-ff60d46f` | Govt. steps up preparations for El Niño threat: President’s Office | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-ff60d46f)
 - 2026-08-22 | `dailyftlk-ffff6435` | Namal grilled for six hours by FCID | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-ffff6435)
-- 2026-08-22 | `dailyftlk-a19d1cbe` | National Youth Innovation Challenge to mark World Food Day in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-a19d1cbe)
-- 2026-08-22 | `dailyftlk-a3fdbe19` | Before sirens, Sri Lanka puts its young people on front line | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-a3fdbe19)
-- 2026-08-22 | `dailyftlk-ced09082` | EU, Sri Lanka discuss stronger economic ties as Ambassador departs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-ced09082)
-- 2026-08-22 | `dailyftlk-7f7568f1` | Korea announces opening of Visa Application Centre; changes to Visa procedures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-7f7568f1)
-- 2026-08-22 | `dailyftlk-16a5380e` | Neil Marine strengthens boat building capacity with new Dikovita yard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-16a5380e)
 
 ---
 

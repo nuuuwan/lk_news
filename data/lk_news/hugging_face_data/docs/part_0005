@@ -24315,6 +24315,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-21-adalk-41c998b1",
+    "num": "adalk-41c998b1",
+    "date_str": "2026-08-21",
+    "description": "\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dd8\u0dad\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dbd\u0dd2 \u0d87\u0dad\u0dd4\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0db1\u0dc0 \u0db1\u0dd3\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dd8\u0dad\u0dd2\u0d9a-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0dc3\u0db3\u0dc4\u0dcf-\u0d85\u0dbd\u0dd2-\u0d87\u0dad\u0dd4\u0db1\u0dca-\u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3-\u0db1\u0dc0-\u0db1\u0dd3\u0dad\u0dd2/11-423872",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787310714.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-21-dailymirrorlk-ace51919",
     "num": "dailymirrorlk-ace51919",
     "date_str": "2026-08-21",
@@ -24422,6 +24433,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787327578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-21-dailymirrorlk-5e9d4e20",
+    "num": "dailymirrorlk-5e9d4e20",
+    "date_str": "2026-08-21",
+    "description": "Cancer drug reportedly sold for over Rs. 25,000 amid shortage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-drug-reportedly-sold-for-over-Rs-25-000-amid-shortage/108-348611",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787327942.0
   },
   {
     "doc_type": "lk_news",
@@ -24708,5 +24730,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787372852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-badd64a7",
+    "num": "dailymirrorlk-badd64a7",
+    "date_str": "2026-08-22",
+    "description": "World\u2019s oldest living person celebrates 117th birthday",
+    "url_metadata": "https://www.dailymirror.lk/international/Worlds-oldest-living-person-celebrates-117th-birthday/107-348623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787374778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-adalk-b3d9cabc",
+    "num": "adalk-b3d9cabc",
+    "date_str": "2026-08-22",
+    "description": "\u0db1\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dcf\u0dbd\u0db1\u0dd3 \u0d85\u0daf \u0daf\u0dd0\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0db1\u0dca\u0daf\u0dcf-\u0db8\u0dcf\u0dbd\u0db1\u0dd3-\u0d85\u0daf-\u0daf\u0dd0\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-423875",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787374961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-tamilmirrorlk-08c62db6",
+    "num": "tamilmirrorlk-08c62db6",
+    "date_str": "2026-08-22",
+    "description": "\u0b86\u0bb2\u0baf \u0b9a\u0bc2\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bc8 \u0bae\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bbf\u0baf \u0b90\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb2\u0baf-\u0b9a\u0bc2\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bc8-\u0bae\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bbf\u0baf-\u0b90\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-381793",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787376019.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-378861f6",
+    "num": "dailymirrorlk-378861f6",
+    "date_str": "2026-08-22",
+    "description": "US-Canada trade war reignites as talks fail at last minute",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Canada-trade-war-reignites-as-talks-fail-at-last-minute/108-348624",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787376708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-6d89bfab",
+    "num": "dailymirrorlk-6d89bfab",
+    "date_str": "2026-08-22",
+    "description": "Jaffna temple festival eye injuries raise concerns over possible UV exposure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-temple-festival-eye-injuries-raise-concerns-over-possible-UV-exposure/108-348630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787378947.0
   }
 ]
