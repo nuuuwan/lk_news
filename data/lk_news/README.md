@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_22:18:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_00:18:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,239** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,243** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,9 +42,13 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-08-22 | `dailymirrorlk-bad51793` | Sri Lanka to strengthen management of shark fishing industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-bad51793)
+- 2026-08-22 | `tamilmirrorlk-96bfa0cd` | டுபாயில் கைது செய்யப்பட்ட இலங்கைக் குற்றவாளிகள் குறித்து அதிகாரப்பூர்வ அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-96bfa0cd)
 - 2026-08-22 | `dailymirrorlk-4091a99d` | Two-time world champion Tete shot dead outside home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-4091a99d)
 - 2026-08-22 | `dailymirrorlk-16932cee` | 81,000 affected as dry spell deepens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-16932cee)
 - 2026-08-22 | `dailymirrorlk-562e112b` | Polonnaruwa records highest temperature at 37.2°C | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-562e112b)
+- 2026-08-22 | `dailymirrorlk-420f929c` | Govt committed to equal rights and opportunities for all: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-420f929c)
+- 2026-08-22 | `dailymirrorlk-fd0697c7` | Namal urges President to act on allegations involving Presidential Secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-fd0697c7)
+- 2026-08-22 | `dailymirrorlk-93664bfd` | Sugeeshwara Bandara admitted to prison hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-93664bfd)
 - 2026-08-22 | `dailymirrorlk-ad456072` | Major reservoirs hold 35.9% of effective storage capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-ad456072)
 - 2026-08-22 | `tamilmirrorlk-a67c0264` | சௌகார் ஜானகியின் சொத்து மதிப்பு இத்தனை ஆயிரம் கோடியா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-a67c0264)
 - 2026-08-22 | `dailymirrorlk-94323a1f` | Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-94323a1f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-22 | `tamilmirrorlk-d0f238ab` | சந்தையில் இருப்பது நச்சுத்தன்மையற்ற பழங்களா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-d0f238ab)
 - 2026-08-22 | `dailymirrorlk-b28f2064` | Fire at Anawilundawa Ramsar Wetland brought under control; Probe underway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-b28f2064)
 - 2026-08-22 | `tamilmirrorlk-34bad12c` | துக்க வீட்டுக்கு சிரித்த முகத்துடன் வந்த ஷாலினி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-34bad12c)
-- 2026-08-22 | `tamilmirrorlk-cc61358b` | உழவு இயந்திரத்தில் சிக்கி குழந்தை பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-tamilmirrorlk-cc61358b)
-- 2026-08-22 | `dailymirrorlk-380e486a` | Final Kumbal Perahera to take to Kandy streets today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-380e486a)
-- 2026-08-22 | `dailymirrorlk-02de36e9` | Sri Lankan Podcasters convene for landmark media landscape forum in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-02de36e9)
-- 2026-08-22 | `dailymirrorlk-3992d6ef` | Miss Teen Sri Lanka leaves for India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-3992d6ef)
 
 ---
 

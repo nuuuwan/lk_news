@@ -25206,6 +25206,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-93664bfd",
+    "num": "dailymirrorlk-93664bfd",
+    "date_str": "2026-08-22",
+    "description": "Sugeeshwara Bandara admitted to prison hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sugeeshwara-Bandara-admitted-to-prison-hospital/108-348681",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787409252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-fd0697c7",
+    "num": "dailymirrorlk-fd0697c7",
+    "date_str": "2026-08-22",
+    "description": "Namal urges President to act on allegations involving Presidential Secretary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-urges-President-to-act-on-allegations-involving-Presidential-Secretary/108-348682",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787409421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-420f929c",
+    "num": "dailymirrorlk-420f929c",
+    "date_str": "2026-08-22",
+    "description": "Govt committed to equal rights and opportunities for all: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-committed-to-equal-rights-and-opportunities-for-all-PM/108-348683",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787410534.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-22-dailymirrorlk-562e112b",
     "num": "dailymirrorlk-562e112b",
     "date_str": "2026-08-22",
@@ -25235,6 +25268,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-time-world-champion-Tete-shot-dead-outside-home/108-348686",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787414448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-tamilmirrorlk-96bfa0cd",
+    "num": "tamilmirrorlk-96bfa0cd",
+    "date_str": "2026-08-22",
+    "description": "\u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-381799",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787414448.0
   },
   {
