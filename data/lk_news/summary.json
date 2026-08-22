@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-22 12:21:38",
-  "n_docs": 128197,
+  "time_updated": "2026-08-22 14:19:01",
+  "n_docs": 128201,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128197,
+  "n_docs_with_text": 128201,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-22",
-  "dataset_size": 1996533995,
+  "dataset_size": 1996606329,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-22-dailymirrorlk-6d89bfab",
-    "num": "dailymirrorlk-6d89bfab",
+    "doc_id": "2026-08-22-dailymirrorlk-3992d6ef",
+    "num": "dailymirrorlk-3992d6ef",
     "date_str": "2026-08-22",
-    "description": "Jaffna temple festival eye injuries raise concerns over possible UV exposure",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-temple-festival-eye-injuries-raise-concerns-over-possible-UV-exposure/108-348630",
+    "description": "Miss Teen Sri Lanka leaves for India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Miss-Teen-Sri-Lanka-leaves-for-India/108-348670",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787378947.0
+    "time_ut": 1787386673.0
   }
 }

@@ -24785,5 +24785,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787378947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-ac560ee7",
+    "num": "dailymirrorlk-ac560ee7",
+    "date_str": "2026-08-22",
+    "description": "Sri Lanka\u2019s fish harvest in steady decline since 2014",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-fish-harvest-in-steady-decline-since-2014/108-348653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787382748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-639fdfd5",
+    "num": "dailymirrorlk-639fdfd5",
+    "date_str": "2026-08-22",
+    "description": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fallout",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paredes-receives-10-game-suspension-three-Argentina-players-punished-by-FIFA-following-World-Cup-final-fallout/108-348654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787382817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-7969d822",
+    "num": "dailymirrorlk-7969d822",
+    "date_str": "2026-08-22",
+    "description": "Govt to strengthen specialist healthcare services: Health Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-strengthen-specialist-healthcare-services-Health-Minister/108-348660",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787384766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-3992d6ef",
+    "num": "dailymirrorlk-3992d6ef",
+    "date_str": "2026-08-22",
+    "description": "Miss Teen Sri Lanka leaves for India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Miss-Teen-Sri-Lanka-leaves-for-India/108-348670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787386673.0
   }
 ]
