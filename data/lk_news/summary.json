@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-22 06:42:53",
-  "n_docs": 128182,
+  "time_updated": "2026-08-22 08:50:12",
+  "n_docs": 128186,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128182,
+  "n_docs_with_text": 128186,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-22",
-  "dataset_size": 1996394025,
+  "dataset_size": 1996445279,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-22-dailyftlk-162eb290",
-    "num": "dailyftlk-162eb290",
+    "doc_id": "2026-08-22-dailymirrorlk-1436ed76",
+    "num": "dailymirrorlk-1436ed76",
     "date_str": "2026-08-22",
-    "description": "Sri Lanka\u2019s journey towards Upper Middle Income Status",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-journey-towards-Upper-Middle-Income-Status/4-796386",
+    "description": "Showers possible after 2 p.m. in Eastern districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-possible-after-2-p-m-in-Eastern-districts/108-348620",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1787348573.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787367826.0
   }
 }

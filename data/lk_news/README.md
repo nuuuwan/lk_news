@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_06:43:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_08:51:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,182** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,186** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-22-dailyftlk-162eb290",
-    "num": "dailyftlk-162eb290",
+    "doc_id": "2026-08-22-dailymirrorlk-1436ed76",
+    "num": "dailymirrorlk-1436ed76",
     "date_str": "2026-08-22",
-    "description": "Sri Lanka\u2019s journey towards Upper Middle Income Status",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-journey-towards-Upper-Middle-Income-Status/4-796386",
+    "description": "Showers possible after 2 p.m. in Eastern districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-possible-after-2-p-m-in-Eastern-districts/108-348620",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1787348573.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787367826.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-22 | `dailymirrorlk-1436ed76` | Showers possible after 2 p.m. in Eastern districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-1436ed76)
+- 2026-08-22 | `dailymirrorlk-d36e715a` | Tesla and others begin record vehicle recall in China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-d36e715a)
+- 2026-08-22 | `dailymirrorlk-49a6c34f` | TikTok to pay $400m to US in one of largest child privacy settlements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-49a6c34f)
+- 2026-08-22 | `dailymirrorlk-cecbfb47` | Argentina star hit with one of the biggest bans in World Cup history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailymirrorlk-cecbfb47)
 - 2026-08-22 | `dailyftlk-162eb290` | Sri Lanka’s journey towards Upper Middle Income Status | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-162eb290)
 - 2026-08-22 | `dailyftlk-9b2de132` | A third way for Sri Lanka – lifting the rural economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-9b2de132)
 - 2026-08-22 | `dailyftlk-156b8a1a` | Tribute to Sir Christopher Ondaatje – Diagonal journey across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-156b8a1a)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-22 | `dailyftlk-756312ec` | Chathuranga visits Custom Denning facilities in Sydney | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-756312ec)
 - 2026-08-22 | `dailyftlk-b63a2913` | Abans joins Dialog Pay merchant ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-22-dailyftlk-b63a2913)
 - 2026-08-21 | `dailymirrorlk-51c940b1` | Police hunt three Chinese nationals in Port City murder case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-51c940b1)
-- 2026-08-21 | `tamilmirrorlk-9241ce7d` | பாராளுமன்றத்தில் பகிரங்க மன்னிப்பு கோரினார் அர்ச்சுனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-tamilmirrorlk-9241ce7d)
-- 2026-08-21 | `dailymirrorlk-c2cb8bed` | Sri Lanka exports first fresh pineapple consignment to Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-c2cb8bed)
-- 2026-08-21 | `dailymirrorlk-4982f60b` | Suresh Sallay’s wife urges President not to extend detention order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-4982f60b)
-- 2026-08-21 | `dailymirrorlk-888f68b0` | Over 1,600 fatal road accidents reported so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-21-dailymirrorlk-888f68b0)
 
 ---
 

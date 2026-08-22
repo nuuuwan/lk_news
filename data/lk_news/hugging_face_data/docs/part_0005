@@ -24620,5 +24620,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1787348573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-cecbfb47",
+    "num": "dailymirrorlk-cecbfb47",
+    "date_str": "2026-08-22",
+    "description": "Argentina star hit with one of the biggest bans in World Cup history",
+    "url_metadata": "https://www.dailymirror.lk/international/Argentina-star-hit-with-one-of-the-biggest-bans-in-World-Cup-history/107-348617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787363672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-49a6c34f",
+    "num": "dailymirrorlk-49a6c34f",
+    "date_str": "2026-08-22",
+    "description": "TikTok to pay $400m to US in one of largest child privacy settlements",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TikTok-to-pay-400m-to-US-in-one-of-largest-child-privacy-settlements/108-348618",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787364260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-d36e715a",
+    "num": "dailymirrorlk-d36e715a",
+    "date_str": "2026-08-22",
+    "description": "Tesla and others begin record vehicle recall in China",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tesla-and-others-begin-record-vehicle-recall-in-China/108-348619",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787366191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-1436ed76",
+    "num": "dailymirrorlk-1436ed76",
+    "date_str": "2026-08-22",
+    "description": "Showers possible after 2 p.m. in Eastern districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-possible-after-2-p-m-in-Eastern-districts/108-348620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787367826.0
   }
 ]
