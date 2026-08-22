@@ -25203,5 +25203,49 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787407649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-562e112b",
+    "num": "dailymirrorlk-562e112b",
+    "date_str": "2026-08-22",
+    "description": "Polonnaruwa records highest temperature at 37.2\u00b0C",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polonnaruwa-records-highest-temperature-at-37-2C/108-348684",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787412653.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-16932cee",
+    "num": "dailymirrorlk-16932cee",
+    "date_str": "2026-08-22",
+    "description": "81,000 affected as dry spell deepens",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/81-000-affected-as-dry-spell-deepens/108-348685",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787413614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-4091a99d",
+    "num": "dailymirrorlk-4091a99d",
+    "date_str": "2026-08-22",
+    "description": "Two-time world champion Tete shot dead outside home",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-time-world-champion-Tete-shot-dead-outside-home/108-348686",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787414448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-22-dailymirrorlk-bad51793",
+    "num": "dailymirrorlk-bad51793",
+    "date_str": "2026-08-22",
+    "description": "Sri Lanka to strengthen management of shark fishing industry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-strengthen-management-of-shark-fishing-industry/108-348687",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787415738.0
   }
 ]
