@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_18:15:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_20:17:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,280** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,286** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-23-dailymirrorlk-228dfcac",
-    "num": "dailymirrorlk-228dfcac",
+    "doc_id": "2026-08-23-dailymirrorlk-3ff07cea",
+    "num": "dailymirrorlk-3ff07cea",
     "date_str": "2026-08-23",
-    "description": "Jaffna traders fined over Rs. 650,000 for overpricing goods",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-traders-fined-over-Rs-650-000-for-overpricing-goods/108-348703",
+    "description": "Polonnaruwa, Pothuvil record 37.5\u00b0C as heat intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polonnaruwa-Pothuvil-record-37-5C-as-heat-intensifies/108-348709",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787478895.0
+    "time_ut": 1787493623.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-23 | `dailymirrorlk-3ff07cea` | Polonnaruwa, Pothuvil record 37.5°C as heat intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-3ff07cea)
+- 2026-08-23 | `dailymirrorlk-1761c822` | PHIs to launch island-wide trade union action tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-1761c822)
+- 2026-08-23 | `dailymirrorlk-127f1321` | Five killed in road accidents in just 24 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-127f1321)
+- 2026-08-23 | `tamilmirrorlk-5921069b` | “அடுத்தவர் வியர்வையை சுவீகரிக்க மறுத்த மாணவியின் உன்னத நேர்மை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-5921069b)
+- 2026-08-23 | `tamilmirrorlk-fdc49f64` | நுவரெலியாவில் சுற்றுலாப் பேருந்து விபத்து: ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-fdc49f64)
+- 2026-08-23 | `tamilmirrorlk-6dd2f294` | பொரளையில் வீட்டின் மீது கைகுண்டு வீச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-6dd2f294)
 - 2026-08-23 | `dailymirrorlk-228dfcac` | Jaffna traders fined over Rs. 650,000 for overpricing goods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-228dfcac)
 - 2026-08-23 | `dailymirrorlk-1db87517` | Iran condemns US plans to announce new sanctions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-1db87517)
 - 2026-08-23 | `dailymirrorlk-2f31f009` | Two arrested with over 1,044kg of cannabis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-2f31f009)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-08-23 | `dailymirrorlk-8da083db` | SLAF Culinary festival concludes in Sigiriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-8da083db)
 - 2026-08-23 | `tamilmirrorlk-da7d7ffc` | ஐஸ், 02 வாள்களுடன் நபர் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-da7d7ffc)
 - 2026-08-23 | `dailymirrorlk-2a4d8115` | Kandy prepares for first Randoli Perahera tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-2a4d8115)
-- 2026-08-23 | `dailymirrorlk-9af7beac` | Canada to retaliate for US tariffs, worsening ties after talks fail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-9af7beac)
-- 2026-08-23 | `dailymirrorlk-b1c77950` | 8-year-old girl dies in Walpola accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-b1c77950)
-- 2026-08-23 | `dailymirrorlk-3bdb7e81` | Panama-flagged cargo ship sinks off Odisha coast, 2 survivors rescued, 22 missing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-3bdb7e81)
-- 2026-08-23 | `tamilmirrorlk-f05f3f3e` | 5 விபத்துக்களில் சிறுமி உட்பட ஐவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-f05f3f3e)
-- 2026-08-23 | `tamilmirrorlk-20af1d9a` | “சர்வதேச அடிமை   ஒழிப்பு தினம் இன்று அனுசரிப்பு” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-20af1d9a)
-- 2026-08-23 | `tamilmirrorlk-e653002d` | அம்மாவை ஏமாத்த முடியாது - ஜேசன் சஞ்சய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-e653002d)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-23 18:14:11",
-  "n_docs": 128280,
+  "time_updated": "2026-08-23 20:16:31",
+  "n_docs": 128286,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128280,
+  "n_docs_with_text": 128286,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-23",
-  "dataset_size": 1997718222,
+  "dataset_size": 1997761085,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-23-dailymirrorlk-228dfcac",
-    "num": "dailymirrorlk-228dfcac",
+    "doc_id": "2026-08-23-dailymirrorlk-3ff07cea",
+    "num": "dailymirrorlk-3ff07cea",
     "date_str": "2026-08-23",
-    "description": "Jaffna traders fined over Rs. 650,000 for overpricing goods",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-traders-fined-over-Rs-650-000-for-overpricing-goods/108-348703",
+    "description": "Polonnaruwa, Pothuvil record 37.5\u00b0C as heat intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polonnaruwa-Pothuvil-record-37-5C-as-heat-intensifies/108-348709",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787478895.0
+    "time_ut": 1787493623.0
   }
 }
