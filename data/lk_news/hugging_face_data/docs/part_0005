@@ -25503,6 +25503,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-3bdb7e81",
+    "num": "dailymirrorlk-3bdb7e81",
+    "date_str": "2026-08-23",
+    "description": "Panama-flagged cargo ship sinks off Odisha coast, 2 survivors rescued, 22 missing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Panama-flagged-cargo-ship-sinks-off-Odisha-coast-2-survivors-rescued-22-missing/108-348691",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787465362.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-23-dailymirrorlk-b1c77950",
     "num": "dailymirrorlk-b1c77950",
     "date_str": "2026-08-23",
@@ -25555,5 +25566,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787466368.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-tamilmirrorlk-5636b036",
+    "num": "tamilmirrorlk-5636b036",
+    "date_str": "2026-08-23",
+    "description": "\u0b90\u0bb5\u0bb0\u0bc8 \u0baa\u0bb2\u0bbf\u0baf\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb5\u0bb0\u0bc8-\u0baa\u0bb2\u0bbf\u0baf\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-381817",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787467102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-tamilmirrorlk-1af051a7",
+    "num": "tamilmirrorlk-1af051a7",
+    "date_str": "2026-08-23",
+    "description": "\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd: \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd-\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf/50-381818",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787472553.0
   }
 ]
