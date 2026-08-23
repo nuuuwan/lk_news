@@ -25624,6 +25624,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-e460948e",
+    "num": "dailymirrorlk-e460948e",
+    "date_str": "2026-08-23",
+    "description": "Hand grenade thrown at house in Borella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hand-grenade-thrown-at-house-in-Borella/108-348697",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787477513.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-23-adalk-47732feb",
     "num": "adalk-47732feb",
     "date_str": "2026-08-23",
@@ -25720,6 +25731,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787488574.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-65662436",
+    "num": "dailymirrorlk-65662436",
+    "date_str": "2026-08-23",
+    "description": "Over 8,000 bottles of drinking water with fake SLS mark seized",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-8-000-bottles-of-drinking-water-with-fake-SLS-mark-seized/108-348704",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787489024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-5794b97e",
+    "num": "dailymirrorlk-5794b97e",
+    "date_str": "2026-08-23",
+    "description": "Australia confirms first H5N1 bird flu case in local mammal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-confirms-first-H5N1-bird-flu-case-in-local-mammal/108-348705",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787489886.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-00a1d810",
+    "num": "dailymirrorlk-00a1d810",
+    "date_str": "2026-08-23",
+    "description": "750 balls, two days: Mackay test makes history",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/750-balls-two-days-Mackay-test-makes-history/108-348706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787490081.0
   },
   {
     "doc_type": "lk_news",

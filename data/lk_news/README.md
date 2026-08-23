@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_20:17:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_22:17:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,286** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,290** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,9 @@ A collection of lk_news documents.
 - 2026-08-23 | `dailymirrorlk-1761c822` | PHIs to launch island-wide trade union action tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-1761c822)
 - 2026-08-23 | `dailymirrorlk-127f1321` | Five killed in road accidents in just 24 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-127f1321)
 - 2026-08-23 | `tamilmirrorlk-5921069b` | “அடுத்தவர் வியர்வையை சுவீகரிக்க மறுத்த மாணவியின் உன்னத நேர்மை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-5921069b)
+- 2026-08-23 | `dailymirrorlk-00a1d810` | 750 balls, two days: Mackay test makes history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-00a1d810)
+- 2026-08-23 | `dailymirrorlk-5794b97e` | Australia confirms first H5N1 bird flu case in local mammal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-5794b97e)
+- 2026-08-23 | `dailymirrorlk-65662436` | Over 8,000 bottles of drinking water with fake SLS mark seized | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-65662436)
 - 2026-08-23 | `tamilmirrorlk-fdc49f64` | நுவரெலியாவில் சுற்றுலாப் பேருந்து விபத்து: ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-fdc49f64)
 - 2026-08-23 | `tamilmirrorlk-6dd2f294` | பொரளையில் வீட்டின் மீது கைகுண்டு வீச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-6dd2f294)
 - 2026-08-23 | `dailymirrorlk-228dfcac` | Jaffna traders fined over Rs. 650,000 for overpricing goods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-228dfcac)
@@ -54,13 +57,10 @@ A collection of lk_news documents.
 - 2026-08-23 | `tamilmirrorlk-d23e87c8` | கண்டியில் பொலிஸாரை தாக்கியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-d23e87c8)
 - 2026-08-23 | `dailymirrorlk-697c2fda` | Man killed during dispute at Party in Kekirawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-697c2fda)
 - 2026-08-23 | `adalk-47732feb` | හම්බෙගමුවේදී රු. කෝටි 7ක ගංජා පොලිසිය වටලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-adalk-47732feb)
+- 2026-08-23 | `dailymirrorlk-e460948e` | Hand grenade thrown at house in Borella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-e460948e)
 - 2026-08-23 | `adalk-6f3b56d6` | 2023  සිට 2024 තෙක් හිටපු කථානායක ඉන්ධන සඳහා රු. ලක්ෂ 454ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-adalk-6f3b56d6)
 - 2026-08-23 | `tamilmirrorlk-b7170e79` | ஜப்பானின்  5.9 ரிக்டர் அளவில் நிலநடுக்கம்: 37 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-b7170e79)
 - 2026-08-23 | `tamilmirrorlk-1af051a7` | புட்டின் திட்டம் அம்பலம்: ஜெர்மன் விமான நிலையத்தை தகர்க்க முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-1af051a7)
-- 2026-08-23 | `tamilmirrorlk-5636b036` | ஐவரை பலியெடுத்த விபத்து: இரண்டு சாரதிகளுக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-5636b036)
-- 2026-08-23 | `dailymirrorlk-8da083db` | SLAF Culinary festival concludes in Sigiriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-8da083db)
-- 2026-08-23 | `tamilmirrorlk-da7d7ffc` | ஐஸ், 02 வாள்களுடன் நபர் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-da7d7ffc)
-- 2026-08-23 | `dailymirrorlk-2a4d8115` | Kandy prepares for first Randoli Perahera tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-2a4d8115)
 
 ---
 
