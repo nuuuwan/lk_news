@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_16:16:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--23_18:15:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,280** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,7 +42,11 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-08-23 | `dailymirrorlk-228dfcac` | Jaffna traders fined over Rs. 650,000 for overpricing goods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-228dfcac)
+- 2026-08-23 | `dailymirrorlk-1db87517` | Iran condemns US plans to announce new sanctions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-1db87517)
+- 2026-08-23 | `dailymirrorlk-2f31f009` | Two arrested with over 1,044kg of cannabis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-2f31f009)
+- 2026-08-23 | `dailymirrorlk-9572bf52` | New electric train project for Colombo suburbs to begin next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-9572bf52)
 - 2026-08-23 | `tamilmirrorlk-d23e87c8` | கண்டியில் பொலிஸாரை தாக்கியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-d23e87c8)
+- 2026-08-23 | `dailymirrorlk-697c2fda` | Man killed during dispute at Party in Kekirawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-dailymirrorlk-697c2fda)
 - 2026-08-23 | `adalk-47732feb` | හම්බෙගමුවේදී රු. කෝටි 7ක ගංජා පොලිසිය වටලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-adalk-47732feb)
 - 2026-08-23 | `adalk-6f3b56d6` | 2023  සිට 2024 තෙක් හිටපු කථානායක ඉන්ධන සඳහා රු. ලක්ෂ 454ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-adalk-6f3b56d6)
 - 2026-08-23 | `tamilmirrorlk-b7170e79` | ஜப்பானின்  5.9 ரிக்டர் அளவில் நிலநடுக்கம்: 37 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-b7170e79)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-23 | `tamilmirrorlk-f05f3f3e` | 5 விபத்துக்களில் சிறுமி உட்பட ஐவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-f05f3f3e)
 - 2026-08-23 | `tamilmirrorlk-20af1d9a` | “சர்வதேச அடிமை   ஒழிப்பு தினம் இன்று அனுசரிப்பு” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-20af1d9a)
 - 2026-08-23 | `tamilmirrorlk-e653002d` | அம்மாவை ஏமாத்த முடியாது - ஜேசன் சஞ்சய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-e653002d)
-- 2026-08-23 | `tamilmirrorlk-03baef72` | 50 கிராம் தங்கக்கட்டியை விழுங்கிய   5 வயது சிறுமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-03baef72)
-- 2026-08-23 | `tamilmirrorlk-34b2f99c` | 54 வயதில் 2வது திருமணம் செய்த பிரபல நடிகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-34b2f99c)
-- 2026-08-23 | `adalk-935c5a50` | බලපිටිය වෙරළේ  හඳුනාගත නොහැකි මළ සිරුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-adalk-935c5a50)
-- 2026-08-23 | `tamilmirrorlk-bcf906d6` | மாத்தளையில்  கடும் குடிநீர்த் தட்டுப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-23-tamilmirrorlk-bcf906d6)
 
 ---
 

@@ -25635,6 +25635,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-697c2fda",
+    "num": "dailymirrorlk-697c2fda",
+    "date_str": "2026-08-23",
+    "description": "Man killed during dispute at Party in Kekirawa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-killed-during-dispute-at-Party-in-Kekirawa/108-348698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787477678.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-23-tamilmirrorlk-d23e87c8",
     "num": "tamilmirrorlk-d23e87c8",
     "date_str": "2026-08-23",
@@ -25643,6 +25654,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787477684.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-9572bf52",
+    "num": "dailymirrorlk-9572bf52",
+    "date_str": "2026-08-23",
+    "description": "New electric train project for Colombo suburbs to begin next year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-electric-train-project-for-Colombo-suburbs-to-begin-next-year/108-348699",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787477935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-2f31f009",
+    "num": "dailymirrorlk-2f31f009",
+    "date_str": "2026-08-23",
+    "description": "Two arrested with over 1,044kg of cannabis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-with-over-1-044kg-of-cannabis/108-348700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787478024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-1db87517",
+    "num": "dailymirrorlk-1db87517",
+    "date_str": "2026-08-23",
+    "description": "Iran condemns US plans to announce new sanctions",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-condemns-US-plans-to-announce-new-sanctions/107-348701",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787478293.0
   },
   {
     "doc_type": "lk_news",
