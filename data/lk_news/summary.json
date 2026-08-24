@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-24 20:03:10",
-  "n_docs": 128403,
+  "time_updated": "2026-08-24 21:58:34",
+  "n_docs": 128405,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128403,
+  "n_docs_with_text": 128405,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-24",
-  "dataset_size": 1999508407,
+  "dataset_size": 1999555876,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-24-adalk-ecdfecb9",
-    "num": "adalk-ecdfecb9",
+    "doc_id": "2026-08-24-dailymirrorlk-a5333d37",
+    "num": "dailymirrorlk-a5333d37",
     "date_str": "2026-08-24",
-    "description": "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0db1\u0da9\u0dd4\u0dc0\u0dda \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0dc3\u0dd0\u0db4\u0dca. 22\u0daf\u0dcf",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4-\u0db1\u0da9\u0dd4\u0dc0\u0dda-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0dc3\u0dd0\u0db4\u0dca--22\u0daf\u0dcf/11-423900",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1787580621.0
+    "description": "'1333 Bikeathon 2026'",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/1333-Bikeathon-2026/110-348784",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787587822.0
   }
 }
