@@ -26889,6 +26889,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-f572e0a0",
+    "num": "adalk-f572e0a0",
+    "date_str": "2026-08-24",
+    "description": "\u0d85\u0db4\u0dd2 \u0d9c\u0db8\u0da7 \u0db6\u0dd0\u0dc3\u0dca\u0dc3\u0db8 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7\u0dad\u0dca \u0d9c\u0db8\u0da7 \u0db6\u0dc4\u0dd2\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db4\u0dd2-\u0d9c\u0db8\u0da7-\u0db6\u0dd0\u0dc3\u0dca\u0dc3\u0db8-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7\u0dad\u0dca-\u0d9c\u0db8\u0da7-\u0db6\u0dc4\u0dd2\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dbd\u0dcf/11-423897",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787567101.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-dailymirrorlk-22a9c0e1",
     "num": "dailymirrorlk-22a9c0e1",
     "date_str": "2026-08-24",
@@ -26985,5 +26996,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787572344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-9bd9468b",
+    "num": "dailymirrorlk-9bd9468b",
+    "date_str": "2026-08-24",
+    "description": "Heavy crossings drive CSE turnover to LKR 16.85 Bn as ASPI falls below 21,350",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-crossings-drive-CSE-turnover-to-LKR-16-85-Bn-as-ASPI-falls-below-21-350/108-348779",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787576460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e5831e1c",
+    "num": "dailymirrorlk-e5831e1c",
+    "date_str": "2026-08-24",
+    "description": "CCTV helps swiftly arrest bag thief at Pettah bus stand",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCTV-helps-swiftly-arrest-bag-thief-at-Pettah-bus-stand/108-348780",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787576557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e87afa0d",
+    "num": "dailymirrorlk-e87afa0d",
+    "date_str": "2026-08-24",
+    "description": "2027 school exam dates announced",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2027-school-exam-dates-announced/108-348781",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787576664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-f6af0411",
+    "num": "dailymirrorlk-f6af0411",
+    "date_str": "2026-08-24",
+    "description": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-administration-moves-to-impose-more-than-100-000-fee-for-H-1B-worker-visas/108-348782",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787580570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-ecdfecb9",
+    "num": "adalk-ecdfecb9",
+    "date_str": "2026-08-24",
+    "description": "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0db1\u0da9\u0dd4\u0dc0\u0dda \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0dc3\u0dd0\u0db4\u0dca. 22\u0daf\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4-\u0db1\u0da9\u0dd4\u0dc0\u0dda-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0dc3\u0dd0\u0db4\u0dca--22\u0daf\u0dcf/11-423900",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787580621.0
   }
 ]
