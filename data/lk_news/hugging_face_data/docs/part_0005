@@ -25866,6 +25866,204 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-b311934a",
+    "num": "dailymirrorlk-b311934a",
+    "date_str": "2026-08-23",
+    "description": "Gamma Interpharm enters Cambodia",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Gamma-Interpharm-enters-Cambodia/273-348711",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787506049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-1cc3bb6c",
+    "num": "dailymirrorlk-1cc3bb6c",
+    "date_str": "2026-08-23",
+    "description": "ComBank named SL\u2019s Strongest Banking Brand by Brand Finance AAA rating",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ComBank-named-SLs-Strongest-Banking-Brand-by-Brand-Finance-AAA-rating/273-348712",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787506157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-a6f35743",
+    "num": "dailymirrorlk-a6f35743",
+    "date_str": "2026-08-23",
+    "description": "People\u2019s Insurance strengthens market position with 39% GWP and 63% PBT growth in 2026 first half",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Insurance-strengthens-market-position-with-39-GWP-and-63-PBT-growth-in-2026-first-half/273-348713",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787506422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-4ddf721b",
+    "num": "dailymirrorlk-4ddf721b",
+    "date_str": "2026-08-23",
+    "description": "Ceylon Chamber briefs foreign diplomats on Sri Lanka Economic and Investment Summit",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-briefs-foreign-diplomats-on-Sri-Lanka-Economic-and-Investment-Summit/273-348714",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787506685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-8cc0cfbd",
+    "num": "dailymirrorlk-8cc0cfbd",
+    "date_str": "2026-08-23",
+    "description": "Richard Pieris Securities strengthens leadership",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Richard-Pieris-Securities-strengthens-leadership/273-348715",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787506747.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-df5cd60c",
+    "num": "dailymirrorlk-df5cd60c",
+    "date_str": "2026-08-23",
+    "description": "ABC Trade-All-China Environment Federation to drive SL\u2019s green infrastructure and investment",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ABC-Trade-All-China-Environment-Federation-to-drive-SLs-green-infrastructure-and-investment/273-348716",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787507194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-14d71112",
+    "num": "dailymirrorlk-14d71112",
+    "date_str": "2026-08-23",
+    "description": "People\u2019s Bank introduces Legacy 65 anniversary investment plan",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-introduces-Legacy-65-anniversary-investment-plan/273-348717",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787507405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-dcfc3b88",
+    "num": "dailymirrorlk-dcfc3b88",
+    "date_str": "2026-08-23",
+    "description": "SLASSCOM Xcellerate Accelerator empowers next-gen investment-ready tech start-ups",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLASSCOM-Xcellerate-Accelerator-empowers-next-gen-investment-ready-tech-start-ups/273-348718",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787507984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-341e8165",
+    "num": "dailymirrorlk-341e8165",
+    "date_str": "2026-08-23",
+    "description": "Deloitte report highlights NSBM\u2019s decade of national impact",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Deloitte-report-highlights-NSBMs-decade-of-national-impact/273-348719",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787508306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-6e1230df",
+    "num": "dailymirrorlk-6e1230df",
+    "date_str": "2026-08-23",
+    "description": "Prime lending rate eases to 10.86% as banks diverge on pricing",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Prime-lending-rate-eases-to-10-86-as-banks-diverge-on-pricing/273-348720",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787508409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-1fa9c95e",
+    "num": "dailymirrorlk-1fa9c95e",
+    "date_str": "2026-08-23",
+    "description": "Ajith Fernando appointed Chairman of CAL\u2019s treasury arm",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ajith-Fernando-appointed-Chairman-of-CALs-treasury-arm/273-348721",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787509061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-5700aa7e",
+    "num": "dailymirrorlk-5700aa7e",
+    "date_str": "2026-08-23",
+    "description": "People\u2019s Bank sustains strong growth momentum with Rs. 32.6bn record pre-tax profit in 1H 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-sustains-strong-growth-momentum-with-Rs-32-6bn-record-pre-tax-profit-in-1H-2026/273-348722",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787509275.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-23-dailymirrorlk-d4767d78",
+    "num": "dailymirrorlk-d4767d78",
+    "date_str": "2026-08-23",
+    "description": "Vogue Jewellers ropes in Kumar Sangakkara to drive global expansion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vogue-Jewellers-ropes-in-Kumar-Sangakkara-to-drive-global-expansion/273-348723",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787509602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-4988d4f8",
+    "num": "dailymirrorlk-4988d4f8",
+    "date_str": "2026-08-24",
+    "description": "Tourist arrivals down by 7% in mid-August ahead of Esala Perahera",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tourist-arrivals-down-by-7-in-mid-August-ahead-of-Esala-Perahera/273-348724",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787509843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-d7fd6d98",
+    "num": "dailymirrorlk-d7fd6d98",
+    "date_str": "2026-08-24",
+    "description": "As inflation bites, shoppers ditch brands for bargains",
+    "url_metadata": "https://www.dailymirror.lk/business-main/As-inflation-bites-shoppers-ditch-brands-for-bargains/245-348725",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787510191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-edabf265",
+    "num": "dailymirrorlk-edabf265",
+    "date_str": "2026-08-24",
+    "description": "\u201cCashback at Till\u201d System in  Supermarkets",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Cashback-at-Till-System-in-Supermarkets/172-348726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787511032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-5f1d948c",
+    "num": "dailymirrorlk-5f1d948c",
+    "date_str": "2026-08-24",
+    "description": "The controversial 22nd Amendment to the Constitution",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-controversial-22nd-Amendment-to-the-Constitution/172-348727",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787511498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-bfde4a4b",
+    "num": "dailymirrorlk-bfde4a4b",
+    "date_str": "2026-08-24",
+    "description": "JR, Judiciary and Political Elimination of Sirimavo",
+    "url_metadata": "https://www.dailymirror.lk/opinion/JR-Judiciary-and-Political-Elimination-of-Sirimavo/172-348729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787512240.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-dailyftlk-f06d0265",
     "num": "dailyftlk-f06d0265",
     "date_str": "2026-08-24",
@@ -26119,6 +26317,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-f54a14aa",
+    "num": "adalk-f54a14aa",
+    "date_str": "2026-08-24",
+    "description": "\u0d87\u0dc5\u0d9a\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0dc5\u0d9a\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-423888",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787537774.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-tamilmirrorlk-653743bf",
     "num": "tamilmirrorlk-653743bf",
     "date_str": "2026-08-24",
@@ -26127,6 +26336,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787538551.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-fe19c895",
+    "num": "dailymirrorlk-fe19c895",
+    "date_str": "2026-08-24",
+    "description": "England hit by fresh discipline storm after Carse incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-hit-by-fresh-discipline-storm-after-Carse-incident/108-348733",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787542381.0
   },
   {
     "doc_type": "lk_news",
@@ -26185,6 +26405,61 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-601f246c",
+    "num": "dailymirrorlk-601f246c",
+    "date_str": "2026-08-24",
+    "description": "What\u2019s in the Imran Khan letter? Sunil Gavaskar, Arjuna and others make three key requests",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Whats-in-the-Imran-Khan-letter-Sunil-Gavaskar-Arjuna-and-others-make-three-key-requests/108-348734",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787547390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-30e14d83",
+    "num": "dailymirrorlk-30e14d83",
+    "date_str": "2026-08-24",
+    "description": "Guinea rubbish landfill collapse kills 30",
+    "url_metadata": "https://www.dailymirror.lk/international/Guinea-rubbish-landfill-collapse-kills-30/107-348735",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787547576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-ec1395f0",
+    "num": "dailymirrorlk-ec1395f0",
+    "date_str": "2026-08-24",
+    "description": "Missing Badulla Hospital specialist doctor found dead in Mahiyanganaya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Missing-Badulla-Hospital-specialist-doctor-found-dead-in-Mahiyanganaya/108-348738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787547909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-be577b16",
+    "num": "dailymirrorlk-be577b16",
+    "date_str": "2026-08-24",
+    "description": "Nearly 3 million Teslas recalled in China over hidden door handles",
+    "url_metadata": "https://www.dailymirror.lk/international/Nearly-3-million-Teslas-recalled-in-China-over-hidden-door-handles/107-348744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787548524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-5ba74d9a",
+    "num": "dailymirrorlk-5ba74d9a",
+    "date_str": "2026-08-24",
+    "description": "UN welcomes Sri Lanka\u2019s efforts to bring back refugees from India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-welcomes-Sri-Lankas-efforts-to-bring-back-refugees-from-India/108-348748",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787549168.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-tamilmirrorlk-f4b78bfd",
     "num": "tamilmirrorlk-f4b78bfd",
     "date_str": "2026-08-24",
@@ -26193,6 +26468,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787549384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-b3350b9c",
+    "num": "dailymirrorlk-b3350b9c",
+    "date_str": "2026-08-24",
+    "description": "Kandy Randoli Perahera lights up city",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Kandy-Randoli-Perahera-lights-up-city/110-348749",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787550412.0
   },
   {
     "doc_type": "lk_news",
@@ -26240,6 +26526,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-0b3e5bfa",
+    "num": "dailymirrorlk-0b3e5bfa",
+    "date_str": "2026-08-24",
+    "description": "Top Oman diplomat due in Tehran for talks on Hormuz, Iran says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Top-Oman-diplomat-due-in-Tehran-for-talks-on-Hormuz-Iran-says/108-348751",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787552736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-4efabb6f",
+    "num": "dailymirrorlk-4efabb6f",
+    "date_str": "2026-08-24",
+    "description": "Lankan drug lord questioned by FBI over Iran links before deportation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lankan-drug-lord-questioned-by-FBI-over-Iran-links-before-deportation/108-348752",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787552938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-6878b987",
+    "num": "adalk-6878b987",
+    "date_str": "2026-08-24",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-423889",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787553017.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-tamilmirrorlk-b57281f2",
     "num": "tamilmirrorlk-b57281f2",
     "date_str": "2026-08-24",
@@ -26248,5 +26567,181 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787553070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-85e8b31a",
+    "num": "tamilmirrorlk-85e8b31a",
+    "date_str": "2026-08-24",
+    "description": "\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0ba4\u0bbf (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0bb5\u0ba4\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-381845",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787553347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-ecdcf9ad",
+    "num": "adalk-ecdcf9ad",
+    "date_str": "2026-08-24",
+    "description": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc4\u0dcf \u0dbb\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0dc4\u0dba\u0d9a\u0db1\u0dca \u0dc4\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc4\u0dcf-\u0dbb\u0dd2\u0dba-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0dc4\u0dba\u0d9a\u0db1\u0dca-\u0dc4\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423890",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787553487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-ce29bfa7",
+    "num": "tamilmirrorlk-ce29bfa7",
+    "date_str": "2026-08-24",
+    "description": "\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd\u0bae\u0bc7\u0ba9\u0bcd \u0b86\u0b9f\u0bc8 \u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc0\u0baf\u0bc8 \u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd\u0bae\u0bc7\u0ba9\u0bcd-\u0b86\u0b9f\u0bc8-\u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc0\u0baf\u0bc8-\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd/50-381846",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787553869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-78cf5541",
+    "num": "dailymirrorlk-78cf5541",
+    "date_str": "2026-08-24",
+    "description": "Extreme weather events: advanced alert system not yet in place",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Extreme-weather-events-advanced-alert-system-not-yet-in-place/108-348753",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787553952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-51bedef9",
+    "num": "dailymirrorlk-51bedef9",
+    "date_str": "2026-08-24",
+    "description": "Jaiswal hits back at Harsha Bhogle over clash with Asitha Fernando",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaiswal-hits-back-at-Harsha-Bhogle-over-clash-with-Asitha-Fernando/108-348754",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787554149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-e8ad3643",
+    "num": "adalk-e8ad3643",
+    "date_str": "2026-08-24",
+    "description": "\u0db6\u0db9\u0dbb\u0dd4 \u0daf\u0dc2\u0dca\u0da8 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dbb\u0dd4 \u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0db9\u0dbb\u0dd4-\u0daf\u0dc2\u0dca\u0da8-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dbb\u0dd4-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-423891",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787554447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-b894a0c7",
+    "num": "adalk-b894a0c7",
+    "date_str": "2026-08-24",
+    "description": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8 \u0dbd\u0d9a\u0dca\u0dc2 14 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0db8-\u0dbd\u0d9a\u0dca\u0dc2-14-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-423892",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787554826.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-ed1bbe3d",
+    "num": "dailymirrorlk-ed1bbe3d",
+    "date_str": "2026-08-24",
+    "description": "No competitive pricing advantage despite liberalisation of oil trade",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-competitive-pricing-advantage-despite-liberalisation-of-oil-trade/108-348755",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787554990.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-9f97f83c",
+    "num": "dailymirrorlk-9f97f83c",
+    "date_str": "2026-08-24",
+    "description": "Life in place of death? New plan heads to Cabinet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Life-in-place-of-death-New-plan-heads-to-Cabinet/108-348756",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787555327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-17aa7aa8",
+    "num": "dailymirrorlk-17aa7aa8",
+    "date_str": "2026-08-24",
+    "description": "SJB MP Chaminda Wijesiri granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-MP-Chaminda-Wijesiri-granted-bail/108-348757",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787555538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-3231e59e",
+    "num": "adalk-3231e59e",
+    "date_str": "2026-08-24",
+    "description": "\u0dc3\u0dd2\u0dbb\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd6 \u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dd2\u0dbb\u0dd2\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0dbb\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd6-\u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf-\u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dd2\u0dbb\u0dd2\u0da7-\u0d87\u0db4/11-423893",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787556077.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-39482b58",
+    "num": "tamilmirrorlk-39482b58",
+    "date_str": "2026-08-24",
+    "description": "\u0bae\u0bc1\u0ba4\u0bbe\u0bb2\u0bbe\u0bb3\u0bbf \u0baa\u0bc6\u0ba3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bc2\u0bb0\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bbe\u0bb2\u0bbe\u0bb3\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bc2\u0bb0\u0bbf\u0baf-\u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-381848",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787556201.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-7649ee45",
+    "num": "dailymirrorlk-7649ee45",
+    "date_str": "2026-08-24",
+    "description": "Sergeant loses toe after foreign university Professor\u2019s car runs over his foot",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sergeant-loses-toe-after-foreign-university-Professors-car-runs-over-his-foot/108-348758",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787556218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-dbe64a7e",
+    "num": "dailymirrorlk-dbe64a7e",
+    "date_str": "2026-08-24",
+    "description": "Lankan labour migration out to prevent foreign investment: Ravi K",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lankan-labour-migration-out-to-prevent-foreign-investment-Ravi-K/108-348759",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787556783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-89a8ccd0",
+    "num": "dailymirrorlk-89a8ccd0",
+    "date_str": "2026-08-24",
+    "description": "Reservoirs under pressure as water levels remain low",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reservoirs-under-pressure-as-water-levels-remain-low/108-348760",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787556923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-85b324cc",
+    "num": "dailymirrorlk-85b324cc",
+    "date_str": "2026-08-24",
+    "description": "Sri Lanka moves to introduce digital air cargo community system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-moves-to-introduce-digital-air-cargo-community-system/108-348761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787558602.0
   }
 ]
