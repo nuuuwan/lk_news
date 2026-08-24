@@ -26735,6 +26735,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-c3e6f9e7",
+    "num": "adalk-c3e6f9e7",
+    "date_str": "2026-08-24",
+    "description": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0db8\u0dd8\u0dad \u0dc1\u0dbb\u0dd2\u0dbb\u0dba \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda-\u0db8\u0dd8\u0dad-\u0dc1\u0dbb\u0dd2\u0dbb\u0dba-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-423894",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787557705.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-dailymirrorlk-85b324cc",
     "num": "dailymirrorlk-85b324cc",
     "date_str": "2026-08-24",
@@ -26743,5 +26754,137 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787558602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-1ac74ee9",
+    "num": "tamilmirrorlk-1ac74ee9",
+    "date_str": "2026-08-24",
+    "description": "\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-381851",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787561726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-7ab4ec6e",
+    "num": "dailymirrorlk-7ab4ec6e",
+    "date_str": "2026-08-24",
+    "description": "New Zealand to ban social media for under-16s",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Zealand-to-ban-social-media-for-under-16s/108-348765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787563159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-40ee8d3e",
+    "num": "tamilmirrorlk-40ee8d3e",
+    "date_str": "2026-08-24",
+    "description": "\u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bbf\u0bb0\u0bbf \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bbf\u0bb0\u0bbf-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-381853",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787563277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-069d9829",
+    "num": "tamilmirrorlk-069d9829",
+    "date_str": "2026-08-24",
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 7.5 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-7-5-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd/175-381854",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787563844.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e3a63b13",
+    "num": "dailymirrorlk-e3a63b13",
+    "date_str": "2026-08-24",
+    "description": "Audit exposes massive Parliament fuel irregularities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Audit-exposes-massive-Parliament-fuel-irregularities/108-348766",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787564191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-ebe8b570",
+    "num": "dailymirrorlk-ebe8b570",
+    "date_str": "2026-08-24",
+    "description": "ICC confirm sanctions for Jaiswal and Asitha Fernando",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ICC-confirm-sanctions-for-Jaiswal-and-Asitha-Fernando/108-348767",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787564359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e5f2511b",
+    "num": "dailymirrorlk-e5f2511b",
+    "date_str": "2026-08-24",
+    "description": "Oil falls as US prepares to unveil new Iran sanctions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-falls-as-US-prepares-to-unveil-new-Iran-sanctions/108-348769",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787564797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-a0bdf9bf",
+    "num": "dailymirrorlk-a0bdf9bf",
+    "date_str": "2026-08-24",
+    "description": "BASL President, Secretary file petition against 22nd Amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-President-Secretary-file-petition-against-22nd-Amendment/108-348770",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787564937.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-119caa7c",
+    "num": "tamilmirrorlk-119caa7c",
+    "date_str": "2026-08-24",
+    "description": "\u0b95\u0bc7\u0baa\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf \u0b9a\u0bc6\u0bae\u0bcd\u0baa\u0bc1   \u0b95\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bb3\u0bc8 \u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bc7\u0baa\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0b9a\u0bc6\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bb3\u0bc8-\u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-381856",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787565812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-0255f13a",
+    "num": "adalk-0255f13a",
+    "date_str": "2026-08-24",
+    "description": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba-\u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca/11-423896",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787566089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-07c88c99",
+    "num": "dailymirrorlk-07c88c99",
+    "date_str": "2026-08-24",
+    "description": "Eric Meyer arrives to take up U.S. Ambassador post",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eric-Meyer-arrives-to-take-up-U-S-Ambassador-post/108-348771",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787566198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-22a9c0e1",
+    "num": "dailymirrorlk-22a9c0e1",
+    "date_str": "2026-08-24",
+    "description": "PUCSL sets higher solar-storage payments",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PUCSL-sets-higher-solar-storage-payments/108-348772",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787567293.0
   }
 ]
