@@ -26845,6 +26845,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-f8493801",
+    "num": "adalk-f8493801",
+    "date_str": "2026-08-24",
+    "description": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0d85\u0dbb\u0db9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0d85\u0dbb\u0db9\u0db1\u0dca\u0db1/11-423895",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787565554.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-tamilmirrorlk-119caa7c",
     "num": "tamilmirrorlk-119caa7c",
     "date_str": "2026-08-24",
@@ -26886,5 +26897,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787567293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-af9fa40c",
+    "num": "dailymirrorlk-af9fa40c",
+    "date_str": "2026-08-24",
+    "description": "SLPP to strengthen grassroots campaign ahead of elections: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-to-strengthen-grassroots-campaign-ahead-of-elections-Namal/108-348773",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787567897.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-650a1b18",
+    "num": "dailymirrorlk-650a1b18",
+    "date_str": "2026-08-24",
+    "description": "Parliamentary Committee consults police on reducing prison overcrowding",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-consults-police-on-reducing-prison-overcrowding/108-348774",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787568734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-65814df2",
+    "num": "tamilmirrorlk-65814df2",
+    "date_str": "2026-08-24",
+    "description": "16 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd \u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-\u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bc0\u0bb4\u0bcd-\u0b9a\u0bae\u0bc2\u0b95-\u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/50-381857",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787568938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-c44d9c65",
+    "num": "dailymirrorlk-c44d9c65",
+    "date_str": "2026-08-24",
+    "description": "Anuradhapura supermarket fined Rs. 200,000 over uncertified electrical cords",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anuradhapura-supermarket-fined-Rs-200-000-over-uncertified-electrical-cords/108-348775",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787568985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e2323297",
+    "num": "dailymirrorlk-e2323297",
+    "date_str": "2026-08-24",
+    "description": "Are our banks losing credibility and public confidence?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Are-our-banks-losing-credibility-and-public-confidence/108-348776",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787570256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-b3c675c8",
+    "num": "tamilmirrorlk-b3c675c8",
+    "date_str": "2026-08-24",
+    "description": "\u0b92\u0bb0\u0bc7 \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u2018\u0ba4\u0bbf\u0b95\u0bcd. \u0ba4\u0bbf\u0b95\u0bcd.. \u0ba4\u0bbf\u0b95\u0bcd\u200b...\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b92\u0bb0\u0bc7-\u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0bcd-\u0ba4\u0bbf\u0b95\u0bcd-\u0ba4\u0bbf\u0b95\u0bcd/54-381858",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787570417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-tamilmirrorlk-2ec50fb4",
+    "num": "tamilmirrorlk-2ec50fb4",
+    "date_str": "2026-08-24",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-381859",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787571089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-24-dailymirrorlk-e6a35800",
+    "num": "dailymirrorlk-e6a35800",
+    "date_str": "2026-08-24",
+    "description": "Maryland memorial service for Nanda Malini, Siddhartha Thera",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Maryland-memorial-service-for-Nanda-Malini-Siddhartha-Thera/110-348777",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787572344.0
   }
 ]
