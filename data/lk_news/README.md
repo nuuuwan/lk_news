@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_08:21:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_10:07:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,317** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,321** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-24-tamilmirrorlk-653743bf",
-    "num": "tamilmirrorlk-653743bf",
+    "doc_id": "2026-08-24-tamilmirrorlk-6e145c11",
+    "num": "tamilmirrorlk-6e145c11",
     "date_str": "2026-08-24",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-381828",
+    "description": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3,\u0b9a\u0bb2\u0bcd\u0bb2\u0bbe\u0baa \u0b9a\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3-\u0b9a\u0bb2\u0bcd\u0bb2\u0bbe\u0baa-\u0b9a\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/50-381831",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787538551.0
+    "time_ut": 1787544647.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-24 | `tamilmirrorlk-6e145c11` | நிர்வாண,சல்லாப சொர்க்கமாக மாற்றத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-tamilmirrorlk-6e145c11)
+- 2026-08-24 | `tamilmirrorlk-d11d79cf` | ஆணையாளராக கமலராஜன் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-tamilmirrorlk-d11d79cf)
 - 2026-08-24 | `tamilmirrorlk-653743bf` | இன்றும் மழை பெய்யும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-tamilmirrorlk-653743bf)
+- 2026-08-24 | `adalk-6db55365` | බැකෝ සමන්ගේ මව ඝාතනයට සම්බන්ධ දෙදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-adalk-6db55365)
+- 2026-08-24 | `adalk-1440210f` | සැප්. 5 සිට ජනපති ප්‍රධානත්වයෙන් ජන රැළි මාලාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-adalk-1440210f)
 - 2026-08-24 | `adalk-98cc7f7d` | මෙරට වටිනාම ටයර් සන්නාමයේ බ්‍රෑන්ඩ් ෆයිනෑන්ස් තේරීම, ’සියැට්’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-adalk-98cc7f7d)
 - 2026-08-24 | `dailyftlk-81970571` | Dayasiri challenges 22nd Amendment  in Supreme Court over judges’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-81970571)
 - 2026-08-24 | `dailyftlk-2dcf7add` | SriLankan Airlines empowers talented Sri Lankan student in ShakthiSAT Mission project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-2dcf7add)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-24 | `dailyftlk-5c4685bd` | Foreign diplomats briefed on Sri Lanka Economic and Investment Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-5c4685bd)
 - 2026-08-24 | `dailyftlk-3ae0dd81` | Ceylon Chamber strengthens business links with Qatar and Lebanon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-3ae0dd81)
 - 2026-08-24 | `dailyftlk-56f56d06` | Abans appoints Buddhika Dharmawardene as new CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-56f56d06)
-- 2026-08-24 | `dailyftlk-49a652cf` | Celeste appoints Dayan Pandithasekera as COO to lead next growth phase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-49a652cf)
-- 2026-08-24 | `dailyftlk-25f4cb12` | Sri Lanka must push back on Washington’s ‘Transhipment Scam Report’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-25f4cb12)
-- 2026-08-24 | `dailyftlk-22bf24be` | Mangala: a man time has not taught us to forget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-22bf24be)
-- 2026-08-24 | `dailyftlk-aed1a16c` | Justice 15 years after rape:  A success story but can we celebrate? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-24-dailyftlk-aed1a16c)
 
 ---
 
