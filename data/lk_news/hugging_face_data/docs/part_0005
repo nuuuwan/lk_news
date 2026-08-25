@@ -26295,6 +26295,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-e5d956ff",
+    "num": "adalk-e5d956ff",
+    "date_str": "2026-08-24",
+    "description": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d87\u0dc3\u0dd4\u0dbb\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab \u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba LANKAPAK 2026",
+    "url_metadata": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0d87\u0dc3\u0dd4\u0dbb\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dab-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba-LANKAPAK-2026/7-423885",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787534107.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-adalk-1440210f",
     "num": "adalk-1440210f",
     "date_str": "2026-08-24",
@@ -27032,6 +27043,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-24-adalk-cb65b285",
+    "num": "adalk-cb65b285",
+    "date_str": "2026-08-24",
+    "description": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dbb\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0dd2 \u0db4\u0dd9\u0dbb\u0dc4\u0dbb \u0dc0\u0dd3\u0daf\u0dd2 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dbb\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0dd2-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb-\u0dc0\u0dd3\u0daf\u0dd2-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-423898",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787579257.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-24-dailymirrorlk-f6af0411",
     "num": "dailymirrorlk-f6af0411",
     "date_str": "2026-08-24",
@@ -27084,5 +27106,159 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787588907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-76b1b29e",
+    "num": "dailyftlk-76b1b29e",
+    "date_str": "2026-08-25",
+    "description": "After 47 deficit years: Sri Lanka must move from managing FX to creating it",
+    "url_metadata": "https://www.ft.lk/columns/After-47-deficit-years-Sri-Lanka-must-move-from-managing-FX-to-creating-it/4-796473",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787618093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-d2db65ee",
+    "num": "dailyftlk-d2db65ee",
+    "date_str": "2026-08-25",
+    "description": "Is modernisation without ETA adequate to avert Sri Lanka\u2019s next forex calamity?",
+    "url_metadata": "https://www.ft.lk/columns/Is-modernisation-without-ETA-adequate-to-avert-Sri-Lanka-s-next-forex-calamity/4-796475",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787618516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-7239eb3e",
+    "num": "dailyftlk-7239eb3e",
+    "date_str": "2026-08-25",
+    "description": "Second THRIVE PSC meets in Kilinochchi, ensuring gender equality central to district development",
+    "url_metadata": "https://www.ft.lk/business/Second-THRIVE-PSC-meets-in-Kilinochchi-ensuring-gender-equality-central-to-district-development/34-796477",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787619103.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-8ab6db84",
+    "num": "dailymirrorlk-8ab6db84",
+    "date_str": "2026-08-25",
+    "description": "Water supply temporarily suspended in Colombo and Gampaha areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-temporarily-suspended-in-Colombo-and-Gampaha-areas/108-348785",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787619201.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-fef0f163",
+    "num": "dailymirrorlk-fef0f163",
+    "date_str": "2026-08-25",
+    "description": "Underworld figure \u2018Bus Lalith\u2019 brought from Dubai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Underworld-figure-Bus-Lalith-brought-from-Dubai/108-348786",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787619494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-c925569e",
+    "num": "dailymirrorlk-c925569e",
+    "date_str": "2026-08-25",
+    "description": "Mangrove restoration begins in Araly",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Mangrove-restoration-begins-in-Araly/110-348787",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787620395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-32f117f1",
+    "num": "dailyftlk-32f117f1",
+    "date_str": "2026-08-25",
+    "description": "Broader base, thinner yield: A compliance gap which requires a fix \u2014 what Sri Lanka\u2019s VAT statistics reveal",
+    "url_metadata": "https://www.ft.lk/columns/Broader-base-thinner-yield-A-compliance-gap-which-requires-a-fix-what-Sri-Lanka-s-VAT-statistics-reveal/4-796484",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787620527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-9154671f",
+    "num": "adalk-9154671f",
+    "date_str": "2026-08-25",
+    "description": "PickMe Explore \u0dc3\u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d87\u0dbb\u0db9\u0dd2 \u2019Colombo Connect\u2019",
+    "url_metadata": "https://www.ada.lk/business/PickMe-Explore-\u0dc3\u0db8\u0d9c\u0dd2\u0db1\u0dca-\u0d87\u0dbb\u0db9\u0dd2-\u2019Colombo-Connect\u2019/7-423903",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787621096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-a8e87f69",
+    "num": "dailyftlk-a8e87f69",
+    "date_str": "2026-08-25",
+    "description": "When cigarette taxes go too far",
+    "url_metadata": "https://www.ft.lk/opinion/When-cigarette-taxes-go-too-far/14-796485",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787621659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-5c781701",
+    "num": "dailyftlk-5c781701",
+    "date_str": "2026-08-25",
+    "description": "Leaky bucket: Why widening  Sri Lanka\u2019s tax base is only half the battle",
+    "url_metadata": "https://www.ft.lk/columns/Leaky-bucket-Why-widening-Sri-Lanka-s-tax-base-is-only-half-the-battle/4-796486",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787621961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-b4b24ddb",
+    "num": "dailymirrorlk-b4b24ddb",
+    "date_str": "2026-08-25",
+    "description": "Water supply to be restored within next few hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-be-restored-within-next-few-hours/108-348788",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787622068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-ee1a1af9",
+    "num": "dailyftlk-ee1a1af9",
+    "date_str": "2026-08-25",
+    "description": "Ministerial \u2018Musical Chairs\u2019 fell by nearly 75% under AKD Presidency compared to his two predecessors",
+    "url_metadata": "https://www.ft.lk/opinion/Ministerial-Musical-Chairs-fell-by-nearly-75-under-AKD-Presidency-compared-to-his-two-predecessors/14-796488",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787622586.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-5a3896f6",
+    "num": "dailyftlk-5a3896f6",
+    "date_str": "2026-08-25",
+    "description": "Roundtable with Women\u2019s Parliamentary Caucus in Sri Lanka advances talks on financing care economy",
+    "url_metadata": "https://www.ft.lk/opinion/Roundtable-with-Women-s-Parliamentary-Caucus-in-Sri-Lanka-advances-talks-on-financing-care-economy/14-796489",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787623227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-ac6dc9bf",
+    "num": "tamilmirrorlk-ac6dc9bf",
+    "date_str": "2026-08-25",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb0\u0bb7\u0bcd\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb0\u0bb7\u0bcd\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/50-381874",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787624958.0
   }
 ]
