@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-25 15:55:45",
-  "n_docs": 128494,
+  "time_updated": "2026-08-25 17:59:24",
+  "n_docs": 128507,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128494,
+  "n_docs_with_text": 128507,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-25",
-  "dataset_size": 2000763789,
+  "dataset_size": 2000863934,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-25-dailymirrorlk-70ee51d0",
-    "num": "dailymirrorlk-70ee51d0",
+    "doc_id": "2026-08-25-dailymirrorlk-7b6e981b",
+    "num": "dailymirrorlk-7b6e981b",
     "date_str": "2026-08-25",
-    "description": "Training aircraft crashes at Ratmalana Airport",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Training-aircraft-crashes-at-Ratmalana-Airport/110-348851",
+    "description": "90-day extension obtained to detain Suresh Sallay",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/90-day-extension-obtained-to-detain-Suresh-Sallay/108-348857",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787652835.0
+    "time_ut": 1787659479.0
   }
 }
