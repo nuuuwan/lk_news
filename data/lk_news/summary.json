@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-25 12:00:30",
-  "n_docs": 128448,
+  "time_updated": "2026-08-25 14:05:33",
+  "n_docs": 128487,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128448,
+  "n_docs_with_text": 128487,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-25",
-  "dataset_size": 2000147188,
+  "dataset_size": 2000407234,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-25-dailymirrorlk-bfa254c9",
-    "num": "dailymirrorlk-bfa254c9",
+    "doc_id": "2026-08-25-dailymirrorlk-d6fad2c3",
+    "num": "dailymirrorlk-d6fad2c3",
     "date_str": "2026-08-25",
-    "description": "US$36bn export dream needs labour reform, not a 1940s engine: TPA\u2019s Barath Arullsamy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-36bn-export-dream-needs-labour-reform-not-a-1940s-engine-TPAs-Barath-Arullsamy/108-348827",
+    "description": "New service category for medical, dental specialists",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-service-category-for-medical-dental-specialists/108-348847",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787638161.0
+    "time_ut": 1787646390.0
   }
 }
