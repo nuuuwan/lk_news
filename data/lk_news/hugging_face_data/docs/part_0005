@@ -27252,6 +27252,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-18e936ac",
+    "num": "adalk-18e936ac",
+    "date_str": "2026-08-25",
+    "description": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0da7\u0dd2\u0d9a\u0d9a\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-423905",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787621514.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-25-dailyftlk-a8e87f69",
     "num": "dailyftlk-a8e87f69",
     "date_str": "2026-08-25",
@@ -27340,6 +27351,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-ec174891",
+    "num": "adalk-ec174891",
+    "date_str": "2026-08-25",
+    "description": "\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0d89\u0dc0\u0dad\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dba\u0da7-\u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba-\u0daf\u0d9a\u0dca\u0dc0\u0db1-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc3\u0dd2\u0dbb\u0dd2\u0dba\u0dcf\u0dc0-\u0d89\u0dc0\u0dad\u0da7/11-423906",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787626983.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-25-adalk-1bbd9660",
     "num": "adalk-1bbd9660",
     "date_str": "2026-08-25",
@@ -27403,5 +27425,126 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787631141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-1f1be2de",
+    "num": "dailymirrorlk-1f1be2de",
+    "date_str": "2026-08-25",
+    "description": "Sri Lanka to launch oil, gas licensing round today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-launch-oil-gas-licensing-round-today/108-348792",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787632017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-188fbae2",
+    "num": "dailymirrorlk-188fbae2",
+    "date_str": "2026-08-25",
+    "description": "Defence case concludes in Easter Sunday attacks trial; verdict set for September 22",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Defence-case-concludes-in-Easter-Sunday-attacks-trial-verdict-set-for-September-22/108-348793",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787632141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-bf3d53d6",
+    "num": "tamilmirrorlk-bf3d53d6",
+    "date_str": "2026-08-25",
+    "description": "\u0b95\u0bae\u0bcd\u0baa\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95 \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bae\u0bcd\u0baa\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/76-381881",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787633744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-6ecf41da",
+    "num": "dailymirrorlk-6ecf41da",
+    "date_str": "2026-08-25",
+    "description": "Indian nationals nabbed at BIA with cigarettes worth Rs. 834,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-nationals-nabbed-at-BIA-with-cigarettes-worth-Rs-834-000/108-348796",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787633951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-6616f536",
+    "num": "dailymirrorlk-6616f536",
+    "date_str": "2026-08-25",
+    "description": "Over 16,600 people affected by adverse weather",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-16-600-people-affected-by-adverse-weather/108-348798",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787634443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-7c183fa1",
+    "num": "dailymirrorlk-7c183fa1",
+    "date_str": "2026-08-25",
+    "description": "Tug-of-war delays cancer treatment equipment for five years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tug-of-war-delays-cancer-treatment-equipment-for-five-years/108-348799",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787634732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-493e7842",
+    "num": "dailymirrorlk-493e7842",
+    "date_str": "2026-08-25",
+    "description": "BASL raises gratification concern over judges\u2019 tenure extension",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-raises-gratification-concern-over-judges-tenure-extension/108-348803",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787635400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-8e13bc15",
+    "num": "dailymirrorlk-8e13bc15",
+    "date_str": "2026-08-25",
+    "description": "New Anthoney\u2019s Farms recognised as a Global Sustainability Leader at Soy Connext 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-Anthoneys-Farms-recognised-as-a-Global-Sustainability-Leader-at-Soy-Connext-2026/273-348805",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787635539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-6abce0e5",
+    "num": "dailymirrorlk-6abce0e5",
+    "date_str": "2026-08-25",
+    "description": "Forensic report submitted to court in Ven. Hemaratana Thera case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Forensic-report-submitted-to-court-in-Ven-Hemaratana-Thera-case/108-348812",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787636036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-22046341",
+    "num": "dailymirrorlk-22046341",
+    "date_str": "2026-08-25",
+    "description": "US removes Syria from list of state sponsors of terrorism",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-removes-Syria-from-list-of-state-sponsors-of-terrorism/108-348814",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787636292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-bfa254c9",
+    "num": "dailymirrorlk-bfa254c9",
+    "date_str": "2026-08-25",
+    "description": "US$36bn export dream needs labour reform, not a 1940s engine: TPA\u2019s Barath Arullsamy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-36bn-export-dream-needs-labour-reform-not-a-1940s-engine-TPAs-Barath-Arullsamy/108-348827",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787638161.0
   }
 ]

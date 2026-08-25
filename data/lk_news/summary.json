@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-25 10:02:09",
-  "n_docs": 128435,
+  "time_updated": "2026-08-25 12:00:30",
+  "n_docs": 128448,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128435,
+  "n_docs_with_text": 128448,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-25",
-  "dataset_size": 1999974596,
+  "dataset_size": 2000147188,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-25-dailymirrorlk-96a7cf9b",
-    "num": "dailymirrorlk-96a7cf9b",
+    "doc_id": "2026-08-25-dailymirrorlk-bfa254c9",
+    "num": "dailymirrorlk-bfa254c9",
     "date_str": "2026-08-25",
-    "description": "French tourist dies in Death Valley after car gets stuck in mud",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-tourist-dies-in-Death-Valley-after-car-gets-stuck-in-mud/108-348791",
+    "description": "US$36bn export dream needs labour reform, not a 1940s engine: TPA\u2019s Barath Arullsamy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-36bn-export-dream-needs-labour-reform-not-a-1940s-engine-TPAs-Barath-Arullsamy/108-348827",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787631141.0
+    "time_ut": 1787638161.0
   }
 }
