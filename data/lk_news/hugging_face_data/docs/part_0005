@@ -27890,6 +27890,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-55645828",
+    "num": "adalk-55645828",
+    "date_str": "2026-08-25",
+    "description": "\u0db6\u0dc3\u0dca \u0dbd\u0dbd\u0dd2\u0dad\u0dd2\u0d9c\u0dda \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dc3\u0dca-\u0dbd\u0dbd\u0dd2\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0db4\u0dbb\u0dcf\u0db0-\u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db8\u0dd9\u0db1\u0dca\u0db1/11-423911",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787643292.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-25-dailymirrorlk-0a347b6f",
     "num": "dailymirrorlk-0a347b6f",
     "date_str": "2026-08-25",
@@ -27975,5 +27986,71 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787646390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-315b91de",
+    "num": "dailymirrorlk-315b91de",
+    "date_str": "2026-08-25",
+    "description": "Court fines Jaffna restaurant Rs. 950,000 for overcharging on bottled water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-fines-Jaffna-restaurant-Rs-950-000-for-overcharging-on-bottled-water/108-348848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787647688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-164e3bac",
+    "num": "dailymirrorlk-164e3bac",
+    "date_str": "2026-08-25",
+    "description": "Training aircraft crashes during landing at Ratmalana Airport",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Training-aircraft-crashes-during-landing-at-Ratmalana-Airport/108-348849",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787647765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-d9ec7a56",
+    "num": "dailymirrorlk-d9ec7a56",
+    "date_str": "2026-08-25",
+    "description": "Castlereagh, Maussakelle reservoirs reach overflow levels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Castlereagh-Maussakelle-reservoirs-reach-overflow-levels/108-348850",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787648035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-68445842",
+    "num": "tamilmirrorlk-68445842",
+    "date_str": "2026-08-25",
+    "description": "\u2019\u0b8e\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcb\u2019 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd/175-381886",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787651188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-1b6a3ca2",
+    "num": "tamilmirrorlk-1b6a3ca2",
+    "date_str": "2026-08-25",
+    "description": "\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd \u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd-\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-381888",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787651803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-70ee51d0",
+    "num": "dailymirrorlk-70ee51d0",
+    "date_str": "2026-08-25",
+    "description": "Training aircraft crashes at Ratmalana Airport",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Training-aircraft-crashes-at-Ratmalana-Airport/110-348851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787652835.0
   }
 ]
