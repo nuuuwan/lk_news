@@ -27131,6 +27131,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-bab8a7ab",
+    "num": "dailyftlk-bab8a7ab",
+    "date_str": "2026-08-25",
+    "description": "FSP claims 22nd A aimed at clearing obstacles to Govt.\u2019s economic agenda",
+    "url_metadata": "https://www.ft.lk/news/FSP-claims-22nd-A-aimed-at-clearing-obstacles-to-Govt-s-economic-agenda/56-796476",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787618792.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-25-dailyftlk-7239eb3e",
     "num": "dailyftlk-7239eb3e",
     "date_str": "2026-08-25",
@@ -27153,6 +27164,28 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-8cd91543",
+    "num": "dailyftlk-8cd91543",
+    "date_str": "2026-08-25",
+    "description": "GLF Founder Geoffrey Dobbs passes away at 73",
+    "url_metadata": "https://www.ft.lk/news/GLF-Founder-Geoffrey-Dobbs-passes-away-at-73/56-796478",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787619364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailyftlk-37acb93f",
+    "num": "dailyftlk-37acb93f",
+    "date_str": "2026-08-25",
+    "description": "Sajith questions rice imports despite claimed surplus",
+    "url_metadata": "https://www.ft.lk/news/Sajith-questions-rice-imports-despite-claimed-surplus/56-796479",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787619430.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-25-dailymirrorlk-fef0f163",
     "num": "dailymirrorlk-fef0f163",
     "date_str": "2026-08-25",
@@ -27161,6 +27194,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787619494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-c30d9ea7",
+    "num": "adalk-c30d9ea7",
+    "date_str": "2026-08-25",
+    "description": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u00a0126\u0d9a\u0dca  \u0db4\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dab\u0dba \u0d9a\u0dbb \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0d86\u0db1\u0dba\u0db1\u0dba \u0db1\u0ddc\u0d9a\u0dc5  69\u0d9a\u0da7 \u0db1\u0dd3\u0dad\u0dd2 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0dbb\u0db1\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u00a0126\u0d9a\u0dca--\u0db4\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dab\u0dba-\u0d9a\u0dbb-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0db1\u0ddc\u0d9a\u0dc5--69\u0d9a\u0da7-\u0db1\u0dd3\u0dad\u0dd2-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0dbb\u0db1\u0dca-\u0db1\u0dd1/11-423901",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787620252.0
   },
   {
     "doc_type": "lk_news",
@@ -27183,6 +27227,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1787620527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-e867699a",
+    "num": "adalk-e867699a",
+    "date_str": "2026-08-25",
+    "description": "\u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dbb\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0dd2 \u0db4\u0dd9\u0dbb\u0dc4\u0dbb \u0d85\u0daf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dbb\u0db1\u0dca\u0daf\u0ddd\u0dbd\u0dd2-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb-\u0d85\u0daf/11-423902",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787620531.0
   },
   {
     "doc_type": "lk_news",
@@ -27260,5 +27315,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787624958.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-3fd5a5c7",
+    "num": "tamilmirrorlk-3fd5a5c7",
+    "date_str": "2026-08-25",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd 6.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bcb \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd-6-1-\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0baf\u0bc2\u0bb0\u0bcb-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf/50-381875",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787625396.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-f5ac9c87",
+    "num": "tamilmirrorlk-f5ac9c87",
+    "date_str": "2026-08-25",
+    "description": "2 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2-\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-381877",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787626499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-adalk-1bbd9660",
+    "num": "adalk-1bbd9660",
+    "date_str": "2026-08-25",
+    "description": "\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0db4\u0dbb\u0dcf\u0db0\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0dc0\u0dd9\u0db1 \u0db6\u0dc3\u0dca \u0dbd\u0dbd\u0dd2\u0dad\u0dca \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0dc0\u0dd9\u0db1-\u0db6\u0dc3\u0dca-\u0dbd\u0dbd\u0dd2\u0dad\u0dca-\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2-\u0dc3\u0dd2\u0da7-\u0dbb\u0dd0\u0d9c\u0dd9\u0db1-\u0d91\u0dba\u0dd2/11-423907",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787627414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-c9afd53b",
+    "num": "dailymirrorlk-c9afd53b",
+    "date_str": "2026-08-25",
+    "description": "Iran vows to retaliate after US widens sanctions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-vows-to-retaliate-after-US-widens-sanctions/108-348789",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787630174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-0483be24",
+    "num": "dailymirrorlk-0483be24",
+    "date_str": "2026-08-25",
+    "description": "India\u2019s TCS to buy Porsche\u2019s IT unit, bags 5-year deal worth $1.46 billion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indias-TCS-to-buy-Porsches-IT-unit-bags-5-year-deal-worth-1-46-billion/108-348790",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787630329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-15f277d7",
+    "num": "tamilmirrorlk-15f277d7",
+    "date_str": "2026-08-25",
+    "description": "\u0b9a\u0bc0\u0ba9 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381878",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787630414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-tamilmirrorlk-9d1e760a",
+    "num": "tamilmirrorlk-9d1e760a",
+    "date_str": "2026-08-25",
+    "description": "\u2019\u0b95\u0bc1\u0bb3\u0bc1 \u0bb2\u0bb2\u0bbf\u0ba4\u0bcd\u2019 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb3\u0bc1-\u0bb2\u0bb2\u0bbf\u0ba4\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-381879",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787630720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-25-dailymirrorlk-96a7cf9b",
+    "num": "dailymirrorlk-96a7cf9b",
+    "date_str": "2026-08-25",
+    "description": "French tourist dies in Death Valley after car gets stuck in mud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-tourist-dies-in-Death-Valley-after-car-gets-stuck-in-mud/108-348791",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787631141.0
   }
 ]
