@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--25_18:00:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--25_20:05:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,507** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,512** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-25-dailymirrorlk-7b6e981b",
-    "num": "dailymirrorlk-7b6e981b",
+    "doc_id": "2026-08-25-dailymirrorlk-1f8330d6",
+    "num": "dailymirrorlk-1f8330d6",
     "date_str": "2026-08-25",
-    "description": "90-day extension obtained to detain Suresh Sallay",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/90-day-extension-obtained-to-detain-Suresh-Sallay/108-348857",
+    "description": "Eleven new envoys present credentials to President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eleven-new-envoys-present-credentials-to-President/108-348859",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787659479.0
+    "time_ut": 1787666528.0
 }
 ```
 
@@ -41,8 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-25 | `dailymirrorlk-1f8330d6` | Eleven new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-1f8330d6)
+- 2026-08-25 | `tamilmirrorlk-f9957a39` | புதிய இராஜதந்திரிகள் 11 பேர் நற்சான்றிதழ்களை கையளித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-f9957a39)
+- 2026-08-25 | `dailymirrorlk-77566af3` | Govt. prepares for El Niño food supply risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-77566af3)
+- 2026-08-25 | `tamilmirrorlk-1988e04d` | சலேக்கு மேலும் 90 நாள்  தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-1988e04d)
 - 2026-08-25 | `dailymirrorlk-7b6e981b` | 90-day extension obtained to detain Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-7b6e981b)
 - 2026-08-25 | `dailymirrorlk-895197cf` | UN and Red Cross warn ’risks have intensified,’ urge regulation of killer robots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-895197cf)
+- 2026-08-25 | `adalk-3270b807` | කටුනායක ගුවන් තොටුපොළේ සංචාර සේවා කවුන්ටර් 6ට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-3270b807)
 - 2026-08-25 | `tamilmirrorlk-ad0d42b0` | ’’QR விநியோக முறை தொடரும்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-ad0d42b0)
 - 2026-08-25 | `dailymirrorlk-fdbb47c2` | QR fuel system to continue amid Middle East tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-fdbb47c2)
 - 2026-08-25 | `tamilmirrorlk-36c5396f` | பட்டங்கள் பறக்கவிடும் விவகாரம்: ஐ.நா. கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-36c5396f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-08-25 | `tamilmirrorlk-1b6a3ca2` | நோர்வூட் அஸ்வெசும மோசடி: அதிகாரிகள் இருவரின் விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-1b6a3ca2)
 - 2026-08-25 | `tamilmirrorlk-68445842` | ’எல் நினோ’ தாக்கத்தால் மின்வெட்டு அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-68445842)
 - 2026-08-25 | `adalk-6be2e620` | 2027 අවුරුදු නැකැත් සීට්ටුව ප්‍රකාශයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-6be2e620)
-- 2026-08-25 | `dailymirrorlk-d9ec7a56` | Castlereagh, Maussakelle reservoirs reach overflow levels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-d9ec7a56)
-- 2026-08-25 | `dailymirrorlk-164e3bac` | Training aircraft crashes during landing at Ratmalana Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-164e3bac)
-- 2026-08-25 | `dailymirrorlk-315b91de` | Court fines Jaffna restaurant Rs. 950,000 for overcharging on bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-315b91de)
-- 2026-08-25 | `dailymirrorlk-d6fad2c3` | New service category for medical, dental specialists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-d6fad2c3)
-- 2026-08-25 | `dailymirrorlk-5ab13576` | Retd. Air Vice Marshal Fernando appointed DMT Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-5ab13576)
 
 ---
 

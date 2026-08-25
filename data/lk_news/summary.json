@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-25 17:59:24",
-  "n_docs": 128507,
+  "time_updated": "2026-08-25 20:04:02",
+  "n_docs": 128512,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128507,
+  "n_docs_with_text": 128512,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-25",
-  "dataset_size": 2000863934,
+  "dataset_size": 2001021227,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-25-dailymirrorlk-7b6e981b",
-    "num": "dailymirrorlk-7b6e981b",
+    "doc_id": "2026-08-25-dailymirrorlk-1f8330d6",
+    "num": "dailymirrorlk-1f8330d6",
     "date_str": "2026-08-25",
-    "description": "90-day extension obtained to detain Suresh Sallay",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/90-day-extension-obtained-to-detain-Suresh-Sallay/108-348857",
+    "description": "Eleven new envoys present credentials to President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eleven-new-envoys-present-credentials-to-President/108-348859",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787659479.0
+    "time_ut": 1787666528.0
   }
 }
