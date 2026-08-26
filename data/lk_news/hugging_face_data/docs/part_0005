@@ -29287,6 +29287,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-26-adalk-9a912b12",
+    "num": "adalk-9a912b12",
+    "date_str": "2026-08-26",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0d85\u0dc1\u0dca\u0dc0 \u0db6\u0dbd 85\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dbd\u0da7 \u0dad\u0dc4\u0db1\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2-\u0dc0\u0dd0\u0dc0\u0dda-\u0d85\u0dc1\u0dca\u0dc0-\u0db6\u0dbd-85\u0da7-\u0dc0\u0dd0\u0da9\u0dd2-\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dbd\u0da7-\u0dad\u0dc4\u0db1\u0db8\u0d9a\u0dca/11-423924",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787732884.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-26-dailymirrorlk-e68b027e",
     "num": "dailymirrorlk-e68b027e",
     "date_str": "2026-08-26",
@@ -29515,5 +29526,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787746854.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailymirrorlk-83f43a62",
+    "num": "dailymirrorlk-83f43a62",
+    "date_str": "2026-08-26",
+    "description": "Devastating flash flood on Nepal-Tibet border kills nine, hundreds of tourists missing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Devastating-flash-flood-on-Nepal-Tibet-border-kills-nine-hundreds-of-tourists-missing/108-348933",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787747063.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-tamilmirrorlk-4d66e6c4",
+    "num": "tamilmirrorlk-4d66e6c4",
+    "date_str": "2026-08-26",
+    "description": "\u2019\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb4\u0bc1\u0bae\u0bcd \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0bae\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0bb4\u0bc1\u0bae\u0bcd-\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf-\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0bae\u0bcd/175-381966",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787748434.0
   }
 ]
