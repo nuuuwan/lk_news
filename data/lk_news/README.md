@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--26_03:51:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--26_06:04:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,518** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,526** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-tamilmirrorlk-cd41918f",
-    "num": "tamilmirrorlk-cd41918f",
+    "doc_id": "2026-08-26-dailyftlk-20923df2",
+    "num": "dailyftlk-20923df2",
     "date_str": "2026-08-26",
-    "description": "\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd: \u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bae\u0bb2\u0bcd\u0bb9\u0bbe\u0b9a\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0ba3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95-\u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bae\u0bb2\u0bcd\u0bb9\u0bbe\u0b9a\u0ba9\u0bcd-\u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/175-381913",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787692554.0
+    "description": "Amendments and judges: Random thoughts",
+    "url_metadata": "https://www.ft.lk/columns/Amendments-and-judges-Random-thoughts/4-796520",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787700996.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-26 | `dailyftlk-20923df2` | Amendments and judges: Random thoughts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-20923df2)
+- 2026-08-26 | `dailyftlk-336e61b2` | Sri Lanka’s inflation target review: Case for caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-336e61b2)
+- 2026-08-26 | `dailyftlk-acd15610` | Existential realism: Rethinking Sri Lanka’s international relations in a de-globalising world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-acd15610)
+- 2026-08-26 | `dailyftlk-e1dde384` | Governance and technology – Focus on AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-e1dde384)
+- 2026-08-26 | `dailyftlk-710cde8e` | SL eyes major cruise tourism boost to convert Colombo as hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-710cde8e)
+- 2026-08-26 | `dailyftlk-8f57a961` | Prasad Samarasinghe appointed Chairman of HNB Finance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-8f57a961)
+- 2026-08-26 | `dailyftlk-350b044e` | Cool Planet joins Dialog Pay merchant ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-350b044e)
+- 2026-08-26 | `dailyftlk-493e7842` | BASL raises gratification concern over judges’ tenure extension | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-493e7842)
 - 2026-08-26 | `tamilmirrorlk-cd41918f` | பாரதிராஜாவுக்கு மணிமண்டபம்: தமிழக அரசுக்கு கமல்ஹாசன் பாராட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-cd41918f)
 - 2026-08-25 | `tamilmirrorlk-12f9e48c` | மீன்பிடி வலையில் சிக்கி இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-12f9e48c)
 - 2026-08-25 | `tamilmirrorlk-0bdc39db` | ஆஸ்திரேலியா–இலங்கை இடையே பறக்கத் தொடங்கிய ஜெட்ஸ்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-0bdc39db)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-25 | `dailymirrorlk-7b6e981b` | 90-day extension obtained to detain Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-7b6e981b)
 - 2026-08-25 | `adalk-08c59b57` | කෙහෙල්බද්දර පද්මේ රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-08c59b57)
 - 2026-08-25 | `dailymirrorlk-895197cf` | UN and Red Cross warn ’risks have intensified,’ urge regulation of killer robots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-895197cf)
-- 2026-08-25 | `adalk-3270b807` | කටුනායක ගුවන් තොටුපොළේ සංචාර සේවා කවුන්ටර් 6ට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-3270b807)
-- 2026-08-25 | `tamilmirrorlk-ad0d42b0` | ’’QR விநியோக முறை தொடரும்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-ad0d42b0)
-- 2026-08-25 | `dailymirrorlk-fdbb47c2` | QR fuel system to continue amid Middle East tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-fdbb47c2)
-- 2026-08-25 | `tamilmirrorlk-36c5396f` | பட்டங்கள் பறக்கவிடும் விவகாரம்: ஐ.நா. கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-36c5396f)
-- 2026-08-25 | `dailymirrorlk-be36cd13` | Billions in Mannar basin oil and gas put up for international exploration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-be36cd13)
-- 2026-08-25 | `tamilmirrorlk-da41e94c` | ஹிஜாப் இஸ்லாத்திற்கு அவசியமானது அல்ல: உயர் நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-da41e94c)
-- 2026-08-25 | `tamilmirrorlk-bdd18433` | குப்பை மேடு சரிந்து விழுந்ததில் 30 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-bdd18433)
-- 2026-08-25 | `dailymirrorlk-072adad3` | Man held over illegal road construction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-072adad3)
 
 ---
 

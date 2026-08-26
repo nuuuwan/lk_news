@@ -28316,5 +28316,93 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787692554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-493e7842",
+    "num": "dailyftlk-493e7842",
+    "date_str": "2026-08-26",
+    "description": "BASL raises gratification concern over judges\u2019 tenure extension",
+    "url_metadata": "https://www.ft.lk/news/BASL-raises-gratification-concern-over-judges-tenure-extension/56-796511",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787697551.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-350b044e",
+    "num": "dailyftlk-350b044e",
+    "date_str": "2026-08-26",
+    "description": "Cool Planet joins Dialog Pay merchant ecosystem",
+    "url_metadata": "https://www.ft.lk/business/Cool-Planet-joins-Dialog-Pay-merchant-ecosystem/34-796512",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787697630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-8f57a961",
+    "num": "dailyftlk-8f57a961",
+    "date_str": "2026-08-26",
+    "description": "Prasad Samarasinghe appointed Chairman of HNB Finance",
+    "url_metadata": "https://www.ft.lk/business/Prasad-Samarasinghe-appointed-Chairman-of-HNB-Finance/34-796513",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787697691.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-710cde8e",
+    "num": "dailyftlk-710cde8e",
+    "date_str": "2026-08-26",
+    "description": "SL eyes major cruise tourism boost to convert Colombo as hub",
+    "url_metadata": "https://www.ft.lk/business/SL-eyes-major-cruise-tourism-boost-to-convert-Colombo-as-hub/34-796514",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787697736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-e1dde384",
+    "num": "dailyftlk-e1dde384",
+    "date_str": "2026-08-26",
+    "description": "Governance and technology \u2013 Focus on AI",
+    "url_metadata": "https://www.ft.lk/columns/Governance-and-technology-Focus-on-AI/4-796516",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787698158.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-acd15610",
+    "num": "dailyftlk-acd15610",
+    "date_str": "2026-08-26",
+    "description": "Existential realism: Rethinking Sri Lanka\u2019s international relations in a de-globalising world",
+    "url_metadata": "https://www.ft.lk/columns/Existential-realism-Rethinking-Sri-Lanka-s-international-relations-in-a-de-globalising-world/4-796518",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787700332.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-336e61b2",
+    "num": "dailyftlk-336e61b2",
+    "date_str": "2026-08-26",
+    "description": "Sri Lanka\u2019s inflation target review: Case for caution",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-inflation-target-review-Case-for-caution/4-796519",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787700638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailyftlk-20923df2",
+    "num": "dailyftlk-20923df2",
+    "date_str": "2026-08-26",
+    "description": "Amendments and judges: Random thoughts",
+    "url_metadata": "https://www.ft.lk/columns/Amendments-and-judges-Random-thoughts/4-796520",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1787700996.0
   }
 ]
