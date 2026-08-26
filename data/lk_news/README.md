@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--26_22:15:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--27_00:33:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,632** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,633** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-dailymirrorlk-151f1724",
-    "num": "dailymirrorlk-151f1724",
+    "doc_id": "2026-08-26-tamilmirrorlk-a23e5aca",
+    "num": "tamilmirrorlk-a23e5aca",
     "date_str": "2026-08-26",
-    "description": "Sri Lanka stands in full solidarity with government, people of Nepal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-stands-in-full-solidarity-with-government-people-of-Nepal/108-348935",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787759347.0
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 42 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd \u0ba8\u0baa\u0bbf \u0b85\u0bb0\u0b9a \u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-42-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd-\u0ba8\u0baa\u0bbf-\u0b85\u0bb0\u0b9a-\u0bb5\u0bbf\u0bb4\u0bbe/175-381969",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787768799.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-26 | `tamilmirrorlk-a23e5aca` | ஜனாதிபதியின் தலைமையில் 42 ஆவது தேசிய மிலாதுன் நபி அரச விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-a23e5aca)
 - 2026-08-26 | `dailymirrorlk-151f1724` | Sri Lanka stands in full solidarity with government, people of Nepal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-151f1724)
 - 2026-08-26 | `dailymirrorlk-08387acb` | 133 Indians missing in Nepal flash flood; 95 killed; Bihar, UP borders on alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-08387acb)
 - 2026-08-26 | `tamilmirrorlk-4d66e6c4` | ’இந்தியாவில் வாழும் அகதிகள் அச்சமின்றி நாடு திரும்பலாம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-4d66e6c4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-26 | `tamilmirrorlk-9dc21fb3` | கணவனின் கத்திக்குத்தில் மனைவி பலி; கணவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-9dc21fb3)
 - 2026-08-26 | `dailymirrorlk-22183428` | Railway Unions raise concerns over lack of special trains during school holidays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-22183428)
 - 2026-08-26 | `dailymirrorlk-6e0b3229` | Fire kills 14 newborns at major hospital in Pakistan, officials say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-6e0b3229)
-- 2026-08-26 | `dailymirrorlk-d507b55e` | Brazil fines TikTok owner ByteDance for unlawful processing of teenagers’ data | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-d507b55e)
 
 ---
 

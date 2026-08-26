@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-26 22:14:51",
-  "n_docs": 128632,
+  "time_updated": "2026-08-27 00:32:04",
+  "n_docs": 128633,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128632,
+  "n_docs_with_text": 128633,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-26",
-  "dataset_size": 2002916369,
+  "dataset_size": 2002948956,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-dailymirrorlk-151f1724",
-    "num": "dailymirrorlk-151f1724",
+    "doc_id": "2026-08-26-tamilmirrorlk-a23e5aca",
+    "num": "tamilmirrorlk-a23e5aca",
     "date_str": "2026-08-26",
-    "description": "Sri Lanka stands in full solidarity with government, people of Nepal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-stands-in-full-solidarity-with-government-people-of-Nepal/108-348935",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787759347.0
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 42 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd \u0ba8\u0baa\u0bbf \u0b85\u0bb0\u0b9a \u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-42-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd-\u0ba8\u0baa\u0bbf-\u0b85\u0bb0\u0b9a-\u0bb5\u0bbf\u0bb4\u0bbe/175-381969",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787768799.0
   }
 }

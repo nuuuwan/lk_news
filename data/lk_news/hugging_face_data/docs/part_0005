@@ -29570,5 +29570,16 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787759347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-tamilmirrorlk-a23e5aca",
+    "num": "tamilmirrorlk-a23e5aca",
+    "date_str": "2026-08-26",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 42 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd \u0ba8\u0baa\u0bbf \u0b85\u0bb0\u0b9a \u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-42-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd-\u0ba8\u0baa\u0bbf-\u0b85\u0bb0\u0b9a-\u0bb5\u0bbf\u0bb4\u0bbe/175-381969",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787768799.0
   }
 ]
