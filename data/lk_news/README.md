@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--26_06:04:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--26_08:21:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,526** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,529** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-dailyftlk-20923df2",
-    "num": "dailyftlk-20923df2",
+    "doc_id": "2026-08-26-dailymirrorlk-0d13b2d3",
+    "num": "dailymirrorlk-0d13b2d3",
     "date_str": "2026-08-26",
-    "description": "Amendments and judges: Random thoughts",
-    "url_metadata": "https://www.ft.lk/columns/Amendments-and-judges-Random-thoughts/4-796520",
+    "description": "Dolly Parton, country music icon and \u2018Jolene\u2019 singer, dies at 80",
+    "url_metadata": "https://www.dailymirror.lk/international/Dolly-Parton-country-music-icon-and-Jolene-singer-dies-at-80/107-348888",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1787700996.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787712223.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-26 | `dailymirrorlk-0d13b2d3` | Dolly Parton, country music icon and ‘Jolene’ singer, dies at 80 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-0d13b2d3)
+- 2026-08-26 | `tamilmirrorlk-f33665f1` | காலநிலையில் இன்று ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-f33665f1)
 - 2026-08-26 | `dailyftlk-20923df2` | Amendments and judges: Random thoughts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-20923df2)
 - 2026-08-26 | `dailyftlk-336e61b2` | Sri Lanka’s inflation target review: Case for caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-336e61b2)
 - 2026-08-26 | `dailyftlk-acd15610` | Existential realism: Rethinking Sri Lanka’s international relations in a de-globalising world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailyftlk-acd15610)
@@ -53,14 +55,12 @@ A collection of lk_news documents.
 - 2026-08-25 | `tamilmirrorlk-12f9e48c` | மீன்பிடி வலையில் சிக்கி இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-12f9e48c)
 - 2026-08-25 | `tamilmirrorlk-0bdc39db` | ஆஸ்திரேலியா–இலங்கை இடையே பறக்கத் தொடங்கிய ஜெட்ஸ்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-0bdc39db)
 - 2026-08-25 | `dailymirrorlk-1adb2351` | Parliament Committee seeks Police Proposals to Ease Prison Overcrowding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-1adb2351)
+- 2026-08-25 | `adalk-dde848a4` | පළාත් සභා හැර මැතිවරණ පද්ධතිය ප්‍රතිසංස්කරණ කිරිමේ විශේශඥ මණ්ඩලය වැඩ අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-dde848a4)
 - 2026-08-25 | `adalk-f10a7173` | 22 ඉදිරිපත් කළේ අධිකරණ පද්ධතියේ පුළුල් ප්‍රතිසංස්කරණයක් සිදු කිරීමේ අරමුණින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-f10a7173)
 - 2026-08-25 | `dailymirrorlk-1f8330d6` | Eleven new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-1f8330d6)
 - 2026-08-25 | `tamilmirrorlk-f9957a39` | புதிய இராஜதந்திரிகள் 11 பேர் நற்சான்றிதழ்களை கையளித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-f9957a39)
 - 2026-08-25 | `dailymirrorlk-77566af3` | Govt. prepares for El Niño food supply risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-77566af3)
 - 2026-08-25 | `tamilmirrorlk-1988e04d` | சலேக்கு மேலும் 90 நாள்  தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-tamilmirrorlk-1988e04d)
-- 2026-08-25 | `dailymirrorlk-7b6e981b` | 90-day extension obtained to detain Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-7b6e981b)
-- 2026-08-25 | `adalk-08c59b57` | කෙහෙල්බද්දර පද්මේ රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-adalk-08c59b57)
-- 2026-08-25 | `dailymirrorlk-895197cf` | UN and Red Cross warn ’risks have intensified,’ urge regulation of killer robots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-25-dailymirrorlk-895197cf)
 
 ---
 

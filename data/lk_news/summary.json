@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-26 06:03:50",
-  "n_docs": 128526,
+  "time_updated": "2026-08-26 08:20:41",
+  "n_docs": 128529,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128526,
+  "n_docs_with_text": 128529,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-26",
-  "dataset_size": 2001200785,
+  "dataset_size": 2001359770,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-dailyftlk-20923df2",
-    "num": "dailyftlk-20923df2",
+    "doc_id": "2026-08-26-dailymirrorlk-0d13b2d3",
+    "num": "dailymirrorlk-0d13b2d3",
     "date_str": "2026-08-26",
-    "description": "Amendments and judges: Random thoughts",
-    "url_metadata": "https://www.ft.lk/columns/Amendments-and-judges-Random-thoughts/4-796520",
+    "description": "Dolly Parton, country music icon and \u2018Jolene\u2019 singer, dies at 80",
+    "url_metadata": "https://www.dailymirror.lk/international/Dolly-Parton-country-music-icon-and-Jolene-singer-dies-at-80/107-348888",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1787700996.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787712223.0
   }
 }
