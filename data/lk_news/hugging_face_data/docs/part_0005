@@ -29548,5 +29548,27 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787748434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailymirrorlk-08387acb",
+    "num": "dailymirrorlk-08387acb",
+    "date_str": "2026-08-26",
+    "description": "133 Indians missing in Nepal flash flood; 95 killed; Bihar, UP borders on alert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/133-Indians-missing-in-Nepal-flash-flood-95-killed-Bihar-UP-borders-on-alert/108-348934",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787754572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-26-dailymirrorlk-151f1724",
+    "num": "dailymirrorlk-151f1724",
+    "date_str": "2026-08-26",
+    "description": "Sri Lanka stands in full solidarity with government, people of Nepal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-stands-in-full-solidarity-with-government-people-of-Nepal/108-348935",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787759347.0
   }
 ]
