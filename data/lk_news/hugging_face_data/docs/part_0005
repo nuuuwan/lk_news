@@ -29606,6 +29606,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-26-tamilmirrorlk-69ceb253",
+    "num": "tamilmirrorlk-69ceb253",
+    "date_str": "2026-08-26",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd  \u0b87\u0ba9\u0bb5\u0bbe\u0ba4\u0bae\u0bcd, \u0bae\u0ba4\u0bb5\u0bbe\u0ba4\u0bae\u0bcd  \u0b8f\u0bb1\u0bcd\u0baa\u0b9f \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc7\u0ba9\u0bcd: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b87\u0ba9\u0bb5\u0bbe\u0ba4\u0bae\u0bcd-\u0bae\u0ba4\u0bb5\u0bbe\u0ba4\u0bae\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc7\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-381969",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787768799.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-26-tamilmirrorlk-a23e5aca",
     "num": "tamilmirrorlk-a23e5aca",
     "date_str": "2026-08-26",
@@ -29672,6 +29683,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-ae68b36e",
+    "num": "dailymirrorlk-ae68b36e",
+    "date_str": "2026-08-27",
+    "description": "Are Sri Lanka\u2019s wildlife laws enough to stop the destruction of medicinal plants?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Are-Sri-Lankas-wildlife-laws-enough-to-stop-the-destruction-of-medicinal-plants/108-348936",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787796946.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-27-tamilmirrorlk-4b09a2dd",
     "num": "tamilmirrorlk-4b09a2dd",
     "date_str": "2026-08-27",
@@ -29680,6 +29702,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787797696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-d5aaf7af",
+    "num": "dailymirrorlk-d5aaf7af",
+    "date_str": "2026-08-27",
+    "description": "Prison overcrowding to ease in one month: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prison-overcrowding-to-ease-in-one-month-Minister/108-348937",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787801364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-760bd18f",
+    "num": "dailymirrorlk-760bd18f",
+    "date_str": "2026-08-27",
+    "description": "SL ranks 120th among 130 countries in ILO wage study",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SL-ranks-120th-among-130-countries-in-ILO-wage-study/108-348938",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787801510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-11717325",
+    "num": "dailymirrorlk-11717325",
+    "date_str": "2026-08-27",
+    "description": "Sri Lanka offers support to Nepal in flood rescue and clearance operations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-offers-support-to-Nepal-in-flood-rescue-and-clearance-operations/108-348941",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787802946.0
   },
   {
     "doc_type": "lk_news",
@@ -29702,5 +29757,159 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787805471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-9a94db6d",
+    "num": "dailymirrorlk-9a94db6d",
+    "date_str": "2026-08-27",
+    "description": "Vijitha Herath telephones Nepal Foreign Minister; offers support",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-telephones-Nepal-Foreign-Minister-offers-support/108-348944",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787806310.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-1b7d1e49",
+    "num": "tamilmirrorlk-1b7d1e49",
+    "date_str": "2026-08-27",
+    "description": "\u0bae\u0bbe\u0baf\u0bae\u0bbe\u0ba9 \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc1\u0b9f\u0ba9\u0bcd \u0b86\u0b9c\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0baf\u0bae\u0bbe\u0ba9-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0b9a\u0bcd-\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc1\u0b9f\u0ba9\u0bcd-\u0b86\u0b9c\u0bb0\u0bcd/175-381975",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787806955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-b744ed37",
+    "num": "tamilmirrorlk-b744ed37",
+    "date_str": "2026-08-27",
+    "description": "\u0baa\u0b9a\u0bcd\u0b9a\u0bbf\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b89\u0bb3\u0bcd\u0baa\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9a\u0bcd\u0b9a\u0bbf\u0bb3\u0bae\u0bcd-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b89\u0bb3\u0bcd\u0baa\u0b9f-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0bbf/175-381976",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787807456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-8b197c83",
+    "num": "dailymirrorlk-8b197c83",
+    "date_str": "2026-08-27",
+    "description": "Nilaveli coral centre to open as museum and research facility",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nilaveli-coral-centre-to-open-as-museum-and-research-facility/108-348945",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787808367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-3aa14089",
+    "num": "tamilmirrorlk-3aa14089",
+    "date_str": "2026-08-27",
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd 160 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf (\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-160-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1/50-381977",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787808890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-1ca4b18e",
+    "num": "tamilmirrorlk-1ca4b18e",
+    "date_str": "2026-08-27",
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd...",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd/46-381978",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787809048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-936ded8e",
+    "num": "tamilmirrorlk-936ded8e",
+    "date_str": "2026-08-27",
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bcd: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-381979",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787809276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-7e9dcc4d",
+    "num": "tamilmirrorlk-7e9dcc4d",
+    "date_str": "2026-08-27",
+    "description": "461 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/461-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd-\u0b95\u0b9f\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0ba4\u0b9f\u0bc8/175-381980",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787809539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-2212c199",
+    "num": "dailymirrorlk-2212c199",
+    "date_str": "2026-08-27",
+    "description": "Rooftop solar systems over 300kW asked to temporarily halt generation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rooftop-solar-systems-over-300kW-asked-to-temporarily-halt-generation/108-348946",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787809581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-cd207184",
+    "num": "tamilmirrorlk-cd207184",
+    "date_str": "2026-08-27",
+    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0bae\u0bbf\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0bae\u0bbf\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/62-381981",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787809629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-d04ceb5d",
+    "num": "dailymirrorlk-d04ceb5d",
+    "date_str": "2026-08-27",
+    "description": "Emergency hotlines activated for Sri Lankans in Nepal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Emergency-hotlines-activated-for-Sri-Lankans-in-Nepal/108-348947",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787809909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-13477607",
+    "num": "dailymirrorlk-13477607",
+    "date_str": "2026-08-27",
+    "description": "Dengue cases surpass 94,000 as death toll reaches 72",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-surpass-94-000-as-death-toll-reaches-72/108-348948",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787810135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-tamilmirrorlk-bc8608e1",
+    "num": "tamilmirrorlk-bc8608e1",
+    "date_str": "2026-08-27",
+    "description": "\u0bb9\u0b95\u0bcd\u0b95 \u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb8\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0b95\u0bcd\u0b95-\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb8\u0bcd-\u0bb5\u0bc6\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-381983",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787810967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-27-dailymirrorlk-4c2060c3",
+    "num": "dailymirrorlk-4c2060c3",
+    "date_str": "2026-08-27",
+    "description": "Nearly 1,500 missing in Nepal and China after devastating Himalayan flash flood",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-1-500-missing-in-Nepal-and-China-after-devastating-Himalayan-flash-flood/108-348949",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787811221.0
   }
 ]

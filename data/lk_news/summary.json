@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-27 10:14:56",
-  "n_docs": 128644,
+  "time_updated": "2026-08-27 11:57:37",
+  "n_docs": 128663,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128644,
+  "n_docs_with_text": 128663,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-27",
-  "dataset_size": 2003119614,
+  "dataset_size": 2003255116,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-27-dailymirrorlk-43f079a0",
-    "num": "dailymirrorlk-43f079a0",
+    "doc_id": "2026-08-27-dailymirrorlk-4c2060c3",
+    "num": "dailymirrorlk-4c2060c3",
     "date_str": "2026-08-27",
-    "description": "Meta agrees to pay $18 billion to settle US lawsuits over children\u2019s social media addiction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Meta-agrees-to-pay-18-billion-to-settle-US-lawsuits-over-childrens-social-media-addiction/108-348943",
+    "description": "Nearly 1,500 missing in Nepal and China after devastating Himalayan flash flood",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-1-500-missing-in-Nepal-and-China-after-devastating-Himalayan-flash-flood/108-348949",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787805471.0
+    "time_ut": 1787811221.0
   }
 }
