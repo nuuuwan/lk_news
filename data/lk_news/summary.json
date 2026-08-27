@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-27 21:38:46",
-  "n_docs": 128699,
+  "time_updated": "2026-08-28 01:20:45",
+  "n_docs": 128701,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128699,
+  "n_docs_with_text": 128701,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-27",
-  "dataset_size": 2003830611,
+  "dataset_size": 2003994436,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-27-dailymirrorlk-94183853",
-    "num": "dailymirrorlk-94183853",
+    "doc_id": "2026-08-27-dailymirrorlk-639065a6",
+    "num": "dailymirrorlk-639065a6",
     "date_str": "2026-08-27",
-    "description": "Uefa pursuing criminal legal action against Infantino",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Uefa-pursuing-criminal-legal-action-against-Infantino/108-348971",
+    "description": "BCCI vice-president praises Sonal Dinusha for consistent form in Colombo Test series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BCCI-vice-president-praises-Sonal-Dinusha-for-consistent-form-in-Colombo-Test-series/108-348972",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787845861.0
+    "time_ut": 1787849365.0
   }
 }
