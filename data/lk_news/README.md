@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--27_04:51:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--27_07:30:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,633** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,638** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-26-tamilmirrorlk-a23e5aca",
-    "num": "tamilmirrorlk-a23e5aca",
-    "date_str": "2026-08-26",
-    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 42 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd \u0ba8\u0baa\u0bbf \u0b85\u0bb0\u0b9a \u0bb5\u0bbf\u0bb4\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-42-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0bbf\u0bb2\u0bbe\u0ba4\u0bc1\u0ba9\u0bcd-\u0ba8\u0baa\u0bbf-\u0b85\u0bb0\u0b9a-\u0bb5\u0bbf\u0bb4\u0bbe/175-381969",
+    "doc_id": "2026-08-27-tamilmirrorlk-965e0c48",
+    "num": "tamilmirrorlk-965e0c48",
+    "date_str": "2026-08-27",
+    "description": "\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd: \u0b88\u0bb0\u0bbe\u0ba9\u0bcd - \u0b93\u0bae\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bbe\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0b93\u0bae\u0ba9\u0bcd-\u0ba4\u0bca\u0b9f\u0bbe\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/50-381971",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787768799.0
+    "time_ut": 1787794373.0
 }
 ```
 
@@ -41,9 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-27 | `tamilmirrorlk-965e0c48` | ஹார்முஸ் ஒப்பந்தம்: ஈரான் - ஓமன் தொடா்ந்து பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-27-tamilmirrorlk-965e0c48)
+- 2026-08-27 | `adalk-d614cefb` | Beyond Rank - වෙනස්ම කතාවක්! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-27-adalk-d614cefb)
+- 2026-08-27 | `tamilmirrorlk-12fe07f1` | நேபாளத்தில் வெள்ளப் பேருக்கு: உயிரிழந்தோர் 160 ஆக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-27-tamilmirrorlk-12fe07f1)
 - 2026-08-26 | `tamilmirrorlk-a23e5aca` | ஜனாதிபதியின் தலைமையில் 42 ஆவது தேசிய மிலாதுன் நபி அரச விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-a23e5aca)
 - 2026-08-26 | `dailymirrorlk-151f1724` | Sri Lanka stands in full solidarity with government, people of Nepal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-151f1724)
 - 2026-08-26 | `dailymirrorlk-08387acb` | 133 Indians missing in Nepal flash flood; 95 killed; Bihar, UP borders on alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-08387acb)
+- 2026-08-26 | `adalk-0a9a4e52` | නේපාලයේ ක්ෂණික ගංවතුරට හේතුව භූමිකම්පාවක් නිසා වූ ග්ලැසියර කඩා වැටීමක්? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-adalk-0a9a4e52)
 - 2026-08-26 | `tamilmirrorlk-4d66e6c4` | ’இந்தியாவில் வாழும் அகதிகள் அச்சமின்றி நாடு திரும்பலாம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-4d66e6c4)
 - 2026-08-26 | `dailymirrorlk-83f43a62` | Devastating flash flood on Nepal-Tibet border kills nine, hundreds of tourists missing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-83f43a62)
 - 2026-08-26 | `dailymirrorlk-c67e58fa` | Yala National Park Blocks 1 and 2 to close temporarily | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-c67e58fa)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-08-26 | `dailymirrorlk-162ce9da` | Sea waves up to 3m possible along southern coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-162ce9da)
 - 2026-08-26 | `dailymirrorlk-5719043f` | Union urges railways to withdraw legal action against SLRSMU Chief Secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-5719043f)
 - 2026-08-26 | `tamilmirrorlk-857f1047` | கல்முனையில்   ஐக்கிய மீலாதுன் நபி பெருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-857f1047)
-- 2026-08-26 | `dailymirrorlk-061548f5` | Jetstar launches direct Melbourne-Colombo flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-061548f5)
-- 2026-08-26 | `tamilmirrorlk-9dc21fb3` | கணவனின் கத்திக்குத்தில் மனைவி பலி; கணவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-tamilmirrorlk-9dc21fb3)
-- 2026-08-26 | `dailymirrorlk-22183428` | Railway Unions raise concerns over lack of special trains during school holidays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-22183428)
-- 2026-08-26 | `dailymirrorlk-6e0b3229` | Fire kills 14 newborns at major hospital in Pakistan, officials say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-26-dailymirrorlk-6e0b3229)
 
 ---
 
