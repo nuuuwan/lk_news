@@ -264127,6 +264127,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-adb00751",
+    "num": "dailymirrorlk-adb00751",
+    "date_str": "2026-06-26",
+    "description": "Explainer: Why Countries Are Banning Children from Social Media and What It Means for Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Explainer-Why-Countries-Are-Banning-Children-from-Social-Media-and-What-It-Means-for-Sri-Lanka/131-344046",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782495492.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-dailymirrorlk-ee9e1a0a",
     "num": "dailymirrorlk-ee9e1a0a",
     "date_str": "2026-06-26",
@@ -325423,15 +325434,4 @@
     "num": "tamilmirrorlk-36c94c3d",
     "date_str": "2026-08-03",
     "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-380811",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1785737422.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-08-03-dailymirrorlk-655f9628",
-    "num": "dailymirrorlk-655f9628",
-    "date_str": "2026-08-03",
-    "description": "Suicide bomber targets rally in Pakistan, killing at least 14",
-    "url_metadata": "https://www.daily
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\

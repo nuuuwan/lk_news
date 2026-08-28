@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-28 22:26:11",
-  "n_docs": 128748,
+  "time_updated": "2026-08-29 03:41:19",
+  "n_docs": 128782,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128748,
+  "n_docs_with_text": 128782,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-28",
-  "dataset_size": 2004634400,
+  "dataset_size": 2004947169,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-28-dailymirrorlk-a62ab1d0",
-    "num": "dailymirrorlk-a62ab1d0",
+    "doc_id": "2026-08-28-dailymirrorlk-1acd71d5",
+    "num": "dailymirrorlk-1acd71d5",
     "date_str": "2026-08-28",
-    "description": "Parliament to convene for four days from September 8",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-to-convene-for-four-days-from-September-8/108-349015",
+    "description": "PM Harini hails Vasudeva Nanayakkara\u2019s contribution to Sri Lanka\u2019s left-wing politics",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-Harini-hails-Vasudeva-Nanayakkaras-contribution-to-Sri-Lankas-left-wing-politics/108-349035",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787919088.0
+    "time_ut": 1787930325.0
   }
 }
