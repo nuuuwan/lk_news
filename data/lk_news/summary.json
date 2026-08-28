@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-28 12:24:26",
-  "n_docs": 128734,
+  "time_updated": "2026-08-28 18:11:21",
+  "n_docs": 128740,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128734,
+  "n_docs_with_text": 128740,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-28",
-  "dataset_size": 2004258607,
+  "dataset_size": 2004494425,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-28-dailymirrorlk-feb279a8",
-    "num": "dailymirrorlk-feb279a8",
+    "doc_id": "2026-08-28-dailymirrorlk-a62ab1d0",
+    "num": "dailymirrorlk-a62ab1d0",
     "date_str": "2026-08-28",
-    "description": "245 coral species identified along Sri Lanka\u2019s Eastern coast",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/245-coral-species-identified-along-Sri-Lankas-Eastern-coast/108-348997",
+    "description": "Parliament to convene for four days from September 8",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-to-convene-for-four-days-from-September-8/108-349015",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787899511.0
+    "time_ut": 1787919088.0
   }
 }

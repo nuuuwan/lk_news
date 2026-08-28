@@ -30640,6 +30640,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-cbd69968",
+    "num": "adalk-cbd69968",
+    "date_str": "2026-08-28",
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0da7 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0d9a \u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0da7-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0d9a-\u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-423948",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787897834.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-dailymirrorlk-92ef6aa0",
     "num": "dailymirrorlk-92ef6aa0",
     "date_str": "2026-08-28",
@@ -30692,5 +30703,60 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787899511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-23a79280",
+    "num": "adalk-23a79280",
+    "date_str": "2026-08-28",
+    "description": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d86\u0dc4\u0dcf\u0dbb, \u0d87\u0db3\u0dd4\u0db8\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0daf\u0dd3 \u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 89\u0d9a\u0dca \u0dc0\u0dd0\u0dba \u0d9a\u0dbb\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0d86\u0dc4\u0dcf\u0dbb--\u0d87\u0db3\u0dd4\u0db8\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0dc3\u0dbb-\u0db4\u0dc4\u0d9a\u0daf\u0dd3-\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-89\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0d9a\u0dbb\u0dbd\u0dcf/11-423950",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787900403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-0b38a436",
+    "num": "adalk-0b38a436",
+    "date_str": "2026-08-28",
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 547\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba-\u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0-547\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d89\u0dc4\u0dc5\u0da7/11-423951",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787913173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-b60c4238",
+    "num": "adalk-b60c4238",
+    "date_str": "2026-08-28",
+    "description": "\u0d94\u0db1\u0dca\u0da7\u0dcf\u0dbb\u0dd2\u0dba\u0ddd \u0dc0\u0dd2\u0dbd \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf \u0dc0\u0dd2\u0dbd \u0dbd\u0dd9\u0dc3 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d94\u0db1\u0dca\u0da7\u0dcf\u0dbb\u0dd2\u0dba\u0ddd-\u0dc0\u0dd2\u0dbd-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0dc0\u0dd2\u0dbd-\u0dbd\u0dd9\u0dc3-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/11-423952",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787913536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-38928b0f",
+    "num": "dailymirrorlk-38928b0f",
+    "date_str": "2026-08-28",
+    "description": "Nearly 500 killed, over 1,400 still missing due to Nepal floods",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-500-killed-over-1-400-still-missing-due-to-Nepal-floods/108-349013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787918811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-a62ab1d0",
+    "num": "dailymirrorlk-a62ab1d0",
+    "date_str": "2026-08-28",
+    "description": "Parliament to convene for four days from September 8",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-to-convene-for-four-days-from-September-8/108-349015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787919088.0
   }
 ]
