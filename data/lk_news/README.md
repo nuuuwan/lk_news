@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--28_18:12:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--28_22:26:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,748** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,14 @@ A collection of lk_news documents.
 - 2026-08-28 | `dailymirrorlk-38928b0f` | Nearly 500 killed, over 1,400 still missing due to Nepal floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-38928b0f)
 - 2026-08-28 | `adalk-b60c4238` | ඔන්ටාරියෝ විල ඇමෙරිකා විල ලෙස වෙනස් කරමින් ට්‍රම්ප්ගෙන් විධායක නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-adalk-b60c4238)
 - 2026-08-28 | `adalk-0b38a436` | නේපාල ගංවතුරින් මියගිය සංඛ්‍යාව 547ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-adalk-0b38a436)
+- 2026-08-28 | `tamilmirrorlk-211c766d` | வடக்கு–கிழக்கில் அபகரிக்கப்பட்ட காணிகளை மீட்க  ஓரணியில் ஒன்றிணைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-211c766d)
+- 2026-08-28 | `tamilmirrorlk-e1e8e515` | சிகரெட்டுகளுடன்  சீனப் பெண்கள் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-e1e8e515)
+- 2026-08-28 | `tamilmirrorlk-6187fc52` | கொடுமைக்கார அம்மா:   மகனை உறைபனி காட்டில் நிர்வாணமாக வீசிய கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-6187fc52)
+- 2026-08-28 | `tamilmirrorlk-5b48a1a0` | இருக்கிறார்களா? இல்லையா? தவிக்கும் நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-5b48a1a0)
+- 2026-08-28 | `tamilmirrorlk-c687bc09` | அரசாங்க மருந்தாளர் சங்கம் வேலைநிறுத்தத்துக்கு முஸ்தீபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-c687bc09)
+- 2026-08-28 | `tamilmirrorlk-6afbae21` | kG உடன் முன்னாள் பொலிஸ் அதிகாரி சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-6afbae21)
+- 2026-08-28 | `tamilmirrorlk-d5f93276` | IMF பிரதிநிதிகள் குழு அடுத்த மாதம் வருகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-d5f93276)
+- 2026-08-28 | `tamilmirrorlk-e32bb01c` | நோர்வே மன்னர் ஐந்தாம் ஹரால்ட் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-e32bb01c)
 - 2026-08-28 | `adalk-23a79280` | පාර්ලිමේන්තුවේ ආහාර, ඇඳුම් වෙනුවෙන් වසර පහකදී රු. කෝටි 89ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-adalk-23a79280)
 - 2026-08-28 | `dailymirrorlk-feb279a8` | 245 coral species identified along Sri Lanka’s Eastern coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-feb279a8)
 - 2026-08-28 | `dailymirrorlk-5a351a34` | Over 200 jumbos perish in eight months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-5a351a34)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-08-28 | `dailymirrorlk-92ef6aa0` | Expert highlights hidden holiday risks for children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-92ef6aa0)
 - 2026-08-28 | `adalk-cbd69968` | නේපාලයට ලංකාවෙන් ඩොලර් මිලියනක ආධාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-adalk-cbd69968)
 - 2026-08-28 | `dailymirrorlk-58d1193b` | Missing woman turns up at police station with marriage certificate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-58d1193b)
-- 2026-08-28 | `dailymirrorlk-11fbd70f` | Expressways generate Rs. 124.57m in two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-11fbd70f)
-- 2026-08-28 | `tamilmirrorlk-8227066c` | எல் நினோ தாக்கம்:   காய்கறி விலை எகிறும் வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-8227066c)
-- 2026-08-28 | `dailymirrorlk-34bea29f` | Social media groups allegedly used to trade sexual content | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-34bea29f)
-- 2026-08-28 | `tamilmirrorlk-3bb5ee51` | ரயிலில் பெண் மீது பாலியல் வன்கொடுமை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-3bb5ee51)
-- 2026-08-28 | `dailymirrorlk-a4bd4de1` | Number affected by El Niño climbs to 84,546 as vegetable prices set to rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-a4bd4de1)
-- 2026-08-28 | `dailymirrorlk-0de45b0a` | Sun directly overhead Sri Lanka till September 7 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-0de45b0a)
-- 2026-08-28 | `dailymirrorlk-8cef0931` | How Sri Lanka can turn resources into riches | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-8cef0931)
-- 2026-08-28 | `dailymirrorlk-8b033536` | Nepal flash flood death toll rises to 469 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-8b033536)
 
 ---
 
