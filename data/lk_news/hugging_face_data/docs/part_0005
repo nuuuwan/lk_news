@@ -30365,6 +30365,39 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-a28011e8",
+    "num": "dailymirrorlk-a28011e8",
+    "date_str": "2026-08-28",
+    "description": "Are elephants truly essential to preserve the Perahera tradition?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Are-elephants-truly-essential-to-preserve-the-Perahera-tradition/172-348974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787868680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-e89bfefd",
+    "num": "dailymirrorlk-e89bfefd",
+    "date_str": "2026-08-28",
+    "description": "Iran war: Intensified diplomacy raises hope for peace",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Iran-war-Intensified-diplomacy-raises-hope-for-peace/172-348975",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787868869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-e54158b8",
+    "num": "dailymirrorlk-e54158b8",
+    "date_str": "2026-08-28",
+    "description": "Development focus should not be lost",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Development-focus-should-not-be-lost/172-348976",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787868980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-adalk-5c370cee",
     "num": "adalk-5c370cee",
     "date_str": "2026-08-28",
@@ -30398,6 +30431,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-89740674",
+    "num": "adalk-89740674",
+    "date_str": "2026-08-28",
+    "description": "\u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0dba\u0dcf\u0dbd\u0dda \u0d9a\u0dbd\u0dcf\u0db4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dc3\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dba\u0dc5\u0dd2-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0dba\u0dcf\u0dbd\u0dda-\u0d9a\u0dbd\u0dcf\u0db4-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dc3\u0dba\u0dd2/11-423945",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787882454.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-tamilmirrorlk-ae5f3837",
     "num": "tamilmirrorlk-ae5f3837",
     "date_str": "2026-08-28",
@@ -30409,6 +30453,17 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-4b03e597",
+    "num": "adalk-4b03e597",
+    "date_str": "2026-08-28",
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0da7 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0d87\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dda \u0d89\u0dc4\u0dc5 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0da7-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0d9a\u0dca-\u0d87\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dda-\u0d89\u0dc4\u0dc5-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca/11-423947",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787883504.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-tamilmirrorlk-9a2431c5",
     "num": "tamilmirrorlk-9a2431c5",
     "date_str": "2026-08-28",
@@ -30417,5 +30472,225 @@ mirror.lk/breaking-news/Suicide-bomber-targets-rally-in-Pakistan-killing-at-leas
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787886097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-6da0eba3",
+    "num": "tamilmirrorlk-6da0eba3",
+    "date_str": "2026-08-28",
+    "description": "\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd, \u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd, \u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b95\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd-\u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0ba8\u0b95\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-382034",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787888829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-759f3919",
+    "num": "tamilmirrorlk-759f3919",
+    "date_str": "2026-08-28",
+    "description": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382035",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787888961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-d5b6b7d4",
+    "num": "tamilmirrorlk-d5b6b7d4",
+    "date_str": "2026-08-28",
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382036",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787889291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-0a76e38b",
+    "num": "dailymirrorlk-0a76e38b",
+    "date_str": "2026-08-28",
+    "description": "Pathirage throws 92.07m to win Zurich Diamond League",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pathirage-throws-92-07m-to-win-Zurich-Diamond-League/108-348983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787890548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-9ecaedab",
+    "num": "dailymirrorlk-9ecaedab",
+    "date_str": "2026-08-28",
+    "description": "Two years almost gone; State bungalows await productive use",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-years-almost-gone-State-bungalows-await-productive-use/108-348985",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787893416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-1dd0de98",
+    "num": "dailymirrorlk-1dd0de98",
+    "date_str": "2026-08-28",
+    "description": "Sri Lanka extends US$ 1 million humanitarian assistance to Nepal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-extends-US-1-million-humanitarian-assistance-to-Nepal/108-348986",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787893638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-8b033536",
+    "num": "dailymirrorlk-8b033536",
+    "date_str": "2026-08-28",
+    "description": "Nepal flash flood death toll rises to 469",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-flash-flood-death-toll-rises-to-469/108-348987",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787894131.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-8cef0931",
+    "num": "dailymirrorlk-8cef0931",
+    "date_str": "2026-08-28",
+    "description": "How Sri Lanka can turn resources into riches",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-Sri-Lanka-can-turn-resources-into-riches/108-348988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787894842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-0de45b0a",
+    "num": "dailymirrorlk-0de45b0a",
+    "date_str": "2026-08-28",
+    "description": "Sun directly overhead Sri Lanka till September 7",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sun-directly-overhead-Sri-Lanka-till-September-7/108-348989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787895086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-a4bd4de1",
+    "num": "dailymirrorlk-a4bd4de1",
+    "date_str": "2026-08-28",
+    "description": "Number affected by El Ni\u00f1o climbs to 84,546 as vegetable prices set to rise",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Number-affected-by-El-Ni\u00f1o-climbs-to-84-546-as-vegetable-prices-set-to-rise/108-348990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787895778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-3bb5ee51",
+    "num": "tamilmirrorlk-3bb5ee51",
+    "date_str": "2026-08-28",
+    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8/50-382038",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787895870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-34bea29f",
+    "num": "dailymirrorlk-34bea29f",
+    "date_str": "2026-08-28",
+    "description": "Social media groups allegedly used to trade sexual content",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Social-media-groups-allegedly-used-to-trade-sexual-content/108-348991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787896314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-8227066c",
+    "num": "tamilmirrorlk-8227066c",
+    "date_str": "2026-08-28",
+    "description": "\u0b8e\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcb \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd:   \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8 \u0b8e\u0b95\u0bbf\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b8e\u0b95\u0bbf\u0bb1\u0bc1\u0bae\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-382039",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787896323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-11fbd70f",
+    "num": "dailymirrorlk-11fbd70f",
+    "date_str": "2026-08-28",
+    "description": "Expressways generate Rs. 124.57m in two days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expressways-generate-Rs-124-57m-in-two-days/108-348992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787896725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-58d1193b",
+    "num": "dailymirrorlk-58d1193b",
+    "date_str": "2026-08-28",
+    "description": "Missing woman turns up at police station with marriage certificate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Missing-woman-turns-up-at-police-station-with-marriage-certificate/108-348993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787897442.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-92ef6aa0",
+    "num": "dailymirrorlk-92ef6aa0",
+    "date_str": "2026-08-28",
+    "description": "Expert highlights hidden holiday risks for children",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expert-highlights-hidden-holiday-risks-for-children/108-348994",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787898031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-tamilmirrorlk-cf8d7b04",
+    "num": "tamilmirrorlk-cf8d7b04",
+    "date_str": "2026-08-28",
+    "description": "\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-382041",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787898386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-3fc4074b",
+    "num": "dailymirrorlk-3fc4074b",
+    "date_str": "2026-08-28",
+    "description": "Youth arrested for whipping pony near Lake Gregory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-arrested-for-whipping-pony-near-Lake-Gregory/108-348995",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787898553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-5a351a34",
+    "num": "dailymirrorlk-5a351a34",
+    "date_str": "2026-08-28",
+    "description": "Over 200 jumbos perish in eight months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-200-jumbos-perish-in-eight-months/108-348996",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787898658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-feb279a8",
+    "num": "dailymirrorlk-feb279a8",
+    "date_str": "2026-08-28",
+    "description": "245 coral species identified along Sri Lanka\u2019s Eastern coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/245-coral-species-identified-along-Sri-Lankas-Eastern-coast/108-348997",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787899511.0
   }
 ]
