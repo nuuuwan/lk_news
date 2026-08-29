@@ -31528,5 +31528,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788006033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-6c27b58f",
+    "num": "dailymirrorlk-6c27b58f",
+    "date_str": "2026-08-29",
+    "description": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "url_metadata": "https://www.dailymirror.lk/international/At-least-37-dead-and-hundreds-evacuated-after-strike-on-Kyiv-weapons-depot/107-349062",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788009219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-712145c8",
+    "num": "dailymirrorlk-712145c8",
+    "date_str": "2026-08-29",
+    "description": "Police open fire at Narahenpita checkpoint to rescue abducted woman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-open-fire-at-Narahenpita-checkpoint-to-rescue-abducted-woman/108-349063",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788009627.0
   }
 ]
