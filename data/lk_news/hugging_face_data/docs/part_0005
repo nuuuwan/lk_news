@@ -31245,6 +31245,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-c99c8f70",
+    "num": "dailymirrorlk-c99c8f70",
+    "date_str": "2026-08-28",
+    "description": "Foul-smelling paint attack on person who insulted Diyawadana Nilame",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foul-smelling-paint-attack-on-person-who-insulted-Diyawadana-Nilame/108-349029",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787927178.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-dailymirrorlk-d5efa15e",
     "num": "dailymirrorlk-d5efa15e",
     "date_str": "2026-08-28",
@@ -31286,6 +31297,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787930011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-f978e194",
+    "num": "dailymirrorlk-f978e194",
+    "date_str": "2026-08-28",
+    "description": "IMF, ILO report triggers government development officers to stage union action?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-ILO-report-triggers-government-development-officers-to-stage-union-action/108-349034",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787930232.0
   },
   {
     "doc_type": "lk_news",
@@ -31440,5 +31462,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787993790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-9a283f2e",
+    "num": "dailymirrorlk-9a283f2e",
+    "date_str": "2026-08-29",
+    "description": "Ecuador ex-president Moreno sentenced to five years in jail in bribery case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ecuador-ex-president-Moreno-sentenced-to-five-years-in-jail-in-bribery-case/108-349059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788000605.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-4ef28e51",
+    "num": "dailymirrorlk-4ef28e51",
+    "date_str": "2026-08-29",
+    "description": "Namal questions government over delays in Sri Lanka\u2019s Digital ID rollout",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-questions-government-over-delays-in-Sri-Lankas-Digital-ID-rollout/108-349060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788002086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-tamilmirrorlk-1d212f4a",
+    "num": "tamilmirrorlk-1d212f4a",
+    "date_str": "2026-08-29",
+    "description": "\u0b9a\u0bc6\u0bb5\u0ba9\u0b95\u0bb2 \u0b9a\u0bc0\u0ba9\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bb5\u0ba9\u0b95\u0bb2-\u0b9a\u0bc0\u0ba9\u0bbf-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-382079",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788002517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-7ffc40b8",
+    "num": "dailymirrorlk-7ffc40b8",
+    "date_str": "2026-08-29",
+    "description": "High waves, sea inundation warning issued for Southern coastal areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-waves-sea-inundation-warning-issued-for-Southern-coastal-areas/108-349061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788003473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-tamilmirrorlk-4431c0aa",
+    "num": "tamilmirrorlk-4431c0aa",
+    "date_str": "2026-08-29",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382080",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788004994.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-tamilmirrorlk-64578027",
+    "num": "tamilmirrorlk-64578027",
+    "date_str": "2026-08-29",
+    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd : \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bae\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd/150-382081",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788006033.0
   }
 ]
