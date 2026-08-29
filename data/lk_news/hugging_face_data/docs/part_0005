@@ -31124,6 +31124,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-dbcc769b",
+    "num": "adalk-dbcc769b",
+    "date_str": "2026-08-28",
+    "description": "26 \u0daf\u0dcf \u0dc4\u0dcf 27 \u0daf\u0dcf \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 1245\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/26-\u0daf\u0dcf-\u0dc4\u0dcf-27-\u0daf\u0dcf-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-1245\u0dba\u0dd2/11-423955",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787915343.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-dailymirrorlk-38928b0f",
     "num": "dailymirrorlk-38928b0f",
     "date_str": "2026-08-28",
@@ -31176,6 +31187,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787924425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-9330f004",
+    "num": "dailymirrorlk-9330f004",
+    "date_str": "2026-08-28",
+    "description": "Sri Lanka has to pay more for vaccines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-has-to-pay-more-for-vaccines/108-349022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787924703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-abb537d3",
+    "num": "dailymirrorlk-abb537d3",
+    "date_str": "2026-08-28",
+    "description": "El Ni\u00f1o dry spell puts pregnant women, lactating mothers at malnutrition risk: Specialist",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Ni\u00f1o-dry-spell-puts-pregnant-women-lactating-mothers-at-malnutrition-risk-Specialist/108-349026",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787925712.0
   },
   {
     "doc_type": "lk_news",
@@ -31264,5 +31297,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1787974476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-3363b3a8",
+    "num": "dailymirrorlk-3363b3a8",
+    "date_str": "2026-08-29",
+    "description": "Nepal needs help in technical areas, not search and rescue, foreign minister says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-needs-help-in-technical-areas-not-search-and-rescue-foreign-minister-says/108-349054",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787979418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-tamilmirrorlk-bc09319f",
+    "num": "tamilmirrorlk-bc09319f",
+    "date_str": "2026-08-29",
+    "description": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8-\u0bae\u0bbe-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382064",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1787984493.0
   }
 ]
