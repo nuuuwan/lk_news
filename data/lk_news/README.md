@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--30_01:54:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--30_03:56:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,814** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,815** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-29-dailymirrorlk-b868786d",
-    "num": "dailymirrorlk-b868786d",
-    "date_str": "2026-08-29",
-    "description": "Dutch health institute issues \u2019red alert\u2019 over Trump-shaped ecstasy pills",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dutch-health-institute-issues-red-alert-over-Trump-shaped-ecstasy-pills/108-349067",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788018568.0
+    "doc_id": "2026-08-30-tamilmirrorlk-07fd25dd",
+    "num": "tamilmirrorlk-07fd25dd",
+    "date_str": "2026-08-30",
+    "description": "\u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bbe \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc0\u0bb4\u0bcd-\u0bae\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc1-\u0b93\u0baf\u0bbe-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/175-382083",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788040937.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-30 | `tamilmirrorlk-07fd25dd` | கீழ் மல்வத்து ஓயா திட்டம் தொடர்பில் ஜனாதிபதி கண்காணிப்பு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-tamilmirrorlk-07fd25dd)
 - 2026-08-29 | `dailymirrorlk-b868786d` | Dutch health institute issues ’red alert’ over Trump-shaped ecstasy pills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-b868786d)
 - 2026-08-29 | `dailymirrorlk-2a1508ba` | Sevanagala factory crisis deepens as production remains halted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-2a1508ba)
 - 2026-08-29 | `dailymirrorlk-712145c8` | Police open fire at Narahenpita checkpoint to rescue abducted woman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-712145c8)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-29 | `dailymirrorlk-347e822a` | Nepal floods: 7 bodies wash up downstream in India’s Uttar Pradesh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-347e822a)
 - 2026-08-29 | `tamilmirrorlk-47a1f797` | நேபாள வெள்ளத்தில் இதுவரை 579 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-tamilmirrorlk-47a1f797)
 - 2026-08-29 | `tamilmirrorlk-77f078c0` | ’இந்தியாவில் உள்ள இலங்கையர் நாட்டுக்குத் திரும்ப இருந்த தடைகள் நீக்கப்படும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-tamilmirrorlk-77f078c0)
-- 2026-08-29 | `dailymirrorlk-54776216` | CCD arrests two more Chinese nationals over Port City murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-54776216)
 
 ---
 
