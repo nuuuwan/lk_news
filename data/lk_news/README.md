@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_08:29:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_10:26:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,786** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-29-dailymirrorlk-54776216",
-    "num": "dailymirrorlk-54776216",
+    "doc_id": "2026-08-29-dailymirrorlk-347e822a",
+    "num": "dailymirrorlk-347e822a",
     "date_str": "2026-08-29",
-    "description": "CCD arrests two more Chinese nationals over Port City murder",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCD-arrests-two-more-Chinese-nationals-over-Port-City-murder/108-349044",
+    "description": "Nepal floods: 7 bodies wash up downstream in India\u2019s Uttar Pradesh",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-floods-7-bodies-wash-up-downstream-in-Indias-Uttar-Pradesh/108-349045",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787969460.0
+    "time_ut": 1787974476.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-29 | `dailymirrorlk-347e822a` | Nepal floods: 7 bodies wash up downstream in India’s Uttar Pradesh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-347e822a)
+- 2026-08-29 | `tamilmirrorlk-47a1f797` | நேபாள வெள்ளத்தில் இதுவரை 579 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-tamilmirrorlk-47a1f797)
+- 2026-08-29 | `tamilmirrorlk-77f078c0` | ’இந்தியாவில் உள்ள இலங்கையர் நாட்டுக்குத் திரும்ப இருந்த தடைகள் நீக்கப்படும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-tamilmirrorlk-77f078c0)
 - 2026-08-29 | `dailymirrorlk-54776216` | CCD arrests two more Chinese nationals over Port City murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-54776216)
 - 2026-08-28 | `dailymirrorlk-1acd71d5` | PM Harini hails Vasudeva Nanayakkara’s contribution to Sri Lanka’s left-wing politics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-1acd71d5)
 - 2026-08-28 | `dailymirrorlk-e1f5fb0f` | Drug and alcohol use claims nearly 100 deaths daily in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-e1f5fb0f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-28 | `adalk-0b38a436` | නේපාල ගංවතුරින් මියගිය සංඛ්‍යාව 547ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-adalk-0b38a436)
 - 2026-08-28 | `dailymirrorlk-ed4197b8` | Urgent action plan launched to tackle pollution in Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-ed4197b8)
 - 2026-08-28 | `dailymirrorlk-a7944ce4` | Ugandan King, once world’s youngest monarch, dies at 34 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-a7944ce4)
-- 2026-08-28 | `dailymirrorlk-204b15cc` | Colombo Port rises to 20th among world’s busiest container ports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-204b15cc)
-- 2026-08-28 | `tamilmirrorlk-211c766d` | வடக்கு–கிழக்கில் அபகரிக்கப்பட்ட காணிகளை மீட்க  ஓரணியில் ஒன்றிணைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-211c766d)
-- 2026-08-28 | `tamilmirrorlk-e1e8e515` | சிகரெட்டுகளுடன்  சீனப் பெண்கள் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-e1e8e515)
 
 ---
 

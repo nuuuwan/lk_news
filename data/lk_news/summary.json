@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-29 08:28:41",
-  "n_docs": 128783,
+  "time_updated": "2026-08-29 10:25:37",
+  "n_docs": 128786,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128783,
+  "n_docs_with_text": 128786,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-29",
-  "dataset_size": 2005284572,
+  "dataset_size": 2005076500,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-29-dailymirrorlk-54776216",
-    "num": "dailymirrorlk-54776216",
+    "doc_id": "2026-08-29-dailymirrorlk-347e822a",
+    "num": "dailymirrorlk-347e822a",
     "date_str": "2026-08-29",
-    "description": "CCD arrests two more Chinese nationals over Port City murder",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCD-arrests-two-more-Chinese-nationals-over-Port-City-murder/108-349044",
+    "description": "Nepal floods: 7 bodies wash up downstream in India\u2019s Uttar Pradesh",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-floods-7-bodies-wash-up-downstream-in-Indias-Uttar-Pradesh/108-349045",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787969460.0
+    "time_ut": 1787974476.0
   }
 }
