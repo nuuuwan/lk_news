@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_14:01:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_15:54:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,798** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,802** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-29-tamilmirrorlk-4dc1d7f0",
-    "num": "tamilmirrorlk-4dc1d7f0",
+    "doc_id": "2026-08-29-dailymirrorlk-1d0a24b8",
+    "num": "dailymirrorlk-1d0a24b8",
     "date_str": "2026-08-29",
-    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3 \u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1 : \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba4\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3-\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bbf\u0ba4\u0ba8\u0bcd\u0ba4-\u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-382065",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1787991202.0
+    "description": "Is a referendum on the cards? Opposition MP questions President\u2019s rally plans",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-a-referendum-on-the-cards-Opposition-MP-questions-Presidents-rally-plans/108-349058",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787993790.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-29 | `dailymirrorlk-1d0a24b8` | Is a referendum on the cards? Opposition MP questions President’s rally plans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-1d0a24b8)
 - 2026-08-29 | `tamilmirrorlk-4dc1d7f0` | நேபாள பேரழிவு : இந்திய நதிகளில் மிதந்த சடலங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-tamilmirrorlk-4dc1d7f0)
 - 2026-08-29 | `dailymirrorlk-873ff37a` | Bribery Commission officers visit Ravi Karunanayake’s residence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-873ff37a)
 - 2026-08-29 | `dailymirrorlk-be3b1f8e` | Wheat flour prices increased by Rs. 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-be3b1f8e)
@@ -57,10 +58,9 @@ A collection of lk_news documents.
 - 2026-08-28 | `dailymirrorlk-e1f5fb0f` | Drug and alcohol use claims nearly 100 deaths daily in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-e1f5fb0f)
 - 2026-08-28 | `dailymirrorlk-57508d17` | Growing digital risks raise concerns over child safety | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-57508d17)
 - 2026-08-28 | `dailymirrorlk-21b68336` | CSE returns to gains as foreign buying supports a volatile session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-21b68336)
-- 2026-08-28 | `dailymirrorlk-abb537d3` | El Niño dry spell puts pregnant women, lactating mothers at malnutrition risk: Specialist | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-abb537d3)
-- 2026-08-28 | `dailymirrorlk-6a4a1086` | Grandfather’s 16-year sentence for sexually abusing granddaughter cut to 10 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-6a4a1086)
-- 2026-08-28 | `dailymirrorlk-9330f004` | Sri Lanka has to pay more for vaccines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-9330f004)
-- 2026-08-28 | `dailymirrorlk-4300801d` | Cartoon of the Day 28-08-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-4300801d)
+- 2026-08-28 | `dailymirrorlk-d5efa15e` | Groundwater levels follow seasonal decline in dry-zone areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-d5efa15e)
+- 2026-08-28 | `dailymirrorlk-6aa54252` | Family dispute: Husband murders wife in the wild | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-6aa54252)
+- 2026-08-28 | `dailymirrorlk-fa6b37c4` | Police to shut down Facebook groups abusing women, children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-fa6b37c4)
 
 ---
 

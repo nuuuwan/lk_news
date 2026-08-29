@@ -31223,6 +31223,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-fa6b37c4",
+    "num": "dailymirrorlk-fa6b37c4",
+    "date_str": "2026-08-28",
+    "description": "Police to shut down Facebook groups abusing women, children",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-to-shut-down-Facebook-groups-abusing-women-children/108-349027",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787926634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-6aa54252",
+    "num": "dailymirrorlk-6aa54252",
+    "date_str": "2026-08-28",
+    "description": "Family dispute: Husband murders wife in the wild",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-dispute-Husband-murders-wife-in-the-wild/108-349028",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787926878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-28-dailymirrorlk-d5efa15e",
+    "num": "dailymirrorlk-d5efa15e",
+    "date_str": "2026-08-28",
+    "description": "Groundwater levels follow seasonal decline in dry-zone areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Groundwater-levels-follow-seasonal-decline-in-dry-zone-areas/108-349030",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787927577.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-dailymirrorlk-21b68336",
     "num": "dailymirrorlk-21b68336",
     "date_str": "2026-08-28",
@@ -31396,5 +31429,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1787991202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-29-dailymirrorlk-1d0a24b8",
+    "num": "dailymirrorlk-1d0a24b8",
+    "date_str": "2026-08-29",
+    "description": "Is a referendum on the cards? Opposition MP questions President\u2019s rally plans",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-a-referendum-on-the-cards-Opposition-MP-questions-Presidents-rally-plans/108-349058",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1787993790.0
   }
 ]
