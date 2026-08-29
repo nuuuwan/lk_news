@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_06:46:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--29_08:29:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,782** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-28-dailymirrorlk-1acd71d5",
-    "num": "dailymirrorlk-1acd71d5",
-    "date_str": "2026-08-28",
-    "description": "PM Harini hails Vasudeva Nanayakkara\u2019s contribution to Sri Lanka\u2019s left-wing politics",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-Harini-hails-Vasudeva-Nanayakkaras-contribution-to-Sri-Lankas-left-wing-politics/108-349035",
+    "doc_id": "2026-08-29-dailymirrorlk-54776216",
+    "num": "dailymirrorlk-54776216",
+    "date_str": "2026-08-29",
+    "description": "CCD arrests two more Chinese nationals over Port City murder",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCD-arrests-two-more-Chinese-nationals-over-Port-City-murder/108-349044",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1787930325.0
+    "time_ut": 1787969460.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-29 | `dailymirrorlk-54776216` | CCD arrests two more Chinese nationals over Port City murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-29-dailymirrorlk-54776216)
 - 2026-08-28 | `dailymirrorlk-1acd71d5` | PM Harini hails Vasudeva Nanayakkara’s contribution to Sri Lanka’s left-wing politics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-1acd71d5)
 - 2026-08-28 | `dailymirrorlk-e1f5fb0f` | Drug and alcohol use claims nearly 100 deaths daily in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-e1f5fb0f)
 - 2026-08-28 | `dailymirrorlk-57508d17` | Growing digital risks raise concerns over child safety | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-57508d17)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-08-28 | `dailymirrorlk-204b15cc` | Colombo Port rises to 20th among world’s busiest container ports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-204b15cc)
 - 2026-08-28 | `tamilmirrorlk-211c766d` | வடக்கு–கிழக்கில் அபகரிக்கப்பட்ட காணிகளை மீட்க  ஓரணியில் ஒன்றிணைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-211c766d)
 - 2026-08-28 | `tamilmirrorlk-e1e8e515` | சிகரெட்டுகளுடன்  சீனப் பெண்கள் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-tamilmirrorlk-e1e8e515)
-- 2026-08-28 | `dailymirrorlk-963322a4` | Former Speaker denies vehicle, fuel misuse allegations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-28-dailymirrorlk-963322a4)
 
 ---
 
