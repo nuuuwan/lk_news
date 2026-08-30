@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--30_19:57:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--30_21:57:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,865** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,867** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-30-dailymirrorlk-1984132a",
-    "num": "dailymirrorlk-1984132a",
+    "doc_id": "2026-08-30-dailymirrorlk-912df71c",
+    "num": "dailymirrorlk-912df71c",
     "date_str": "2026-08-30",
-    "description": "Fire breaks out at Embilipitiya Paper Mill",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-Embilipitiya-Paper-Mill/108-349085",
+    "description": "Justice Minister firm on 22nd Amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-Minister-firm-on-22nd-Amendment/108-349087",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788093192.0
+    "time_ut": 1788102977.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-30 | `dailymirrorlk-912df71c` | Justice Minister firm on 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-912df71c)
 - 2026-08-30 | `dailymirrorlk-1984132a` | Fire breaks out at Embilipitiya Paper Mill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-1984132a)
 - 2026-08-30 | `dailymirrorlk-a8b9bf65` | Ferry carrying 260 people capsizes off coast of northern Cyprus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-a8b9bf65)
 - 2026-08-30 | `tamilmirrorlk-909a315e` | பிரம்மாண்ட போட்டி நிகழ்ச்சியில்  பிரபல நடிகை அபிராமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-tamilmirrorlk-909a315e)
+- 2026-08-30 | `adalk-96e07cf3` | රුසියාවේ ගුවන් සේවයක් ලංකාවට සෘජු ගුවන් ගමන් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-adalk-96e07cf3)
 - 2026-08-30 | `dailymirrorlk-bcc1dfc1` | Rulers of Muslim nations should recognize ’true enemy,’ says Iran’s supreme leader | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-bcc1dfc1)
 - 2026-08-30 | `tamilmirrorlk-789d6530` | ஒலிபெருக்கி பயன்பாடு:  கடும் வழிகாட்டுதல்கள் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-tamilmirrorlk-789d6530)
 - 2026-08-30 | `dailymirrorlk-f7af26ef` | 25-year-old nabbed with 400 tablets allegedly for illegal sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-f7af26ef)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-08-30 | `dailymirrorlk-79b8b43f` | NPP - LG Member in Jaffna Arrested After Allegedly Causing Disturbance While Intoxicated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-79b8b43f)
 - 2026-08-30 | `dailymirrorlk-ee53ab3f` | Environment Ministry urges public to ditch single-use plastic bottles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-ee53ab3f)
 - 2026-08-30 | `dailymirrorlk-b37d5502` | 200 Japanese tourists depart for Sri Lanka on single flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-dailymirrorlk-b37d5502)
-- 2026-08-30 | `tamilmirrorlk-863b9fda` | சட்டவிரோத  மாத்திரைகளுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-tamilmirrorlk-863b9fda)
-- 2026-08-30 | `adalk-b67f14eb` | ලංකාවේ ණය බර රු. බිලියන 30 198 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-30-adalk-b67f14eb)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-30 19:56:36",
-  "n_docs": 128865,
+  "time_updated": "2026-08-30 21:56:31",
+  "n_docs": 128867,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128865,
+  "n_docs_with_text": 128867,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-30",
-  "dataset_size": 2006195754,
+  "dataset_size": 2006206496,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-30-dailymirrorlk-1984132a",
-    "num": "dailymirrorlk-1984132a",
+    "doc_id": "2026-08-30-dailymirrorlk-912df71c",
+    "num": "dailymirrorlk-912df71c",
     "date_str": "2026-08-30",
-    "description": "Fire breaks out at Embilipitiya Paper Mill",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-Embilipitiya-Paper-Mill/108-349085",
+    "description": "Justice Minister firm on 22nd Amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-Minister-firm-on-22nd-Amendment/108-349087",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788093192.0
+    "time_ut": 1788102977.0
   }
 }
