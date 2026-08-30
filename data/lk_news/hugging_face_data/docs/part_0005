@@ -31583,5 +31583,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788040937.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-8ddf2099",
+    "num": "dailymirrorlk-8ddf2099",
+    "date_str": "2026-08-30",
+    "description": "Sun overhead Sri Lanka\u2019s latitudes until September 7",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sun-overhead-Sri-Lankas-latitudes-until-September-7/108-349068",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788057032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-4cd78b2e",
+    "num": "dailymirrorlk-4cd78b2e",
+    "date_str": "2026-08-30",
+    "description": "Underworld figure \u2018Welle Saranga\u2019 held in Dubai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Underworld-figure-Welle-Saranga-held-in-Dubai/108-349069",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788057948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-aa386d90",
+    "num": "dailymirrorlk-aa386d90",
+    "date_str": "2026-08-30",
+    "description": "Showers expected in several areas after 2 p.m.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-expected-in-several-areas-after-2-p-m/108-349070",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788058424.0
   }
 ]
