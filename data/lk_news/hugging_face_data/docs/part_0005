@@ -32155,5 +32155,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788102977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-e92d68ac",
+    "num": "dailymirrorlk-e92d68ac",
+    "date_str": "2026-08-30",
+    "description": "Fuel prices slashed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-slashed/108-349091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788111208.0
   }
 ]

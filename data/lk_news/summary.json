@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-30 21:56:31",
-  "n_docs": 128867,
+  "time_updated": "2026-08-30 23:57:57",
+  "n_docs": 128868,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128867,
+  "n_docs_with_text": 128868,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-30",
-  "dataset_size": 2006206496,
+  "dataset_size": 2006220918,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-30-dailymirrorlk-912df71c",
-    "num": "dailymirrorlk-912df71c",
+    "doc_id": "2026-08-30-dailymirrorlk-e92d68ac",
+    "num": "dailymirrorlk-e92d68ac",
     "date_str": "2026-08-30",
-    "description": "Justice Minister firm on 22nd Amendment",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-Minister-firm-on-22nd-Amendment/108-349087",
+    "description": "Fuel prices slashed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-slashed/108-349091",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788102977.0
+    "time_ut": 1788111208.0
   }
 }
