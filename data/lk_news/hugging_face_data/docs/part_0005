@@ -32045,5 +32045,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788084584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-adalk-380efd0e",
+    "num": "adalk-380efd0e",
+    "date_str": "2026-08-30",
+    "description": "\u0d9a\u0dc5\u0dcf\u0dc0\u0dd0\u0dc0 \u0dc3\u0dc4 \u0db6\u0dbd\u0dbd\u0dd4\u0dc0\u0dd0\u0dc0 \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dd2\u0db3\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dcf\u0dc0\u0dd0\u0dc0-\u0dc3\u0dc4-\u0db6\u0dbd\u0dbd\u0dd4\u0dc0\u0dd0\u0dc0-\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0dc4\u0dd2\u0db3\u0dd9\u0dba\u0dd2/11-423962",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788084735.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-1e6bfeed",
+    "num": "dailymirrorlk-1e6bfeed",
+    "date_str": "2026-08-30",
+    "description": "Police issue strict warning over loudspeaker noise",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-issue-strict-warning-over-loudspeaker-noise/108-349081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788085678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-f7af26ef",
+    "num": "dailymirrorlk-f7af26ef",
+    "date_str": "2026-08-30",
+    "description": "25-year-old nabbed with 400 tablets allegedly for illegal sale",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/25-year-old-nabbed-with-400-tablets-allegedly-for-illegal-sale/108-349082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788086166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-tamilmirrorlk-789d6530",
+    "num": "tamilmirrorlk-789d6530",
+    "date_str": "2026-08-30",
+    "description": "\u0b92\u0bb2\u0bbf\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1:  \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb2\u0bbf\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382111",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788088481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-bcc1dfc1",
+    "num": "dailymirrorlk-bcc1dfc1",
+    "date_str": "2026-08-30",
+    "description": "Rulers of Muslim nations should recognize \u2019true enemy,\u2019 says Iran\u2019s supreme leader",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rulers-of-Muslim-nations-should-recognize-true-enemy-says-Irans-supreme-leader/108-349083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788088747.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-tamilmirrorlk-909a315e",
+    "num": "tamilmirrorlk-909a315e",
+    "date_str": "2026-08-30",
+    "description": "\u0baa\u0bbf\u0bb0\u0bae\u0bcd\u0bae\u0bbe\u0ba3\u0bcd\u0b9f \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd  \u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8 \u0b85\u0baa\u0bbf\u0bb0\u0bbe\u0bae\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bae\u0bcd\u0bae\u0bbe\u0ba3\u0bcd\u0b9f-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0baa\u0bb2-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8-\u0b85\u0baa\u0bbf\u0bb0\u0bbe\u0bae\u0bbf/175-382112",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788090523.0
   }
 ]
