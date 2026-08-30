@@ -32111,5 +32111,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788090523.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-a8b9bf65",
+    "num": "dailymirrorlk-a8b9bf65",
+    "date_str": "2026-08-30",
+    "description": "Ferry carrying 260 people capsizes off coast of northern Cyprus",
+    "url_metadata": "https://www.dailymirror.lk/international/Ferry-carrying-260-people-capsizes-off-coast-of-northern-Cyprus/107-349084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788093058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-30-dailymirrorlk-1984132a",
+    "num": "dailymirrorlk-1984132a",
+    "date_str": "2026-08-30",
+    "description": "Fire breaks out at Embilipitiya Paper Mill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-Embilipitiya-Paper-Mill/108-349085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788093192.0
   }
 ]
