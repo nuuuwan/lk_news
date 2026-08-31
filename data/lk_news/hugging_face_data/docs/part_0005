@@ -30442,6 +30442,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-28-adalk-a37c11c8",
+    "num": "adalk-a37c11c8",
+    "date_str": "2026-08-28",
+    "description": "\u2019\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc4\u0dcf \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 2026\u2019  \u0d9c\u0dd0\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/business/\u2019\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0dc4\u0dcf-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0-2026\u2019--\u0d9c\u0dd0\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/7-423944",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1787879987.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-28-tamilmirrorlk-bcb0db36",
     "num": "tamilmirrorlk-bcb0db36",
     "date_str": "2026-08-28",
@@ -32397,5 +32408,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788135448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-7b85c480",
+    "num": "adalk-7b85c480",
+    "date_str": "2026-08-31",
+    "description": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-423966",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788135454.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-bf5e7ee9",
+    "num": "adalk-bf5e7ee9",
+    "date_str": "2026-08-31",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7 \u0dc3\u0dad\u0dd4\u0da7\u0dd4\u0dba\u0dd2\u0dbd\u0dd4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7-\u0dc3\u0dad\u0dd4\u0da7\u0dd4\u0dba\u0dd2\u0dbd\u0dd4/11-423967",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788136431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-1087873e",
+    "num": "adalk-1087873e",
+    "date_str": "2026-08-31",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0db1\u0dca\u0daf\u0db1 \u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0da9 \u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da0\u0db1\u0dca\u0daf\u0db1-\u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd0\u0da9-\u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/7-423968",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788138152.0
   }
 ]

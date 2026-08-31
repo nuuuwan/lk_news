@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--31_06:30:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--31_08:07:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,889** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-31-dailyftlk-055c5896",
-    "num": "dailyftlk-055c5896",
+    "doc_id": "2026-08-31-adalk-1087873e",
+    "num": "adalk-1087873e",
     "date_str": "2026-08-31",
-    "description": "\u2018Where\u2019s the humanity?\u2019: Imran Khan\u2019s sons fear for jailed ex-Pakistan PM",
-    "url_metadata": "https://www.ft.lk/opinion/Where-s-the-humanity-Imran-Khan-s-sons-fear-for-jailed-ex-Pakistan-PM/14-796574",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788135448.0
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0db1\u0dca\u0daf\u0db1 \u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0da9 \u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da0\u0db1\u0dca\u0daf\u0db1-\u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd0\u0da9-\u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/7-423968",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788138152.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-31 | `adalk-1087873e` | මහජන බැංකුවේ නව සභාපති චන්දන ගුණියන්ගොඩ වැඩ භාරගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-1087873e)
+- 2026-08-31 | `adalk-bf5e7ee9` | නාමල්ට සතුටුයිලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-bf5e7ee9)
+- 2026-08-31 | `adalk-7b85c480` | පෙට්‍රල් මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-7b85c480)
 - 2026-08-31 | `dailyftlk-055c5896` | ‘Where’s the humanity?’: Imran Khan’s sons fear for jailed ex-Pakistan PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-055c5896)
 - 2026-08-31 | `dailyftlk-5f94c505` | Reflections on Dr. Dayan Jayatilleka’s “Fake left matrix: Five false doctrines misleading Sri Lanka” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-5f94c505)
 - 2026-08-31 | `dailyftlk-aa774add` | Central Bank’s dilemma: 5% or 2%? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-aa774add)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-31 | `dailyftlk-55952a7b` | ITAK doubles allocation for abandoned public indoor stadium project, exposes Govt. cheap political agenda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-55952a7b)
 - 2026-08-31 | `dailyftlk-34c0e93e` | Cabinet Spokesman says Govt. aims to hold PC polls at earliest opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-34c0e93e)
 - 2026-08-31 | `dailyftlk-d4f0ab6e` | Nepal-Tibet floods kill over 700 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-d4f0ab6e)
-- 2026-08-31 | `dailyftlk-011c07d5` | Cabinet nod for Inter-Ministerial Standing Committee on Human Rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-011c07d5)
-- 2026-08-31 | `dailyftlk-a108c91b` | Sri Lanka to enter into prisoner transfer agreement with Poland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-a108c91b)
-- 2026-08-31 | `dailyftlk-664ecac3` | Cabinet clears remote witness testimony in civil cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailyftlk-664ecac3)
 
 ---
 
