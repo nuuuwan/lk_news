@@ -32499,6 +32499,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-7f41a43d",
+    "num": "adalk-7f41a43d",
+    "date_str": "2026-08-31",
+    "description": "\u0dad\u0daf\u0db6\u0daf\u0dba \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0dd2\u0dbb\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca  \u0dc0\u0dbb\u0daf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd3 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7 \u0d87\u0dc0\u0dd2\u0dad\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0daf\u0db6\u0daf\u0dba-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db1\u0dd2\u0daf\u0dc4\u0dc3-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0dd2\u0dbb\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca--\u0dc0\u0dbb\u0daf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc0\u0dd3-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0da7-\u0d87\u0dc0\u0dd2\u0dad\u0dca/11-423971",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788143107.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-31-tamilmirrorlk-089a5b27",
     "num": "tamilmirrorlk-089a5b27",
     "date_str": "2026-08-31",
@@ -32628,5 +32639,192 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788149672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-e4556245",
+    "num": "adalk-e4556245",
+    "date_str": "2026-08-31",
+    "description": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0dcf \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0daf\u0dd2\u0dba\u0dda \u0d9c\u0dd2\u0dbd\u0dd3 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dc4\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0dcf-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4-\u0daf\u0dd2\u0dba\u0dda-\u0d9c\u0dd2\u0dbd\u0dd3-\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dc4\u0db1\u0dca/11-423972",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788152148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-13027179",
+    "num": "dailymirrorlk-13027179",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka closely monitors Iranian-flagged vessels near EEZ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-closely-monitors-Iranian-flagged-vessels-near-EEZ/108-349123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788152206.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-5fa1202b",
+    "num": "dailymirrorlk-5fa1202b",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka ranks third globally for most public holidays",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ranks-third-globally-for-most-public-holidays/108-349124",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788152628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-8b3fea6b",
+    "num": "dailymirrorlk-8b3fea6b",
+    "date_str": "2026-08-31",
+    "description": "Crime bosses hit where it hurts: Rs. 6B assets frozen",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Crime-bosses-hit-where-it-hurts-Rs-6B-assets-frozen/108-349125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788152745.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-4cc9f0f0",
+    "num": "dailymirrorlk-4cc9f0f0",
+    "date_str": "2026-08-31",
+    "description": "Joint Opposition Fears Government May Try to Postpone Elections",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-Opposition-Fears-Government-May-Try-to-Postpone-Elections/108-349126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788153161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-f83f681d",
+    "num": "adalk-f83f681d",
+    "date_str": "2026-08-31",
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda 903\u0d9a\u0dca \u0dc4\u0dcf \u0da7\u0dd2\u0db6\u0dd9\u0da7\u0dba\u0dda 16\u0d9a\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7, 4746\u0d9a\u0dca \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda-903\u0d9a\u0dca-\u0dc4\u0dcf-\u0da7\u0dd2\u0db6\u0dd9\u0da7\u0dba\u0dda-16\u0d9a\u0dca-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7--4746\u0d9a\u0dca-\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca/11-423973",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788153299.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-825764c3",
+    "num": "dailymirrorlk-825764c3",
+    "date_str": "2026-08-31",
+    "description": "How global diesel price should be reflected? Decision today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-global-diesel-price-should-be-reflected-Decision-today/108-349127",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788153765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-41e17883",
+    "num": "dailymirrorlk-41e17883",
+    "date_str": "2026-08-31",
+    "description": "Nepal on high alert for fresh flooding after river levels rise as death toll passes 900",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-on-high-alert-for-fresh-flooding-after-river-levels-rise-as-death-toll-passes-900/108-349128",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788154086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-18e9b023",
+    "num": "dailymirrorlk-18e9b023",
+    "date_str": "2026-08-31",
+    "description": "No special trains for today\u2019s return rush: Station Masters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-special-trains-for-todays-return-rush-Station-Masters/108-349129",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788154758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-f6a4b3aa",
+    "num": "dailymirrorlk-f6a4b3aa",
+    "date_str": "2026-08-31",
+    "description": "Government in discussion with importers on prices of goods",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-in-discussion-with-importers-on-prices-of-goods/108-349130",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788155034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-b612bde2",
+    "num": "dailymirrorlk-b612bde2",
+    "date_str": "2026-08-31",
+    "description": "Iran\u2019s army says it attacked UAE\u2019s Al Minhad Air Base with drones, state TV reports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Irans-army-says-it-attacked-UAEs-Al-Minhad-Air-Base-with-drones-state-TV-reports/108-349131",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788155184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-c1b7bf1c",
+    "num": "dailymirrorlk-c1b7bf1c",
+    "date_str": "2026-08-31",
+    "description": "Hakgala to get plant conservation centre, laboratory and new eco-tourism zone",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hakgala-to-get-plant-conservation-centre-laboratory-and-new-eco-tourism-zone/108-349132",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788155456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-d5aa0b3f",
+    "num": "dailymirrorlk-d5aa0b3f",
+    "date_str": "2026-08-31",
+    "description": "Illicit drug shortage sparks surge in rehabilitation demand",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illicit-drug-shortage-sparks-surge-in-rehabilitation-demand/108-349133",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788155647.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-5c60f320",
+    "num": "dailymirrorlk-5c60f320",
+    "date_str": "2026-08-31",
+    "description": "Less than half of Ditwah relief allocation utilised",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Less-than-half-of-Ditwah-relief-allocation-utilised/108-349134",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788155804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-123de1b8",
+    "num": "dailymirrorlk-123de1b8",
+    "date_str": "2026-08-31",
+    "description": "Atlas Angel II brings US, Sri Lankan forces together",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Atlas-Angel-II-brings-US-Sri-Lankan-forces-together/108-349135",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788156653.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-dc05bb65",
+    "num": "dailymirrorlk-dc05bb65",
+    "date_str": "2026-08-31",
+    "description": "Over Rs. 408 million earned from expressway traffic in one week",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-Rs-408-million-earned-from-expressway-traffic-in-one-week/108-349136",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788156896.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-9c4bdd52",
+    "num": "dailymirrorlk-9c4bdd52",
+    "date_str": "2026-08-31",
+    "description": "One dead and around 15 missing as flash flood strikes Grand Canyon National Park",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-dead-and-around-15-missing-as-flash-flood-strikes-Grand-Canyon-National-Park/108-349137",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788158162.0
   }
 ]
