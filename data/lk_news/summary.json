@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-31 03:55:02",
-  "n_docs": 128868,
+  "time_updated": "2026-08-31 06:29:37",
+  "n_docs": 128889,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128868,
+  "n_docs_with_text": 128889,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-08-30",
-  "dataset_size": 2006223087,
+  "date_str_max": "2026-08-31",
+  "dataset_size": 2006351105,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-30-dailymirrorlk-e92d68ac",
-    "num": "dailymirrorlk-e92d68ac",
-    "date_str": "2026-08-30",
-    "description": "Fuel prices slashed",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-slashed/108-349091",
+    "doc_id": "2026-08-31-dailyftlk-055c5896",
+    "num": "dailyftlk-055c5896",
+    "date_str": "2026-08-31",
+    "description": "\u2018Where\u2019s the humanity?\u2019: Imran Khan\u2019s sons fear for jailed ex-Pakistan PM",
+    "url_metadata": "https://www.ft.lk/opinion/Where-s-the-humanity-Imran-Khan-s-sons-fear-for-jailed-ex-Pakistan-PM/14-796574",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788111208.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788135448.0
   }
 }

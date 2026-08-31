@@ -1,0 +1,71 @@
+How RAMIS is stripping businesses of their legitimate VAT input credits
+
+Legitimate rights of Sri Lankan taxpayers are being systematically violated. A critical discrepancy between the English and Sinhala texts of Section 22(6)(iv)(a) of the Value Added Tax Act has been hard-coded into the RAMIS system, resulting in the automatic denial of input tax credits that the law, properly interpreted, allows.
+
+The English version of the provision demands both that the taxable period ends within 12 months of the invoice date and that the VAT return for that period is filed within the same 12-month window. The Sinhala text, which prevails under Article 23 of the Constitution, focuses on the taxable period ending within 12 months and does not impose the same rigid filing deadline. RAMIS, developed by an overseas vendor from the English text, enforces the incorrect reading.
+
+As a direct consequence, compliant businesses are being stripped of credits they are legally entitled to claim. They face permanent economic disadvantage through reduced refunds, inflated assessments, strained cash flow and higher effective tax burdens. This is not a technical glitch; it is the application of a translated rule in place of the law Parliament enacted.
+
+Immediate administrative correction, aligning RAMIS rules and departmental practice with the authoritative Sinhala text, is required to restore taxpayers’ legitimate rights and prevent further economic harm.
+
+A divergence between the English and Sinhala texts of Section 22(6)(iv)(a) of the VAT ACT , hard-coded into RAMIS, is quietly disallowing legitimate input tax claims and the Constitution itself points the way out.
+
+Tucked away in Section 22(6)(iv)(a) of the Value Added Tax Act, No. 14 of 2002, as amended by the Value Added Tax (Amendment) Act, No. 15 of 2009, is one of the most consequential time-bar provisions in Sri Lankan indirect tax. It governs when a taxpayer may legitimately deduct input VAT on a tax invoice. Get it wrong by a day, and the credit is gone forever. Yet, the precise contours of that time bar depend on which language you read it in and on that question, the English and Sinhala texts of the Act do not say the same thing.
+
+The English version of Section 22(6)(iv)(a) provides that input tax shall not be deducted where the invoice has not been deducted from the output tax for any taxable period ending on or before the expiry of twelve months from the date of the tax invoice, by furnishing within the said period of twelve months the return for that taxable period.
+
+Read at face value, this construction imposes a double-barreled deadline. The taxable period in which the credit is claimed must end within twelve months of the invoice date and the VAT return for that period must itself be furnished within those same twelve months. Miss either limb, or the credit is permanently disallowed. It is an invoice-anchored hard stop, with no margin for normal filing cycles, returns under audit, or routine administrative delay.
+
+The Sinhala text of the 2009 amendment, however, is differently constructed. On a careful reading, the operative requirement is that the deduction be made against a taxable period ending within twelve months of the invoice date, with the return eventually furnished.
+
+The Sinhala wording does not impose the same strict, separately enforceable deadline that the return itself must be lodged within the twelve-month window from the invoice date. The eligibility anchor is the closing of the taxable period , not the act of filing.
+
+The practical consequence is significant. Under the Sinhala text, a taxpayer who claims a credit in a qualifying taxable period, one that closes within twelve months of the invoice, does not automatically forfeit that credit because the return for that period is filed slightly late. Under the English text, that taxpayer loses the credit outright.
+
+Two language versions of the same statute, leading to two materially different fiscal outcomes, is precisely the kind of inconsistency our constitutional framework anticipated.
+
+Article 23(1) of the Constitution requires that all laws be enacted and published in Sinhala and Tamil, with an English translation.
+
+Article 23(1)  of the Constitution of Sri Lanka is as follows:
+
+“All laws and subordinate legislation shall be enacted or made and published in Sinhala and Tamil, together with a translation thereof in English:
+
+Provided that Parliament shall, at the stage of enactment of any law determine which text shall prevail in the event of any inconsistency between texts:
+
+Provided further that in respect of all other written laws and the text in which such written laws was enacted or adopted or made, shall prevail in the event of any inconsistency between such texts”
+
+Critically, the proviso to that Article requires Parliament, at the stage of enactment, to determine which text shall prevail in the event of any inconsistency between texts. For statutes where Parliament has not expressly determined otherwise, the position is well settled in our legal tradition: the Sinhala text prevails as the authoritative version, and English serves as a translation.
+
+However the VAT Act goes on to state that “In the event of any inconsistency between the Sinhala and Tamil texts of the Act, the Sinhala text shall prevail”
+
+This is not a stylistic preference. It is a constitutional command. Where Sinhala and English diverge on the meaning of a taxing provision, the Sinhala text governs the rights and obligations of taxpayers and the conduct of the Department of Inland Revenue.
+
+Here is where law collides with system architecture. Sri Lanka’s Revenue Administration Management Information System (RAMIS), the platform through which VAT returns are filed, processed, and adjudicated, was developed by an overseas vendor working from the English text of the VAT Act.
+
+The validation rules, the time-bar logic, and the automated disallowance triggers built into RAMIS reflect the stricter English construction of Section 22(6)(iv)(a).
+
+In other words, the system enforces a rule that, on a proper constitutional reading, is not the rule actually enacted by Parliament.
+
+Every time RAMIS rejects an input tax claim on the basis that the return was filed outside the twelve-month window , even though the relevant taxable period closed within it, the platform is applying the English translation in preference to the prevailing statutory text.
+
+The result is a steady, largely invisible erosion of legitimate input tax credits. Businesses that have, in substance, complied with the statute as enacted in Sinhala find their refunds reduced or their assessments inflated. Most do not appeal. Many do not even realise the disallowance is questionable, because the system itself appears authoritative.
+
+This is not a complaint about a system bug or an inconvenient user interface. It is a question of whether automated tax administration is enforcing the statute Parliament passed, or a translation of it that does not, on its face, correspond.
+
+When a public authority levies tax or denies a credit on a basis that does not reflect the prevailing statutory text, the action is exposed to challenge on grounds of legality.
+
+Section 25A of the Constitution, inserted by the Sixteenth Amendment, reinforces the broader principle that constitutional provisions on language take precedence over inconsistent provisions of any law.
+
+The architecture of our legal system simply does not permit a translated text, hard-coded into a software platform, to override the operative language of a statute.
+
+The consequences for taxpayers are severe and immediate. Businesses are denied credits arising from VAT that they have already incurred in the course of making taxable supplies. Refunds are reduced or withheld, assessments are inflated, working capital is trapped, cash flow is weakened, and the effective cost of doing business increases. A tax intended to operate through an input credit mechanism is thereby converted, in part, into an unrecoverable business cost. Compliant taxpayers are forced to bear a financial burden that Parliament did not lawfully impose.
+
+Injustice is particularly troubling because it occurs automatically and often without transparency. Affected taxpayers may be informed only that the system does not permit the claim, without being told that the rejection may arise from a rule based on a constitutionally subordinate text. Many taxpayers may therefore accept the denial as legally inevitable, abandon valid claims, or incur substantial costs in seeking administrative or judicial relief. The result is a largely invisible but systematic erosion of taxpayer rights.
+
+The divergence between the English and Sinhala texts of Section 22(6)(iv)(a) needs to be acknowledged, and the application of the provision, whether through RAMIS, departmental practice, or formal guidance, must be aligned with the prevailing statutory text.
+
+How that alignment is best achieved is properly a matter for the Department, the Treasury, and the legislature to consider; the available levers range from system-level reconfiguration to clarificatory guidance to, where appropriate, legislative amendment.
+
+What is not tenable is the present position, in which a significant body of input tax disallowances rests on a reading of the Act that the Constitution does not authorise. The credibility of automated tax administration depends on the assurance that the system applies the law as enacted, not the law as translated. Restoring that assurance, in respect of Section 22(6)(iv)(a), is overdue.
+
+(The author, an Attorney-at-Law, LLB, FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 Asia Pacific Region  (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year)

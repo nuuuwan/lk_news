@@ -32158,6 +32158,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-30-adalk-3a576ec5",
+    "num": "adalk-3a576ec5",
+    "date_str": "2026-08-30",
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 900\u0d9a\u0d9c\u0dda \u0daf\u0dd2\u0dc0\u0dd2 \u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-900\u0d9a\u0d9c\u0dda-\u0daf\u0dd2\u0dc0\u0dd2-\u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dad\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2/11-423965",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788103739.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-30-dailymirrorlk-e92d68ac",
     "num": "dailymirrorlk-e92d68ac",
     "date_str": "2026-08-30",
@@ -32166,5 +32177,225 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788111208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-664ecac3",
+    "num": "dailyftlk-664ecac3",
+    "date_str": "2026-08-31",
+    "description": "Cabinet clears remote witness testimony in civil cases",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-remote-witness-testimony-in-civil-cases/56-796544",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788129824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-a108c91b",
+    "num": "dailyftlk-a108c91b",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka to enter into prisoner transfer agreement with Poland",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-to-enter-into-prisoner-transfer-agreement-with-Poland/56-796545",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788129837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-011c07d5",
+    "num": "dailyftlk-011c07d5",
+    "date_str": "2026-08-31",
+    "description": "Cabinet nod for Inter-Ministerial Standing Committee on Human Rights",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-for-Inter-Ministerial-Standing-Committee-on-Human-Rights/56-796546",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-d4f0ab6e",
+    "num": "dailyftlk-d4f0ab6e",
+    "date_str": "2026-08-31",
+    "description": "Nepal-Tibet floods kill over 700",
+    "url_metadata": "https://www.ft.lk/news/Nepal-Tibet-floods-kill-over-700/56-796547",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-34c0e93e",
+    "num": "dailyftlk-34c0e93e",
+    "date_str": "2026-08-31",
+    "description": "Cabinet Spokesman says Govt. aims to hold PC polls\u00a0at earliest opportunity",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-Spokesman-says-Govt-aims-to-hold-PC-pollsat-earliest-opportunity/56-796548",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-55952a7b",
+    "num": "dailyftlk-55952a7b",
+    "date_str": "2026-08-31",
+    "description": "ITAK doubles allocation for abandoned public indoor stadium project, exposes Govt. cheap political agenda",
+    "url_metadata": "https://www.ft.lk/news/ITAK-doubles-allocation-for-abandoned-public-indoor-stadium-project-exposes-Govt-cheap-political-agenda/56-796549",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-01510963",
+    "num": "dailyftlk-01510963",
+    "date_str": "2026-08-31",
+    "description": "CII trains ITAK Local Government representatives in North",
+    "url_metadata": "https://www.ft.lk/news/CII-trains-ITAK-Local-Government-representatives-in-North/56-796550",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-361fe469",
+    "num": "dailyftlk-361fe469",
+    "date_str": "2026-08-31",
+    "description": "Rs. 22 m more funding for Home-Grown School Feeding in Nuwara Eliya",
+    "url_metadata": "https://www.ft.lk/news/Rs-22-m-more-funding-for-Home-Grown-School-Feeding-in-Nuwara-Eliya/56-796551",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-4eab46ad",
+    "num": "dailyftlk-4eab46ad",
+    "date_str": "2026-08-31",
+    "description": "\u2018Rhythms of Lanka\u2019 supported by Home Lands bedazzles Sydney Opera House",
+    "url_metadata": "https://www.ft.lk/news/Rhythms-of-Lanka-supported-by-Home-Lands-bedazzles-Sydney-Opera-House/56-796552",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-c1735360",
+    "num": "dailyftlk-c1735360",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka joins 108-nation space education world record",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-joins-108-nation-space-education-world-record/56-796553",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788130303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-2b5c632c",
+    "num": "dailyftlk-2b5c632c",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka Customs revenue targets and actual collections: An\u00a0interim review",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-Customs-revenue-targets-and-actual-collections-Aninterim-review/4-796565",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788132409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-c389517d",
+    "num": "dailyftlk-c389517d",
+    "date_str": "2026-08-31",
+    "description": "How RAMIS is stripping businesses of their legitimate VAT input credits",
+    "url_metadata": "https://www.ft.lk/columns/How-RAMIS-is-stripping-businesses-of-their-legitimate-VAT-input-credits/4-796566",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788132691.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-tamilmirrorlk-15a1752d",
+    "num": "tamilmirrorlk-15a1752d",
+    "date_str": "2026-08-31",
+    "description": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-382126",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788132740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-2cfcc52d",
+    "num": "dailyftlk-2cfcc52d",
+    "date_str": "2026-08-31",
+    "description": "Restoring housing loan interest relief is essential",
+    "url_metadata": "https://www.ft.lk/columns/Restoring-housing-loan-interest-relief-is-essential/4-796567",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788134018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-4945fb84",
+    "num": "dailyftlk-4945fb84",
+    "date_str": "2026-08-31",
+    "description": "Sri Lanka\u2019s next farm crisis could begin with drought - and end with too much rain",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-next-farm-crisis-could-begin-with-drought-and-end-with-too-much-rain/4-796568",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788134302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-0391ad2d",
+    "num": "dailyftlk-0391ad2d",
+    "date_str": "2026-08-31",
+    "description": "Maha 2026/2027: Why delaying cultivation until December may be safer choice",
+    "url_metadata": "https://www.ft.lk/columns/Maha-2026-2027-Why-delaying-cultivation-until-December-may-be-safer-choice/4-796569",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788134552.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-c93961f2",
+    "num": "dailyftlk-c93961f2",
+    "date_str": "2026-08-31",
+    "description": "When the mountain moved",
+    "url_metadata": "https://www.ft.lk/columns/When-the-mountain-moved/4-796571",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788134944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-aa774add",
+    "num": "dailyftlk-aa774add",
+    "date_str": "2026-08-31",
+    "description": "Central Bank\u2019s dilemma: 5% or 2%?",
+    "url_metadata": "https://www.ft.lk/columns/Central-Bank-s-dilemma-5-or-2/4-796572",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788135246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-5f94c505",
+    "num": "dailyftlk-5f94c505",
+    "date_str": "2026-08-31",
+    "description": "Reflections on Dr. Dayan Jayatilleka\u2019s \u201cFake left matrix: Five false doctrines misleading Sri Lanka\u201d",
+    "url_metadata": "https://www.ft.lk/opinion/Reflections-on-Dr-Dayan-Jayatilleka-s-Fake-left-matrix-Five-false-doctrines-misleading-Sri-Lanka/14-796573",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788135367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailyftlk-055c5896",
+    "num": "dailyftlk-055c5896",
+    "date_str": "2026-08-31",
+    "description": "\u2018Where\u2019s the humanity?\u2019: Imran Khan\u2019s sons fear for jailed ex-Pakistan PM",
+    "url_metadata": "https://www.ft.lk/opinion/Where-s-the-humanity-Imran-Khan-s-sons-fear-for-jailed-ex-Pakistan-PM/14-796574",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788135448.0
   }
 ]
