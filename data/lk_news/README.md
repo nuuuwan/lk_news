@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--31_18:06:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--31_20:40:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,987** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,990** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-31-dailymirrorlk-18a54fb5",
-    "num": "dailymirrorlk-18a54fb5",
+    "doc_id": "2026-08-31-dailymirrorlk-8518ec01",
+    "num": "dailymirrorlk-8518ec01",
     "date_str": "2026-08-31",
-    "description": "Six-member committee appointed to study intermediate cadre for medical officers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-member-committee-appointed-to-study-intermediate-cadre-for-medical-officers/108-349162",
+    "description": "Horton Plains to introduce daily visitor limits and online booking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Horton-Plains-to-introduce-daily-visitor-limits-and-online-booking/108-349169",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788178668.0
+    "time_ut": 1788188571.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-31 | `dailymirrorlk-8518ec01` | Horton Plains to introduce daily visitor limits and online booking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-8518ec01)
+- 2026-08-31 | `dailymirrorlk-22c80cbd` | ’A giant leap forward’: Nasa launches powerful new space telescope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-22c80cbd)
+- 2026-08-31 | `dailymirrorlk-3217bf96` | Electric shuttle service proposed to protect Horton Plains environment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-3217bf96)
 - 2026-08-31 | `dailymirrorlk-18a54fb5` | Six-member committee appointed to study intermediate cadre for medical officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-18a54fb5)
 - 2026-08-31 | `tamilmirrorlk-875e2e52` | பிரதேச செயலக அபிவிருத்தி உத்தியோகத்தர்கள் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-875e2e52)
 - 2026-08-31 | `dailymirrorlk-84d6bb6a` | As governor sees stability people waiting for Godot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-84d6bb6a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-08-31 | `dailymirrorlk-1564333a` | 2027 firearm licence renewals open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-1564333a)
 - 2026-08-31 | `adalk-93985b25` | 22ට ඉදිරිපත්ව ඇති පෙත්සම් විභාගයට පංච පුද්ගල විනිසුරු මඩුල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-93985b25)
 - 2026-08-31 | `tamilmirrorlk-a3efefc0` | பாண் விலை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-a3efefc0)
-- 2026-08-31 | `dailymirrorlk-91f8f044` | Bread price to increase by Rs. 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-91f8f044)
-- 2026-08-31 | `tamilmirrorlk-681f1745` | நேபாளத்தில் 1,643 மாணவர்களைக் காப்பாற்றிய அதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-681f1745)
-- 2026-08-31 | `dailymirrorlk-b1aa0e86` | Sri Lanka Customs exceeds revenue target ahead of month-end | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-b1aa0e86)
 
 ---
 

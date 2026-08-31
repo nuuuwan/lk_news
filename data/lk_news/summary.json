@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-31 18:05:51",
-  "n_docs": 128987,
+  "time_updated": "2026-08-31 20:39:40",
+  "n_docs": 128990,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128987,
+  "n_docs_with_text": 128990,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-31",
-  "dataset_size": 2008612555,
+  "dataset_size": 2008707332,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-31-dailymirrorlk-18a54fb5",
-    "num": "dailymirrorlk-18a54fb5",
+    "doc_id": "2026-08-31-dailymirrorlk-8518ec01",
+    "num": "dailymirrorlk-8518ec01",
     "date_str": "2026-08-31",
-    "description": "Six-member committee appointed to study intermediate cadre for medical officers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-member-committee-appointed-to-study-intermediate-cadre-for-medical-officers/108-349162",
+    "description": "Horton Plains to introduce daily visitor limits and online booking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Horton-Plains-to-introduce-daily-visitor-limits-and-online-booking/108-349169",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788178668.0
+    "time_ut": 1788188571.0
   }
 }

@@ -33475,5 +33475,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788178668.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-3217bf96",
+    "num": "dailymirrorlk-3217bf96",
+    "date_str": "2026-08-31",
+    "description": "Electric shuttle service proposed to protect Horton Plains environment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Electric-shuttle-service-proposed-to-protect-Horton-Plains-environment/108-349167",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788188186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-22c80cbd",
+    "num": "dailymirrorlk-22c80cbd",
+    "date_str": "2026-08-31",
+    "description": "\u2019A giant leap forward\u2019: Nasa launches powerful new space telescope",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/A-giant-leap-forward-Nasa-launches-powerful-new-space-telescope/108-349168",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788188386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-08-31-dailymirrorlk-8518ec01",
+    "num": "dailymirrorlk-8518ec01",
+    "date_str": "2026-08-31",
+    "description": "Horton Plains to introduce daily visitor limits and online booking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Horton-Plains-to-introduce-daily-visitor-limits-and-online-booking/108-349169",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788188571.0
   }
 ]
