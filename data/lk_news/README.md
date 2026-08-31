@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--31_22:00:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_00:03:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**128,997** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**128,999** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-08-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-31-dailymirrorlk-f41a18b6",
-    "num": "dailymirrorlk-f41a18b6",
+    "doc_id": "2026-08-31-dailymirrorlk-a15ac67e",
+    "num": "dailymirrorlk-a15ac67e",
     "date_str": "2026-08-31",
-    "description": "Lionel Messi retires from international football",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lionel-Messi-retires-from-international-football/108-349170",
+    "description": "Two Pakistanis among three arrested over 463 kg \u2019Ice\u2019 haul",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-Pakistanis-among-three-arrested-over-463-kg-Ice-haul/108-349171",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788191938.0
+    "time_ut": 1788198467.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-31 | `dailymirrorlk-a15ac67e` | Two Pakistanis among three arrested over 463 kg ’Ice’ haul | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-a15ac67e)
+- 2026-08-31 | `tamilmirrorlk-b7757cf4` | சர்வதேச கால்பந்துக்கு விடைகொடுக்கிறார் மெஸ்ஸி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-b7757cf4)
 - 2026-08-31 | `dailymirrorlk-f41a18b6` | Lionel Messi retires from international football | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-f41a18b6)
 - 2026-08-31 | `dailymirrorlk-8518ec01` | Horton Plains to introduce daily visitor limits and online booking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-8518ec01)
 - 2026-08-31 | `adalk-a9942f67` | චූලපද්මේන්ද්‍ර සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-a9942f67)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-08-31 | `tamilmirrorlk-59f36215` | பிரபல இலங்கை வடிவழகி சுல்பத்மேந்திர காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-59f36215)
 - 2026-08-31 | `dailymirrorlk-75d50058` | Model Chulpadmendra Kumarapathirana dies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-75d50058)
 - 2026-08-31 | `adalk-246ac772` | මුල් මාස හතේ අපනයන ආදායම ඩොලර් බිලියන 10 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-246ac772)
-- 2026-08-31 | `tamilmirrorlk-0ace497a` | வனராஜா,காட்மோர் குளவிக்கொட்டு: 17 பேர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-0ace497a)
-- 2026-08-31 | `dailymirrorlk-bdb25c97` | Google Maps now show ’Lake America’ in US, not ’Lake Ontario’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-bdb25c97)
 
 ---
 
