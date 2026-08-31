@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_01:57:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_03:56:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-dailyftlk-3057d4ce",
-    "num": "dailyftlk-3057d4ce",
+    "doc_id": "2026-09-01-dailyftlk-7bfc2a44",
+    "num": "dailyftlk-7bfc2a44",
     "date_str": "2026-09-01",
-    "description": "Deep Tec and CCECC join hands to advance sustainable water and sanitation infrastructure in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/Deep-Tec-and-CCECC-join-hands-to-advance-sustainable-water-and-sanitation-infrastructure-in-Sri-Lanka/34-796614",
+    "description": "BOI, Austrade hold knowledge-sharing workshop on FDI promotion",
+    "url_metadata": "https://www.ft.lk/business/BOI-Austrade-hold-knowledge-sharing-workshop-on-FDI-promotion/34-796630",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1788204172.0
+    "time_ut": 1788213342.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `dailyftlk-7bfc2a44` | BOI, Austrade hold knowledge-sharing workshop on FDI promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-7bfc2a44)
+- 2026-09-01 | `dailyftlk-aad02d43` | Priyanthini McNair joins Digital Mobility Solutions Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-aad02d43)
+- 2026-09-01 | `dailyftlk-6df13139` | CSE snaps three-month losing streak in August, down 5.7% YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-6df13139)
+- 2026-09-01 | `dailyftlk-217299bf` | Phantom imports case: Court asks FCID to probe whether imports arrived against overseas advance payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-217299bf)
+- 2026-09-01 | `dailyftlk-0af94c52` | GovPay transactions cross Rs. 5 b mark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-0af94c52)
+- 2026-09-01 | `dailyftlk-348f67a1` | CPC slashes petrol prices by up to Rs. 20 per litre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-348f67a1)
+- 2026-09-01 | `dailyftlk-ff213db1` | Construction PMI climbs in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ff213db1)
 - 2026-09-01 | `dailyftlk-3057d4ce` | Deep Tec and CCECC join hands to advance sustainable water and sanitation infrastructure in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3057d4ce)
 - 2026-09-01 | `dailyftlk-3a3edccd` | Joseph Page new Chairman of CT Land Development; Indira Malwatte joins Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3a3edccd)
 - 2026-09-01 | `dailyftlk-ead2166b` | An economy for more than 1,000 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ead2166b)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-08-31 | `dailymirrorlk-bfacec01` | President calls for greater transparency, investment to develop Sri Lanka’s mineral industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-bfacec01)
 - 2026-08-31 | `dailymirrorlk-6603bdff` | India must uphold water-sharing treaty with Pakistan, international court says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-6603bdff)
 - 2026-08-31 | `dailymirrorlk-b2640c71` | CSE opens the week higher as late buying lifts both indices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-b2640c71)
-- 2026-08-31 | `dailymirrorlk-52989f5a` | Ravi Karunanayake released... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-52989f5a)
-- 2026-08-31 | `dailymirrorlk-18a54fb5` | Six-member committee appointed to study intermediate cadre for medical officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-18a54fb5)
-- 2026-08-31 | `tamilmirrorlk-875e2e52` | பிரதேச செயலக அபிவிருத்தி உத்தியோகத்தர்கள் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-875e2e52)
-- 2026-08-31 | `dailymirrorlk-84d6bb6a` | As governor sees stability people waiting for Godot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-84d6bb6a)
-- 2026-08-31 | `dailymirrorlk-2c74f7ca` | Former Minister Ravi Karunanayake released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-2c74f7ca)
-- 2026-08-31 | `tamilmirrorlk-14178bfb` | முன்னாள் அமைச்சர் ரவி கருணாநாயக்கவுக்குப் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-14178bfb)
-- 2026-08-31 | `tamilmirrorlk-d79dbbac` | ரெடிக்கு ரெடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-d79dbbac)
 
 ---
 

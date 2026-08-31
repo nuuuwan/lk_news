@@ -33640,5 +33640,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788204172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-ff213db1",
+    "num": "dailyftlk-ff213db1",
+    "date_str": "2026-09-01",
+    "description": "Construction PMI climbs in July",
+    "url_metadata": "https://www.ft.lk/business/Construction-PMI-climbs-in-July/34-796624",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213037.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-348f67a1",
+    "num": "dailyftlk-348f67a1",
+    "date_str": "2026-09-01",
+    "description": "CPC slashes petrol prices by up to Rs. 20 per litre",
+    "url_metadata": "https://www.ft.lk/business/CPC-slashes-petrol-prices-by-up-to-Rs-20-per-litre/34-796625",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213063.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-0af94c52",
+    "num": "dailyftlk-0af94c52",
+    "date_str": "2026-09-01",
+    "description": "GovPay transactions cross Rs. 5 b mark",
+    "url_metadata": "https://www.ft.lk/business/GovPay-transactions-cross-Rs-5-b-mark/34-796626",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-217299bf",
+    "num": "dailyftlk-217299bf",
+    "date_str": "2026-09-01",
+    "description": "Phantom imports case: Court asks FCID to probe whether imports arrived against overseas advance payments",
+    "url_metadata": "https://www.ft.lk/business/Phantom-imports-case-Court-asks-FCID-to-probe-whether-imports-arrived-against-overseas-advance-payments/34-796627",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-6df13139",
+    "num": "dailyftlk-6df13139",
+    "date_str": "2026-09-01",
+    "description": "CSE snaps three-month losing streak in August, down 5.7% YTD",
+    "url_metadata": "https://www.ft.lk/business/CSE-snaps-three-month-losing-streak-in-August-down-5-7-YTD/34-796628",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-aad02d43",
+    "num": "dailyftlk-aad02d43",
+    "date_str": "2026-09-01",
+    "description": "Priyanthini McNair joins Digital Mobility Solutions Board",
+    "url_metadata": "https://www.ft.lk/business/Priyanthini-McNair-joins-Digital-Mobility-Solutions-Board/34-796629",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213269.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-7bfc2a44",
+    "num": "dailyftlk-7bfc2a44",
+    "date_str": "2026-09-01",
+    "description": "BOI, Austrade hold knowledge-sharing workshop on FDI promotion",
+    "url_metadata": "https://www.ft.lk/business/BOI-Austrade-hold-knowledge-sharing-workshop-on-FDI-promotion/34-796630",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788213342.0
   }
 ]
