@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-08-31 08:06:28",
-  "n_docs": 128893,
+  "time_updated": "2026-08-31 10:02:22",
+  "n_docs": 128910,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 128893,
+  "n_docs_with_text": 128910,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-08-31",
-  "dataset_size": 2007399612,
+  "dataset_size": 2007534987,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-08-31-adalk-1087873e",
-    "num": "adalk-1087873e",
+    "doc_id": "2026-08-31-dailymirrorlk-e53b40a5",
+    "num": "dailymirrorlk-e53b40a5",
     "date_str": "2026-08-31",
-    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0db1\u0dca\u0daf\u0db1 \u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0da9 \u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3",
-    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da0\u0db1\u0dca\u0daf\u0db1-\u0d9c\u0dd4\u0dab\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd0\u0da9-\u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dd3/7-423968",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788138152.0
+    "description": "Prime Minister departs for Bhutan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-departs-for-Bhutan/108-349121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788149672.0
   }
 }
