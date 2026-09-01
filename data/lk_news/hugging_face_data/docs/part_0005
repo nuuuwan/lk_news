@@ -32741,6 +32741,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-c0f66f9c",
+    "num": "adalk-c0f66f9c",
+    "date_str": "2026-08-31",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf - \u0da0\u0dd3\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba 25 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0db8\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf---\u0da0\u0dd3\u0db1-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a-\u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba-25-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba-\u0dc3\u0db8\u0dbb\u0dba\u0dd2/7-423969",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788138483.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-31-adalk-4250b327",
     "num": "adalk-4250b327",
     "date_str": "2026-08-31",
@@ -33533,6 +33544,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-08-31-adalk-e7abe706",
+    "num": "adalk-e7abe706",
+    "date_str": "2026-08-31",
+    "description": "\u0dbb\u0dc0\u0dd3\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dc0\u0dd3\u0da7-\u0d87\u0db4/11-423981",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788188021.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-08-31-dailymirrorlk-3217bf96",
     "num": "dailymirrorlk-3217bf96",
     "date_str": "2026-08-31",
@@ -33783,5 +33805,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788222264.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-adalk-c97b84f8",
+    "num": "adalk-c97b84f8",
+    "date_str": "2026-09-01",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8 \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dbd\u0dd9\u0dc3 \u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0dba\u0dc5\u0dd2 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8-\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba-\u0dbd\u0dd9\u0dc3-\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0dba\u0dc5\u0dd2-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/7-423983",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788224804.0
   }
 ]
