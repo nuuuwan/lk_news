@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_16:04:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_18:10:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,083** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,086** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-tamilmirrorlk-bf2e8dba",
-    "num": "tamilmirrorlk-bf2e8dba",
+    "doc_id": "2026-09-01-adalk-80da44b3",
+    "num": "adalk-80da44b3",
     "date_str": "2026-09-01",
-    "description": "\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd \u2018\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bbe\u0baf\u0bcd\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u2019 \u0baa\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf\u0bb1\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0baa\u0bbe\u0baf\u0bcd\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf\u0bb1\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1/175-382194",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788256926.0
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d9a\u0dd2\u0dc3\u0dd2\u0db8 \u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0d9a\u0dd2\u0dc3\u0dd2\u0db8-\u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/11-424003",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788259300.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `adalk-80da44b3` | මත්ද්‍රව්‍ය විකුණන පුද්ගලයින්ට කිසිම සමාවක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-80da44b3)
+- 2026-09-01 | `adalk-93d59e08` | සෙවනගල කඩිනමින් විවෘත කිරීම අපේ අරමුණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-93d59e08)
 - 2026-09-01 | `tamilmirrorlk-bf2e8dba` | லண்டன் ‘பொலிஸ் பாய்ஸுக்கு’ பிடிவிறாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-bf2e8dba)
+- 2026-09-01 | `adalk-cc9bd810` | ලංකාවේ උක් සංවර්ධනයට බ්‍රසීලය සමග ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-cc9bd810)
 - 2026-09-01 | `tamilmirrorlk-6506639c` | ரூ.3 கோடிக்கு ஏலம் போன  பறவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-6506639c)
 - 2026-09-01 | `adalk-34b931cf` | පියංකර ජයරත්නට වසර 7ක බරපතල වැඩ සහිත සිර දඩුවම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-34b931cf)
 - 2026-09-01 | `tamilmirrorlk-22714079` | உள்ளாடைகளை மண்ணில் புதைத்து வைங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-22714079)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-01 | `dailymirrorlk-654c1e20` | Apparel, tea declines pull Sri Lanka’s July merchandise exports lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-654c1e20)
 - 2026-09-01 | `dailymirrorlk-3239224e` | Inflation overshoots CB band despite easing fuel prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-3239224e)
 - 2026-09-01 | `dailymirrorlk-b9e1862d` | Sri Lanka tourism reset targets reforms, investment and promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-b9e1862d)
-- 2026-09-01 | `dailymirrorlk-491f06e2` | Construction activity gathers pace in July despite material shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-491f06e2)
-- 2026-09-01 | `dailymirrorlk-0f2b28b9` | CBSL releases 2026 economic and social statistics database | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-0f2b28b9)
-- 2026-09-01 | `dailymirrorlk-51a87bd7` | Month ends in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-51a87bd7)
 
 ---
 
