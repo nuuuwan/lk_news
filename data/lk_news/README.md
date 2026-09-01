@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_20:02:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_22:19:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,089** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,090** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2026-09-01 | `adalk-80da44b3` | මත්ද්‍රව්‍ය විකුණන පුද්ගලයින්ට කිසිම සමාවක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-80da44b3)
 - 2026-09-01 | `adalk-f5169be6` | විදුලි හෝ ජල කප්පාදුවක් ගැන තවමත් තිරණයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-f5169be6)
 - 2026-09-01 | `adalk-dec1d2a8` | සෞඛ්‍ය ඇමති රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගයෙන් ආයාචනයක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-dec1d2a8)
+- 2026-09-01 | `adalk-56841e9e` | ඉන්ධන කේතය තවමත් ක්‍රියාත්මකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-56841e9e)
 - 2026-09-01 | `adalk-93d59e08` | සෙවනගල කඩිනමින් විවෘත කිරීම අපේ අරමුණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-93d59e08)
 - 2026-09-01 | `tamilmirrorlk-bf2e8dba` | லண்டன் ‘பொலிஸ் பாய்ஸுக்கு’ பிடிவிறாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-bf2e8dba)
 - 2026-09-01 | `adalk-cc9bd810` | ලංකාවේ උක් සංවර්ධනයට බ්‍රසීලය සමග ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-cc9bd810)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-01 | `dailymirrorlk-099d30c7` | Japan, pacifist since 1947, is now vigorously militarising | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-099d30c7)
 - 2026-09-01 | `dailymirrorlk-77ee1d2d` | Quality of life:  Is it the state’s responsibility? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-77ee1d2d)
 - 2026-09-01 | `dailymirrorlk-63dc19cc` | Consumers deserve truth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-63dc19cc)
-- 2026-09-01 | `dailymirrorlk-0d964877` | Promises alone would not defeat racism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-0d964877)
 
 ---
 
