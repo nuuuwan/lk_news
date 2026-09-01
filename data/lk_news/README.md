@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_03:56:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_06:28:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,015** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-dailyftlk-7bfc2a44",
-    "num": "dailyftlk-7bfc2a44",
+    "doc_id": "2026-09-01-dailymirrorlk-f97f7916",
+    "num": "dailymirrorlk-f97f7916",
     "date_str": "2026-09-01",
-    "description": "BOI, Austrade hold knowledge-sharing workshop on FDI promotion",
-    "url_metadata": "https://www.ft.lk/business/BOI-Austrade-hold-knowledge-sharing-workshop-on-FDI-promotion/34-796630",
+    "description": "Voters who distanced themselves from SLPP are now returning, says Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Voters-who-distanced-themselves-from-SLPP-are-now-returning-says-Namal/108-349172",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788213342.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788222264.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `dailymirrorlk-f97f7916` | Voters who distanced themselves from SLPP are now returning, says Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-f97f7916)
+- 2026-09-01 | `dailyftlk-e652135d` | Why Sri Lanka should not rush to change inflation target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-e652135d)
+- 2026-09-01 | `dailyftlk-11c1fabd` | Sri Lanka sets sights on global FinTech map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-11c1fabd)
+- 2026-09-01 | `dailyftlk-a8e62b3e` | Sri Lanka among ‘Elevated Concern’ countries for El Nino and Middle East crisis snapshot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-a8e62b3e)
+- 2026-09-01 | `dailyftlk-efb5f173` | Climate has changed: Has our agriculture? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-efb5f173)
+- 2026-09-01 | `dailyftlk-d4172e85` | The 22nd Amendment to Constitution: Pandora’s box or a horn of plenty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-d4172e85)
 - 2026-09-01 | `dailyftlk-7bfc2a44` | BOI, Austrade hold knowledge-sharing workshop on FDI promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-7bfc2a44)
 - 2026-09-01 | `dailyftlk-aad02d43` | Priyanthini McNair joins Digital Mobility Solutions Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-aad02d43)
 - 2026-09-01 | `dailyftlk-6df13139` | CSE snaps three-month losing streak in August, down 5.7% YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-6df13139)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-08-31 | `tamilmirrorlk-b7757cf4` | சர்வதேச கால்பந்துக்கு விடைகொடுக்கிறார் மெஸ்ஸி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-b7757cf4)
 - 2026-08-31 | `dailymirrorlk-f41a18b6` | Lionel Messi retires from international football | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-f41a18b6)
 - 2026-08-31 | `dailymirrorlk-8518ec01` | Horton Plains to introduce daily visitor limits and online booking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-8518ec01)
-- 2026-08-31 | `adalk-a9942f67` | චූලපද්මේන්ද්‍ර සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-adalk-a9942f67)
-- 2026-08-31 | `dailymirrorlk-22c80cbd` | ’A giant leap forward’: Nasa launches powerful new space telescope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-22c80cbd)
-- 2026-08-31 | `dailymirrorlk-3217bf96` | Electric shuttle service proposed to protect Horton Plains environment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-3217bf96)
-- 2026-08-31 | `dailymirrorlk-bfacec01` | President calls for greater transparency, investment to develop Sri Lanka’s mineral industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-bfacec01)
-- 2026-08-31 | `dailymirrorlk-6603bdff` | India must uphold water-sharing treaty with Pakistan, international court says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-6603bdff)
-- 2026-08-31 | `dailymirrorlk-b2640c71` | CSE opens the week higher as late buying lifts both indices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-b2640c71)
 
 ---
 

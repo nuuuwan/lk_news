@@ -33717,5 +33717,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788213342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-d4172e85",
+    "num": "dailyftlk-d4172e85",
+    "date_str": "2026-09-01",
+    "description": "The 22nd Amendment to Constitution: Pandora\u2019s box or a horn of plenty",
+    "url_metadata": "https://www.ft.lk/columns/The-22nd-Amendment-to-Constitution-Pandora-s-box-or-a-horn-of-plenty/4-796644",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788215533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-efb5f173",
+    "num": "dailyftlk-efb5f173",
+    "date_str": "2026-09-01",
+    "description": "Climate has changed: Has our agriculture?",
+    "url_metadata": "https://www.ft.lk/columns/Climate-has-changed-Has-our-agriculture/4-796645",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788215908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-a8e62b3e",
+    "num": "dailyftlk-a8e62b3e",
+    "date_str": "2026-09-01",
+    "description": "Sri Lanka among \u2018Elevated Concern\u2019 countries for El Nino and Middle East crisis snapshot",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-among-Elevated-Concern-countries-for-El-Nino-and-Middle-East-crisis-snapshot/14-796646",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788215984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-11c1fabd",
+    "num": "dailyftlk-11c1fabd",
+    "date_str": "2026-09-01",
+    "description": "Sri Lanka sets sights on global FinTech map",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-sets-sights-on-global-FinTech-map/34-796647",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788216353.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailyftlk-e652135d",
+    "num": "dailyftlk-e652135d",
+    "date_str": "2026-09-01",
+    "description": "Why Sri Lanka should not rush to change inflation target",
+    "url_metadata": "https://www.ft.lk/columns/Why-Sri-Lanka-should-not-rush-to-change-inflation-target/4-796648",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788216743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-f97f7916",
+    "num": "dailymirrorlk-f97f7916",
+    "date_str": "2026-09-01",
+    "description": "Voters who distanced themselves from SLPP are now returning, says Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Voters-who-distanced-themselves-from-SLPP-are-now-returning-says-Namal/108-349172",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788222264.0
   }
 ]
