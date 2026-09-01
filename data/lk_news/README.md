@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_18:10:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_20:02:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,086** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,089** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-adalk-80da44b3",
-    "num": "adalk-80da44b3",
+    "doc_id": "2026-09-01-adalk-e0950b50",
+    "num": "adalk-e0950b50",
     "date_str": "2026-09-01",
-    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d9a\u0dd2\u0dc3\u0dd2\u0db8 \u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0d9a\u0dd2\u0dc3\u0dd2\u0db8-\u0dc3\u0db8\u0dcf\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/11-424003",
+    "description": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb\u0dba\u0da7 \u0da2\u0dbd \u0db6\u0ddd\u0dad\u0dbd\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb\u0dba\u0da7-\u0da2\u0dbd-\u0db6\u0ddd\u0dad\u0dbd\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1/11-424004",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1788259300.0
+    "time_ut": 1788261033.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `adalk-e0950b50` | අනුරාධපුරයට ජල බෝතල් ගේන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-e0950b50)
 - 2026-09-01 | `adalk-80da44b3` | මත්ද්‍රව්‍ය විකුණන පුද්ගලයින්ට කිසිම සමාවක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-80da44b3)
+- 2026-09-01 | `adalk-f5169be6` | විදුලි හෝ ජල කප්පාදුවක් ගැන තවමත් තිරණයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-f5169be6)
+- 2026-09-01 | `adalk-dec1d2a8` | සෞඛ්‍ය ඇමති රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගයෙන් ආයාචනයක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-dec1d2a8)
 - 2026-09-01 | `adalk-93d59e08` | සෙවනගල කඩිනමින් විවෘත කිරීම අපේ අරමුණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-93d59e08)
 - 2026-09-01 | `tamilmirrorlk-bf2e8dba` | லண்டன் ‘பொலிஸ் பாய்ஸுக்கு’ பிடிவிறாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-bf2e8dba)
 - 2026-09-01 | `adalk-cc9bd810` | ලංකාවේ උක් සංවර්ධනයට බ්‍රසීලය සමග ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-cc9bd810)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-01 | `dailymirrorlk-77ee1d2d` | Quality of life:  Is it the state’s responsibility? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-77ee1d2d)
 - 2026-09-01 | `dailymirrorlk-63dc19cc` | Consumers deserve truth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-63dc19cc)
 - 2026-09-01 | `dailymirrorlk-0d964877` | Promises alone would not defeat racism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-0d964877)
-- 2026-09-01 | `dailymirrorlk-654c1e20` | Apparel, tea declines pull Sri Lanka’s July merchandise exports lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-654c1e20)
-- 2026-09-01 | `dailymirrorlk-3239224e` | Inflation overshoots CB band despite easing fuel prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-3239224e)
-- 2026-09-01 | `dailymirrorlk-b9e1862d` | Sri Lanka tourism reset targets reforms, investment and promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-b9e1862d)
 
 ---
 
