@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_08:05:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_10:17:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,018** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,021** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-adalk-c97b84f8",
-    "num": "adalk-c97b84f8",
+    "doc_id": "2026-09-01-dailyftlk-632e85d2",
+    "num": "dailyftlk-632e85d2",
     "date_str": "2026-09-01",
-    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8 \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dbd\u0dd9\u0dc3 \u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0dba\u0dc5\u0dd2 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8-\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba-\u0dbd\u0dd9\u0dc3-\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0dba\u0dc5\u0dd2-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/7-423983",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788224804.0
+    "description": "SC to hear 22nd Amendment challenges today",
+    "url_metadata": "https://www.ft.lk/news/SC-to-hear-22nd-Amendment-challenges-today/56-796655",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788234075.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `dailyftlk-632e85d2` | SC to hear 22nd Amendment challenges today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-632e85d2)
+- 2026-09-01 | `dailyftlk-ff21019b` | ICRC says sustained, collective efforts critical to address issue of missing persons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ff21019b)
+- 2026-09-01 | `dailymirrorlk-72544600` | Record 67 petitions filed over 22nd Amendment Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-72544600)
 - 2026-09-01 | `adalk-c97b84f8` | ශ්‍රී ලංකාවේ වටිනාම රක්ෂණ සන්නාමය ලෙස සෙලින්කෝ ලයිෆ් යළි තහවුරු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-c97b84f8)
 - 2026-09-01 | `dailymirrorlk-f97f7916` | Voters who distanced themselves from SLPP are now returning, says Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-f97f7916)
 - 2026-09-01 | `dailyftlk-e652135d` | Why Sri Lanka should not rush to change inflation target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-e652135d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-01 | `dailyftlk-3057d4ce` | Deep Tec and CCECC join hands to advance sustainable water and sanitation infrastructure in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3057d4ce)
 - 2026-09-01 | `dailyftlk-3a3edccd` | Joseph Page new Chairman of CT Land Development; Indira Malwatte joins Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3a3edccd)
 - 2026-09-01 | `dailyftlk-ead2166b` | An economy for more than 1,000 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ead2166b)
-- 2026-08-31 | `dailymirrorlk-a15ac67e` | Two Pakistanis among three arrested over 463 kg ’Ice’ haul | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-a15ac67e)
-- 2026-08-31 | `tamilmirrorlk-b7757cf4` | சர்வதேச கால்பந்துக்கு விடைகொடுக்கிறார் மெஸ்ஸி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-tamilmirrorlk-b7757cf4)
-- 2026-08-31 | `dailymirrorlk-f41a18b6` | Lionel Messi retires from international football | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-08-31-dailymirrorlk-f41a18b6)
 
 ---
 

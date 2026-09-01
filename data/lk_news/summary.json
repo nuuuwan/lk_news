@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-01 08:04:37",
-  "n_docs": 129018,
+  "time_updated": "2026-09-01 10:16:41",
+  "n_docs": 129021,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129018,
+  "n_docs_with_text": 129021,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-01",
-  "dataset_size": 2009158268,
+  "dataset_size": 2009210158,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-adalk-c97b84f8",
-    "num": "adalk-c97b84f8",
+    "doc_id": "2026-09-01-dailyftlk-632e85d2",
+    "num": "dailyftlk-632e85d2",
     "date_str": "2026-09-01",
-    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8 \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dbd\u0dd9\u0dc3 \u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0dba\u0dc5\u0dd2 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0db8-\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba-\u0dbd\u0dd9\u0dc3-\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0dba\u0dc5\u0dd2-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/7-423983",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788224804.0
+    "description": "SC to hear 22nd Amendment challenges today",
+    "url_metadata": "https://www.ft.lk/news/SC-to-hear-22nd-Amendment-challenges-today/56-796655",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788234075.0
   }
 }
