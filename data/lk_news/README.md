@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_10:17:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_12:15:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,021** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,046** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-dailyftlk-632e85d2",
-    "num": "dailyftlk-632e85d2",
+    "doc_id": "2026-09-01-tamilmirrorlk-1883acd7",
+    "num": "tamilmirrorlk-1883acd7",
     "date_str": "2026-09-01",
-    "description": "SC to hear 22nd Amendment challenges today",
-    "url_metadata": "https://www.ft.lk/news/SC-to-hear-22nd-Amendment-challenges-today/56-796655",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788234075.0
+    "description": "15 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8 \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd:  \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/15-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd/175-382182",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788244229.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-01 | `tamilmirrorlk-1883acd7` | 15 வயது சிறுமியை துஷ்பிரயோகம்:  ஆசிரியருக்கு விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-1883acd7)
+- 2026-09-01 | `dailymirrorlk-8e139386` | Sri Lankan-Origin Family Among Australians Missing in Nepal Floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-8e139386)
+- 2026-09-01 | `tamilmirrorlk-c4f816c1` | 60 மணி நேரத்திற்குப் பின் உயிருடன் மீட்கப்பட்ட 5 வயது சிறுமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-c4f816c1)
+- 2026-09-01 | `dailymirrorlk-2b8f0f68` | Sri Lanka to be wetter than average due to El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-2b8f0f68)
+- 2026-09-01 | `dailymirrorlk-410b3b8b` | Dry spell takes a toll on Wild animals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-410b3b8b)
+- 2026-09-01 | `dailymirrorlk-3d28d401` | Three judges face bribery complaint over X-Press Pearl | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-3d28d401)
+- 2026-09-01 | `tamilmirrorlk-0e586295` | கன்டெய்னருக்குள்   ’ஐஸ்’: பாகிஸ்தானியர்கள் உட்பட மேலும் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-0e586295)
+- 2026-09-01 | `dailymirrorlk-5016af94` | Supreme Court adjourns for 15 minutes to accommodate crowded Courtroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-5016af94)
+- 2026-09-01 | `dailymirrorlk-94a960f2` | Supreme Court commences hearing into petitions filed over 22nd Amendment bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-94a960f2)
+- 2026-09-01 | `adalk-41c0f7f2` | මෙසී ජාත්‍යන්තර පාපන්දු පිටියට සමුදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-41c0f7f2)
+- 2026-09-01 | `tamilmirrorlk-6a5abb87` | தலைக்கவசமின்றிப் பயணித்தவர்களுக்கு எதிராக வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-6a5abb87)
+- 2026-09-01 | `tamilmirrorlk-e7ba61d3` | பயிற்சிப் பட்டறைகளுக்கான விண்ணப்பங்கள் கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-e7ba61d3)
+- 2026-09-01 | `tamilmirrorlk-83efc6ef` | பிரதமர் கலாநிதி ஹரிணிக்கு பூட்டானில் அமோக வரவேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-83efc6ef)
+- 2026-09-01 | `tamilmirrorlk-52095563` | 22A: 67 மனுமீது இன்று முதல் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-52095563)
+- 2026-09-01 | `tamilmirrorlk-de511a16` | துப்பாக்கிச் சூட்டில் காயமடைந்த இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-de511a16)
+- 2026-09-01 | `tamilmirrorlk-7e286d4e` | பிரதமர் மோடியுடன் ஈரான் ஜனாதிபதி மசூத் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-7e286d4e)
+- 2026-09-01 | `tamilmirrorlk-2b276624` | கொழும்பு மேல் நீதிமன்றக் கட்டடத்தின் ஒரு பகுதி இடிந்து விழுந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-2b276624)
+- 2026-09-01 | `tamilmirrorlk-6365d549` | களு கங்கையில் நீராடிய இளைஞன் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-6365d549)
 - 2026-09-01 | `dailyftlk-632e85d2` | SC to hear 22nd Amendment challenges today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-632e85d2)
-- 2026-09-01 | `dailyftlk-ff21019b` | ICRC says sustained, collective efforts critical to address issue of missing persons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ff21019b)
-- 2026-09-01 | `dailymirrorlk-72544600` | Record 67 petitions filed over 22nd Amendment Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-72544600)
-- 2026-09-01 | `adalk-c97b84f8` | ශ්‍රී ලංකාවේ වටිනාම රක්ෂණ සන්නාමය ලෙස සෙලින්කෝ ලයිෆ් යළි තහවුරු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-c97b84f8)
-- 2026-09-01 | `dailymirrorlk-f97f7916` | Voters who distanced themselves from SLPP are now returning, says Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-f97f7916)
-- 2026-09-01 | `dailyftlk-e652135d` | Why Sri Lanka should not rush to change inflation target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-e652135d)
-- 2026-09-01 | `dailyftlk-11c1fabd` | Sri Lanka sets sights on global FinTech map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-11c1fabd)
-- 2026-09-01 | `dailyftlk-a8e62b3e` | Sri Lanka among ‘Elevated Concern’ countries for El Nino and Middle East crisis snapshot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-a8e62b3e)
-- 2026-09-01 | `dailyftlk-efb5f173` | Climate has changed: Has our agriculture? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-efb5f173)
-- 2026-09-01 | `dailyftlk-d4172e85` | The 22nd Amendment to Constitution: Pandora’s box or a horn of plenty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-d4172e85)
-- 2026-09-01 | `dailyftlk-7bfc2a44` | BOI, Austrade hold knowledge-sharing workshop on FDI promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-7bfc2a44)
-- 2026-09-01 | `dailyftlk-aad02d43` | Priyanthini McNair joins Digital Mobility Solutions Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-aad02d43)
-- 2026-09-01 | `dailyftlk-6df13139` | CSE snaps three-month losing streak in August, down 5.7% YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-6df13139)
-- 2026-09-01 | `dailyftlk-217299bf` | Phantom imports case: Court asks FCID to probe whether imports arrived against overseas advance payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-217299bf)
-- 2026-09-01 | `dailyftlk-0af94c52` | GovPay transactions cross Rs. 5 b mark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-0af94c52)
-- 2026-09-01 | `dailyftlk-348f67a1` | CPC slashes petrol prices by up to Rs. 20 per litre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-348f67a1)
-- 2026-09-01 | `dailyftlk-ff213db1` | Construction PMI climbs in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ff213db1)
-- 2026-09-01 | `dailyftlk-3057d4ce` | Deep Tec and CCECC join hands to advance sustainable water and sanitation infrastructure in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3057d4ce)
-- 2026-09-01 | `dailyftlk-3a3edccd` | Joseph Page new Chairman of CT Land Development; Indira Malwatte joins Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-3a3edccd)
-- 2026-09-01 | `dailyftlk-ead2166b` | An economy for more than 1,000 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-ead2166b)
+- 2026-09-01 | `dailyftlk-933c956d` | Ravi Karunanayake released on bail in NLB corruption case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailyftlk-933c956d)
 
 ---
 

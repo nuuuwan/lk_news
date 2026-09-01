@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-01 10:16:41",
-  "n_docs": 129021,
+  "time_updated": "2026-09-01 12:14:20",
+  "n_docs": 129046,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129021,
+  "n_docs_with_text": 129046,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-01",
-  "dataset_size": 2009210158,
+  "dataset_size": 2009341733,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-dailyftlk-632e85d2",
-    "num": "dailyftlk-632e85d2",
+    "doc_id": "2026-09-01-tamilmirrorlk-1883acd7",
+    "num": "tamilmirrorlk-1883acd7",
     "date_str": "2026-09-01",
-    "description": "SC to hear 22nd Amendment challenges today",
-    "url_metadata": "https://www.ft.lk/news/SC-to-hear-22nd-Amendment-challenges-today/56-796655",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788234075.0
+    "description": "15 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8 \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd:  \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/15-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd/175-382182",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788244229.0
   }
 }
