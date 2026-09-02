@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-02 22:02:26",
-  "n_docs": 129181,
+  "time_updated": "2026-09-03 00:02:43",
+  "n_docs": 129183,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129181,
+  "n_docs_with_text": 129183,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-02",
-  "dataset_size": 2011570805,
+  "dataset_size": 2011626782,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-32903e9e",
-    "num": "dailymirrorlk-32903e9e",
+    "doc_id": "2026-09-02-dailymirrorlk-61b3334a",
+    "num": "dailymirrorlk-61b3334a",
     "date_str": "2026-09-02",
-    "description": "PM holds bilateral talks with Bhutanese counterpart",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-holds-bilateral-talks-with-Bhutanese-counterpart/108-349269",
+    "description": "PM Harini meets Bhutanese Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/PM-Harini-meets-Bhutanese-Prime-Minister/110-349272",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788364423.0
+    "time_ut": 1788367494.0
   }
 }

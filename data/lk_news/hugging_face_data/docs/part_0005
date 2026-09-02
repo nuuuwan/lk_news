@@ -35609,5 +35609,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788364423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-6c0da5a0",
+    "num": "dailymirrorlk-6c0da5a0",
+    "date_str": "2026-09-02",
+    "description": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July",
+    "url_metadata": "https://www.dailymirror.lk/international/US-pounds-Iran-Tehran-strikes-back-at-bases-in-biggest-exchange-since-July/107-349271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788367193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-61b3334a",
+    "num": "dailymirrorlk-61b3334a",
+    "date_str": "2026-09-02",
+    "description": "PM Harini meets Bhutanese Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/PM-Harini-meets-Bhutanese-Prime-Minister/110-349272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788367494.0
   }
 ]

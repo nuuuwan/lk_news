@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_22:03:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_00:03:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,181** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,183** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-32903e9e",
-    "num": "dailymirrorlk-32903e9e",
+    "doc_id": "2026-09-02-dailymirrorlk-61b3334a",
+    "num": "dailymirrorlk-61b3334a",
     "date_str": "2026-09-02",
-    "description": "PM holds bilateral talks with Bhutanese counterpart",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-holds-bilateral-talks-with-Bhutanese-counterpart/108-349269",
+    "description": "PM Harini meets Bhutanese Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/PM-Harini-meets-Bhutanese-Prime-Minister/110-349272",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788364423.0
+    "time_ut": 1788367494.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-02 | `dailymirrorlk-61b3334a` | PM Harini meets Bhutanese Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-61b3334a)
+- 2026-09-02 | `dailymirrorlk-6c0da5a0` | US pounds Iran, Tehran strikes back at bases in biggest exchange since July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-6c0da5a0)
 - 2026-09-02 | `dailymirrorlk-32903e9e` | PM holds bilateral talks with Bhutanese counterpart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-32903e9e)
 - 2026-09-02 | `dailymirrorlk-e91e39b8` | 250 Ceylon King Coconut Villages to be established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e91e39b8)
 - 2026-09-02 | `dailymirrorlk-e499b207` | Polonnaruwa records Sri Lanka’s highest temperature at 37.9°C | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e499b207)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-02 | `dailymirrorlk-aaa05fb3` | Japan donates seven buses to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-aaa05fb3)
 - 2026-09-02 | `tamilmirrorlk-a35174c4` | புலி முகாம் புரளிக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-a35174c4)
 - 2026-09-02 | `dailymirrorlk-5b760d5b` | Grade 5 Scholarship Examination 2026 results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b760d5b)
-- 2026-09-02 | `dailymirrorlk-07ecdaf8` | Yala solar-powered water system remains operational: Wildlife Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-07ecdaf8)
-- 2026-09-02 | `tamilmirrorlk-4156f5c4` | எரிபொருள் பம்பி தாக்கியதில் 24 வயது ஊழியர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-4156f5c4)
 
 ---
 
