@@ -16,9 +16,9 @@
     "virakesarilk"
   ],
   "newspaper_to_n": {
-    "dailymirrorlk": 256,
+    "dailymirrorlk": 255,
     "tamilmirrorlk": 160,
-    "adalk": 80,
-    "dailyftlk": 49
+    "adalk": 77,
+    "dailyftlk": 52
   }
 }
