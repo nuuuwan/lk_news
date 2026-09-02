@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_03:56:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_06:23:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,090** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,101** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-01-adalk-e0950b50",
-    "num": "adalk-e0950b50",
-    "date_str": "2026-09-01",
-    "description": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb\u0dba\u0da7 \u0da2\u0dbd \u0db6\u0ddd\u0dad\u0dbd\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb\u0dba\u0da7-\u0da2\u0dbd-\u0db6\u0ddd\u0dad\u0dbd\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1/11-424004",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788261033.0
+    "doc_id": "2026-09-02-dailyftlk-bd257f58",
+    "num": "dailyftlk-bd257f58",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka, beyond 22",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-beyond-22/4-796680",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788309503.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-02 | `dailyftlk-bd257f58` | Sri Lanka, beyond 22 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-bd257f58)
+- 2026-09-02 | `dailyftlk-b261d04e` | Lineage of elite power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-b261d04e)
+- 2026-09-02 | `dailyftlk-ee8fa650` | Can Mannar’s Gas Basin change Sri Lanka’s story? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-ee8fa650)
+- 2026-09-02 | `dailyftlk-c54b154f` | The terms of control: Territorial gatekeeping and stagnation of Sri Lankan creative capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-c54b154f)
+- 2026-09-02 | `dailyftlk-d5026796` | Hayleys Fentons delivers new manufacturing facility for Shield Restraint Systems on schedule | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-d5026796)
+- 2026-09-02 | `dailyftlk-c169d964` | Hunas Holdings and Japan’s CCH enter strategic collaborative partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-c169d964)
+- 2026-09-02 | `dailyftlk-7667d748` | Arctek Innovations achieves International Standards Certification, strengthening commitment to quality and food safety | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-7667d748)
+- 2026-09-02 | `dailyftlk-31486e77` | Sri Lanka–Hong Kong trade and investment opportunities strengthened through strategic collaboration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-31486e77)
+- 2026-09-02 | `dailyftlk-107663ac` | Tepid progress in Sri Lanka on justice for past abuses alleges Human Rights Watch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-107663ac)
+- 2026-09-02 | `dailyftlk-b85ca826` | Sri Lanka, China to strengthen immigration cooperation under new bilateral agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-b85ca826)
+- 2026-09-02 | `dailyftlk-8249019c` | Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailyftlk-8249019c)
 - 2026-09-01 | `adalk-e0950b50` | අනුරාධපුරයට ජල බෝතල් ගේන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-e0950b50)
 - 2026-09-01 | `adalk-80da44b3` | මත්ද්‍රව්‍ය විකුණන පුද්ගලයින්ට කිසිම සමාවක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-80da44b3)
 - 2026-09-01 | `adalk-f5169be6` | විදුලි හෝ ජල කප්පාදුවක් ගැන තවමත් තිරණයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-f5169be6)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-09-01 | `tamilmirrorlk-bf2e8dba` | லண்டன் ‘பொலிஸ் பாய்ஸுக்கு’ பிடிவிறாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-bf2e8dba)
 - 2026-09-01 | `adalk-cc9bd810` | ලංකාවේ උක් සංවර්ධනයට බ්‍රසීලය සමග ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-cc9bd810)
 - 2026-09-01 | `tamilmirrorlk-6506639c` | ரூ.3 கோடிக்கு ஏலம் போன  பறவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-6506639c)
-- 2026-09-01 | `adalk-34b931cf` | පියංකර ජයරත්නට වසර 7ක බරපතල වැඩ සහිත සිර දඩුවම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-adalk-34b931cf)
-- 2026-09-01 | `tamilmirrorlk-22714079` | உள்ளாடைகளை மண்ணில் புதைத்து வைங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-22714079)
-- 2026-09-01 | `tamilmirrorlk-46b23767` | கர்ப்பிணியைக் கொன்று ரத்தத்தைப் பிரியாணி அண்டாவில் வடியவிட்ட கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-46b23767)
-- 2026-09-01 | `tamilmirrorlk-633cffdd` | முன்னாள் அமைச்சருக்கு 14 ஆண்டுகள் கடூழியச் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-633cffdd)
-- 2026-09-01 | `tamilmirrorlk-dadcca0f` | சீனத் தூதுவருக்கும் ​டில்வின் சில்வாவுக்கும் இடையே சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-dadcca0f)
-- 2026-09-01 | `tamilmirrorlk-b0d7285c` | இலங்கை குடும்பம் நேபாளத்தில் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-b0d7285c)
-- 2026-09-01 | `tamilmirrorlk-87c112ab` | 22 A: 502 இலிருந்து 501க்கு மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-tamilmirrorlk-87c112ab)
-- 2026-09-01 | `dailymirrorlk-fd39b3c1` | Digital Era Global South should unite on common platform to bargain with Big Tech companies – Ranga Kalansooriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-fd39b3c1)
-- 2026-09-01 | `dailymirrorlk-099d30c7` | Japan, pacifist since 1947, is now vigorously militarising | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-099d30c7)
-- 2026-09-01 | `dailymirrorlk-77ee1d2d` | Quality of life:  Is it the state’s responsibility? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-77ee1d2d)
-- 2026-09-01 | `dailymirrorlk-63dc19cc` | Consumers deserve truth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-01-dailymirrorlk-63dc19cc)
 
 ---
 

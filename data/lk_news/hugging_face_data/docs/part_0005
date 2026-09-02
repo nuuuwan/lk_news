@@ -34608,5 +34608,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1788261033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-8249019c",
+    "num": "dailyftlk-8249019c",
+    "date_str": "2026-09-02",
+    "description": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+    "url_metadata": "https://www.ft.lk/news/Nepal-death-toll-crosses-1-000-as-rescuers-race-to-find-workers-trapped-in-mud-filled-tunnels/56-796666",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788304594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-b85ca826",
+    "num": "dailyftlk-b85ca826",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka, China to strengthen immigration cooperation under new bilateral agreement",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-China-to-strengthen-immigration-cooperation-under-new-bilateral-agreement/56-796667",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788304615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-107663ac",
+    "num": "dailyftlk-107663ac",
+    "date_str": "2026-09-02",
+    "description": "Tepid progress in Sri Lanka on justice for past abuses alleges Human Rights Watch",
+    "url_metadata": "https://www.ft.lk/news/Tepid-progress-in-Sri-Lanka-on-justice-for-past-abuses-alleges-Human-Rights-Watch/56-796668",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788304770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-31486e77",
+    "num": "dailyftlk-31486e77",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka\u2013Hong Kong trade and investment opportunities strengthened through strategic collaboration",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaHong-Kong-trade-and-investment-opportunities-strengthened-through-strategic-collaboration/34-796669",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788304885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-7667d748",
+    "num": "dailyftlk-7667d748",
+    "date_str": "2026-09-02",
+    "description": "Arctek Innovations achieves International Standards Certification, strengthening commitment to quality and food safety",
+    "url_metadata": "https://www.ft.lk/business/Arctek-Innovations-achieves-International-Standards-Certification-strengthening-commitment-to-quality-and-food-safety/34-796670",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788305062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-c169d964",
+    "num": "dailyftlk-c169d964",
+    "date_str": "2026-09-02",
+    "description": "Hunas Holdings and Japan\u2019s CCH enter strategic collaborative partnership",
+    "url_metadata": "https://www.ft.lk/business/Hunas-Holdings-and-Japan-s-CCH-enter-strategic-collaborative-partnership/34-796671",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788305125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-d5026796",
+    "num": "dailyftlk-d5026796",
+    "date_str": "2026-09-02",
+    "description": "Hayleys Fentons delivers new manufacturing facility for Shield Restraint Systems on schedule",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-Fentons-delivers-new-manufacturing-facility-for-Shield-Restraint-Systems-on-schedule/34-796672",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788305567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-c54b154f",
+    "num": "dailyftlk-c54b154f",
+    "date_str": "2026-09-02",
+    "description": "The terms of control: Territorial gatekeeping and stagnation of Sri Lankan creative capital",
+    "url_metadata": "https://www.ft.lk/columns/The-terms-of-control-Territorial-gatekeeping-and-stagnation-of-Sri-Lankan-creative-capital/4-796675",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788308199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-ee8fa650",
+    "num": "dailyftlk-ee8fa650",
+    "date_str": "2026-09-02",
+    "description": "Can Mannar\u2019s Gas Basin change Sri Lanka\u2019s story?",
+    "url_metadata": "https://www.ft.lk/columns/Can-Mannar-s-Gas-Basin-change-Sri-Lanka-s-story/4-796676",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788308549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-b261d04e",
+    "num": "dailyftlk-b261d04e",
+    "date_str": "2026-09-02",
+    "description": "Lineage of elite power",
+    "url_metadata": "https://www.ft.lk/columns/Lineage-of-elite-power/4-796679",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788309014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailyftlk-bd257f58",
+    "num": "dailyftlk-bd257f58",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka, beyond 22",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-beyond-22/4-796680",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788309503.0
   }
 ]
