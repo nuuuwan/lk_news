@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_20:04:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_22:03:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,181** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-2ff75874",
-    "num": "dailymirrorlk-2ff75874",
+    "doc_id": "2026-09-02-dailymirrorlk-32903e9e",
+    "num": "dailymirrorlk-32903e9e",
     "date_str": "2026-09-02",
-    "description": "Venues, dates confirmed for inaugural ICC Women\u2019s Champions Trophy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Venues-dates-confirmed-for-inaugural-ICC-Womens-Champions-Trophy/108-349263",
+    "description": "PM holds bilateral talks with Bhutanese counterpart",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-holds-bilateral-talks-with-Bhutanese-counterpart/108-349269",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788358087.0
+    "time_ut": 1788364423.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-02 | `dailymirrorlk-32903e9e` | PM holds bilateral talks with Bhutanese counterpart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-32903e9e)
+- 2026-09-02 | `dailymirrorlk-e91e39b8` | 250 Ceylon King Coconut Villages to be established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e91e39b8)
+- 2026-09-02 | `dailymirrorlk-e499b207` | Polonnaruwa records Sri Lanka’s highest temperature at 37.9°C | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e499b207)
+- 2026-09-02 | `dailymirrorlk-9b35f607` | CSE slips as late selling drags ASPI lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-9b35f607)
+- 2026-09-02 | `dailymirrorlk-b1e0f5da` | Trade unions oppose EPF, ETF move | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-b1e0f5da)
+- 2026-09-02 | `dailymirrorlk-bc3c05ec` | Public invited to name Dehiwala Zoo’s baby hippo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-bc3c05ec)
 - 2026-09-02 | `dailymirrorlk-2ff75874` | Venues, dates confirmed for inaugural ICC Women’s Champions Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-2ff75874)
 - 2026-09-02 | `dailymirrorlk-837e842a` | Parliament to debate Chief of Defence Staff (Repeal) Bill on September 9 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-837e842a)
 - 2026-09-02 | `dailymirrorlk-bfe0d944` | Kurunegala student tops Grade 5 Scholarship exam with 193 marks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-bfe0d944)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-02 | `dailymirrorlk-5b760d5b` | Grade 5 Scholarship Examination 2026 results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b760d5b)
 - 2026-09-02 | `dailymirrorlk-07ecdaf8` | Yala solar-powered water system remains operational: Wildlife Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-07ecdaf8)
 - 2026-09-02 | `tamilmirrorlk-4156f5c4` | எரிபொருள் பம்பி தாக்கியதில் 24 வயது ஊழியர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-4156f5c4)
-- 2026-09-02 | `tamilmirrorlk-21d9a2b9` | புலமைப் பரீட்சை பெறுபேறுகள் வெளியாகின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-21d9a2b9)
-- 2026-09-02 | `adalk-7bc0b1f8` | එංගලන්ත සංචාරයට ශ්‍රී ලංකා සංචිත නම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-7bc0b1f8)
-- 2026-09-02 | `tamilmirrorlk-0f73268f` | நாளையும் நாளை மறுதினமும் பல பகுதிகளில் நீர்வெட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-0f73268f)
-- 2026-09-02 | `tamilmirrorlk-8726370b` | வீதியை விட்டு கம்பத்துடன் மோதி கார் விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-8726370b)
-- 2026-09-02 | `tamilmirrorlk-0a445e57` | புலமைப் பரீட்சை பெறுபேறுகள் இன்னும் சிறிது நேரத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-0a445e57)
-- 2026-09-02 | `adalk-57c341b7` | වනඅලි දුම්රියෙහි ගැටීම වැළැක්වීමට තාක්ෂණික විසඳුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-57c341b7)
 
 ---
 

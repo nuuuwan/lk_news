@@ -35315,6 +35315,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-fa7f877b",
+    "num": "adalk-fa7f877b",
+    "date_str": "2026-09-02",
+    "description": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dad\u0dca\u0dbd \u0db4\u0dc4\u0dad\u0dca \u0db6\u0dc3\u0dca \u0dbb\u0dae \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dad\u0dca\u0dbd-\u0db4\u0dc4\u0dad\u0dca-\u0db6\u0dc3\u0dca-\u0dbb\u0dae-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db7\u0dcf\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/10-424020",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788345089.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-02-tamilmirrorlk-0a445e57",
     "num": "tamilmirrorlk-0a445e57",
     "date_str": "2026-09-02",
@@ -35345,6 +35356,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788346037.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-852ca076",
+    "num": "adalk-852ca076",
+    "date_str": "2026-09-02",
+    "description": "\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba\u0dda \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0dc4\u0dcf \u0dc3\u0dda\u0dc0\u0dcf \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba \u0dc3\u0daf\u0dc4\u0dcf \u0dc0\u0dd9\u0db6\u0dca \u0daf\u0dca\u0dc0\u0dcf\u0dbb\u0dba \u0dc3\u0dd0\u0db4\u0dca. 03 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba\u0dda-\u0dc0\u0dcf\u0dab\u0dd2\u0da2-\u0dc4\u0dcf-\u0dc3\u0dda\u0dc0\u0dcf-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba-\u0dc3\u0daf\u0dc4\u0dcf-\u0dc0\u0dd9\u0db6\u0dca-\u0daf\u0dca\u0dc0\u0dcf\u0dbb\u0dba-\u0dc3\u0dd0\u0db4\u0dca--03-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0dc0\u0dda/11-424021",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788346207.0
   },
   {
     "doc_type": "lk_news",
@@ -35521,5 +35543,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788358087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-bc3c05ec",
+    "num": "dailymirrorlk-bc3c05ec",
+    "date_str": "2026-09-02",
+    "description": "Public invited to name Dehiwala Zoo\u2019s baby hippo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-invited-to-name-Dehiwala-Zoos-baby-hippo/108-349264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788362122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-b1e0f5da",
+    "num": "dailymirrorlk-b1e0f5da",
+    "date_str": "2026-09-02",
+    "description": "Trade unions oppose EPF, ETF move",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trade-unions-oppose-EPF-ETF-move/108-349265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788362399.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-9b35f607",
+    "num": "dailymirrorlk-9b35f607",
+    "date_str": "2026-09-02",
+    "description": "CSE slips as late selling drags ASPI lower",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-slips-as-late-selling-drags-ASPI-lower/108-349266",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788362518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-e499b207",
+    "num": "dailymirrorlk-e499b207",
+    "date_str": "2026-09-02",
+    "description": "Polonnaruwa records Sri Lanka\u2019s highest temperature at 37.9\u00b0C",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polonnaruwa-records-Sri-Lankas-highest-temperature-at-37-9C/108-349267",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788362773.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-e91e39b8",
+    "num": "dailymirrorlk-e91e39b8",
+    "date_str": "2026-09-02",
+    "description": "250 Ceylon King Coconut Villages to be established",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/250-Ceylon-King-Coconut-Villages-to-be-established/108-349268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788363089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-32903e9e",
+    "num": "dailymirrorlk-32903e9e",
+    "date_str": "2026-09-02",
+    "description": "PM holds bilateral talks with Bhutanese counterpart",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-holds-bilateral-talks-with-Bhutanese-counterpart/108-349269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788364423.0
   }
 ]
