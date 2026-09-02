@@ -34633,6 +34633,204 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-a16c9b93",
+    "num": "dailymirrorlk-a16c9b93",
+    "date_str": "2026-09-01",
+    "description": "CDB-NAITA STEP apprenticeship programme empowers youth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CDB-NAITA-STEP-apprenticeship-programme-empowers-youth/273-349215",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788285677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-510ae67c",
+    "num": "dailymirrorlk-510ae67c",
+    "date_str": "2026-09-01",
+    "description": "Laugfs Supermarkets opens 45th outlet in Ekala",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Laugfs-Supermarkets-opens-45th-outlet-in-Ekala/273-349216",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788285906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-21909f49",
+    "num": "dailymirrorlk-21909f49",
+    "date_str": "2026-09-01",
+    "description": "Janashakthi Finance relocates Kandy branch",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Janashakthi-Finance-relocates-Kandy-branch/273-349217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788286061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-a099538f",
+    "num": "dailymirrorlk-a099538f",
+    "date_str": "2026-09-01",
+    "description": "Tokyo Supermix secures triple honours",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tokyo-Supermix-secures-triple-honours/273-349218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788286460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-01-dailymirrorlk-c8cc0938",
+    "num": "dailymirrorlk-c8cc0938",
+    "date_str": "2026-09-01",
+    "description": "Toyota Lanka expands Gampaha facility",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Toyota-Lanka-expands-Gampaha-facility/273-349219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788287298.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-cf79658a",
+    "num": "dailymirrorlk-cf79658a",
+    "date_str": "2026-09-02",
+    "description": "HNB FINANCE relocates Nelliady branch",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-FINANCE-relocates-Nelliady-branch/273-349220",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788287754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-2e461add",
+    "num": "dailymirrorlk-2e461add",
+    "date_str": "2026-09-02",
+    "description": "Browns Hotels & Resorts unveils BIGG CARE sustainability strategic plan",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Browns-Hotels-Resorts-unveils-BIGG-CARE-sustainability-strategic-plan/273-349221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788288076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-c2745347",
+    "num": "dailymirrorlk-c2745347",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka Retail Forum 2026 to spotlight growth, technology and future of retail",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Retail-Forum-2026-to-spotlight-growth-technology-and-future-of-retail/273-349222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788288809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-387629ae",
+    "num": "dailymirrorlk-387629ae",
+    "date_str": "2026-09-02",
+    "description": "Janashakthi Finance records 51% increase in 1Q NPAT",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Janashakthi-Finance-records-51-increase-in-1Q-NPAT/273-349223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788289039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-c21ab55d",
+    "num": "dailymirrorlk-c21ab55d",
+    "date_str": "2026-09-02",
+    "description": "PM to deliver keynote on Sri Lanka\u2019s digital future at SLEIS 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/PM-to-deliver-keynote-on-Sri-Lankas-digital-future-at-SLEIS-2026/273-349224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788289173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-09-02",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-349225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788289301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-278ff338",
+    "num": "dailymirrorlk-278ff338",
+    "date_str": "2026-09-02",
+    "description": "Mixed sentiment keeps yield curve broadly unchanged",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Mixed-sentiment-keeps-yield-curve-broadly-unchanged/273-349226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788290266.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-1f6be848",
+    "num": "dailymirrorlk-1f6be848",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka, Brazil agree on new cooperation framework for sugarcane project",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Brazil-agree-on-new-cooperation-framework-for-sugarcane-project/273-349227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788290562.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-94104949",
+    "num": "dailymirrorlk-94104949",
+    "date_str": "2026-09-02",
+    "description": "Sri Lanka, China to ease immigration procedures for business and investment",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-China-to-ease-immigration-procedures-for-business-and-investment/273-349228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788290670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-49f7f577",
+    "num": "dailymirrorlk-49f7f577",
+    "date_str": "2026-09-02",
+    "description": "Kapruka scraps used-goods marketplace plan",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Kapruka-scraps-used-goods-marketplace-plan/273-349229",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788290751.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-db37b3c5",
+    "num": "dailymirrorlk-db37b3c5",
+    "date_str": "2026-09-02",
+    "description": "Vehicle registrations dip in July as inventory buildup obscures true credit demand",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vehicle-registrations-dip-in-July-as-inventory-buildup-obscures-true-credit-demand/273-349230",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788291109.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-f92f611b",
+    "num": "dailymirrorlk-f92f611b",
+    "date_str": "2026-09-02",
+    "description": "Government sees 5mn  tourists as maximum",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Government-sees-5mn-tourists-as-maximum/273-349231",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788291596.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-91a7f39e",
+    "num": "dailymirrorlk-91a7f39e",
+    "date_str": "2026-09-02",
+    "description": "Trade deficit widens 69% to US$ 6.5bn",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Trade-deficit-widens-69-to-US-6-5bn/245-349232",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788292083.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-02-dailyftlk-8249019c",
     "num": "dailyftlk-8249019c",
     "date_str": "2026-09-02",
@@ -34919,6 +35117,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-b1c28e61",
+    "num": "adalk-b1c28e61",
+    "date_str": "2026-09-02",
+    "description": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc3\u0dc4\u0dcf\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dcf\u0dbb\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 296\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0ddd\u0d9a-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0dc3\u0dc4\u0dcf\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dbb\u0dd2-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-296\u0d9a\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-424013",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788322732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-02-tamilmirrorlk-24680a64",
     "num": "tamilmirrorlk-24680a64",
     "date_str": "2026-09-02",
@@ -34971,5 +35180,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788329942.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-tamilmirrorlk-26a6a427",
+    "num": "tamilmirrorlk-26a6a427",
+    "date_str": "2026-09-02",
+    "description": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb5\u0bb3\u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bb5\u0bb3\u0bb5\u0bbf\u0bb4\u0bbe/175-382222",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788331002.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-tamilmirrorlk-efac02d1",
+    "num": "tamilmirrorlk-efac02d1",
+    "date_str": "2026-09-02",
+    "description": "\u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0bc7\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0bae\u0bc7\u0baf\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-382224",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788334186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-tamilmirrorlk-fb87e3b2",
+    "num": "tamilmirrorlk-fb87e3b2",
+    "date_str": "2026-09-02",
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3 \u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bcd: \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd \u0b87\u0bb0\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3-\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bcd-\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd-\u0b87\u0bb0\u0b99\u0bcd\u0b95\u0bb2\u0bcd/175-382225",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788336462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-tamilmirrorlk-206960d7",
+    "num": "tamilmirrorlk-206960d7",
+    "date_str": "2026-09-02",
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd 159 \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-159-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-382226",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788336844.0
   }
 ]
