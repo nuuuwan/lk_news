@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_18:08:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_20:04:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,163** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-7a6d5bea",
-    "num": "dailymirrorlk-7a6d5bea",
+    "doc_id": "2026-09-02-dailymirrorlk-2ff75874",
+    "num": "dailymirrorlk-2ff75874",
     "date_str": "2026-09-02",
-    "description": "Colombo water supply to be suspended for 24 hours",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-water-supply-to-be-suspended-for-24-hours/108-349256",
+    "description": "Venues, dates confirmed for inaugural ICC Women\u2019s Champions Trophy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Venues-dates-confirmed-for-inaugural-ICC-Womens-Champions-Trophy/108-349263",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788351909.0
+    "time_ut": 1788358087.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-02 | `dailymirrorlk-2ff75874` | Venues, dates confirmed for inaugural ICC Women’s Champions Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-2ff75874)
+- 2026-09-02 | `dailymirrorlk-837e842a` | Parliament to debate Chief of Defence Staff (Repeal) Bill on September 9 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-837e842a)
+- 2026-09-02 | `dailymirrorlk-bfe0d944` | Kurunegala student tops Grade 5 Scholarship exam with 193 marks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-bfe0d944)
+- 2026-09-02 | `dailymirrorlk-8e9e2401` | Foreign Minister Vijitha Herath undertakes official visit to UAE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-8e9e2401)
+- 2026-09-02 | `dailymirrorlk-f2c8396b` | Asset Declarations: What is the Right to Know if there is No Right to Speak? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-f2c8396b)
+- 2026-09-02 | `adalk-8bafb9c7` | ශිෂ්‍යත්ව ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-8bafb9c7)
+- 2026-09-02 | `dailymirrorlk-f28401df` | Strict action against bullying children over grade 5 results | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-f28401df)
+- 2026-09-02 | `dailymirrorlk-5b897e2e` | MoU signed for technology to prevent wild elephant-train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b897e2e)
 - 2026-09-02 | `dailymirrorlk-7a6d5bea` | Colombo water supply to be suspended for 24 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-7a6d5bea)
 - 2026-09-02 | `dailymirrorlk-aaa05fb3` | Japan donates seven buses to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-aaa05fb3)
 - 2026-09-02 | `tamilmirrorlk-a35174c4` | புலி முகாம் புரளிக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-a35174c4)
@@ -52,15 +60,7 @@ A collection of lk_news documents.
 - 2026-09-02 | `tamilmirrorlk-0f73268f` | நாளையும் நாளை மறுதினமும் பல பகுதிகளில் நீர்வெட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-0f73268f)
 - 2026-09-02 | `tamilmirrorlk-8726370b` | வீதியை விட்டு கம்பத்துடன் மோதி கார் விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-8726370b)
 - 2026-09-02 | `tamilmirrorlk-0a445e57` | புலமைப் பரீட்சை பெறுபேறுகள் இன்னும் சிறிது நேரத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-0a445e57)
-- 2026-09-02 | `tamilmirrorlk-e36d2fbc` | CDS யை  நீக்க  ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-e36d2fbc)
-- 2026-09-02 | `adalk-4ee3bbc3` | දදේනි ප්‍රතිශතයක් ලෙස ණය බර පහළ ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-4ee3bbc3)
-- 2026-09-02 | `adalk-38335f62` | හම්බන්තොට හිටපු නගරාධිපති සියදිවි හානි කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-38335f62)
-- 2026-09-02 | `tamilmirrorlk-3dcd9bc1` | பெற்றோரைத் தேடும் சிறுவனும் தங்கைக்கும் இடையிலான சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-3dcd9bc1)
-- 2026-09-02 | `tamilmirrorlk-206960d7` | தேசிய மக்கள் சக்தியின் 159 எம்.பிக்களுக்கு எதிராக முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-206960d7)
-- 2026-09-02 | `tamilmirrorlk-fb87e3b2` | நேபாள வெள்ள அனர்த்தம்: செந்தில் தொண்டமான் இரங்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-fb87e3b2)
-- 2026-09-02 | `tamilmirrorlk-efac02d1` | மாநகரசபை முன்னாள் மேயரின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-efac02d1)
-- 2026-09-02 | `tamilmirrorlk-26a6a427` | விமானிகளின் இல்லத்தின் பவளவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-26a6a427)
-- 2026-09-02 | `adalk-ec96c89f` | පළතුරු වගා රක්ෂණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-ec96c89f)
+- 2026-09-02 | `adalk-57c341b7` | වනඅලි දුම්රියෙහි ගැටීම වැළැක්වීමට තාක්ෂණික විසඳුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-57c341b7)
 
 ---
 

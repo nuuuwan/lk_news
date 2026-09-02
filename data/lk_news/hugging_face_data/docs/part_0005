@@ -35293,6 +35293,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-71298e3e",
+    "num": "adalk-71298e3e",
+    "date_str": "2026-09-02",
+    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dc0\u0d9a\u0dcf\u0dc1\u0dca\u200d\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0d9c\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d85\u0dc0\u0d9a\u0dcf\u0dc1\u0dca\u200d\u0dba-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dbb\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7-\u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dd2-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0d9c\u0dc0\u0dba\u0dd2/11-424018",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788343742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-57c341b7",
+    "num": "adalk-57c341b7",
+    "date_str": "2026-09-02",
+    "description": "\u0dc0\u0db1\u0d85\u0dbd\u0dd2 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dd9\u0dc4\u0dd2 \u0d9c\u0dd0\u0da7\u0dd3\u0db8 \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0db1\u0d85\u0dbd\u0dd2-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dd9\u0dc4\u0dd2-\u0d9c\u0dd0\u0da7\u0dd3\u0db8-\u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca/11-424019",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788344273.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-02-tamilmirrorlk-0a445e57",
     "num": "tamilmirrorlk-0a445e57",
     "date_str": "2026-09-02",
@@ -35411,5 +35433,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788351909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-5b897e2e",
+    "num": "dailymirrorlk-5b897e2e",
+    "date_str": "2026-09-02",
+    "description": "MoU signed for technology to prevent wild elephant-train collisions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MoU-signed-for-technology-to-prevent-wild-elephant-train-collisions/108-349257",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788352947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-f28401df",
+    "num": "dailymirrorlk-f28401df",
+    "date_str": "2026-09-02",
+    "description": "Strict action against bullying children over grade 5 results",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strict-action-against-bullying-children-over-grade-5-results/108-349258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788353247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-adalk-8bafb9c7",
+    "num": "adalk-8bafb9c7",
+    "date_str": "2026-09-02",
+    "description": "\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dad\u0dca\u0dc0-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424024",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788353453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-f2c8396b",
+    "num": "dailymirrorlk-f2c8396b",
+    "date_str": "2026-09-02",
+    "description": "Asset Declarations: What is the Right to Know if there is No Right to Speak?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Asset-Declarations-What-is-the-Right-to-Know-if-there-is-No-Right-to-Speak/172-349259",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788353464.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-8e9e2401",
+    "num": "dailymirrorlk-8e9e2401",
+    "date_str": "2026-09-02",
+    "description": "Foreign Minister Vijitha Herath undertakes official visit to UAE",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-Minister-Vijitha-Herath-undertakes-official-visit-to-UAE/108-349260",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788354797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-bfe0d944",
+    "num": "dailymirrorlk-bfe0d944",
+    "date_str": "2026-09-02",
+    "description": "Kurunegala student tops Grade 5 Scholarship exam with 193 marks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kurunegala-student-tops-Grade-5-Scholarship-exam-with-193-marks/108-349261",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788355947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-837e842a",
+    "num": "dailymirrorlk-837e842a",
+    "date_str": "2026-09-02",
+    "description": "Parliament to debate Chief of Defence Staff (Repeal) Bill on September 9",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-to-debate-Chief-of-Defence-Staff-Repeal-Bill-on-September-9/108-349262",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788357493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-02-dailymirrorlk-2ff75874",
+    "num": "dailymirrorlk-2ff75874",
+    "date_str": "2026-09-02",
+    "description": "Venues, dates confirmed for inaugural ICC Women\u2019s Champions Trophy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Venues-dates-confirmed-for-inaugural-ICC-Womens-Champions-Trophy/108-349263",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788358087.0
   }
 ]

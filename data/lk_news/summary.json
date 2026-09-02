@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-02 18:07:30",
-  "n_docs": 129163,
+  "time_updated": "2026-09-02 20:03:20",
+  "n_docs": 129173,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129163,
+  "n_docs_with_text": 129173,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-02",
-  "dataset_size": 2011346529,
+  "dataset_size": 2011478236,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-7a6d5bea",
-    "num": "dailymirrorlk-7a6d5bea",
+    "doc_id": "2026-09-02-dailymirrorlk-2ff75874",
+    "num": "dailymirrorlk-2ff75874",
     "date_str": "2026-09-02",
-    "description": "Colombo water supply to be suspended for 24 hours",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-water-supply-to-be-suspended-for-24-hours/108-349256",
+    "description": "Venues, dates confirmed for inaugural ICC Women\u2019s Champions Trophy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Venues-dates-confirmed-for-inaugural-ICC-Womens-Champions-Trophy/108-349263",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788351909.0
+    "time_ut": 1788358087.0
   }
 }
