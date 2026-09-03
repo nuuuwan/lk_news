@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-03 20:04:44",
-  "n_docs": 129326,
+  "time_updated": "2026-09-03 22:02:09",
+  "n_docs": 129335,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129326,
+  "n_docs_with_text": 129335,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-03",
-  "dataset_size": 2013584036,
+  "dataset_size": 2013758944,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-03-dailymirrorlk-dc146238",
-    "num": "dailymirrorlk-dc146238",
+    "doc_id": "2026-09-03-dailymirrorlk-40d1aab0",
+    "num": "dailymirrorlk-40d1aab0",
     "date_str": "2026-09-03",
-    "description": "Mystery deepens over Eraj Fernando\u2019s death",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mystery-deepens-over-Eraj-Fernandos-death/108-349382",
+    "description": "UN Human Rights Office calls on Govt to bolster accountability",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-Human-Rights-Office-calls-on-Govt-to-bolster-accountability/108-349391",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788445029.0
+    "time_ut": 1788451265.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_20:05:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_22:03:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-03-dailymirrorlk-dc146238",
-    "num": "dailymirrorlk-dc146238",
+    "doc_id": "2026-09-03-dailymirrorlk-40d1aab0",
+    "num": "dailymirrorlk-40d1aab0",
     "date_str": "2026-09-03",
-    "description": "Mystery deepens over Eraj Fernando\u2019s death",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mystery-deepens-over-Eraj-Fernandos-death/108-349382",
+    "description": "UN Human Rights Office calls on Govt to bolster accountability",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-Human-Rights-Office-calls-on-Govt-to-bolster-accountability/108-349391",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788445029.0
+    "time_ut": 1788451265.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-03 | `dailymirrorlk-40d1aab0` | UN Human Rights Office calls on Govt to bolster accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-40d1aab0)
+- 2026-09-03 | `dailymirrorlk-72f1727d` | Time to build a respected Police force: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-72f1727d)
+- 2026-09-03 | `dailymirrorlk-789038be` | President joins 160th Police Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-789038be)
+- 2026-09-03 | `dailymirrorlk-2e9833cc` | Three Colombo rail routes to get electric trains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-2e9833cc)
+- 2026-09-03 | `dailymirrorlk-402775b5` | Botham recovers after first-of-its-kind cancer surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-402775b5)
+- 2026-09-03 | `dailymirrorlk-68ea5bf6` | Public urged to avoid flying kites near high-voltage lines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-68ea5bf6)
+- 2026-09-03 | `dailymirrorlk-b66e916c` | 22nd Amendment hearing: BASL skips written submissions after denial of oral reply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-b66e916c)
+- 2026-09-03 | `dailymirrorlk-afa27206` | Businesses gear up for El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-afa27206)
 - 2026-09-03 | `dailymirrorlk-dc146238` | Mystery deepens over Eraj Fernando’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-dc146238)
 - 2026-09-03 | `dailymirrorlk-8515a3a3` | New Court of Appeal Judge Sajeewani Dilka Lakmali sworn in | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-8515a3a3)
 - 2026-09-03 | `dailymirrorlk-cb9e87de` | Apple facing $2.7 billion UK lawsuit over ’unfair’ app tracking rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-cb9e87de)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-09-03 | `dailymirrorlk-cd1619bf` | Toxic wildfire haze spreads across South East Asia as ’super’ El Niño intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-cd1619bf)
 - 2026-09-03 | `dailymirrorlk-6104c20b` | Dudley gives Polonnaruwa station a facelift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-6104c20b)
 - 2026-09-03 | `dailymirrorlk-6fab4bff` | Dudley Sirisena spends Rs. 3.5 mn to renovate Polonnaruwa Railway Station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-6fab4bff)
-- 2026-09-03 | `dailymirrorlk-f59dd56d` | School dropouts eligible for truck-driving jobs in Japan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-f59dd56d)
-- 2026-09-03 | `dailymirrorlk-2613dc23` | Kennedy asked to remove Pennsylvania measles death from CDC tally, sources say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-2613dc23)
-- 2026-09-03 | `dailymirrorlk-0677403d` | Dayasiri urges Polls Commission  to intervene and stop SLFP event today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-0677403d)
-- 2026-09-03 | `dailymirrorlk-003883ec` | 40 buses fail inspection in Pettah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-003883ec)
-- 2026-09-03 | `adalk-9557c67e` | පේරාදෙණිය කොළඹ දුම්රිය ලබන මාසයේ ආරම්භ කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-9557c67e)
-- 2026-09-03 | `dailymirrorlk-9cedb181` | Sri Lanka Tourism showcased in Johannesburg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-9cedb181)
-- 2026-09-03 | `tamilmirrorlk-aa68fb6e` | 22 க்கு எதிராக கொழும்பில்  ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-aa68fb6e)
-- 2026-09-03 | `adalk-14f17a4e` | පාසැල් හැරගිය තරුණයින්ටත් ජපානයේ රැකියා අවස්ථා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-14f17a4e)
 
 ---
 

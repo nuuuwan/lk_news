@@ -36910,6 +36910,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-03-adalk-1d3e85a0",
+    "num": "adalk-1d3e85a0",
+    "date_str": "2026-09-03",
+    "description": "\u0da2\u0d9a\u0dbb\u0dca\u0dad\u0dcf \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dc0\u0dd0\u0dc3\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dba\u0dcf\u0da5\u0dcf\u0dc0\u0d9a",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0d9a\u0dbb\u0dca\u0dad\u0dcf-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0dc0\u0dd0\u0dc3\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0dba\u0dcf\u0da5\u0dcf\u0dc0\u0d9a/11-424041",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788431737.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-03-dailymirrorlk-94bcbf84",
     "num": "dailymirrorlk-94bcbf84",
     "date_str": "2026-09-03",
@@ -37204,5 +37215,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788445029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-afa27206",
+    "num": "dailymirrorlk-afa27206",
+    "date_str": "2026-09-03",
+    "description": "Businesses gear up for El Ni\u00f1o",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Businesses-gear-up-for-El-Ni\u00f1o/110-349383",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788446058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-b66e916c",
+    "num": "dailymirrorlk-b66e916c",
+    "date_str": "2026-09-03",
+    "description": "22nd Amendment hearing: BASL skips written submissions after denial of oral reply",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-hearing-BASL-skips-written-submissions-after-denial-of-oral-reply/108-349384",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788447905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-68ea5bf6",
+    "num": "dailymirrorlk-68ea5bf6",
+    "date_str": "2026-09-03",
+    "description": "Public urged to avoid flying kites near high-voltage lines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-urged-to-avoid-flying-kites-near-high-voltage-lines/108-349385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788448826.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-402775b5",
+    "num": "dailymirrorlk-402775b5",
+    "date_str": "2026-09-03",
+    "description": "Botham recovers after first-of-its-kind cancer surgery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Botham-recovers-after-first-of-its-kind-cancer-surgery/108-349386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788448994.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-2e9833cc",
+    "num": "dailymirrorlk-2e9833cc",
+    "date_str": "2026-09-03",
+    "description": "Three Colombo rail routes to get electric trains",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-Colombo-rail-routes-to-get-electric-trains/108-349388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788449683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-789038be",
+    "num": "dailymirrorlk-789038be",
+    "date_str": "2026-09-03",
+    "description": "President joins 160th Police Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/President-joins-160th-Police-Day/110-349389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788450682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-72f1727d",
+    "num": "dailymirrorlk-72f1727d",
+    "date_str": "2026-09-03",
+    "description": "Time to build a respected Police force: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Time-to-build-a-respected-Police-force-President/108-349390",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788450822.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-40d1aab0",
+    "num": "dailymirrorlk-40d1aab0",
+    "date_str": "2026-09-03",
+    "description": "UN Human Rights Office calls on Govt to bolster accountability",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-Human-Rights-Office-calls-on-Govt-to-bolster-accountability/108-349391",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788451265.0
   }
 ]
