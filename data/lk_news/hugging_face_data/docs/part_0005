@@ -35887,6 +35887,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-03-adalk-e0240406",
+    "num": "adalk-e0240406",
+    "date_str": "2026-09-03",
+    "description": "\u0d85\u0dbd\u0dd2-\u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca \u0d9c\u0dd0\u0da7\u0dd4\u0db8 \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dd2-\u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca-\u0d9c\u0dd0\u0da7\u0dd4\u0db8-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2/11-424032",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788401749.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-03-tamilmirrorlk-f28e6d66",
     "num": "tamilmirrorlk-f28e6d66",
     "date_str": "2026-09-03",
@@ -36016,5 +36027,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788412409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-tamilmirrorlk-3ae5f4db",
+    "num": "tamilmirrorlk-3ae5f4db",
+    "date_str": "2026-09-03",
+    "description": "\u2019 \u0ba8\u0bca\u0ba9\u0bbe \u0b85\u0bae\u0bcd\u0bae\u0bbe\u2019 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bca\u0ba9\u0bbe-\u0b85\u0bae\u0bcd\u0bae\u0bbe-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1-\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-382265",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788413247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-72eef3f8",
+    "num": "dailymirrorlk-72eef3f8",
+    "date_str": "2026-09-03",
+    "description": "Sri Lanka loses over USD 20 MN as ICC moves Champions Trophy to India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-loses-over-USD-20-MN-as-ICC-moves-Champions-Trophy-to-India/108-349305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788413787.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-da7795f7",
+    "num": "dailymirrorlk-da7795f7",
+    "date_str": "2026-09-03",
+    "description": "Air Vice Marshal Indika Wickramasinghe assumes duties as KDU Vice Chancellor",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Air-Vice-Marshal-Indika-Wickramasinghe-assumes-duties-as-KDU-Vice-Chancellor/108-349306",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788413945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-81b7af1c",
+    "num": "dailymirrorlk-81b7af1c",
+    "date_str": "2026-09-03",
+    "description": "Iranian Vessels: U.S. embassy says no comment on private diplomatic communications",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iranian-Vessels-U-S-embassy-says-no-comment-on-private-diplomatic-communications/108-349307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788414188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-07571c9e",
+    "num": "dailymirrorlk-07571c9e",
+    "date_str": "2026-09-03",
+    "description": "Dutch shift 86 tonnes of gold from US and Canada to UK",
+    "url_metadata": "https://www.dailymirror.lk/international/Dutch-shift-86-tonnes-of-gold-from-US-and-Canada-to-UK/107-349312",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788415251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-e20f0f23",
+    "num": "dailymirrorlk-e20f0f23",
+    "date_str": "2026-09-03",
+    "description": "Foreign tourist gets sex invitations under hotel door",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-tourist-gets-sex-invitations-under-hotel-door/108-349319",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788415935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-961b44ef",
+    "num": "dailymirrorlk-961b44ef",
+    "date_str": "2026-09-03",
+    "description": "Wildlife Department hunts suspect over alleged Yala poaching",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-Department-hunts-suspect-over-alleged-Yala-poaching/108-349320",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788416046.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-tamilmirrorlk-090277a2",
+    "num": "tamilmirrorlk-090277a2",
+    "date_str": "2026-09-03",
+    "description": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382267",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788416449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailymirrorlk-27a5e3bc",
+    "num": "dailymirrorlk-27a5e3bc",
+    "date_str": "2026-09-03",
+    "description": "AG tells SC 22nd Amendment does not require referendum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AG-tells-SC-22nd-Amendment-does-not-require-referendum/108-349327",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788416673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-adalk-984a2763",
+    "num": "adalk-984a2763",
+    "date_str": "2026-09-03",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0db4\u0dd0\u0dba 24\u0d9a \u0da2\u0dbd \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0dbb\u0dd0\u0dc3\u0d9a\u0da7-\u0db4\u0dd0\u0dba-24\u0d9a-\u0da2\u0dbd-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-424036",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788417114.0
   }
 ]
