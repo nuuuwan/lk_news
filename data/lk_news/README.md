@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_03:58:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_06:23:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,183** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,187** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-02-dailymirrorlk-61b3334a",
-    "num": "dailymirrorlk-61b3334a",
-    "date_str": "2026-09-02",
-    "description": "PM Harini meets Bhutanese Prime Minister",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/PM-Harini-meets-Bhutanese-Prime-Minister/110-349272",
+    "doc_id": "2026-09-03-dailyftlk-c54cdeb2",
+    "num": "dailyftlk-c54cdeb2",
+    "date_str": "2026-09-03",
+    "description": "Govt. destroying democracy with 22nd Amendment: Sajith",
+    "url_metadata": "https://www.ft.lk/news/Govt-destroying-democracy-with-22nd-Amendment-Sajith/56-796726",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788367494.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788395555.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-03 | `dailyftlk-c54cdeb2` | Govt. destroying democracy with 22nd Amendment: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-c54cdeb2)
+- 2026-09-03 | `dailyftlk-341aae64` | ProFood ProPack and AgBiz 2026 concludes successfully | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-341aae64)
+- 2026-09-03 | `dailyftlk-d53930e6` | National Biotechnology Industry Association holds first AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-d53930e6)
+- 2026-09-03 | `dailyftlk-636ec177` | DCSL recognised as ‘Sri Lanka’s Most Valuable Spirits Brand’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-636ec177)
 - 2026-09-02 | `dailymirrorlk-61b3334a` | PM Harini meets Bhutanese Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-61b3334a)
 - 2026-09-02 | `dailymirrorlk-6c0da5a0` | US pounds Iran, Tehran strikes back at bases in biggest exchange since July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-6c0da5a0)
 - 2026-09-02 | `dailymirrorlk-32903e9e` | PM holds bilateral talks with Bhutanese counterpart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-32903e9e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-02 | `adalk-8bafb9c7` | ශිෂ්‍යත්ව ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-8bafb9c7)
 - 2026-09-02 | `dailymirrorlk-f28401df` | Strict action against bullying children over grade 5 results | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-f28401df)
 - 2026-09-02 | `dailymirrorlk-5b897e2e` | MoU signed for technology to prevent wild elephant-train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b897e2e)
-- 2026-09-02 | `dailymirrorlk-7a6d5bea` | Colombo water supply to be suspended for 24 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-7a6d5bea)
-- 2026-09-02 | `dailymirrorlk-aaa05fb3` | Japan donates seven buses to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-aaa05fb3)
-- 2026-09-02 | `tamilmirrorlk-a35174c4` | புலி முகாம் புரளிக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-tamilmirrorlk-a35174c4)
-- 2026-09-02 | `dailymirrorlk-5b760d5b` | Grade 5 Scholarship Examination 2026 results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b760d5b)
 
 ---
 

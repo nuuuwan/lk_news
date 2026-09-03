@@ -35631,5 +35631,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788367494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailyftlk-636ec177",
+    "num": "dailyftlk-636ec177",
+    "date_str": "2026-09-03",
+    "description": "DCSL recognised as \u2018Sri Lanka\u2019s Most Valuable Spirits Brand\u2019",
+    "url_metadata": "https://www.ft.lk/business/DCSL-recognised-as-Sri-Lanka-s-Most-Valuable-Spirits-Brand/34-796723",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788395221.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailyftlk-d53930e6",
+    "num": "dailyftlk-d53930e6",
+    "date_str": "2026-09-03",
+    "description": "National Biotechnology Industry Association holds first AGM",
+    "url_metadata": "https://www.ft.lk/business/National-Biotechnology-Industry-Association-holds-first-AGM/34-796724",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788395325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailyftlk-341aae64",
+    "num": "dailyftlk-341aae64",
+    "date_str": "2026-09-03",
+    "description": "ProFood ProPack and AgBiz 2026 concludes successfully",
+    "url_metadata": "https://www.ft.lk/business/ProFood-ProPack-and-AgBiz-2026-concludes-successfully/34-796725",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788395453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-03-dailyftlk-c54cdeb2",
+    "num": "dailyftlk-c54cdeb2",
+    "date_str": "2026-09-03",
+    "description": "Govt. destroying democracy with 22nd Amendment: Sajith",
+    "url_metadata": "https://www.ft.lk/news/Govt-destroying-democracy-with-22nd-Amendment-Sajith/56-796726",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788395555.0
   }
 ]
