@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_06:23:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_08:11:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,187** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,203** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-03-dailyftlk-c54cdeb2",
-    "num": "dailyftlk-c54cdeb2",
+    "doc_id": "2026-09-03-tamilmirrorlk-5864e419",
+    "num": "tamilmirrorlk-5864e419",
     "date_str": "2026-09-03",
-    "description": "Govt. destroying democracy with 22nd Amendment: Sajith",
-    "url_metadata": "https://www.ft.lk/news/Govt-destroying-democracy-with-22nd-Amendment-Sajith/56-796726",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788395555.0
+    "description": "\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-382250",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788400559.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-03 | `tamilmirrorlk-5864e419` | இடியுடன் மழை பெய்யும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-5864e419)
+- 2026-09-03 | `dailyftlk-fe1e6ff3` | Budget 2027: It is time to fix the forgotten finances of Local Government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-fe1e6ff3)
+- 2026-09-03 | `dailyftlk-d47e3b31` | Exiting elections, diminishing legitimacy, imbalanced rule and cruel choice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-d47e3b31)
+- 2026-09-03 | `dailyftlk-bc8869ed` | Sri Lanka’s Constitutional test: Judicial independence beyond immediate political moment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-bc8869ed)
+- 2026-09-03 | `dailyftlk-45ad7b16` | After IMF? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-45ad7b16)
+- 2026-09-03 | `adalk-c3f362f9` | Diva Fresh ’ගමින් ගමට’ සමග, නව Stain Fighter තාක්ෂණය ජනතාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-c3f362f9)
+- 2026-09-03 | `dailyftlk-46d6c381` | Sri Lanka’s real test is not its Debt-to-GDP ratio | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-46d6c381)
+- 2026-09-03 | `dailyftlk-79c7956a` | Uncertainty and indecision clouds over Sri Lanka’s economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-79c7956a)
+- 2026-09-03 | `dailyftlk-e27c21da` | SL’s paradox: Exports its finest intellect and imports expertise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-e27c21da)
+- 2026-09-03 | `dailyftlk-b38ef22c` | Sri Lanka launches National Food Safety Policy with support from FAO, European Union | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-b38ef22c)
+- 2026-09-03 | `dailyftlk-d13963ed` | PM brings Sri Lanka’s ancient wisdom on sustainable food systems to global stage in Bhutan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-d13963ed)
+- 2026-09-03 | `dailyftlk-2a1e3be1` | Govt., UNDP sign deal to secure hard-to-source medicines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-2a1e3be1)
+- 2026-09-03 | `dailyftlk-d6829fe6` | People’s Bank launches landmark initiative to reduce elephant–train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-d6829fe6)
 - 2026-09-03 | `dailyftlk-c54cdeb2` | Govt. destroying democracy with 22nd Amendment: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-c54cdeb2)
+- 2026-09-03 | `adalk-78d873cb` | වහින්නැති පැතිවලට වහින්න හිතකර වායුගෝලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-78d873cb)
 - 2026-09-03 | `dailyftlk-341aae64` | ProFood ProPack and AgBiz 2026 concludes successfully | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-341aae64)
 - 2026-09-03 | `dailyftlk-d53930e6` | National Biotechnology Industry Association holds first AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-d53930e6)
 - 2026-09-03 | `dailyftlk-636ec177` | DCSL recognised as ‘Sri Lanka’s Most Valuable Spirits Brand’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailyftlk-636ec177)
 - 2026-09-02 | `dailymirrorlk-61b3334a` | PM Harini meets Bhutanese Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-61b3334a)
 - 2026-09-02 | `dailymirrorlk-6c0da5a0` | US pounds Iran, Tehran strikes back at bases in biggest exchange since July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-6c0da5a0)
-- 2026-09-02 | `dailymirrorlk-32903e9e` | PM holds bilateral talks with Bhutanese counterpart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-32903e9e)
-- 2026-09-02 | `dailymirrorlk-e91e39b8` | 250 Ceylon King Coconut Villages to be established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e91e39b8)
-- 2026-09-02 | `dailymirrorlk-e499b207` | Polonnaruwa records Sri Lanka’s highest temperature at 37.9°C | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-e499b207)
-- 2026-09-02 | `dailymirrorlk-9b35f607` | CSE slips as late selling drags ASPI lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-9b35f607)
-- 2026-09-02 | `dailymirrorlk-b1e0f5da` | Trade unions oppose EPF, ETF move | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-b1e0f5da)
-- 2026-09-02 | `dailymirrorlk-bc3c05ec` | Public invited to name Dehiwala Zoo’s baby hippo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-bc3c05ec)
-- 2026-09-02 | `dailymirrorlk-2ff75874` | Venues, dates confirmed for inaugural ICC Women’s Champions Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-2ff75874)
-- 2026-09-02 | `dailymirrorlk-837e842a` | Parliament to debate Chief of Defence Staff (Repeal) Bill on September 9 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-837e842a)
-- 2026-09-02 | `dailymirrorlk-bfe0d944` | Kurunegala student tops Grade 5 Scholarship exam with 193 marks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-bfe0d944)
-- 2026-09-02 | `dailymirrorlk-8e9e2401` | Foreign Minister Vijitha Herath undertakes official visit to UAE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-8e9e2401)
-- 2026-09-02 | `dailymirrorlk-f2c8396b` | Asset Declarations: What is the Right to Know if there is No Right to Speak? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-f2c8396b)
-- 2026-09-02 | `adalk-8bafb9c7` | ශිෂ්‍යත්ව ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-adalk-8bafb9c7)
-- 2026-09-02 | `dailymirrorlk-f28401df` | Strict action against bullying children over grade 5 results | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-f28401df)
-- 2026-09-02 | `dailymirrorlk-5b897e2e` | MoU signed for technology to prevent wild elephant-train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-02-dailymirrorlk-5b897e2e)
 
 ---
 

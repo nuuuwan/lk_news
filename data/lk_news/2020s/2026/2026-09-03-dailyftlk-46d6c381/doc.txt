@@ -1,0 +1,47 @@
+Sri Lanka’s real test is not its Debt-to-GDP ratio
+
+Sri Lanka’s debt-to-GDP ratio has come down sharply since the default, and this is read as recovery. Central Government debt was 99.5% of GDP in June 2025, against around 114% in 2023, and the Government expects to reach the IMF’s 95% target by 2030, two years early. That direction is right; the measures that will decide whether the next crisis is avoided are less reassuring.
+
+The 2024 restructuring cancelled very little of what Sri Lanka owes. It rescheduled the debt, moving the heaviest payments into the future. Creditor Governments agreed that no original sums need be repaid until 2028, with final instalments due in 2043. Private bondholders agreed to something similar, plus a lower rate of interest.
+
+But that lower rate does not last. On the main restructured bond the interest rate is 3.6% until 2027, rises to 5.1% from 2028 to 2032, and reaches 9.25% from 2032 until the bond is repaid in 2035. Another class of bonds pays holders more after 2028 if the economy outgrows IMF expectations. The cost comes later, to a country that will still be paying in 2043.
+
+The debt-to-GDP ratio compares what a Government owes against everything the country produces in a year. It is a fair check on scale, but it measures the debt against the wrong thing. A Government cannot spend the output of private firms and households. It spends what it collects in taxes, and settles foreign debts in foreign currency. The IMF’s program already tracks more than this one number. Public debate rarely does.
+
+Sri Lanka’s 2026 Budget expects to collect Rs. 5,300 billion and to pay Rs. 2,617 billion in interest. Interest alone takes close to half of all Government income, before a rupee goes to salaries, subsidies, hospitals, schools or investment. That is already an improvement: on World Bank figures, interest took 79.9% of Government revenue in 2023, among the highest ratios in the world. But Japan, which owes more than twice as much relative to the size of its economy, spent 8.4% in 2022. It borrows in its own currency, and the debt is overwhelmingly held at home.
+
+Tax collection has recovered strongly, from 8.2% of GDP in 2022 to an estimated 13.5% in 2024. Total revenue, a broader measure including non-tax income, is budgeted at 15.4% of GDP for 2026. One restructured bond cuts its interest rate by three-quarters of a percentage point if that figure reaches 15.3%. Sri Lanka has planned to clear its own condition by a tenth of a percentage point, in a year when the IMF has cut growth from 5% to 3%.
+
+Debts owed abroad must be settled in dollars, and dollars cannot be printed in Colombo. They have to be earned. Sri Lanka earns them from three sources: exports, money sent home by Sri Lankans working overseas, and tourism. It is a narrow base, which is why foreign debt is better judged against those earnings than against output.
+
+The first half of 2026 shows the three pulling in different directions. Merchandise exports rose 6.3% to $ 6.9 billion and remittances rose 23.2% to $ 4.6 billion, but tourism earnings fell 11.8% to $ 1.5 billion. Reserves stood at $ 6.59 billion in July, down from $ 7.3 billion in February. IMF staff visiting in June found reserve accumulation slowing and tourist arrivals softening. Sri Lanka still sits inside the 4.5% of GDP a year the program allows for foreign currency debt service from 2027, and the Fund still calls its debt high risk.
+
+As part of my research into how Sri Lanka measures and reports what it owes, one thing came up again and again. People kept telling me that the basic question had not been asked: was this project worth borrowing for? Not before it was approved, and not after it was built. Handing over the money counted as the job done. And new borrowing too often went to repay old borrowing, rather than to earn what was needed to clear it.
+
+This matters because borrowing is not one thing. Money spent on a port that handles export traffic, or a tax system that collects what is due, may earn back more than it costs. Money spent covering this year’s shortfall will not. The two are recorded identically in the debt-to-GDP ratio.
+
+What counts as Government debt also depends on where the line is drawn. Sri Lanka’s central Government debt was 99.5% of GDP in June 2025; include state-owned enterprise borrowing the Government has guaranteed, and it was 104.1%. The same country, the same month, 4.6 percentage points apart depending on the definition. This is fiscal illusion: a number that reassures partly because of what it leaves out. The Public Financial Management Act of 2024 now caps Government guarantees at 7.5% of average GDP.
+
+None of this argues for spending more or borrowing more freely. It argues for measuring the right things: interest as a share of revenue; foreign debt against foreign earnings; reserves against the payments falling due soonest; and what the borrowing actually built. The World Bank reported last December that developing countries paid out $ 741 billion more in repayments and interest than they received in new lending between 2022 and 2024, the largest gap in fifty years. That is not a problem the debt-to-GDP ratio was built to describe.
+
+The ratio has come down. The repayments are coming. Whether those two facts are connected is the question to answer before 2028, and the front-page number will not answer it.
+
+(The writer teaches Accounting and Finance at the University of Buckingham, UK. Her doctoral research focused on public-debt governance in Sri Lanka)
+
+International Monetary Fund, Sri Lanka’s Sovereign Debt Restructuring: Lessons from Complex Processes, IMF Working Paper WP/25/175, 2025 (debt sustainability targets).
+
+Ministry of Finance, Planning and Economic Development (Sri Lanka), Sri Lanka’s Public Debt Restructuring: Supplementary Note to the presentation by the Secretary to the Treasury, 1 January 2025 (interest rate schedule, bond conditions, bilateral terms).
+
+International Monetary Fund, IMF Executive Board Completes the Combined Fifth and Sixth Reviews Under the EFF for Sri Lanka, Press Release, 27 May 2026; IMF Staff Concludes Visit to Sri Lanka, Press Release No. 26/229, 30 June 2026.
+
+EconomyNext, ‘Key numbers in Sri Lanka’s 2026 budget’; ‘Sri Lanka debt to GDP 99.5-pct at June 2025’; ‘Sri Lanka GDP grows 4.8-pct in 4Q, full year 5.0-pct’.
+
+LOLC Securities, Sri Lanka Fiscal Budget Review 2026; KPMG Sri Lanka, Budget 2026 Snapshot; PublicFinance.lk, Summary of the Budget 2026.
+
+World Bank, Interest payments (% of revenue), indicator GC.XPN.INTP.RV.ZS, Sri Lanka and Japan.
+
+Central Bank of Sri Lanka, External Sector Performance, February and June 2026, and monthly reserve releases to July 2026.
+
+Public Financial Management Act, No. 44 of 2024 (Sri Lanka), Sections 15, 17 and 69.
+
+World Bank, ‘Developing Countries’ Debt Outflows Hit 50-Year High During 2022-2024’, Press Release, 3 December 2025.
