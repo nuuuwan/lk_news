@@ -1,0 +1,21 @@
+Apple facing $2.7 billion UK lawsuit over ’unfair’ app tracking rules
+
+Reuters - Apple (AAPL.O), is facing a £2 billion ($2.7 billion) London lawsuit brought on behalf of app developers over its app tracking rules, with the ​iPhone maker accused of abusing its power to unfairly impose ‌greater restrictions on third parties.
+
+The lawsuit, filed at London's Competition Appeal Tribunal on Thursday, follows years of regulatory scrutiny over Apple's App Tracking Transparency feature, which ​was launched in 2021.
+
+Apple has said it introduced that feature to ​allow users to control whether to grant apps permission ⁠to track their activity across other companies' apps and websites.
+
+Lawyers bringing the ​new lawsuit against Apple, though, say the feature imposed stricter requirements on ​third-party app developers than on Apple's own services, giving its advertising ecosystem a competitive advantage.
+
+Ann Pope, a former senior official with Britain's Competition and Markets Authority who ​is leading the lawsuit, said Apple's policy "resulted in very significant harm ​to businesses that depend on Apple as a gatekeeper".
+
+"This action is important to protect ‌the ⁠rights of British businesses that depend on Apple, to ensure that the rules that Apple applies are fair, and to compensate the losses that British companies have suffered," Pope said in a statement.
+
+Apple, which has previously ​said its App ​Tracking Transparency provides "important ⁠privacy protections", did not immediately comment.
+
+Apple's App Tracking Transparency feature has been the subject of investigations across ​Europe, in particular in Germany where Apple last month agreed ​changes to ⁠rules on how app developers can use personal data for targeted advertising.
+
+The German competition authority had accused Apple of abusing its market power, after Facebook-owner ⁠Meta (META.O), plus ​publishers, advertisers and app developers – whose business ​models rely on advertising tracking – criticised the tool.
+
+Regulators in France, Italy, Poland and elsewhere have also probed the ​App Tracking Transparency framework.
