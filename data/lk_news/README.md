@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_12:09:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--03_14:09:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,229** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,279** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-03-adalk-984a2763",
-    "num": "adalk-984a2763",
+    "doc_id": "2026-09-03-dailymirrorlk-6f06d865",
+    "num": "dailymirrorlk-6f06d865",
     "date_str": "2026-09-03",
-    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0db4\u0dd0\u0dba 24\u0d9a \u0da2\u0dbd \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0dbb\u0dd0\u0dc3\u0d9a\u0da7-\u0db4\u0dd0\u0dba-24\u0d9a-\u0da2\u0dbd-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/11-424036",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788417114.0
+    "description": "President\u2019s Secretary calls for urgent relief from PAYE Tax burden",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-Secretary-calls-for-urgent-relief-from-PAYE-Tax-burden/108-349344",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788423585.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-03 | `dailymirrorlk-6f06d865` | President’s Secretary calls for urgent relief from PAYE Tax burden | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-6f06d865)
+- 2026-09-03 | `dailymirrorlk-d89efed3` | Petrol cars below 1,000cc top vehicle imports in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-d89efed3)
+- 2026-09-03 | `tamilmirrorlk-f715b8e5` | 2016 ஆசிரியை கொலை: குற்றவாளிக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-f715b8e5)
+- 2026-09-03 | `dailymirrorlk-0880d131` | Police Day religious events held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-0880d131)
+- 2026-09-03 | `dailymirrorlk-1669eb9b` | Sri Lanka launches National Food Safety Policy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-1669eb9b)
+- 2026-09-03 | `tamilmirrorlk-ae0aaafc` | யுவதியிடம் தழும்பு தேடிய  சார்ஜன்ட் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-ae0aaafc)
+- 2026-09-03 | `dailymirrorlk-a6478479` | Complaint lodged with CIABOC against all NPP MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-a6478479)
+- 2026-09-03 | `dailymirrorlk-5b102263` | Government ready to face referendum if required: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-5b102263)
+- 2026-09-03 | `dailymirrorlk-d4006629` | BIA welcomes travellers with authentic Ceylon Tea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-d4006629)
+- 2026-09-03 | `dailymirrorlk-7e00019f` | Robert Kiyosaki, the ‘Rich Dad Poor Dad’ author, is $1.2 billion in debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-7e00019f)
+- 2026-09-03 | `dailymirrorlk-0be5243a` | 5,000 solar technicians needed annually to meet 2030 renewable energy target: PUCSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-0be5243a)
+- 2026-09-03 | `dailymirrorlk-24fa7e74` | SC commences hearing petitions on Anti-Corruption (Amendment) Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-24fa7e74)
+- 2026-09-03 | `tamilmirrorlk-6e9e0843` | வித்தியாசமான பாலியல் தொல்லை: மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-6e9e0843)
+- 2026-09-03 | `dailymirrorlk-4dd33566` | Vehicle prices increase by millions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-4dd33566)
 - 2026-09-03 | `adalk-984a2763` | කොළඹ ප්‍රදේශ රැසකට පැය 24ක ජල කප්පාදුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-984a2763)
 - 2026-09-03 | `dailymirrorlk-27a5e3bc` | AG tells SC 22nd Amendment does not require referendum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-27a5e3bc)
 - 2026-09-03 | `tamilmirrorlk-090277a2` | ஜப்பானின் பேருந்துகள் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-090277a2)
 - 2026-09-03 | `dailymirrorlk-961b44ef` | Wildlife Department hunts suspect over alleged Yala poaching | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-961b44ef)
 - 2026-09-03 | `dailymirrorlk-e20f0f23` | Foreign tourist gets sex invitations under hotel door | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-e20f0f23)
-- 2026-09-03 | `dailymirrorlk-07571c9e` | Dutch shift 86 tonnes of gold from US and Canada to UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-07571c9e)
-- 2026-09-03 | `dailymirrorlk-81b7af1c` | Iranian Vessels: U.S. embassy says no comment on private diplomatic communications | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-81b7af1c)
-- 2026-09-03 | `dailymirrorlk-da7795f7` | Air Vice Marshal Indika Wickramasinghe assumes duties as KDU Vice Chancellor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-da7795f7)
-- 2026-09-03 | `dailymirrorlk-72eef3f8` | Sri Lanka loses over USD 20 MN as ICC moves Champions Trophy to India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-72eef3f8)
-- 2026-09-03 | `tamilmirrorlk-3ae5f4db` | ’ நொனா அம்மா’ சிக்கியது எப்படி தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-3ae5f4db)
-- 2026-09-03 | `tamilmirrorlk-c8ad450a` | பூட்டான் சட்டக் கல்லூரிக்கு பிரதமர் ஹரிணி விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-c8ad450a)
-- 2026-09-03 | `tamilmirrorlk-240ffa21` | புலமைப்பரிசில் பெறுபேறுகள்: பிள்ளைகளைத் துன்புறுத்தினால் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-240ffa21)
-- 2026-09-03 | `tamilmirrorlk-43cf78e9` | நாவலபிட்டிய - கம்பளை ரயில் பாதை திருத்தப் பணிகள் நவம்பரில் நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-43cf78e9)
-- 2026-09-03 | `dailymirrorlk-8936a02f` | Former State Minister Anupa Pasquel’s salary, allowances, expenditure examined in court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-8936a02f)
-- 2026-09-03 | `tamilmirrorlk-c3ccc361` | நீதிமன்றத்தில் புதிய தொழில் செய்த இருவருக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-c3ccc361)
-- 2026-09-03 | `dailymirrorlk-47454cec` | Police open fire at three-wheeler in Borella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-47454cec)
-- 2026-09-03 | `tamilmirrorlk-1df84bd7` | பொரளையில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-1df84bd7)
-- 2026-09-03 | `tamilmirrorlk-82278a3b` | முன்னாள் மேயர் முஸாமிலின் மகன்  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-82278a3b)
-- 2026-09-03 | `tamilmirrorlk-6ca680b2` | யாழ். பல்கலைக்கழகத் துணைவேந்தர், பதிவாளருக்கு   அழைப்பாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-6ca680b2)
-- 2026-09-03 | `tamilmirrorlk-3835c2ae` | விழிப்புணர்வு சைக்கிளோட்டம் திருகோணமலையை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-3835c2ae)
+- 2026-09-03 | `adalk-bb92c8ed` | කොතලාවල ආරක්ෂක සරසවියේ නව උපකුලපති  එයාර් වයිස් මාර්ෂල් ඉන්දික වික්‍රමසිංහ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-adalk-bb92c8ed)
 
 ---
 
