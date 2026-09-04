@@ -38714,6 +38714,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-3ef5bd84",
+    "num": "adalk-3ef5bd84",
+    "date_str": "2026-09-04",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9c\u0dad \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9c\u0dad-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5\u0da7/3-424064",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788517724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-48dad68d",
+    "num": "adalk-48dad68d",
+    "date_str": "2026-09-04",
+    "description": "\u0d91\u0dbd\u0dca \u0db1\u0dd2\u0db1\u0ddd\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dcf\u0db1\u0dd2 \u0dc0\u0dd6 \u0dc0\u0d9c\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1\u0dca\u0daf\u0dd2 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dbd\u0dca-\u0db1\u0dd2\u0db1\u0ddd\u0dc0\u0dd9\u0db1\u0dca-\u0dc4\u0dcf\u0db1\u0dd2-\u0dc0\u0dd6-\u0dc0\u0d9c\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0dc0\u0db1\u0dca\u0daf\u0dd2-\u0d9c\u0dd9\u0dc0\u0dd3\u0db8-\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0da7/11-424065",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788518490.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-04-dailymirrorlk-0b2538b8",
     "num": "dailymirrorlk-0b2538b8",
     "date_str": "2026-09-04",
@@ -38744,5 +38766,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788524296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-98ca826e",
+    "num": "dailymirrorlk-98ca826e",
+    "date_str": "2026-09-04",
+    "description": "Johnston Fernando granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Johnston-Fernando-granted-bail/108-349483",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788526129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-049f5ab6",
+    "num": "dailymirrorlk-049f5ab6",
+    "date_str": "2026-09-04",
+    "description": "CSE surges as broad-based buying pushes ASPI above 21,600",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-surges-as-broad-based-buying-pushes-ASPI-above-21-600/108-349484",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788526610.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-fb1744eb",
+    "num": "dailymirrorlk-fb1744eb",
+    "date_str": "2026-09-04",
+    "description": "US diesel prices hit an all-time-high",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-diesel-prices-hit-an-all-time-high/108-349485",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788527584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-d7d23f8d",
+    "num": "dailymirrorlk-d7d23f8d",
+    "date_str": "2026-09-04",
+    "description": "Water supply to be suspended in parts of Colombo, Battaramulla",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-be-suspended-in-parts-of-Colombo-Battaramulla/108-349486",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788531116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-bb95ea90",
+    "num": "dailymirrorlk-bb95ea90",
+    "date_str": "2026-09-04",
+    "description": "Muzammil\u2019s son Jamaldeen arrested over alleged fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Muzammils-son-Jamaldeen-arrested-over-alleged-fraud/108-349487",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788531566.0
   }
 ]

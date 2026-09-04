@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_18:10:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_20:04:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,466** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,473** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-1562cbf7",
-    "num": "dailymirrorlk-1562cbf7",
+    "doc_id": "2026-09-04-dailymirrorlk-bb95ea90",
+    "num": "dailymirrorlk-bb95ea90",
     "date_str": "2026-09-04",
-    "description": "Namal Rajapaksa remanded",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-remanded/108-349482",
+    "description": "Muzammil\u2019s son Jamaldeen arrested over alleged fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Muzammils-son-Jamaldeen-arrested-over-alleged-fraud/108-349487",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788524296.0
+    "time_ut": 1788531566.0
 }
 ```
 
@@ -41,9 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-04 | `dailymirrorlk-bb95ea90` | Muzammil’s son Jamaldeen arrested over alleged fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-bb95ea90)
+- 2026-09-04 | `dailymirrorlk-d7d23f8d` | Water supply to be suspended in parts of Colombo, Battaramulla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-d7d23f8d)
+- 2026-09-04 | `dailymirrorlk-fb1744eb` | US diesel prices hit an all-time-high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-fb1744eb)
+- 2026-09-04 | `dailymirrorlk-049f5ab6` | CSE surges as broad-based buying pushes ASPI above 21,600 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-049f5ab6)
+- 2026-09-04 | `dailymirrorlk-98ca826e` | Johnston Fernando granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-98ca826e)
 - 2026-09-04 | `dailymirrorlk-1562cbf7` | Namal Rajapaksa remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-1562cbf7)
 - 2026-09-04 | `dailymirrorlk-08f5a38c` | Why was Namal Rajapaksa arrested? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-08f5a38c)
 - 2026-09-04 | `dailymirrorlk-0b2538b8` | British army told to stop non-essential training exercises to save money | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-0b2538b8)
+- 2026-09-04 | `adalk-48dad68d` | එල් නිනෝවෙන් හානි වූ වගා සඳහා වන්දි ගෙවීම ලබන සතියේ සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-48dad68d)
+- 2026-09-04 | `adalk-3ef5bd84` | ඇමෙරිකාවේ ඩීසල් මිල වාර්තා ගත ලෙස ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-3ef5bd84)
 - 2026-09-04 | `adalk-5a0bed87` | ජුලි මාසයේදී වාහන ආනයනයට ඩො.මි. 180ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-5a0bed87)
 - 2026-09-04 | `adalk-62f11235` | කාන්තාවකට කඳුකර කොටි ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-62f11235)
 - 2026-09-04 | `adalk-f5c42302` | නේපාල 1287ක්, ටිබෙටයේ 21ක් ගංවතුර නිසා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-f5c42302)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-04 | `dailymirrorlk-a1370f24` | Bribery Commission arrests Namal after five-hour questioning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-a1370f24)
 - 2026-09-04 | `dailymirrorlk-dde16a1b` | SC concludes hearing into Anti-Corruption (Amendment) Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-dde16a1b)
 - 2026-09-04 | `dailymirrorlk-da398905` | Invest Sri Lanka Melbourne forums attract diaspora interest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-da398905)
-- 2026-09-04 | `dailymirrorlk-704a7b37` | Sri Lanka may experience hotter, drier conditions in early 2027 amid El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-704a7b37)
-- 2026-09-04 | `dailymirrorlk-f38fc81b` | ICBS’ LEVEL UP 2.0 on Sept. 9 in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-f38fc81b)
-- 2026-09-04 | `dailymirrorlk-653aeb13` | LCB Finance opens 26th branch in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-653aeb13)
-- 2026-09-04 | `dailymirrorlk-2f098aab` | Asiri Medical Hospital refurbishes Ward 3B | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-2f098aab)
-- 2026-09-04 | `dailymirrorlk-d3666b29` | HNB Life-Pan Asia Banking Corporation expand insurance reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-d3666b29)
-- 2026-09-04 | `dailymirrorlk-f36890f4` | Suspected remains of missing Fast Attack Craft officer recovered | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-f36890f4)
-- 2026-09-04 | `dailymirrorlk-9e6f7dcb` | Missing sailor’s remains recovered after 20-day search | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-9e6f7dcb)
 
 ---
 
