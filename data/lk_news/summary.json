@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-04 14:05:47",
-  "n_docs": 129447,
+  "time_updated": "2026-09-04 15:57:54",
+  "n_docs": 129459,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129447,
+  "n_docs_with_text": 129459,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-04",
-  "dataset_size": 2015135385,
+  "dataset_size": 2015591959,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-653aeb13",
-    "num": "dailymirrorlk-653aeb13",
+    "doc_id": "2026-09-04-dailymirrorlk-87e07689",
+    "num": "dailymirrorlk-87e07689",
     "date_str": "2026-09-04",
-    "description": "LCB Finance opens 26th branch in Anuradhapura",
-    "url_metadata": "https://www.dailymirror.lk/business/LCB-Finance-opens-26th-branch-in-Anuradhapura/215-349468",
+    "description": "First coal shipment arrives in Puttalam for Norochcholai power plant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/First-coal-shipment-arrives-in-Puttalam-for-Norochcholai-power-plant/108-349477",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788509977.0
+    "time_ut": 1788515244.0
   }
 }
