@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_06:19:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_08:08:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,353** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-21f1fbdd",
-    "num": "dailymirrorlk-21f1fbdd",
+    "doc_id": "2026-09-04-tamilmirrorlk-4a666d18",
+    "num": "tamilmirrorlk-4a666d18",
     "date_str": "2026-09-04",
-    "description": "Two injured in Kollupitiya shooting",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-injured-in-Kollupitiya-shooting/108-349415",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788481862.0
+    "description": "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-382345",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788488011.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-04 | `tamilmirrorlk-4a666d18` | கொள்ளுப்பிட்டியில் துப்பாக்கிச் சூடு: இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-4a666d18)
+- 2026-09-04 | `tamilmirrorlk-2b44aaa6` | கனடாவின் ஒன்ராறியோவின் 3 தொகுதிகளில் இடைத்தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-2b44aaa6)
+- 2026-09-04 | `dailyftlk-1a37a8d8` | SJB stages Colombo Fort protest against 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-1a37a8d8)
+- 2026-09-04 | `dailyftlk-7b88d3fe` | Civil society groups lodge corruption complaint against 159 NPP MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-7b88d3fe)
+- 2026-09-04 | `dailyftlk-069e6bfe` | Namal summoned to appear before CIABOC today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-069e6bfe)
+- 2026-09-04 | `dailyftlk-b42aeebf` | Cabinet nod to gazette and table Community Based Corrections (Amendment) Bill for Parliament approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-b42aeebf)
+- 2026-09-04 | `dailyftlk-155ed128` | Cabinet nod to review quarantine law amid rising infectious disease risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-155ed128)
+- 2026-09-04 | `adalk-e6ef13b2` | කොල්ලුපිටිය මහල් නිවාස සංකීර්ණයක් අසළ වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-e6ef13b2)
+- 2026-09-04 | `tamilmirrorlk-d01726a3` | ஹார்முஸ் நீரிணையின் பெயரை ட்ரம்ப் நீரிணை என மாற்றலாமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-d01726a3)
+- 2026-09-04 | `tamilmirrorlk-07865624` | பஸ் மோதி 4 மாணவிகள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-07865624)
 - 2026-09-04 | `dailymirrorlk-21f1fbdd` | Two injured in Kollupitiya shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-21f1fbdd)
 - 2026-09-04 | `adalk-353cc10f` | ලංකා IOC රිදී ජූබිලිය සමග CSE සමාරම්භක සීනු හඬවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-353cc10f)
 - 2026-09-03 | `tamilmirrorlk-3bef5c30` | மேன்முறையீட்டு நீதிமன்ற நீதிபதியாக சஜீவனி தில்கா லக்மாலி பதவிப் பிரமாணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-3bef5c30)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-09-03 | `dailymirrorlk-72f1727d` | Time to build a respected Police force: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-72f1727d)
 - 2026-09-03 | `dailymirrorlk-789038be` | President joins 160th Police Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-789038be)
 - 2026-09-03 | `dailymirrorlk-2e9833cc` | Three Colombo rail routes to get electric trains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-2e9833cc)
-- 2026-09-03 | `dailymirrorlk-402775b5` | Botham recovers after first-of-its-kind cancer surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-402775b5)
-- 2026-09-03 | `dailymirrorlk-68ea5bf6` | Public urged to avoid flying kites near high-voltage lines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-68ea5bf6)
-- 2026-09-03 | `dailymirrorlk-b66e916c` | 22nd Amendment hearing: BASL skips written submissions after denial of oral reply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-b66e916c)
-- 2026-09-03 | `dailymirrorlk-afa27206` | Businesses gear up for El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-afa27206)
-- 2026-09-03 | `dailymirrorlk-dc146238` | Mystery deepens over Eraj Fernando’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-dc146238)
-- 2026-09-03 | `dailymirrorlk-8515a3a3` | New Court of Appeal Judge Sajeewani Dilka Lakmali sworn in | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-8515a3a3)
-- 2026-09-03 | `dailymirrorlk-cb9e87de` | Apple facing $2.7 billion UK lawsuit over ’unfair’ app tracking rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-cb9e87de)
-- 2026-09-03 | `dailymirrorlk-b87100da` | Online applications planned for 2027 Grade 6 school admissions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-b87100da)
-- 2026-09-03 | `dailymirrorlk-29e7ef9b` | Protest held against 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-29e7ef9b)
-- 2026-09-03 | `dailymirrorlk-1fafd039` | Forced labour programme helped cut US tariffs to 10%: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-1fafd039)
 
 ---
 

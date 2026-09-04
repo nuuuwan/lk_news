@@ -36954,6 +36954,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-03-adalk-d7e3e623",
+    "num": "adalk-d7e3e623",
+    "date_str": "2026-09-03",
+    "description": "\u0da2\u0dd4\u0db1\u0dd2 30 \u0dad\u0dd9\u0d9a\u0dca \u0dc0\u0dcf\u0dc4\u0db1 316000\u0d9a\u0dca \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dbb\u0dbd\u0dcf, \u0db6\u0daf\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4.\u0db6\u0dd2. 512.5\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dd4\u0db1\u0dd2-30-\u0dad\u0dd9\u0d9a\u0dca-\u0dc0\u0dcf\u0dc4\u0db1-316000\u0d9a\u0dca-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0d9a\u0dbb\u0dbd\u0dcf--\u0db6\u0daf\u0dd4-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0dbb\u0dd4-\u0db6\u0dd2--512-5\u0dba\u0dd2/11-424042",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788432250.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-03-dailymirrorlk-44da2e04",
     "num": "dailymirrorlk-44da2e04",
     "date_str": "2026-09-03",
@@ -37380,5 +37391,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788481862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-tamilmirrorlk-07865624",
+    "num": "tamilmirrorlk-07865624",
+    "date_str": "2026-09-04",
+    "description": "\u0baa\u0bb8\u0bcd \u0bae\u0bc7\u0bbe\u0ba4\u0bbf 4 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0bae\u0bc7\u0bbe\u0ba4\u0bbf-4-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd-\u0baa\u0bb2\u0bbf/175-382342",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788484179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-tamilmirrorlk-d01726a3",
+    "num": "tamilmirrorlk-d01726a3",
+    "date_str": "2026-09-04",
+    "description": "\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8 \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8 \u0b8e\u0ba9 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bb2\u0bbe\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bc8-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8-\u0b8e\u0ba9-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bb2\u0bbe\u0bae\u0bbe/50-382343",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788484739.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-e6ef13b2",
+    "num": "adalk-e6ef13b2",
+    "date_str": "2026-09-04",
+    "description": "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db8\u0dc4\u0dbd\u0dca \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab\u0dba\u0d9a\u0dca \u0d85\u0dc3\u0dc5 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd2\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0db8\u0dc4\u0dbd\u0dca-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dc3\u0dc5-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd2\u0db8\u0d9a\u0dca/11-424048",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788484958.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-155ed128",
+    "num": "dailyftlk-155ed128",
+    "date_str": "2026-09-04",
+    "description": "Cabinet nod to review quarantine law amid rising infectious disease risks",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-to-review-quarantine-law-amid-rising-infectious-disease-risks/56-796793",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788487000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-b42aeebf",
+    "num": "dailyftlk-b42aeebf",
+    "date_str": "2026-09-04",
+    "description": "Cabinet nod to gazette and table Community Based Corrections (Amendment) Bill for Parliament approval",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-to-gazette-and-table-Community-Based-Corrections-Amendment-Bill-for-Parliament-approval/56-796794",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788487023.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-069e6bfe",
+    "num": "dailyftlk-069e6bfe",
+    "date_str": "2026-09-04",
+    "description": "Namal summoned to appear before CIABOC today",
+    "url_metadata": "https://www.ft.lk/news/Namal-summoned-to-appear-before-CIABOC-today/56-796795",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788487118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-7b88d3fe",
+    "num": "dailyftlk-7b88d3fe",
+    "date_str": "2026-09-04",
+    "description": "Civil society groups lodge corruption complaint against 159 NPP MPs",
+    "url_metadata": "https://www.ft.lk/news/Civil-society-groups-lodge-corruption-complaint-against-159-NPP-MPs/56-796796",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788487175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-1a37a8d8",
+    "num": "dailyftlk-1a37a8d8",
+    "date_str": "2026-09-04",
+    "description": "SJB stages Colombo Fort protest against 22nd Amendment",
+    "url_metadata": "https://www.ft.lk/news/SJB-stages-Colombo-Fort-protest-against-22nd-Amendment/56-796797",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788487288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-tamilmirrorlk-2b44aaa6",
+    "num": "tamilmirrorlk-2b44aaa6",
+    "date_str": "2026-09-04",
+    "description": "\u0b95\u0ba9\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb0\u0bbe\u0bb1\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd 3 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba9\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b92\u0ba9\u0bcd\u0bb0\u0bbe\u0bb1\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd-3-\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd/50-382344",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788487407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-tamilmirrorlk-4a666d18",
+    "num": "tamilmirrorlk-4a666d18",
+    "date_str": "2026-09-04",
+    "description": "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-382345",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788488011.0
   }
 ]
