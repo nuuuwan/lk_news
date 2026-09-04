@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_00:03:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_01:58:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,482** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-6ad5c907",
-    "num": "dailymirrorlk-6ad5c907",
-    "date_str": "2026-09-04",
-    "description": "250 Japanese tourists attend farewell ceremony",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/250-Japanese-tourists-attend-farewell-ceremony/110-349493",
+    "doc_id": "2026-09-05-dailyftlk-f221a819",
+    "num": "dailyftlk-f221a819",
+    "date_str": "2026-09-05",
+    "description": "From NIMBY to PIMFY: South Korea\u2019s community-based approach to climate change mitigation",
+    "url_metadata": "https://www.ft.lk/columns/From-NIMBY-to-PIMFY-South-Korea-s-community-based-approach-to-climate-change-mitigation/4-796857",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788537539.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788548168.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-05 | `dailyftlk-f221a819` | From NIMBY to PIMFY: South Korea’s community-based approach to climate change mitigation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailyftlk-f221a819)
+- 2026-09-05 | `dailyftlk-a701414e` | Pro-LTTE diaspora promotes SL ‘unsafe for Tamils’ to sustain asylum business | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailyftlk-a701414e)
+- 2026-09-04 | `dailyftlk-817fb9ce` | Are we watching Economic Transformation Act closely enough? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-817fb9ce)
+- 2026-09-04 | `dailyftlk-2cd83f2e` | The Rajarata roots of Prof. Patrick Mendis: The quintessential son of our motherland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-2cd83f2e)
+- 2026-09-04 | `dailyftlk-8a5965be` | A neighbour’s view of India’s strategic strengths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-8a5965be)
 - 2026-09-04 | `dailymirrorlk-6ad5c907` | 250 Japanese tourists attend farewell ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-6ad5c907)
 - 2026-09-04 | `dailymirrorlk-e4673861` | Defence challenges credibility of Nimal Perera in Namal Rajapaksa Airbus case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-e4673861)
 - 2026-09-04 | `dailymirrorlk-3681d66d` | Arrests will not deter public acceptance of politicians: UNP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-3681d66d)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-04 | `adalk-48dad68d` | එල් නිනෝවෙන් හානි වූ වගා සඳහා වන්දි ගෙවීම ලබන සතියේ සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-48dad68d)
 - 2026-09-04 | `adalk-3ef5bd84` | ඇමෙරිකාවේ ඩීසල් මිල වාර්තා ගත ලෙස ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-3ef5bd84)
 - 2026-09-04 | `adalk-5a0bed87` | ජුලි මාසයේදී වාහන ආනයනයට ඩො.මි. 180ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-5a0bed87)
-- 2026-09-04 | `adalk-62f11235` | කාන්තාවකට කඳුකර කොටි ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-62f11235)
-- 2026-09-04 | `adalk-f5c42302` | නේපාල 1287ක්, ටිබෙටයේ 21ක් ගංවතුර නිසා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-f5c42302)
-- 2026-09-04 | `dailymirrorlk-87e07689` | First coal shipment arrives in Puttalam for Norochcholai power plant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-87e07689)
-- 2026-09-04 | `dailymirrorlk-398f59fe` | Metro Bus aims to establish new public transport culture: Presidential Secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-398f59fe)
-- 2026-09-04 | `adalk-a8369c16` | නාමල් රාජපක්ෂ රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-a8369c16)
 
 ---
 

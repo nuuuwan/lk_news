@@ -38865,5 +38865,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788537539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-8a5965be",
+    "num": "dailyftlk-8a5965be",
+    "date_str": "2026-09-04",
+    "description": "A neighbour\u2019s view of India\u2019s strategic strengths",
+    "url_metadata": "https://www.ft.lk/columns/A-neighbour-s-view-of-India-s-strategic-strengths/4-796840",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788544441.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-2cd83f2e",
+    "num": "dailyftlk-2cd83f2e",
+    "date_str": "2026-09-04",
+    "description": "The Rajarata roots of Prof. Patrick Mendis: The quintessential son of our motherland",
+    "url_metadata": "https://www.ft.lk/opinion/The-Rajarata-roots-of-Prof-Patrick-Mendis-The-quintessential-son-of-our-motherland/14-796841",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788544537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-817fb9ce",
+    "num": "dailyftlk-817fb9ce",
+    "date_str": "2026-09-04",
+    "description": "Are we watching Economic Transformation Act closely enough?",
+    "url_metadata": "https://www.ft.lk/columns/Are-we-watching-Economic-Transformation-Act-closely-enough/4-796842",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788545503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-a701414e",
+    "num": "dailyftlk-a701414e",
+    "date_str": "2026-09-05",
+    "description": "Pro-LTTE diaspora promotes SL \u2018unsafe for Tamils\u2019 to sustain asylum business",
+    "url_metadata": "https://www.ft.lk/opinion/Pro-LTTE-diaspora-promotes-SL-unsafe-for-Tamils-to-sustain-asylum-business/14-796854",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788546818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-f221a819",
+    "num": "dailyftlk-f221a819",
+    "date_str": "2026-09-05",
+    "description": "From NIMBY to PIMFY: South Korea\u2019s community-based approach to climate change mitigation",
+    "url_metadata": "https://www.ft.lk/columns/From-NIMBY-to-PIMFY-South-Korea-s-community-based-approach-to-climate-change-mitigation/4-796857",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788548168.0
   }
 ]
