@@ -38868,6 +38868,116 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-f9f90371",
+    "num": "dailyftlk-f9f90371",
+    "date_str": "2026-09-04",
+    "description": "India funded 21st Model Village in  Polonnaruwa handed over to beneficiaries",
+    "url_metadata": "https://www.ft.lk/news/India-funded-21st-Model-Village-in-Polonnaruwa-handed-over-to-beneficiaries/56-796830",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-94178d4b",
+    "num": "dailyftlk-94178d4b",
+    "date_str": "2026-09-04",
+    "description": "SL Deputy High Commissioner calls on Andhra Pradesh Chief Minister",
+    "url_metadata": "https://www.ft.lk/news/SL-Deputy-High-Commissioner-calls-on-Andhra-Pradesh-Chief-Minister/56-796831",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-7614c03c",
+    "num": "dailyftlk-7614c03c",
+    "date_str": "2026-09-04",
+    "description": "Japan donates Rs. 112 m worth 8 environmentally-friendly large low-floor buses",
+    "url_metadata": "https://www.ft.lk/news/Japan-donates-Rs-112-m-worth-8-environmentally-friendly-large-low-floor-buses/56-796832",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-edd14183",
+    "num": "dailyftlk-edd14183",
+    "date_str": "2026-09-04",
+    "description": "Diplomatic Corps witness Kandy Esala Perahera, experience cultural heritage",
+    "url_metadata": "https://www.ft.lk/news/Diplomatic-Corps-witness-Kandy-Esala-Perahera-experience-cultural-heritage/56-796833",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-0f1ec8e1",
+    "num": "dailyftlk-0f1ec8e1",
+    "date_str": "2026-09-04",
+    "description": "Agrarian Insurance Board to compensate drought-hit farmers within two weeks",
+    "url_metadata": "https://www.ft.lk/news/Agrarian-Insurance-Board-to-compensate-drought-hit-farmers-within-two-weeks/56-796834",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543793.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-89a056bf",
+    "num": "dailyftlk-89a056bf",
+    "date_str": "2026-09-04",
+    "description": "Farmers urged to complete sowing by mid-October ahead of heavy rains, El Ni\u00f1o",
+    "url_metadata": "https://www.ft.lk/news/Farmers-urged-to-complete-sowing-by-mid-October-ahead-of-heavy-rains-El-Ni\u00f1o/56-796835",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-70c01aaf",
+    "num": "dailyftlk-70c01aaf",
+    "date_str": "2026-09-04",
+    "description": "Cleantech\u2019s Re-Circle wins Black Dragon award at Dragons of Sri Lanka Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/Cleantech-s-Re-Circle-wins-Black-Dragon-award-at-Dragons-of-Sri-Lanka-Awards-2026/34-796836",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-df5e20e2",
+    "num": "dailyftlk-df5e20e2",
+    "date_str": "2026-09-04",
+    "description": "NSB joins EDEX Expo Mid-Year 2026 as Official Banking Partner",
+    "url_metadata": "https://www.ft.lk/business/NSB-joins-EDEX-Expo-Mid-Year-2026-as-Official-Banking-Partner/34-796837",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-eebbde83",
+    "num": "dailyftlk-eebbde83",
+    "date_str": "2026-09-04",
+    "description": "ComBank takes Q+ digital payments drive to Jaffna ahead of Nallur Festival",
+    "url_metadata": "https://www.ft.lk/business/ComBank-takes-Q-digital-payments-drive-to-Jaffna-ahead-of-Nallur-Festival/34-796838",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788543983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailyftlk-09153f56",
+    "num": "dailyftlk-09153f56",
+    "date_str": "2026-09-04",
+    "description": "EDB and IESL strengthen capacity of future marine and offshore engineering professionals",
+    "url_metadata": "https://www.ft.lk/business/EDB-and-IESL-strengthen-capacity-of-future-marine-and-offshore-engineering-professionals/34-796839",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788544053.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-04-dailyftlk-8a5965be",
     "num": "dailyftlk-8a5965be",
     "date_str": "2026-09-04",
@@ -38920,5 +39030,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788548168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-393b58e6",
+    "num": "dailyftlk-393b58e6",
+    "date_str": "2026-09-05",
+    "description": "Sajith calls for national dialogue on constitutional reform, moots Constitutional Court",
+    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-national-dialogue-on-constitutional-reform-moots-Constitutional-Court/56-796858",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788548270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-eec24b61",
+    "num": "dailyftlk-eec24b61",
+    "date_str": "2026-09-05",
+    "description": "Audit Office grapples with staff retention, weak controls and modernisation challenges",
+    "url_metadata": "https://www.ft.lk/news/Audit-Office-grapples-with-staff-retention-weak-controls-and-modernisation-challenges/56-796859",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788548300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-3830517e",
+    "num": "dailyftlk-3830517e",
+    "date_str": "2026-09-05",
+    "description": "UN human rights report urges robust accountability and institutional reforms",
+    "url_metadata": "https://www.ft.lk/news/UN-human-rights-report-urges-robust-accountability-and-institutional-reforms/56-796860",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788548311.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-tamilmirrorlk-9910a90c",
+    "num": "tamilmirrorlk-9910a90c",
+    "date_str": "2026-09-05",
+    "description": "\u2019\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8 \u0b95\u0bcc\u0bb0\u0bb5\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1 \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8-\u0b95\u0bcc\u0bb0\u0bb5\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bbe\u0b95-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1-\u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-382363",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788559455.0
   }
 ]
