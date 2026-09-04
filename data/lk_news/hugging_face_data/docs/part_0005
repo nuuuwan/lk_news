@@ -38747,6 +38747,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-50a95eb6",
+    "num": "adalk-50a95eb6",
+    "date_str": "2026-09-04",
+    "description": "\u0d9c\u0dbd\u0dca \u0d85\u0d9f\u0dd4\u0dbb\u0dd4 \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dbd\u0dca-\u0d85\u0d9f\u0dd4\u0dbb\u0dd4-\u0dbb\u0dd0\u0d9c\u0dad\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2/11-424066",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788518863.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-04-dailymirrorlk-08f5a38c",
     "num": "dailymirrorlk-08f5a38c",
     "date_str": "2026-09-04",
@@ -38821,5 +38832,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788531566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-3681d66d",
+    "num": "dailymirrorlk-3681d66d",
+    "date_str": "2026-09-04",
+    "description": "Arrests will not deter public acceptance of politicians: UNP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Arrests-will-not-deter-public-acceptance-of-politicians-UNP/108-349488",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788532738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-e4673861",
+    "num": "dailymirrorlk-e4673861",
+    "date_str": "2026-09-04",
+    "description": "Defence challenges credibility of Nimal Perera in Namal Rajapaksa Airbus case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Defence-challenges-credibility-of-Nimal-Perera-in-Namal-Rajapaksa-Airbus-case/108-349489",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788533876.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-6ad5c907",
+    "num": "dailymirrorlk-6ad5c907",
+    "date_str": "2026-09-04",
+    "description": "250 Japanese tourists attend farewell ceremony",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/250-Japanese-tourists-attend-farewell-ceremony/110-349493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788537539.0
   }
 ]
