@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_08:08:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_10:04:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,353** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-tamilmirrorlk-4a666d18",
-    "num": "tamilmirrorlk-4a666d18",
+    "doc_id": "2026-09-04-dailymirrorlk-cac13084",
+    "num": "dailymirrorlk-cac13084",
     "date_str": "2026-09-04",
-    "description": "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-382345",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788488011.0
+    "description": "Namal arrives at Bribery Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-arrives-at-Bribery-Commission/108-349424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788495924.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-04 | `dailymirrorlk-cac13084` | Namal arrives at Bribery Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-cac13084)
+- 2026-09-04 | `dailymirrorlk-bc20b8a6` | 160th anniversary marked with pirith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-bc20b8a6)
+- 2026-09-04 | `dailymirrorlk-ce37926b` | Police do not send SMS or WhatsApp links for fine payments: Traffic DIG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-ce37926b)
+- 2026-09-04 | `dailymirrorlk-0b2e9864` | Police turn to professional designers for new uniform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-0b2e9864)
+- 2026-09-04 | `dailymirrorlk-334ac733` | IMF team to visit Sri Lanka for key economic review in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-334ac733)
+- 2026-09-04 | `dailymirrorlk-05ac2e38` | Man arrested for circulating ex-wife’s nude photographs on social media | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-05ac2e38)
+- 2026-09-04 | `tamilmirrorlk-5b598e7a` | இலவச IVF சிகிச்சை  பணத்திற்காக தடுக்கப்படுகின்றது - வினோ குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-5b598e7a)
+- 2026-09-04 | `dailyftlk-ce93693e` | El Niño 2026: From climate risk to economic risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-ce93693e)
+- 2026-09-04 | `dailymirrorlk-1d076c6c` | Namal Rajapaksa to appear before Bribery Commission today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-1d076c6c)
+- 2026-09-04 | `tamilmirrorlk-f33665f1` | காலநிலையில் இன்று ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-f33665f1)
+- 2026-09-04 | `dailyftlk-e5a5761d` | Minimum wage rankings can create the wrong picture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-e5a5761d)
+- 2026-09-04 | `dailyftlk-81f53041` | Why Sri Lanka’s National Business Facilitation Centre must rewrite rules of FX generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-81f53041)
+- 2026-09-04 | `dailyftlk-33f90319` | What produces economic growth — and what does economic growth produce? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-33f90319)
+- 2026-09-04 | `dailyftlk-5aaa23cc` | Sri Lanka cannot worship mothers in public while men trade women’s bodies in private | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-5aaa23cc)
+- 2026-09-04 | `dailyftlk-899fcf70` | What one small clinic tells us about Sri Lanka’s future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-899fcf70)
+- 2026-09-04 | `dailyftlk-4497b3ef` | Substance abuse and mental health in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-4497b3ef)
+- 2026-09-04 | `dailyftlk-42ea8669` | Child Rights Council 2026 empowers voices of disadvantaged youth in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-42ea8669)
 - 2026-09-04 | `tamilmirrorlk-4a666d18` | கொள்ளுப்பிட்டியில் துப்பாக்கிச் சூடு: இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-4a666d18)
 - 2026-09-04 | `tamilmirrorlk-2b44aaa6` | கனடாவின் ஒன்ராறியோவின் 3 தொகுதிகளில் இடைத்தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-2b44aaa6)
 - 2026-09-04 | `dailyftlk-1a37a8d8` | SJB stages Colombo Fort protest against 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-1a37a8d8)
-- 2026-09-04 | `dailyftlk-7b88d3fe` | Civil society groups lodge corruption complaint against 159 NPP MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-7b88d3fe)
-- 2026-09-04 | `dailyftlk-069e6bfe` | Namal summoned to appear before CIABOC today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-069e6bfe)
-- 2026-09-04 | `dailyftlk-b42aeebf` | Cabinet nod to gazette and table Community Based Corrections (Amendment) Bill for Parliament approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-b42aeebf)
-- 2026-09-04 | `dailyftlk-155ed128` | Cabinet nod to review quarantine law amid rising infectious disease risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-155ed128)
-- 2026-09-04 | `adalk-e6ef13b2` | කොල්ලුපිටිය මහල් නිවාස සංකීර්ණයක් අසළ වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-e6ef13b2)
-- 2026-09-04 | `tamilmirrorlk-d01726a3` | ஹார்முஸ் நீரிணையின் பெயரை ட்ரம்ப் நீரிணை என மாற்றலாமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-d01726a3)
-- 2026-09-04 | `tamilmirrorlk-07865624` | பஸ் மோதி 4 மாணவிகள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-07865624)
-- 2026-09-04 | `dailymirrorlk-21f1fbdd` | Two injured in Kollupitiya shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-21f1fbdd)
-- 2026-09-04 | `adalk-353cc10f` | ලංකා IOC රිදී ජූබිලිය සමග CSE සමාරම්භක සීනු හඬවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-353cc10f)
-- 2026-09-03 | `tamilmirrorlk-3bef5c30` | மேன்முறையீட்டு நீதிமன்ற நீதிபதியாக சஜீவனி தில்கா லக்மாலி பதவிப் பிரமாணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-3bef5c30)
-- 2026-09-03 | `dailymirrorlk-7672ccb0` | Sumanthiran’s post on natural justice sparks social media interest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-7672ccb0)
-- 2026-09-03 | `dailymirrorlk-c9829fdd` | ‘Become un-purchasable or leave the uniform’: President warns corrupt Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-c9829fdd)
-- 2026-09-03 | `tamilmirrorlk-6dddec80` | கொழும்பில் இருந்து மூன்று பாதைகளில் மின்சார ரயில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-tamilmirrorlk-6dddec80)
-- 2026-09-03 | `dailymirrorlk-40d1aab0` | UN Human Rights Office calls on Govt to bolster accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-40d1aab0)
-- 2026-09-03 | `dailymirrorlk-72f1727d` | Time to build a respected Police force: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-72f1727d)
-- 2026-09-03 | `dailymirrorlk-789038be` | President joins 160th Police Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-789038be)
-- 2026-09-03 | `dailymirrorlk-2e9833cc` | Three Colombo rail routes to get electric trains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-03-dailymirrorlk-2e9833cc)
 
 ---
 
