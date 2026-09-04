@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_15:58:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_18:10:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,459** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,466** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-87e07689",
-    "num": "dailymirrorlk-87e07689",
+    "doc_id": "2026-09-04-dailymirrorlk-1562cbf7",
+    "num": "dailymirrorlk-1562cbf7",
     "date_str": "2026-09-04",
-    "description": "First coal shipment arrives in Puttalam for Norochcholai power plant",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/First-coal-shipment-arrives-in-Puttalam-for-Norochcholai-power-plant/108-349477",
+    "description": "Namal Rajapaksa remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-remanded/108-349482",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788515244.0
+    "time_ut": 1788524296.0
 }
 ```
 
@@ -41,8 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-04 | `dailymirrorlk-1562cbf7` | Namal Rajapaksa remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-1562cbf7)
+- 2026-09-04 | `dailymirrorlk-08f5a38c` | Why was Namal Rajapaksa arrested? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-08f5a38c)
+- 2026-09-04 | `dailymirrorlk-0b2538b8` | British army told to stop non-essential training exercises to save money | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-0b2538b8)
+- 2026-09-04 | `adalk-5a0bed87` | ජුලි මාසයේදී වාහන ආනයනයට ඩො.මි. 180ක් වැය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-5a0bed87)
+- 2026-09-04 | `adalk-62f11235` | කාන්තාවකට කඳුකර කොටි ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-62f11235)
+- 2026-09-04 | `adalk-f5c42302` | නේපාල 1287ක්, ටිබෙටයේ 21ක් ගංවතුර නිසා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-f5c42302)
 - 2026-09-04 | `dailymirrorlk-87e07689` | First coal shipment arrives in Puttalam for Norochcholai power plant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-87e07689)
 - 2026-09-04 | `dailymirrorlk-398f59fe` | Metro Bus aims to establish new public transport culture: Presidential Secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-398f59fe)
+- 2026-09-04 | `adalk-a8369c16` | නාමල් රාජපක්ෂ රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-a8369c16)
 - 2026-09-04 | `adalk-81c6769c` | නාමල් රාජපක්ෂ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-81c6769c)
 - 2026-09-04 | `dailymirrorlk-a1370f24` | Bribery Commission arrests Namal after five-hour questioning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-a1370f24)
 - 2026-09-04 | `dailymirrorlk-dde16a1b` | SC concludes hearing into Anti-Corruption (Amendment) Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-dde16a1b)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-04 | `dailymirrorlk-d3666b29` | HNB Life-Pan Asia Banking Corporation expand insurance reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-d3666b29)
 - 2026-09-04 | `dailymirrorlk-f36890f4` | Suspected remains of missing Fast Attack Craft officer recovered | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-f36890f4)
 - 2026-09-04 | `dailymirrorlk-9e6f7dcb` | Missing sailor’s remains recovered after 20-day search | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-9e6f7dcb)
-- 2026-09-04 | `tamilmirrorlk-c9c176ef` | கொழும்பில் துப்பாக்கிச் சூடு: தம்பதியர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-c9c176ef)
-- 2026-09-04 | `dailymirrorlk-7050468c` | Two drowned after boat capsizes in Kattankudy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-7050468c)
-- 2026-09-04 | `tamilmirrorlk-f0500d3d` | மீரியபெத்தையில் நீரில் மூழ்கி 15 வயது சிறுமி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-f0500d3d)
-- 2026-09-04 | `tamilmirrorlk-69329bb6` | “10 ஆண்டுகளாக உடலுறவு இல்லை..” கணவனுக்கு மனைவி கொடுத்த நூதன தண்டனை’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-69329bb6)
-- 2026-09-04 | `tamilmirrorlk-a1fc6733` | நேபாளத்தில் இந்து பக்தர்களும் பலரை காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-a1fc6733)
-- 2026-09-04 | `dailymirrorlk-5cd6ccef` | Bribery Commission reveals charges against Johnston | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-5cd6ccef)
-- 2026-09-04 | `tamilmirrorlk-8514fa80` | சுரங்கப்பாதையில் இருந்து 9 நாட்களுக்குப் பிறகு 2 தொழிலாளர்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-8514fa80)
 
 ---
 
