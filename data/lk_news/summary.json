@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-04 12:07:53",
-  "n_docs": 129414,
+  "time_updated": "2026-09-04 14:05:47",
+  "n_docs": 129447,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129414,
+  "n_docs_with_text": 129447,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-04",
-  "dataset_size": 2014710997,
+  "dataset_size": 2015135385,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-dffa1871",
-    "num": "dailymirrorlk-dffa1871",
+    "doc_id": "2026-09-04-dailymirrorlk-653aeb13",
+    "num": "dailymirrorlk-653aeb13",
     "date_str": "2026-09-04",
-    "description": "Royal College Archers Shine at Wayamba Youth and Junior Archery Championship, 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Royal-College-Archers-Shine-at-Wayamba-Youth-and-Junior-Archery-Championship-2026/108-349445",
+    "description": "LCB Finance opens 26th branch in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/business/LCB-Finance-opens-26th-branch-in-Anuradhapura/215-349468",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788502354.0
+    "time_ut": 1788509977.0
   }
 }
