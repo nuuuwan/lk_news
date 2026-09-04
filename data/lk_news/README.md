@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_10:04:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_12:08:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,414** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-04-dailymirrorlk-cac13084",
-    "num": "dailymirrorlk-cac13084",
+    "doc_id": "2026-09-04-dailymirrorlk-dffa1871",
+    "num": "dailymirrorlk-dffa1871",
     "date_str": "2026-09-04",
-    "description": "Namal arrives at Bribery Commission",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-arrives-at-Bribery-Commission/108-349424",
+    "description": "Royal College Archers Shine at Wayamba Youth and Junior Archery Championship, 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Royal-College-Archers-Shine-at-Wayamba-Youth-and-Junior-Archery-Championship-2026/108-349445",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788495924.0
+    "time_ut": 1788502354.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-09-04 | `dailymirrorlk-cac13084` | Namal arrives at Bribery Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-cac13084)
-- 2026-09-04 | `dailymirrorlk-bc20b8a6` | 160th anniversary marked with pirith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-bc20b8a6)
-- 2026-09-04 | `dailymirrorlk-ce37926b` | Police do not send SMS or WhatsApp links for fine payments: Traffic DIG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-ce37926b)
-- 2026-09-04 | `dailymirrorlk-0b2e9864` | Police turn to professional designers for new uniform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-0b2e9864)
-- 2026-09-04 | `dailymirrorlk-334ac733` | IMF team to visit Sri Lanka for key economic review in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-334ac733)
-- 2026-09-04 | `dailymirrorlk-05ac2e38` | Man arrested for circulating ex-wife’s nude photographs on social media | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-05ac2e38)
-- 2026-09-04 | `tamilmirrorlk-5b598e7a` | இலவச IVF சிகிச்சை  பணத்திற்காக தடுக்கப்படுகின்றது - வினோ குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-5b598e7a)
-- 2026-09-04 | `dailyftlk-ce93693e` | El Niño 2026: From climate risk to economic risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-ce93693e)
-- 2026-09-04 | `dailymirrorlk-1d076c6c` | Namal Rajapaksa to appear before Bribery Commission today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-1d076c6c)
-- 2026-09-04 | `tamilmirrorlk-f33665f1` | காலநிலையில் இன்று ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-f33665f1)
-- 2026-09-04 | `dailyftlk-e5a5761d` | Minimum wage rankings can create the wrong picture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-e5a5761d)
-- 2026-09-04 | `dailyftlk-81f53041` | Why Sri Lanka’s National Business Facilitation Centre must rewrite rules of FX generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-81f53041)
-- 2026-09-04 | `dailyftlk-33f90319` | What produces economic growth — and what does economic growth produce? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-33f90319)
-- 2026-09-04 | `dailyftlk-5aaa23cc` | Sri Lanka cannot worship mothers in public while men trade women’s bodies in private | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-5aaa23cc)
-- 2026-09-04 | `dailyftlk-899fcf70` | What one small clinic tells us about Sri Lanka’s future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-899fcf70)
-- 2026-09-04 | `dailyftlk-4497b3ef` | Substance abuse and mental health in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-4497b3ef)
-- 2026-09-04 | `dailyftlk-42ea8669` | Child Rights Council 2026 empowers voices of disadvantaged youth in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-42ea8669)
-- 2026-09-04 | `tamilmirrorlk-4a666d18` | கொள்ளுப்பிட்டியில் துப்பாக்கிச் சூடு: இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-4a666d18)
-- 2026-09-04 | `tamilmirrorlk-2b44aaa6` | கனடாவின் ஒன்ராறியோவின் 3 தொகுதிகளில் இடைத்தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-2b44aaa6)
-- 2026-09-04 | `dailyftlk-1a37a8d8` | SJB stages Colombo Fort protest against 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-1a37a8d8)
+- 2026-09-04 | `dailymirrorlk-dffa1871` | Royal College Archers Shine at Wayamba Youth and Junior Archery Championship, 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-dffa1871)
+- 2026-09-04 | `dailymirrorlk-8f4090d1` | Dengue cases fall, but Sri Lanka not out of the woods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-8f4090d1)
+- 2026-09-04 | `dailymirrorlk-82248ba3` | Sun directly overhead over six areas today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-82248ba3)
+- 2026-09-04 | `dailymirrorlk-6827d009` | Asalanka to lead Sri Lanka for England T20Is as Mendis sits out | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-6827d009)
+- 2026-09-04 | `tamilmirrorlk-bcfb126e` | நாமல் ராஜபக்ஷவும் ஆஜர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-bcfb126e)
+- 2026-09-04 | `dailymirrorlk-9700abec` | Namal ready for independent investigations, says political future rests with people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-9700abec)
+- 2026-09-04 | `dailymirrorlk-df7eaeb7` | Legal fraternity voices concern as experienced judge retires without elevation to SC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-df7eaeb7)
+- 2026-09-04 | `tamilmirrorlk-5c8f827e` | மஹிந்தவுக்கு கதிரைகள்: முன்னாள் அமைச்சர் ஜோன்ஸ்டன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-5c8f827e)
+- 2026-09-04 | `dailymirrorlk-77a2910a` | U.S. maritime chiefs to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-77a2910a)
+- 2026-09-04 | `tamilmirrorlk-a8671b2b` | 160 ஆவது பொலிஸ் தின நிகழ்வுகள்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-a8671b2b)
+- 2026-09-04 | `adalk-3d2eda62` | හිටපු ඇමති ජොන්ස්ටන් ප්‍රනාන්දු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-adalk-3d2eda62)
+- 2026-09-04 | `dailymirrorlk-ed7df8a8` | Johnston Fernando arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-ed7df8a8)
+- 2026-09-04 | `dailymirrorlk-bd604f2a` | ’’Never asked mahout to produce elephant before police’’ - DIG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-bd604f2a)
+- 2026-09-04 | `tamilmirrorlk-0f4b8177` | பாம்பு தீண்டிய நாவற்பழத்தை உண்ட சிறுவன் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-0f4b8177)
+- 2026-09-04 | `tamilmirrorlk-66634aeb` | அமெரிக்க முக்கிய அதிகாரிகள் இருவர் இலங்கைக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-66634aeb)
+- 2026-09-04 | `dailymirrorlk-b01ef7ba` | CEJ installs awareness boards in Anuradhapura to promote human-elephant coexistence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-b01ef7ba)
+- 2026-09-04 | `dailymirrorlk-36ac39b0` | Sri Lanka, Bhutan discuss closer cooperation in education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-36ac39b0)
+- 2026-09-04 | `dailymirrorlk-57725e87` | Rs. 250 mn cancer drugs at risk of being destroyed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-57725e87)
+- 2026-09-04 | `tamilmirrorlk-dab01175` | பஸ் மோதி இளம் தாய் பலி: தந்தை காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-tamilmirrorlk-dab01175)
+- 2026-09-04 | `dailymirrorlk-5ba96642` | Senior parliament staff summoned to CIABOC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailymirrorlk-5ba96642)
 
 ---
 
