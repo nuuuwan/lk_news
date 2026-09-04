@@ -35821,6 +35821,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-03-adalk-d8e2c5d7",
+    "num": "adalk-d8e2c5d7",
+    "date_str": "2026-09-03",
+    "description": "Salesforce \u0dc3\u0db8\u0d9c John Keells \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/Salesforce-\u0dc3\u0db8\u0d9c-John-Keells-\u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/7-424029",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788398568.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-03-dailyftlk-45ad7b16",
     "num": "dailyftlk-45ad7b16",
     "date_str": "2026-09-03",
@@ -37347,5 +37358,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788458354.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-353cc10f",
+    "num": "adalk-353cc10f",
+    "date_str": "2026-09-04",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf IOC \u0dbb\u0dd2\u0daf\u0dd3 \u0da2\u0dd6\u0db6\u0dd2\u0dbd\u0dd2\u0dba \u0dc3\u0db8\u0d9c CSE \u0dc3\u0db8\u0dcf\u0dbb\u0db8\u0dca\u0db7\u0d9a \u0dc3\u0dd3\u0db1\u0dd4 \u0dc4\u0dac\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dbd\u0d82\u0d9a\u0dcf-IOC-\u0dbb\u0dd2\u0daf\u0dd3-\u0da2\u0dd6\u0db6\u0dd2\u0dbd\u0dd2\u0dba-\u0dc3\u0db8\u0d9c-CSE-\u0dc3\u0db8\u0dcf\u0dbb\u0db8\u0dca\u0db7\u0d9a-\u0dc3\u0dd3\u0db1\u0dd4-\u0dc4\u0dac\u0dc0\u0dba\u0dd2/7-424046",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788481740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-21f1fbdd",
+    "num": "dailymirrorlk-21f1fbdd",
+    "date_str": "2026-09-04",
+    "description": "Two injured in Kollupitiya shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-injured-in-Kollupitiya-shooting/108-349415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788481862.0
   }
 ]
