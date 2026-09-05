@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_08:02:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_10:01:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,499** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,506** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-tamilmirrorlk-779597e5",
-    "num": "tamilmirrorlk-779597e5",
+    "doc_id": "2026-09-05-dailymirrorlk-f9fd63c9",
+    "num": "dailymirrorlk-f9fd63c9",
     "date_str": "2026-09-05",
-    "description": "\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: 8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-8-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-382366",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788574279.0
+    "description": "UN votes to adopt new map that makes our world look very different",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-votes-to-adopt-new-map-that-makes-our-world-look-very-different/108-349524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788581635.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-05 | `dailymirrorlk-f9fd63c9` | UN votes to adopt new map that makes our world look very different | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-f9fd63c9)
+- 2026-09-05 | `dailymirrorlk-dc624521` | Shooting in Boralesgamuwa leaves 74-year-old man dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-dc624521)
+- 2026-09-05 | `dailymirrorlk-dedf6cf2` | Litro gas prices slashed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-dedf6cf2)
+- 2026-09-05 | `dailymirrorlk-06762db7` | Australia blocks international students from enrolling in graduate diploma course | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-06762db7)
+- 2026-09-05 | `adalk-c39cd500` | චින ජාතිකයා ඝාතනයට තවත් චීන ජාතිකයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-c39cd500)
 - 2026-09-05 | `tamilmirrorlk-779597e5` | நள்ளிரவில் கார் விபத்து: 8 மாணவர்கள் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-tamilmirrorlk-779597e5)
 - 2026-09-05 | `tamilmirrorlk-7ce6640e` | முதற்கட்ட வெள்ள நிவாரண திட்டத்தை அறிவித்தது நேபாள அரசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-tamilmirrorlk-7ce6640e)
 - 2026-09-05 | `tamilmirrorlk-a1dd1e5f` | நேபாளத்தில் வெள்ளத்தில் சிக்கிய 275 இந்தியர்களைக் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-tamilmirrorlk-a1dd1e5f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-04 | `dailyftlk-09153f56` | EDB and IESL strengthen capacity of future marine and offshore engineering professionals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-09153f56)
 - 2026-09-04 | `dailyftlk-eebbde83` | ComBank takes Q+ digital payments drive to Jaffna ahead of Nallur Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-eebbde83)
 - 2026-09-04 | `dailyftlk-df5e20e2` | NSB joins EDEX Expo Mid-Year 2026 as Official Banking Partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-df5e20e2)
-- 2026-09-04 | `dailyftlk-70c01aaf` | Cleantech’s Re-Circle wins Black Dragon award at Dragons of Sri Lanka Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-70c01aaf)
-- 2026-09-04 | `dailyftlk-89a056bf` | Farmers urged to complete sowing by mid-October ahead of heavy rains, El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-89a056bf)
-- 2026-09-04 | `dailyftlk-0f1ec8e1` | Agrarian Insurance Board to compensate drought-hit farmers within two weeks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-0f1ec8e1)
-- 2026-09-04 | `dailyftlk-edd14183` | Diplomatic Corps witness Kandy Esala Perahera, experience cultural heritage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-edd14183)
-- 2026-09-04 | `dailyftlk-7614c03c` | Japan donates Rs. 112 m worth 8 environmentally-friendly large low-floor buses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-7614c03c)
 
 ---
 

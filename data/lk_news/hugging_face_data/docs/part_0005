@@ -38758,6 +38758,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-04-adalk-134cc530",
+    "num": "adalk-134cc530",
+    "date_str": "2026-09-04",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda \u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4 27000",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda-\u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4-27000/11-424067",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788519383.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-04-dailymirrorlk-08f5a38c",
     "num": "dailymirrorlk-08f5a38c",
     "date_str": "2026-09-04",
@@ -38854,6 +38865,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788533876.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-0f6f768a",
+    "num": "dailymirrorlk-0f6f768a",
+    "date_str": "2026-09-04",
+    "description": "Australia, Singapore, France and U.S. assisted in investigation, says Deputy Solicitor General",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-Singapore-France-and-U-S-assisted-in-investigation-says-Deputy-Solicitor-General/108-349490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788535207.0
   },
   {
     "doc_type": "lk_news",
@@ -39107,5 +39129,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788574279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-adalk-c39cd500",
+    "num": "adalk-c39cd500",
+    "date_str": "2026-09-05",
+    "description": "\u0da0\u0dd2\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0da0\u0dd3\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dd2\u0db1-\u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dad\u0dc0\u0dad\u0dca-\u0da0\u0dd3\u0db1-\u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424068",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788577513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-06762db7",
+    "num": "dailymirrorlk-06762db7",
+    "date_str": "2026-09-05",
+    "description": "Australia blocks international students from enrolling in graduate diploma course",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-blocks-international-students-from-enrolling-in-graduate-diploma-course/108-349521",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788578406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-dedf6cf2",
+    "num": "dailymirrorlk-dedf6cf2",
+    "date_str": "2026-09-05",
+    "description": "Litro gas prices slashed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Litro-gas-prices-slashed/108-349522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788580565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-dc624521",
+    "num": "dailymirrorlk-dc624521",
+    "date_str": "2026-09-05",
+    "description": "Shooting in Boralesgamuwa leaves 74-year-old man dead",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shooting-in-Boralesgamuwa-leaves-74-year-old-man-dead/108-349523",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788580777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-f9fd63c9",
+    "num": "dailymirrorlk-f9fd63c9",
+    "date_str": "2026-09-05",
+    "description": "UN votes to adopt new map that makes our world look very different",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-votes-to-adopt-new-map-that-makes-our-world-look-very-different/108-349524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788581635.0
   }
 ]
