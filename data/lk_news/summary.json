@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-06 01:55:28",
-  "n_docs": 129548,
+  "time_updated": "2026-09-06 03:52:55",
+  "n_docs": 129550,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129548,
+  "n_docs_with_text": 129550,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-05",
-  "dataset_size": 2016753945,
+  "date_str_max": "2026-09-06",
+  "dataset_size": 2016760429,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailymirrorlk-ead6f5b7",
-    "num": "dailymirrorlk-ead6f5b7",
-    "date_str": "2026-09-05",
-    "description": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/U-S-attacks-3-Iranian-oil-tankers-after-missiles-target-Navy-warships/108-349555",
+    "doc_id": "2026-09-06-dailymirrorlk-087c0230",
+    "num": "dailymirrorlk-087c0230",
+    "date_str": "2026-09-06",
+    "description": "Sri Lanka women face Bangladesh in Asia Cup group B clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-women-face-Bangladesh-in-Asia-Cup-group-B-clash/108-349557",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788622116.0
+    "time_ut": 1788642051.0
   }
 }

@@ -39646,5 +39646,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788622116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-aebb0d82",
+    "num": "dailymirrorlk-aebb0d82",
+    "date_str": "2026-09-06",
+    "description": "Pathirage makes Diamond League history",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pathirage-makes-Diamond-League-history/108-349556",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788640878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-087c0230",
+    "num": "dailymirrorlk-087c0230",
+    "date_str": "2026-09-06",
+    "description": "Sri Lanka women face Bangladesh in Asia Cup group B clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-women-face-Bangladesh-in-Asia-Cup-group-B-clash/108-349557",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788642051.0
   }
 ]
