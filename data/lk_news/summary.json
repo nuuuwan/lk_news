@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-05 12:04:11",
-  "n_docs": 129508,
+  "time_updated": "2026-09-05 14:00:39",
+  "n_docs": 129536,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129508,
+  "n_docs_with_text": 129536,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-05",
-  "dataset_size": 2016308661,
+  "dataset_size": 2016418639,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailymirrorlk-f290fbda",
-    "num": "dailymirrorlk-f290fbda",
+    "doc_id": "2026-09-05-adalk-155544f3",
+    "num": "adalk-155544f3",
     "date_str": "2026-09-05",
-    "description": "Dehiwala Traffic OIC reportedly leaves post over work pressure",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dehiwala-Traffic-OIC-reportedly-leaves-post-over-work-pressure/108-349526",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788584162.0
+    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-424071",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788595609.0
   }
 }

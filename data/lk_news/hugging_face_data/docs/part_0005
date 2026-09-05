@@ -38879,6 +38879,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-e83fa2b0",
+    "num": "dailymirrorlk-e83fa2b0",
+    "date_str": "2026-09-04",
+    "description": "Past wrongdoing will be treated equally: Govt",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Past-wrongdoing-will-be-treated-equally-Govt/108-349491",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788535341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-04-dailymirrorlk-c5ead506",
+    "num": "dailymirrorlk-c5ead506",
+    "date_str": "2026-09-04",
+    "description": "No concerns raised over Iranian vessels anchored off Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-concerns-raised-over-Iranian-vessels-anchored-off-Sri-Lanka/108-349492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788535471.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-04-dailymirrorlk-6ad5c907",
     "num": "dailymirrorlk-6ad5c907",
     "date_str": "2026-09-04",
@@ -39088,6 +39110,237 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-a6ab323e",
+    "num": "dailymirrorlk-a6ab323e",
+    "date_str": "2026-09-05",
+    "description": "Lions District 306D4 installs new Cabinet",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Lions-District-306D4-installs-new-Cabinet/273-349494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551154.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-b167e584",
+    "num": "dailymirrorlk-b167e584",
+    "date_str": "2026-09-05",
+    "description": "SDG strengthens employee leadership through int\u2019l learning in Thailand",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SDG-strengthens-employee-leadership-through-intl-learning-in-Thailand/273-349495",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-f37e1541",
+    "num": "dailymirrorlk-f37e1541",
+    "date_str": "2026-09-05",
+    "description": "Fabindia Sri Lanka celebrates first year of operations",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Fabindia-Sri-Lanka-celebrates-first-year-of-operations/273-349496",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551393.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-309fcef1",
+    "num": "dailymirrorlk-309fcef1",
+    "date_str": "2026-09-05",
+    "description": "Rosamund Pike visits Galle Face Hotel during humanitarian mission to SL",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Rosamund-Pike-visits-Galle-Face-Hotel-during-humanitarian-mission-to-SL/273-349497",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-234b7a37",
+    "num": "dailymirrorlk-234b7a37",
+    "date_str": "2026-09-05",
+    "description": "Adikted enters Colombo\u2019s food scene",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Adikted-enters-Colombos-food-scene/273-349498",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-3fe44ded",
+    "num": "dailymirrorlk-3fe44ded",
+    "date_str": "2026-09-05",
+    "description": "\u2018Summer Salt\u2019 - New entertainment venue in Hikkaduwa",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Summer-Salt-New-entertainment-venue-in-Hikkaduwa/273-349499",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-d6ecf80e",
+    "num": "dailymirrorlk-d6ecf80e",
+    "date_str": "2026-09-05",
+    "description": "Panda Love seeks franchise partners to accelerate nationwide growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Panda-Love-seeks-franchise-partners-to-accelerate-nationwide-growth/273-349500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-2c56bead",
+    "num": "dailymirrorlk-2c56bead",
+    "date_str": "2026-09-05",
+    "description": "Toronto-based fashion brand Arv\u00e9noir expands into Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Toronto-based-fashion-brand-Arv\u00e9noir-expands-into-Sri-Lanka/273-349501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788551957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-a4f51189",
+    "num": "dailymirrorlk-a4f51189",
+    "date_str": "2026-09-05",
+    "description": "Gunda Power\u2019s CSR initiative illuminates children\u2019s futures through solar energy",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Gunda-Powers-CSR-initiative-illuminates-childrens-futures-through-solar-energy/273-349502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788553279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-b75b2924",
+    "num": "dailymirrorlk-b75b2924",
+    "date_str": "2026-09-05",
+    "description": "LOLC Life Assurance rewards young talent",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LOLC-Life-Assurance-rewards-young-talent/273-349503",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788553571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-df24f1a3",
+    "num": "dailymirrorlk-df24f1a3",
+    "date_str": "2026-09-05",
+    "description": "Ceylinco Life brings premium policyholders closer to magic of Kandy Perahera",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylinco-Life-brings-premium-policyholders-closer-to-magic-of-Kandy-Perahera/273-349504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788553716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-047022ab",
+    "num": "dailymirrorlk-047022ab",
+    "date_str": "2026-09-05",
+    "description": "Fems with govt. continues to support \u2018Thilinapath\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Fems-with-govt-continues-to-support-Thilinapath/273-349505",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788553829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-9540cefb",
+    "num": "dailymirrorlk-9540cefb",
+    "date_str": "2026-09-05",
+    "description": "People\u2019s Bank\u2019s landmark CSR initiative to reduce elephant-train collisions",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Banks-landmark-CSR-initiative-to-reduce-elephant-train-collisions/273-349506",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788554032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-dd76ffb4",
+    "num": "dailymirrorlk-dd76ffb4",
+    "date_str": "2026-09-05",
+    "description": "Week ends in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-green/273-349507",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788554267.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-9a8ce3d9",
+    "num": "dailymirrorlk-9a8ce3d9",
+    "date_str": "2026-09-05",
+    "description": "Yield curve stays anchored despite modest selling",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yield-curve-stays-anchored-despite-modest-selling/273-349508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788554574.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-310fd72f",
+    "num": "dailymirrorlk-310fd72f",
+    "date_str": "2026-09-05",
+    "description": "Ratnapura takes centre stage in Sri Lanka\u2019s global gem trade push",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ratnapura-takes-centre-stage-in-Sri-Lankas-global-gem-trade-push/273-349509",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788554725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-4bbc317d",
+    "num": "dailymirrorlk-4bbc317d",
+    "date_str": "2026-09-05",
+    "description": "Rs.3bn allocated to cushion drought impact on agricultural sector",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Rs-3bn-allocated-to-cushion-drought-impact-on-agricultural-sector/273-349510",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788554829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-334ac733",
+    "num": "dailymirrorlk-334ac733",
+    "date_str": "2026-09-05",
+    "description": "IMF team to visit Sri Lanka for key economic review in September",
+    "url_metadata": "https://www.dailymirror.lk/business-news/IMF-team-to-visit-Sri-Lanka-for-key-economic-review-in-September/273-349511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788555072.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-7e37f666",
+    "num": "dailymirrorlk-7e37f666",
+    "date_str": "2026-09-05",
+    "description": "Colombo Tea Auction firms on better grades, poorer teas stay sluggish",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Colombo-Tea-Auction-firms-on-better-grades-poorer-teas-stay-sluggish/273-349512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788555177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-4200eae0",
+    "num": "dailymirrorlk-4200eae0",
+    "date_str": "2026-09-05",
+    "description": "Sri Lanka far behind regional rivals in capturing China\u2019s apparel exodus\u2013 JAAF",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Sri-Lanka-far-behind-regional-rivals-in-capturing-Chinas-apparel-exodus-JAAF/245-349513",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788555366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-af235241",
+    "num": "dailymirrorlk-af235241",
+    "date_str": "2026-09-05",
+    "description": "Is climate change responsible for Nepal\u2019s disaster?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Is-climate-change-responsible-for-Nepals-disaster/172-349514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788556443.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-05-tamilmirrorlk-9910a90c",
     "num": "tamilmirrorlk-9910a90c",
     "date_str": "2026-09-05",
@@ -39096,6 +39349,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788559455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-26dd8c4d",
+    "num": "dailymirrorlk-26dd8c4d",
+    "date_str": "2026-09-05",
+    "description": "Their letter which was never meant for us",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Their-letter-which-was-never-meant-for-us/172-349520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788559853.0
   },
   {
     "doc_type": "lk_news",
@@ -39176,6 +39440,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-05-adalk-42d24b08",
+    "num": "adalk-42d24b08",
+    "date_str": "2026-09-05",
+    "description": "\u0dc0\u0db1 \u0d85\u0dbd\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dc4\u0dbb\u0daf\u0dd3 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0db1-\u0d85\u0dbd\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dc4\u0dbb\u0daf\u0dd3-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-424069",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788581244.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-05-dailymirrorlk-f9fd63c9",
     "num": "dailymirrorlk-f9fd63c9",
     "date_str": "2026-09-05",
@@ -39206,5 +39481,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788584162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-fd3d3a50",
+    "num": "dailymirrorlk-fd3d3a50",
+    "date_str": "2026-09-05",
+    "description": "Tea and milk tea prices reduced by Rs. 5",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tea-and-milk-tea-prices-reduced-by-Rs-5/108-349545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788593198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-92690ecb",
+    "num": "dailymirrorlk-92690ecb",
+    "date_str": "2026-09-05",
+    "description": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
+    "url_metadata": "https://www.dailymirror.lk/international/Malaysia-declares-emergency-in-Sarawak-as-haze-from-Indonesia-worsens/107-349546",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788594697.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-adalk-155544f3",
+    "num": "adalk-155544f3",
+    "date_str": "2026-09-05",
+    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-424071",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788595609.0
   }
 ]
