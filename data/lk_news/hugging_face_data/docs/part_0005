@@ -39558,5 +39558,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788607673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-47cf4ef0",
+    "num": "dailymirrorlk-47cf4ef0",
+    "date_str": "2026-09-05",
+    "description": "AI safety systems to be piloted on long-distance private buses",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AI-safety-systems-to-be-piloted-on-long-distance-private-buses/108-349549",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788612842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-fcde9252",
+    "num": "dailymirrorlk-fcde9252",
+    "date_str": "2026-09-05",
+    "description": "Alcohol, drugs completely banned at events using school logos",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Alcohol-drugs-completely-banned-at-events-using-school-logos/108-349550",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788613627.0
   }
 ]
