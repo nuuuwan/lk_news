@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_10:01:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_12:05:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,506** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailymirrorlk-f9fd63c9",
-    "num": "dailymirrorlk-f9fd63c9",
+    "doc_id": "2026-09-05-dailymirrorlk-f290fbda",
+    "num": "dailymirrorlk-f290fbda",
     "date_str": "2026-09-05",
-    "description": "UN votes to adopt new map that makes our world look very different",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-votes-to-adopt-new-map-that-makes-our-world-look-very-different/108-349524",
+    "description": "Dehiwala Traffic OIC reportedly leaves post over work pressure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dehiwala-Traffic-OIC-reportedly-leaves-post-over-work-pressure/108-349526",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788581635.0
+    "time_ut": 1788584162.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-05 | `dailymirrorlk-f290fbda` | Dehiwala Traffic OIC reportedly leaves post over work pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-f290fbda)
+- 2026-09-05 | `dailymirrorlk-2f3badee` | New York City imposes year-long AI ban for younger students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-2f3badee)
 - 2026-09-05 | `dailymirrorlk-f9fd63c9` | UN votes to adopt new map that makes our world look very different | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-f9fd63c9)
 - 2026-09-05 | `dailymirrorlk-dc624521` | Shooting in Boralesgamuwa leaves 74-year-old man dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-dc624521)
 - 2026-09-05 | `dailymirrorlk-dedf6cf2` | Litro gas prices slashed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-dedf6cf2)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-04 | `dailyftlk-2cd83f2e` | The Rajarata roots of Prof. Patrick Mendis: The quintessential son of our motherland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-2cd83f2e)
 - 2026-09-04 | `dailyftlk-8a5965be` | A neighbour’s view of India’s strategic strengths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-8a5965be)
 - 2026-09-04 | `dailyftlk-09153f56` | EDB and IESL strengthen capacity of future marine and offshore engineering professionals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-09153f56)
-- 2026-09-04 | `dailyftlk-eebbde83` | ComBank takes Q+ digital payments drive to Jaffna ahead of Nallur Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-eebbde83)
-- 2026-09-04 | `dailyftlk-df5e20e2` | NSB joins EDEX Expo Mid-Year 2026 as Official Banking Partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-04-dailyftlk-df5e20e2)
 
 ---
 

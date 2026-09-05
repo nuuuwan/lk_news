@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-05 10:00:01",
-  "n_docs": 129506,
+  "time_updated": "2026-09-05 12:04:11",
+  "n_docs": 129508,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129506,
+  "n_docs_with_text": 129508,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-05",
-  "dataset_size": 2016254719,
+  "dataset_size": 2016308661,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailymirrorlk-f9fd63c9",
-    "num": "dailymirrorlk-f9fd63c9",
+    "doc_id": "2026-09-05-dailymirrorlk-f290fbda",
+    "num": "dailymirrorlk-f290fbda",
     "date_str": "2026-09-05",
-    "description": "UN votes to adopt new map that makes our world look very different",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-votes-to-adopt-new-map-that-makes-our-world-look-very-different/108-349524",
+    "description": "Dehiwala Traffic OIC reportedly leaves post over work pressure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dehiwala-Traffic-OIC-reportedly-leaves-post-over-work-pressure/108-349526",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788581635.0
+    "time_ut": 1788584162.0
   }
 }
