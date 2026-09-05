@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-05 14:00:39",
-  "n_docs": 129536,
+  "time_updated": "2026-09-05 15:53:38",
+  "n_docs": 129538,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129536,
+  "n_docs_with_text": 129538,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-05",
-  "dataset_size": 2016418639,
+  "dataset_size": 2016654632,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-adalk-155544f3",
-    "num": "adalk-155544f3",
+    "doc_id": "2026-09-05-dailyftlk-92c3f6eb",
+    "num": "dailyftlk-92c3f6eb",
     "date_str": "2026-09-05",
-    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-424071",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1788595609.0
+    "description": "Asia Pacific Media Forum opens in Shenzheng, China",
+    "url_metadata": "https://www.ft.lk/news/Asia-Pacific-Media-Forum-opens-in-Shenzheng-China/56-796872",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788602697.0
   }
 }

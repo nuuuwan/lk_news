@@ -39514,5 +39514,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1788595609.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailymirrorlk-5fca8ea6",
+    "num": "dailymirrorlk-5fca8ea6",
+    "date_str": "2026-09-05",
+    "description": "President moves to fast-track Lower Malwathu Oya Project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-moves-to-fast-track-Lower-Malwathu-Oya-Project/108-349547",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788602103.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-05-dailyftlk-92c3f6eb",
+    "num": "dailyftlk-92c3f6eb",
+    "date_str": "2026-09-05",
+    "description": "Asia Pacific Media Forum opens in Shenzheng, China",
+    "url_metadata": "https://www.ft.lk/news/Asia-Pacific-Media-Forum-opens-in-Shenzheng-China/56-796872",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788602697.0
   }
 ]
