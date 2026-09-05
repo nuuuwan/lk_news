@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-05 15:53:38",
-  "n_docs": 129538,
+  "time_updated": "2026-09-05 18:01:48",
+  "n_docs": 129540,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129538,
+  "n_docs_with_text": 129540,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-05",
-  "dataset_size": 2016654632,
+  "dataset_size": 2016672778,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailyftlk-92c3f6eb",
-    "num": "dailyftlk-92c3f6eb",
+    "doc_id": "2026-09-05-dailymirrorlk-5087641b",
+    "num": "dailymirrorlk-5087641b",
     "date_str": "2026-09-05",
-    "description": "Asia Pacific Media Forum opens in Shenzheng, China",
-    "url_metadata": "https://www.ft.lk/news/Asia-Pacific-Media-Forum-opens-in-Shenzheng-China/56-796872",
+    "description": "House worth over Rs. 15 Mn frozen under Money Laundering Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/House-worth-over-Rs-15-Mn-frozen-under-Money-Laundering-Act/108-349548",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788602697.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788607673.0
   }
 }

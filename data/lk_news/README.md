@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_15:54:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--05_18:02:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,538** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,540** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-05-dailyftlk-92c3f6eb",
-    "num": "dailyftlk-92c3f6eb",
+    "doc_id": "2026-09-05-dailymirrorlk-5087641b",
+    "num": "dailymirrorlk-5087641b",
     "date_str": "2026-09-05",
-    "description": "Asia Pacific Media Forum opens in Shenzheng, China",
-    "url_metadata": "https://www.ft.lk/news/Asia-Pacific-Media-Forum-opens-in-Shenzheng-China/56-796872",
+    "description": "House worth over Rs. 15 Mn frozen under Money Laundering Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/House-worth-over-Rs-15-Mn-frozen-under-Money-Laundering-Act/108-349548",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788602697.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788607673.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-05 | `dailymirrorlk-5087641b` | House worth over Rs. 15 Mn frozen under Money Laundering Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-5087641b)
 - 2026-09-05 | `dailyftlk-92c3f6eb` | Asia Pacific Media Forum opens in Shenzheng, China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailyftlk-92c3f6eb)
 - 2026-09-05 | `dailymirrorlk-5fca8ea6` | President moves to fast-track Lower Malwathu Oya Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-5fca8ea6)
 - 2026-09-05 | `adalk-155544f3` | ගෑස් මිල අඩු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-155544f3)
+- 2026-09-05 | `adalk-387e04a5` | බිම් සවියෙන් ඉඩම් මැන ඉවර කරන්න තවත් වසර 87ක් යනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-387e04a5)
 - 2026-09-05 | `dailymirrorlk-92690ecb` | Malaysia declares emergency in Sarawak as haze from Indonesia worsens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-92690ecb)
 - 2026-09-05 | `dailymirrorlk-fd3d3a50` | Tea and milk tea prices reduced by Rs. 5 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-fd3d3a50)
 - 2026-09-05 | `dailymirrorlk-f290fbda` | Dehiwala Traffic OIC reportedly leaves post over work pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-f290fbda)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-05 | `tamilmirrorlk-a1dd1e5f` | நேபாளத்தில் வெள்ளத்தில் சிக்கிய 275 இந்தியர்களைக் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-tamilmirrorlk-a1dd1e5f)
 - 2026-09-05 | `dailymirrorlk-26dd8c4d` | Their letter which was never meant for us | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-26dd8c4d)
 - 2026-09-05 | `tamilmirrorlk-9910a90c` | ’பொலிஸ் சேவையை கௌரவமிக்கதாக மாற்ற வசதிகள் மேற்கொள்ளப்படும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-tamilmirrorlk-9910a90c)
-- 2026-09-05 | `dailymirrorlk-af235241` | Is climate change responsible for Nepal’s disaster? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-af235241)
-- 2026-09-05 | `dailymirrorlk-4200eae0` | Sri Lanka far behind regional rivals in capturing China’s apparel exodus– JAAF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-4200eae0)
 
 ---
 
