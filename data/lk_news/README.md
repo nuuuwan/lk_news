@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--06_08:02:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--06_10:01:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,551** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,560** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-087c0230",
-    "num": "dailymirrorlk-087c0230",
+    "doc_id": "2026-09-06-tamilmirrorlk-0ec1c7b8",
+    "num": "tamilmirrorlk-0ec1c7b8",
     "date_str": "2026-09-06",
-    "description": "Sri Lanka women face Bangladesh in Asia Cup group B clash",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-women-face-Bangladesh-in-Asia-Cup-group-B-clash/108-349557",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788642051.0
+    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe? \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0ba4\u0bbf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0ba4\u0bbf\u0bb2\u0bcd/175-382373",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788668430.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-06 | `tamilmirrorlk-0ec1c7b8` | விஜய் பிரதமர் வேட்பாளரா? அமைச்சர் வழங்கிய பதில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-0ec1c7b8)
+- 2026-09-06 | `tamilmirrorlk-18c7a987` | இந்திய மீனவர்களின் அட்டகாசம்: வலைகளை அறுத்துச் சென்றனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-18c7a987)
+- 2026-09-06 | `tamilmirrorlk-a024ce45` | நீர்வீழ்ச்சியில் குளிக்கச் சென்ற இருவர் நீரில் மூழ்கி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-a024ce45)
+- 2026-09-06 | `tamilmirrorlk-b51a934f` | பேஸ்புக் விருந்துப் பார்ட்டி: 41 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-b51a934f)
+- 2026-09-06 | `tamilmirrorlk-7b6fb072` | நேபாளத்தில் 10 நாட்களாக சுரங்கத்துக்குள் சிக்கியிருந்த சீனர் உயிருடன் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-7b6fb072)
+- 2026-09-06 | `tamilmirrorlk-beb74d80` | தன்னை கருணைக்கொலை செய்யக் கோரிய நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-beb74d80)
+- 2026-09-06 | `dailymirrorlk-e2999aee` | 41 arrested following raid on Facebook party in Teldeniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-e2999aee)
+- 2026-09-06 | `tamilmirrorlk-54a0b9a3` | 5 பெண்களிடம் மோசடி: காதல் மன்னன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-54a0b9a3)
+- 2026-09-06 | `adalk-53a1f501` | ඉරානයට සම්බන්ධ තෙල් නැව් තුනකට පහරදිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-53a1f501)
 - 2026-09-06 | `dailymirrorlk-087c0230` | Sri Lanka women face Bangladesh in Asia Cup group B clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-087c0230)
 - 2026-09-06 | `dailymirrorlk-aebb0d82` | Pathirage makes Diamond League history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-aebb0d82)
 - 2026-09-05 | `dailymirrorlk-ead6f5b7` | U.S. attacks 3 Iranian oil tankers after missiles target Navy warships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-ead6f5b7)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-09-05 | `dailymirrorlk-fcde9252` | Alcohol, drugs completely banned at events using school logos | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-fcde9252)
 - 2026-09-05 | `dailymirrorlk-47cf4ef0` | AI safety systems to be piloted on long-distance private buses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-47cf4ef0)
 - 2026-09-05 | `adalk-6d5dc7c0` | නානුඔයේ ගිලි තරුණයින් දෙදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-6d5dc7c0)
-- 2026-09-05 | `dailymirrorlk-5087641b` | House worth over Rs. 15 Mn frozen under Money Laundering Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-5087641b)
-- 2026-09-05 | `dailyftlk-92c3f6eb` | Asia Pacific Media Forum opens in Shenzheng, China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailyftlk-92c3f6eb)
-- 2026-09-05 | `dailymirrorlk-5fca8ea6` | President moves to fast-track Lower Malwathu Oya Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-5fca8ea6)
-- 2026-09-05 | `adalk-155544f3` | ගෑස් මිල අඩු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-155544f3)
-- 2026-09-05 | `adalk-387e04a5` | බිම් සවියෙන් ඉඩම් මැන ඉවර කරන්න තවත් වසර 87ක් යනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-adalk-387e04a5)
-- 2026-09-05 | `dailymirrorlk-92690ecb` | Malaysia declares emergency in Sarawak as haze from Indonesia worsens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-92690ecb)
-- 2026-09-05 | `dailymirrorlk-fd3d3a50` | Tea and milk tea prices reduced by Rs. 5 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-fd3d3a50)
-- 2026-09-05 | `dailymirrorlk-f290fbda` | Dehiwala Traffic OIC reportedly leaves post over work pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-f290fbda)
-- 2026-09-05 | `dailymirrorlk-2f3badee` | New York City imposes year-long AI ban for younger students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-05-dailymirrorlk-2f3badee)
 
 ---
 
