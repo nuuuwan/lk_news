@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_01:55:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_03:56:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,600** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,603** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-a909f5b8",
-    "num": "dailymirrorlk-a909f5b8",
-    "date_str": "2026-09-06",
-    "description": "President calls for end to unnecessary hospital visits",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-end-to-unnecessary-hospital-visits/108-349585",
+    "doc_id": "2026-09-07-dailyftlk-17ba4004",
+    "num": "dailyftlk-17ba4004",
+    "date_str": "2026-09-07",
+    "description": "Financing Sri Lanka\u2019s post-IMF development",
+    "url_metadata": "https://www.ft.lk/opinion/Financing-Sri-Lanka-s-post-IMF-development/14-796886",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788710049.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788733091.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-07 | `dailyftlk-17ba4004` | Financing Sri Lanka’s post-IMF development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-17ba4004)
+- 2026-09-07 | `dailyftlk-84883046` | Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-84883046)
+- 2026-09-07 | `dailyftlk-0060205b` | The undesirable future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-0060205b)
 - 2026-09-06 | `dailymirrorlk-a909f5b8` | President calls for end to unnecessary hospital visits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-a909f5b8)
 - 2026-09-06 | `dailymirrorlk-162125df` | Iran to tackle economic issues, says further attacks will be ’more painful’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-162125df)
 - 2026-09-06 | `adalk-4ce14cc4` | 22ට තීන්දුව ආවහම ක්ෂණිකව පාර්ලිමේන්තුවේ සම්මත කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-4ce14cc4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-06 | `tamilmirrorlk-16ab0924` | உ/த பரீட்சை பெறுபேறுகள் குறித்த அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-16ab0924)
 - 2026-09-06 | `tamilmirrorlk-3acc7292` | பச்சை நிற நம்பர் பிளேட்டால் குழப்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-3acc7292)
 - 2026-09-06 | `dailymirrorlk-3f576ec0` | Are traffic police aware of new green EV number plates? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-3f576ec0)
-- 2026-09-06 | `tamilmirrorlk-d6c170af` | உலக வரைபடத்தில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-d6c170af)
-- 2026-09-06 | `dailymirrorlk-36b79600` | UN backs new world map to show continents more accurately | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-36b79600)
-- 2026-09-06 | `adalk-aef092d9` | අළු හා මෙක්සිකානු වෘකයින් ආරක්ෂිත ලැයිස්තුවෙන් ඉවත් කරමින් ට්‍රම්ප්ගෙන් විධායක නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-aef092d9)
 
 ---
 

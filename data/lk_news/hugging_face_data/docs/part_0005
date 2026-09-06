@@ -40218,5 +40218,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788710049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-0060205b",
+    "num": "dailyftlk-0060205b",
+    "date_str": "2026-09-07",
+    "description": "The undesirable future",
+    "url_metadata": "https://www.ft.lk/columns/The-undesirable-future/4-796884",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788732481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-84883046",
+    "num": "dailyftlk-84883046",
+    "date_str": "2026-09-07",
+    "description": "Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-beaches-and-heritage-Why-Sri-Lanka-must-embrace-Muslim-friendly-tourism/4-796885",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788732833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-17ba4004",
+    "num": "dailyftlk-17ba4004",
+    "date_str": "2026-09-07",
+    "description": "Financing Sri Lanka\u2019s post-IMF development",
+    "url_metadata": "https://www.ft.lk/opinion/Financing-Sri-Lanka-s-post-IMF-development/14-796886",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788733091.0
   }
 ]
