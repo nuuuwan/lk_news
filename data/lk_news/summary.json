@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-06 14:00:49",
-  "n_docs": 129575,
+  "time_updated": "2026-09-06 15:57:06",
+  "n_docs": 129586,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129575,
+  "n_docs_with_text": 129586,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-06",
-  "dataset_size": 2017034618,
+  "dataset_size": 2017107924,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-ca2fd9ec",
-    "num": "dailymirrorlk-ca2fd9ec",
+    "doc_id": "2026-09-06-tamilmirrorlk-16ab0924",
+    "num": "tamilmirrorlk-16ab0924",
     "date_str": "2026-09-06",
-    "description": "Government attempting to suppress democracy and destroy opposition: Ranil",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-attempting-to-suppress-democracy-and-destroy-opposition-Ranil/108-349571",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788680836.0
+    "description": "\u0b89/\u0ba4 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89-\u0ba4-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382381",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788689248.0
   }
 }
