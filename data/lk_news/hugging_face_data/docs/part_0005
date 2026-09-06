@@ -40152,5 +40152,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788695889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-7851711b",
+    "num": "dailymirrorlk-7851711b",
+    "date_str": "2026-09-06",
+    "description": "\u2018If you stole, you will have to go to prison\u2019: Tilvin Silva",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/If-you-stole-you-will-have-to-go-to-prison-Tilvin-Silva/108-349580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788706519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-35b9603d",
+    "num": "dailymirrorlk-35b9603d",
+    "date_str": "2026-09-06",
+    "description": "Indian Defence Minister Rajnath Singh to visit Sri Lanka from September 8 to 10",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-Defence-Minister-Rajnath-Singh-to-visit-Sri-Lanka-from-September-8-to-10/108-349581",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788706972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-3b607e3e",
+    "num": "dailymirrorlk-3b607e3e",
+    "date_str": "2026-09-06",
+    "description": "Russia\u2019s Azur Air to resume direct charter flights to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russias-Azur-Air-to-resume-direct-charter-flights-to-Sri-Lanka/108-349582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788707365.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-adalk-4ce14cc4",
+    "num": "adalk-4ce14cc4",
+    "date_str": "2026-09-06",
+    "description": "22\u0da7 \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0d86\u0dc0\u0dc4\u0db8 \u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a\u0dc0 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0db8\u0dca\u0db8\u0dad \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/22\u0da7-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0d86\u0dc0\u0dc4\u0db8-\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a\u0dc0-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0dc3\u0db8\u0dca\u0db8\u0dad-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-424082",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788708996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-162125df",
+    "num": "dailymirrorlk-162125df",
+    "date_str": "2026-09-06",
+    "description": "Iran to tackle economic issues, says further attacks will be \u2019more painful\u2019",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-to-tackle-economic-issues-says-further-attacks-will-be-more-painful/107-349584",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788709933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-a909f5b8",
+    "num": "dailymirrorlk-a909f5b8",
+    "date_str": "2026-09-06",
+    "description": "President calls for end to unnecessary hospital visits",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-end-to-unnecessary-hospital-visits/108-349585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788710049.0
   }
 ]

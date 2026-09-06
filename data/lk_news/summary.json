@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-06 19:54:29",
-  "n_docs": 129594,
+  "time_updated": "2026-09-06 21:57:45",
+  "n_docs": 129600,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129594,
+  "n_docs_with_text": 129600,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-06",
-  "dataset_size": 2017329940,
+  "dataset_size": 2017346138,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-700fcc7c",
-    "num": "dailymirrorlk-700fcc7c",
+    "doc_id": "2026-09-06-dailymirrorlk-a909f5b8",
+    "num": "dailymirrorlk-a909f5b8",
     "date_str": "2026-09-06",
-    "description": "President pledges swift approval of 22nd Amendment",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-pledges-swift-approval-of-22nd-Amendment/108-349579",
+    "description": "President calls for end to unnecessary hospital visits",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-end-to-unnecessary-hospital-visits/108-349585",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788695889.0
+    "time_ut": 1788710049.0
   }
 }
