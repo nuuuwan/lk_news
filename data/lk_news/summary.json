@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-06 12:06:25",
-  "n_docs": 129569,
+  "time_updated": "2026-09-06 14:00:49",
+  "n_docs": 129575,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129569,
+  "n_docs_with_text": 129575,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-06",
-  "dataset_size": 2016949507,
+  "dataset_size": 2017034618,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-82cda8d1",
-    "num": "dailymirrorlk-82cda8d1",
+    "doc_id": "2026-09-06-dailymirrorlk-ca2fd9ec",
+    "num": "dailymirrorlk-ca2fd9ec",
     "date_str": "2026-09-06",
-    "description": "Indonesia\u2019s Anak Krakatau eruption halts flights, schools, fishing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesias-Anak-Krakatau-eruption-halts-flights-schools-fishing/108-349566",
+    "description": "Government attempting to suppress democracy and destroy opposition: Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-attempting-to-suppress-democracy-and-destroy-opposition-Ranil/108-349571",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788673835.0
+    "time_ut": 1788680836.0
   }
 }

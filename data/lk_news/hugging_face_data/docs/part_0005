@@ -39693,6 +39693,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-06-adalk-1ffb5d84",
+    "num": "adalk-1ffb5d84",
+    "date_str": "2026-09-06",
+    "description": "\u0d9c\u0db8\u0dca\u0db8\u0db1\u0dca\u0db4\u0dd2\u0dbd \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4 \u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0db8\u0dca\u0db8\u0db1\u0dca\u0db4\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4-\u0dc0\u0dda\u0daf\u0dd2\u0d9a\u0dcf\u0dc0\u0da7/11-424076",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788659103.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-06-tamilmirrorlk-54a0b9a3",
     "num": "tamilmirrorlk-54a0b9a3",
     "date_str": "2026-09-06",
@@ -39877,5 +39888,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788673835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-763bafde",
+    "num": "dailymirrorlk-763bafde",
+    "date_str": "2026-09-06",
+    "description": "Toddler dies after being run over by grandfather\u2019s cab",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Toddler-dies-after-being-run-over-by-grandfathers-cab/108-349568",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788678701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-722a8443",
+    "num": "dailymirrorlk-722a8443",
+    "date_str": "2026-09-06",
+    "description": "UNP marks 80th anniversary at Sirikotha",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/UNP-marks-80th-anniversary-at-Sirikotha/110-349569",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788678732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-ed285957",
+    "num": "dailymirrorlk-ed285957",
+    "date_str": "2026-09-06",
+    "description": "Nalinda Jayatissa heads to Timor-Leste for 79th WHO Regional Committee Session",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nalinda-Jayatissa-heads-to-Timor-Leste-for-79th-WHO-Regional-Committee-Session/108-349570",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788678804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-adalk-35f1d82d",
+    "num": "adalk-35f1d82d",
+    "date_str": "2026-09-06",
+    "description": "\u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4 \u0d86\u0db1\u0dba\u0db1\u0dba \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da7\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0dc5\u0dd4-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf/11-424077",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788678849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-06-dailymirrorlk-ca2fd9ec",
+    "num": "dailymirrorlk-ca2fd9ec",
+    "date_str": "2026-09-06",
+    "description": "Government attempting to suppress democracy and destroy opposition: Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-attempting-to-suppress-democracy-and-destroy-opposition-Ranil/108-349571",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788680836.0
   }
 ]

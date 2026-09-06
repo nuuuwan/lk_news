@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--06_12:07:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--06_14:01:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,569** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,575** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-06-dailymirrorlk-82cda8d1",
-    "num": "dailymirrorlk-82cda8d1",
+    "doc_id": "2026-09-06-dailymirrorlk-ca2fd9ec",
+    "num": "dailymirrorlk-ca2fd9ec",
     "date_str": "2026-09-06",
-    "description": "Indonesia\u2019s Anak Krakatau eruption halts flights, schools, fishing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesias-Anak-Krakatau-eruption-halts-flights-schools-fishing/108-349566",
+    "description": "Government attempting to suppress democracy and destroy opposition: Ranil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-attempting-to-suppress-democracy-and-destroy-opposition-Ranil/108-349571",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788673835.0
+    "time_ut": 1788680836.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-06 | `dailymirrorlk-ca2fd9ec` | Government attempting to suppress democracy and destroy opposition: Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-ca2fd9ec)
+- 2026-09-06 | `adalk-35f1d82d` | ටින් මාළු ආනයනය අඩුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-35f1d82d)
+- 2026-09-06 | `dailymirrorlk-ed285957` | Nalinda Jayatissa heads to Timor-Leste for 79th WHO Regional Committee Session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-ed285957)
+- 2026-09-06 | `dailymirrorlk-722a8443` | UNP marks 80th anniversary at Sirikotha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-722a8443)
+- 2026-09-06 | `dailymirrorlk-763bafde` | Toddler dies after being run over by grandfather’s cab | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-763bafde)
 - 2026-09-06 | `dailymirrorlk-82cda8d1` | Indonesia’s Anak Krakatau eruption halts flights, schools, fishing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-82cda8d1)
 - 2026-09-06 | `dailymirrorlk-42563056` | Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-42563056)
 - 2026-09-06 | `dailymirrorlk-f0088b7f` | LAUGFS Gas prices unchanged in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-f0088b7f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-06 | `tamilmirrorlk-b51a934f` | பேஸ்புக் விருந்துப் பார்ட்டி: 41 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-b51a934f)
 - 2026-09-06 | `tamilmirrorlk-7b6fb072` | நேபாளத்தில் 10 நாட்களாக சுரங்கத்துக்குள் சிக்கியிருந்த சீனர் உயிருடன் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-7b6fb072)
 - 2026-09-06 | `tamilmirrorlk-beb74d80` | தன்னை கருணைக்கொலை செய்யக் கோரிய நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-beb74d80)
-- 2026-09-06 | `dailymirrorlk-e2999aee` | 41 arrested following raid on Facebook party in Teldeniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-e2999aee)
-- 2026-09-06 | `tamilmirrorlk-54a0b9a3` | 5 பெண்களிடம் மோசடி: காதல் மன்னன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-54a0b9a3)
-- 2026-09-06 | `adalk-53a1f501` | ඉරානයට සම්බන්ධ තෙල් නැව් තුනකට පහරදිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-53a1f501)
-- 2026-09-06 | `dailymirrorlk-087c0230` | Sri Lanka women face Bangladesh in Asia Cup group B clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-087c0230)
-- 2026-09-06 | `dailymirrorlk-aebb0d82` | Pathirage makes Diamond League history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-aebb0d82)
 
 ---
 
