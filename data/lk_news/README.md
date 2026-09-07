@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_06:23:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_08:09:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,611** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-07-dailyftlk-a0e1d90f",
-    "num": "dailyftlk-a0e1d90f",
+    "doc_id": "2026-09-07-dailymirrorlk-ccc7b99f",
+    "num": "dailymirrorlk-ccc7b99f",
     "date_str": "2026-09-07",
-    "description": "UNP marks 80 years with renewed focus on sovereignty, democracy and political unity",
-    "url_metadata": "https://www.ft.lk/business/UNP-marks-80-years-with-renewed-focus-on-sovereignty-democracy-and-political-unity/34-796924",
+    "description": "Sri Lanka storm into semis as sports world erupts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-storm-into-semis-as-sports-world-erupts/108-349609",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788738980.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788746936.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-07 | `dailymirrorlk-ccc7b99f` | Sri Lanka storm into semis as sports world erupts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-ccc7b99f)
+- 2026-09-07 | `tamilmirrorlk-095eccc0` | காலநிலையில் ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-095eccc0)
 - 2026-09-07 | `dailyftlk-a0e1d90f` | UNP marks 80 years with renewed focus on sovereignty, democracy and political unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-a0e1d90f)
 - 2026-09-07 | `dailyftlk-7320fdfc` | FCCISL, Chathura open talks to drive SMEs toward 25% export growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-7320fdfc)
 - 2026-09-07 | `dailyftlk-17797e5a` | Sri Lanka – Benelux Business Council holds 31st AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-17797e5a)
@@ -55,12 +57,10 @@ A collection of lk_news documents.
 - 2026-09-06 | `dailymirrorlk-a909f5b8` | President calls for end to unnecessary hospital visits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-a909f5b8)
 - 2026-09-06 | `dailymirrorlk-162125df` | Iran to tackle economic issues, says further attacks will be ’more painful’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-162125df)
 - 2026-09-06 | `adalk-4ce14cc4` | 22ට තීන්දුව ආවහම ක්ෂණිකව පාර්ලිමේන්තුවේ සම්මත කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-4ce14cc4)
+- 2026-09-06 | `adalk-c3399f00` | පේරාදෙණිය සිට කොළඹට දුම්රිය ලබන මස මුලදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-c3399f00)
 - 2026-09-06 | `dailymirrorlk-3b607e3e` | Russia’s Azur Air to resume direct charter flights to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-3b607e3e)
 - 2026-09-06 | `dailymirrorlk-35b9603d` | Indian Defence Minister Rajnath Singh to visit Sri Lanka from September 8 to 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-35b9603d)
 - 2026-09-06 | `dailymirrorlk-7851711b` | ‘If you stole, you will have to go to prison’: Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-7851711b)
-- 2026-09-06 | `dailymirrorlk-700fcc7c` | President pledges swift approval of 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-700fcc7c)
-- 2026-09-06 | `tamilmirrorlk-ec5e6424` | 6 மாடி கட்டிடம் இடிந்து விழுந்தது: மீட்பு பணிகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-ec5e6424)
-- 2026-09-06 | `tamilmirrorlk-2a54d577` | மனைவியை பிரிந்த பிரதீப் ஆண்டனி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-tamilmirrorlk-2a54d577)
 
 ---
 

@@ -40188,6 +40188,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-06-adalk-c3399f00",
+    "num": "adalk-c3399f00",
+    "date_str": "2026-09-06",
+    "description": "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0dc3\u0dd2\u0da7 \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dbd\u0db6\u0db1 \u0db8\u0dc3 \u0db8\u0dd4\u0dbd\u0daf\u0dd3",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba-\u0dc3\u0dd2\u0da7-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dbd\u0db6\u0db1-\u0db8\u0dc3-\u0db8\u0dd4\u0dbd\u0daf\u0dd3/11-424081",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788707970.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-06-adalk-4ce14cc4",
     "num": "adalk-4ce14cc4",
     "date_str": "2026-09-06",
@@ -40339,5 +40350,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788738980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-tamilmirrorlk-095eccc0",
+    "num": "tamilmirrorlk-095eccc0",
+    "date_str": "2026-09-07",
+    "description": "\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-382389",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788744198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-ccc7b99f",
+    "num": "dailymirrorlk-ccc7b99f",
+    "date_str": "2026-09-07",
+    "description": "Sri Lanka storm into semis as sports world erupts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-storm-into-semis-as-sports-world-erupts/108-349609",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788746936.0
   }
 ]
