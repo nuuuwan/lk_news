@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_08:09:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--07_10:06:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,622** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-07-dailymirrorlk-ccc7b99f",
-    "num": "dailymirrorlk-ccc7b99f",
+    "doc_id": "2026-09-07-dailymirrorlk-e3de5922",
+    "num": "dailymirrorlk-e3de5922",
     "date_str": "2026-09-07",
-    "description": "Sri Lanka storm into semis as sports world erupts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-storm-into-semis-as-sports-world-erupts/108-349609",
+    "description": "13 arrested after allegedly attempting to travel to India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/13-arrested-after-allegedly-attempting-to-travel-to-India/108-349612",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788746936.0
+    "time_ut": 1788754375.0
 }
 ```
 
@@ -41,7 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-07 | `dailymirrorlk-e3de5922` | 13 arrested after allegedly attempting to travel to India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-e3de5922)
+- 2026-09-07 | `dailymirrorlk-146d8860` | Five dead after Amazon cargo plane crashes at Miami airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-146d8860)
+- 2026-09-07 | `dailymirrorlk-620f7e5b` | Thailand ends visa-free entry for Sri Lankan passport holders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-620f7e5b)
+- 2026-09-07 | `tamilmirrorlk-26fe5ad1` | ஈரான் கப்பல் மீதான தாக்குதல்: காணொளி வெளியிட்ட அமெரிக்க இராணுவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-26fe5ad1)
+- 2026-09-07 | `tamilmirrorlk-832fa969` | உலக அழகி போட்டியில் தமிழ்ப் பெண் சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-832fa969)
+- 2026-09-07 | `tamilmirrorlk-616c86da` | டில்லியில் விடுதி கட்டடம் இடிந்து விபத்து: 5 மாணவர்கள் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-616c86da)
+- 2026-09-07 | `adalk-1d7b3f46` | ඇමසන් ගුවන් යානයක් අනතුරට පත්ව 5ක් ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-adalk-1d7b3f46)
 - 2026-09-07 | `dailymirrorlk-ccc7b99f` | Sri Lanka storm into semis as sports world erupts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-ccc7b99f)
+- 2026-09-07 | `adalk-18b6a411` | තෙවැනි පාසල් වාරයේ දෙවැනි අදියර අද ඇරඹෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-adalk-18b6a411)
 - 2026-09-07 | `tamilmirrorlk-095eccc0` | காலநிலையில் ஏற்படவுள்ள திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-095eccc0)
 - 2026-09-07 | `dailyftlk-a0e1d90f` | UNP marks 80 years with renewed focus on sovereignty, democracy and political unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-a0e1d90f)
 - 2026-09-07 | `dailyftlk-7320fdfc` | FCCISL, Chathura open talks to drive SMEs toward 25% export growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-7320fdfc)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-09-07 | `dailyftlk-0cebc63d` | Emerging El Niño effect on Sri Lanka: Be ready for catastrophe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-0cebc63d)
 - 2026-09-07 | `dailyftlk-17ba4004` | Financing Sri Lanka’s post-IMF development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-17ba4004)
 - 2026-09-07 | `dailyftlk-84883046` | Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-84883046)
-- 2026-09-07 | `dailyftlk-0060205b` | The undesirable future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailyftlk-0060205b)
-- 2026-09-06 | `dailymirrorlk-a909f5b8` | President calls for end to unnecessary hospital visits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-a909f5b8)
-- 2026-09-06 | `dailymirrorlk-162125df` | Iran to tackle economic issues, says further attacks will be ’more painful’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-162125df)
-- 2026-09-06 | `adalk-4ce14cc4` | 22ට තීන්දුව ආවහම ක්ෂණිකව පාර්ලිමේන්තුවේ සම්මත කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-4ce14cc4)
-- 2026-09-06 | `adalk-c3399f00` | පේරාදෙණිය සිට කොළඹට දුම්රිය ලබන මස මුලදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-adalk-c3399f00)
-- 2026-09-06 | `dailymirrorlk-3b607e3e` | Russia’s Azur Air to resume direct charter flights to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-3b607e3e)
-- 2026-09-06 | `dailymirrorlk-35b9603d` | Indian Defence Minister Rajnath Singh to visit Sri Lanka from September 8 to 10 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-35b9603d)
-- 2026-09-06 | `dailymirrorlk-7851711b` | ‘If you stole, you will have to go to prison’: Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-06-dailymirrorlk-7851711b)
 
 ---
 
