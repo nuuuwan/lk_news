@@ -40251,5 +40251,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1788733091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-0cebc63d",
+    "num": "dailyftlk-0cebc63d",
+    "date_str": "2026-09-07",
+    "description": "Emerging El Ni\u00f1o effect on Sri Lanka: Be ready for catastrophe",
+    "url_metadata": "https://www.ft.lk/columns/Emerging-El-Ni\u00f1o-effect-on-Sri-Lanka-Be-ready-for-catastrophe/4-796887",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788733774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-878ff8ba",
+    "num": "dailyftlk-878ff8ba",
+    "date_str": "2026-09-07",
+    "description": "Personal Income Taxation \u2013 A growing burden for Sri Lankans and economy",
+    "url_metadata": "https://www.ft.lk/opinion/Personal-Income-Taxation-A-growing-burden-for-Sri-Lankans-and-economy/14-796888",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788733948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-feca480e",
+    "num": "dailyftlk-feca480e",
+    "date_str": "2026-09-07",
+    "description": "Is the request to remand Namal Rajapaksa for 14 days justified?",
+    "url_metadata": "https://www.ft.lk/columns/Is-the-request-to-remand-Namal-Rajapaksa-for-14-days-justified/4-796889",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788734133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-7972ca1b",
+    "num": "dailyftlk-7972ca1b",
+    "date_str": "2026-09-07",
+    "description": "Ex-Ceylon Chamber staff celebrate 10th anniversary bash",
+    "url_metadata": "https://www.ft.lk/business/Ex-Ceylon-Chamber-staff-celebrate-10th-anniversary-bash/34-796920",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788738496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-359a3659",
+    "num": "dailyftlk-359a3659",
+    "date_str": "2026-09-07",
+    "description": "CCWE National Workshop calls for collective action to strengthen women\u2019s economic empowerment",
+    "url_metadata": "https://www.ft.lk/business/CCWE-National-Workshop-calls-for-collective-action-to-strengthen-women-s-economic-empowerment/34-796921",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788738676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-17797e5a",
+    "num": "dailyftlk-17797e5a",
+    "date_str": "2026-09-07",
+    "description": "Sri Lanka \u2013 Benelux Business Council holds 31st AGM",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Benelux-Business-Council-holds-31st-AGM/34-796922",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788738775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-7320fdfc",
+    "num": "dailyftlk-7320fdfc",
+    "date_str": "2026-09-07",
+    "description": "FCCISL, Chathura open talks to drive SMEs toward 25% export growth",
+    "url_metadata": "https://www.ft.lk/business/FCCISL-Chathura-open-talks-to-drive-SMEs-toward-25-export-growth/34-796923",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788738847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailyftlk-a0e1d90f",
+    "num": "dailyftlk-a0e1d90f",
+    "date_str": "2026-09-07",
+    "description": "UNP marks 80 years with renewed focus on sovereignty, democracy and political unity",
+    "url_metadata": "https://www.ft.lk/business/UNP-marks-80-years-with-renewed-focus-on-sovereignty-democracy-and-political-unity/34-796924",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788738980.0
   }
 ]
