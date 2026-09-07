@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-07 19:59:28",
-  "n_docs": 129710,
+  "time_updated": "2026-09-07 22:00:26",
+  "n_docs": 129721,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129710,
+  "n_docs_with_text": 129721,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-07",
-  "dataset_size": 2018918059,
+  "dataset_size": 2019132027,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-07-tamilmirrorlk-7d518217",
-    "num": "tamilmirrorlk-7d518217",
+    "doc_id": "2026-09-07-dailymirrorlk-221f9164",
+    "num": "dailymirrorlk-221f9164",
     "date_str": "2026-09-07",
-    "description": "\u0ba4\u0bb0\u0bae\u0bcd 5 \u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8: \u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 14 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0b95\u0bbe\u0b9a\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb0\u0bae\u0bcd-5-\u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-14-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0bb5\u0b95\u0bbe\u0b9a\u0bae\u0bcd/175-382421",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788786518.0
+    "description": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaguar-Land-Rover-to-cut-4-000-jobs-over-next-two-years/108-349679",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788796555.0
   }
 }
