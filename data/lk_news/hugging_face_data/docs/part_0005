@@ -41057,6 +41057,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-feff7457",
+    "num": "dailymirrorlk-feff7457",
+    "date_str": "2026-09-07",
+    "description": "Health reforms must move beyond projects and paperwork: Expert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Health-reforms-must-move-beyond-projects-and-paperwork-Expert/108-349645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788770429.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-c1b62791",
+    "num": "dailymirrorlk-c1b62791",
+    "date_str": "2026-09-07",
+    "description": "Yoshitha Rajapaksa withdraws appeal before Supreme Court in money laundering case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksa-withdraws-appeal-before-Supreme-Court-in-money-laundering-case/108-349646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788770532.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-3a094ae6",
+    "num": "dailymirrorlk-3a094ae6",
+    "date_str": "2026-09-07",
+    "description": "Metro bus fleet to reach 172 as service expands nationwide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Metro-bus-fleet-to-reach-172-as-service-expands-nationwide/108-349647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788772507.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-840ecbb0",
     "num": "tamilmirrorlk-840ecbb0",
     "date_str": "2026-09-07",
@@ -41065,6 +41098,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788772821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-29b1da48",
+    "num": "dailymirrorlk-29b1da48",
+    "date_str": "2026-09-07",
+    "description": "Further evidence in bribery case against Kumara Jayakody fixed for October 5",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-bribery-case-against-Kumara-Jayakody-fixed-for-October-5/108-349648",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788773322.0
   },
   {
     "doc_type": "lk_news",
@@ -41079,6 +41123,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-83191744",
+    "num": "dailymirrorlk-83191744",
+    "date_str": "2026-09-07",
+    "description": "\u2018Vasana\u2019 elephant to be used only for major peraheras",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vasana-elephant-to-be-used-only-for-major-peraheras/108-349651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788774845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-29592f14",
+    "num": "dailymirrorlk-29592f14",
+    "date_str": "2026-09-07",
+    "description": "Far-right AfD wins historic victory in German state election",
+    "url_metadata": "https://www.dailymirror.lk/international/Far-right-AfD-wins-historic-victory-in-German-state-election/107-349653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788775039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-4f644525",
+    "num": "dailymirrorlk-4f644525",
+    "date_str": "2026-09-07",
+    "description": "Pinnawala Zoo unveils three leopard cubs on World Cat Day",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pinnawala-Zoo-unveils-three-leopard-cubs-on-World-Cat-Day/108-349655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788775131.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-91a0a7fd",
+    "num": "dailymirrorlk-91a0a7fd",
+    "date_str": "2026-09-07",
+    "description": "Nepal observes national day of mourning for victims of flash flood disaster",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nepal-observes-national-day-of-mourning-for-victims-of-flash-flood-disaster/108-349656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788775252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-0c3f700a",
+    "num": "dailymirrorlk-0c3f700a",
+    "date_str": "2026-09-07",
+    "description": "PM calls for \u2018cultured\u2019 society amid social media abuse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-calls-for-cultured-society-amid-social-media-abuse/108-349657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788775331.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-d6c3d090",
     "num": "tamilmirrorlk-d6c3d090",
     "date_str": "2026-09-07",
@@ -41090,6 +41189,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-f1a47f02",
+    "num": "dailymirrorlk-f1a47f02",
+    "date_str": "2026-09-07",
+    "description": "Special regulations introduced to protect Nildiya Pokuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-regulations-introduced-to-protect-Nildiya-Pokuna/108-349658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788775485.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-ac5b65b4",
     "num": "tamilmirrorlk-ac5b65b4",
     "date_str": "2026-09-07",
@@ -41098,6 +41208,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788775874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-477601c1",
+    "num": "dailymirrorlk-477601c1",
+    "date_str": "2026-09-07",
+    "description": "Clean Air Day highlights need for healthier choices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Clean-Air-Day-highlights-need-for-healthier-choices/108-349661",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788776104.0
   },
   {
     "doc_type": "lk_news",
@@ -41123,6 +41244,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-88644048",
+    "num": "dailymirrorlk-88644048",
+    "date_str": "2026-09-07",
+    "description": "Reservoir storage remains at 34.3% as yesterday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reservoir-storage-remains-at-34-3-as-yesterday/108-349662",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788776978.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-0e724c12",
     "num": "tamilmirrorlk-0e724c12",
     "date_str": "2026-09-07",
@@ -41131,6 +41263,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788777044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-e3f50395",
+    "num": "dailymirrorlk-e3f50395",
+    "date_str": "2026-09-07",
+    "description": "Ampitiye Sumanarathana Thera remanded until tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ampitiye-Sumanarathana-Thera-remanded-until-tomorrow/108-349663",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788777211.0
   },
   {
     "doc_type": "lk_news",
@@ -41156,6 +41299,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-d31da101",
+    "num": "dailymirrorlk-d31da101",
+    "date_str": "2026-09-07",
+    "description": "Manhunt contestants join Colombo peace parade",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Manhunt-contestants-join-Colombo-peace-parade/110-349665",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788778428.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-03051e8d",
     "num": "tamilmirrorlk-03051e8d",
     "date_str": "2026-09-07",
@@ -41167,6 +41321,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-ea2d28e0",
+    "num": "dailymirrorlk-ea2d28e0",
+    "date_str": "2026-09-07",
+    "description": "Over 8,500 fake-labelled water bottles ordered to be destroyed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-8-500-fake-labelled-water-bottles-ordered-to-be-destroyed/108-349667",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788780699.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-07-tamilmirrorlk-b138a384",
     "num": "tamilmirrorlk-b138a384",
     "date_str": "2026-09-07",
@@ -41175,5 +41340,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788781208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-40668883",
+    "num": "dailymirrorlk-40668883",
+    "date_str": "2026-09-07",
+    "description": "Kevin Pietersen returns to England as White-Ball Mentor",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kevin-Pietersen-returns-to-England-as-White-Ball-Mentor/108-349668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788781702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-adalk-8c8e58c8",
+    "num": "adalk-8c8e58c8",
+    "date_str": "2026-09-07",
+    "description": "\u0dc0\u0dcf\u0dc3\u0db1\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0da7 \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dcf\u0dc3\u0db1\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/11-424095",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788781954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-16812664",
+    "num": "dailymirrorlk-16812664",
+    "date_str": "2026-09-07",
+    "description": "China saw it. India saw it. The world is moving in. Sri Lanka cannot afford to arrive late",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-saw-it-India-saw-it-The-world-is-moving-in-Sri-Lanka-cannot-afford-to-arrive-late/108-349669",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788782513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-f74b00f3",
+    "num": "dailymirrorlk-f74b00f3",
+    "date_str": "2026-09-07",
+    "description": "Parliament Committee questions police officials over cyclone Ditwah response",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-Committee-questions-police-officials-over-cyclone-Ditwah-response/108-349670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788783713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-aae768f1",
+    "num": "dailymirrorlk-aae768f1",
+    "date_str": "2026-09-07",
+    "description": "CSE starts week steady as indices edge higher amid balanced trading",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-starts-week-steady-as-indices-edge-higher-amid-balanced-trading/108-349671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788785796.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-5c8866b7",
+    "num": "dailymirrorlk-5c8866b7",
+    "date_str": "2026-09-07",
+    "description": "Namal to attend Parliament tomorrow following Secretary General\u2019s response",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-to-attend-Parliament-tomorrow-following-Secretary-Generals-response/108-349672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788785976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-dailymirrorlk-fffedca5",
+    "num": "dailymirrorlk-fffedca5",
+    "date_str": "2026-09-07",
+    "description": "Appeals open for 2026 Grade 5 Scholarship Exam answer sheets",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeals-open-for-2026-Grade-5-Scholarship-Exam-answer-sheets/108-349673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788786102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-07-tamilmirrorlk-7d518217",
+    "num": "tamilmirrorlk-7d518217",
+    "date_str": "2026-09-07",
+    "description": "\u0ba4\u0bb0\u0bae\u0bcd 5 \u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8: \u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 14 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0b95\u0bbe\u0b9a\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb0\u0bae\u0bcd-5-\u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-14-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0bb5\u0b95\u0bbe\u0b9a\u0bae\u0bcd/175-382421",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788786518.0
   }
 ]
