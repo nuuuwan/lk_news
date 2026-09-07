@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-07 10:05:02",
-  "n_docs": 129622,
+  "time_updated": "2026-09-07 12:14:08",
+  "n_docs": 129652,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129622,
+  "n_docs_with_text": 129652,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-07",
-  "dataset_size": 2017745045,
+  "dataset_size": 2017923629,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-07-dailymirrorlk-e3de5922",
-    "num": "dailymirrorlk-e3de5922",
+    "doc_id": "2026-09-07-dailymirrorlk-8ffcfbfc",
+    "num": "dailymirrorlk-8ffcfbfc",
     "date_str": "2026-09-07",
-    "description": "13 arrested after allegedly attempting to travel to India",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/13-arrested-after-allegedly-attempting-to-travel-to-India/108-349612",
+    "description": "Colombo-Kandy train service to resume next month: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Kandy-train-service-to-resume-next-month-Deputy-Minister/108-349627",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788754375.0
+    "time_ut": 1788762115.0
   }
 }
