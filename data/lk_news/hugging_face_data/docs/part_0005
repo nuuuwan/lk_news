@@ -41882,6 +41882,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-6312fbb8",
+    "num": "tamilmirrorlk-6312fbb8",
+    "date_str": "2026-09-08",
+    "description": "\u2019\u0ba4\u0bbf.\u0bae\u0bc1.\u0b95\u0bb5\u0bc8 \u0b93\u0b9f \u0b93\u0b9f \u0bb5\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf-\u0bae\u0bc1-\u0b95\u0bb5\u0bc8-\u0b93\u0b9f-\u0b93\u0b9f-\u0bb5\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd/175-382435",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788841459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-d7ea632e",
+    "num": "tamilmirrorlk-d7ea632e",
+    "date_str": "2026-09-08",
+    "description": "\u0baa\u0bcb\u0bb2\u0bbf \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3 \u0b85\u0b9f\u0bcd\u0b9f\u0bc8: \u0baa\u0bc6\u0ba3\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0bb2\u0bbf-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3-\u0b85\u0b9f\u0bcd\u0b9f\u0bc8-\u0baa\u0bc6\u0ba3\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-382436",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788842016.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-08-dailymirrorlk-5bb6375e",
     "num": "dailymirrorlk-5bb6375e",
     "date_str": "2026-09-08",
@@ -42366,6 +42388,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-08-adalk-6930eff6",
+    "num": "adalk-6930eff6",
+    "date_str": "2026-09-08",
+    "description": "\u0dba\u0dcf\u0dbd\u0dda \u0d9a\u0dbd\u0dcf\u0db4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dd0\u0dc3\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dcf\u0dbd\u0dda-\u0d9a\u0dbd\u0dcf\u0db4-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dd0\u0dc3\u0dd9\u0dba\u0dd2/11-424103",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788848771.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-08-dailymirrorlk-ead1a9f2",
     "num": "dailymirrorlk-ead1a9f2",
     "date_str": "2026-09-08",
@@ -42473,5 +42506,236 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788849339.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-e728ead7",
+    "num": "dailymirrorlk-e728ead7",
+    "date_str": "2026-09-08",
+    "description": "Education key to promoting equality and mutual respect: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Education-key-to-promoting-equality-and-mutual-respect-PM/108-349743",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788849638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-c5e840dc",
+    "num": "dailymirrorlk-c5e840dc",
+    "date_str": "2026-09-08",
+    "description": "New education reforms to focus on inclusive education: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-education-reforms-to-focus-on-inclusive-education-Deputy-Minister/108-349744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788849790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-f0e78fbd",
+    "num": "dailymirrorlk-f0e78fbd",
+    "date_str": "2026-09-08",
+    "description": "Solicitor General appointed Acting Attorney General",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Solicitor-General-appointed-Acting-Attorney-General/108-349745",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788849908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-a9200783",
+    "num": "dailymirrorlk-a9200783",
+    "date_str": "2026-09-08",
+    "description": "UNHRC: A sword of Damocles",
+    "url_metadata": "https://www.dailymirror.lk/opinion/UNHRC-A-sword-of-Damocles/172-349746",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788849970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-86b9634d",
+    "num": "dailymirrorlk-86b9634d",
+    "date_str": "2026-09-08",
+    "description": "Why not use drones to catch poachers?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Why-not-use-drones-to-catch-poachers/172-349747",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788850032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-a945a00b",
+    "num": "dailymirrorlk-a945a00b",
+    "date_str": "2026-09-08",
+    "description": "Beyond Who Wins: Judicial Reform, and the Future of Judiciary",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Beyond-Who-Wins-Judicial-Reform-and-the-Future-of-Judiciary/172-349748",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788850302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-e56f1882",
+    "num": "dailymirrorlk-e56f1882",
+    "date_str": "2026-09-08",
+    "description": "Enhancing Colombo port\u2019s status as a maritime hub",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Enhancing-Colombo-ports-status-as-a-maritime-hub/172-349749",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788850488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-adalk-6aecccaf",
+    "num": "adalk-6aecccaf",
+    "date_str": "2026-09-08",
+    "description": "\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4 \u0dc4\u0dd9\u0da7 \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4-\u0dc4\u0dd9\u0da7-\u0daf\u0dd2\u0db1\u0dba\u0dda-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a/11-424104",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788850769.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-6744f52d",
+    "num": "tamilmirrorlk-6744f52d",
+    "date_str": "2026-09-08",
+    "description": "Airbus \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9a\u0bae\u0bb2\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/Airbus-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9a\u0bae\u0bb2\u0bbf\u0b9f\u0bae\u0bcd-\u0b92\u0bb0\u0bc1-\u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-382457",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788851456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-adalk-2da6b5bc",
+    "num": "adalk-2da6b5bc",
+    "date_str": "2026-09-08",
+    "description": "2026 \u0daf\u0dd3 \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0db1 \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d9c\u0dd0\u0db1 \u0d87\u0db8\u0dad\u0dd2 \u0db6\u0dd2\u0db8\u0dbd\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-\u0daf\u0dd3-\u0dc0\u0dd0\u0da9-\u0d85\u0dbb\u0db9\u0db1-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0d9c\u0dd0\u0db1-\u0d87\u0db8\u0dad\u0dd2-\u0db6\u0dd2\u0db8\u0dbd\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-424105",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788851502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-f254e511",
+    "num": "dailymirrorlk-f254e511",
+    "date_str": "2026-09-08",
+    "description": "Family doctor system must not threaten free healthcare",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-doctor-system-must-not-threaten-free-healthcare/108-349755",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788851564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-6f5e01d7",
+    "num": "dailymirrorlk-6f5e01d7",
+    "date_str": "2026-09-08",
+    "description": "SDIG Ajith Rohana retires after 38 years of service",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SDIG-Ajith-Rohana-retires-after-38-years-of-service/108-349759",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788851811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-69a383b4",
+    "num": "tamilmirrorlk-69a383b4",
+    "date_str": "2026-09-08",
+    "description": "\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd  \u0ba8\u0bbe\u0bb3\u0bc8 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8-\u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-382458",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788852116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-a302feb6",
+    "num": "dailymirrorlk-a302feb6",
+    "date_str": "2026-09-08",
+    "description": "Paid leave essential to workers\u2019 health and well-being",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paid-leave-essential-to-workers-health-and-well-being/108-349760",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788852192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-3772f580",
+    "num": "dailymirrorlk-3772f580",
+    "date_str": "2026-09-08",
+    "description": "INS Udaygiri makes port call in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/INS-Udaygiri-makes-port-call-in-Colombo/108-349761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788852556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-5aea0cce",
+    "num": "tamilmirrorlk-5aea0cce",
+    "date_str": "2026-09-08",
+    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0b95-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-382459",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788853047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-3a011bb4",
+    "num": "tamilmirrorlk-3a011bb4",
+    "date_str": "2026-09-08",
+    "description": "\u0ba8\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bcb\u0baa\u0bcd\u0baa \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bc8  \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bae\u0bcb\u0baa\u0bcd\u0baa-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0bae\u0bc2\u0bb2\u0bae\u0bcd-\u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bc8-\u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf/175-382460",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788853356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-640c7f2e",
+    "num": "tamilmirrorlk-640c7f2e",
+    "date_str": "2026-09-08",
+    "description": "\u0b90.\u0ba8\u0bbe.\u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0bae\u0ba9\u0bbf\u0ba4-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0b86\u0ba3\u0bc8\u0baf\u0bb0\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-382461",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788853550.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-6b488094",
+    "num": "dailymirrorlk-6b488094",
+    "date_str": "2026-09-08",
+    "description": "13-year-old schoolboy drowns in Maoya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/13-year-old-schoolboy-drowns-in-Maoya/108-349763",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788854819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-24d62fd5",
+    "num": "dailymirrorlk-24d62fd5",
+    "date_str": "2026-09-08",
+    "description": "Private-sector employees to get online railway season tickets from October 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Private-sector-employees-to-get-online-railway-season-tickets-from-October-1/108-349764",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788855325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-tamilmirrorlk-44e14291",
+    "num": "tamilmirrorlk-44e14291",
+    "date_str": "2026-09-08",
+    "description": "\u0b9a\u0bc1\u0bae\u0ba3\u0bb0\u0ba4\u0ba9 \u0ba4\u0bc7\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bae\u0ba3\u0bb0\u0ba4\u0ba9-\u0ba4\u0bc7\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382462",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788855738.0
   }
 ]
