@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_22:45:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_00:38:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,863** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,864** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-dailymirrorlk-8e5d277a",
-    "num": "dailymirrorlk-8e5d277a",
+    "doc_id": "2026-09-08-dailymirrorlk-21199aa1",
+    "num": "dailymirrorlk-21199aa1",
     "date_str": "2026-09-08",
-    "description": "Journalists missing in Indonesia after volcano mission",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Journalists-missing-in-Indonesia-after-volcano-mission/108-349784",
+    "description": "Apple\u2019s new iPhone lineup to be unveiled tonight: What Sri Lankans need to know, and will a foldable iPhone finally debut?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Apples-new-iPhone-lineup-to-be-unveiled-tonight-What-Sri-Lankans-need-to-know-and-will-a-foldable-iPhone-finally-debut/108-349786",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788879934.0
+    "time_ut": 1788887638.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-08 | `dailymirrorlk-21199aa1` | Apple’s new iPhone lineup to be unveiled tonight: What Sri Lankans need to know, and will a foldable iPhone finally debut? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-21199aa1)
 - 2026-09-08 | `dailymirrorlk-8e5d277a` | Journalists missing in Indonesia after volcano mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-8e5d277a)
 - 2026-09-08 | `dailymirrorlk-de323e16` | U.S alerts Sri Lanka over Iranian vessels off its waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-de323e16)
 - 2026-09-08 | `dailymirrorlk-5f04a991` | UK announces sanctions on illegal Israeli settlements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-5f04a991)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-08 | `adalk-fe4b0ffa` | ඉදිකරන පාලමක වළකට වැටී ළමයෙක් මිය යාමට තාක්ෂණික සහකාරවරයා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-fe4b0ffa)
 - 2026-09-08 | `dailymirrorlk-69a54fde` | Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-69a54fde)
 - 2026-09-08 | `adalk-52a55bb1` | තායිලන්තයෙන් ලංකාවට රැකියා 10000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-52a55bb1)
-- 2026-09-08 | `dailymirrorlk-7e36593d` | Digital Transformation Units to be established in government institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-7e36593d)
 
 ---
 
