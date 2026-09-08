@@ -1,0 +1,75 @@
+China readies humanoid robots for combat
+
+Reuters - At the World Humanoid Robot Games in China last month, robots jumped, boxed and danced. Some fleet-footed bots ran faster than Usain Bolt over 100 meters. Spectators cheered the machines’ improving capabilities and their meme-worthy stumbles.
+
+Two days after the Games ended, the People's Liberation Army's official newspaper drew its own conclusions from the show. The PLA Daily called for researchers to accelerate the transfer of cutting-edge technologies from laboratories to military training grounds for robotic “combatants.”
+
+China's defense establishment ​is accelerating research into humanoids’ military uses and planning for their eventual wartime deployment, according to a Reuters review of more than 100 Chinese military procurement notices, academic studies, patents, official publications, government records and defense-company materials.
+
+Military institutions are testing humanoids against battlefield requirements, seeking ‌to acquire robots and technologies to train them, and studying how they might function alongside troops, the previously unreported records show. The work gained momentum in 2025 and 2026, focusing on robot perception, manipulation, and training data.
+
+Chinese manufacturers accounted for about 95% of global humanoid shipments in 2025, according to BofA Global Research. That commercial dominance gives the PLA access to an expanding industry while developing its own military applications.
+
+China’s robot defense research underscores how rapidly military technologies are evolving globally. In the Russia-Ukraine war, semiautonomous drones that use artificial intelligence for navigation and targeting have transformed reconnaissance and attack, while robots carry supplies and retrieve casualties. Reuters has previously documented the Chinese military’s efforts to learn from Europe’s deadliest conflict since World War II.
+
+That evolution is driving worldwide military interest ​in autonomous systems.
+
+“Going where we don’t want humans to go is one of the most compelling reasons to develop robots in the first place,” said Dennis Hong, a professor of mechanical and aerospace engineering at UCLA. “If losing a robot means avoiding the loss of a human life, then the robot ​can become expendable.”
+
+China's defense ministry and the National University of Defense Technology (NUDT), the PLA’s premier research institution, didn’t respond to requests for comment about humanoid robots’ military applications.
+
+Reuters found no evidence that China has deployed an armed humanoid with an operational ⁠PLA unit. The robots remain energy-intensive and unreliable outside controlled demonstrations. Battlefield environments pose many variables and challenge robots’ abilities in unpredictable ways, said Aaron Johnson, a professor of mechanical engineering at Carnegie Mellon University.
+
+Already, China has a vision for humanoid robots in urban warfare.
+
+Six “combat robots” – humanoids, robot dogs or unmanned vehicles – would be ​split up between two assault teams. Working with ground troops, the robots would clear an enemy-occupied building, floor-by-floor and room-by-room.
+
+That scenario was described in an August 2025 paper by researchers at NUDT’s test center in Xi’an. The study modeled an urban assault force using equipment the authors projected could be available within five to 10 years. ​It didn’t specify the robots’ rules of engagement, the weapons they would carry, nor how they would handle civilian encounters.
+
+Improvements in balance, perception and endurance could make humanoids useful in places including buildings, tunnels and ship interiors, said Juo-Min Chou, a researcher at Taiwan's Institute for National Defense and Security Research. “Their two hands and two feet could, in theory, combine mobility, climbing and manipulation,” she said.
+
+For simpler reconnaissance or logistics missions, however, quadruped, tracked or wheeled robots would generally be cheaper and easier to deploy at scale, Chou added.
+
+Chinese military commentary envisions an expanding range of roles for humanoids. A July 2025 article in PLA Daily argued that humanoid missions could eventually evolve "from supporting combat toward primary combat" and discussed how robots might be authorized to fire on ​a living target that had been verified by a human.
+
+In December, the PLA Eastern Theater Command released an AI-generated montage that showed military robots, including humanoids and quadrupeds, overwhelming Taiwan's defenses in a hypothetical future conflict.
+
+China isn’t alone in exploring battlefield uses for humanoids. Last year, the U.S. Army launched a competition to develop “militarized humanoid ​capabilities” that could eventually work alongside soldiers. The Army said potential roles included reconnaissance, security, obstacle clearing, hazardous-material operations and offensive and defensive missions in urban terrain. Up to 10 finalists were due to test their systems with U.S. military experts this year, with as much as $1.25 million available for follow-on contracts.
+
+The U.S. robotics industry, however, trails far behind China ‌in developing two-legged and ⁠four-legged machines. Reuters reported last month that China’s Unitree robots – among the world’s leading producers of humanoids and quadrupeds – based designs for its best-selling robot dogs on innovations financed by the U.S. military.
+
+The Pentagon and the U.S. Army didn’t comment for this story.
+
+Chinese interest in humanoid robots’ military applications began to pick up in 2024. That year, NUDT and China’s Academy of Military Sciences hosted a defense-technology forum that included a session on military applications for humanoid systems, according to NUDT’s website. Neither institution responded to Reuters’ questions.
+
+A year later, NUDT explicitly framed humanoid robots as battlefield tools. A university competition in June 2025 featured an event that simulated “infiltration behind enemy lines,” requiring robots to enter an area, map it and locate targets, according to its website. Another envisioned robots conducting identity checks, discipline inspections and security patrols at military bases.
+
+The military-research university described the competition in part as a proving ground for humanoids to eventually "move toward the battlefield."
+
+In May 2025, the ​PLA issued a tender to purchase a humanoid robot, including installation and technical ​training. Four months later, a procurement notice that listed an NUDT email ⁠as its contact address sought an “embodied humanoid robot intelligent perception and dexterous operation system.”
+
+The records contained few specifics. Reuters couldn’t determine whether the tenders were filled, and if so, which companies won or which robot models were supplied.
+
+In June this year, the PLA budgeted about $300,000 for a system to collect and label camera, radar and motion data for humanoids, including information about terrain they could traverse, according to another military procurement document.
+
+The specifications show Chinese military interest is extending from robot bodies into the ​perception, manipulation and training systems that defense scholars say are essential for humanoids to move beyond controlled demonstrations.
+
+By 2026, humanoid development had spread beyond military academia into China's defense industry.
+
+The Fuxi robot made by Norinco, a state-owned defense ​conglomerate, is one example. Company materials published in ⁠August described the full-size humanoid as capable of sentry duty, all-weather reconnaissance, intelligent patrol and fulfilling dangerous roles.
+
+Fuxi can be paired with Norinco’s teleoperation system, which allows a human operator to control a humanoid remotely, according to the company. Removing the need for a robot to make all decisions autonomously would address what many robotics experts say is the biggest challenge with humanoids.
+
+Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute, said he didn’t see humanoid robots as practical battlefield systems at present. "But in five to 10 years,” he said, “they could very well be."
+
+Even if remotely operated today, humanoid systems designed for autonomous deployment would eventually need to navigate ethical ⁠dilemmas. The laws of ​war require forces to distinguish combatants from civilians and to refrain from attacking wounded or surrendering fighters.
+
+The International Committee of the Red Cross has cautioned that autonomous weapons may struggle to interpret signs of ​surrender reliably because such judgments can depend on context, conduct and intent.
+
+The U.S. military requires autonomous weapons to undergo legal review and realistic testing and for commanders and operators to exercise appropriate judgment over the use of force. China’s defense ministry said in March that AI-powered weapons should remain under human control.
+
+Those concerns haven’t deterred China's exploration of humanoids’ military uses.
+
+Wang Yonghua, a researcher at China’s Academy of ​Military Sciences, wrote in a November commentary that humanoids face unresolved problems in movement, perception and intelligence. Technical breakthroughs, lower manufacturing costs and industrial-scale production would be needed for humanoids to become widespread military systems.
+
+If those conditions are met, Wang wrote, "humanoid robots will stream onto the battlefield."

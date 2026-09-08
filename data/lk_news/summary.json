@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-08 10:05:57",
-  "n_docs": 129747,
+  "time_updated": "2026-09-08 12:18:28",
+  "n_docs": 129805,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129747,
+  "n_docs_with_text": 129805,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-08",
-  "dataset_size": 2019562684,
+  "dataset_size": 2019835828,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-tamilmirrorlk-23587138",
-    "num": "tamilmirrorlk-23587138",
+    "doc_id": "2026-09-08-dailymirrorlk-2603eff4",
+    "num": "dailymirrorlk-2603eff4",
     "date_str": "2026-09-08",
-    "description": "\u0ba4\u0bbe\u0baf\u0bcd \u0b87\u0bb2\u0bb5\u0b9a \u0bb5\u0bbf\u0b9a\u0bbe \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b87\u0bb2\u0bb5\u0b9a-\u0bb5\u0bbf\u0b9a\u0bbe-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/50-382434",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788841034.0
+    "description": "Colombo Port congestion seen persisting for two more weeks",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Colombo-Port-congestion-seen-persisting-for-two-more-weeks/245-349742",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788849339.0
   }
 }
