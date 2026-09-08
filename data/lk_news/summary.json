@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-08 14:06:32",
-  "n_docs": 129829,
+  "time_updated": "2026-09-08 16:00:01",
+  "n_docs": 129846,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129829,
+  "n_docs_with_text": 129846,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-08",
-  "dataset_size": 2020381047,
+  "dataset_size": 2020667573,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-tamilmirrorlk-44e14291",
-    "num": "tamilmirrorlk-44e14291",
+    "doc_id": "2026-09-08-dailymirrorlk-ba00f426",
+    "num": "dailymirrorlk-ba00f426",
     "date_str": "2026-09-08",
-    "description": "\u0b9a\u0bc1\u0bae\u0ba3\u0bb0\u0ba4\u0ba9 \u0ba4\u0bc7\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bae\u0ba3\u0bb0\u0ba4\u0ba9-\u0ba4\u0bc7\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382462",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788855738.0
+    "description": "Don\u2019t suppress right of people to seek hospital treatment when they fall sick: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dont-suppress-right-of-people-to-seek-hospital-treatment-when-they-fall-sick-Namal/108-349775",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788862258.0
   }
 }
