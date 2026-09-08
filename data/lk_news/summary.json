@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-08 20:43:56",
-  "n_docs": 129862,
+  "time_updated": "2026-09-08 22:44:37",
+  "n_docs": 129863,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129862,
+  "n_docs_with_text": 129863,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-08",
-  "dataset_size": 2020881026,
+  "dataset_size": 2020989332,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-dailymirrorlk-de323e16",
-    "num": "dailymirrorlk-de323e16",
+    "doc_id": "2026-09-08-dailymirrorlk-8e5d277a",
+    "num": "dailymirrorlk-8e5d277a",
     "date_str": "2026-09-08",
-    "description": "U.S alerts Sri Lanka over Iranian vessels off its waters",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/U-S-alerts-Sri-Lanka-over-Iranian-vessels-off-its-waters/108-349782",
+    "description": "Journalists missing in Indonesia after volcano mission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Journalists-missing-in-Indonesia-after-volcano-mission/108-349784",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788873388.0
+    "time_ut": 1788879934.0
   }
 }
