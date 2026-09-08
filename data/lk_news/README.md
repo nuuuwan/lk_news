@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_08:03:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_10:06:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,747** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-tamilmirrorlk-31395357",
-    "num": "tamilmirrorlk-31395357",
+    "doc_id": "2026-09-08-tamilmirrorlk-23587138",
+    "num": "tamilmirrorlk-23587138",
     "date_str": "2026-09-08",
-    "description": "\u0bae\u0bb4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb4\u0bc8-\u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-382429",
+    "description": "\u0ba4\u0bbe\u0baf\u0bcd \u0b87\u0bb2\u0bb5\u0b9a \u0bb5\u0bbf\u0b9a\u0bbe \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b87\u0bb2\u0bb5\u0b9a-\u0bb5\u0bbf\u0b9a\u0bbe-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/50-382434",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788833002.0
+    "time_ut": 1788841034.0
 }
 ```
 
@@ -41,7 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-08 | `tamilmirrorlk-23587138` | தாய் இலவச விசா பட்டியலில் இலங்கை நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-23587138)
+- 2026-09-08 | `tamilmirrorlk-2d906f08` | இராணுவச் சிப்பாய் கடத்தி கொலை: மனைவி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-2d906f08)
+- 2026-09-08 | `tamilmirrorlk-e232e325` | குஷ், ஹஷிஸுடன் தாய்லாந்து பிரஜைகள் இருவர் கைது கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-e232e325)
+- 2026-09-08 | `tamilmirrorlk-011112b4` | ஈரான் வரைபடத்தில் ட்ரம்பின் முகம்: ஏ.ஐ. புகைப்படங்கள் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-011112b4)
+- 2026-09-08 | `tamilmirrorlk-e2ad5ecb` | வெள்ளத்தில் கிடைத்த பொருள்களை விற்றால் நடவடிக்கை: நேபாள பொலிஸ் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-e2ad5ecb)
 - 2026-09-08 | `tamilmirrorlk-31395357` | மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-31395357)
+- 2026-09-08 | `adalk-60a59d14` | බස් ලලිත්ගේ ගිනි අවි හා උණ්ඩ සුසාන භූමියකින් සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-60a59d14)
+- 2026-09-08 | `adalk-2a2c4da7` | යුද හමුදා සෙබලෙක් පැහැරගෙන ගොස් ඝාතනය කිරීමට වසර 8ට පසු බිරිඳ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-2a2c4da7)
 - 2026-09-08 | `dailymirrorlk-ecc7f96c` | Pilot killed in small plane crash near regional airport in Florida | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-ecc7f96c)
 - 2026-09-08 | `dailyftlk-fd9096df` | Southern business chambers press Treasury on barriers to growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-fd9096df)
 - 2026-09-08 | `dailyftlk-81d75440` | Australia and Sri Lanka strengthen partnership on electoral integrity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-81d75440)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-08 | `dailyftlk-f415a22f` | Sri Lanka, Japan step up efforts to address investor concerns and develop export-oriented industrial corridor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-f415a22f)
 - 2026-09-08 | `dailyftlk-f9b6fa81` | ABC Trade and Investment signs MoU with All-China Environment Federation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-f9b6fa81)
 - 2026-09-08 | `dailyftlk-90b33b88` | CPA Australia impressed with growth; sees bigger potential for SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-90b33b88)
-- 2026-09-08 | `dailyftlk-8518dfbf` | SLEIS 2026 to examine how Sri Lanka can build more resilient economy for future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-8518dfbf)
-- 2026-09-08 | `dailyftlk-2fbbe4a1` | Sri Lanka Expo 2027 takes flight with specially branded SriLankan aircraft | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-2fbbe4a1)
-- 2026-09-08 | `dailyftlk-ba9ffbc4` | From an environmental  crisis to an economic one? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-ba9ffbc4)
-- 2026-09-08 | `dailyftlk-d896e1cc` | From bottlenecks to breakthroughs: the Centre that could change the destination of Sri Lanka’s economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-d896e1cc)
-- 2026-09-08 | `dailyftlk-da2a3f06` | Death by debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-da2a3f06)
-- 2026-09-07 | `dailymirrorlk-221f9164` | Jaguar Land Rover to cut 4,000 jobs over next two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-221f9164)
-- 2026-09-07 | `tamilmirrorlk-33384768` | “முதலமைச்சர் இடத்தை யாராலும் நிரப்ப முடியாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-33384768)
 
 ---
 
