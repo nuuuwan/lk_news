@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_06:21:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_08:03:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,737** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-dailyftlk-fd9096df",
-    "num": "dailyftlk-fd9096df",
+    "doc_id": "2026-09-08-tamilmirrorlk-31395357",
+    "num": "tamilmirrorlk-31395357",
     "date_str": "2026-09-08",
-    "description": "Southern business chambers press Treasury on barriers to growth",
-    "url_metadata": "https://www.ft.lk/news/Southern-business-chambers-press-Treasury-on-barriers-to-growth/56-796978",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1788826250.0
+    "description": "\u0bae\u0bb4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb4\u0bc8-\u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-382429",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788833002.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-08 | `tamilmirrorlk-31395357` | மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-31395357)
+- 2026-09-08 | `dailymirrorlk-ecc7f96c` | Pilot killed in small plane crash near regional airport in Florida | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-ecc7f96c)
 - 2026-09-08 | `dailyftlk-fd9096df` | Southern business chambers press Treasury on barriers to growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-fd9096df)
 - 2026-09-08 | `dailyftlk-81d75440` | Australia and Sri Lanka strengthen partnership on electoral integrity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-81d75440)
 - 2026-09-08 | `dailyftlk-7a70de51` | Petition alleges fundamental rights violated over unheard 22nd Amendment challenge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-7a70de51)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-08 | `dailyftlk-da2a3f06` | Death by debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailyftlk-da2a3f06)
 - 2026-09-07 | `dailymirrorlk-221f9164` | Jaguar Land Rover to cut 4,000 jobs over next two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-221f9164)
 - 2026-09-07 | `tamilmirrorlk-33384768` | “முதலமைச்சர் இடத்தை யாராலும் நிரப்ப முடியாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-33384768)
-- 2026-09-07 | `tamilmirrorlk-d7a8b2ec` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமான சேவைகள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-tamilmirrorlk-d7a8b2ec)
-- 2026-09-07 | `dailymirrorlk-6ce74044` | Rs. 130 Mn assets frozen in Money Laundering probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-07-dailymirrorlk-6ce74044)
 
 ---
 
