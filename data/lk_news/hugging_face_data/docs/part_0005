@@ -42924,5 +42924,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788862258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-a32ab3e2",
+    "num": "dailymirrorlk-a32ab3e2",
+    "date_str": "2026-09-08",
+    "description": "Why Thailand ended visa-free entry for Sri Lankans: Herath explains",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-Thailand-ended-visa-free-entry-for-Sri-Lankans-Herath-explains/108-349776",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788863688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-b4d83b1e",
+    "num": "dailymirrorlk-b4d83b1e",
+    "date_str": "2026-09-08",
+    "description": "Government introduces multi-purpose loan scheme for Sri Lankan migrant workers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-introduces-multi-purpose-loan-scheme-for-Sri-Lankan-migrant-workers/108-349777",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788866465.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-b56b5c5d",
+    "num": "dailymirrorlk-b56b5c5d",
+    "date_str": "2026-09-08",
+    "description": "Foreign Minister to represent Sri Lanka at UN General Assembly",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-Minister-to-represent-Sri-Lanka-at-UN-General-Assembly/108-349778",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788868980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-08-dailymirrorlk-c422d877",
+    "num": "dailymirrorlk-c422d877",
+    "date_str": "2026-09-08",
+    "description": "CSE retreats as broad-based selling pulls ASPI below 21,550",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-retreats-as-broad-based-selling-pulls-ASPI-below-21-550/108-349779",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788869181.0
   }
 ]

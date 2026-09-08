@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_16:00:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--08_18:41:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,846** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-08-dailymirrorlk-ba00f426",
-    "num": "dailymirrorlk-ba00f426",
+    "doc_id": "2026-09-08-dailymirrorlk-c422d877",
+    "num": "dailymirrorlk-c422d877",
     "date_str": "2026-09-08",
-    "description": "Don\u2019t suppress right of people to seek hospital treatment when they fall sick: Namal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dont-suppress-right-of-people-to-seek-hospital-treatment-when-they-fall-sick-Namal/108-349775",
+    "description": "CSE retreats as broad-based selling pulls ASPI below 21,550",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-retreats-as-broad-based-selling-pulls-ASPI-below-21-550/108-349779",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788862258.0
+    "time_ut": 1788869181.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-08 | `dailymirrorlk-c422d877` | CSE retreats as broad-based selling pulls ASPI below 21,550 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-c422d877)
+- 2026-09-08 | `dailymirrorlk-b56b5c5d` | Foreign Minister to represent Sri Lanka at UN General Assembly | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-b56b5c5d)
+- 2026-09-08 | `dailymirrorlk-b4d83b1e` | Government introduces multi-purpose loan scheme for Sri Lankan migrant workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-b4d83b1e)
+- 2026-09-08 | `dailymirrorlk-a32ab3e2` | Why Thailand ended visa-free entry for Sri Lankans: Herath explains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-a32ab3e2)
 - 2026-09-08 | `dailymirrorlk-ba00f426` | Don’t suppress right of people to seek hospital treatment when they fall sick: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-ba00f426)
 - 2026-09-08 | `dailymirrorlk-69a54fde` | Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-69a54fde)
 - 2026-09-08 | `dailymirrorlk-7e36593d` | Digital Transformation Units to be established in government institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-7e36593d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-08 | `adalk-804db4dc` | වසර 38කට පසු ඉන්දීය ආරක්ෂක ඇමති ලංකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-804db4dc)
 - 2026-09-08 | `tamilmirrorlk-2f6e905c` | ’INS உதேகிரி’ இலங்கையை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-2f6e905c)
 - 2026-09-08 | `tamilmirrorlk-44e14291` | சுமணரதன தேரருக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-44e14291)
-- 2026-09-08 | `adalk-bf1e9fa3` | දිවයිනේ ප්‍රධාන ජලාශ 74ක ජල ධාරිතාව සියයට 34 දක්වා පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-adalk-bf1e9fa3)
-- 2026-09-08 | `dailymirrorlk-24d62fd5` | Private-sector employees to get online railway season tickets from October 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-24d62fd5)
-- 2026-09-08 | `dailymirrorlk-6b488094` | 13-year-old schoolboy drowns in Maoya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-dailymirrorlk-6b488094)
-- 2026-09-08 | `tamilmirrorlk-640c7f2e` | ஐ.நா.மனித உரிமைகள் ஆணையர் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-08-tamilmirrorlk-640c7f2e)
 
 ---
 
