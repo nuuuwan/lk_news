@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-09 10:02:03",
-  "n_docs": 129896,
+  "time_updated": "2026-09-09 12:08:30",
+  "n_docs": 129910,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 129896,
+  "n_docs_with_text": 129910,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-09",
-  "dataset_size": 2021269355,
+  "dataset_size": 2021619379,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-09-dailymirrorlk-1f962413",
-    "num": "dailymirrorlk-1f962413",
+    "doc_id": "2026-09-09-dailymirrorlk-eddac79e",
+    "num": "dailymirrorlk-eddac79e",
     "date_str": "2026-09-09",
-    "description": "WhatsApp 119 service for hearing-impaired",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/WhatsApp-119-service-for-hearing-impaired/108-349815",
+    "description": "Nawalapitiya-Badulla train services to resume by December",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nawalapitiya-Badulla-train-services-to-resume-by-December/108-349833",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788927897.0
+    "time_ut": 1788935452.0
   }
 }

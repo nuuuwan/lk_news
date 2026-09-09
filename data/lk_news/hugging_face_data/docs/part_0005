@@ -43279,6 +43279,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-7232127e",
+    "num": "dailyftlk-7232127e",
+    "date_str": "2026-09-09",
+    "description": "NCE Export Awards: Over three decades of recognising Sri Lanka\u2019s export excellence",
+    "url_metadata": "https://www.ft.lk/business/NCE-Export-Awards-Over-three-decades-of-recognising-Sri-Lanka-s-export-excellence/34-797002",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788913493.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-09-dailyftlk-255bab72",
     "num": "dailyftlk-255bab72",
     "date_str": "2026-09-09",
@@ -43353,6 +43364,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788920708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-adalk-7471b52e",
+    "num": "adalk-7471b52e",
+    "date_str": "2026-09-09",
+    "description": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd \u0dbd\u0dcf\u0db7\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0dbd\u0dcf\u0db7\u0dba\u0dd2/11-424119",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788921046.0
   },
   {
     "doc_type": "lk_news",
@@ -43474,5 +43496,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788927897.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-186fe258",
+    "num": "dailymirrorlk-186fe258",
+    "date_str": "2026-09-09",
+    "description": "Four killed in four road accidents",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-killed-in-four-road-accidents/108-349816",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788928089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-adalk-4e0ee665",
+    "num": "adalk-4e0ee665",
+    "date_str": "2026-09-09",
+    "description": "\u0d9a\u0ddc\u0dab\u0dca\u0da9 \u0dbb\u0d82\u0da2\u0dd2 \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dab\u0dca\u0da9-\u0dbb\u0d82\u0da2\u0dd2-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd2-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424123",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788929327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-tamilmirrorlk-35837253",
+    "num": "tamilmirrorlk-35837253",
+    "date_str": "2026-09-09",
+    "description": "\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1: \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf/50-382503",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788930782.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-1d169a52",
+    "num": "dailymirrorlk-1d169a52",
+    "date_str": "2026-09-09",
+    "description": "Let tax be collected, without making compliance a burden",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Let-tax-be-collected-without-making-compliance-a-burden/108-349817",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788930791.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-tamilmirrorlk-168a2c1e",
+    "num": "tamilmirrorlk-168a2c1e",
+    "date_str": "2026-09-09",
+    "description": "\u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-382504",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788930909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-85104e15",
+    "num": "dailymirrorlk-85104e15",
+    "date_str": "2026-09-09",
+    "description": "Frontline soldiers sanctioned, LTTE combatants pardoned: Gen. Silva questions Western sanctions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Frontline-soldiers-sanctioned-LTTE-combatants-pardoned-Gen-Silva-questions-Western-sanctions/108-349818",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788932901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-4f095d48",
+    "num": "dailymirrorlk-4f095d48",
+    "date_str": "2026-09-09",
+    "description": "Cancer patients in limbo as vital treatment disrupted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-patients-in-limbo-as-vital-treatment-disrupted/108-349819",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788933149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-tamilmirrorlk-3b6c5c76",
+    "num": "tamilmirrorlk-3b6c5c76",
+    "date_str": "2026-09-09",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9 \u0baa\u0bbe\u0bb2\u0bb8\u0bcd\u0ba4\u0bc0\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9-\u0baa\u0bbe\u0bb2\u0bb8\u0bcd\u0ba4\u0bc0\u0ba9\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382507",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788933327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-be3045b4",
+    "num": "dailymirrorlk-be3045b4",
+    "date_str": "2026-09-09",
+    "description": "Uproar in Parliament after Leader of the House makes remark",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Uproar-in-Parliament-after-Leader-of-the-House-makes-remark/108-349820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788933420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-4b3ecd2e",
+    "num": "dailymirrorlk-4b3ecd2e",
+    "date_str": "2026-09-09",
+    "description": "Helicopter carrying 5, including medical staff, crashes In Malaysia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Helicopter-carrying-5-including-medical-staff-crashes-In-Malaysia/108-349823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788934136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-0f5c3763",
+    "num": "dailymirrorlk-0f5c3763",
+    "date_str": "2026-09-09",
+    "description": "Namal can\u2019t be compared to a beggar: Herath hits back at Gammanpila",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-cant-be-compared-to-a-beggar-Herath-hits-back-at-Gammanpila/108-349830",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788935019.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-eddac79e",
+    "num": "dailymirrorlk-eddac79e",
+    "date_str": "2026-09-09",
+    "description": "Nawalapitiya-Badulla train services to resume by December",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nawalapitiya-Badulla-train-services-to-resume-by-December/108-349833",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788935452.0
   }
 ]
