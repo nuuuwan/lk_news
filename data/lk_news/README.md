@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_19:59:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_22:01:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,978** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,984** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-09-dailymirrorlk-71c09da9",
-    "num": "dailymirrorlk-71c09da9",
+    "doc_id": "2026-09-09-tamilmirrorlk-efe46a9f",
+    "num": "tamilmirrorlk-efe46a9f",
     "date_str": "2026-09-09",
-    "description": "Over 2,400 Cyclone Ditwah-displaced people to be resettled soon",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-2-400-Cyclone-Ditwah-displaced-people-to-be-resettled-soon/108-349878",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1788963641.0
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/175-382531",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788969263.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-09 | `tamilmirrorlk-efe46a9f` | நீதிமன்றில் சாட்சியமளித்த இளைஞன் மீது வாள்வெட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-efe46a9f)
+- 2026-09-09 | `tamilmirrorlk-1139ccdc` | தேயிலைத் தோட்டத்தில் உலா வரும் சிறுத்தை; அச்சத்தில் தொழிலாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-1139ccdc)
+- 2026-09-09 | `dailymirrorlk-34f77fb2` | President approves extension of Rs. 25,000 rent allowance for Ditwah-affected families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-34f77fb2)
+- 2026-09-09 | `dailymirrorlk-7151cb20` | WHO honours Sri Lanka for sustaining malaria-free status, tetanus elimination | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-7151cb20)
+- 2026-09-09 | `dailymirrorlk-2fbaa1c3` | Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-2fbaa1c3)
 - 2026-09-09 | `dailymirrorlk-71c09da9` | Over 2,400 Cyclone Ditwah-displaced people to be resettled soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-71c09da9)
 - 2026-09-09 | `tamilmirrorlk-c4c99b93` | கடல் கொந்தளிப்பு குறித்து வெளியான எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-c4c99b93)
 - 2026-09-09 | `dailymirrorlk-e1805bb9` | CSE extends decline as selling pressure broadens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-e1805bb9)
@@ -54,13 +59,8 @@ A collection of lk_news documents.
 - 2026-09-09 | `dailymirrorlk-8e67b4db` | Late asset declarations: CIABOC sets September 30 deadline to explain delays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-8e67b4db)
 - 2026-09-09 | `dailymirrorlk-6436b98a` | ‘Ethera Diriya’ home loan scheme for expatriates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-6436b98a)
 - 2026-09-09 | `dailymirrorlk-7bbb38eb` | Sri Lanka calls for conclusion of country-specific UNHRC mandates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-7bbb38eb)
+- 2026-09-09 | `adalk-7dfde7ff` | තෙල් බැරලය ඩොලර් 100ට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-7dfde7ff)
 - 2026-09-09 | `adalk-f6256760` | ඉන්දීය අත්අඩංගුවේ සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවන් ලංකාවට ගේන්න ජනපති ඉන්දියාවේ සහාය ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-f6256760)
-- 2026-09-09 | `dailymirrorlk-51af8751` | Environmental protection gets a grassroots power boost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-51af8751)
-- 2026-09-09 | `adalk-15ca4477` | නුවරඑළියට ආපු බස් රථ හයකට නොතීසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-15ca4477)
-- 2026-09-09 | `dailymirrorlk-3134060c` | Namal well aware of Parliamentary Standing Orders: Madugoda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-3134060c)
-- 2026-09-09 | `adalk-bd3137a5` | නල්ලූර් උත්සවයට පෙර කොමර්ෂල් Q+ ඩිජිටල් ගෙවීම් ප්‍රයත්නය යාපනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-bd3137a5)
-- 2026-09-09 | `adalk-27d7ee63` | දකුණු කොරියා ඉතිහාසය වෙනස් කළ දික්කසාඳ නඩුව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-27d7ee63)
-- 2026-09-09 | `tamilmirrorlk-9d9852bd` | நல்லூர் கந்தசுவாமி ஆலய மகோற்சவ தேர்த்திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-9d9852bd)
 
 ---
 

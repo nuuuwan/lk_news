@@ -44236,6 +44236,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-09-adalk-7dfde7ff",
+    "num": "adalk-7dfde7ff",
+    "date_str": "2026-09-09",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db6\u0dd0\u0dbb\u0dbd\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca 100\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db6\u0dd0\u0dbb\u0dbd\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-100\u0da7-\u0dba\u0dba\u0dd2/11-424132",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788950748.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-09-dailymirrorlk-7bbb38eb",
     "num": "dailymirrorlk-7bbb38eb",
     "date_str": "2026-09-09",
@@ -44376,5 +44387,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788963641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-2fbaa1c3",
+    "num": "dailymirrorlk-2fbaa1c3",
+    "date_str": "2026-09-09",
+    "description": "Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-tanker-hit-in-Iraqi-waters-as-vessels-get-caught-in-US-Iran-attacks/108-349879",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788964227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-7151cb20",
+    "num": "dailymirrorlk-7151cb20",
+    "date_str": "2026-09-09",
+    "description": "WHO honours Sri Lanka for sustaining malaria-free status, tetanus elimination",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/WHO-honours-Sri-Lanka-for-sustaining-malaria-free-status-tetanus-elimination/108-349880",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788964921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-34f77fb2",
+    "num": "dailymirrorlk-34f77fb2",
+    "date_str": "2026-09-09",
+    "description": "President approves extension of Rs. 25,000 rent allowance for Ditwah-affected families",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-approves-extension-of-Rs-25-000-rent-allowance-for-Ditwah-affected-families/108-349881",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788965814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-tamilmirrorlk-1139ccdc",
+    "num": "tamilmirrorlk-1139ccdc",
+    "date_str": "2026-09-09",
+    "description": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb2\u0bbe \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8; \u0b85\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b89\u0bb2\u0bbe-\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0b85\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/76-382530",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788967620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-tamilmirrorlk-efe46a9f",
+    "num": "tamilmirrorlk-efe46a9f",
+    "date_str": "2026-09-09",
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/175-382531",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788969263.0
   }
 ]
