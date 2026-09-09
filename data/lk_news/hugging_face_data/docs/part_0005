@@ -43122,5 +43122,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788887638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-dc65d562",
+    "num": "dailyftlk-dc65d562",
+    "date_str": "2026-09-09",
+    "description": "Solicitor General Dayaratne appointed Acting Attorney General",
+    "url_metadata": "https://www.ft.lk/news/Solicitor-General-Dayaratne-appointed-Acting-Attorney-General/56-796990",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-8b139bb3",
+    "num": "dailyftlk-8b139bb3",
+    "date_str": "2026-09-09",
+    "description": "Taj Samudra welcomes Defence Minister of India",
+    "url_metadata": "https://www.ft.lk/news/Taj-Samudra-welcomes-Defence-Minister-of-India/56-796991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911378.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-138b0224",
+    "num": "dailyftlk-138b0224",
+    "date_str": "2026-09-09",
+    "description": "Kandy dialogue wraps up first phase of youth-parliament engagement initiative",
+    "url_metadata": "https://www.ft.lk/news/Kandy-dialogue-wraps-up-first-phase-of-youth-parliament-engagement-initiative/56-796992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-13a6185c",
+    "num": "dailyftlk-13a6185c",
+    "date_str": "2026-09-09",
+    "description": "Namal criticises Dissanayake\u2019s hospital visit remarks, cites drug shortages",
+    "url_metadata": "https://www.ft.lk/news/Namal-criticises-Dissanayake-s-hospital-visit-remarks-cites-drug-shortages/56-796993",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-0570b795",
+    "num": "dailyftlk-0570b795",
+    "date_str": "2026-09-09",
+    "description": "US flags SL about Iranian vessels",
+    "url_metadata": "https://www.ft.lk/news/US-flags-SL-about-Iranian-vessels/56-796994",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-de0be806",
+    "num": "dailyftlk-de0be806",
+    "date_str": "2026-09-09",
+    "description": "Sajith and Harshana clash over Commonwealth Lawyers Association",
+    "url_metadata": "https://www.ft.lk/news/Sajith-and-Harshana-clash-over-Commonwealth-Lawyers-Association/56-796995",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788911653.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-255bab72",
+    "num": "dailyftlk-255bab72",
+    "date_str": "2026-09-09",
+    "description": "UNDP, Environment Ministry sign $ 4.5 m biodiversity project",
+    "url_metadata": "https://www.ft.lk/business/UNDP-Environment-Ministry-sign-4-5-m-biodiversity-project/34-797003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788913581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailyftlk-ce67a8a0",
+    "num": "dailyftlk-ce67a8a0",
+    "date_str": "2026-09-09",
+    "description": "High-profile second edition of \u201cSri Lanka Beyond Your Dreams\u201d in UAE",
+    "url_metadata": "https://www.ft.lk/business/High-profile-second-edition-of-Sri-Lanka-Beyond-Your-Dreams-in-UAE/34-797004",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788913878.0
   }
 ]
