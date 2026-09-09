@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_22:01:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_00:04:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**129,984** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**129,985** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-09-tamilmirrorlk-efe46a9f",
-    "num": "tamilmirrorlk-efe46a9f",
+    "doc_id": "2026-09-09-dailymirrorlk-271b8cae",
+    "num": "dailymirrorlk-271b8cae",
     "date_str": "2026-09-09",
-    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/175-382531",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1788969263.0
+    "description": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+    "url_metadata": "https://www.dailymirror.lk/international/Mamdani-releases-records-on-toxic-air-in-New-York-after-911-attacks/107-349882",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788972743.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-09 | `dailymirrorlk-271b8cae` | Mamdani releases records on toxic air in New York after 9/11 attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-271b8cae)
 - 2026-09-09 | `tamilmirrorlk-efe46a9f` | நீதிமன்றில் சாட்சியமளித்த இளைஞன் மீது வாள்வெட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-efe46a9f)
 - 2026-09-09 | `tamilmirrorlk-1139ccdc` | தேயிலைத் தோட்டத்தில் உலா வரும் சிறுத்தை; அச்சத்தில் தொழிலாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-tamilmirrorlk-1139ccdc)
 - 2026-09-09 | `dailymirrorlk-34f77fb2` | President approves extension of Rs. 25,000 rent allowance for Ditwah-affected families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-34f77fb2)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-09 | `dailymirrorlk-6436b98a` | ‘Ethera Diriya’ home loan scheme for expatriates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-6436b98a)
 - 2026-09-09 | `dailymirrorlk-7bbb38eb` | Sri Lanka calls for conclusion of country-specific UNHRC mandates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-dailymirrorlk-7bbb38eb)
 - 2026-09-09 | `adalk-7dfde7ff` | තෙල් බැරලය ඩොලර් 100ට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-7dfde7ff)
-- 2026-09-09 | `adalk-f6256760` | ඉන්දීය අත්අඩංගුවේ සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවන් ලංකාවට ගේන්න ජනපති ඉන්දියාවේ සහාය ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-09-adalk-f6256760)
 
 ---
 

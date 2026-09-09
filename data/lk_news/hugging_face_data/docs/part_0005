@@ -44442,5 +44442,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1788969263.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-09-dailymirrorlk-271b8cae",
+    "num": "dailymirrorlk-271b8cae",
+    "date_str": "2026-09-09",
+    "description": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+    "url_metadata": "https://www.dailymirror.lk/international/Mamdani-releases-records-on-toxic-air-in-New-York-after-911-attacks/107-349882",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1788972743.0
   }
 ]
