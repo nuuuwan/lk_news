@@ -1,0 +1,43 @@
+OpenAI says it cracked 90-year-old maths problem in 88 hours
+
+BBC - OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.
+
+The ChatGPT-maker said on Tuesday that by focusing a group of roughly 10,000 AI agents, or AI bots that undertake tasks somewhat autonomously, it solved a notoriously difficult maths problem in just 88 hours.
+
+The problem was part of the Navier-Stokes equations, which concern how fluids move. For 90 years important aspects of the problems have lacked a proof, the argument underlying a correct math equation.
+
+OpenAI called the solution which it found a "milestone" and evidence that AI tools are improving quickly.
+
+OpenAI's solution has yet to be verified independently or publicly accepted by The Clay Mathematics Institute, a maths organization based in the US which runs the Millennium Prize that offers big money to the first to solve certain mathematical conundrums.
+
+The company said that at the end of August, it started to train a new model that quickly showed that it was adept at maths. AI models are computer programs trained on huge amounts of data to recognize and predict patterns in information.
+
+While the new OpenAI model remains a tool only used within the company, as it is "significantly more capable" than the company's most recent AI model release, its researchers decided to use it on certain notable advanced maths problems.
+
+OpenAI admitted that last week on 1 September, it had "heard rumors that two Millennium Prize problems had been resolved" and so decided to put thousands of AI bots trained on the new internal model to work attempting to solve some of the remaining problems.
+
+By Sept 5, or roughly 88 hours after it had set 10,000 AI bots to the task, OpenAI had found a solution to what's referred to as the Navier–Stokes existence and smoothness problem.
+
+The problem is at the heart of turbulence, which is a phenomenon that is still not well understood.
+
+Although it took the AI bots seemingly little time to reach a solution, OpenAI said the bots exchanged nearly 3 million messages and used up 130 billion output tokens, or the individual lines of text and code an AI model produces in answers, on Navier–Stokes alone.
+
+Such an effort would have cost roughly $10m (£7.3m), based on OpenAI's own pricing for output from its most advanced models.
+
+The solution that OpenAI says it has now reached for the Navier–Stokes existence and smoothness problem resolved two out of the four statements in the proof that the Millennium Prize had demanded. The prize is worth $1m to a winner.
+
+"Our goal in releasing this result is to report on the substantial progress of our AI models", OpenAI said on Tuesday. "We do not intend to claim the Millennium Prize for this result."
+
+Tristan Buckmaster, a mathematics professor at New York University, said on Tuesday that he and Levent Alpöge, a mathematician working for OpenAI rival Anthropic, had also been working toward solutions for the problem.
+
+The duo had been using OpenAI's tool Codex in their work. But Buckmaster said that on 3 September, he found out that "information about our progress had been passed to OpenAI."
+
+Buckmaster's statement came the same day, but hours before, OpenAI published its Navier–Stokes work. He claimed that OpenAI did not begin working on the Navier–Stokes equations until "after information about our work had reached OpenAI." He included text from emails exchanged with OpenAI over the work and his questions of the company's timing and methods.
+
+Buckmaster added that he had not yet read OpenAI's full proof, but felt compelled to go public with "what I was told, when, and what was proposed to me...because the alternative is to let a sequence of announcements say something I know to be false."
+
+OpenAI on Tuesday congratulated the "concurrent work" of Buckmaster and Alpöge, calling it "remarkable."
+
+The company said it had not seen "any of their work through any means until they released it publicly" and that no user data was accessed in its work on the Navier–Stokes problem.
+
+"While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models⁠", the company added. "However, our proofs differ significantly and even the precise results proved are different."
