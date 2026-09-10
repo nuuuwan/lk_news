@@ -44753,6 +44753,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-4b6df8e3",
+    "num": "adalk-4b6df8e3",
+    "date_str": "2026-09-10",
+    "description": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca. \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d85\u0daf \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca--\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d85\u0daf-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7/11-424138",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789012225.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-10-tamilmirrorlk-cb2254ed",
     "num": "tamilmirrorlk-cb2254ed",
     "date_str": "2026-09-10",
@@ -45509,5 +45520,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789028623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-adb69faf",
+    "num": "tamilmirrorlk-adb69faf",
+    "date_str": "2026-09-10",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-382559",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789028885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-8e33a20d",
+    "num": "tamilmirrorlk-8e33a20d",
+    "date_str": "2026-09-10",
+    "description": "\u0bb0\u0bca\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb \u0ba4\u0ba9\u0ba4\u0bc1 979\u0b86\u0bb5\u0ba4\u0bc1 \u0b95\u0bcb\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bb0\u0bca\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb-\u0ba4\u0ba9\u0ba4\u0bc1-979\u0b86\u0bb5\u0ba4\u0bc1-\u0b95\u0bcb\u0bb2\u0bc8\u0baa\u0bcd-\u0baa\u0ba4\u0bbf\u0bb5\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/44-382560",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789029395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-4b9a2cac",
+    "num": "dailymirrorlk-4b9a2cac",
+    "date_str": "2026-09-10",
+    "description": "Are Ministers behind USD 2.5 million theft, asks Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Are-Ministers-behind-USD-2-5-million-theft-asks-Namal/108-349954",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789030164.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-8ca6c000",
+    "num": "adalk-8ca6c000",
+    "date_str": "2026-09-10",
+    "description": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba \u0dbd\u0ddc\u0dc0 \u0d89\u0dc4\u0dc5\u0db8 \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd6 \u0db8\u0dcf\u0dc3\u0dba\u0da7 \u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0dc3\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0db8\u0dcf\u0dc3\u0dba-\u0dbd\u0ddc\u0dc0-\u0d89\u0dc4\u0dc5\u0db8-\u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd6-\u0db8\u0dcf\u0dc3\u0dba\u0da7-\u0dc4\u0dd2\u0db8\u0dd2-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0dc3\u0db8-\u0d9a\u0dbb\u0dba\u0dd2/11-424144",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789031914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-7db7fb2f",
+    "num": "tamilmirrorlk-7db7fb2f",
+    "date_str": "2026-09-10",
+    "description": "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bb8\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0bb8\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf/50-382561",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789031985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-aedfbe3c",
+    "num": "dailymirrorlk-aedfbe3c",
+    "date_str": "2026-09-10",
+    "description": "Traders express anger over removal of fish stalls at Dewata Beach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Traders-express-anger-over-removal-of-fish-stalls-at-Dewata-Beach/108-349955",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789032473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-9c4b9597",
+    "num": "tamilmirrorlk-9c4b9597",
+    "date_str": "2026-09-10",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc0\u0ba4\u0bc8\u0baf\u0bc8 \u0bb5\u0bb4\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9c\u0bc0\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0bc0\u0ba4\u0bc8\u0baf\u0bc8-\u0bb5\u0bb4\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd/76-382563",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789032494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-0158ddf1",
+    "num": "dailymirrorlk-0158ddf1",
+    "date_str": "2026-09-10",
+    "description": "Rs. 400,000 fine for selling non-SLS extension cords",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-400-000-fine-for-selling-non-SLS-extension-cords/108-349956",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789032692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-8d2ff5f8",
+    "num": "dailymirrorlk-8d2ff5f8",
+    "date_str": "2026-09-10",
+    "description": "Iran war won\u2019t end until after crucial November elections, says Trump",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-war-wont-end-until-after-crucial-November-elections-says-Trump/107-349957",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789033018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-033c3f8c",
+    "num": "dailymirrorlk-033c3f8c",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka targets stronger position in global supply chains",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-targets-stronger-position-in-global-supply-chains/108-349958",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789034305.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-7a50bff9",
+    "num": "dailymirrorlk-7a50bff9",
+    "date_str": "2026-09-10",
+    "description": "Yemen\u2019s Houthis close in on stranglehold over strategic Bab el-Mandeb Strait",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yemens-Houthis-close-in-on-stranglehold-over-strategic-Bab-el-Mandeb-Strait/108-349959",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789035232.0
   }
 ]
