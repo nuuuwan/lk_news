@@ -44464,5 +44464,159 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1788972743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-69c1bd0b",
+    "num": "tamilmirrorlk-69c1bd0b",
+    "date_str": "2026-09-10",
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb9\u0bb0\u0bbf\u0ba3\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb0\u0bbe\u0b9c\u0bcd\u0ba8\u0bbe\u0ba4\u0bcd \u0b9a\u0bbf\u0b99\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bb9\u0bb0\u0bbf\u0ba3\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb0\u0bbe\u0b9c\u0bcd\u0ba8\u0bbe\u0ba4\u0bcd-\u0b9a\u0bbf\u0b99\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382533",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1788993114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-aaabe628",
+    "num": "dailyftlk-aaabe628",
+    "date_str": "2026-09-10",
+    "description": "Caging Namal, soliciting NATO, pauperising people, suffocating democracy",
+    "url_metadata": "https://www.ft.lk/columns/Caging-Namal-soliciting-NATO-pauperising-people-suffocating-democracy/4-797035",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788994197.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-0f36eb76",
+    "num": "dailyftlk-0f36eb76",
+    "date_str": "2026-09-10",
+    "description": "An Indian Defence Minister after 38 years: Partnership without capture",
+    "url_metadata": "https://www.ft.lk/columns/An-Indian-Defence-Minister-after-38-years-Partnership-without-capture/4-797037",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788994819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-8069f7c4",
+    "num": "dailyftlk-8069f7c4",
+    "date_str": "2026-09-10",
+    "description": "How N-able and FIS are bringing global treasury technology to Sri Lanka\u2019s banks",
+    "url_metadata": "https://www.ft.lk/business/How-N-able-and-FIS-are-bringing-global-treasury-technology-to-Sri-Lanka-s-banks/34-797038",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788995055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-98b9ec32",
+    "num": "dailyftlk-98b9ec32",
+    "date_str": "2026-09-10",
+    "description": "GRI and EDB sign strategic multi-year agreement to advance sustainable trade",
+    "url_metadata": "https://www.ft.lk/business/GRI-and-EDB-sign-strategic-multi-year-agreement-to-advance-sustainable-trade/34-797039",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788995114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-701ababd",
+    "num": "dailyftlk-701ababd",
+    "date_str": "2026-09-10",
+    "description": "Cabinet approves inaugural \u2018Road Safety Presidential Awards 2026\u2019 to recognise road safety champions",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-inaugural-Road-Safety-Presidential-Awards-2026-to-recognise-road-safety-champions/56-797057",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788996843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-eb915371",
+    "num": "dailyftlk-eb915371",
+    "date_str": "2026-09-10",
+    "description": "Cabinet clears new law to tackle organised crime, move away from PTA detentions",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-new-law-to-tackle-organised-crime-move-away-from-PTA-detentions/56-797058",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788996879.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-035ac8b9",
+    "num": "dailyftlk-035ac8b9",
+    "date_str": "2026-09-10",
+    "description": "Rajnath Singh highlights India\u2019s economic transformation and Sri Lanka ties",
+    "url_metadata": "https://www.ft.lk/news/Rajnath-Singh-highlights-India-s-economic-transformation-and-Sri-Lanka-ties/56-797059",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788996969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-fc6ce619",
+    "num": "dailyftlk-fc6ce619",
+    "date_str": "2026-09-10",
+    "description": "UNP response to Daily FT Editorial \u2013 \u201cUNP At 80\u201d",
+    "url_metadata": "https://www.ft.lk/news/UNP-response-to-Daily-FT-Editorial-UNP-At-80/56-797060",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788997019.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-c17ad039",
+    "num": "dailyftlk-c17ad039",
+    "date_str": "2026-09-10",
+    "description": "UNHRC report distorted as endorsement, says Shanakiyan",
+    "url_metadata": "https://www.ft.lk/news/UNHRC-report-distorted-as-endorsement-says-Shanakiyan/56-797061",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788997102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-70cb48bb",
+    "num": "dailyftlk-70cb48bb",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka, Thailand move to formalise labour migration cooperation",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Thailand-move-to-formalise-labour-migration-cooperation/34-797062",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788997168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-b008ab10",
+    "num": "dailyftlk-b008ab10",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka\u2013Canada Business Council reaffirms commitment to strengthening bilateral business relations",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaCanada-Business-Council-reaffirms-commitment-to-strengthening-bilateral-business-relations/34-797063",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788997263.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailyftlk-d0f07975",
+    "num": "dailyftlk-d0f07975",
+    "date_str": "2026-09-10",
+    "description": "George Steuart & Company marks 191 years",
+    "url_metadata": "https://www.ft.lk/business/George-Steuart-Company-marks-191-years/34-797064",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1788997378.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-d7eba267",
+    "num": "tamilmirrorlk-d7eba267",
+    "date_str": "2026-09-10",
+    "description": "\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0ba4\u0bc1-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-382536",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789000054.0
   }
 ]
