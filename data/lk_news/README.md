@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_20:00:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_21:59:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,133** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,140** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-10-dailymirrorlk-c508e1d9",
-    "num": "dailymirrorlk-c508e1d9",
+    "doc_id": "2026-09-10-tamilmirrorlk-67f9ef5b",
+    "num": "tamilmirrorlk-67f9ef5b",
     "date_str": "2026-09-10",
-    "description": "Twenty-five dead after fire on cargo ship in eastern China",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Twenty-five-dead-after-fire-on-cargo-ship-in-eastern-China/108-349989",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789048842.0
+    "description": "\u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb trend",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb0\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb-trend/54-382587",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789057242.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-10 | `tamilmirrorlk-67f9ef5b` | இணையத்தை கலக்கும் ரெட்ரோ trend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-67f9ef5b)
+- 2026-09-10 | `tamilmirrorlk-52811a72` | கார் என்ஜினுக்குள் பதுங்கியிருந்த மலைப்பாம்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-52811a72)
+- 2026-09-10 | `dailymirrorlk-3237bedf` | Police hunt drug links behind Facebook parties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-3237bedf)
+- 2026-09-10 | `tamilmirrorlk-0a93e13a` | பிரபல பாடகர் இலங்கை வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-0a93e13a)
+- 2026-09-10 | `dailymirrorlk-4bd4002b` | Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-4bd4002b)
+- 2026-09-10 | `dailymirrorlk-4168924e` | Malagamuwa denies allegations over Rs.2.5bn property | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-4168924e)
+- 2026-09-10 | `dailymirrorlk-ce7255b4` | AG to take action against prosecution witness over alleged false evidence in Yoshitha Rajapaksa case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ce7255b4)
 - 2026-09-10 | `dailymirrorlk-c508e1d9` | Twenty-five dead after fire on cargo ship in eastern China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-c508e1d9)
 - 2026-09-10 | `dailymirrorlk-436de1e8` | Sri Lanka secures international cooperation through UNCCD summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-436de1e8)
 - 2026-09-10 | `dailymirrorlk-c40c5520` | Bambalapitiya Railway Station gets Rs. 60 million facelift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-c40c5520)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-10 | `dailymirrorlk-ab7d4cc3` | Don’t play parts played in films in real life, Magistrate warns actor Hemal Ranasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ab7d4cc3)
 - 2026-09-10 | `dailymirrorlk-d0618c4f` | Government plans programmes to reduce migrant worker deaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-d0618c4f)
 - 2026-09-10 | `dailymirrorlk-33d3439d` | New education reforms propose 50:50 assessment system and weighted marks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-33d3439d)
-- 2026-09-10 | `dailymirrorlk-df444a8e` | Three seawater desalination projects currently under NWSDB | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-df444a8e)
-- 2026-09-10 | `dailymirrorlk-d416b837` | Migrant workers to get housing loans up to Rs.10m under ‘Ethera Diriya’ scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-d416b837)
-- 2026-09-10 | `tamilmirrorlk-0afe9e12` | மதத் தலைவர்கள் ஜனாதிபதியை சந்தித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-0afe9e12)
-- 2026-09-10 | `dailymirrorlk-8d4cf026` | 18 Air Force athletes join Sri Lanka contingent for 20th Asian Games | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-8d4cf026)
-- 2026-09-10 | `dailymirrorlk-b6bd8681` | Nearly 1,000 children diagnosed with cancer annually in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-b6bd8681)
-- 2026-09-10 | `dailymirrorlk-ab715224` | First local amphibious vessel exported | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ab715224)
-- 2026-09-10 | `dailymirrorlk-82f69c56` | Sri Lanka exports first amphibious vessel to Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-82f69c56)
 
 ---
 
