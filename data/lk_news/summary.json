@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-10 10:02:59",
-  "n_docs": 130014,
+  "time_updated": "2026-09-10 12:10:51",
+  "n_docs": 130041,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130014,
+  "n_docs_with_text": 130041,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-10",
-  "dataset_size": 2023055866,
+  "dataset_size": 2023301113,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-10-dailymirrorlk-a22804f3",
-    "num": "dailymirrorlk-a22804f3",
+    "doc_id": "2026-09-10-dailymirrorlk-aa79e687",
+    "num": "dailymirrorlk-aa79e687",
     "date_str": "2026-09-10",
-    "description": "India, Sri Lanka discuss defence cooperation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-discuss-defence-cooperation/108-349892",
+    "description": "Extreme weather puts Sri Lanka\u2019s unique wildlife and ecosystems at risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Extreme-weather-puts-Sri-Lankas-unique-wildlife-and-ecosystems-at-risk/108-349912",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789013777.0
+    "time_ut": 1789021595.0
   }
 }
