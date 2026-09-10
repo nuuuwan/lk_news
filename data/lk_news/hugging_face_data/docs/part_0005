@@ -44280,6 +44280,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-09-adalk-ef9c9b4e",
+    "num": "adalk-ef9c9b4e",
+    "date_str": "2026-09-09",
+    "description": "\u0dc3\u0dd1\u0db8 \u0dc0\u0dc3\u0dbb\u0d9a\u0db8 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda 3500\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd1\u0db8-\u0dc0\u0dc3\u0dbb\u0d9a\u0db8-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-3500\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd2-\u0db1\u0dc3\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-424133",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1788951788.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-09-dailymirrorlk-8e67b4db",
     "num": "dailymirrorlk-8e67b4db",
     "date_str": "2026-09-09",
@@ -44618,5 +44629,148 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789000054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-d54b2a39",
+    "num": "adalk-d54b2a39",
+    "date_str": "2026-09-10",
+    "description": "\u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dad\u0dca \u0dc3\u0db8\u0d9c \u0d9c\u0db8\u0dca\u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0dc0\u0d9c\u0dcf\u0dc0\u0da7 \u0db4\u0dab\u0dd4 \u0dbb\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dba\u0dc5\u0dd2-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dad\u0dca-\u0dc3\u0db8\u0d9c-\u0d9c\u0db8\u0dca\u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0db4\u0dab\u0dd4-\u0dbb\u0ddd\u0d9c\u0dba\u0d9a\u0dca/11-424134",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789007722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-27fbb94d",
+    "num": "adalk-27fbb94d",
+    "date_str": "2026-09-10",
+    "description": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dd4\u0dbb\u0dda\u0db1\u0dd2\u0dba\u0db8\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0dc3\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0dda \u0db4\u0dc3\u0dd4\u0d9a\u0db8\u0d9a\u0dca \u0d89\u0daf\u0dd2\u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0dad\u0dd4\u0dbb\u0dd4-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0-\u0dba\u0dd4\u0dbb\u0dda\u0db1\u0dd2\u0dba\u0db8\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0dc3\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0dda-\u0db4\u0dc3\u0dd4\u0d9a\u0db8\u0d9a\u0dca-\u0d89\u0daf\u0dd2\u0d9a\u0dbb\u0dba\u0dd2/11-424135",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789008560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-84d06c77",
+    "num": "dailymirrorlk-84d06c77",
+    "date_str": "2026-09-10",
+    "description": "At least five killed, 87 missing after ferry fire in Philippines",
+    "url_metadata": "https://www.dailymirror.lk/international/At-least-five-killed-87-missing-after-ferry-fire-in-Philippines/107-349884",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789010107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-5ab72cc7",
+    "num": "dailymirrorlk-5ab72cc7",
+    "date_str": "2026-09-10",
+    "description": "Thennekumbura traders protest against govt., allege JVP supporters favored",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thennekumbura-traders-protest-against-govt-allege-JVP-supporters-favored/108-349885",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789010472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-13f8a550",
+    "num": "dailymirrorlk-13f8a550",
+    "date_str": "2026-09-10",
+    "description": "Protesters outside mistake Pakistan U19 cricket team for asylum seekers",
+    "url_metadata": "https://www.dailymirror.lk/international/Protesters-outside-mistake-Pakistan-U19-cricket-team-for-asylum-seekers/107-349886",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789011049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-a247f9a4",
+    "num": "dailymirrorlk-a247f9a4",
+    "date_str": "2026-09-10",
+    "description": "Why Sri Lanka is one of Asia\u2019s most underrated countries, says world traveller Cameron",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-Sri-Lanka-is-one-of-Asias-most-underrated-countries-says-world-traveller-Cameron/108-349887",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789011558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-cb2254ed",
+    "num": "tamilmirrorlk-cb2254ed",
+    "date_str": "2026-09-10",
+    "description": "\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b85\u0baa\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd-\u0b85\u0baa\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4-\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0b95\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0baa\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-382537",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789012804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-aab94d18",
+    "num": "dailymirrorlk-aab94d18",
+    "date_str": "2026-09-10",
+    "description": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+    "url_metadata": "https://www.dailymirror.lk/international/Apple-debuts-iPhone-18-Pro-and-iPhone-18-Pro-Max/107-349888",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789012926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-d9440e38",
+    "num": "dailymirrorlk-d9440e38",
+    "date_str": "2026-09-10",
+    "description": "Suspect arrested over alleged $80 Mn illegal foreign transfer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-alleged-80-Mn-illegal-foreign-transfer/108-349889",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789013049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-b4b9af42",
+    "num": "dailymirrorlk-b4b9af42",
+    "date_str": "2026-09-10",
+    "description": "22 injured as Colombo-bound bus plunges into canal in Minneriya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22-injured-as-Colombo-bound-bus-plunges-into-canal-in-Minneriya/108-349890",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789013271.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-f70c12ce",
+    "num": "dailymirrorlk-f70c12ce",
+    "date_str": "2026-09-10",
+    "description": "Catholic Bishops call for impartial probe into Chemmani mass graves",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Catholic-Bishops-call-for-impartial-probe-into-Chemmani-mass-graves/108-349891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789013684.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-5c59847d",
+    "num": "tamilmirrorlk-5c59847d",
+    "date_str": "2026-09-10",
+    "description": "\u0baa\u0bb8\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 22 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-22-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-382538",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789013723.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-a22804f3",
+    "num": "dailymirrorlk-a22804f3",
+    "date_str": "2026-09-10",
+    "description": "India, Sri Lanka discuss defence cooperation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-discuss-defence-cooperation/108-349892",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789013777.0
   }
 ]
