@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_16:00:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_18:03:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,093** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,112** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-10-dailymirrorlk-7a50bff9",
-    "num": "dailymirrorlk-7a50bff9",
+    "doc_id": "2026-09-10-dailymirrorlk-82f69c56",
+    "num": "dailymirrorlk-82f69c56",
     "date_str": "2026-09-10",
-    "description": "Yemen\u2019s Houthis close in on stranglehold over strategic Bab el-Mandeb Strait",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yemens-Houthis-close-in-on-stranglehold-over-strategic-Bab-el-Mandeb-Strait/108-349959",
+    "description": "Sri Lanka exports first amphibious vessel to Europe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-exports-first-amphibious-vessel-to-Europe/108-349971",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789035232.0
+    "time_ut": 1789042896.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-10 | `dailymirrorlk-82f69c56` | Sri Lanka exports first amphibious vessel to Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-82f69c56)
+- 2026-09-10 | `tamilmirrorlk-3490dd2d` | வோல் இஸ்ட்ரீட் ஜேர்னல் (WSJ) பதிப்பகத்திற்கு ஹொங்கொங் நீதிமன்றம் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-3490dd2d)
+- 2026-09-10 | `dailymirrorlk-e924d2c0` | Government moves to cut paper use in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-e924d2c0)
+- 2026-09-10 | `dailymirrorlk-715786ff` | New education reforms to introduce 40-minute subject periods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-715786ff)
+- 2026-09-10 | `dailymirrorlk-ed1fa135` | Death compensation for migrant workers increased to Rs.2 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ed1fa135)
+- 2026-09-10 | `tamilmirrorlk-49e92700` | எமது பிரச்சார இயக்கத்தை யாராலும் தடுத்து நிறுத்த முடியாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-49e92700)
+- 2026-09-10 | `dailymirrorlk-3d57ef69` | Oil shock weighs on CSE as ASPI falls for third straight session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-3d57ef69)
+- 2026-09-10 | `dailymirrorlk-f25bb7dc` | Deepfake images used to target women political leaders: Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-f25bb7dc)
+- 2026-09-10 | `tamilmirrorlk-76f43184` | இந்தியப் பாதுகாப்புத் துறை அமைச்சர் கிரிக்கெட் ஜாம்பவான்களுடன் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-76f43184)
+- 2026-09-10 | `tamilmirrorlk-d1756ccc` | நாடு திரும்பினார் இந்தியப் பாதுகாப்பு அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-d1756ccc)
+- 2026-09-10 | `dailymirrorlk-42616e63` | No one can stop our September 12 campaign - Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-42616e63)
+- 2026-09-10 | `dailymirrorlk-266a33b6` | CJ being blackmailed: Opposition MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-266a33b6)
+- 2026-09-10 | `tamilmirrorlk-e07d0e26` | மீதிப் பணம் கேட்ட பயணி மீது தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-e07d0e26)
+- 2026-09-10 | `dailymirrorlk-d5d8a14e` | Indian Defence Minister Rajnath Singh departs Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-d5d8a14e)
+- 2026-09-10 | `dailymirrorlk-e4e527aa` | Sri Lanka men’s cricket team to tour Pakistan in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-e4e527aa)
+- 2026-09-10 | `tamilmirrorlk-b16cc9a8` | சீதையம்மன் ஆலயத்தில்  வழிபட்டார்  ராஜ்நாத் சிங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-b16cc9a8)
+- 2026-09-10 | `dailymirrorlk-7cf40ef9` | Rajnath Singh meets Sri Lankan cricket legends | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-7cf40ef9)
 - 2026-09-10 | `dailymirrorlk-7a50bff9` | Yemen’s Houthis close in on stranglehold over strategic Bab el-Mandeb Strait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-7a50bff9)
 - 2026-09-10 | `dailymirrorlk-033c3f8c` | Sri Lanka targets stronger position in global supply chains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-033c3f8c)
 - 2026-09-10 | `dailymirrorlk-8d2ff5f8` | Iran war won’t end until after crucial November elections, says Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-8d2ff5f8)
-- 2026-09-10 | `dailymirrorlk-0158ddf1` | Rs. 400,000 fine for selling non-SLS extension cords | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-0158ddf1)
-- 2026-09-10 | `tamilmirrorlk-9c4b9597` | இந்தியப் பாதுகாப்பு அமைச்சருடன் சீதையை வழிபட்டார் ஜீவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-9c4b9597)
-- 2026-09-10 | `dailymirrorlk-aedfbe3c` | Traders express anger over removal of fish stalls at Dewata Beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-aedfbe3c)
-- 2026-09-10 | `tamilmirrorlk-7db7fb2f` | தாக்குதல் முயற்சியிலிருந்து தப்பினார் ஸெலென்ஸ்கி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-7db7fb2f)
-- 2026-09-10 | `adalk-8ca6c000` | අගෝස්තු මාසය ලොව ඉහළම උෂ්ණත්වයක් වාර්තා වූ මාසයට හිමි වාර්තාව සම කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-adalk-8ca6c000)
-- 2026-09-10 | `dailymirrorlk-4b9a2cac` | Are Ministers behind USD 2.5 million theft, asks Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-4b9a2cac)
-- 2026-09-10 | `tamilmirrorlk-8e33a20d` | ரொனால்டோ தனது 979ஆவது கோலைப் பதிவு செய்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-8e33a20d)
-- 2026-09-10 | `tamilmirrorlk-adb69faf` | ஜனாதிபதி அனுரவுக்கு  டக்ளஸ் அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-adb69faf)
-- 2026-09-10 | `dailymirrorlk-efce8610` | Parliament to debate 22A on September 24 and 25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-efce8610)
-- 2026-09-10 | `tamilmirrorlk-150eee8e` | 22 தொடர்பில் செப்டம்பர் 24,  25 ஆம் திகதிகளில் விவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-150eee8e)
-- 2026-09-10 | `tamilmirrorlk-868e12ba` | ’கோட்டாவை கைது செய்வதில் ஏன் தாமதம்?’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-868e12ba)
-- 2026-09-10 | `tamilmirrorlk-64cf5fdc` | ’மலையக மக்களுக்கான காணிகள்டில்லியில் இருந்து வராது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-64cf5fdc)
-- 2026-09-10 | `tamilmirrorlk-7732409a` | ”விமான கொள்வனவில் தரகர் ஊதியத்தை பெறவேண்டும்“ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-7732409a)
-- 2026-09-10 | `dailymirrorlk-f4aff259` | Aircraft purchase commissions must be accepted, deal becomes void if rejected: Prof. Sonal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-f4aff259)
-- 2026-09-10 | `tamilmirrorlk-551d25e3` | பதுளை முன்னாள் மேயர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-551d25e3)
-- 2026-09-10 | `dailymirrorlk-32c9757f` | Sheikh Hasina’s daughter Saima Wazed quits WHO amid fraud allegations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-32c9757f)
-- 2026-09-10 | `tamilmirrorlk-d2ab940c` | EducationUSA கண்காட்சியில் அமெரிக்க உயர்கல்வி   தகவல்களை அறிந்துகொள்ளுங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-d2ab940c)
 
 ---
 

@@ -45578,6 +45578,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-57117cbd",
+    "num": "adalk-57117cbd",
+    "date_str": "2026-09-10",
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd, \u0daf\u0dd9\u0dc0\u0da7 \u0dc0\u0dd9\u0dbb\u0dc5\u0dda \u0d85\u0db1\u0dc0\u0dc3\u0dbb \u0db8\u0dcf\u0dc5\u0dd4 \u0d9a\u0da9 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd--\u0daf\u0dd9\u0dc0\u0da7-\u0dc0\u0dd9\u0dbb\u0dc5\u0dda-\u0d85\u0db1\u0dc0\u0dc3\u0dbb-\u0db8\u0dcf\u0dc5\u0dd4-\u0d9a\u0da9-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424145",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789032185.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-10-dailymirrorlk-aedfbe3c",
     "num": "dailymirrorlk-aedfbe3c",
     "date_str": "2026-09-10",
@@ -45611,6 +45622,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-db2a6a1d",
+    "num": "adalk-db2a6a1d",
+    "date_str": "2026-09-10",
+    "description": "\u0db8\u0db0\u0dca\u200d\u0dba\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba \u0dbb\u0dd2\u0db4\u0db6\u0dca\u0dbd\u0dd2\u0d9a\u0db1\u0dca \u0daf\u0dd2\u0db1\u0dd4\u0dc0\u0ddc\u0dad\u0dca \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca  5000\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0db0\u0dca\u200d\u0dba\u0d9a\u0dcf\u0dbd\u0dd3\u0db1-\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba-\u0dbb\u0dd2\u0db4\u0db6\u0dca\u0dbd\u0dd2\u0d9a\u0db1\u0dca-\u0daf\u0dd2\u0db1\u0dd4\u0dc0\u0ddc\u0dad\u0dca-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca--5000\u0d9a\u0dca/11-424146",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789032850.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-10-dailymirrorlk-8d2ff5f8",
     "num": "dailymirrorlk-8d2ff5f8",
     "date_str": "2026-09-10",
@@ -45641,5 +45663,192 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789035232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-7cf40ef9",
+    "num": "dailymirrorlk-7cf40ef9",
+    "date_str": "2026-09-10",
+    "description": "Rajnath Singh meets Sri Lankan cricket legends",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajnath-Singh-meets-Sri-Lankan-cricket-legends/108-349960",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789035545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-b16cc9a8",
+    "num": "tamilmirrorlk-b16cc9a8",
+    "date_str": "2026-09-10",
+    "description": "\u0b9a\u0bc0\u0ba4\u0bc8\u0baf\u0bae\u0bcd\u0bae\u0ba9\u0bcd \u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd  \u0bb5\u0bb4\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd  \u0bb0\u0bbe\u0b9c\u0bcd\u0ba8\u0bbe\u0ba4\u0bcd \u0b9a\u0bbf\u0b99\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba4\u0bc8\u0baf\u0bae\u0bcd\u0bae\u0ba9\u0bcd-\u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb4\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0bb0\u0bbe\u0b9c\u0bcd\u0ba8\u0bbe\u0ba4\u0bcd-\u0b9a\u0bbf\u0b99\u0bcd/46-382566",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789036627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-e4e527aa",
+    "num": "dailymirrorlk-e4e527aa",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka men\u2019s cricket team to tour Pakistan in October",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-mens-cricket-team-to-tour-Pakistan-in-October/108-349962",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789037322.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-d5d8a14e",
+    "num": "dailymirrorlk-d5d8a14e",
+    "date_str": "2026-09-10",
+    "description": "Indian Defence Minister Rajnath Singh departs Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-Defence-Minister-Rajnath-Singh-departs-Sri-Lanka/108-349963",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789037520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-e07d0e26",
+    "num": "tamilmirrorlk-e07d0e26",
+    "date_str": "2026-09-10",
+    "description": "\u0bae\u0bc0\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f \u0baa\u0baf\u0ba3\u0bbf \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0ba3\u0bae\u0bcd-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f-\u0baa\u0baf\u0ba3\u0bbf-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-382567",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789039204.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-266a33b6",
+    "num": "dailymirrorlk-266a33b6",
+    "date_str": "2026-09-10",
+    "description": "CJ being blackmailed: Opposition MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CJ-being-blackmailed-Opposition-MP/108-349964",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789039207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-42616e63",
+    "num": "dailymirrorlk-42616e63",
+    "date_str": "2026-09-10",
+    "description": "No one can stop our September 12 campaign - Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-one-can-stop-our-September-12-campaign-Namal/108-349965",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789039335.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-d1756ccc",
+    "num": "tamilmirrorlk-d1756ccc",
+    "date_str": "2026-09-10",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/175-382568",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789039611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-76f43184",
+    "num": "tamilmirrorlk-76f43184",
+    "date_str": "2026-09-10",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b9c\u0bbe\u0bae\u0bcd\u0baa\u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd-\u0ba4\u0bc1\u0bb1\u0bc8-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd-\u0b9c\u0bbe\u0bae\u0bcd\u0baa\u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382569",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789040164.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-f25bb7dc",
+    "num": "dailymirrorlk-f25bb7dc",
+    "date_str": "2026-09-10",
+    "description": "Deepfake images used to target women political leaders: Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deepfake-images-used-to-target-women-political-leaders-Prime-Minister/108-349966",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789040399.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-3d57ef69",
+    "num": "dailymirrorlk-3d57ef69",
+    "date_str": "2026-09-10",
+    "description": "Oil shock weighs on CSE as ASPI falls for third straight session",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-shock-weighs-on-CSE-as-ASPI-falls-for-third-straight-session/108-349967",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789040827.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-49e92700",
+    "num": "tamilmirrorlk-49e92700",
+    "date_str": "2026-09-10",
+    "description": "\u0b8e\u0bae\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0baf\u0bbe\u0bb0\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bae\u0ba4\u0bc1-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0-\u0b87\u0baf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0baf\u0bbe\u0bb0\u0bbe\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-382570",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789040974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-ed1fa135",
+    "num": "dailymirrorlk-ed1fa135",
+    "date_str": "2026-09-10",
+    "description": "Death compensation for migrant workers increased to Rs.2 million",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Death-compensation-for-migrant-workers-increased-to-Rs-2-million/108-349968",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789041632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-715786ff",
+    "num": "dailymirrorlk-715786ff",
+    "date_str": "2026-09-10",
+    "description": "New education reforms to introduce 40-minute subject periods",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-education-reforms-to-introduce-40-minute-subject-periods/108-349969",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789041776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-e924d2c0",
+    "num": "dailymirrorlk-e924d2c0",
+    "date_str": "2026-09-10",
+    "description": "Government moves to cut paper use in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-moves-to-cut-paper-use-in-Parliament/108-349970",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789042510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-tamilmirrorlk-3490dd2d",
+    "num": "tamilmirrorlk-3490dd2d",
+    "date_str": "2026-09-10",
+    "description": "\u0bb5\u0bcb\u0bb2\u0bcd \u0b87\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0b9f\u0bcd \u0b9c\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd (WSJ) \u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb9\u0bca\u0b99\u0bcd\u0b95\u0bca\u0b99\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bcb\u0bb2\u0bcd-\u0b87\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0b9f\u0bcd-\u0b9c\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd-WSJ-\u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0bb9\u0bca\u0b99\u0bcd\u0b95\u0bca\u0b99\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/50-382571",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789042648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-10-dailymirrorlk-82f69c56",
+    "num": "dailymirrorlk-82f69c56",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka exports first amphibious vessel to Europe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-exports-first-amphibious-vessel-to-Europe/108-349971",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789042896.0
   }
 ]
