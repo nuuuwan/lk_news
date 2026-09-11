@@ -47305,6 +47305,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-11-adalk-b2449164",
+    "num": "adalk-b2449164",
+    "date_str": "2026-09-11",
+    "description": "\u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4 \u0d86\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 99\u0d9a\u0dd2\u0db1\u0dca\u0db8 \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da7\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0dc5\u0dd4-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0dc3\u0dd2\u0dba\u0dba\u0da7-99\u0d9a\u0dd2\u0db1\u0dca\u0db8-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf/11-424161",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789123156.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-11-dailymirrorlk-00eb0806",
     "num": "dailymirrorlk-00eb0806",
     "date_str": "2026-09-11",
@@ -47313,6 +47324,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789123159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-adalk-a8a18d68",
+    "num": "adalk-a8a18d68",
+    "date_str": "2026-09-11",
+    "description": "\u0dc0\u0dc4\u0dbd \u0db8\u0dad \u0dc3\u0dc0\u0dd2\u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db4\u0dd0\u0db1\u0dbd \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc4\u0dbd-\u0db8\u0dad-\u0dc3\u0dc0\u0dd2\u0d9a\u0dbb-\u0d87\u0dad\u0dd2-\u0dc3\u0dd6\u0dbb\u0dca\u0dba-\u0db4\u0dd0\u0db1\u0dbd-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5\u0da7/11-424162",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789124681.0
   },
   {
     "doc_type": "lk_news",
@@ -47368,5 +47390,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789129163.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-be2934f0",
+    "num": "dailymirrorlk-be2934f0",
+    "date_str": "2026-09-11",
+    "description": "PM calls for universities free from harassment and violence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PM-calls-for-universities-free-from-harassment-and-violence/108-350074",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789131500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-a8c111aa",
+    "num": "dailymirrorlk-a8c111aa",
+    "date_str": "2026-09-11",
+    "description": "IMF briefed on Sri Lanka\u2019s paperless Customs system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-briefed-on-Sri-Lankas-paperless-Customs-system/108-350075",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789134067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-d6a0e213",
+    "num": "dailymirrorlk-d6a0e213",
+    "date_str": "2026-09-11",
+    "description": "Lorry carrying tiles driven on railway track near Kolathenna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lorry-carrying-tiles-driven-on-railway-track-near-Kolathenna/108-350076",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789134435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-9644c43d",
+    "num": "dailymirrorlk-9644c43d",
+    "date_str": "2026-09-11",
+    "description": "Labour Ministry launches revamped website with online services",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Labour-Ministry-launches-revamped-website-with-online-services/108-350077",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789134599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-439a71ba",
+    "num": "dailymirrorlk-439a71ba",
+    "date_str": "2026-09-11",
+    "description": "UNFPA hands over emergency supplies for women and girls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNFPA-hands-over-emergency-supplies-for-women-and-girls/108-350078",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789134848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-3188d7fc",
+    "num": "dailymirrorlk-3188d7fc",
+    "date_str": "2026-09-11",
+    "description": "Nine-member panel to select Sri Lanka\u2019s Oscar entry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nine-member-panel-to-select-Sri-Lankas-Oscar-entry/108-350079",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789134992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-02cf526f",
+    "num": "dailymirrorlk-02cf526f",
+    "date_str": "2026-09-11",
+    "description": "City should be safe for both people and animals: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/City-should-be-safe-for-both-people-and-animals-PM/108-350080",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789135095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-209c9635",
+    "num": "dailymirrorlk-209c9635",
+    "date_str": "2026-09-11",
+    "description": "Rs. 65 bn allocated to develop 26 cities: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-65-bn-allocated-to-develop-26-cities-Minister/108-350081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789135214.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-19883374",
+    "num": "dailymirrorlk-19883374",
+    "date_str": "2026-09-11",
+    "description": "Trade unions warn railway service losing public trust",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trade-unions-warn-railway-service-losing-public-trust/108-350083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789135706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-d0cffb91",
+    "num": "dailymirrorlk-d0cffb91",
+    "date_str": "2026-09-11",
+    "description": "Sri Lanka will heed request to replace  crew of Iranian ship within Sri Lankan waters: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-heed-request-to-replace-crew-of-Iranian-ship-within-Sri-Lankan-waters-Deputy-Minister/108-350084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789135905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-65e90ea3",
+    "num": "dailymirrorlk-65e90ea3",
+    "date_str": "2026-09-11",
+    "description": "SLPP to hold mass rally in Anuradhapura tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-to-hold-mass-rally-in-Anuradhapura-tomorrow/108-350085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789136049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-18970021",
+    "num": "dailymirrorlk-18970021",
+    "date_str": "2026-09-11",
+    "description": "CSE ends three-day slide as oil volatility drives choppy session",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-ends-three-day-slide-as-oil-volatility-drives-choppy-session/108-350088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789136676.0
   }
 ]
