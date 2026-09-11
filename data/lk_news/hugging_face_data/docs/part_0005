@@ -47522,5 +47522,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789136676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-35171e0e",
+    "num": "dailymirrorlk-35171e0e",
+    "date_str": "2026-09-11",
+    "description": "\u2018Sonduru Sarisara\u2019 book launched in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sonduru-Sarisara-book-launched-in-Colombo/110-350092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789138528.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-98f2cded",
+    "num": "dailymirrorlk-98f2cded",
+    "date_str": "2026-09-11",
+    "description": "Railway unions to brief commuters on 48-hour strike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Railway-unions-to-brief-commuters-on-48-hour-strike/108-350093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789139558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-13040e92",
+    "num": "dailymirrorlk-13040e92",
+    "date_str": "2026-09-11",
+    "description": "US inflation holds steady as diesel prices pass $6 a gallon",
+    "url_metadata": "https://www.dailymirror.lk/international/US-inflation-holds-steady-as-diesel-prices-pass-6-a-gallon/107-350094",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789139766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-7e6acfd2",
+    "num": "dailymirrorlk-7e6acfd2",
+    "date_str": "2026-09-11",
+    "description": "Tomorrow\u2019s rally is the start of the \u201cpeople\u2019s struggle\u201d \u2014 SLPP\u2019s Cassilingam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tomorrows-rally-is-the-start-of-the-peoples-struggle-SLPPs-Cassilingam/108-350096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789142853.0
   }
 ]

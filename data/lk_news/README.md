@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--11_20:00:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--11_21:59:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,264** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,268** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-11-dailymirrorlk-18970021",
-    "num": "dailymirrorlk-18970021",
+    "doc_id": "2026-09-11-dailymirrorlk-7e6acfd2",
+    "num": "dailymirrorlk-7e6acfd2",
     "date_str": "2026-09-11",
-    "description": "CSE ends three-day slide as oil volatility drives choppy session",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-ends-three-day-slide-as-oil-volatility-drives-choppy-session/108-350088",
+    "description": "Tomorrow\u2019s rally is the start of the \u201cpeople\u2019s struggle\u201d \u2014 SLPP\u2019s Cassilingam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tomorrows-rally-is-the-start-of-the-peoples-struggle-SLPPs-Cassilingam/108-350096",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789136676.0
+    "time_ut": 1789142853.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-11 | `dailymirrorlk-7e6acfd2` | Tomorrow’s rally is the start of the “people’s struggle” — SLPP’s Cassilingam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-7e6acfd2)
+- 2026-09-11 | `dailymirrorlk-13040e92` | US inflation holds steady as diesel prices pass $6 a gallon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-13040e92)
+- 2026-09-11 | `dailymirrorlk-98f2cded` | Railway unions to brief commuters on 48-hour strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-98f2cded)
+- 2026-09-11 | `dailymirrorlk-35171e0e` | ‘Sonduru Sarisara’ book launched in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-35171e0e)
 - 2026-09-11 | `dailymirrorlk-18970021` | CSE ends three-day slide as oil volatility drives choppy session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-18970021)
 - 2026-09-11 | `dailymirrorlk-65e90ea3` | SLPP to hold mass rally in Anuradhapura tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-65e90ea3)
 - 2026-09-11 | `dailymirrorlk-d0cffb91` | Sri Lanka will heed request to replace  crew of Iranian ship within Sri Lankan waters: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-d0cffb91)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-11 | `dailymirrorlk-85fd0704` | University recruitment process to be made more efficient: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-85fd0704)
 - 2026-09-11 | `dailymirrorlk-7742bc13` | Trade unions complain to HR Commission over Railway GM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-7742bc13)
 - 2026-09-11 | `tamilmirrorlk-f707b3aa` | ஜனாதிபதிக்கு எதிர்ப்பு: மஹிந்த அணி உறுப்பினர் கூரையின் மீதேறினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-tamilmirrorlk-f707b3aa)
-- 2026-09-11 | `tamilmirrorlk-2b2f1ba4` | சிரான் பசிக்கின் தந்தை கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-tamilmirrorlk-2b2f1ba4)
-- 2026-09-11 | `adalk-a8a18d68` | වහල මත සවිකර ඇති සූර්ය පැනල වලින් විදුලිය නිෂ්පාදනය විශාල ලෙස ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-adalk-a8a18d68)
-- 2026-09-11 | `dailymirrorlk-00eb0806` | No electricity tariff increase expected next quarter: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailymirrorlk-00eb0806)
-- 2026-09-11 | `adalk-b2449164` | ටින් මාළු ආනයනය සියයට 99කින්ම අඩුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-adalk-b2449164)
 
 ---
 
