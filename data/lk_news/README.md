@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--11_03:58:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--11_06:20:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,141** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,150** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-10-dailymirrorlk-d6622bdb",
-    "num": "dailymirrorlk-d6622bdb",
-    "date_str": "2026-09-10",
-    "description": "Algeria cuts diplomatic ties with the UAE",
-    "url_metadata": "https://www.dailymirror.lk/international/Algeria-cuts-diplomatic-ties-with-the-UAE/107-349994",
+    "doc_id": "2026-09-11-dailyftlk-d3d5b5ea",
+    "num": "dailyftlk-d3d5b5ea",
+    "date_str": "2026-09-11",
+    "description": "Parliament to debate 22A and Judicature Bill on 24, 25 Sept.",
+    "url_metadata": "https://www.ft.lk/news/Parliament-to-debate-22A-and-Judicature-Bill-on-24-25-Sept/56-797101",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789058940.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789087135.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-11 | `dailyftlk-d3d5b5ea` | Parliament to debate 22A and Judicature Bill on 24, 25 Sept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-d3d5b5ea)
+- 2026-09-11 | `dailyftlk-8bda83ae` | New Chinese Ambassador Wei Huaxiang meets former President Mahinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-8bda83ae)
+- 2026-09-11 | `dailyftlk-174ce63e` | WNPS marks first livestock insurance pay-out, launches predator-proof cattle pen initiative supporting livelihoods, protecting leopards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-174ce63e)
+- 2026-09-11 | `dailyftlk-065d8edc` | President meets Muslim, Catholic religious leaders; reaffirms commitment to preventing ethnic conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-065d8edc)
+- 2026-09-11 | `dailyftlk-4b3141c2` | From by-product to eco-powerhouse: Why  Sri Lanka’s coir industry matters more than ever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-4b3141c2)
+- 2026-09-11 | `dailyftlk-fd309a23` | Breakthrough or expensive bottleneck? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-fd309a23)
+- 2026-09-11 | `dailyftlk-2fe7f409` | Justice delayed is justice denied | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-2fe7f409)
+- 2026-09-11 | `dailyftlk-d9c7dc35` | Sri Lanka at UNHRC: From numbers to healing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-d9c7dc35)
+- 2026-09-11 | `dailyftlk-23c9a0c1` | IPE invites Sri Lanka to support launch of Inequality (IPI) at United Nations General Assembly | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-11-dailyftlk-23c9a0c1)
 - 2026-09-10 | `dailymirrorlk-d6622bdb` | Algeria cuts diplomatic ties with the UAE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-d6622bdb)
 - 2026-09-10 | `tamilmirrorlk-67f9ef5b` | இணையத்தை கலக்கும் ரெட்ரோ trend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-67f9ef5b)
 - 2026-09-10 | `tamilmirrorlk-52811a72` | கார் என்ஜினுக்குள் பதுங்கியிருந்த மலைப்பாம்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-tamilmirrorlk-52811a72)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-09-10 | `dailymirrorlk-c508e1d9` | Twenty-five dead after fire on cargo ship in eastern China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-c508e1d9)
 - 2026-09-10 | `dailymirrorlk-436de1e8` | Sri Lanka secures international cooperation through UNCCD summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-436de1e8)
 - 2026-09-10 | `dailymirrorlk-c40c5520` | Bambalapitiya Railway Station gets Rs. 60 million facelift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-c40c5520)
-- 2026-09-10 | `dailymirrorlk-2e3f1c02` | Catholic leaders warn of environmental destruction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-2e3f1c02)
-- 2026-09-10 | `dailymirrorlk-76d1af21` | Jeff Timmons arrives for charity concert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-76d1af21)
-- 2026-09-10 | `dailymirrorlk-2710a058` | ACJU calls for justice for Easter Sunday attack victims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-2710a058)
-- 2026-09-10 | `dailymirrorlk-e366a983` | President warns against hate speech while defending democratic criticism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-e366a983)
-- 2026-09-10 | `dailymirrorlk-753109f9` | ’He’s massive!’ Meet Hugo, the world’s tallest horse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-753109f9)
-- 2026-09-10 | `dailymirrorlk-8236d18b` | Preschool development programme planned islandwide by 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-8236d18b)
-- 2026-09-10 | `dailymirrorlk-ca044262` | Restaurant fined for overpricing bottled drinking water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ca044262)
-- 2026-09-10 | `dailymirrorlk-ab7d4cc3` | Don’t play parts played in films in real life, Magistrate warns actor Hemal Ranasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-ab7d4cc3)
-- 2026-09-10 | `dailymirrorlk-d0618c4f` | Government plans programmes to reduce migrant worker deaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-10-dailymirrorlk-d0618c4f)
 
 ---
 
