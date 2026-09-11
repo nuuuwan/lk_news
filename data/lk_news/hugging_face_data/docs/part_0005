@@ -45699,6 +45699,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-10-adalk-d4bbd8ee",
+    "num": "adalk-d4bbd8ee",
+    "date_str": "2026-09-10",
+    "description": "\u0d85\u0d82\u0d9c\u0dd4\u0dbd\u0dd2\u0db8\u0dcf\u0dbd \u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0d9c\u0dab\u0db1\u0dd2\u0db1\u0dca \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0d85\u0dbb\u0d9c\u0dd9\u0db1 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d82\u0d9c\u0dd4\u0dbd\u0dd2\u0db8\u0dcf\u0dbd-\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1-\u0d9c\u0dab\u0db1\u0dd2\u0db1\u0dca-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2-\u0d85\u0dbb\u0d9c\u0dd9\u0db1-\u0db1\u0dd1/11-424149",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789036228.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-10-tamilmirrorlk-b16cc9a8",
     "num": "tamilmirrorlk-b16cc9a8",
     "date_str": "2026-09-10",
@@ -46268,5 +46279,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1789087135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailyftlk-8e56bc11",
+    "num": "dailyftlk-8e56bc11",
+    "date_str": "2026-09-11",
+    "description": "Opposition members boycott 10th meeting of Provincial Council Select Committee",
+    "url_metadata": "https://www.ft.lk/news/Opposition-members-boycott-10th-meeting-of-Provincial-Council-Select-Committee/56-797102",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789089062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-a01c70d3",
+    "num": "dailymirrorlk-a01c70d3",
+    "date_str": "2026-09-11",
+    "description": "Two children killed in Dehiwala grenade attack",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-children-killed-in-Dehiwala-grenade-attack/108-350002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789089181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailyftlk-c968889c",
+    "num": "dailyftlk-c968889c",
+    "date_str": "2026-09-11",
+    "description": "Agarapatana Plantations seeks shareholder nod to redirect  Rs. 643 m in unutilised IPO proceeds",
+    "url_metadata": "https://www.ft.lk/business/Agarapatana-Plantations-seeks-shareholder-nod-to-redirect-Rs-643-m-in-unutilised-IPO-proceeds/34-797112",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789090639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailyftlk-0e9a12ee",
+    "num": "dailyftlk-0e9a12ee",
+    "date_str": "2026-09-11",
+    "description": "CSE green lights Rs. 5 b  Aitken Spence Hotel  Holdings debenture issue",
+    "url_metadata": "https://www.ft.lk/business/CSE-green-lights-Rs-5-b-Aitken-Spence-Hotel-Holdings-debenture-issue/34-797113",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789090656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailyftlk-10381f1f",
+    "num": "dailyftlk-10381f1f",
+    "date_str": "2026-09-11",
+    "description": "EDB, University of Kelaniya launch first-ever joint initiative to boost electronics export sector",
+    "url_metadata": "https://www.ft.lk/business/EDB-University-of-Kelaniya-launch-first-ever-joint-initiative-to-boost-electronics-export-sector/34-797114",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789090737.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailyftlk-194b32c9",
+    "num": "dailyftlk-194b32c9",
+    "date_str": "2026-09-11",
+    "description": "TEA\u2019s 27th AGM spotlights Ceylon Tea\u2019s resilience amid global uncertainty",
+    "url_metadata": "https://www.ft.lk/business/TEA-s-27th-AGM-spotlights-Ceylon-Tea-s-resilience-amid-global-uncertainty/34-797115",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789090886.0
   }
 ]
