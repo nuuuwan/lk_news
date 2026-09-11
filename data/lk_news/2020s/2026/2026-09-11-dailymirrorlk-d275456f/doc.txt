@@ -1,0 +1,17 @@
+Softlogic Stockbrokers takes trading, research and stock tips onto one app
+
+Softlogic Stockbrokers has launched StockB, a mobile investment platform bringing online trading, real time market data, interactive charts, technical analysis, stock recommendations, company and equity research, macroeconomic data and portfolio management into a single application, in a push to take the Colombo Stock Exchange directly to retail investors, the brokerage said.
+
+The platform also carries trading tips, market updates and push notifications, and moves payments, receipts and online agreement processing onto the phone, cutting out manual interactions with the broker. The firm described StockB as a digital investment companion rather than a trading application, offering new investors an entry point into the capital market and giving experienced investors research and analytical tools in the same place.
+
+Speaking at the launch, Softlogic Stockbrokers Chief Executive Officer Dihan Dadigama said the application had been close to three years in the making and had been repeatedly reworked before release. “With this trading app, it will take significant time out of an investor’s need to be connecting with a broker if he doesn’t need to, and this is the start of a new journey to take this stock market to our retail investors,” he said. The application is free to download.
+
+The launch was accompanied by a panel discussion on digital transformation featuring Finetech Holdings Chief Executive Officer and Director Clehan Pulle and Softlogic Stockbrokers Head of IT Mohan Abesundara, moderated by media presenter Alanki Krishani.
+
+Pulle said Sri Lanka has the engineering talent and the small market agility to build a competitive financial technology sector, but that potential has not converted into uptake. He put AI adoption in Sri Lanka at about 6.2 percent against roughly 11.6 percent in India, close to half the Indian rate, and said the single priority for policymakers should be a national AI and fintech strategy covering policy sandboxes, digital public infrastructure and public private partnerships in skills. He did not identify the source of the adoption figures.
+
+However, he said the constraint on adoption is trust rather than technology, and that platforms have to build it in. “It must not be about a black box approach,” Pulle said, adding that platforms should be able to show how data is used and explain the logic behind their results, and that users need to be educated on the limits of the technology because it does not know everything. Compliance is a baseline and not a ceiling, he said, and the industry should work through policy sandboxes linking private developers, the Central Bank and the stock exchange.
+
+Meanwhile, Pulle said investors should not hand the decision itself to the technology. “AI is not the decision-maker. AI is only a facilitator for you to make that decision,” he said, adding that its use is in processing volumes of data an investor could not go through manually.
+
+Softlogic Stockbrokers said it plans to develop StockB further on client feedback, with additional digital capabilities to follow.

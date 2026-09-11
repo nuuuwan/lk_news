@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-11 12:10:08",
-  "n_docs": 130190,
+  "time_updated": "2026-09-11 14:03:10",
+  "n_docs": 130219,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130190,
+  "n_docs_with_text": 130219,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-11",
-  "dataset_size": 2025412411,
+  "dataset_size": 2025874724,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-11-dailymirrorlk-ed39dd09",
-    "num": "dailymirrorlk-ed39dd09",
+    "doc_id": "2026-09-11-dailymirrorlk-f6fba63f",
+    "num": "dailymirrorlk-f6fba63f",
     "date_str": "2026-09-11",
-    "description": "Live photos coming for new SIM registrations",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Live-photos-coming-for-new-SIM-registrations/108-350048",
+    "description": "Significant number of swimming pools in Sri Lanka unsafe: Health Ministry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Significant-number-of-swimming-pools-in-Sri-Lanka-unsafe-Health-Ministry/108-350055",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789108503.0
+    "time_ut": 1789115077.0
   }
 }
