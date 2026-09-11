@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-12 00:03:48",
-  "n_docs": 130268,
+  "time_updated": "2026-09-12 02:01:07",
+  "n_docs": 130287,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130268,
+  "n_docs_with_text": 130287,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-11",
-  "dataset_size": 2026561555,
+  "date_str_max": "2026-09-12",
+  "dataset_size": 2026666140,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-11-dailymirrorlk-7e6acfd2",
-    "num": "dailymirrorlk-7e6acfd2",
-    "date_str": "2026-09-11",
-    "description": "Tomorrow\u2019s rally is the start of the \u201cpeople\u2019s struggle\u201d \u2014 SLPP\u2019s Cassilingam",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tomorrows-rally-is-the-start-of-the-peoples-struggle-SLPPs-Cassilingam/108-350096",
+    "doc_id": "2026-09-12-dailyftlk-e0c923a5",
+    "num": "dailyftlk-e0c923a5",
+    "date_str": "2026-09-12",
+    "description": "Sajith meets Indian Defence Minister Rajnath Singh",
+    "url_metadata": "https://www.ft.lk/news/Sajith-meets-Indian-Defence-Minister-Rajnath-Singh/56-797146",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789142853.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789152162.0
   }
 }
