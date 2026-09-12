@@ -48292,5 +48292,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789207944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-ba332e1c",
+    "num": "dailymirrorlk-ba332e1c",
+    "date_str": "2026-09-12",
+    "description": "Mahinda joins SLPP\u2019s \u2018Janasatana\u2019 rally in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-joins-SLPPs-Janasatana-rally-in-Anuradhapura/108-350154",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789214423.0
   }
 ]

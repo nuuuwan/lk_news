@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-12 15:54:17",
-  "n_docs": 130334,
+  "time_updated": "2026-09-12 18:01:32",
+  "n_docs": 130335,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130334,
+  "n_docs_with_text": 130335,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-12",
-  "dataset_size": 2027426270,
+  "dataset_size": 2027472154,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-12-dailymirrorlk-6a4f33d2",
-    "num": "dailymirrorlk-6a4f33d2",
+    "doc_id": "2026-09-12-dailymirrorlk-ba332e1c",
+    "num": "dailymirrorlk-ba332e1c",
     "date_str": "2026-09-12",
-    "description": "Fuel prices to remain unchanged for now: CPC",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-to-remain-unchanged-for-now-CPC/108-350153",
+    "description": "Mahinda joins SLPP\u2019s \u2018Janasatana\u2019 rally in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-joins-SLPPs-Janasatana-rally-in-Anuradhapura/108-350154",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789207944.0
+    "time_ut": 1789214423.0
   }
 }
