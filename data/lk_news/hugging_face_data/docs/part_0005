@@ -47525,6 +47525,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-42f92720",
+    "num": "dailymirrorlk-42f92720",
+    "date_str": "2026-09-11",
+    "description": "Strongest El Ni\u00f1o in 75 years?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strongest-El-Ni\u00f1o-in-75-years/108-350086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789136283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-ff5c608e",
+    "num": "dailymirrorlk-ff5c608e",
+    "date_str": "2026-09-11",
+    "description": "No power cuts expected in coming months, Minister assures",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-power-cuts-expected-in-coming-months-Minister-assures/108-350087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789136487.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-11-dailymirrorlk-18970021",
     "num": "dailymirrorlk-18970021",
     "date_str": "2026-09-11",
@@ -47533,6 +47555,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789136676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-48e2857d",
+    "num": "dailymirrorlk-48e2857d",
+    "date_str": "2026-09-11",
+    "description": "El Nino prompts authorities to grow short-duration paddy varieties : Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Nino-prompts-authorities-to-grow-short-duration-paddy-varieties-Minister/108-350089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789136908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-58e151c1",
+    "num": "dailymirrorlk-58e151c1",
+    "date_str": "2026-09-11",
+    "description": "No Mithuri, no alternatives: Women face contraceptive crisis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-Mithuri-no-alternatives-Women-face-contraceptive-crisis/108-350090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789137115.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-11-dailymirrorlk-9ed4b6b0",
+    "num": "dailymirrorlk-9ed4b6b0",
+    "date_str": "2026-09-11",
+    "description": "South Asian University signs landmark MOU with the Regional Centre for Strategic Studies, Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Asian-University-signs-landmark-MOU-with-the-Regional-Centre-for-Strategic-Studies-Colombo/108-350091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789137505.0
   },
   {
     "doc_type": "lk_news",
@@ -48215,5 +48270,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789200656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-381cad92",
+    "num": "dailymirrorlk-381cad92",
+    "date_str": "2026-09-12",
+    "description": "SLPP\u2019s \u2018Janasatana\u2019 rally underway in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPPs-Janasatana-rally-underway-in-Anuradhapura/108-350152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789206820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-6a4f33d2",
+    "num": "dailymirrorlk-6a4f33d2",
+    "date_str": "2026-09-12",
+    "description": "Fuel prices to remain unchanged for now: CPC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-to-remain-unchanged-for-now-CPC/108-350153",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789207944.0
   }
 ]
