@@ -47775,5 +47775,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1789152162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-202f8af8",
+    "num": "dailymirrorlk-202f8af8",
+    "date_str": "2026-09-12",
+    "description": "Sri Lanka reach Women\u2019s Asia Cup 2026 final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reach-Womens-Asia-Cup-2026-final/108-350101",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789177116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-c2f19d0e",
+    "num": "dailymirrorlk-c2f19d0e",
+    "date_str": "2026-09-12",
+    "description": "Norway\u2019s Princess Astrid dies two days after attending brother King Harald\u2019s funeral",
+    "url_metadata": "https://www.dailymirror.lk/international/Norways-Princess-Astrid-dies-two-days-after-attending-brother-King-Haralds-funeral/107-350102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789177273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-tamilmirrorlk-2b97a470",
+    "num": "tamilmirrorlk-2b97a470",
+    "date_str": "2026-09-12",
+    "description": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bcb\u0b9f\u0bbf - \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bae\u0bcb\u0b9f\u0bbf-\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382629",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789179340.0
   }
 ]
