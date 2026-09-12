@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--12_18:02:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--12_19:54:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,338** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-12-dailymirrorlk-ba332e1c",
-    "num": "dailymirrorlk-ba332e1c",
+    "doc_id": "2026-09-12-dailymirrorlk-05b613f9",
+    "num": "dailymirrorlk-05b613f9",
     "date_str": "2026-09-12",
-    "description": "Mahinda joins SLPP\u2019s \u2018Janasatana\u2019 rally in Anuradhapura",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-joins-SLPPs-Janasatana-rally-in-Anuradhapura/108-350154",
+    "description": "\u201cFathers should have advised their sons not to steal; what can I do if they are caught?\u201d \u2013 President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fathers-should-have-advised-their-sons-not-to-steal-what-can-I-do-if-they-are-caught-President/108-350157",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789214423.0
+    "time_ut": 1789222205.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-12 | `dailymirrorlk-05b613f9` | “Fathers should have advised their sons not to steal; what can I do if they are caught?” – President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-05b613f9)
+- 2026-09-12 | `dailymirrorlk-fc1b2547` | “I see you from the iron bars of prison. You all are my strength”- Namal tells supporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-fc1b2547)
+- 2026-09-12 | `dailymirrorlk-10202b82` | No revenge, but wrongdoers will face justice:  President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-10202b82)
 - 2026-09-12 | `dailymirrorlk-ba332e1c` | Mahinda joins SLPP’s ‘Janasatana’ rally in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-ba332e1c)
 - 2026-09-12 | `dailymirrorlk-6a4f33d2` | Fuel prices to remain unchanged for now: CPC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-6a4f33d2)
 - 2026-09-12 | `dailymirrorlk-381cad92` | SLPP’s ‘Janasatana’ rally underway in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-381cad92)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-12 | `dailymirrorlk-6bd7baaa` | Grenades become weapon of fear: Available for as little as Rs. 10,000 – 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-6bd7baaa)
 - 2026-09-12 | `dailymirrorlk-f3c1fce9` | Concessions announced for teachers’ efficiency bar examinations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-f3c1fce9)
 - 2026-09-12 | `dailymirrorlk-d44af714` | How do American  sanctions on  Iran affect  Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-d44af714)
-- 2026-09-12 | `dailymirrorlk-8902d395` | The Indian Defence Minister’s visit -- what happened  in-between | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-8902d395)
-- 2026-09-12 | `adalk-ae0ed8a5` | දුම්රියක ගැටී පුද්ගලයෙකු ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-adalk-ae0ed8a5)
-- 2026-09-12 | `dailymirrorlk-b5ba178a` | Emergency help at your fingertips: Police introduce new SOS app | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-b5ba178a)
 
 ---
 

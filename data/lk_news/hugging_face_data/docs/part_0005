@@ -48303,5 +48303,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789214423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-10202b82",
+    "num": "dailymirrorlk-10202b82",
+    "date_str": "2026-09-12",
+    "description": "No revenge, but wrongdoers will face justice:  President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-revenge-but-wrongdoers-will-face-justice-President/108-350155",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789218976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-fc1b2547",
+    "num": "dailymirrorlk-fc1b2547",
+    "date_str": "2026-09-12",
+    "description": "\u201cI see you from the iron bars of prison. You all are my strength\u201d- Namal tells supporters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/I-see-you-from-the-iron-bars-of-prison-You-all-are-my-strength-Namal-tells-supporters/108-350156",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789222202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-05b613f9",
+    "num": "dailymirrorlk-05b613f9",
+    "date_str": "2026-09-12",
+    "description": "\u201cFathers should have advised their sons not to steal; what can I do if they are caught?\u201d \u2013 President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fathers-should-have-advised-their-sons-not-to-steal-what-can-I-do-if-they-are-caught-President/108-350157",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789222205.0
   }
 ]
