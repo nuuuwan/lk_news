@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-12 10:00:27",
-  "n_docs": 130306,
+  "time_updated": "2026-09-12 12:02:15",
+  "n_docs": 130310,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130306,
+  "n_docs_with_text": 130310,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-12",
-  "dataset_size": 2027005170,
+  "dataset_size": 2027167410,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-12-dailymirrorlk-f95bd394",
-    "num": "dailymirrorlk-f95bd394",
+    "doc_id": "2026-09-12-dailymirrorlk-5c6cb090",
+    "num": "dailymirrorlk-5c6cb090",
     "date_str": "2026-09-12",
-    "description": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
-    "url_metadata": "https://www.dailymirror.lk/international/Modi-Putin-seek-stronger-ties-as-Russia-calls-for-BRICS-to-counter-West/107-350125",
+    "description": "Magnitude 6.5 earthquake strikes near Jakarta",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Magnitude-6-5-earthquake-strikes-near-Jakarta/108-350131",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789185612.0
+    "time_ut": 1789193006.0
   }
 }

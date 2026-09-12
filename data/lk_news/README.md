@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--12_10:01:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--12_12:03:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,306** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,310** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-12-dailymirrorlk-f95bd394",
-    "num": "dailymirrorlk-f95bd394",
+    "doc_id": "2026-09-12-dailymirrorlk-5c6cb090",
+    "num": "dailymirrorlk-5c6cb090",
     "date_str": "2026-09-12",
-    "description": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
-    "url_metadata": "https://www.dailymirror.lk/international/Modi-Putin-seek-stronger-ties-as-Russia-calls-for-BRICS-to-counter-West/107-350125",
+    "description": "Magnitude 6.5 earthquake strikes near Jakarta",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Magnitude-6-5-earthquake-strikes-near-Jakarta/108-350131",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789185612.0
+    "time_ut": 1789193006.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-12 | `dailymirrorlk-5c6cb090` | Magnitude 6.5 earthquake strikes near Jakarta | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-5c6cb090)
+- 2026-09-12 | `tamilmirrorlk-9768f09c` | சில இடங்களில்  ஓரளவு பலத்த மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-tamilmirrorlk-9768f09c)
+- 2026-09-12 | `tamilmirrorlk-6912516f` | வெடிக்காத பட்டாசு வெடித்ததில் சிறுவன் பரிதாப மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-tamilmirrorlk-6912516f)
+- 2026-09-12 | `dailymirrorlk-2988cb44` | ’Never, ever forget’ - America marks 25th anniversary of 9/11 attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-2988cb44)
 - 2026-09-12 | `dailymirrorlk-f95bd394` | Modi, Putin seek stronger ties as Russia calls for BRICS to counter West | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-f95bd394)
 - 2026-09-12 | `dailymirrorlk-00474079` | 13-year-old boy dies in fireworks explosion in Valachchenai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-00474079)
 - 2026-09-12 | `dailymirrorlk-6bd7baaa` | Grenades become weapon of fear: Available for as little as Rs. 10,000 – 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-6bd7baaa)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-12 | `dailymirrorlk-d8582c21` | Week ends on a mixed note | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-d8582c21)
 - 2026-09-12 | `dailymirrorlk-cd642004` | GS Evo Motors launches all-new JMEV EWIND | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-cd642004)
 - 2026-09-12 | `dailymirrorlk-a72c18e8` | Dulux from AkzoNobel Sri Lanka supports Galle lighthouse restoration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-a72c18e8)
-- 2026-09-12 | `dailymirrorlk-c2f19d0e` | Norway’s Princess Astrid dies two days after attending brother King Harald’s funeral | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-c2f19d0e)
-- 2026-09-12 | `dailymirrorlk-202f8af8` | Sri Lanka reach Women’s Asia Cup 2026 final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-202f8af8)
-- 2026-09-12 | `dailyftlk-e0c923a5` | Sajith meets Indian Defence Minister Rajnath Singh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailyftlk-e0c923a5)
-- 2026-09-12 | `dailyftlk-d9fa8acc` | Government, ILO review wage-setting institutions to align with market conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailyftlk-d9fa8acc)
 
 ---
 

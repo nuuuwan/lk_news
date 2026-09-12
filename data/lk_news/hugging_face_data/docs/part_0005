@@ -47984,5 +47984,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789185612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-2988cb44",
+    "num": "dailymirrorlk-2988cb44",
+    "date_str": "2026-09-12",
+    "description": "\u2019Never, ever forget\u2019 - America marks 25th anniversary of 9/11 attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Never-ever-forget-America-marks-25th-anniversary-of-911-attacks/108-350130",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789188127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-tamilmirrorlk-6912516f",
+    "num": "tamilmirrorlk-6912516f",
+    "date_str": "2026-09-12",
+    "description": "\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4 \u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0b9a\u0bc1 \u0bb5\u0bc6\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4-\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0b9a\u0bc1-\u0bb5\u0bc6\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/73-382631",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789188939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-tamilmirrorlk-9768f09c",
+    "num": "tamilmirrorlk-9768f09c",
+    "date_str": "2026-09-12",
+    "description": "\u0b9a\u0bbf\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd  \u0b93\u0bb0\u0bb3\u0bb5\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb2-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b93\u0bb0\u0bb3\u0bb5\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-382632",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789189087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-5c6cb090",
+    "num": "dailymirrorlk-5c6cb090",
+    "date_str": "2026-09-12",
+    "description": "Magnitude 6.5 earthquake strikes near Jakarta",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Magnitude-6-5-earthquake-strikes-near-Jakarta/108-350131",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789193006.0
   }
 ]
