@@ -48336,5 +48336,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789222205.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-06498862",
+    "num": "dailymirrorlk-06498862",
+    "date_str": "2026-09-12",
+    "description": "\u201cNPP government attempting to capture the judiciary and 88/89 era will repeat again\u201d - Archuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-government-attempting-to-capture-the-judiciary-and-8889-era-will-repeat-again-Archuna/108-350158",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789225094.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-bfd04cd6",
+    "num": "dailymirrorlk-bfd04cd6",
+    "date_str": "2026-09-12",
+    "description": "UK government rejects \u2019kill switch\u2019 idea for dangerous AI",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-government-rejects-kill-switch-idea-for-dangerous-AI/107-350160",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789225467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-12-dailymirrorlk-9a08c607",
+    "num": "dailymirrorlk-9a08c607",
+    "date_str": "2026-09-12",
+    "description": "Govt. accepts responsibility for students with disabilities: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-accepts-responsibility-for-students-with-disabilities-PM/108-350162",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789228847.0
   }
 ]

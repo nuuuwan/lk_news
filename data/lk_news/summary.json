@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-12 19:53:25",
-  "n_docs": 130338,
+  "time_updated": "2026-09-12 21:57:35",
+  "n_docs": 130341,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130338,
+  "n_docs_with_text": 130341,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-12",
-  "dataset_size": 2027484259,
+  "dataset_size": 2027515828,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-12-dailymirrorlk-05b613f9",
-    "num": "dailymirrorlk-05b613f9",
+    "doc_id": "2026-09-12-dailymirrorlk-9a08c607",
+    "num": "dailymirrorlk-9a08c607",
     "date_str": "2026-09-12",
-    "description": "\u201cFathers should have advised their sons not to steal; what can I do if they are caught?\u201d \u2013 President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fathers-should-have-advised-their-sons-not-to-steal-what-can-I-do-if-they-are-caught-President/108-350157",
+    "description": "Govt. accepts responsibility for students with disabilities: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-accepts-responsibility-for-students-with-disabilities-PM/108-350162",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789222205.0
+    "time_ut": 1789228847.0
   }
 }
