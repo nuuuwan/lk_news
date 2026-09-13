@@ -49282,5 +49282,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789322676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-1b644255",
+    "num": "dailymirrorlk-1b644255",
+    "date_str": "2026-09-14",
+    "description": "India beat Sri Lanka by 72 runs to win record Eighth Women\u2019s Asia Cup Title",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-beat-Sri-Lanka-by-72-runs-to-win-record-Eighth-Womens-Asia-Cup-Title/108-350208",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789324555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-0947c08a",
+    "num": "dailyftlk-0947c08a",
+    "date_str": "2026-09-14",
+    "description": "Navy nabs 65 individuals over illegal fishing practices",
+    "url_metadata": "https://www.ft.lk/news/Navy-nabs-65-individuals-over-illegal-fishing-practices/56-797165",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789325193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-426619df",
+    "num": "dailyftlk-426619df",
+    "date_str": "2026-09-14",
+    "description": "KEMCARE at 11: Celebrating a journey of innovation, empowering industry, shaping future",
+    "url_metadata": "https://www.ft.lk/news/KEMCARE-at-11-Celebrating-a-journey-of-innovation-empowering-industry-shaping-future/56-797166",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789325760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-c7f8d279",
+    "num": "dailyftlk-c7f8d279",
+    "date_str": "2026-09-14",
+    "description": "Labour Ministry launches new improved website",
+    "url_metadata": "https://www.ft.lk/news/Labour-Ministry-launches-new-improved-website/56-797167",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789325929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-bfe9f652",
+    "num": "dailyftlk-bfe9f652",
+    "date_str": "2026-09-14",
+    "description": "Why FiNAC HR Optimizer, and  why now?",
+    "url_metadata": "https://www.ft.lk/news/Why-FiNAC-HR-Optimizer-and-why-now/56-797168",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789326061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-7e1f12b5",
+    "num": "dailyftlk-7e1f12b5",
+    "date_str": "2026-09-14",
+    "description": "BIMSTEC, maritime Sri Lanka and the missing link in policy thinking",
+    "url_metadata": "https://www.ft.lk/columns/BIMSTEC-maritime-Sri-Lanka-and-the-missing-link-in-policy-thinking/4-797176",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789329260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-850c458c",
+    "num": "dailyftlk-850c458c",
+    "date_str": "2026-09-14",
+    "description": "Securing the American cargo corridor: Why Sri Lanka\u2019s maritime window demands radical structural reform",
+    "url_metadata": "https://www.ft.lk/columns/Securing-the-American-cargo-corridor-Why-Sri-Lanka-s-maritime-window-demands-radical-structural-reform/4-797177",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789329863.0
   }
 ]

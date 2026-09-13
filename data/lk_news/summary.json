@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-13 23:59:47",
-  "n_docs": 130424,
+  "time_updated": "2026-09-14 01:55:02",
+  "n_docs": 130431,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130424,
+  "n_docs_with_text": 130431,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-13",
-  "dataset_size": 2028609501,
+  "date_str_max": "2026-09-14",
+  "dataset_size": 2028660372,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-adalk-18c77cb3",
-    "num": "adalk-18c77cb3",
-    "date_str": "2026-09-13",
-    "description": "\u0dbb\u0db8\u0dda\u0dc2\u0dca \u0dad\u0dbb\u0d82\u0d9c \u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca \u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca \u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8",
-    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0db8\u0dda\u0dc2\u0dca-\u0dad\u0dbb\u0d82\u0d9c-\u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca-\u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca-\u0dbb\u0db1\u0dca-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8/9-424174",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1789322676.0
+    "doc_id": "2026-09-14-dailyftlk-850c458c",
+    "num": "dailyftlk-850c458c",
+    "date_str": "2026-09-14",
+    "description": "Securing the American cargo corridor: Why Sri Lanka\u2019s maritime window demands radical structural reform",
+    "url_metadata": "https://www.ft.lk/columns/Securing-the-American-cargo-corridor-Why-Sri-Lanka-s-maritime-window-demands-radical-structural-reform/4-797177",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789329863.0
   }
 }
