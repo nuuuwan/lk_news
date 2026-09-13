@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_18:00:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_19:55:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,407** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,413** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-tamilmirrorlk-fdbcd4ca",
-    "num": "tamilmirrorlk-fdbcd4ca",
+    "doc_id": "2026-09-13-dailymirrorlk-b04db57a",
+    "num": "dailymirrorlk-b04db57a",
     "date_str": "2026-09-13",
-    "description": "\u2019FitsAir\u2019 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u2013 \u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/FitsAir-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0b9a\u0bc7\u0bb5\u0bc8-\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bae\u0bbe\u0b95-\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/50-382693",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1789300566.0
+    "description": "Family politics is now over in Sri Lanka - President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-politics-is-now-over-in-Sri-Lanka-President/108-350201",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789304573.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-13 | `dailymirrorlk-b04db57a` | Family politics is now over in Sri Lanka - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-b04db57a)
+- 2026-09-13 | `dailymirrorlk-5ac65b94` | Three held over alleged turtle-for-money racket at Unawatuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-5ac65b94)
+- 2026-09-13 | `dailymirrorlk-43f45e5c` | FitsAir suspends Colombo-Dubai flights until November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-43f45e5c)
+- 2026-09-13 | `dailymirrorlk-99482d09` | Sri Lanka Navy recovers Fast Attack craft in Salvage operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-99482d09)
+- 2026-09-13 | `dailymirrorlk-994ab9f8` | 25 nations, 5,000+ runners hit Colombo streets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-994ab9f8)
+- 2026-09-13 | `dailymirrorlk-7a94b57a` | “Big boss or boss’s son - It doesn’t matter” - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-7a94b57a)
 - 2026-09-13 | `tamilmirrorlk-fdbcd4ca` | ’FitsAir’ கொழும்பு – டுபாய் விமான சேவை தற்காலிகமாக ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-fdbcd4ca)
 - 2026-09-13 | `dailymirrorlk-f764d2a6` | Dehiwala shooting suspect among five arrested in Mount Lavinia raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-f764d2a6)
 - 2026-09-13 | `tamilmirrorlk-c312e5ca` | 22 க்கு எதிராக  24 அன்று சஜித் அணி கொழும்பில் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-c312e5ca)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-13 | `dailymirrorlk-72828547` | China, India agree to strengthen ties as Xi, Modi meet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-72828547)
 - 2026-09-13 | `dailymirrorlk-6f112806` | Gnanasara Thera reportedly missing after SC ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-6f112806)
 - 2026-09-13 | `tamilmirrorlk-49754039` | “கல்வியை எவரும் கைவிடப்படுவதற்கு இடம் அளிக்கப்படமாட்டாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-49754039)
-- 2026-09-13 | `tamilmirrorlk-3d56260f` | ஆற்றில் ஆண் சடலம் கரையொதுங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-3d56260f)
-- 2026-09-13 | `tamilmirrorlk-2da3d543` | 13ஆவது வாரமாக தொடரும் காணி உரிமைப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-2da3d543)
-- 2026-09-13 | `dailymirrorlk-de5eb173` | Rs. 2,000 fine proposed for unregistered dogs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-de5eb173)
-- 2026-09-13 | `dailymirrorlk-b34473ff` | New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-b34473ff)
-- 2026-09-13 | `dailymirrorlk-9bd99b53` | New move to speed up Motor Traffic services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-9bd99b53)
-- 2026-09-13 | `dailymirrorlk-22ff90a5` | Firm fined over rice, expired glucose | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-22ff90a5)
 
 ---
 

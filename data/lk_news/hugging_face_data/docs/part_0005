@@ -49095,5 +49095,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789300566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-7a94b57a",
+    "num": "dailymirrorlk-7a94b57a",
+    "date_str": "2026-09-13",
+    "description": "\u201cBig boss or boss\u2019s son - It doesn\u2019t matter\u201d - President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Big-boss-or-bosss-son-It-doesnt-matter-President/108-350196",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789302328.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-994ab9f8",
+    "num": "dailymirrorlk-994ab9f8",
+    "date_str": "2026-09-13",
+    "description": "25 nations, 5,000+ runners hit Colombo streets",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/25-nations-5-000-runners-hit-Colombo-streets/108-350197",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789303809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-99482d09",
+    "num": "dailymirrorlk-99482d09",
+    "date_str": "2026-09-13",
+    "description": "Sri Lanka Navy recovers Fast Attack craft in Salvage operation",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-Navy-recovers-Fast-Attack-craft-in-Salvage-operation/110-350198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789304245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-43f45e5c",
+    "num": "dailymirrorlk-43f45e5c",
+    "date_str": "2026-09-13",
+    "description": "FitsAir suspends Colombo-Dubai flights until November",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FitsAir-suspends-Colombo-Dubai-flights-until-November/108-350199",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789304351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-5ac65b94",
+    "num": "dailymirrorlk-5ac65b94",
+    "date_str": "2026-09-13",
+    "description": "Three held over alleged turtle-for-money racket at Unawatuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-held-over-alleged-turtle-for-money-racket-at-Unawatuna/108-350200",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789304467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-b04db57a",
+    "num": "dailymirrorlk-b04db57a",
+    "date_str": "2026-09-13",
+    "description": "Family politics is now over in Sri Lanka - President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-politics-is-now-over-in-Sri-Lanka-President/108-350201",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789304573.0
   }
 ]
