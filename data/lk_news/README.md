@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_06:25:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_08:02:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-dailymirrorlk-97ab9604",
-    "num": "dailymirrorlk-97ab9604",
+    "doc_id": "2026-09-13-dailymirrorlk-61a444df",
+    "num": "dailymirrorlk-61a444df",
     "date_str": "2026-09-13",
-    "description": "Rybakina wins US Open to inflict further pain on Sabalenka",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rybakina-wins-US-Open-to-inflict-further-pain-on-Sabalenka/108-350164",
+    "description": "Heavy rains over 100mm forecast in five provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-over-100mm-forecast-in-five-provinces/108-350165",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789259249.0
+    "time_ut": 1789265893.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-13 | `dailymirrorlk-61a444df` | Heavy rains over 100mm forecast in five provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-61a444df)
 - 2026-09-13 | `dailymirrorlk-97ab9604` | Rybakina wins US Open to inflict further pain on Sabalenka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-97ab9604)
 - 2026-09-13 | `dailymirrorlk-14a248f3` | India vs Sri Lanka: Asia Cup final clash set for Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-14a248f3)
 - 2026-09-13 | `tamilmirrorlk-98a347f7` | அஜித்தை ஓடிச் சென்று கட்டி அணைத்தார் முதல்வர் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-98a347f7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-12 | `dailymirrorlk-62cc08ec` | Naval, fishing communities urged to remain vigilant amid rough seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-62cc08ec)
 - 2026-09-12 | `dailymirrorlk-5c6cb090` | Magnitude 6.5 earthquake strikes near Jakarta | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-dailymirrorlk-5c6cb090)
 - 2026-09-12 | `tamilmirrorlk-9768f09c` | சில இடங்களில்  ஓரளவு பலத்த மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-tamilmirrorlk-9768f09c)
-- 2026-09-12 | `tamilmirrorlk-6912516f` | வெடிக்காத பட்டாசு வெடித்ததில் சிறுவன் பரிதாப மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-12-tamilmirrorlk-6912516f)
 
 ---
 
