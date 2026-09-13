@@ -49219,6 +49219,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-13-adalk-89d724a5",
+    "num": "adalk-89d724a5",
+    "date_str": "2026-09-13",
+    "description": "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0daf\u0dd2\u0d9c\u0dd4 \u0daf\u0dd4\u0dbb \u0da2\u0dd9\u0da7\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0dc4\u0dd2\u0db8\u0dd2 \u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dcf \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0daf\u0dd2\u0d9c\u0dd4-\u0daf\u0dd4\u0dbb-\u0da2\u0dd9\u0da7\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca-\u0dc4\u0dd2\u0db8\u0dd2-\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dcf-\u0d91\u0dba\u0dd2/10-424170",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789312629.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-13-adalk-92e7e1f3",
     "num": "adalk-92e7e1f3",
     "date_str": "2026-09-13",
@@ -49249,5 +49260,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789314998.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-ce102df4",
+    "num": "dailymirrorlk-ce102df4",
+    "date_str": "2026-09-13",
+    "description": "Pathirage makes history with 91.09m victory in Budapest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pathirage-makes-history-with-91-09m-victory-in-Budapest/108-350207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789319073.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-adalk-18c77cb3",
+    "num": "adalk-18c77cb3",
+    "date_str": "2026-09-13",
+    "description": "\u0dbb\u0db8\u0dda\u0dc2\u0dca \u0dad\u0dbb\u0d82\u0d9c \u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca \u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca \u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0db8\u0dda\u0dc2\u0dca-\u0dad\u0dbb\u0d82\u0d9c-\u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca-\u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca-\u0dbb\u0db1\u0dca-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8/9-424174",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789322676.0
   }
 ]

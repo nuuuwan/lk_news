@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_21:58:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_00:00:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,421** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,424** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-adalk-2ae985ee",
-    "num": "adalk-2ae985ee",
+    "doc_id": "2026-09-13-adalk-18c77cb3",
+    "num": "adalk-18c77cb3",
     "date_str": "2026-09-13",
-    "description": "\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd \u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dbd\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd-\u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dbd\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-424173",
+    "description": "\u0dbb\u0db8\u0dda\u0dc2\u0dca \u0dad\u0dbb\u0d82\u0d9c \u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca \u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca \u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0db8\u0dda\u0dc2\u0dca-\u0dad\u0dbb\u0d82\u0d9c-\u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca-\u0d85\u0dbd\u0dca\u0da7\u0dd2\u0db8\u0dda\u0da7\u0dca-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda\u0dad\u0dca-\u0dbb\u0db1\u0dca-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8/9-424174",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1789314998.0
+    "time_ut": 1789322676.0
 }
 ```
 
@@ -41,9 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-13 | `adalk-18c77cb3` | රමේෂ් තරංග වර්ල්ඩ් අල්ටිමේට් තරගාවලියේත් රන් පදක්කම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-18c77cb3)
+- 2026-09-13 | `dailymirrorlk-ce102df4` | Pathirage makes history with 91.09m victory in Budapest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-ce102df4)
 - 2026-09-13 | `adalk-2ae985ee` | එප්පාවල සමූපාකාරයේ බලය මාලිමාවෙන් ඒකාබද්ධ විපක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-2ae985ee)
 - 2026-09-13 | `dailymirrorlk-3cd5ccc2` | Heavy rains affect over 17,000 people across the country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-3cd5ccc2)
 - 2026-09-13 | `adalk-92e7e1f3` | ෆිට්ස් එයාර් ඩුබායි ගුවන් ගමන් නවත්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-92e7e1f3)
+- 2026-09-13 | `adalk-89d724a5` | පෞද්ගලික දිගු දුර ජෙට් ගුවන් යානයක් හිමි පළමු ශ්‍රී ලාංකිකයා එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-89d724a5)
 - 2026-09-13 | `dailymirrorlk-55a8c31f` | First 3MW solar project under 300MW programme connected to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-55a8c31f)
 - 2026-09-13 | `dailymirrorlk-1d31885b` | Sri Lankan long-haul jet owner arrives at Ratmalana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1d31885b)
 - 2026-09-13 | `dailymirrorlk-1af7038a` | Rumesh Tharanga takes on world’s best in Budapest tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1af7038a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-13 | `dailymirrorlk-f764d2a6` | Dehiwala shooting suspect among five arrested in Mount Lavinia raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-f764d2a6)
 - 2026-09-13 | `tamilmirrorlk-c312e5ca` | 22 க்கு எதிராக  24 அன்று சஜித் அணி கொழும்பில் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-c312e5ca)
 - 2026-09-13 | `tamilmirrorlk-dd890b99` | விலையுயர்ந்த உணவுகளை நிராகரிக்கும் சூப்பர் பவர் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-dd890b99)
-- 2026-09-13 | `tamilmirrorlk-442558d1` | சிறுத்கைகளால் அச்சம்: நடவடிக்கை அவசியம் என்கிறார் புஷ்பா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-442558d1)
-- 2026-09-13 | `tamilmirrorlk-1c99f94e` | சர்வதேச விண்வெளி உச்சி மாநாட்டில் பிரதமர் மோடி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-1c99f94e)
-- 2026-09-13 | `tamilmirrorlk-71064305` | மோடி, ஜின்பிங், புட்டின் சந்திப்பு : சர்வதேச அளவில் கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-71064305)
 
 ---
 
