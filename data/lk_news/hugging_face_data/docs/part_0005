@@ -49359,5 +49359,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1789329863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-25ea58e2",
+    "num": "dailyftlk-25ea58e2",
+    "date_str": "2026-09-14",
+    "description": "An El Ni\u00f1o like no other",
+    "url_metadata": "https://www.ft.lk/news/An-El-Ni\u00f1o-like-no-other/56-797178",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789330697.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-84a4f84e",
+    "num": "dailyftlk-84a4f84e",
+    "date_str": "2026-09-14",
+    "description": "Foreign Minister Herath to visit Thailand",
+    "url_metadata": "https://www.ft.lk/news/Foreign-Minister-Herath-to-visit-Thailand/56-797179",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789330927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-608f1c25",
+    "num": "dailyftlk-608f1c25",
+    "date_str": "2026-09-14",
+    "description": "China\u2019s Xi and India\u2019s Modi in landmark meeting at BRICS Summit",
+    "url_metadata": "https://www.ft.lk/news/China-s-Xi-and-India-s-Modi-in-landmark-meeting-at-BRICS-Summit/56-797180",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789331116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-32c80e9b",
+    "num": "dailyftlk-32c80e9b",
+    "date_str": "2026-09-14",
+    "description": "Sri Lanka\u2013Indonesia Business Council holds 3rd Annual General Meeting",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaIndonesia-Business-Council-holds-3rd-Annual-General-Meeting/34-797190",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789333394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-27b1bdf7",
+    "num": "dailyftlk-27b1bdf7",
+    "date_str": "2026-09-14",
+    "description": "Port City Colombo and business of staying longer",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-and-business-of-staying-longer/34-797191",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789333820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-f4408eae",
+    "num": "dailyftlk-f4408eae",
+    "date_str": "2026-09-14",
+    "description": "Prime Group celebrates major milestone as The Colombo Border tops off all three towers",
+    "url_metadata": "https://www.ft.lk/business/Prime-Group-celebrates-major-milestone-as-The-Colombo-Border-tops-off-all-three-towers/34-797192",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789333976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailyftlk-3fa788a9",
+    "num": "dailyftlk-3fa788a9",
+    "date_str": "2026-09-14",
+    "description": "Can a campaign build a culture of tax compliance?",
+    "url_metadata": "https://www.ft.lk/columns/Can-a-campaign-build-a-culture-of-tax-compliance/4-797194",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789335431.0
   }
 ]

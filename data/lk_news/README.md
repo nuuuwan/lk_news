@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_01:56:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_03:55:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,431** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,438** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-dailyftlk-850c458c",
-    "num": "dailyftlk-850c458c",
+    "doc_id": "2026-09-14-dailyftlk-3fa788a9",
+    "num": "dailyftlk-3fa788a9",
     "date_str": "2026-09-14",
-    "description": "Securing the American cargo corridor: Why Sri Lanka\u2019s maritime window demands radical structural reform",
-    "url_metadata": "https://www.ft.lk/columns/Securing-the-American-cargo-corridor-Why-Sri-Lanka-s-maritime-window-demands-radical-structural-reform/4-797177",
+    "description": "Can a campaign build a culture of tax compliance?",
+    "url_metadata": "https://www.ft.lk/columns/Can-a-campaign-build-a-culture-of-tax-compliance/4-797194",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1789329863.0
+    "time_ut": 1789335431.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-14 | `dailyftlk-3fa788a9` | Can a campaign build a culture of tax compliance? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-3fa788a9)
+- 2026-09-14 | `dailyftlk-f4408eae` | Prime Group celebrates major milestone as The Colombo Border tops off all three towers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-f4408eae)
+- 2026-09-14 | `dailyftlk-27b1bdf7` | Port City Colombo and business of staying longer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-27b1bdf7)
+- 2026-09-14 | `dailyftlk-32c80e9b` | Sri Lanka–Indonesia Business Council holds 3rd Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-32c80e9b)
+- 2026-09-14 | `dailyftlk-608f1c25` | China’s Xi and India’s Modi in landmark meeting at BRICS Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-608f1c25)
+- 2026-09-14 | `dailyftlk-84a4f84e` | Foreign Minister Herath to visit Thailand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-84a4f84e)
+- 2026-09-14 | `dailyftlk-25ea58e2` | An El Niño like no other | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-25ea58e2)
 - 2026-09-14 | `dailyftlk-850c458c` | Securing the American cargo corridor: Why Sri Lanka’s maritime window demands radical structural reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-850c458c)
 - 2026-09-14 | `dailyftlk-7e1f12b5` | BIMSTEC, maritime Sri Lanka and the missing link in policy thinking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-7e1f12b5)
 - 2026-09-14 | `dailyftlk-bfe9f652` | Why FiNAC HR Optimizer, and  why now? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-bfe9f652)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-13 | `dailymirrorlk-3cd5ccc2` | Heavy rains affect over 17,000 people across the country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-3cd5ccc2)
 - 2026-09-13 | `adalk-92e7e1f3` | ෆිට්ස් එයාර් ඩුබායි ගුවන් ගමන් නවත්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-92e7e1f3)
 - 2026-09-13 | `adalk-89d724a5` | පෞද්ගලික දිගු දුර ජෙට් ගුවන් යානයක් හිමි පළමු ශ්‍රී ලාංකිකයා එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-89d724a5)
-- 2026-09-13 | `dailymirrorlk-55a8c31f` | First 3MW solar project under 300MW programme connected to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-55a8c31f)
-- 2026-09-13 | `dailymirrorlk-1d31885b` | Sri Lankan long-haul jet owner arrives at Ratmalana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1d31885b)
-- 2026-09-13 | `dailymirrorlk-1af7038a` | Rumesh Tharanga takes on world’s best in Budapest tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1af7038a)
-- 2026-09-13 | `dailymirrorlk-d791b937` | India set Sri Lanka 184-run target in Asia Cup Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-d791b937)
-- 2026-09-13 | `dailymirrorlk-b04db57a` | Family politics is now over in Sri Lanka - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-b04db57a)
-- 2026-09-13 | `dailymirrorlk-5ac65b94` | Three held over alleged turtle-for-money racket at Unawatuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-5ac65b94)
-- 2026-09-13 | `dailymirrorlk-43f45e5c` | FitsAir suspends Colombo-Dubai flights until November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-43f45e5c)
 
 ---
 
