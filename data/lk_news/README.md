@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_14:04:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_16:05:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,369** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,396** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-tamilmirrorlk-a560049d",
-    "num": "tamilmirrorlk-a560049d",
+    "doc_id": "2026-09-13-dailymirrorlk-72828547",
+    "num": "dailymirrorlk-72828547",
     "date_str": "2026-09-13",
-    "description": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd  \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf/175-382669",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1789285155.0
+    "description": "China, India agree to strengthen ties as Xi, Modi meet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-India-agree-to-strengthen-ties-as-Xi-Modi-meet/108-350191",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789294589.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-13 | `dailymirrorlk-72828547` | China, India agree to strengthen ties as Xi, Modi meet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-72828547)
+- 2026-09-13 | `dailymirrorlk-6f112806` | Gnanasara Thera reportedly missing after SC ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-6f112806)
+- 2026-09-13 | `tamilmirrorlk-49754039` | “கல்வியை எவரும் கைவிடப்படுவதற்கு இடம் அளிக்கப்படமாட்டாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-49754039)
+- 2026-09-13 | `tamilmirrorlk-3d56260f` | ஆற்றில் ஆண் சடலம் கரையொதுங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-3d56260f)
+- 2026-09-13 | `tamilmirrorlk-2da3d543` | 13ஆவது வாரமாக தொடரும் காணி உரிமைப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-2da3d543)
+- 2026-09-13 | `dailymirrorlk-de5eb173` | Rs. 2,000 fine proposed for unregistered dogs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-de5eb173)
+- 2026-09-13 | `dailymirrorlk-b34473ff` | New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-b34473ff)
+- 2026-09-13 | `dailymirrorlk-9bd99b53` | New move to speed up Motor Traffic services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-9bd99b53)
+- 2026-09-13 | `dailymirrorlk-22ff90a5` | Firm fined over rice, expired glucose | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-22ff90a5)
+- 2026-09-13 | `dailymirrorlk-d7aea43e` | Drought tests humanity as wildlife struggles for survival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-d7aea43e)
+- 2026-09-13 | `tamilmirrorlk-892c1846` | பாலமுனைப் பிரதான வீதியில் கோர விபத்து- குடும்பஸ்தர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-892c1846)
+- 2026-09-13 | `tamilmirrorlk-723155d5` | டிரம்ப்பின் வீடு 1.93 மில்லியன் டொலருக்கு விற்பனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-723155d5)
+- 2026-09-13 | `dailymirrorlk-eced21b0` | Steps for peace and humanity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-eced21b0)
+- 2026-09-13 | `dailymirrorlk-79f27d05` | Chaminda Vaas set to join Delhi Capitals as fast bowling coach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-79f27d05)
 - 2026-09-13 | `tamilmirrorlk-a560049d` | அம்பாறை மாவட்டத்தில்  கடும் வறட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-a560049d)
-- 2026-09-13 | `tamilmirrorlk-0ec72b0e` | கிரிமெட்டிய ஸ்ரீ முத்து விநாயகர் ஆலய மகா கும்பாபிஷேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-0ec72b0e)
-- 2026-09-13 | `tamilmirrorlk-58feaf5a` | ரூ. 1.59 கோடி பெறுமதியான வெளிநாட்டு சிகரெட்டுகளுடன்  இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-58feaf5a)
-- 2026-09-13 | `tamilmirrorlk-f85f0284` | மலையகத்தில் கடும் பனிமூட்டம்: போக்குவரத்துப் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-f85f0284)
-- 2026-09-13 | `tamilmirrorlk-d7823ae7` | கடல் அட்டை பிடித்த இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-d7823ae7)
-- 2026-09-13 | `tamilmirrorlk-36f055e4` | முதல்வருடன் கார் பந்தயத்தை கண்டு ரசித்த த்ரிஷா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-36f055e4)
-- 2026-09-13 | `tamilmirrorlk-874f0cd4` | 243 பேருடன் பயணித்த படகு மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-874f0cd4)
-- 2026-09-13 | `tamilmirrorlk-b8329093` | வெளிவிவகார அமைச்சர் தாய்லாந்து பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-b8329093)
-- 2026-09-13 | `tamilmirrorlk-01b7b1b2` | பிரதமரிடம்  மலையகக் கல்வி அபிவிருத்தி மன்றம் முக்கிய கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-01b7b1b2)
-- 2026-09-13 | `tamilmirrorlk-94e9f0d7` | ஜனாஸாவை அடையாளம் காண உதவுங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-94e9f0d7)
-- 2026-09-13 | `tamilmirrorlk-107eecf3` | வீட்டின் அருகே வந்த சிறுத்தையால் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-107eecf3)
-- 2026-09-13 | `tamilmirrorlk-c9f7a14a` | வாகனம் மீது பொலிஸார் துப்பாக்கிப் பிரயோகம்; சாரதி காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-c9f7a14a)
-- 2026-09-13 | `dailymirrorlk-462bc2c8` | Vijitha Herath to visit Thailand from September 14–16 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-462bc2c8)
-- 2026-09-13 | `tamilmirrorlk-a3dc420d` | ‘குஷ்’ ஷூடன்  இலங்கையர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-a3dc420d)
-- 2026-09-13 | `tamilmirrorlk-c94d3221` | முள்ளிப்பொத்தானையில் கடும் வறட்சி: கிணறுகள் வற்றியதால் மக்கள் அவதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-c94d3221)
-- 2026-09-13 | `tamilmirrorlk-2bd22f93` | ஆசிரிய மாணவியைத்  தூண்டிய விரிவுரையாளர் மீது நடவடிக்கை வேண்டும்: அர்ச்சுனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-2bd22f93)
-- 2026-09-13 | `tamilmirrorlk-aeac7c2b` | “தமிழ் மக்களின் பிரச்சினைகளைத் தீர்ப்பதில் அக்கறை காட்டவில்லை” சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-aeac7c2b)
-- 2026-09-13 | `tamilmirrorlk-1d441ce9` | அராலிச் சந்தி வாள்வெட்டுத் தாக்குதல்: வவுனியாவில் நால்வர் கைது; ஆயுதங்களும் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-1d441ce9)
-- 2026-09-13 | `dailymirrorlk-cd570ced` | Driver injured as police open fire on van in Gampaha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-cd570ced)
-- 2026-09-13 | `dailymirrorlk-61a444df` | Heavy rains over 100mm forecast in five provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-61a444df)
+- 2026-09-13 | `dailymirrorlk-54a02034` | ADB to provide Rs.6.7 billion for provincial health development in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-54a02034)
+- 2026-09-13 | `dailymirrorlk-7fb83c3b` | Severe lightning warning issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-7fb83c3b)
+- 2026-09-13 | `dailymirrorlk-782026ae` | Dehiwala ‘Made in China’ footwear racket exposed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-782026ae)
+- 2026-09-13 | `dailymirrorlk-29a3c470` | Best friends for decades - until a DNA test revealed they were sisters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-29a3c470)
+- 2026-09-13 | `dailymirrorlk-04a07750` | Weerawansa alleges Govt. selectively pursuing investigations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-04a07750)
 
 ---
 
