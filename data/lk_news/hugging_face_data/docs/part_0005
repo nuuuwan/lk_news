@@ -48380,5 +48380,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789240281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-14a248f3",
+    "num": "dailymirrorlk-14a248f3",
+    "date_str": "2026-09-13",
+    "description": "India vs Sri Lanka: Asia Cup final clash set for Dubai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-vs-Sri-Lanka-Asia-Cup-final-clash-set-for-Dubai/108-350163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789258532.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-97ab9604",
+    "num": "dailymirrorlk-97ab9604",
+    "date_str": "2026-09-13",
+    "description": "Rybakina wins US Open to inflict further pain on Sabalenka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rybakina-wins-US-Open-to-inflict-further-pain-on-Sabalenka/108-350164",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789259249.0
   }
 ]
