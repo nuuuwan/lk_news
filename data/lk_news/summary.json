@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-13 19:54:22",
-  "n_docs": 130413,
+  "time_updated": "2026-09-13 21:57:38",
+  "n_docs": 130421,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130413,
+  "n_docs_with_text": 130421,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-13",
-  "dataset_size": 2028486404,
+  "dataset_size": 2028542667,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-dailymirrorlk-b04db57a",
-    "num": "dailymirrorlk-b04db57a",
+    "doc_id": "2026-09-13-adalk-2ae985ee",
+    "num": "adalk-2ae985ee",
     "date_str": "2026-09-13",
-    "description": "Family politics is now over in Sri Lanka - President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-politics-is-now-over-in-Sri-Lanka-President/108-350201",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789304573.0
+    "description": "\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd \u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dbd\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd-\u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dbd\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-424173",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789314998.0
   }
 }

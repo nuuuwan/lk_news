@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_19:55:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--13_21:58:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,413** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,421** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-13-dailymirrorlk-b04db57a",
-    "num": "dailymirrorlk-b04db57a",
+    "doc_id": "2026-09-13-adalk-2ae985ee",
+    "num": "adalk-2ae985ee",
     "date_str": "2026-09-13",
-    "description": "Family politics is now over in Sri Lanka - President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Family-politics-is-now-over-in-Sri-Lanka-President/108-350201",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789304573.0
+    "description": "\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd \u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dbd\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd-\u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dbd\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-424173",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789314998.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-13 | `adalk-2ae985ee` | එප්පාවල සමූපාකාරයේ බලය මාලිමාවෙන් ඒකාබද්ධ විපක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-2ae985ee)
+- 2026-09-13 | `dailymirrorlk-3cd5ccc2` | Heavy rains affect over 17,000 people across the country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-3cd5ccc2)
+- 2026-09-13 | `adalk-92e7e1f3` | ෆිට්ස් එයාර් ඩුබායි ගුවන් ගමන් නවත්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-adalk-92e7e1f3)
+- 2026-09-13 | `dailymirrorlk-55a8c31f` | First 3MW solar project under 300MW programme connected to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-55a8c31f)
+- 2026-09-13 | `dailymirrorlk-1d31885b` | Sri Lankan long-haul jet owner arrives at Ratmalana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1d31885b)
+- 2026-09-13 | `dailymirrorlk-1af7038a` | Rumesh Tharanga takes on world’s best in Budapest tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-1af7038a)
+- 2026-09-13 | `dailymirrorlk-d791b937` | India set Sri Lanka 184-run target in Asia Cup Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-d791b937)
 - 2026-09-13 | `dailymirrorlk-b04db57a` | Family politics is now over in Sri Lanka - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-b04db57a)
 - 2026-09-13 | `dailymirrorlk-5ac65b94` | Three held over alleged turtle-for-money racket at Unawatuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-5ac65b94)
 - 2026-09-13 | `dailymirrorlk-43f45e5c` | FitsAir suspends Colombo-Dubai flights until November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-43f45e5c)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-13 | `tamilmirrorlk-442558d1` | சிறுத்கைகளால் அச்சம்: நடவடிக்கை அவசியம் என்கிறார் புஷ்பா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-442558d1)
 - 2026-09-13 | `tamilmirrorlk-1c99f94e` | சர்வதேச விண்வெளி உச்சி மாநாட்டில் பிரதமர் மோடி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-1c99f94e)
 - 2026-09-13 | `tamilmirrorlk-71064305` | மோடி, ஜின்பிங், புட்டின் சந்திப்பு : சர்வதேச அளவில் கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-71064305)
-- 2026-09-13 | `dailymirrorlk-0ff880a1` | SJB takes fight against 22nd Amendment to Colombo streets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-0ff880a1)
-- 2026-09-13 | `tamilmirrorlk-ac36c76c` | நாய்களைப் பதிவு செய்ய தவறினால் ரூ.2,000  தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-ac36c76c)
-- 2026-09-13 | `tamilmirrorlk-d00e5921` | மணாகிப் மஜ்லிஸ் கொடியேற்றத்துடன் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-d00e5921)
-- 2026-09-13 | `tamilmirrorlk-3bdb1d18` | ஞானசார தேரரைக் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-3bdb1d18)
-- 2026-09-13 | `dailymirrorlk-72828547` | China, India agree to strengthen ties as Xi, Modi meet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-72828547)
-- 2026-09-13 | `dailymirrorlk-6f112806` | Gnanasara Thera reportedly missing after SC ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-dailymirrorlk-6f112806)
-- 2026-09-13 | `tamilmirrorlk-49754039` | “கல்வியை எவரும் கைவிடப்படுவதற்கு இடம் அளிக்கப்படமாட்டாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-13-tamilmirrorlk-49754039)
 
 ---
 

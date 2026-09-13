@@ -48460,6 +48460,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-13-adalk-ae5bbbca",
+    "num": "adalk-ae5bbbca",
+    "date_str": "2026-09-13",
+    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca \u0d9c\u0dda\u0db1 \u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd  \u2019\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0d9a\u0dd3\u2019 \u0dc3\u0ddc\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd2\u0db1\u0dca-\u0d9c\u0dda\u0db1-\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd--\u2019\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca-\u0d9a\u0dd3\u2019-\u0dc3\u0ddc\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0d9a\u0dca/11-424169",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789264760.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-13-dailymirrorlk-61a444df",
     "num": "dailymirrorlk-61a444df",
     "date_str": "2026-09-13",
@@ -49161,5 +49172,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789304573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-d791b937",
+    "num": "dailymirrorlk-d791b937",
+    "date_str": "2026-09-13",
+    "description": "India set Sri Lanka 184-run target in Asia Cup Final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-set-Sri-Lanka-184-run-target-in-Asia-Cup-Final/108-350202",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789310035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-1af7038a",
+    "num": "dailymirrorlk-1af7038a",
+    "date_str": "2026-09-13",
+    "description": "Rumesh Tharanga takes on world\u2019s best in Budapest tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rumesh-Tharanga-takes-on-worlds-best-in-Budapest-tonight/108-350203",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789310406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-1d31885b",
+    "num": "dailymirrorlk-1d31885b",
+    "date_str": "2026-09-13",
+    "description": "Sri Lankan long-haul jet owner arrives at Ratmalana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-long-haul-jet-owner-arrives-at-Ratmalana/108-350204",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789311712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-55a8c31f",
+    "num": "dailymirrorlk-55a8c31f",
+    "date_str": "2026-09-13",
+    "description": "First 3MW solar project under 300MW programme connected to national grid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/First-3MW-solar-project-under-300MW-programme-connected-to-national-grid/108-350205",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789312058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-adalk-92e7e1f3",
+    "num": "adalk-92e7e1f3",
+    "date_str": "2026-09-13",
+    "description": "\u0dc6\u0dd2\u0da7\u0dca\u0dc3\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca \u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc6\u0dd2\u0da7\u0dca\u0dc3\u0dca-\u0d91\u0dba\u0dcf\u0dbb\u0dca-\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0dba\u0dd2/11-424171",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789313135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-dailymirrorlk-3cd5ccc2",
+    "num": "dailymirrorlk-3cd5ccc2",
+    "date_str": "2026-09-13",
+    "description": "Heavy rains affect over 17,000 people across the country",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-affect-over-17-000-people-across-the-country/108-350206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789313555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-13-adalk-2ae985ee",
+    "num": "adalk-2ae985ee",
+    "date_str": "2026-09-13",
+    "description": "\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd \u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0db6\u0dbd\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbd-\u0dc3\u0db8\u0dd6\u0db4\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dda-\u0db6\u0dbd\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-424173",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789314998.0
   }
 ]
