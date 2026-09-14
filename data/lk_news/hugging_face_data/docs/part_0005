@@ -49736,6 +49736,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-e3e0ec06",
+    "num": "dailymirrorlk-e3e0ec06",
+    "date_str": "2026-09-14",
+    "description": "Sathosa Motors achieves ISO 9001:2015 Certification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sathosa-Motors-achieves-ISO-90012015-Certification/273-350224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366352.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-24fa0f3c",
+    "num": "dailymirrorlk-24fa0f3c",
+    "date_str": "2026-09-14",
+    "description": "Hayleys Mobility celebrates 1,000 new journeys across SL",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Mobility-celebrates-1-000-new-journeys-across-SL/273-350225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366413.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-14-tamilmirrorlk-be856673",
     "num": "tamilmirrorlk-be856673",
     "date_str": "2026-09-14",
@@ -49747,6 +49769,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-ad5efc93",
+    "num": "dailymirrorlk-ad5efc93",
+    "date_str": "2026-09-14",
+    "description": "SLID celebrates 25 years of advancing corporate governance in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLID-celebrates-25-years-of-advancing-corporate-governance-in-Sri-Lanka/273-350226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-3538b4b8",
+    "num": "dailymirrorlk-3538b4b8",
+    "date_str": "2026-09-14",
+    "description": "Sri Lanka-Indonesia Business Council holds 3rd AGM",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Indonesia-Business-Council-holds-3rd-AGM/273-350227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-110f3cb6",
+    "num": "dailymirrorlk-110f3cb6",
+    "date_str": "2026-09-14",
+    "description": "Dearo Venture Capital strengthens leadership, unveils strategic vision for SL\u2019s economic growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dearo-Venture-Capital-strengthens-leadership-unveils-strategic-vision-for-SLs-economic-growth/273-350228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366683.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-14-dailymirrorlk-7449cf51",
     "num": "dailymirrorlk-7449cf51",
     "date_str": "2026-09-14",
@@ -49755,6 +49810,83 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789366738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-367f5409",
+    "num": "dailymirrorlk-367f5409",
+    "date_str": "2026-09-14",
+    "description": "Salesforce pivots from AI hype to real biz value in SL\u2019s digital push",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Salesforce-pivots-from-AI-hype-to-real-biz-value-in-SLs-digital-push/273-350231",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-0f9b8413",
+    "num": "dailymirrorlk-0f9b8413",
+    "date_str": "2026-09-14",
+    "description": "Shift Group celebrates 8 wins at The Dragons",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Shift-Group-celebrates-8-wins-at-The-Dragons/273-350232",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-d90e1b38",
+    "num": "dailymirrorlk-d90e1b38",
+    "date_str": "2026-09-14",
+    "description": "Staff Conference 2026 HNB Life celebrates 25-year journey, exceptional success",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Staff-Conference-2026-HNB-Life-celebrates-25-year-journey-exceptional-success/273-350233",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789366864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-4034924d",
+    "num": "dailymirrorlk-4034924d",
+    "date_str": "2026-09-14",
+    "description": "BestWeb.LK 2026 crowns best websites",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BestWeb-LK-2026-crowns-best-websites/273-350234",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789367018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-0d800b5e",
+    "num": "dailymirrorlk-0d800b5e",
+    "date_str": "2026-09-14",
+    "description": "Hilton Colombo celebrates 39 years at heart of  Sri Lankan hospitality",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hilton-Colombo-celebrates-39-years-at-heart-of-Sri-Lankan-hospitality/273-350235",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789367103.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-671609a0",
+    "num": "dailymirrorlk-671609a0",
+    "date_str": "2026-09-14",
+    "description": "Foreign reserves climb to five-month high of US$ 6.9bn on record Central Bank dollar purchases",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Foreign-reserves-climb-to-five-month-high-of-US-6-9bn-on-record-Central-Bank-dollar-purchases/273-350236",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789367138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-43a70df5",
+    "num": "dailymirrorlk-43a70df5",
+    "date_str": "2026-09-14",
+    "description": "MullenLowe Group Sri Lanka becomes BBDO Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/MullenLowe-Group-Sri-Lanka-becomes-BBDO-Sri-Lanka/273-350237",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789367241.0
   },
   {
     "doc_type": "lk_news",
@@ -49777,6 +49909,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789367435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-adalk-f31dbaa2",
+    "num": "adalk-f31dbaa2",
+    "date_str": "2026-09-14",
+    "description": "\u0dc4\u0dd2\u0db8\u0dcf\u0dbd \u0d9c\u0dca\u0dbd\u0dd0\u0dc3\u0dd2\u0dba\u0dbb \u0daf\u0dd2\u0dba\u0dc0\u0dd2\u0db8 \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0db8\u0dcf\u0dbd-\u0d9c\u0dca\u0dbd\u0dd0\u0dc3\u0dd2\u0dba\u0dbb-\u0daf\u0dd2\u0dba\u0dc0\u0dd2\u0db8-\u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dbd\u0dcf/11-424181",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789367499.0
   },
   {
     "doc_type": "lk_news",
@@ -49821,5 +49964,181 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789367720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-tamilmirrorlk-7484732c",
+    "num": "tamilmirrorlk-7484732c",
+    "date_str": "2026-09-14",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0bae\u0bbf\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0bae\u0bbf\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/62-382716",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789367790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-387c3e9a",
+    "num": "dailymirrorlk-387c3e9a",
+    "date_str": "2026-09-14",
+    "description": "Private Sector Must Follow  Government Lead on Single-Use Plastic Bottles",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Private-Sector-Must-Follow-Government-Lead-on-Single-Use-Plastic-Bottles/172-350246",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789368071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-fb0cafa2",
+    "num": "dailymirrorlk-fb0cafa2",
+    "date_str": "2026-09-14",
+    "description": "Beyond the Mugshots: The Real Scandal of SriLankan Airlines",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Beyond-the-Mugshots-The-Real-Scandal-of-SriLankan-Airlines/172-350248",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789368300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-7dc8c2a0",
+    "num": "dailymirrorlk-7dc8c2a0",
+    "date_str": "2026-09-14",
+    "description": "Political revenge or long overdue justice?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Political-revenge-or-long-overdue-justice/172-350250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789368385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-tamilmirrorlk-3a284ff2",
+    "num": "tamilmirrorlk-3a284ff2",
+    "date_str": "2026-09-14",
+    "description": "\u0bae\u0b95\u0bb3\u0bc8 \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bb3\u0bc8-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bc1-\u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf/175-382717",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789368477.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-81623075",
+    "num": "dailymirrorlk-81623075",
+    "date_str": "2026-09-14",
+    "description": "Heavy rain triggers flash floods in Kandy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-triggers-flash-floods-in-Kandy/108-350252",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789368580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-378d8fe5",
+    "num": "dailymirrorlk-378d8fe5",
+    "date_str": "2026-09-14",
+    "description": "\u201cWe don\u2019t believe in becoming a power broker\u201d-Dilith Jayaweera, Leader of Sarvajana Balaya",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/We-dont-believe-in-becoming-a-power-broker-Dilith-Jayaweera-Leader-of-Sarvajana-Balaya/334-350255",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789368819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-tamilmirrorlk-20ded496",
+    "num": "tamilmirrorlk-20ded496",
+    "date_str": "2026-09-14",
+    "description": "\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe;   \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bc8-\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1-\u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/44-382718",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789369195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-d97993ee",
+    "num": "dailymirrorlk-d97993ee",
+    "date_str": "2026-09-14",
+    "description": "Why was the Agriculture Minister and his deputy absent at the farmers rally?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-was-the-Agriculture-Minister-and-his-deputy-absent-at-the-farmers-rally/108-350256",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789369549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-tamilmirrorlk-c165536a",
+    "num": "tamilmirrorlk-c165536a",
+    "date_str": "2026-09-14",
+    "description": "\u0b95\u0bcb\u0baf\u0bcd \u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8: \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b95\u0bcb\u0baf\u0bcd-\u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/53-382719",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789370023.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-040688ee",
+    "num": "dailymirrorlk-040688ee",
+    "date_str": "2026-09-14",
+    "description": "Gnanasara Thera reportedly missing after pardon annulled",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-reportedly-missing-after-pardon-annulled/108-350259",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789370713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-a23c1d7b",
+    "num": "dailymirrorlk-a23c1d7b",
+    "date_str": "2026-09-14",
+    "description": "Expressway passengers must buckle up from Sept. 19",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expressway-passengers-must-buckle-up-from-Sept-19/108-350260",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789371480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-79e08697",
+    "num": "dailymirrorlk-79e08697",
+    "date_str": "2026-09-14",
+    "description": "El Nino: Govt braces for any shortfall in essential food supplies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Nino-Govt-braces-for-any-shortfall-in-essential-food-supplies/108-350261",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789372926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-ab381cca",
+    "num": "dailymirrorlk-ab381cca",
+    "date_str": "2026-09-14",
+    "description": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+    "url_metadata": "https://www.dailymirror.lk/international/Saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply/107-350262",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789373185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-42b854a6",
+    "num": "dailymirrorlk-42b854a6",
+    "date_str": "2026-09-14",
+    "description": "UK regularly raises accountability, disappearances with Sri Lanka- Foreign Office",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UK-regularly-raises-accountability-disappearances-with-Sri-Lanka-Foreign-Office/108-350264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789374121.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-46421f70",
+    "num": "dailymirrorlk-46421f70",
+    "date_str": "2026-09-14",
+    "description": "Caroline Jurie, Chula Padmendra acquitted over Pushpika crown incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Caroline-Jurie-Chula-Padmendra-acquitted-over-Pushpika-crown-incident/108-350265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789374408.0
   }
 ]

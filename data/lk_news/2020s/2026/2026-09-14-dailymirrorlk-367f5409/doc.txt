@@ -1,0 +1,75 @@
+Salesforce pivots from AI hype to real biz value in SL’s digital push
+
+Salesforce Managing Director for India and Sri Lanka Mankiran Chowhan
+
+As Sri Lanka navigates a critical phase of economic recovery, both the state and corporate sector are aggressively looking toward a digital-first future. Recognising this pivotal juncture, global customer relationship management software leader Salesforce hosted its first-ever Innovation Day in Colombo on August 31, signalling a deepening commitment to the island nation.
+
+The gathering marked a decisive departure from the superficial buzz surrounding artificial intelligence (AI), focusing instead on tangible, bottom-line business impacts.
+
+Leading this strategic engagement was Salesforce Managing Director for India and Sri Lanka Mankiran Chowhan, who sat down with Mirror Business on the sidelines of the event to discuss how the Sri Lankan enterprises can harness connected data, modernise legacy operations and scale sustainably.
+
+For the past two years, the global boardrooms have been captivated by the rapid emergence of generative AI. However, Chowhan observed that the honeymoon period of casual experimentation has come to an end. Corporate leadership is now demanding measurable financial returns rather than novelty demonstrations.
+
+“Today, we live in a world where AI is no longer an experiment,” Chowhan noted.
+
+“Eighteen to 24 months ago, when ChatGPT came for the first time, everybody was experimenting with it. We were all doing video editing, AI prompts or our children were using it for homework. Most organisations were also experimenting with AI to see what was right. But now we are at a point where we know that AI is here to stay and AI is valuable.
+
+The question is: how do you use AI in the context of your business to get some value? And you are going to get value when you work on real problems, when you work on a bottom-line or a top-line problem.”
+
+She cautioned that enterprises must avoid deploying digital tools merely for cosmetic purposes.
+
+“Just doing fancy emails or making things look pretty is not the real value of AI in the corporate world. How do you leverage AI for meaningful top-line and bottom-line impact? That is why we are seeing a lot of customers no longer do just the pilots but ask: how do I attack a real problem with AI?”
+
+Illustrating this shift, Chowhan pointed to Salesforce’s internal operations, where the software giant acted as its own test case. By deploying autonomous service agents to manage repetitive customer inquiries, the company achieved an 86 percent first-call resolution rate. This operational efficiency eliminated wait times for clients and allowed the enterprise to repurpose substantial headcount into high-value strategic functions.
+
+Furthermore, deploying intelligent agents to qualify inbound sales leads ensured that opportunities were no longer lost to capacity constraints, transforming human limitations into blended human-plus-machine productivity.
+
+For Sri Lankan corporate entities aspiring to scale, Chowhan identified a pervasive structural bottleneck: fragmented digital infrastructure. Companies frequently invest in specialised software applications in isolation, creating data silos that prevent leadership from obtaining a cohesive picture of their operations.
+
+“When you have scale ambition, agility becomes very important and agility cannot sit on disparate, siloed systems. The systems need to be interconnected,” Chowhan emphasised.
+
+“You are able to unlock the power of data and technology when the data speaks to itself.”
+
+Unlocking this connectivity is critical to fostering customer loyalty, an imperative Chowhan illustrated using the local retail landscape.
+
+Drawing on the example of Keells Supermarket, she explained how the fragmented customer profiles undermine service delivery when systems operate in silos. A single shopper may appear under multiple aliases across differing transactional touchpoints, obscuring their genuine preferences and buying habits.
+
+“You could be Nishel Fernando, you could be N. Fernando or you could be Nishel F. You could have different identities across channels but the ability for the data to be connected allows the brand to understand that you are the same consumer,” Chowhan explained.
+
+“Therefore, your buying patterns, your loyalty requirements and what you need as a consumer are understood at a connected level. If the brand knows who you are, their ability to serve you becomes vastly superior.”
+
+“If you are unhappy with something and I am marketing another product to you from the same brand at the exact same time, you are not going to be happy,” she pointed out.
+
+“Very simply put, the data has to connect so that there is one single version of truth about the story of the customer and the reality of what is happening today. That is the foundational power of connected data.”
+
+To support the Sri Lankan enterprises in executing this technological shift, Chowhan said Salesforce has deployed a localised four-pillar strategic framework spanning workforce skilling, start-up incubation, developer community engagement and customer success.
+
+She noted that the first three pillars are aimed at widening the base of local AI talent, with the company’s dedicated start-up incubation initiative introduced to the market in January 2026, alongside grassroots activity anchored by the Trailblazer community and Yal Dreamin conference scheduled to take place in Jaffna this November.
+
+It is the fourth pillar where the commercial case is being tested. Chowhan pointed to Salesforce’s established local partnerships with John Keells Holdings and its subsidiaries, including Keells Supermarket and JKCG Auto, which are actively deploying these architectures to overhaul customer engagement, moving the conversation from platform capability to measurable service outcomes.
+
+When addressing the financial evaluation of enterprise software investments, Chowhan challenged the rigid, one-size-fits-all accounting models, urging executives to align technological expenditure directly with bespoke corporate outcomes.
+
+“ROI is like beauty; it is in the eye of the beholder,” Chowhan remarked.
+
+“There is no single uniform source of truth for ROI; every company will measure it differently based on their operational priorities. What matters is the business outcomes you drive using the technology. Whether that is making decisions faster, achieving higher customer satisfaction scores, executing sharper marketing campaigns or reducing average service turnaround times, achieving better results for your customers is the true measure of ROI.”
+
+To make these capabilities viable for mid-sized and growing local businesses, Salesforce provides flexible commercial structures, spanning traditional user licences, consumption-based pricing and scalable enterprise packages.
+
+Chowhan noted that the focus must remain on precision problem identification rather than sheer capital allocation, ensuring enterprises commit resources only where technological intervention creates measurable operational leverage.
+
+Beyond technical architecture and corporate productivity, Chowhan is an outspoken proponent of inclusive leadership, viewing business enterprise as an instrument for broader societal development. Her perspective is deeply shaped by her six-year tenure serving on the board of the Latika Roy Foundation, an organisation in Dehradun, India, dedicated to supporting severely disabled children.
+
+“I am a big believer that we are all responsible for making the world better. Businesses are the greatest platform for change,” Chowhan shared.
+
+“For me, inclusion is very broad. Inclusion means making sure that everybody has a seat at the table. Working with children with severe disabilities exposes you to a very different reality than what we are accustomed to in the corporate world and building empathy for that reality is essential.”
+
+This commitment to inclusion directly informs her outlook on corporate diversity and workforce modernisation. With female participation in Sri Lanka’s formal labour force hovering around 30 percent, Chowhan pointed out that modern, flexible cloud technology can act as an equaliser, enabling women and working mothers to participate meaningfully in the economy.
+
+She expressed an eagerness to engage directly with the local female executives and professionals during future engagements in Colombo to cultivate mentorship and leadership opportunities.
+
+Looking ahead, Chowhan expressed strong confidence in Sri Lanka’s broader economic trajectory and its comprehensive national digital economy blueprint, which aims to achieve an annual economic growth rate of 5 percent, build a US $ 15 billion digital economy and skill 200,000 digital workers.
+
+“Sri Lanka is at a very good, pivotal time in the market,” Chowhan observed.
+
+“Between the projected economic growth and the ambitious digital blueprint, the targets demonstrate immense promise. This is a very resilient market. We are here to support enterprises and help them serve their customers by unlocking the full power of technology.”

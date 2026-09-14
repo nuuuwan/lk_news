@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-14 12:16:58",
-  "n_docs": 130473,
+  "time_updated": "2026-09-14 14:05:17",
+  "n_docs": 130502,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130473,
+  "n_docs_with_text": 130502,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-14",
-  "dataset_size": 2029159222,
+  "dataset_size": 2029516414,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-dailymirrorlk-d98713b4",
-    "num": "dailymirrorlk-d98713b4",
+    "doc_id": "2026-09-14-dailymirrorlk-46421f70",
+    "num": "dailymirrorlk-46421f70",
     "date_str": "2026-09-14",
-    "description": "Tourism authority mounts cleanliness drive as Pekoe Trail passes into state ownership",
-    "url_metadata": "https://www.dailymirror.lk/business-main/Tourism-authority-mounts-cleanliness-drive-as-Pekoe-Trail-passes-into-state-ownership/245-350242",
+    "description": "Caroline Jurie, Chula Padmendra acquitted over Pushpika crown incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Caroline-Jurie-Chula-Padmendra-acquitted-over-Pushpika-crown-incident/108-350265",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789367720.0
+    "time_ut": 1789374408.0
   }
 }
