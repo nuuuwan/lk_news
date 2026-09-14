@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_21:58:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--15_00:00:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,535** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,536** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-dailymirrorlk-2edec795",
-    "num": "dailymirrorlk-2edec795",
+    "doc_id": "2026-09-14-dailymirrorlk-2f4e2224",
+    "num": "dailymirrorlk-2f4e2224",
     "date_str": "2026-09-14",
-    "description": "President to launch Rs. 7.1 Bn hospital development projects in four districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-to-launch-Rs-7-1-Bn-hospital-development-projects-in-four-districts/108-350288",
+    "description": "Complaint to CID over alleged LTTE promotion at SLPP rally",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Complaint-to-CID-over-alleged-LTTE-promotion-at-SLPP-rally/108-350289",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789401694.0
+    "time_ut": 1789403654.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-14 | `dailymirrorlk-2f4e2224` | Complaint to CID over alleged LTTE promotion at SLPP rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-2f4e2224)
 - 2026-09-14 | `dailymirrorlk-2edec795` | President to launch Rs. 7.1 Bn hospital development projects in four districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-2edec795)
 - 2026-09-14 | `dailymirrorlk-e1b1437e` | King Charles to host AI executives as threat fears mount | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-e1b1437e)
 - 2026-09-14 | `dailymirrorlk-82e4cf7c` | Oil price surge weighs on CSE as ASPI slips below 21,350 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-82e4cf7c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-14 | `adalk-3a531d63` | කුරුණෑගල නව S-I-S අලෙවිසැලක් සමග සියැට් අලෙවි ජාලය පුළුල් වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-3a531d63)
 - 2026-09-14 | `dailymirrorlk-89de965e` | El Niño ‘100% certain’, Sri Lanka must strengthen disaster preparedness: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-89de965e)
 - 2026-09-14 | `dailymirrorlk-f1858454` | Certain individuals engaged in blackmailing MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-f1858454)
-- 2026-09-14 | `dailymirrorlk-9b4db287` | Time to flush black money out of the system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-9b4db287)
 
 ---
 
