@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_10:02:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_12:17:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,448** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,473** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-dailymirrorlk-8d61f036",
-    "num": "dailymirrorlk-8d61f036",
+    "doc_id": "2026-09-14-dailymirrorlk-d98713b4",
+    "num": "dailymirrorlk-d98713b4",
     "date_str": "2026-09-14",
-    "description": "India refuse to accept Women\u2019s Asia Cup from Pakistani ACC president",
-    "url_metadata": "https://www.dailymirror.lk/international/India-refuse-to-accept-Womens-Asia-Cup-from-Pakistani-ACC-president/107-350212",
+    "description": "Tourism authority mounts cleanliness drive as Pekoe Trail passes into state ownership",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Tourism-authority-mounts-cleanliness-drive-as-Pekoe-Trail-passes-into-state-ownership/245-350242",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789359812.0
+    "time_ut": 1789367720.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-09-14 | `dailymirrorlk-8d61f036` | India refuse to accept Women’s Asia Cup from Pakistani ACC president | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-8d61f036)
-- 2026-09-14 | `dailymirrorlk-6b254aa6` | The Himalayas are melting faster - and India’s economy is ’at risk’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-6b254aa6)
-- 2026-09-14 | `dailymirrorlk-ba93476e` | 11-year-old novice monk drowns in Heen Ganga | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-ba93476e)
-- 2026-09-14 | `dailymirrorlk-e1223e73` | Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-e1223e73)
-- 2026-09-14 | `adalk-1f1a116e` | පහළ වායුගෝලය කැළඹෙයි, මිලි මීටර් 100ක් දක්වා තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-1f1a116e)
-- 2026-09-14 | `adalk-d7cc3a49` | දියේ ගිලී භික්ෂුන් වහන්සේ නමක් අපවත්වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-d7cc3a49)
-- 2026-09-14 | `tamilmirrorlk-eb618a41` | ’ரஷ்ய டீசல் சுத்திகரிப்பு நிலையங்களைத் தாக்கக் கூடாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-eb618a41)
-- 2026-09-14 | `tamilmirrorlk-38848fa3` | இந்திய எரிபொருள் இறக்குமதியை அதிகரித்த ரஷ்யா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-38848fa3)
-- 2026-09-14 | `dailyftlk-3a5256c0` | Riza Yehiya: Make family sustainable to arrest worrisome climate change | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-3a5256c0)
-- 2026-09-14 | `dailyftlk-3fa788a9` | Can a campaign build a culture of tax compliance? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-3fa788a9)
-- 2026-09-14 | `dailyftlk-f4408eae` | Prime Group celebrates major milestone as The Colombo Border tops off all three towers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-f4408eae)
-- 2026-09-14 | `dailyftlk-27b1bdf7` | Port City Colombo and business of staying longer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-27b1bdf7)
-- 2026-09-14 | `dailyftlk-32c80e9b` | Sri Lanka–Indonesia Business Council holds 3rd Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-32c80e9b)
-- 2026-09-14 | `dailyftlk-608f1c25` | China’s Xi and India’s Modi in landmark meeting at BRICS Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-608f1c25)
-- 2026-09-14 | `dailyftlk-84a4f84e` | Foreign Minister Herath to visit Thailand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-84a4f84e)
-- 2026-09-14 | `dailyftlk-25ea58e2` | An El Niño like no other | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-25ea58e2)
-- 2026-09-14 | `dailyftlk-850c458c` | Securing the American cargo corridor: Why Sri Lanka’s maritime window demands radical structural reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-850c458c)
-- 2026-09-14 | `dailyftlk-7e1f12b5` | BIMSTEC, maritime Sri Lanka and the missing link in policy thinking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-7e1f12b5)
-- 2026-09-14 | `dailyftlk-bfe9f652` | Why FiNAC HR Optimizer, and  why now? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-bfe9f652)
-- 2026-09-14 | `dailyftlk-c7f8d279` | Labour Ministry launches new improved website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailyftlk-c7f8d279)
+- 2026-09-14 | `dailymirrorlk-d98713b4` | Tourism authority mounts cleanliness drive as Pekoe Trail passes into state ownership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-d98713b4)
+- 2026-09-14 | `adalk-026d1320` | නාවලපිටිය ගම්පොළ දුම්රිය මාර්ග කොටසේ වැඩ නොවැම්බර් මුල අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-026d1320)
+- 2026-09-14 | `dailymirrorlk-987a9a99` | Arrivals dip marginally in first week of Sept. as Australia climbs to third | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-987a9a99)
+- 2026-09-14 | `dailymirrorlk-ce20c75c` | SLPA to launch FDI-backed logistics hub at Colombo Port in three months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-ce20c75c)
+- 2026-09-14 | `dailymirrorlk-af364c4e` | CMTA urges policy stability, demands level playing field | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-af364c4e)
+- 2026-09-14 | `dailymirrorlk-574a2c37` | Court of Appeal upholds 15-year sentence for father convicted of raping daughter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-574a2c37)
+- 2026-09-14 | `dailymirrorlk-7449cf51` | More national parks may close as heat wave threatens wildlife | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-7449cf51)
+- 2026-09-14 | `tamilmirrorlk-be856673` | விபத்துக்குள்ளான P 4447 வேகத் தாக்குதல் படகு வெற்றிக்கரமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-be856673)
+- 2026-09-14 | `dailymirrorlk-6628b53e` | SC rules police promotion lawful | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-6628b53e)
+- 2026-09-14 | `dailymirrorlk-f79ea536` | Severe lightning warning issued for several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-f79ea536)
+- 2026-09-14 | `dailymirrorlk-6cabdffe` | Two university lifters make history with six medals from World Championship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-6cabdffe)
+- 2026-09-14 | `dailymirrorlk-6ede2974` | Mango sold at Rs 505,000 at Kovil auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-6ede2974)
+- 2026-09-14 | `dailymirrorlk-d7defebe` | Major reservoirs at 33.6% storage amid dry conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-d7defebe)
+- 2026-09-14 | `tamilmirrorlk-85788fed` | கஞ்சா கலந்த லேகியம் விற்பனை: சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-85788fed)
+- 2026-09-14 | `tamilmirrorlk-34a68a99` | யால தேசிய பூங்காவில்  2 வலயங்கள் மூடப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-34a68a99)
+- 2026-09-14 | `dailymirrorlk-c5452bf0` | Yala Blocks 1 & 2 closed for a month due to severe drought | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-c5452bf0)
+- 2026-09-14 | `dailymirrorlk-c3331115` | The Power of Good Vibes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-c3331115)
+- 2026-09-14 | `tamilmirrorlk-d7c383f2` | நடமாடும் சிறுத்தையால்  அச்சத்தில் தொழிலாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-d7c383f2)
+- 2026-09-14 | `dailymirrorlk-0bcfb148` | Indonesia rescuers battle turbulent seas in search for 129 people after passenger ship capsizes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-0bcfb148)
+- 2026-09-14 | `tamilmirrorlk-922c9d05` | சொந்தமான நீண்ட தூர ஜெட் விமானத்தில் இரத்மலானை வந்த இலங்கையர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-922c9d05)
 
 ---
 
