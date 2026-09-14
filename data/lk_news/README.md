@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_20:00:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--14_21:58:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,532** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,535** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-adalk-917b14e5",
-    "num": "adalk-917b14e5",
+    "doc_id": "2026-09-14-dailymirrorlk-2edec795",
+    "num": "dailymirrorlk-2edec795",
     "date_str": "2026-09-14",
-    "description": "\u0d87\u0dbd\u0dca\u0dbd \u0db4\u0dc3\u0dca\u0dc3\u0dbb \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0db4\u0dc3\u0dca \u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0dbd\u0dca\u0dbd-\u0db4\u0dc3\u0dca\u0dc3\u0dbb-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7-\u0db4\u0dc3\u0dca-\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dca-\u0db1\u0dcf\u0dba\u0dba\u0dba\u0dd2/11-424191",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1789395693.0
+    "description": "President to launch Rs. 7.1 Bn hospital development projects in four districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-to-launch-Rs-7-1-Bn-hospital-development-projects-in-four-districts/108-350288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789401694.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-14 | `dailymirrorlk-2edec795` | President to launch Rs. 7.1 Bn hospital development projects in four districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-2edec795)
+- 2026-09-14 | `dailymirrorlk-e1b1437e` | King Charles to host AI executives as threat fears mount | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-e1b1437e)
+- 2026-09-14 | `dailymirrorlk-82e4cf7c` | Oil price surge weighs on CSE as ASPI slips below 21,350 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-82e4cf7c)
 - 2026-09-14 | `adalk-917b14e5` | ඇල්ල පස්සර මාර්ගයට පස් කන්දක් නායයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-917b14e5)
 - 2026-09-14 | `dailymirrorlk-03908f0e` | Railway unions maintain Sept. 17-18 strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-03908f0e)
 - 2026-09-14 | `dailymirrorlk-ca9af7d3` | Sri Lanka, Thailand sign landmark agreements to strengthen labour cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-ca9af7d3)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-14 | `dailymirrorlk-89de965e` | El Niño ‘100% certain’, Sri Lanka must strengthen disaster preparedness: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-89de965e)
 - 2026-09-14 | `dailymirrorlk-f1858454` | Certain individuals engaged in blackmailing MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-f1858454)
 - 2026-09-14 | `dailymirrorlk-9b4db287` | Time to flush black money out of the system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-9b4db287)
-- 2026-09-14 | `dailymirrorlk-74d7afef` | Parliamentary seat falls vacant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-74d7afef)
-- 2026-09-14 | `tamilmirrorlk-57f06df1` | வாக்களிக்கும் உரிமை இல்லாத விலங்குகளையும் பாதுகாக்க வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-57f06df1)
-- 2026-09-14 | `tamilmirrorlk-dfaa7de3` | சவூதி எண்ணெய் குழாயில் ட்ரோன் தாக்குதல் ; கச்சா எண்ணெய் விலை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-tamilmirrorlk-dfaa7de3)
 
 ---
 

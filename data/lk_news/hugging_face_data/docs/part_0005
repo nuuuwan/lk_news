@@ -50470,5 +50470,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789395693.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-82e4cf7c",
+    "num": "dailymirrorlk-82e4cf7c",
+    "date_str": "2026-09-14",
+    "description": "Oil price surge weighs on CSE as ASPI slips below 21,350",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-price-surge-weighs-on-CSE-as-ASPI-slips-below-21-350/108-350286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789395934.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-e1b1437e",
+    "num": "dailymirrorlk-e1b1437e",
+    "date_str": "2026-09-14",
+    "description": "King Charles to host AI executives as threat fears mount",
+    "url_metadata": "https://www.dailymirror.lk/international/King-Charles-to-host-AI-executives-as-threat-fears-mount/107-350287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789398085.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-14-dailymirrorlk-2edec795",
+    "num": "dailymirrorlk-2edec795",
+    "date_str": "2026-09-14",
+    "description": "President to launch Rs. 7.1 Bn hospital development projects in four districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-to-launch-Rs-7-1-Bn-hospital-development-projects-in-four-districts/108-350288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789401694.0
   }
 ]
