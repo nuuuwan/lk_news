@@ -50514,5 +50514,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789403654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailyftlk-67f7e3f3",
+    "num": "dailyftlk-67f7e3f3",
+    "date_str": "2026-09-15",
+    "description": "Taxing away our advantage: You cannot tax what you cannot see",
+    "url_metadata": "https://www.ft.lk/columns/Taxing-away-our-advantage-You-cannot-tax-what-you-cannot-see/4-797212",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789424300.0
   }
 ]

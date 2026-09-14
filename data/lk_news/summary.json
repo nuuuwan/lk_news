@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-15 01:57:49",
-  "n_docs": 130536,
+  "time_updated": "2026-09-15 03:55:14",
+  "n_docs": 130537,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130536,
+  "n_docs_with_text": 130537,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-14",
-  "dataset_size": 2030300223,
+  "date_str_max": "2026-09-15",
+  "dataset_size": 2030320190,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-14-dailymirrorlk-2f4e2224",
-    "num": "dailymirrorlk-2f4e2224",
-    "date_str": "2026-09-14",
-    "description": "Complaint to CID over alleged LTTE promotion at SLPP rally",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Complaint-to-CID-over-alleged-LTTE-promotion-at-SLPP-rally/108-350289",
+    "doc_id": "2026-09-15-dailyftlk-67f7e3f3",
+    "num": "dailyftlk-67f7e3f3",
+    "date_str": "2026-09-15",
+    "description": "Taxing away our advantage: You cannot tax what you cannot see",
+    "url_metadata": "https://www.ft.lk/columns/Taxing-away-our-advantage-You-cannot-tax-what-you-cannot-see/4-797212",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789403654.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789424300.0
   }
 }
