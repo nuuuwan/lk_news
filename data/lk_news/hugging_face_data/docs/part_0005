@@ -51683,6 +51683,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-dfb0b077",
+    "num": "adalk-dfb0b077",
+    "date_str": "2026-09-15",
+    "description": "\u0dbb\u0dd4\u0dc4\u0dd4\u0dab\u0dda \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u00a0\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 200\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc4\u0dd4\u0dab\u0dda-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u00a0\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0-200\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca/11-424209",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789467903.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-15-dailymirrorlk-568f3684",
     "num": "dailymirrorlk-568f3684",
     "date_str": "2026-09-15",
@@ -51702,6 +51713,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789468678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-fca76947",
+    "num": "adalk-fca76947",
+    "date_str": "2026-09-15",
+    "description": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db8\u0d9c\u0dd3\u0db1\u0dca\u0da7 \u0d86\u0dc3\u0db1 \u0db4\u0da7\u0dd2 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda-\u0d9c\u0db8\u0db1\u0dca-\u0d9a\u0dbb\u0db1-\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0db8\u0d9c\u0dd3\u0db1\u0dca\u0da7-\u0d86\u0dc3\u0db1-\u0db4\u0da7\u0dd2-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2/11-424210",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789468708.0
   },
   {
     "doc_type": "lk_news",
@@ -51757,5 +51779,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789475006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-072d7a38",
+    "num": "dailymirrorlk-072d7a38",
+    "date_str": "2026-09-15",
+    "description": "El Ni\u00f1o: Disaster drills ordered in landslide-prone districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/El-Ni\u00f1o-Disaster-drills-ordered-in-landslide-prone-districts/108-350371",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789475648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-c2f20a25",
+    "num": "dailymirrorlk-c2f20a25",
+    "date_str": "2026-09-15",
+    "description": "Kenya to host 2029 World Athletics Championships in African first",
+    "url_metadata": "https://www.dailymirror.lk/international/Kenya-to-host-2029-World-Athletics-Championships-in-African-first/107-350372",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789477454.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-7d1f627a",
+    "num": "dailymirrorlk-7d1f627a",
+    "date_str": "2026-09-15",
+    "description": "CSE extends decline as elevated oil prices keep sentiment cautious",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-decline-as-elevated-oil-prices-keep-sentiment-cautious/108-350375",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789477640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-9b874862",
+    "num": "dailymirrorlk-9b874862",
+    "date_str": "2026-09-15",
+    "description": "Heavy rainfall, thunderstorms expected in six provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rainfall-thunderstorms-expected-in-six-provinces/108-350377",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789479021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-6ec6812f",
+    "num": "dailymirrorlk-6ec6812f",
+    "date_str": "2026-09-15",
+    "description": "Ex-Transport Authority chairman arrested over Rs. 4.1 million loss",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Transport-Authority-chairman-arrested-over-Rs-4-1-million-loss/108-350378",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789479484.0
   }
 ]
