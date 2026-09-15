@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--15_08:03:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--15_10:13:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,552** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,556** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-15-tamilmirrorlk-25a902b1",
-    "num": "tamilmirrorlk-25a902b1",
+    "doc_id": "2026-09-15-dailymirrorlk-9f643868",
+    "num": "dailymirrorlk-9f643868",
     "date_str": "2026-09-15",
-    "description": "\u2019\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc8 \u0baa\u0bbf\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbe\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bb5\u0bc8-\u0baa\u0bbf\u0bb1-\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bb0-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/50-382745",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1789433188.0
+    "description": "Govt. moves to introduce child-safety clearance for public service",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-moves-to-introduce-child-safety-clearance-for-public-service/108-350298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789447337.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-15 | `dailymirrorlk-9f643868` | Govt. moves to introduce child-safety clearance for public service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-9f643868)
+- 2026-09-15 | `tamilmirrorlk-3c4669c8` | உருவாகியது  வளிமண்டலத் தளம்பல் நிலை ; இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-3c4669c8)
+- 2026-09-15 | `adalk-2b0e987e` | ට්‍රම්ප්ගේ සැලැස්මකට ශ්‍රේෂ්ඨාධිකරණයෙන් වැට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-2b0e987e)
+- 2026-09-15 | `adalk-789f472f` | සාපෙළට කරන්න යන වෙනස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-789f472f)
 - 2026-09-15 | `tamilmirrorlk-25a902b1` | ’ஹார்முஸ் பாதுகாப்புச் செலவை பிற நாடுகள் அமெரிக்காவுக்கு தர வேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-25a902b1)
 - 2026-09-15 | `tamilmirrorlk-b973a33c` | நேபாளத்துக்கு 654 மெகாவாட் மின்சாரம் வழங்க இந்தியா ஒப்புதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-b973a33c)
 - 2026-09-15 | `tamilmirrorlk-3b35f9e1` | இலங்கை - தாய்லாந்து இடையே முக்கிய ஒப்பந்தங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-3b35f9e1)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-15 | `dailyftlk-75d9217e` | Pick a Book steps beyond reading to preserve the human edge in AI age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailyftlk-75d9217e)
 - 2026-09-15 | `dailyftlk-67f7e3f3` | Taxing away our advantage: You cannot tax what you cannot see | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailyftlk-67f7e3f3)
 - 2026-09-14 | `dailymirrorlk-2f4e2224` | Complaint to CID over alleged LTTE promotion at SLPP rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-2f4e2224)
-- 2026-09-14 | `dailymirrorlk-2edec795` | President to launch Rs. 7.1 Bn hospital development projects in four districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-2edec795)
-- 2026-09-14 | `dailymirrorlk-e1b1437e` | King Charles to host AI executives as threat fears mount | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-e1b1437e)
-- 2026-09-14 | `dailymirrorlk-82e4cf7c` | Oil price surge weighs on CSE as ASPI slips below 21,350 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-dailymirrorlk-82e4cf7c)
-- 2026-09-14 | `adalk-917b14e5` | ඇල්ල පස්සර මාර්ගයට පස් කන්දක් නායයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-14-adalk-917b14e5)
 
 ---
 
