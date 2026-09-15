@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-15 10:13:16",
-  "n_docs": 130556,
+  "time_updated": "2026-09-15 12:09:48",
+  "n_docs": 130571,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130556,
+  "n_docs_with_text": 130571,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-15",
-  "dataset_size": 2030621271,
+  "dataset_size": 2030708332,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-15-dailymirrorlk-9f643868",
-    "num": "dailymirrorlk-9f643868",
+    "doc_id": "2026-09-15-dailymirrorlk-c8b354b4",
+    "num": "dailymirrorlk-c8b354b4",
     "date_str": "2026-09-15",
-    "description": "Govt. moves to introduce child-safety clearance for public service",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-moves-to-introduce-child-safety-clearance-for-public-service/108-350298",
+    "description": "BRICS: While others lobbied,Sri Lanka lost ground",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BRICS-While-others-lobbied-Sri-Lanka-lost-ground/108-350314",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789447337.0
+    "time_ut": 1789452566.0
   }
 }

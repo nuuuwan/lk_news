@@ -50715,6 +50715,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-1b81215c",
+    "num": "adalk-1b81215c",
+    "date_str": "2026-09-15",
+    "description": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-424195",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789438862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-c1e3f4fa",
+    "num": "adalk-c1e3f4fa",
+    "date_str": "2026-09-15",
+    "description": "\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0dc3\u0dd0\u0d9a \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0dc3\u0dd0\u0d9a-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424196",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789439407.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-15-tamilmirrorlk-3c4669c8",
     "num": "tamilmirrorlk-3c4669c8",
     "date_str": "2026-09-15",
@@ -50726,6 +50748,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-3800afa2",
+    "num": "dailymirrorlk-3800afa2",
+    "date_str": "2026-09-15",
+    "description": "Rumesh Tharanga returns home as javelins damaged during flight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rumesh-Tharanga-returns-home-as-javelins-damaged-during-flight/108-350294",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789443969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-5337f845",
+    "num": "dailymirrorlk-5337f845",
+    "date_str": "2026-09-15",
+    "description": "Westminster\u2019s time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
+    "url_metadata": "https://www.dailymirror.lk/international/Westminsters-time-is-coming-to-an-end-Welsh-Scottish-Northern-Irish-leaders-say/107-350296",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789445575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-fd934ab0",
+    "num": "dailymirrorlk-fd934ab0",
+    "date_str": "2026-09-15",
+    "description": "US confirms for first time it has deployed space weapons",
+    "url_metadata": "https://www.dailymirror.lk/international/US-confirms-for-first-time-it-has-deployed-space-weapons/107-350297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789446231.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-15-dailymirrorlk-9f643868",
     "num": "dailymirrorlk-9f643868",
     "date_str": "2026-09-15",
@@ -50734,5 +50789,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789447337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-26379dd8",
+    "num": "dailymirrorlk-26379dd8",
+    "date_str": "2026-09-15",
+    "description": "China tightens travel restrictions for citizens",
+    "url_metadata": "https://www.dailymirror.lk/international/China-tightens-travel-restrictions-for-citizens/107-350299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789447503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-1e254e0f",
+    "num": "dailymirrorlk-1e254e0f",
+    "date_str": "2026-09-15",
+    "description": "Severe lightning advisory issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Severe-lightning-advisory-issued-for-several-areas/108-350300",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789448282.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-ca877641",
+    "num": "dailymirrorlk-ca877641",
+    "date_str": "2026-09-15",
+    "description": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+    "url_metadata": "https://www.dailymirror.lk/international/Welsh-actor-Matthew-Rhys-makes-Emmy-Awards-history-with-double-win/107-350301",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789448534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-9c747027",
+    "num": "dailymirrorlk-9c747027",
+    "date_str": "2026-09-15",
+    "description": "Javelin champion returns heartbroken",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Javelin-champion-returns-heartbroken/110-350302",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789448863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-9e3639d1",
+    "num": "dailymirrorlk-9e3639d1",
+    "date_str": "2026-09-15",
+    "description": "Landslide warnings issued for three districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-three-districts/108-350303",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789449790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-09ff55e4",
+    "num": "dailymirrorlk-09ff55e4",
+    "date_str": "2026-09-15",
+    "description": "Heavy rain in Colombo...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Heavy-rain-in-Colombo/110-350304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789450198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-034a01fe",
+    "num": "dailymirrorlk-034a01fe",
+    "date_str": "2026-09-15",
+    "description": "Two bags containing Rs. 320 Million \u2018Kush\u2019 found abandoned at BIA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-bags-containing-Rs-320-Million-Kush-found-abandoned-at-BIA/108-350305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789450854.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-886ff82b",
+    "num": "adalk-886ff82b",
+    "date_str": "2026-09-15",
+    "description": "\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd2 \u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0d9c\u0dda \u0dc4\u0dd9\u0dbd\u0dca\u0dbd \u0db4\u0dc4\u0db8 \u0d9a\u0dd0\u0da9\u0dd2\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/sports/\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd2-\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0d9c\u0dda-\u0dc4\u0dd9\u0dbd\u0dca\u0dbd-\u0db4\u0dc4\u0db8-\u0d9a\u0dd0\u0da9\u0dd2\u0dbd\u0dcf/9-424197",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789451384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-829a7554",
+    "num": "dailymirrorlk-829a7554",
+    "date_str": "2026-09-15",
+    "description": "Government facing no threat: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-facing-no-threat-President/108-350306",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789451717.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-15-dailymirrorlk-c8b354b4",
+    "num": "dailymirrorlk-c8b354b4",
+    "date_str": "2026-09-15",
+    "description": "BRICS: While others lobbied,Sri Lanka lost ground",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BRICS-While-others-lobbied-Sri-Lanka-lost-ground/108-350314",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789452566.0
   }
 ]
