@@ -1,0 +1,85 @@
+Customs Paperless Declaration from 1 October 2026 Opportunity for genuine Customs modernisation and revenue protection
+
+From eliminating paper to eliminating leakages — why Sri Lanka’s Customs digitalisation must go beyond electronic document submission
+
+The implementation of the Customs Paperless Declaration System from 1 October 2026 is an important step in Sri Lanka’s continuing journey towards digital government, trade facilitation and more efficient revenue administration. Together with digital signatures, the initiative has the potential to change how importers, exporters, Customs House Agents and regulatory authorities interact with Sri Lanka Customs. However, the real test is not simply whether the physical CusDec can be replaced by an electronic document. The objective should be a genuinely integrated digital Customs environment that reduces clearance time and compliance costs, minimises unnecessary physical intervention, strengthens risk-based controls and protects Government revenue from under-invoicing, misclassification and incorrect declarations. In other words, Sri Lanka needs not merely “Paperless Customs”, but “Smarter, Faster and More Accountable Customs”. Customs transactions involve substantial financial values, and even small weaknesses in valuation, classification or documentation can have wider consequences for Government revenue and compliant businesses. Digitalisation therefore provides an opportunity to improve both efficiency and control at the same time.
+
+According to the recent awareness programme for the business community, the digital signature and paperless Customs declaration system will become mandatory from 1 October 2026. Sri Lanka Customs and LankaPay have been conducting awareness and technical sessions on obtaining and using digital signatures for Customs declarations. The initial implementation includes Customs declaration processes associated with the relevant Customs office codes. CBHQ1 is a Customs operational code and should not be confused with a Customs duty, tax or tariff code.
+
+The implementation of a major Customs reform requires careful transition and operational readiness. Large-scale Customs reform cannot realistically be completed overnight. But the initial phase should demonstrate more than electronic document submission. It should show that a Customs transaction can progressively move from declaration through assessment, verification, payment, release and post-clearance audit in a digital environment.
+
+A system can become technically paperless while remaining operationally manual. If an importer uploads an invoice electronically but still has to submit a physical certificate, obtain a manual approval, visit an office or produce hard copies at another stage, the transaction has not truly become paperless.
+
+The 1 October 2026 implementation should therefore be treated not simply as an IT project, but as a national economic reform. If Customs can connect the importer, supplier, product, HS classification, value, payment, taxes, inventory, sales and tax information within appropriate legal safeguards, Sri Lanka can move from Paperless Customs towards Intelligent Customs — achieving faster trade, fairer taxation and stronger Government revenue. That should be the real promise of the reform
+
+A genuinely paperless Customs environment should reduce physical document submission, repetitive data entry, unnecessary attendance, duplicate approvals and manual verification where secure digital verification is possible. Information already held by Government should not have to be repeatedly supplied by the importer. The ultimate objective should be a single, secure digital transaction record accessible to authorised officials according to their responsibilities.
+
+The system should also provide reliable timestamps and document integrity controls so that the electronic record can demonstrate what information was available at each stage of the transaction. This becomes particularly important where a declaration is subsequently amended or where a post-clearance audit is conducted. A reliable electronic record can reduce disputes about what was submitted, when it was submitted and what was subsequently changed.
+
+A Customs declaration rarely exists alone. Depending on the transaction, importers may need to provide commercial invoices, packing lists, bills of lading, delivery orders, letters of credit, catalogues, technical literature, certificates of origin, quality or health certificates, quarantine documents, licences and other approvals. Some contain detailed technical information and may run to many pages. The digital platform must therefore be capable of receiving, preserving and retrieving complete and legally reliable documents. If attachment limitations remain, the system should be upgraded before physical documents are fully eliminated. A paperless system should not force businesses to maintain a parallel paper file because the electronic platform cannot accommodate the necessary evidence.
+
+Imports are subject not only to Customs requirements but also to standards, health, food and pharmaceutical regulation, animal and plant quarantine, import and export controls, atomic energy regulation and other specialised requirements. Customs digitalisation should therefore not create another isolated digital system. Relevant agencies should progressively exchange licences, certificates, approvals and information electronically. The importer should not become the courier carrying information from one Government institution to another. This is where a National Single Window or genuinely integrated trade platform becomes increasingly important.
+
+Sri Lanka Customs already uses ASYCUDA (Automated System for Customs Data), an internationally used computerised Customs management system developed under UNCTAD, for declaration processing and to support trade facilitation, risk management and revenue assessment. The paperless environment should build on this foundation by analysing patterns across importers, suppliers, products, countries, prices and quantities rather than looking only at individual declarations. Such analysis can strengthen both Customs efficiency and early identification of revenue risks.
+
+Under-invoicing remains an important Customs revenue risk. An invoice may appear reasonable on its face, but the key question is whether the declared value reflects the actual commercial transaction. A digital Customs environment can compare previous import prices, international market information, freight and insurance, supplier-buyer relationships, quantities and unit prices, previous Customs valuations and, where lawfully available, subsequent domestic selling information. Unusual price differences can then become risk indicators for further examination. The purpose should be intelligent targeting, not automatic conclusions of wrongdoing.
+
+Customs valuation and income-tax transfer pricing are not the same legal exercise. Customs determines the appropriate value for Customs purposes, while the Inland Revenue Department examines transactions between associated enterprises under applicable income-tax transfer-pricing rules. Nevertheless, the underlying commercial transaction may be the same.
+
+For example, a Sri Lankan company importing goods from a foreign related company generates Customs information on the supplier, product, quantity, price, freight and insurance. The same goods may later generate sales, margins and taxable profits for income-tax purposes. If information remains fragmented, useful intelligence may be lost. Properly governed data-sharing could allow authorised authorities to identify transactions requiring further examination. However, not every related-party transaction should be treated as suspicious. A Risk-Based Approach is essential.
+
+Correct HS (Harmonised System) classification is fundamental because different classifications can lead to different Customs duty and import-related taxes and charges. A digital system should identify incorrect, inconsistent or frequently changed classifications and compare them with product descriptions, technical specifications and historical Customs information. If similar products are repeatedly declared under different HS codes, the system could generate a risk alert for review. Artificial intelligence and advanced data analytics may eventually strengthen these controls and help identify deliberate or accidental misclassification.
+
+A major advantage of digitalisation is a stronger audit trail. The system should preserve who prepared and submitted a declaration, when it was submitted, supporting documents, amendments, approvals, assessment, payments and release information. Every amendment should retain the history of the original declaration rather than simply replacing it. A robust version-control and audit-trail mechanism will strengthen accountability and make unauthorised or unusual changes easier to identify. Digitalisation should therefore preserve the history and integrity of the transaction, not merely convert the final document into electronic form.
+
+A genuinely paperless Customs environment should reduce physical document submission, repetitive data entry, unnecessary attendance, duplicate approvals and manual verification where secure digital verification is possible. Information already held by Government should not have to be repeatedly supplied by the importer. The ultimate objective should be a single, secure digital transaction record accessible to authorised officials according to their responsibilities
+
+The revenue impact extends beyond Customs duty. An import can affect import taxes, inventory, subsequent sales, VAT, SSCL where applicable and income tax. The information chain can therefore be viewed as:
+
+Customs declaration → import value → import taxes → inventory → sales → VAT → SSCL → income tax → financial statements.
+
+Lawful and secure information-sharing between Customs and the Inland Revenue Department could help identify significant inconsistencies between border declarations, inventory movements, sales and tax returns. Such inconsistencies should be treated as risk indicators rather than automatic findings of evasion, because legitimate timing differences, wastage, returns, damaged goods and other commercial circumstances can occur.
+
+The transition should also be supported by clear guidance, adequate technical capacity and practical assistance for businesses. Importers and Customs House Agents need sufficient time to test digital-signature arrangements, document formats and internal approval procedures before the system becomes fully operational. Any initial technical difficulties should be addressed through a structured support mechanism so that the reform does not create avoidable delays for legitimate trade. At the same time, strong cybersecurity and access controls will be essential because Customs data contains commercially sensitive information.
+
+The reform will affect far more than large importers. Manufacturers, distributors, retailers, trading companies, exporters, e-commerce businesses, logistics operators, Customs House Agents, Authorised Economic Operators and businesses involved in related-party international transactions should prepare for the change.
+
+Businesses should review the consistency of information across Purchase Orders, Supplier Invoices, Shipping Documents, Customs Declarations, Accounting and Inventory Records, Sales Invoices, VAT and SSCL Returns and Income Tax Returns. As data matching expands, discrepancies that previously remained in separate records may become visible. Commercial, Customs and tax records should therefore be accurate, properly supported and internally consistent.
+
+Customs House Agents will also need to adapt. Their role should increasingly move from document processing towards professional digital Customs compliance. Accuracy in product descriptions, HS classification, quantities, values, supplier information and supporting evidence will become even more important. The industry should invest in training, cybersecurity, document management and internal verification procedures. Digital signatures should also strengthen accountability.
+
+The October launch should be treated as the beginning, not the conclusion, of Customs digital transformation. The Government should focus on three broad areas:
+
+1. Complete digital audit trail — securely record and retrieve declarations, amendments, approvals, assessments and payments.
+
+2. Regulatory integration — connect Customs with relevant Government agencies so licences, certificates and approvals can be exchanged electronically.
+
+3. Advanced valuation analytics — develop reference databases covering products, suppliers, countries, importers, quantities and historical values.
+
+4. Under-invoicing analytics — identify unusual import prices for risk-based examination.
+
+5. HS classification controls — analyse product descriptions, technical information and historical classifications.
+
+6. Customs–IRD data sharing — identify material inconsistencies between imports, sales and tax declarations under appropriate legal safeguards.
+
+7. Transfer-pricing intelligence — analyse related-party imports while maintaining the distinct legal principles of Customs valuation and income-tax transfer pricing.
+
+8. Post-clearance digital audits — use data analytics and targeted investigations rather than relying on physical examination of every transaction.
+
+9. Risk-based assessment — provide faster clearance to compliant, low-risk traders while giving greater scrutiny to high-risk transactions.
+
+10. Taxpayer rights — an automated risk alert should not itself become an adverse finding. Traders should have a fair opportunity to explain transactions, correct genuine errors and challenge assessments through transparent procedures.
+
+The benefits of successful paperless Customs will extend beyond businesses. Faster clearance can reduce port and storage costs, demurrage, administrative expenses, inventory delays and other transaction costs. Over time, these savings can contribute to more competitive prices and better availability of goods.
+
+At the same time, stronger Customs controls and improved revenue collection can strengthen Government finances without necessarily increasing tax rates. Before imposing additional burdens on compliant taxpayers, Government should first ensure that the taxes and duties legally due on transactions already taking place are fully and efficiently collected.
+
+Digital Customs should therefore be viewed as part of a broader revenue-administration reform. Government does not necessarily need higher rates to increase revenue; it can also reduce leakage, improve compliance, strengthen enforcement and make collection more efficient. Reducing under-invoicing, misclassification, false declarations and other forms of leakage can improve revenue while creating a fairer competitive environment for compliant businesses.
+
+There is a clear risk that paperless Customs could become paperless in form but manual in substance. If electronic uploading is introduced while physical approvals, repetitive verification, unnecessary visits and manual intervention continue, the reform will fall short.
+
+Success should therefore be measured by tangible outcomes: shorter clearance times, fewer physical visits, lower compliance costs, reduced manual intervention and revenue leakage, better risk targeting, faster clearance for compliant traders and sustainable improvement in Customs revenue. The real measure is whether Customs becomes faster, simpler, more transparent and more secure while strengthening revenue collection.
+
+Sri Lanka now has an opportunity to move beyond traditional Customs administration. The next generation of Customs should be data-driven, risk-based, integrated and taxpayer-friendly. Genuine compliant traders should be able to move goods with minimum unnecessary friction, while Customs concentrates resources on transactions presenting genuine revenue, security or regulatory risks.
+
+The 1 October 2026 implementation should therefore be treated not simply as an IT project, but as a national economic reform. A Customs declaration should become more than an electronic document: it should form part of a secure digital source of commercial, regulatory and fiscal intelligence. If Customs can connect the importer, supplier, product, HS classification, value, payment, taxes, inventory, sales and tax information within appropriate legal safeguards, Sri Lanka can move from Paperless Customs towards Intelligent Customs — achieving faster trade, fairer taxation and stronger Government revenue. That should be the real promise of the reform.

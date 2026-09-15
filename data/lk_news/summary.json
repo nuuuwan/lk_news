@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-15 03:55:14",
-  "n_docs": 130537,
+  "time_updated": "2026-09-15 06:22:03",
+  "n_docs": 130550,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130537,
+  "n_docs_with_text": 130550,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-15",
-  "dataset_size": 2030320190,
+  "dataset_size": 2030398702,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-15-dailyftlk-67f7e3f3",
-    "num": "dailyftlk-67f7e3f3",
+    "doc_id": "2026-09-15-tamilmirrorlk-b973a33c",
+    "num": "tamilmirrorlk-b973a33c",
     "date_str": "2026-09-15",
-    "description": "Taxing away our advantage: You cannot tax what you cannot see",
-    "url_metadata": "https://www.ft.lk/columns/Taxing-away-our-advantage-You-cannot-tax-what-you-cannot-see/4-797212",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1789424300.0
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 654 \u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-654-\u0bae\u0bc6\u0b95\u0bbe\u0bb5\u0bbe\u0b9f\u0bcd-\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd/175-382744",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789432619.0
   }
 }
