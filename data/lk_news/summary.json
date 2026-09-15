@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-15 19:58:54",
-  "n_docs": 130656,
+  "time_updated": "2026-09-15 22:03:01",
+  "n_docs": 130660,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130656,
+  "n_docs_with_text": 130660,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-15",
-  "dataset_size": 2032050472,
+  "dataset_size": 2032120462,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-15-dailymirrorlk-6ec6812f",
-    "num": "dailymirrorlk-6ec6812f",
+    "doc_id": "2026-09-15-dailymirrorlk-c8bad2dc",
+    "num": "dailymirrorlk-c8bad2dc",
     "date_str": "2026-09-15",
-    "description": "Ex-Transport Authority chairman arrested over Rs. 4.1 million loss",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Transport-Authority-chairman-arrested-over-Rs-4-1-million-loss/108-350378",
+    "description": "Online Police Clearance Certificate service suspended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Online-Police-Clearance-Certificate-service-suspended/108-350381",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789479484.0
+    "time_ut": 1789488622.0
   }
 }
