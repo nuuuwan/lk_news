@@ -51606,6 +51606,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-399d2740",
+    "num": "adalk-399d2740",
+    "date_str": "2026-09-15",
+    "description": "\u0db8\u0dbb\u0dab \u0daf\u0da9\u0dd4\u0dc0\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dbb\u0dab-\u0daf\u0da9\u0dd4\u0dc0\u0db8-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0db1\u0dd1/11-424206",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789465230.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-15-adalk-67dedc02",
     "num": "adalk-67dedc02",
     "date_str": "2026-09-15",
@@ -51889,5 +51900,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789489714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-tamilmirrorlk-19ef46ae",
+    "num": "tamilmirrorlk-19ef46ae",
+    "date_str": "2026-09-16",
+    "description": "\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8/175-382793",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789521117.0
   }
 ]

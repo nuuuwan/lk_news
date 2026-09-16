@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--16_06:20:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--16_08:05:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,663** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-15-dailymirrorlk-811efafc",
-    "num": "dailymirrorlk-811efafc",
-    "date_str": "2026-09-15",
-    "description": "Sri Lanka urges citizens in Saudi Arabia to stay alert",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-urges-citizens-in-Saudi-Arabia-to-stay-alert/108-350382",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789489714.0
+    "doc_id": "2026-09-16-tamilmirrorlk-19ef46ae",
+    "num": "tamilmirrorlk-19ef46ae",
+    "date_str": "2026-09-16",
+    "description": "\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8/175-382793",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789521117.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-16 | `tamilmirrorlk-19ef46ae` | விலகிச்செல்லும் கீழடுக்கு தாழ்வு நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-19ef46ae)
 - 2026-09-15 | `dailymirrorlk-811efafc` | Sri Lanka urges citizens in Saudi Arabia to stay alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-811efafc)
 - 2026-09-15 | `dailymirrorlk-c8bad2dc` | Online Police Clearance Certificate service suspended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-c8bad2dc)
 - 2026-09-15 | `dailymirrorlk-45c5c1f9` | Dengue could rise again with upcoming rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-45c5c1f9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-15 | `tamilmirrorlk-37922383` | தேசிய மருத்துவமனை பணிப்பாளருக்கு நீதிமன்றம் ​நோட்டிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-37922383)
 - 2026-09-15 | `dailymirrorlk-568f3684` | Cabinet clears $112M Port City waterfront project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-568f3684)
 - 2026-09-15 | `adalk-dfb0b077` | රුහුණේ වෛද්‍ය සිසුන්ගේ සංඛ්‍යාව 200ක් දක්වා වැඩි කිරීමට සැලසුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-dfb0b077)
-- 2026-09-15 | `dailymirrorlk-4e32bdcd` | Government rejects claims of diaspora funding to NPP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-4e32bdcd)
 
 ---
 
