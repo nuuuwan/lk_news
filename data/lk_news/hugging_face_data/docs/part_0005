@@ -51903,6 +51903,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-4f9883de",
+    "num": "dailyftlk-4f9883de",
+    "date_str": "2026-09-16",
+    "description": "Cabinet Subcommittee on El Ni\u00f1o orders disaster drills, public awareness drive",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-Subcommittee-on-El-Ni\u00f1o-orders-disaster-drills-public-awareness-drive/56-797276",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789517812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-26cd06b4",
+    "num": "dailyftlk-26cd06b4",
+    "date_str": "2026-09-16",
+    "description": "Premadasa questions how President learnt of Supreme Court ruling on 22A",
+    "url_metadata": "https://www.ft.lk/news/Premadasa-questions-how-President-learnt-of-Supreme-Court-ruling-on-22A/56-797277",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789517873.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-edba84f2",
+    "num": "dailyftlk-edba84f2",
+    "date_str": "2026-09-16",
+    "description": "Beyond the IMF: The jigsaw puzzle of a production-based economy",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-IMF-The-jigsaw-puzzle-of-a-production-based-economy/4-797278",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789518224.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-tamilmirrorlk-19ef46ae",
     "num": "tamilmirrorlk-19ef46ae",
     "date_str": "2026-09-16",
@@ -51911,5 +51944,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789521117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-b1406bce",
+    "num": "dailyftlk-b1406bce",
+    "date_str": "2026-09-16",
+    "description": "Rescue, Rehabilitation and Insolvency Act No. 12 of 2026: A fresh path for debt recovery",
+    "url_metadata": "https://www.ft.lk/columns/Rescue-Rehabilitation-and-Insolvency-Act-No-12-of-2026-A-fresh-path-for-debt-recovery/4-797280",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789521975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-611db520",
+    "num": "dailyftlk-611db520",
+    "date_str": "2026-09-16",
+    "description": "Getting Ambulatory Curative Primary Care system right in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Getting-Ambulatory-Curative-Primary-Care-system-right-in-Sri-Lanka/4-797281",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789523764.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-80285a8a",
+    "num": "adalk-80285a8a",
+    "date_str": "2026-09-16",
+    "description": "\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7-\u0dba\u0dba\u0dd2/11-424212",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789525090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-d3c9093e",
+    "num": "adalk-d3c9093e",
+    "date_str": "2026-09-16",
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd3\u0da7\u0dbb\u0dca 75\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db8\u0dd2\u0dbd\u0dd2-\u0db8\u0dd3\u0da7\u0dbb\u0dca-75\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0dc3\u0dd2/11-424213",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789525623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-117fea94",
+    "num": "dailymirrorlk-117fea94",
+    "date_str": "2026-09-16",
+    "description": "Shiranthi Rajapaksa leaves for Singapore",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-leaves-for-Singapore/108-350408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789530032.0
   }
 ]

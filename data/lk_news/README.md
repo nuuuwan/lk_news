@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--16_08:05:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--16_10:02:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,663** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,671** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-tamilmirrorlk-19ef46ae",
-    "num": "tamilmirrorlk-19ef46ae",
+    "doc_id": "2026-09-16-dailymirrorlk-117fea94",
+    "num": "dailymirrorlk-117fea94",
     "date_str": "2026-09-16",
-    "description": "\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd-\u0b95\u0bc0\u0bb4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8/175-382793",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1789521117.0
+    "description": "Shiranthi Rajapaksa leaves for Singapore",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-leaves-for-Singapore/108-350408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789530032.0
 }
 ```
 
@@ -41,7 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-16 | `dailymirrorlk-117fea94` | Shiranthi Rajapaksa leaves for Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-117fea94)
+- 2026-09-16 | `adalk-d3c9093e` | අදත් මිලි මීටර් 75ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-adalk-d3c9093e)
+- 2026-09-16 | `adalk-80285a8a` | ශිරන්ති රාජපක්ෂ සිංගප්පූරුවට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-adalk-80285a8a)
+- 2026-09-16 | `dailyftlk-611db520` | Getting Ambulatory Curative Primary Care system right in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-611db520)
+- 2026-09-16 | `dailyftlk-b1406bce` | Rescue, Rehabilitation and Insolvency Act No. 12 of 2026: A fresh path for debt recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-b1406bce)
 - 2026-09-16 | `tamilmirrorlk-19ef46ae` | விலகிச்செல்லும் கீழடுக்கு தாழ்வு நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-19ef46ae)
+- 2026-09-16 | `dailyftlk-edba84f2` | Beyond the IMF: The jigsaw puzzle of a production-based economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-edba84f2)
+- 2026-09-16 | `dailyftlk-26cd06b4` | Premadasa questions how President learnt of Supreme Court ruling on 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-26cd06b4)
+- 2026-09-16 | `dailyftlk-4f9883de` | Cabinet Subcommittee on El Niño orders disaster drills, public awareness drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-4f9883de)
 - 2026-09-15 | `dailymirrorlk-811efafc` | Sri Lanka urges citizens in Saudi Arabia to stay alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-811efafc)
 - 2026-09-15 | `dailymirrorlk-c8bad2dc` | Online Police Clearance Certificate service suspended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-c8bad2dc)
 - 2026-09-15 | `dailymirrorlk-45c5c1f9` | Dengue could rise again with upcoming rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-45c5c1f9)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-09-15 | `dailymirrorlk-072d7a38` | El Niño: Disaster drills ordered in landslide-prone districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-072d7a38)
 - 2026-09-15 | `tamilmirrorlk-0c7e5c8a` | வாளியில் மலம் சேகரித்து  முகத்தில் வீசிய கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-0c7e5c8a)
 - 2026-09-15 | `tamilmirrorlk-67fed097` | எல்-நினோ:   அமைச்சரவை உபகுழு கூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-67fed097)
-- 2026-09-15 | `dailymirrorlk-a8d02ea1` | Suspected sabotage causes major Netherlands rail disruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-a8d02ea1)
-- 2026-09-15 | `tamilmirrorlk-bd339f2d` | AI  ஆபத்தானது:  எலான் மஸ்க் கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-bd339f2d)
-- 2026-09-15 | `dailymirrorlk-d38bf0b5` | Heavy rain above 100mm possible in several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-d38bf0b5)
-- 2026-09-15 | `adalk-6fe34446` | ලංකාවේ ජලාශ පද්ධතියේ ජල ධාරිතාව සියයට 33.5 දක්වා පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-6fe34446)
-- 2026-09-15 | `adalk-fca76947` | අධිවේගයේ ගමන් කරන වාහනවල සියලුම මගීන්ට ආසන පටි අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-fca76947)
-- 2026-09-15 | `tamilmirrorlk-37922383` | தேசிய மருத்துவமனை பணிப்பாளருக்கு நீதிமன்றம் ​நோட்டிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-tamilmirrorlk-37922383)
-- 2026-09-15 | `dailymirrorlk-568f3684` | Cabinet clears $112M Port City waterfront project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-dailymirrorlk-568f3684)
-- 2026-09-15 | `adalk-dfb0b077` | රුහුණේ වෛද්‍ය සිසුන්ගේ සංඛ්‍යාව 200ක් දක්වා වැඩි කිරීමට සැලසුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-15-adalk-dfb0b077)
 
 ---
 
