@@ -52926,6 +52926,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-d6ae2132",
+    "num": "adalk-d6ae2132",
+    "date_str": "2026-09-16",
+    "description": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0dc3\u0dc4 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d92\u0d9a\u0d9a\u0dba\u0da7 \u0db8\u0dd4\u0dbd\u0dca\u0d9c\u0dbd\u0dca \u0dad\u0dd0\u0db6\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0dc3\u0dc4-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb-\u0d92\u0d9a\u0d9a\u0dba\u0da7-\u0db8\u0dd4\u0dbd\u0dca\u0d9c\u0dbd\u0dca-\u0dad\u0dd0\u0db6\u0dda/11-424227",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789554630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-c82dd254",
+    "num": "adalk-c82dd254",
+    "date_str": "2026-09-16",
+    "description": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0daf\u0ddc\u0dbb \u0d87\u0dbb\u0dd9\u0dba\u0dd2\u0daf?",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0da7-\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda-\u0daf\u0ddc\u0dbb-\u0d87\u0dbb\u0dd9\u0dba\u0dd2\u0daf-/11-424228",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789555391.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-dailymirrorlk-841cfd9d",
     "num": "dailymirrorlk-841cfd9d",
     "date_str": "2026-09-16",
@@ -53011,5 +53033,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789560673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-49d96b4f",
+    "num": "dailymirrorlk-49d96b4f",
+    "date_str": "2026-09-16",
+    "description": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Kosovo-President-Hashim-Thaci-sentenced-to-25-years-for-war-crimes/108-350463",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789562759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-582037d3",
+    "num": "dailymirrorlk-582037d3",
+    "date_str": "2026-09-16",
+    "description": "NPP to slow down President\u2019s islandwide rallies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-to-slow-down-Presidents-islandwide-rallies/108-350464",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789568417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-01e44f19",
+    "num": "dailymirrorlk-01e44f19",
+    "date_str": "2026-09-16",
+    "description": "EU announces plan to ban social media for under 13s",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/EU-announces-plan-to-ban-social-media-for-under-13s/108-350465",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789568551.0
   }
 ]
