@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-16 21:58:54",
-  "n_docs": 130775,
+  "time_updated": "2026-09-17 00:00:09",
+  "n_docs": 130777,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130775,
+  "n_docs_with_text": 130777,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-16",
-  "dataset_size": 2033446619,
+  "dataset_size": 2033497668,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-tamilmirrorlk-7e0944c7",
-    "num": "tamilmirrorlk-7e0944c7",
+    "doc_id": "2026-09-16-dailymirrorlk-35201d6b",
+    "num": "dailymirrorlk-35201d6b",
     "date_str": "2026-09-16",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0baa\u0bb2\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bb2\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/150-382825",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1789573617.0
+    "description": "Gold mine collapse kills at least 70 people in Sudan\u2019s West Kordofan",
+    "url_metadata": "https://www.dailymirror.lk/international/Gold-mine-collapse-kills-at-least-70-people-in-Sudans-West-Kordofan/107-350473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789580374.0
   }
 }

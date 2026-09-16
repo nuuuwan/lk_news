@@ -53143,5 +53143,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1789573617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-16da5eee",
+    "num": "dailymirrorlk-16da5eee",
+    "date_str": "2026-09-16",
+    "description": "Two killed, several injured in Mattakkuliya accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-killed-several-injured-in-Mattakkuliya-accident/108-350471",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789576668.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-35201d6b",
+    "num": "dailymirrorlk-35201d6b",
+    "date_str": "2026-09-16",
+    "description": "Gold mine collapse kills at least 70 people in Sudan\u2019s West Kordofan",
+    "url_metadata": "https://www.dailymirror.lk/international/Gold-mine-collapse-kills-at-least-70-people-in-Sudans-West-Kordofan/107-350473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789580374.0
   }
 ]
