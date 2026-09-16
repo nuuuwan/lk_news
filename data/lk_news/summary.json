@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-16 10:01:01",
-  "n_docs": 130671,
+  "time_updated": "2026-09-16 12:11:03",
+  "n_docs": 130696,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130671,
+  "n_docs_with_text": 130696,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-16",
-  "dataset_size": 2032154921,
+  "dataset_size": 2032327269,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-dailymirrorlk-117fea94",
-    "num": "dailymirrorlk-117fea94",
+    "doc_id": "2026-09-16-dailymirrorlk-412d4fde",
+    "num": "dailymirrorlk-412d4fde",
     "date_str": "2026-09-16",
-    "description": "Shiranthi Rajapaksa leaves for Singapore",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-leaves-for-Singapore/108-350408",
+    "description": "Widespread rain expected across Sri Lanka over next 10 days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Widespread-rain-expected-across-Sri-Lanka-over-next-10-days/108-350421",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789530032.0
+    "time_ut": 1789539893.0
   }
 }
