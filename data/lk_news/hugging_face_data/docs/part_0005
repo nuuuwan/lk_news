@@ -52112,6 +52112,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-fdf3b191",
+    "num": "adalk-fdf3b191",
+    "date_str": "2026-09-16",
+    "description": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 100\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0da2\u0db1\u0d9c\u0dc4\u0db1\u0dba 100000 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda-\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-100\u0da7-\u0dc0\u0dd0\u0da9\u0dd2-\u0da2\u0db1\u0d9c\u0dc4\u0db1\u0dba-100000-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-424217",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789535997.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-dailymirrorlk-40db7746",
     "num": "dailymirrorlk-40db7746",
     "date_str": "2026-09-16",
@@ -52244,6 +52255,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-4f7cb5f4",
+    "num": "adalk-4f7cb5f4",
+    "date_str": "2026-09-16",
+    "description": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 10\u0daf\u0dd3 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd4\u0dab \u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-10\u0daf\u0dd3-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1-\u0db4\u0dd4\u0dbb\u0dcf-\u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd4\u0dab-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0d9a\u0dca/11-424221",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789539650.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-tamilmirrorlk-a96757bc",
     "num": "tamilmirrorlk-a96757bc",
     "date_str": "2026-09-16",
@@ -52274,5 +52296,159 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789539893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-7eefc21b",
+    "num": "dailymirrorlk-7eefc21b",
+    "date_str": "2026-09-16",
+    "description": "RDA urges headlights on expressways",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/RDA-urges-headlights-on-expressways/108-350422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789540329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-ede4e6d0",
+    "num": "dailymirrorlk-ede4e6d0",
+    "date_str": "2026-09-16",
+    "description": "Polgolla Reservoir to be emptied for repairs from Sept. 25",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polgolla-Reservoir-to-be-emptied-for-repairs-from-Sept-25/108-350423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789540462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-71d8fff2",
+    "num": "dailymirrorlk-71d8fff2",
+    "date_str": "2026-09-16",
+    "description": "Chinese envoy meets Ranil",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Chinese-envoy-meets-Ranil/110-350424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789540537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-6619c656",
+    "num": "dailymirrorlk-6619c656",
+    "date_str": "2026-09-16",
+    "description": "\u2019Positive sign for Indian investments in Colombo Port City\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Positive-sign-for-Indian-investments-in-Colombo-Port-City/108-350433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789541240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-7598b14a",
+    "num": "dailymirrorlk-7598b14a",
+    "date_str": "2026-09-16",
+    "description": "All Opposition parties to meet tomorrow for discussion on launching a common struggle to save democracy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/All-Opposition-parties-to-meet-tomorrow-for-discussion-on-launching-a-common-struggle-to-save-democracy/108-350434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789541422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-tamilmirrorlk-a7b406fb",
+    "num": "tamilmirrorlk-a7b406fb",
+    "date_str": "2026-09-16",
+    "description": "\u0b87.\u0ba4.\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe.\u0b85\u0bb0\u0bbf\u0baf\u0ba8\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b87-\u0ba4-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe-\u0b85\u0bb0\u0bbf\u0baf\u0ba8\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/150-382807",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789541606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-3fd4d153",
+    "num": "dailymirrorlk-3fd4d153",
+    "date_str": "2026-09-16",
+    "description": "Govt. has made no decision to reintroduce the death penalty",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-has-made-no-decision-to-reintroduce-the-death-penalty/108-350437",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789541997.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-af5ee614",
+    "num": "dailymirrorlk-af5ee614",
+    "date_str": "2026-09-16",
+    "description": "Turkish Airlines to probe damage to Rumesh Tharanga\u2019s equipment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Turkish-Airlines-to-probe-damage-to-Rumesh-Tharangas-equipment/108-350438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789542529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-250aa30c",
+    "num": "dailymirrorlk-250aa30c",
+    "date_str": "2026-09-16",
+    "description": "High Court bail for drug cases involving less than 100g",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-Court-bail-for-drug-cases-involving-less-than-100g/108-350439",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789543400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-c5c29176",
+    "num": "dailymirrorlk-c5c29176",
+    "date_str": "2026-09-16",
+    "description": "Nalinda responds to President\u2019s coriander remark",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nalinda-responds-to-Presidents-coriander-remark/108-350440",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789544071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-6f7cafc9",
+    "num": "dailymirrorlk-6f7cafc9",
+    "date_str": "2026-09-16",
+    "description": "Misinformation on Aesthetic studies misleads society: experts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Misinformation-on-Aesthetic-studies-misleads-society-experts/108-350441",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789545479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-928d8a82",
+    "num": "dailymirrorlk-928d8a82",
+    "date_str": "2026-09-16",
+    "description": "Customs revenue surpasses Rs. 2 trillion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-revenue-surpasses-Rs-2-trillion/108-350447",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789546618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-522be202",
+    "num": "dailymirrorlk-522be202",
+    "date_str": "2026-09-16",
+    "description": "Sri Lanka Women\u2019s squad named for 2026 Asian Games",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Womens-squad-named-for-2026-Asian-Games/108-350449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789546831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-96a623e7",
+    "num": "dailymirrorlk-96a623e7",
+    "date_str": "2026-09-16",
+    "description": "Mannar hospital to get new Rs. 600 Mn Accident and Emergency Unit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mannar-hospital-to-get-new-Rs-600-Mn-Accident-and-Emergency-Unit/108-350450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789546943.0
   }
 ]
