@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_00:01:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_01:59:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,777** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-dailymirrorlk-35201d6b",
-    "num": "dailymirrorlk-35201d6b",
+    "doc_id": "2026-09-16-dailyftlk-bdda3fba",
+    "num": "dailyftlk-bdda3fba",
     "date_str": "2026-09-16",
-    "description": "Gold mine collapse kills at least 70 people in Sudan\u2019s West Kordofan",
-    "url_metadata": "https://www.dailymirror.lk/international/Gold-mine-collapse-kills-at-least-70-people-in-Sudans-West-Kordofan/107-350473",
+    "description": "Anuradhapura shift: Beginning ends, end begins",
+    "url_metadata": "https://www.ft.lk/columns/Anuradhapura-shift-Beginning-ends-end-begins/4-797310",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789580374.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789581962.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-16 | `dailyftlk-bdda3fba` | Anuradhapura shift: Beginning ends, end begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-bdda3fba)
 - 2026-09-16 | `dailymirrorlk-35201d6b` | Gold mine collapse kills at least 70 people in Sudan’s West Kordofan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-35201d6b)
+- 2026-09-16 | `dailyftlk-924217fc` | SAJ expands product range through growing Lakarcade network | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-924217fc)
+- 2026-09-16 | `dailyftlk-4c44c365` | Legislating for change: Looking at how quota laws for women in the Boardroom panned out globally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-4c44c365)
+- 2026-09-16 | `dailyftlk-4be574c2` | More than the numbers — how Sri Lanka’s finance professionals can become trusted strategic advisers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-4be574c2)
+- 2026-09-16 | `dailyftlk-da263e87` | Sri Lanka’s creative and lifestyle sector targets Maldivian hospitality market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-da263e87)
+- 2026-09-16 | `dailyftlk-40507a19` | Japanese investor Yoshimichi Watanabe backs Hunas Holdings ahead of expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-40507a19)
 - 2026-09-16 | `dailymirrorlk-16da5eee` | Two killed, several injured in Mattakkuliya accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-16da5eee)
 - 2026-09-16 | `tamilmirrorlk-7e0944c7` | மட்டக்குளியில் கோர விபத்து : பலர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-7e0944c7)
 - 2026-09-16 | `dailymirrorlk-3efc0d12` | Veterinary surgeon attacked by leopard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-3efc0d12)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-16 | `dailymirrorlk-a16ee166` | CSE selling deepens as ASPI breaks below 21,200 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-a16ee166)
 - 2026-09-16 | `dailymirrorlk-f9411bff` | Supermarkets in Bandaragama, Matugama fined for overpriced eggs, altered prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-f9411bff)
 - 2026-09-16 | `tamilmirrorlk-f2edd1e0` | 7 ரயில் சேவைகள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-f2edd1e0)
-- 2026-09-16 | `tamilmirrorlk-7af5b2b9` | ஜனாதிபதி தலைமையில் அடிக்கல் நாட்டு விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-7af5b2b9)
-- 2026-09-16 | `dailymirrorlk-8a6bffac` | Railway Operating Service Union supports Sept. 17-18 action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-8a6bffac)
-- 2026-09-16 | `dailymirrorlk-b4b7010c` | A helmet, a lesson and a safer ride to school | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-b4b7010c)
-- 2026-09-16 | `dailymirrorlk-8f553777` | 30,000 families at risk of landslides after cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-8f553777)
-- 2026-09-16 | `adalk-c61d18f2` | කිඹුලන් නිසා පාසල මුර කරන දෙමාපියන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-adalk-c61d18f2)
-- 2026-09-16 | `dailymirrorlk-841cfd9d` | Kotmale power generation to stop from Sept. 26 night | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-841cfd9d)
 
 ---
 

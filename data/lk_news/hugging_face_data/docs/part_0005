@@ -53157,6 +53157,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-40507a19",
+    "num": "dailyftlk-40507a19",
+    "date_str": "2026-09-16",
+    "description": "Japanese investor Yoshimichi Watanabe backs Hunas Holdings ahead of expansion",
+    "url_metadata": "https://www.ft.lk/business/Japanese-investor-Yoshimichi-Watanabe-backs-Hunas-Holdings-ahead-of-expansion/34-797295",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789578546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-da263e87",
+    "num": "dailyftlk-da263e87",
+    "date_str": "2026-09-16",
+    "description": "Sri Lanka\u2019s creative and lifestyle sector targets Maldivian hospitality market",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-creative-and-lifestyle-sector-targets-Maldivian-hospitality-market/34-797296",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789578633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-4be574c2",
+    "num": "dailyftlk-4be574c2",
+    "date_str": "2026-09-16",
+    "description": "More than the numbers \u2014 how Sri Lanka\u2019s finance professionals can become trusted strategic advisers",
+    "url_metadata": "https://www.ft.lk/columns/More-than-the-numbers-how-Sri-Lanka-s-finance-professionals-can-become-trusted-strategic-advisers/4-797297",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789578734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-4c44c365",
+    "num": "dailyftlk-4c44c365",
+    "date_str": "2026-09-16",
+    "description": "Legislating for change: Looking at how quota laws for women in the Boardroom panned out globally",
+    "url_metadata": "https://www.ft.lk/columns/Legislating-for-change-Looking-at-how-quota-laws-for-women-in-the-Boardroom-panned-out-globally/4-797298",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789578892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-924217fc",
+    "num": "dailyftlk-924217fc",
+    "date_str": "2026-09-16",
+    "description": "SAJ expands product range through growing Lakarcade network",
+    "url_metadata": "https://www.ft.lk/business/SAJ-expands-product-range-through-growing-Lakarcade-network/34-797309",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789579577.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-dailymirrorlk-35201d6b",
     "num": "dailymirrorlk-35201d6b",
     "date_str": "2026-09-16",
@@ -53165,5 +53220,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789580374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-bdda3fba",
+    "num": "dailyftlk-bdda3fba",
+    "date_str": "2026-09-16",
+    "description": "Anuradhapura shift: Beginning ends, end begins",
+    "url_metadata": "https://www.ft.lk/columns/Anuradhapura-shift-Beginning-ends-end-begins/4-797310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789581962.0
   }
 ]
