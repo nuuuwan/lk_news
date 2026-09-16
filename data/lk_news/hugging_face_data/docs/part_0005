@@ -51309,6 +51309,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-15-adalk-6c2b05f8",
+    "num": "adalk-6c2b05f8",
+    "date_str": "2026-09-15",
+    "description": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0da2\u0dcf\u0dbd\u0dba\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0da2\u0dcf\u0dbd\u0dba\u0db1\u0dca-\u0dc3\u0db8\u0d9f-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db1\u0db8\u0dca/7-424204",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789456177.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-15-tamilmirrorlk-10675dd6",
     "num": "tamilmirrorlk-10675dd6",
     "date_str": "2026-09-15",
@@ -52156,6 +52167,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-8798f6f9",
+    "num": "adalk-8798f6f9",
+    "date_str": "2026-09-16",
+    "description": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2 \u0d85\u0dbb\u0dca\u0da0\u0dd4\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0da7\u0dd2 \u0d9a\u0dae\u0dcf\u0dc0\u0da7 \u0da7\u0dd2.\u0d85\u0dba\u0dd2.\u0da9\u0dd3. \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2-\u0d85\u0dbb\u0dca\u0da0\u0dd4\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0d9a\u0ddc\u0da7\u0dd2-\u0d9a\u0dae\u0dcf\u0dc0\u0da7-\u0da7\u0dd2-\u0d85\u0dba\u0dd2-\u0da9\u0dd3--\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1/11-424219",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789537302.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-tamilmirrorlk-2cc0a337",
     "num": "tamilmirrorlk-2cc0a337",
     "date_str": "2026-09-16",
@@ -52208,6 +52230,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789538383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-eba69e8c",
+    "num": "adalk-eba69e8c",
+    "date_str": "2026-09-16",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0daf \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0daf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7/11-424220",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789538453.0
   },
   {
     "doc_type": "lk_news",
@@ -52450,5 +52483,159 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789546943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-1562cbf7",
+    "num": "dailymirrorlk-1562cbf7",
+    "date_str": "2026-09-16",
+    "description": "Namal Rajapaksa remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-remanded/108-350451",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789549866.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-9f3dcd9f",
+    "num": "adalk-9f3dcd9f",
+    "date_str": "2026-09-16",
+    "description": "\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dc0\u0dd9\u0dad 2,000 \u0dc0\u0db1 \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0d9c\u0dad \u0dab\u0dba \u0d87\u0db4\u0d9a\u0dbb\u0dba\u0dad\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0dc0\u0dd9\u0dad-2-000-\u0dc0\u0db1-\u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0d9c\u0dad-\u0dab\u0dba-\u0d87\u0db4\u0d9a\u0dbb\u0dba\u0dad\u0dca/7-424222",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789550047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-4e44f602",
+    "num": "dailyftlk-4e44f602",
+    "date_str": "2026-09-16",
+    "description": "Cabinet nod for Rs. 400 m project to mark boundaries of major irrigation tanks countrywide",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-nod-for-Rs-400-m-project-to-mark-boundaries-of-major-irrigation-tanks-countrywide/56-797288",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789550193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-cc7177e5",
+    "num": "dailyftlk-cc7177e5",
+    "date_str": "2026-09-16",
+    "description": "Asset Engineering wins Rs. 791.68 m contract to repair Ambewela-Horton Plains road",
+    "url_metadata": "https://www.ft.lk/news/Asset-Engineering-wins-Rs-791-68-m-contract-to-repair-Ambewela-Horton-Plains-road/56-797289",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789550221.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-c86e189e",
+    "num": "dailyftlk-c86e189e",
+    "date_str": "2026-09-16",
+    "description": "Harvard Business School Professor Elie Ofek kicks off Exclusive Executive Program in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Harvard-Business-School-Professor-Elie-Ofek-kicks-off-Exclusive-Executive-Program-in-Sri-Lanka/56-797290",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789550526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-tamilmirrorlk-38894d0d",
+    "num": "tamilmirrorlk-38894d0d",
+    "date_str": "2026-09-16",
+    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-382808",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789551179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-9cc5e7b2",
+    "num": "dailyftlk-9cc5e7b2",
+    "date_str": "2026-09-16",
+    "description": "11th Belt and Road Summit concludes successfully in Hong Kong, China",
+    "url_metadata": "https://www.ft.lk/business/11th-Belt-and-Road-Summit-concludes-successfully-in-Hong-Kong-China/34-797291",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789551204.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-f84cb21f",
+    "num": "dailymirrorlk-f84cb21f",
+    "date_str": "2026-09-16",
+    "description": "EU opens door for Canada to become its first associate member, von der Leyen says",
+    "url_metadata": "https://www.dailymirror.lk/international/EU-opens-door-for-Canada-to-become-its-first-associate-member-von-der-Leyen-says/107-350453",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789551225.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-48fde48d",
+    "num": "dailyftlk-48fde48d",
+    "date_str": "2026-09-16",
+    "description": "LAUGFS Supermarkets opens 46th outlet in Kotahena",
+    "url_metadata": "https://www.ft.lk/business/LAUGFS-Supermarkets-opens-46th-outlet-in-Kotahena/34-797292",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789551424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailyftlk-f57de497",
+    "num": "dailyftlk-f57de497",
+    "date_str": "2026-09-16",
+    "description": "Sri Lanka glitters at 74th Bangkok Gems and Jewellery Fair",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-glitters-at-74th-Bangkok-Gems-and-Jewellery-Fair/34-797293",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789551538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-1f261fde",
+    "num": "dailymirrorlk-1f261fde",
+    "date_str": "2026-09-16",
+    "description": "Nurses capture selfie with President",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Nurses-capture-selfie-with-President/110-350454",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789551931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-dailymirrorlk-add0edef",
+    "num": "dailymirrorlk-add0edef",
+    "date_str": "2026-09-16",
+    "description": "Seven railway services cancelled tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seven-railway-services-cancelled-tonight/108-350455",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789552107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-tamilmirrorlk-f7738ef8",
+    "num": "tamilmirrorlk-f7738ef8",
+    "date_str": "2026-09-16",
+    "description": "\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd-\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-382809",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1789552601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-a0785b63",
+    "num": "adalk-a0785b63",
+    "date_str": "2026-09-16",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0dba\u0dc5\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424224",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789552606.0
   }
 ]
