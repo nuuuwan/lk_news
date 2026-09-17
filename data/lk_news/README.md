@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_20:42:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_22:26:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,865** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,869** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-adalk-21312e29",
-    "num": "adalk-21312e29",
+    "doc_id": "2026-09-17-dailymirrorlk-dc7c7cc3",
+    "num": "dailymirrorlk-dc7c7cc3",
     "date_str": "2026-09-17",
-    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dba\u0db1 \u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4 \u0dbb\u0dc4\u0dd2\u0dad \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dba\u0db1-\u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4-\u0dbb\u0dc4\u0dd2\u0dad-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca/11-424251",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1789652364.0
+    "description": "\u201cI\u2019m a Tiger but not an LTTE Tiger\u201d - Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Im-a-Tiger-but-not-an-LTTE-Tiger-Archchuna/108-350551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789662779.0
 }
 ```
 
@@ -41,8 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-17 | `dailymirrorlk-dc7c7cc3` | “I’m a Tiger but not an LTTE Tiger” - Archchuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-dc7c7cc3)
+- 2026-09-17 | `dailymirrorlk-7898eed5` | Pakistan announces austerity measures to conserve fuel as Gulf conflict spirals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-7898eed5)
+- 2026-09-17 | `dailymirrorlk-4eb43088` | Sri Lanka’s first battery storage, floating solar plant to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4eb43088)
 - 2026-09-17 | `adalk-21312e29` | පොලිස් නිලධාරින්ට දෙන්න යන තීරුබදු රහිත විද්‍යුත් යතුරුපැදි ගැන පොලිසියෙන් පැහැදිලි කිරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-21312e29)
 - 2026-09-17 | `dailymirrorlk-45aa391d` | CSE extends four-day slide as ASPI nears 21,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-45aa391d)
+- 2026-09-17 | `adalk-9fd23196` | නේපාලය ඩොලර් මිලියන 20ක් වන්දි ගන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-9fd23196)
 - 2026-09-17 | `dailymirrorlk-36104197` | Prison officers’ salaries, allowances to get attention in Budget: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-36104197)
 - 2026-09-17 | `adalk-b592b0a9` | ලංකාවේ ආර්ථික ප්‍රගතිය අයි.එම්.එෆ්. ඇගයීමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-b592b0a9)
 - 2026-09-17 | `dailymirrorlk-b51dcf9c` | Sri Lanka, Thailand expedite visa-free travel talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-b51dcf9c)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-17 | `dailymirrorlk-4743f476` | Leopard cub rescued after wandering into house in Bulathkohupitiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4743f476)
 - 2026-09-17 | `dailymirrorlk-d513c27f` | The Opposition: NPP’s greatest asset | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-d513c27f)
 - 2026-09-17 | `dailymirrorlk-792909de` | Actor Vishwa Kodikara fined Rs. 5,000 over cocaine possession | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-792909de)
-- 2026-09-17 | `dailymirrorlk-9aaa975c` | Warrants issued on Aravinda de Silva, his wife recalled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-9aaa975c)
-- 2026-09-17 | `dailymirrorlk-d390c02e` | Sonal Dinusha named ICC Men’s Player of the Month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-d390c02e)
-- 2026-09-17 | `adalk-b6111cd2` | විශ්වවිද්‍යාල ආචාර්යවරුන්ගේ සාකච්ඡාව විසඳුමකින් තොරව අවසන් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-b6111cd2)
-- 2026-09-17 | `dailymirrorlk-47bbf52f` | Universities have moral responsibility to curb ragging: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-47bbf52f)
 
 ---
 

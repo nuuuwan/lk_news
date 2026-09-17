@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-17 20:42:01",
-  "n_docs": 130865,
+  "time_updated": "2026-09-17 22:25:37",
+  "n_docs": 130869,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130865,
+  "n_docs_with_text": 130869,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-17",
-  "dataset_size": 2034618291,
+  "dataset_size": 2034687999,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-adalk-21312e29",
-    "num": "adalk-21312e29",
+    "doc_id": "2026-09-17-dailymirrorlk-dc7c7cc3",
+    "num": "dailymirrorlk-dc7c7cc3",
     "date_str": "2026-09-17",
-    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dba\u0db1 \u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4 \u0dbb\u0dc4\u0dd2\u0dad \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dba\u0db1-\u0dad\u0dd3\u0dbb\u0dd4\u0db6\u0daf\u0dd4-\u0dbb\u0dc4\u0dd2\u0dad-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca/11-424251",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1789652364.0
+    "description": "\u201cI\u2019m a Tiger but not an LTTE Tiger\u201d - Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Im-a-Tiger-but-not-an-LTTE-Tiger-Archchuna/108-350551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789662779.0
   }
 }
