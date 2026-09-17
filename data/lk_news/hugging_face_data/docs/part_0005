@@ -53817,6 +53817,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-fc13b7e3",
+    "num": "dailymirrorlk-fc13b7e3",
+    "date_str": "2026-09-17",
+    "description": "MasterChef Sri Lanka Judges Clarify the Context Behind the Challenge",
+    "url_metadata": "https://www.dailymirror.lk/opinion/MasterChef-Sri-Lanka-Judges-Clarify-the-Context-Behind-the-Challenge/231-350508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789626182.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-dailymirrorlk-3e0ecf6d",
     "num": "dailymirrorlk-3e0ecf6d",
     "date_str": "2026-09-17",
@@ -53946,6 +53957,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789634364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-6024a542",
+    "num": "dailymirrorlk-6024a542",
+    "date_str": "2026-09-17",
+    "description": "Floral tribute to Anagarika Dharmapala",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Floral-tribute-to-Anagarika-Dharmapala/110-350532",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789635009.0
   },
   {
     "doc_type": "lk_news",
@@ -54092,6 +54114,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-ddeca841",
+    "num": "dailymirrorlk-ddeca841",
+    "date_str": "2026-09-17",
+    "description": "\u2018Medical advice for the elderly\u2019 launched",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Medical-advice-for-the-elderly-launched/110-350543",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789647341.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-adalk-b592b0a9",
     "num": "adalk-b592b0a9",
     "date_str": "2026-09-17",
@@ -54144,6 +54177,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789652364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-62e38dc9",
+    "num": "dailymirrorlk-62e38dc9",
+    "date_str": "2026-09-17",
+    "description": "Ranil speaks to youth",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Ranil-speaks-to-youth/110-350547",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789655800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-83e1bc1e",
+    "num": "dailymirrorlk-83e1bc1e",
+    "date_str": "2026-09-17",
+    "description": "JR\u2019s grandson recalls grandfather\u2019s stand on corruption",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/JRs-grandson-recalls-grandfathers-stand-on-corruption/108-350548",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789655989.0
   },
   {
     "doc_type": "lk_news",
