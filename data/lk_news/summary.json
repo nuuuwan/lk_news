@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-17 10:24:43",
-  "n_docs": 130806,
+  "time_updated": "2026-09-17 12:05:44",
+  "n_docs": 130816,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130806,
+  "n_docs_with_text": 130816,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-17",
-  "dataset_size": 2033944341,
+  "dataset_size": 2034047603,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-dailymirrorlk-b8f7bec9",
-    "num": "dailymirrorlk-b8f7bec9",
+    "doc_id": "2026-09-17-dailymirrorlk-044da2aa",
+    "num": "dailymirrorlk-044da2aa",
     "date_str": "2026-09-17",
-    "description": "Australia to bar foreign students from bringing partners, children while they study",
-    "url_metadata": "https://www.dailymirror.lk/international/Australia-to-bar-foreign-students-from-bringing-partners-children-while-they-study/107-350476",
+    "description": "Australia cracks down on student and backpacker visas to curb migration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-cracks-down-on-student-and-backpacker-visas-to-curb-migration/108-350512",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789615319.0
+    "time_ut": 1789626682.0
   }
 }

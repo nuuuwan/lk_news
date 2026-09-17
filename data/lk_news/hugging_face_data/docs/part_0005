@@ -53465,6 +53465,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-411b19db",
+    "num": "adalk-411b19db",
+    "date_str": "2026-09-17",
+    "description": "\u0dc0\u0dc3\u0dbb \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc3\u0dbb-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0db4\u0dc3\u0dd4-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0db4\u0ddc\u0dbd\u0dd3-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad-\u0d89\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/11-424233",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789611666.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-adalk-50eec6d8",
     "num": "adalk-50eec6d8",
     "date_str": "2026-09-17",
@@ -53484,5 +53495,104 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789615319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-80016088",
+    "num": "dailymirrorlk-80016088",
+    "date_str": "2026-09-17",
+    "description": "Supreme Court rules judges liable for income tax",
+    "url_metadata": "https://www.dailymirror.lk/top-story/Supreme-Court-rules-judges-liable-for-income-tax/155-350492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789622380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-90a0edf5",
+    "num": "dailymirrorlk-90a0edf5",
+    "date_str": "2026-09-17",
+    "description": "New rabies law ends arbitrary killing of animals on suspicion, veterinarian says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-rabies-law-ends-arbitrary-killing-of-animals-on-suspicion-veterinarian-says/108-350497",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789623291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-2615a549",
+    "num": "dailymirrorlk-2615a549",
+    "date_str": "2026-09-17",
+    "description": "Court Assistant arrested over Rs. 500 bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-Assistant-arrested-over-Rs-500-bribe/108-350498",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789624424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-4c92863e",
+    "num": "dailymirrorlk-4c92863e",
+    "date_str": "2026-09-17",
+    "description": "Pre-trial conference fixed in corruption case against Karannagoda, Yoshitha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pre-trial-conference-fixed-in-corruption-case-against-Karannagoda-Yoshitha/108-350499",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789624536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-4ba66e1f",
+    "num": "dailymirrorlk-4ba66e1f",
+    "date_str": "2026-09-17",
+    "description": "Fiji declares HIV a national emergency as cases surge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fiji-declares-HIV-a-national-emergency-as-cases-surge/108-350501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789625172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-61e53067",
+    "num": "dailymirrorlk-61e53067",
+    "date_str": "2026-09-17",
+    "description": "Shiranthi Rajapaksa admitted to Mount Elizabeth Hospital in Singapore",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-admitted-to-Mount-Elizabeth-Hospital-in-Singapore/108-350502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789625178.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-24c70e51",
+    "num": "dailymirrorlk-24c70e51",
+    "date_str": "2026-09-17",
+    "description": "Mattakkuliya crash: Driver was under cannabis influence- police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mattakkuliya-crash-Driver-was-under-cannabis-influence-police/108-350507",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789626007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-3e0ecf6d",
+    "num": "dailymirrorlk-3e0ecf6d",
+    "date_str": "2026-09-17",
+    "description": "SLPP member Renuka Perera arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-member-Renuka-Perera-arrested/108-350511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789626519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-044da2aa",
+    "num": "dailymirrorlk-044da2aa",
+    "date_str": "2026-09-17",
+    "description": "Australia cracks down on student and backpacker visas to curb migration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-cracks-down-on-student-and-backpacker-visas-to-curb-migration/108-350512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789626682.0
   }
 ]
