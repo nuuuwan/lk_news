@@ -52761,6 +52761,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-16-adalk-d65b5f38",
+    "num": "adalk-d65b5f38",
+    "date_str": "2026-09-16",
+    "description": "CSE \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0db4\u0dc3\u0dca \u0dc0\u0db1 \u0dc0\u0dbb\u0da7\u0dad\u0dca \u2018Great Place to Work\u2019 \u0dbd\u0db6\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/CSE-\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0-\u0db4\u0dc3\u0dca-\u0dc0\u0db1-\u0dc0\u0dbb\u0da7\u0dad\u0dca-\u2018Great-Place-to-Work\u2019-\u0dbd\u0db6\u0dba\u0dd2/7-424223",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789550136.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-16-dailyftlk-4e44f602",
     "num": "dailyftlk-4e44f602",
     "date_str": "2026-09-16",
@@ -53429,5 +53440,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789608179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-cb015bba",
+    "num": "adalk-cb015bba",
+    "date_str": "2026-09-17",
+    "description": "\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca 3\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7 10\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-3\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7-10\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-424231",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789610325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-29bc0244",
+    "num": "adalk-29bc0244",
+    "date_str": "2026-09-17",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 \u0d85\u0d82\u0d9a \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dbd\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1-\u0d85\u0d82\u0d9a-\u0dad\u0dd4\u0db1\u0d9a\u0dca/11-424232",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789610811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-50eec6d8",
+    "num": "adalk-50eec6d8",
+    "date_str": "2026-09-17",
+    "description": "\u0dad\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda 27 \u0dc0\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0db8\u0dc4\u0dcf \u0dc3\u0db7\u0dcf \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0dad\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda-27-\u0dc0\u0db1-\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a-\u0db8\u0dc4\u0dcf-\u0dc3\u0db7\u0dcf-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca/7-424234",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789612672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-b8f7bec9",
+    "num": "dailymirrorlk-b8f7bec9",
+    "date_str": "2026-09-17",
+    "description": "Australia to bar foreign students from bringing partners, children while they study",
+    "url_metadata": "https://www.dailymirror.lk/international/Australia-to-bar-foreign-students-from-bringing-partners-children-while-they-study/107-350476",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789615319.0
   }
 ]
