@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-17 15:58:38",
-  "n_docs": 130850,
+  "time_updated": "2026-09-17 18:43:04",
+  "n_docs": 130860,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130850,
+  "n_docs_with_text": 130860,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-17",
-  "dataset_size": 2034480461,
+  "dataset_size": 2034542608,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-dailymirrorlk-d513c27f",
-    "num": "dailymirrorlk-d513c27f",
+    "doc_id": "2026-09-17-dailymirrorlk-b51dcf9c",
+    "num": "dailymirrorlk-b51dcf9c",
     "date_str": "2026-09-17",
-    "description": "The Opposition: NPP\u2019s greatest asset",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/The-Opposition-NPPs-greatest-asset/108-350536",
+    "description": "Sri Lanka, Thailand expedite visa-free travel talks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Thailand-expedite-visa-free-travel-talks/108-350542",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789639282.0
+    "time_ut": 1789646218.0
   }
 }
