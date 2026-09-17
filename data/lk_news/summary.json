@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-17 03:54:34",
-  "n_docs": 130783,
+  "time_updated": "2026-09-17 06:17:13",
+  "n_docs": 130798,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130783,
+  "n_docs_with_text": 130798,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-16",
-  "dataset_size": 2033668936,
+  "date_str_max": "2026-09-17",
+  "dataset_size": 2033731985,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-dailyftlk-bdda3fba",
-    "num": "dailyftlk-bdda3fba",
-    "date_str": "2026-09-16",
-    "description": "Anuradhapura shift: Beginning ends, end begins",
-    "url_metadata": "https://www.ft.lk/columns/Anuradhapura-shift-Beginning-ends-end-begins/4-797310",
+    "doc_id": "2026-09-17-dailyftlk-4b5bd8ac",
+    "num": "dailyftlk-4b5bd8ac",
+    "date_str": "2026-09-17",
+    "description": "Country of origin is a reorder gate, not a static product field",
+    "url_metadata": "https://www.ft.lk/columns/Country-of-origin-is-a-reorder-gate-not-a-static-product-field/4-797356",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1789581962.0
+    "time_ut": 1789605319.0
   }
 }

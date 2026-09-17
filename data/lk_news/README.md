@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_03:55:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_06:18:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,798** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-16-dailyftlk-bdda3fba",
-    "num": "dailyftlk-bdda3fba",
-    "date_str": "2026-09-16",
-    "description": "Anuradhapura shift: Beginning ends, end begins",
-    "url_metadata": "https://www.ft.lk/columns/Anuradhapura-shift-Beginning-ends-end-begins/4-797310",
+    "doc_id": "2026-09-17-dailyftlk-4b5bd8ac",
+    "num": "dailyftlk-4b5bd8ac",
+    "date_str": "2026-09-17",
+    "description": "Country of origin is a reorder gate, not a static product field",
+    "url_metadata": "https://www.ft.lk/columns/Country-of-origin-is-a-reorder-gate-not-a-static-product-field/4-797356",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1789581962.0
+    "time_ut": 1789605319.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-17 | `dailyftlk-4b5bd8ac` | Country of origin is a reorder gate, not a static product field | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-4b5bd8ac)
+- 2026-09-17 | `tamilmirrorlk-3c0dfff3` | ’அமெரிக்காவுடனான மோதலை விருப்பமில்லை ’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-tamilmirrorlk-3c0dfff3)
+- 2026-09-17 | `dailyftlk-bbc49d9f` | FCCISL hails National Business Facilitation Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-bbc49d9f)
+- 2026-09-17 | `dailyftlk-af647b6f` | Chasing the next $3b: What it will take for Sri Lanka’s apparel sector to get there | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-af647b6f)
+- 2026-09-17 | `tamilmirrorlk-b94116a1` | இந்திய கடற்படை கப்பல் மீது மோதிய பாகிஸ்தான் கப்பல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-tamilmirrorlk-b94116a1)
+- 2026-09-17 | `tamilmirrorlk-b3b4ba8a` | காலநிலையில் ஏற்படவுள்ள மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-tamilmirrorlk-b3b4ba8a)
+- 2026-09-17 | `dailyftlk-ff79208d` | Hettich celebrates decade in Sri Lanka with landmark Partner Meet in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-ff79208d)
+- 2026-09-17 | `dailyftlk-16db881c` | Cabinet approves Rs. 2.5 b top-up for Paddy Marketing Board as Yala season purchases continue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-16db881c)
+- 2026-09-17 | `dailyftlk-03903ecf` | Roar Global introduces Sri Lanka’s first AI gateway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-03903ecf)
+- 2026-09-17 | `dailyftlk-18c4d3ec` | Namal remanded until 23 Sept. over Airbus money laundering probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-18c4d3ec)
+- 2026-09-17 | `dailyftlk-6214882c` | Cabinet clears Rs. 46 b Mudun Ela Drainage Project to tackle chronic flooding in Peliyagoda, Kelaniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-6214882c)
+- 2026-09-17 | `dailyftlk-b08ddb95` | Warrants issued for Aravinda de Silva and wife over Airbus case bail default | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-b08ddb95)
+- 2026-09-17 | `dailyftlk-7eb92eed` | Sajith meets German Bundestag delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-7eb92eed)
+- 2026-09-17 | `dailyftlk-b6db8e1c` | US commitment to Sri Lanka at its highest level | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-b6db8e1c)
+- 2026-09-17 | `dailyftlk-0f8badeb` | China’s development philosophy resonates across Global South at BRICS Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailyftlk-0f8badeb)
 - 2026-09-16 | `dailyftlk-bdda3fba` | Anuradhapura shift: Beginning ends, end begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-bdda3fba)
 - 2026-09-16 | `dailymirrorlk-35201d6b` | Gold mine collapse kills at least 70 people in Sudan’s West Kordofan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-35201d6b)
 - 2026-09-16 | `dailyftlk-924217fc` | SAJ expands product range through growing Lakarcade network | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-924217fc)
 - 2026-09-16 | `dailyftlk-4c44c365` | Legislating for change: Looking at how quota laws for women in the Boardroom panned out globally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-4c44c365)
 - 2026-09-16 | `dailyftlk-4be574c2` | More than the numbers — how Sri Lanka’s finance professionals can become trusted strategic advisers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-4be574c2)
-- 2026-09-16 | `dailyftlk-da263e87` | Sri Lanka’s creative and lifestyle sector targets Maldivian hospitality market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-da263e87)
-- 2026-09-16 | `dailyftlk-40507a19` | Japanese investor Yoshimichi Watanabe backs Hunas Holdings ahead of expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailyftlk-40507a19)
-- 2026-09-16 | `dailymirrorlk-16da5eee` | Two killed, several injured in Mattakkuliya accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-16da5eee)
-- 2026-09-16 | `tamilmirrorlk-7e0944c7` | மட்டக்குளியில் கோர விபத்து : பலர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-7e0944c7)
-- 2026-09-16 | `dailymirrorlk-3efc0d12` | Veterinary surgeon attacked by leopard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-3efc0d12)
-- 2026-09-16 | `dailymirrorlk-d213425d` | Shortage of crepe bandages reported at Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-d213425d)
-- 2026-09-16 | `dailymirrorlk-f20636df` | Dudley Sirisena pledges annual javelins to support Rumesh Tharanga | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-f20636df)
-- 2026-09-16 | `dailymirrorlk-258b6dc0` | TikTok founder becomes Asia’s richest person, overtakes Adani: Top 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-258b6dc0)
-- 2026-09-16 | `dailymirrorlk-73445bab` | Rabies bill could derail dog vaccination drive, raise human rabies risk: PHIs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-73445bab)
-- 2026-09-16 | `dailymirrorlk-01e44f19` | EU announces plan to ban social media for under 13s | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-01e44f19)
-- 2026-09-16 | `dailymirrorlk-582037d3` | NPP to slow down President’s islandwide rallies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-582037d3)
-- 2026-09-16 | `dailymirrorlk-49d96b4f` | Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-49d96b4f)
-- 2026-09-16 | `dailymirrorlk-a16ee166` | CSE selling deepens as ASPI breaks below 21,200 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-a16ee166)
-- 2026-09-16 | `dailymirrorlk-f9411bff` | Supermarkets in Bandaragama, Matugama fined for overpriced eggs, altered prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-dailymirrorlk-f9411bff)
-- 2026-09-16 | `tamilmirrorlk-f2edd1e0` | 7 ரயில் சேவைகள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-16-tamilmirrorlk-f2edd1e0)
 
 ---
 
