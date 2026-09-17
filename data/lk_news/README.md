@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_14:08:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--17_15:59:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,845** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-dailymirrorlk-47bbf52f",
-    "num": "dailymirrorlk-47bbf52f",
+    "doc_id": "2026-09-17-dailymirrorlk-d513c27f",
+    "num": "dailymirrorlk-d513c27f",
     "date_str": "2026-09-17",
-    "description": "Universities have moral responsibility to curb ragging: PM",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Universities-have-moral-responsibility-to-curb-ragging-PM/108-350530",
+    "description": "The Opposition: NPP\u2019s greatest asset",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/The-Opposition-NPPs-greatest-asset/108-350536",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789633218.0
+    "time_ut": 1789639282.0
 }
 ```
 
@@ -41,8 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-17 | `dailymirrorlk-d513c27f` | The Opposition: NPP’s greatest asset | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-d513c27f)
+- 2026-09-17 | `dailymirrorlk-792909de` | Actor Vishwa Kodikara fined Rs. 5,000 over cocaine possession | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-792909de)
+- 2026-09-17 | `dailymirrorlk-9aaa975c` | Warrants issued on Aravinda de Silva, his wife recalled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-9aaa975c)
+- 2026-09-17 | `dailymirrorlk-d390c02e` | Sonal Dinusha named ICC Men’s Player of the Month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-d390c02e)
 - 2026-09-17 | `dailymirrorlk-47bbf52f` | Universities have moral responsibility to curb ragging: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-47bbf52f)
 - 2026-09-17 | `dailymirrorlk-84f8eb9f` | Parliamentary Committee approves petroleum exploration bidding process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-84f8eb9f)
+- 2026-09-17 | `adalk-a49897de` | නවකවදය ගැන විමර්ශන කාර්යක්ෂම විය යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-a49897de)
 - 2026-09-17 | `dailymirrorlk-a293dfb1` | Free travels during rail strike... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-a293dfb1)
 - 2026-09-17 | `adalk-98ff1e73` | විනිසුරුවරුන්ගෙන් ආදායම් බදු අය කිරීම නීත්‍යානුකූලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-98ff1e73)
 - 2026-09-17 | `adalk-49c61d2d` | රේණුක පෙරේරා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-49c61d2d)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-17 | `dailymirrorlk-901caffa` | Lethal Autonomous Weapons, an increasing threat to humans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-901caffa)
 - 2026-09-17 | `dailymirrorlk-61e53067` | Shiranthi Rajapaksa admitted to Mount Elizabeth Hospital in Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-61e53067)
 - 2026-09-17 | `dailymirrorlk-4ba66e1f` | Fiji declares HIV a national emergency as cases surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4ba66e1f)
-- 2026-09-17 | `dailymirrorlk-4c92863e` | Pre-trial conference fixed in corruption case against Karannagoda, Yoshitha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4c92863e)
-- 2026-09-17 | `dailymirrorlk-2615a549` | Court Assistant arrested over Rs. 500 bribe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-2615a549)
-- 2026-09-17 | `dailymirrorlk-90a0edf5` | New rabies law ends arbitrary killing of animals on suspicion, veterinarian says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-90a0edf5)
-- 2026-09-17 | `dailymirrorlk-14c468ff` | Sri Lanka’s 4.2% growth conceals two-speed recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-14c468ff)
-- 2026-09-17 | `dailymirrorlk-97a7f303` | Sri Lanka needs street-smart directors, not those buried in theory: SLID Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-97a7f303)
 
 ---
 

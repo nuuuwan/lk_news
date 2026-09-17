@@ -53894,6 +53894,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-a49897de",
+    "num": "adalk-a49897de",
+    "date_str": "2026-09-17",
+    "description": "\u0db1\u0dc0\u0d9a\u0dc0\u0daf\u0dba \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0db8 \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dc0\u0d9a\u0dc0\u0daf\u0dba-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0db8-\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-424240",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789629037.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-dailymirrorlk-84f8eb9f",
     "num": "dailymirrorlk-84f8eb9f",
     "date_str": "2026-09-17",
@@ -53913,5 +53924,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789633218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-d390c02e",
+    "num": "dailymirrorlk-d390c02e",
+    "date_str": "2026-09-17",
+    "description": "Sonal Dinusha named ICC Men\u2019s Player of the Month",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sonal-Dinusha-named-ICC-Mens-Player-of-the-Month/108-350531",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789634364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-9aaa975c",
+    "num": "dailymirrorlk-9aaa975c",
+    "date_str": "2026-09-17",
+    "description": "Warrants issued on Aravinda de Silva, his wife recalled",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warrants-issued-on-Aravinda-de-Silva-his-wife-recalled/108-350534",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789636358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-792909de",
+    "num": "dailymirrorlk-792909de",
+    "date_str": "2026-09-17",
+    "description": "Actor Vishwa Kodikara fined Rs. 5,000 over cocaine possession",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Actor-Vishwa-Kodikara-fined-Rs-5-000-over-cocaine-possession/108-350535",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789638209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-17-dailymirrorlk-d513c27f",
+    "num": "dailymirrorlk-d513c27f",
+    "date_str": "2026-09-17",
+    "description": "The Opposition: NPP\u2019s greatest asset",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/The-Opposition-NPPs-greatest-asset/108-350536",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789639282.0
   }
 ]
