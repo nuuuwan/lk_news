@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-18 14:03:28",
-  "n_docs": 130941,
+  "time_updated": "2026-09-18 15:57:17",
+  "n_docs": 130949,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130941,
+  "n_docs_with_text": 130949,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-18",
-  "dataset_size": 2035436583,
+  "dataset_size": 2035715283,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-18-dailymirrorlk-eeec92b0",
-    "num": "dailymirrorlk-eeec92b0",
+    "doc_id": "2026-09-18-dailymirrorlk-881259c3",
+    "num": "dailymirrorlk-881259c3",
     "date_str": "2026-09-18",
-    "description": "Chief Magistrate orders probe into Wimal\u2019s remarks on court order",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Chief-Magistrate-orders-probe-into-Wimals-remarks-on-court-order/108-350609",
+    "description": "Opposition parties plan protest against 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-parties-plan-protest-against-22A/108-350621",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789719509.0
+    "time_ut": 1789726406.0
   }
 }

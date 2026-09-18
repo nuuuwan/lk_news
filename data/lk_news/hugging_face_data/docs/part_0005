@@ -54631,6 +54631,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-d87e0a75",
+    "num": "adalk-d87e0a75",
+    "date_str": "2026-09-18",
+    "description": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-424262",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789709117.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-18-dailymirrorlk-76f8c723",
     "num": "dailymirrorlk-76f8c723",
     "date_str": "2026-09-18",
@@ -54969,5 +54980,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789719509.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-e14b65b6",
+    "num": "adalk-e14b65b6",
+    "date_str": "2026-09-18",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0dba\u0dc5\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424263",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789720484.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-b21f6207",
+    "num": "dailymirrorlk-b21f6207",
+    "date_str": "2026-09-18",
+    "description": "Nigerian police probe death in custody of 37 illegal mining suspects",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects/108-350614",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789720781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-ce8b6f9f",
+    "num": "dailymirrorlk-ce8b6f9f",
+    "date_str": "2026-09-18",
+    "description": "Firms risk penalties over ownership disclosure failures",
+    "url_metadata": "https://www.dailymirror.lk/business/Firms-risk-penalties-over-ownership-disclosure-failures/215-350616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789722722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-33048244",
+    "num": "dailymirrorlk-33048244",
+    "date_str": "2026-09-18",
+    "description": "Sri Lanka, India storm into Asian Games Semi-Finals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-storm-into-Asian-Games-Semi-Finals/108-350617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789722874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-a11fc449",
+    "num": "dailymirrorlk-a11fc449",
+    "date_str": "2026-09-18",
+    "description": "Parliamentary committee to summon local authorities over Ditwah response",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-committee-to-summon-local-authorities-over-Ditwah-response/108-350618",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789723183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-b1ea1580",
+    "num": "dailymirrorlk-b1ea1580",
+    "date_str": "2026-09-18",
+    "description": "Anuradhapura battery storage system connected to national grid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anuradhapura-battery-storage-system-connected-to-national-grid/108-350619",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789724254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-881259c3",
+    "num": "dailymirrorlk-881259c3",
+    "date_str": "2026-09-18",
+    "description": "Opposition parties plan protest against 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-parties-plan-protest-against-22A/108-350621",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789726406.0
   }
 ]
