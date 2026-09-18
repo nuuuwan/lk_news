@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--18_03:57:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--18_06:18:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,875** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-17-dailymirrorlk-dc7c7cc3",
-    "num": "dailymirrorlk-dc7c7cc3",
-    "date_str": "2026-09-17",
-    "description": "\u201cI\u2019m a Tiger but not an LTTE Tiger\u201d - Archchuna",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Im-a-Tiger-but-not-an-LTTE-Tiger-Archchuna/108-350551",
+    "doc_id": "2026-09-18-dailyftlk-6087e871",
+    "num": "dailyftlk-6087e871",
+    "date_str": "2026-09-18",
+    "description": "7 sad AI-conomic truths you may not want to know",
+    "url_metadata": "https://www.ft.lk/columns/7-sad-AI-conomic-truths-you-may-not-want-to-know/4-797397",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789662779.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789691996.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-18 | `dailyftlk-6087e871` | 7 sad AI-conomic truths you may not want to know | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-6087e871)
 - 2026-09-17 | `dailymirrorlk-dc7c7cc3` | “I’m a Tiger but not an LTTE Tiger” - Archchuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-dc7c7cc3)
 - 2026-09-17 | `dailymirrorlk-7898eed5` | Pakistan announces austerity measures to conserve fuel as Gulf conflict spirals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-7898eed5)
 - 2026-09-17 | `dailymirrorlk-4eb43088` | Sri Lanka’s first battery storage, floating solar plant to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4eb43088)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-17 | `adalk-41964c52` | ස්ට්‍රයික් කළා කියලා දුම්රිය සාමාන්‍යාධිකාරී ඉවත් කරන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-41964c52)
 - 2026-09-17 | `adalk-e203dc51` | අයි.සී.සී. අගෝස්තු මස ක්‍රීඩකයා සොනාල් දිනූෂ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-e203dc51)
 - 2026-09-17 | `dailymirrorlk-c90c3dd4` | Wild elephant treated again... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-c90c3dd4)
-- 2026-09-17 | `adalk-3c7eeef3` | රේණුක පෙරේරා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-adalk-3c7eeef3)
 
 ---
 
