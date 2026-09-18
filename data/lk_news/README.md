@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--18_08:02:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--18_10:00:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,898** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-18-dailyftlk-4f7823db",
-    "num": "dailyftlk-4f7823db",
+    "doc_id": "2026-09-18-dailymirrorlk-c81b983e",
+    "num": "dailymirrorlk-c81b983e",
     "date_str": "2026-09-18",
-    "description": "WIM puts talent, workplaces and women-led enterprise at heart of global competitiveness",
-    "url_metadata": "https://www.ft.lk/business/WIM-puts-talent-workplaces-and-women-led-enterprise-at-heart-of-global-competitiveness/34-797409",
+    "description": "England crush Sri Lanka to seal T20 series win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-crush-Sri-Lanka-to-seal-T20-series-win/108-350558",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1789695098.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789702801.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-18 | `dailymirrorlk-c81b983e` | England crush Sri Lanka to seal T20 series win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-c81b983e)
+- 2026-09-18 | `dailymirrorlk-15573c01` | ‘No dogs left behind’ key to ending rabies: Vet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-15573c01)
+- 2026-09-18 | `dailymirrorlk-160d98e0` | Unpaid care work drives women out of jobs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-160d98e0)
+- 2026-09-18 | `adalk-b51f1067` | අදත් මිලි මිටර් 50ක් දක්වා තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-adalk-b51f1067)
+- 2026-09-18 | `adalk-2f0e0439` | දෙහිවල දරු දෙදෙනා ඝාතනයට තවත් තිදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-adalk-2f0e0439)
 - 2026-09-18 | `dailyftlk-4f7823db` | WIM puts talent, workplaces and women-led enterprise at heart of global competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-4f7823db)
 - 2026-09-18 | `adalk-32a1cc5f` | සෙලින්කෝ ලයිෆ් ඔප්පු හිමියන්ට සමීප කළ මහනුවර ඇසළ පෙරහර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-adalk-32a1cc5f)
 - 2026-09-18 | `dailyftlk-e00db63d` | ITFC signs $ 1.5 b framework agreement with Maldives Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-e00db63d)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-18 | `dailyftlk-6087e871` | 7 sad AI-conomic truths you may not want to know | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-6087e871)
 - 2026-09-18 | `dailyftlk-fe68ea87` | Ex-Navy Chief Karannagoda, Yoshitha Rajapaksa case fixed for pre-trial conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-fe68ea87)
 - 2026-09-18 | `dailyftlk-594e6de0` | Court recalls warrants on Aravinda de Silva, wife | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-594e6de0)
-- 2026-09-18 | `dailyftlk-ba550cf5` | Senior SLPP member remanded over permit corruption charges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-ba550cf5)
-- 2026-09-18 | `dailyftlk-9162d408` | PM, new Chinese envoy discuss education, digital transformation push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailyftlk-9162d408)
-- 2026-09-17 | `dailymirrorlk-dc7c7cc3` | “I’m a Tiger but not an LTTE Tiger” - Archchuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-dc7c7cc3)
-- 2026-09-17 | `dailymirrorlk-7898eed5` | Pakistan announces austerity measures to conserve fuel as Gulf conflict spirals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-7898eed5)
-- 2026-09-17 | `dailymirrorlk-4eb43088` | Sri Lanka’s first battery storage, floating solar plant to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-17-dailymirrorlk-4eb43088)
 
 ---
 

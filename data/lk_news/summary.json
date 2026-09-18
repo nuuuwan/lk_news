@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-18 08:00:59",
-  "n_docs": 130893,
+  "time_updated": "2026-09-18 09:59:26",
+  "n_docs": 130898,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130893,
+  "n_docs_with_text": 130898,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-18",
-  "dataset_size": 2034916574,
+  "dataset_size": 2035155714,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-18-dailyftlk-4f7823db",
-    "num": "dailyftlk-4f7823db",
+    "doc_id": "2026-09-18-dailymirrorlk-c81b983e",
+    "num": "dailymirrorlk-c81b983e",
     "date_str": "2026-09-18",
-    "description": "WIM puts talent, workplaces and women-led enterprise at heart of global competitiveness",
-    "url_metadata": "https://www.ft.lk/business/WIM-puts-talent-workplaces-and-women-led-enterprise-at-heart-of-global-competitiveness/34-797409",
+    "description": "England crush Sri Lanka to seal T20 series win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-crush-Sri-Lanka-to-seal-T20-series-win/108-350558",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1789695098.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789702801.0
   }
 }
