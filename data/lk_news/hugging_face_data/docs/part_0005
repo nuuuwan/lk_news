@@ -54466,6 +54466,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-40124307",
+    "num": "adalk-40124307",
+    "date_str": "2026-09-18",
+    "description": "\u0db1\u0dd2\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3\u0dc0 \u0d8b\u0db4\u0dba\u0dcf\u0d9c\u0dad\u0dca \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 1250\u0d9a \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd2\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3\u0dc0-\u0d8b\u0db4\u0dba\u0dcf\u0d9c\u0dad\u0dca-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-1250\u0d9a-\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424256",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789699345.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-2df028d4",
+    "num": "adalk-2df028d4",
+    "date_str": "2026-09-18",
+    "description": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0da7\u0dd2\u0d9a\u0da7\u0dca \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0da7\u0dd2\u0d9a\u0da7\u0dca-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dbd\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0/11-424257",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789699605.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-18-dailymirrorlk-160d98e0",
     "num": "dailymirrorlk-160d98e0",
     "date_str": "2026-09-18",
@@ -54496,5 +54518,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789702801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-0e9899b3",
+    "num": "adalk-0e9899b3",
+    "date_str": "2026-09-18",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7/11-424260",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789707001.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-dd154447",
+    "num": "dailymirrorlk-dd154447",
+    "date_str": "2026-09-18",
+    "description": "Police freeze illegal assets worth over Rs. 125 Mn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-freeze-illegal-assets-worth-over-Rs-125-Mn/108-350559",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789707152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-cf824610",
+    "num": "dailymirrorlk-cf824610",
+    "date_str": "2026-09-18",
+    "description": "Stamp marks London Vihara centenary",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Stamp-marks-London-Vihara-centenary/110-350560",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789707851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-f5d60f06",
+    "num": "dailymirrorlk-f5d60f06",
+    "date_str": "2026-09-18",
+    "description": "Born after 2010; No tobacco for life?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Born-after-2010-No-tobacco-for-life/108-350561",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789708274.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-f5176325",
+    "num": "dailymirrorlk-f5176325",
+    "date_str": "2026-09-18",
+    "description": "Pilots carry Air Lanka legacy into next generation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pilots-carry-Air-Lanka-legacy-into-next-generation/108-350563",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789709021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-8b9052da",
+    "num": "dailymirrorlk-8b9052da",
+    "date_str": "2026-09-18",
+    "description": "Namal produced before Colombo Chief Magistrate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-produced-before-Colombo-Chief-Magistrate/108-350565",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789709238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-d38b8ef8",
+    "num": "dailymirrorlk-d38b8ef8",
+    "date_str": "2026-09-18",
+    "description": "Pilot rescued after falling overboard off Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pilot-rescued-after-falling-overboard-off-Colombo-Port/108-350567",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789709570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-0dd05107",
+    "num": "dailymirrorlk-0dd05107",
+    "date_str": "2026-09-18",
+    "description": "Rumesh eyes Olympic record and 2036 farewell",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rumesh-eyes-Olympic-record-and-2036-farewell/108-350569",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789709793.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-67b0ed0c",
+    "num": "dailymirrorlk-67b0ed0c",
+    "date_str": "2026-09-18",
+    "description": "Govt. aims to increase Samurdhi loans to Rs.70 bn next year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-aims-to-increase-Samurdhi-loans-to-Rs-70-bn-next-year/108-350575",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789710337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-02e17b01",
+    "num": "dailymirrorlk-02e17b01",
+    "date_str": "2026-09-18",
+    "description": "Probe ordered into burning of Kumbuk trees on Wilpattu border",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Probe-ordered-into-burning-of-Kumbuk-trees-on-Wilpattu-border/108-350579",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789711116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-4faa1806",
+    "num": "dailymirrorlk-4faa1806",
+    "date_str": "2026-09-18",
+    "description": "Sri Lanka\u2019s shoppers experience elevated through AI",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-shoppers-experience-elevated-through-AI/108-350582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789711390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailymirrorlk-589ed1d2",
+    "num": "dailymirrorlk-589ed1d2",
+    "date_str": "2026-09-18",
+    "description": "New wild cat species discovered - with only one known living member",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-wild-cat-species-discovered-with-only-one-known-living-member/108-350589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789712799.0
   }
 ]
