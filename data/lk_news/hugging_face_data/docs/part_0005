@@ -53729,6 +53729,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-e7556262",
+    "num": "adalk-e7556262",
+    "date_str": "2026-09-17",
+    "description": "\u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca \u0daf\u0dd2\u0db1\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0da7 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0dbb\u0db1\u0dca-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca-\u0daf\u0dd2\u0db1\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0da7-\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba-\u0da9\u0dba\u0dbd\u0ddc\u0d9c\u0dca/7-424236",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789623304.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-dailymirrorlk-2615a549",
     "num": "dailymirrorlk-2615a549",
     "date_str": "2026-09-17",
@@ -54070,6 +54081,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-17-adalk-94400091",
+    "num": "adalk-94400091",
+    "date_str": "2026-09-17",
+    "description": "\u0d9a\u0dbd\u0dd4 \u0db4\u0dcf\u0dbd\u0db8 \u0dc5\u0d9c\u0dd2\u0db1\u0dca \u0db1\u0dc0 \u0db4\u0dcf\u0dbd\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dbd\u0dd4-\u0db4\u0dcf\u0dbd\u0db8-\u0dc5\u0d9c\u0dd2\u0db1\u0dca-\u0db1\u0dc0-\u0db4\u0dcf\u0dbd\u0db8\u0d9a\u0dca/11-424245",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789644198.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-17-adalk-118ff7de",
     "num": "adalk-118ff7de",
     "date_str": "2026-09-17",
@@ -54235,6 +54257,50 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-9162d408",
+    "num": "dailyftlk-9162d408",
+    "date_str": "2026-09-18",
+    "description": "PM, new Chinese envoy discuss education, digital transformation push",
+    "url_metadata": "https://www.ft.lk/news/PM-new-Chinese-envoy-discuss-education-digital-transformation-push/56-797393",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789691465.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-ba550cf5",
+    "num": "dailyftlk-ba550cf5",
+    "date_str": "2026-09-18",
+    "description": "Senior SLPP member remanded over permit corruption charges",
+    "url_metadata": "https://www.ft.lk/news/Senior-SLPP-member-remanded-over-permit-corruption-charges/56-797394",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789691487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-594e6de0",
+    "num": "dailyftlk-594e6de0",
+    "date_str": "2026-09-18",
+    "description": "Court recalls warrants on Aravinda de Silva, wife",
+    "url_metadata": "https://www.ft.lk/news/Court-recalls-warrants-on-Aravinda-de-Silva-wife/56-797395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789691513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-fe68ea87",
+    "num": "dailyftlk-fe68ea87",
+    "date_str": "2026-09-18",
+    "description": "Ex-Navy Chief Karannagoda, Yoshitha Rajapaksa case fixed for pre-trial conference",
+    "url_metadata": "https://www.ft.lk/news/Ex-Navy-Chief-Karannagoda-Yoshitha-Rajapaksa-case-fixed-for-pre-trial-conference/56-797396",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789691637.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-18-dailyftlk-6087e871",
     "num": "dailyftlk-6087e871",
     "date_str": "2026-09-18",
@@ -54243,5 +54309,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1789691996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-705d4f5d",
+    "num": "dailyftlk-705d4f5d",
+    "date_str": "2026-09-18",
+    "description": "Oil market disruptions: Is formula-based pricing the solution?",
+    "url_metadata": "https://www.ft.lk/columns/Oil-market-disruptions-Is-formula-based-pricing-the-solution/4-797398",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789692286.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-66c3b603",
+    "num": "dailyftlk-66c3b603",
+    "date_str": "2026-09-18",
+    "description": "Sri Lanka can become an energy-security hub \u2014 if it stops thinking like a supply-chain endpoint",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-can-become-an-energy-security-hub-if-it-stops-thinking-like-a-supply-chain-endpoint/4-797399",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789692534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-ae64d829",
+    "num": "dailyftlk-ae64d829",
+    "date_str": "2026-09-18",
+    "description": "Beyond the dollar: BRICS and the architecture of the next global economy",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-dollar-BRICS-and-the-architecture-of-the-next-global-economy/4-797400",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789692942.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-088dda5f",
+    "num": "dailyftlk-088dda5f",
+    "date_str": "2026-09-18",
+    "description": "When farmers become poor and poor households turn to farming",
+    "url_metadata": "https://www.ft.lk/columns/When-farmers-become-poor-and-poor-households-turn-to-farming/4-797402",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789693431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-239380e1",
+    "num": "dailyftlk-239380e1",
+    "date_str": "2026-09-18",
+    "description": "Whither we?",
+    "url_metadata": "https://www.ft.lk/columns/Whither-we/4-797403",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789693878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-c34ff305",
+    "num": "dailyftlk-c34ff305",
+    "date_str": "2026-09-18",
+    "description": "COYLE leadership participates in G20 Young Entrepreneurs\u2019 Alliance 2026 in Vienna",
+    "url_metadata": "https://www.ft.lk/business/COYLE-leadership-participates-in-G20-Young-Entrepreneurs-Alliance-2026-in-Vienna/34-797404",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789694149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-56424df3",
+    "num": "dailyftlk-56424df3",
+    "date_str": "2026-09-18",
+    "description": "Vidullanka enters grid-scale energy storage with first of 13 BESS facilities",
+    "url_metadata": "https://www.ft.lk/business/Vidullanka-enters-grid-scale-energy-storage-with-first-of-13-BESS-facilities/34-797405",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789694193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-c17f3e9b",
+    "num": "dailyftlk-c17f3e9b",
+    "date_str": "2026-09-18",
+    "description": "Cabinet nod to host  SAARC Workshop on Renewable Energy Financial Modelling in Colombo",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-nod-to-host-SAARC-Workshop-on-Renewable-Energy-Financial-Modelling-in-Colombo/34-797406",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789694803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-1ed971e4",
+    "num": "dailyftlk-1ed971e4",
+    "date_str": "2026-09-18",
+    "description": "Cabinet green lights  39 hospital infrastructure projects for 2027 rollout",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-39-hospital-infrastructure-projects-for-2027-rollout/34-797407",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789694851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-e00db63d",
+    "num": "dailyftlk-e00db63d",
+    "date_str": "2026-09-18",
+    "description": "ITFC signs $ 1.5 b framework agreement with Maldives Govt.",
+    "url_metadata": "https://www.ft.lk/business/ITFC-signs-1-5-b-framework-agreement-with-Maldives-Govt/34-797408",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789694946.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-adalk-32a1cc5f",
+    "num": "adalk-32a1cc5f",
+    "date_str": "2026-09-18",
+    "description": "\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0d94\u0db4\u0dca\u0db4\u0dd4 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dc3\u0db8\u0dd3\u0db4 \u0d9a\u0dc5 \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0d87\u0dc3\u0dc5 \u0db4\u0dd9\u0dbb\u0dc4\u0dbb",
+    "url_metadata": "https://www.ada.lk/business/\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0d94\u0db4\u0dca\u0db4\u0dd4-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7-\u0dc3\u0db8\u0dd3\u0db4-\u0d9a\u0dc5-\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb-\u0d87\u0dc3\u0dc5-\u0db4\u0dd9\u0dbb\u0dc4\u0dbb/7-424252",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789695065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-18-dailyftlk-4f7823db",
+    "num": "dailyftlk-4f7823db",
+    "date_str": "2026-09-18",
+    "description": "WIM puts talent, workplaces and women-led enterprise at heart of global competitiveness",
+    "url_metadata": "https://www.ft.lk/business/WIM-puts-talent-workplaces-and-women-led-enterprise-at-heart-of-global-competitiveness/34-797409",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1789695098.0
   }
 ]
