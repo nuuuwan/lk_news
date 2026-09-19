@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-19 18:03:46",
-  "n_docs": 131007,
+  "time_updated": "2026-09-19 19:55:02",
+  "n_docs": 131021,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131007,
+  "n_docs_with_text": 131021,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-19",
-  "dataset_size": 2036386861,
+  "dataset_size": 2036449552,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-7ce5aed4",
-    "num": "dailymirrorlk-7ce5aed4",
+    "doc_id": "2026-09-19-dailymirrorlk-ad9a3b71",
+    "num": "dailymirrorlk-ad9a3b71",
     "date_str": "2026-09-19",
-    "description": "Rs. 60m for each district under road safety programme",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-60m-for-each-district-under-road-safety-programme/108-350701",
+    "description": "Legal action over destruction of 110 trees in Wilpattu buffer zone",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Legal-action-over-destruction-of-110-trees-in-Wilpattu-buffer-zone/108-350709",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789818199.0
+    "time_ut": 1789827246.0
   }
 }
