@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--19_14:00:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--19_15:57:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,004** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-833b2a66",
-    "num": "dailymirrorlk-833b2a66",
+    "doc_id": "2026-09-19-dailymirrorlk-5268a949",
+    "num": "dailymirrorlk-5268a949",
     "date_str": "2026-09-19",
-    "description": "Two arrested within an hour over armed robbery at Trincomalee liquor store",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-within-an-hour-over-armed-robbery-at-Trincomalee-liquor-store/108-350696",
+    "description": "Political and public service cooperation can speed up development: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Political-and-public-service-cooperation-can-speed-up-development-PM/108-350699",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789805977.0
+    "time_ut": 1789810506.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-19 | `dailymirrorlk-5268a949` | Political and public service cooperation can speed up development: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-5268a949)
+- 2026-09-19 | `dailymirrorlk-e076e3b8` | Rs. 1.5bn allocated to make dangerous roads safer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-e076e3b8)
 - 2026-09-19 | `dailymirrorlk-833b2a66` | Two arrested within an hour over armed robbery at Trincomalee liquor store | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-833b2a66)
 - 2026-09-19 | `dailymirrorlk-d388b635` | Hotel employee opens fire with air rifle during Kegalle party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-d388b635)
 - 2026-09-19 | `dailymirrorlk-45e35a83` | SJB Calls for Stronger Protest Against 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-45e35a83)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-19 | `dailymirrorlk-1cf9404b` | Sri Lanka pitches wellness, wildlife tourism to Middle Eastern market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-1cf9404b)
 - 2026-09-19 | `dailymirrorlk-9e5d75b0` | Tea auction sees broader demand despite exporter pressures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-9e5d75b0)
 - 2026-09-19 | `dailymirrorlk-8577a23d` | Sri Lanka can leapfrog into agentic AI era: Salesforce South Asia CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-8577a23d)
-- 2026-09-19 | `dailymirrorlk-e85bb3e2` | World Bank Group mobilises record private capital for developing countries, driving job creation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-e85bb3e2)
-- 2026-09-19 | `dailymirrorlk-cb8e9a3a` | Yields dip on back of modest buying | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-cb8e9a3a)
 
 ---
 

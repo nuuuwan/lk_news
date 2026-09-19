@@ -55640,5 +55640,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789805977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-e076e3b8",
+    "num": "dailymirrorlk-e076e3b8",
+    "date_str": "2026-09-19",
+    "description": "Rs. 1.5bn allocated to make dangerous roads safer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-1-5bn-allocated-to-make-dangerous-roads-safer/108-350698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789807017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-5268a949",
+    "num": "dailymirrorlk-5268a949",
+    "date_str": "2026-09-19",
+    "description": "Political and public service cooperation can speed up development: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Political-and-public-service-cooperation-can-speed-up-development-PM/108-350699",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789810506.0
   }
 ]
