@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-19 21:59:13",
-  "n_docs": 131026,
+  "time_updated": "2026-09-19 23:58:11",
+  "n_docs": 131027,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131026,
+  "n_docs_with_text": 131027,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-19",
-  "dataset_size": 2036567162,
+  "dataset_size": 2036604574,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-cf4c80fb",
-    "num": "dailymirrorlk-cf4c80fb",
+    "doc_id": "2026-09-19-dailymirrorlk-c6665650",
+    "num": "dailymirrorlk-c6665650",
     "date_str": "2026-09-19",
-    "description": "UN allows Palestinian president to again speak via video after US denies visa",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-allows-Palestinian-president-to-again-speak-via-video-after-US-denies-visa/108-350712",
+    "description": "England sweep Sri Lanka 3-0 to reclaim No. 1 T20I ranking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-sweep-Sri-Lanka-3-0-to-reclaim-No-1-T20I-ranking/108-350713",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789832066.0
+    "time_ut": 1789836737.0
   }
 }
