@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-19 19:55:02",
-  "n_docs": 131021,
+  "time_updated": "2026-09-19 21:59:13",
+  "n_docs": 131026,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131021,
+  "n_docs_with_text": 131026,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-19",
-  "dataset_size": 2036449552,
+  "dataset_size": 2036567162,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-ad9a3b71",
-    "num": "dailymirrorlk-ad9a3b71",
+    "doc_id": "2026-09-19-dailymirrorlk-cf4c80fb",
+    "num": "dailymirrorlk-cf4c80fb",
     "date_str": "2026-09-19",
-    "description": "Legal action over destruction of 110 trees in Wilpattu buffer zone",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Legal-action-over-destruction-of-110-trees-in-Wilpattu-buffer-zone/108-350709",
+    "description": "UN allows Palestinian president to again speak via video after US denies visa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-allows-Palestinian-president-to-again-speak-via-video-after-US-denies-visa/108-350712",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789827246.0
+    "time_ut": 1789832066.0
   }
 }
