@@ -55233,5 +55233,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789782357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-a6bbd72a",
+    "num": "dailymirrorlk-a6bbd72a",
+    "date_str": "2026-09-19",
+    "description": "INTERPOL notice issued for Basil Rajapaksa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/INTERPOL-notice-issued-for-Basil-Rajapaksa/108-350645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789787258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-7b189db6",
+    "num": "dailymirrorlk-7b189db6",
+    "date_str": "2026-09-19",
+    "description": "Heavy rainfall recorded, river levels normal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rainfall-recorded-river-levels-normal/108-350646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789787513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-b19f3ae5",
+    "num": "dailymirrorlk-b19f3ae5",
+    "date_str": "2026-09-19",
+    "description": "Sri Lanka pushes passive cooling to cut A/C dependence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-pushes-passive-cooling-to-cut-AC-dependence/108-350653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789789414.0
   }
 ]

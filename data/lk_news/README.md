@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--19_08:01:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--19_09:59:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**130,965** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**130,968** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-de99cd8e",
-    "num": "dailymirrorlk-de99cd8e",
+    "doc_id": "2026-09-19-dailymirrorlk-b19f3ae5",
+    "num": "dailymirrorlk-b19f3ae5",
     "date_str": "2026-09-19",
-    "description": "Sri Lanka clash headlines big sports day",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-clash-headlines-big-sports-day/108-350644",
+    "description": "Sri Lanka pushes passive cooling to cut A/C dependence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-pushes-passive-cooling-to-cut-AC-dependence/108-350653",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789782357.0
+    "time_ut": 1789789414.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-19 | `dailymirrorlk-b19f3ae5` | Sri Lanka pushes passive cooling to cut A/C dependence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-b19f3ae5)
+- 2026-09-19 | `dailymirrorlk-7b189db6` | Heavy rainfall recorded, river levels normal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-7b189db6)
+- 2026-09-19 | `dailymirrorlk-a6bbd72a` | INTERPOL notice issued for Basil Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-a6bbd72a)
 - 2026-09-19 | `dailymirrorlk-de99cd8e` | Sri Lanka clash headlines big sports day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-de99cd8e)
 - 2026-09-18 | `dailymirrorlk-4414afdd` | Foreign diplomats begin three-day tourism study Tour of Eastern Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-4414afdd)
 - 2026-09-18 | `dailymirrorlk-70dcc25c` | Rail strike ends tonight amid Rs.60m loss; unions warn of fresh action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-70dcc25c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-18 | `adalk-e4a37433` | හෙට සිට වැසි වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-adalk-e4a37433)
 - 2026-09-18 | `dailymirrorlk-b1ea1580` | Anuradhapura battery storage system connected to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-b1ea1580)
 - 2026-09-18 | `adalk-582fbc83` | දිත්වාගෙන් පසු දුම්රියේ දෛනික ආදායම රු.මි. 780කින් පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-adalk-582fbc83)
-- 2026-09-18 | `dailymirrorlk-a11fc449` | Parliamentary committee to summon local authorities over Ditwah response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-a11fc449)
-- 2026-09-18 | `dailymirrorlk-33048244` | Sri Lanka, India storm into Asian Games Semi-Finals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-33048244)
-- 2026-09-18 | `dailymirrorlk-ce8b6f9f` | Firms risk penalties over ownership disclosure failures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-18-dailymirrorlk-ce8b6f9f)
 
 ---
 
