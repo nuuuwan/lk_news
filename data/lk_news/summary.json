@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-19 12:04:01",
-  "n_docs": 130973,
+  "time_updated": "2026-09-19 13:59:25",
+  "n_docs": 131002,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 130973,
+  "n_docs_with_text": 131002,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-19",
-  "dataset_size": 2035962763,
+  "dataset_size": 2036115991,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-19-dailymirrorlk-b29b2676",
-    "num": "dailymirrorlk-b29b2676",
+    "doc_id": "2026-09-19-dailymirrorlk-833b2a66",
+    "num": "dailymirrorlk-833b2a66",
     "date_str": "2026-09-19",
-    "description": "Rainfall expected to increase in southwestern areas",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainfall-expected-to-increase-in-southwestern-areas/108-350677",
+    "description": "Two arrested within an hour over armed robbery at Trincomalee liquor store",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-within-an-hour-over-armed-robbery-at-Trincomalee-liquor-store/108-350696",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789799229.0
+    "time_ut": 1789805977.0
   }
 }

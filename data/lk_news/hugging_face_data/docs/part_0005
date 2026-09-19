@@ -55269,6 +55269,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-260d8327",
+    "num": "dailymirrorlk-260d8327",
+    "date_str": "2026-09-19",
+    "description": "University of West London celebrates graduates in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/University-of-West-London-celebrates-graduates-in-Sri-Lanka/273-350647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789787817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-e856a0e4",
+    "num": "dailymirrorlk-e856a0e4",
+    "date_str": "2026-09-19",
+    "description": "Belihuloya Rest House reopens as EKHO Belihuloya",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Belihuloya-Rest-House-reopens-as-EKHO-Belihuloya/273-350648",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789787899.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-1e7819aa",
+    "num": "dailymirrorlk-1e7819aa",
+    "date_str": "2026-09-19",
+    "description": "Ma Fiert\u00e9 partners Isle of Rataa  to introduce \u2018Duality\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ma-Fiert\u00e9-partners-Isle-of-Rataa-to-introduce-Duality/273-350649",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789788035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-3e5d2bce",
+    "num": "dailymirrorlk-3e5d2bce",
+    "date_str": "2026-09-19",
+    "description": "Christell shines a spotlight on longevity",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Christell-shines-a-spotlight-on-longevity/273-350650",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789788156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-150b4348",
+    "num": "dailymirrorlk-150b4348",
+    "date_str": "2026-09-19",
+    "description": "Jetour Owners\u2019 Club  Sri Lanka officially launched with drive fest",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Jetour-Owners-Club-Sri-Lanka-officially-launched-with-drive-fest/273-350651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789788237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-2f46ff51",
+    "num": "dailymirrorlk-2f46ff51",
+    "date_str": "2026-09-19",
+    "description": "New Zealand and Sri Lanka explore new education partnerships to build skilled workforce",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-Zealand-and-Sri-Lanka-explore-new-education-partnerships-to-build-skilled-workforce/273-350652",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789789398.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-19-dailymirrorlk-b19f3ae5",
     "num": "dailymirrorlk-b19f3ae5",
     "date_str": "2026-09-19",
@@ -55277,6 +55343,182 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789789414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-08d23c51",
+    "num": "dailymirrorlk-08d23c51",
+    "date_str": "2026-09-19",
+    "description": "HelpAge Sri Lanka-OrphanCare provide caregiver training",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HelpAge-Sri-Lanka-OrphanCare-provide-caregiver-training/273-350654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789789974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-3690af6c",
+    "num": "dailymirrorlk-3690af6c",
+    "date_str": "2026-09-19",
+    "description": "DFCC Aloka inspires future leaders",
+    "url_metadata": "https://www.dailymirror.lk/business-news/DFCC-Aloka-inspires-future-leaders/273-350655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789790174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-c8e2d81b",
+    "num": "dailymirrorlk-c8e2d81b",
+    "date_str": "2026-09-19",
+    "description": "AOD launches Young Creatives Programme for students with special needs",
+    "url_metadata": "https://www.dailymirror.lk/business-news/AOD-launches-Young-Creatives-Programme-for-students-with-special-needs/273-350656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789790649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-cbc690be",
+    "num": "dailymirrorlk-cbc690be",
+    "date_str": "2026-09-19",
+    "description": "Beverlee Holdings redefines property development in Thalahena",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Beverlee-Holdings-redefines-property-development-in-Thalahena/273-350657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789790757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-cdc74d93",
+    "num": "dailymirrorlk-cdc74d93",
+    "date_str": "2026-09-19",
+    "description": "Colombo Serendib Round Table 2 celebrates 30 years",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Colombo-Serendib-Round-Table-2-celebrates-30-years/273-350658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789791026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-1084450a",
+    "num": "dailymirrorlk-1084450a",
+    "date_str": "2026-09-19",
+    "description": "Vidullanka enters grid-scale energy storage with 1st of 13 BESS facilities",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vidullanka-enters-grid-scale-energy-storage-with-1st-of-13-BESS-facilities/273-350659",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789791125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-dd76ffb4",
+    "num": "dailymirrorlk-dd76ffb4",
+    "date_str": "2026-09-19",
+    "description": "Week ends in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-green/273-350660",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789791290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-cb8e9a3a",
+    "num": "dailymirrorlk-cb8e9a3a",
+    "date_str": "2026-09-19",
+    "description": "Yields dip on back of modest buying",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yields-dip-on-back-of-modest-buying/273-350661",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-e85bb3e2",
+    "num": "dailymirrorlk-e85bb3e2",
+    "date_str": "2026-09-19",
+    "description": "World Bank Group mobilises record private capital for developing countries, driving job creation",
+    "url_metadata": "https://www.dailymirror.lk/business-news/World-Bank-Group-mobilises-record-private-capital-for-developing-countries-driving-job-creation/273-350662",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794295.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-8577a23d",
+    "num": "dailymirrorlk-8577a23d",
+    "date_str": "2026-09-19",
+    "description": "Sri Lanka can leapfrog into agentic AI era: Salesforce South Asia CEO",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-can-leapfrog-into-agentic-AI-era-Salesforce-South-Asia-CEO/273-350663",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-9e5d75b0",
+    "num": "dailymirrorlk-9e5d75b0",
+    "date_str": "2026-09-19",
+    "description": "Tea auction sees broader demand despite exporter pressures",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tea-auction-sees-broader-demand-despite-exporter-pressures/273-350664",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-1cf9404b",
+    "num": "dailymirrorlk-1cf9404b",
+    "date_str": "2026-09-19",
+    "description": "Sri Lanka pitches wellness, wildlife tourism to Middle Eastern market",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-pitches-wellness-wildlife-tourism-to-Middle-Eastern-market/273-350665",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794802.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-d9d7c225",
+    "num": "dailymirrorlk-d9d7c225",
+    "date_str": "2026-09-19",
+    "description": "Sri Lanka connects first grid-scale battery storage facility",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Sri-Lanka-connects-first-grid-scale-battery-storage-facility/245-350666",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789794944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-7356f5ae",
+    "num": "dailymirrorlk-7356f5ae",
+    "date_str": "2026-09-19",
+    "description": "Prosecuting a social activist for stating what WHO said?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Prosecuting-a-social-activist-for-stating-what-WHO-said/172-350667",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789796107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-b14e7380",
+    "num": "dailymirrorlk-b14e7380",
+    "date_str": "2026-09-19",
+    "description": "Cricket lies dying as politics and cash rule the roost",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Cricket-lies-dying-as-politics-and-cash-rule-the-roost/172-350668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789796185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-408665de",
+    "num": "dailymirrorlk-408665de",
+    "date_str": "2026-09-19",
+    "description": "Houthis at wailing gate:  Iran war\u2019s turning point",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Houthis-at-wailing-gate-Iran-wars-turning-point/172-350669",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789796422.0
   },
   {
     "doc_type": "lk_news",
@@ -55302,6 +55544,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-6e6b7040",
+    "num": "dailymirrorlk-6e6b7040",
+    "date_str": "2026-09-19",
+    "description": "Robert Knox: Chronicler par excellence",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Robert-Knox-Chronicler-par-excellence/172-350673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789798061.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-19-adalk-349d1e8a",
     "num": "adalk-349d1e8a",
     "date_str": "2026-09-19",
@@ -55313,6 +55566,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-f0cbd531",
+    "num": "dailymirrorlk-f0cbd531",
+    "date_str": "2026-09-19",
+    "description": "Climate change, food security and need for  communication",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Climate-change-food-security-and-need-for-communication/172-350674",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789798509.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-19-dailymirrorlk-b29b2676",
     "num": "dailymirrorlk-b29b2676",
     "date_str": "2026-09-19",
@@ -55321,5 +55585,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789799229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-e981ad8e",
+    "num": "dailymirrorlk-e981ad8e",
+    "date_str": "2026-09-19",
+    "description": "Google\u2019s Gemini AI hacked three companies in security test",
+    "url_metadata": "https://www.dailymirror.lk/international/Googles-Gemini-AI-hacked-three-companies-in-security-test/107-350679",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789799479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-4c64f6ac",
+    "num": "dailymirrorlk-4c64f6ac",
+    "date_str": "2026-09-19",
+    "description": "Trump announces \u2018permanent\u2019 US security control over Greenland",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-announces-permanent-US-security-control-over-Greenland/107-350680",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789799919.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-45e35a83",
+    "num": "dailymirrorlk-45e35a83",
+    "date_str": "2026-09-19",
+    "description": "SJB Calls for Stronger Protest Against 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-Calls-for-Stronger-Protest-Against-22A/108-350688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789803510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-d388b635",
+    "num": "dailymirrorlk-d388b635",
+    "date_str": "2026-09-19",
+    "description": "Hotel employee opens fire with air rifle during Kegalle party",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hotel-employee-opens-fire-with-air-rifle-during-Kegalle-party/108-350695",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789805502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-833b2a66",
+    "num": "dailymirrorlk-833b2a66",
+    "date_str": "2026-09-19",
+    "description": "Two arrested within an hour over armed robbery at Trincomalee liquor store",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-within-an-hour-over-armed-robbery-at-Trincomalee-liquor-store/108-350696",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789805977.0
   }
 ]
