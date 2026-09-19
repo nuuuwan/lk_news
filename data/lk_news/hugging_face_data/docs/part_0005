@@ -55222,5 +55222,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789745398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-19-dailymirrorlk-de99cd8e",
+    "num": "dailymirrorlk-de99cd8e",
+    "date_str": "2026-09-19",
+    "description": "Sri Lanka clash headlines big sports day",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-clash-headlines-big-sports-day/108-350644",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789782357.0
   }
 ]
