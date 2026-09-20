@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-20 12:05:00",
-  "n_docs": 131041,
+  "time_updated": "2026-09-20 14:01:16",
+  "n_docs": 131050,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131041,
+  "n_docs_with_text": 131050,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-20",
-  "dataset_size": 2036684358,
+  "dataset_size": 2036752686,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-20-dailymirrorlk-e024c7e0",
-    "num": "dailymirrorlk-e024c7e0",
+    "doc_id": "2026-09-20-dailymirrorlk-fece3be5",
+    "num": "dailymirrorlk-fece3be5",
     "date_str": "2026-09-20",
-    "description": "Anuradhapura launches week-long rabies prevention drive",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anuradhapura-launches-week-long-rabies-prevention-drive/108-350723",
+    "description": "104 violations detected in islandwide raids on lunch sheets, \u2018Sili-Sili\u2019 bags",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/104-violations-detected-in-islandwide-raids-on-lunch-sheets-Sili-Sili-bags/108-350730",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789885614.0
+    "time_ut": 1789892160.0
   }
 }

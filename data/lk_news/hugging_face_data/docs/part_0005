@@ -56050,6 +56050,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-20-adalk-0240464e",
+    "num": "adalk-0240464e",
+    "date_str": "2026-09-20",
+    "description": "\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dba\u0dda \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca 20\u0d9a\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0dc4\u0dbd\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dba\u0dda-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca-20\u0d9a\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0dc4\u0dbd\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424281",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789885310.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-20-dailymirrorlk-6037a460",
     "num": "dailymirrorlk-6037a460",
     "date_str": "2026-09-20",
@@ -56069,5 +56080,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789885614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-adalk-ef86ac15",
+    "num": "adalk-ef86ac15",
+    "date_str": "2026-09-20",
+    "description": "\u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2\u0dba \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0d9c\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2\u0dba-\u0db4\u0dd2\u0da7\u0dcf\u0dbb-\u0d9c\u0dbd\u0dba\u0dd2/11-424282",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789885705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-f61b3e77",
+    "num": "dailymirrorlk-f61b3e77",
+    "date_str": "2026-09-20",
+    "description": "Lightning warning issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lightning-warning-issued-for-several-areas/108-350724",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789885712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-ea9f880d",
+    "num": "dailymirrorlk-ea9f880d",
+    "date_str": "2026-09-20",
+    "description": "Sri Lankan model wins third place at Top Model of Universe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-model-wins-third-place-at-Top-Model-of-Universe/108-350726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789886120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-fb40edda",
+    "num": "dailymirrorlk-fb40edda",
+    "date_str": "2026-09-20",
+    "description": "Mahaweli River water levels rise; Kandy areas warned of possible floods",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahaweli-River-water-levels-rise-Kandy-areas-warned-of-possible-floods/108-350727",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789886461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-e0300006",
+    "num": "dailymirrorlk-e0300006",
+    "date_str": "2026-09-20",
+    "description": "Iran lays out seven conditions for US talks, says \u2019Washington must agree first\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-lays-out-seven-conditions-for-US-talks-says-Washington-must-agree-first/108-350728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789887953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-adalk-7a43a1b6",
+    "num": "adalk-7a43a1b6",
+    "date_str": "2026-09-20",
+    "description": "\u0db4\u0dc3\u0dca\u0db6\u0dcf\u0d9c\u0dda \u0d9a\u0ddd\u0dbb\u0dc5\u0dba\u0da7 \u0db8\u0dc4 \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc3\u0dca\u0db6\u0dcf\u0d9c\u0dda-\u0d9a\u0ddd\u0dbb\u0dc5\u0dba\u0da7-\u0db8\u0dc4-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca/11-424283",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789888018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-1dad1c0b",
+    "num": "dailymirrorlk-1dad1c0b",
+    "date_str": "2026-09-20",
+    "description": "Landslide blocks Hatton-Bagawantalawa Road",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-blocks-Hatton-Bagawantalawa-Road/108-350729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789892039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-fece3be5",
+    "num": "dailymirrorlk-fece3be5",
+    "date_str": "2026-09-20",
+    "description": "104 violations detected in islandwide raids on lunch sheets, \u2018Sili-Sili\u2019 bags",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/104-violations-detected-in-islandwide-raids-on-lunch-sheets-Sili-Sili-bags/108-350730",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789892160.0
   }
 ]
