@@ -56300,5 +56300,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789913207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-35832573",
+    "num": "dailymirrorlk-35832573",
+    "date_str": "2026-09-20",
+    "description": "Principals to decide on school openings tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Principals-to-decide-on-school-openings-tomorrow/108-350740",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789916459.0
   }
 ]

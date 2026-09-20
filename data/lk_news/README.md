@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_19:55:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_21:57:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,062** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,063** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-20-dailymirrorlk-ba4d70be",
-    "num": "dailymirrorlk-ba4d70be",
+    "doc_id": "2026-09-20-dailymirrorlk-35832573",
+    "num": "dailymirrorlk-35832573",
     "date_str": "2026-09-20",
-    "description": "US military says four killed in strike on suspected drug-trafficking boat in Caribbean",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-Caribbean/108-350739",
+    "description": "Principals to decide on school openings tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Principals-to-decide-on-school-openings-tomorrow/108-350740",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789913207.0
+    "time_ut": 1789916459.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-20 | `dailymirrorlk-35832573` | Principals to decide on school openings tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-35832573)
 - 2026-09-20 | `dailymirrorlk-ba4d70be` | US military says four killed in strike on suspected drug-trafficking boat in Caribbean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-ba4d70be)
 - 2026-09-20 | `dailymirrorlk-b329db57` | Sri Lanka seeks stronger China-South Asia Ocean cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-b329db57)
 - 2026-09-20 | `dailymirrorlk-e7ddfab7` | Fuel price revision may be considered at month-end: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-e7ddfab7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-20 | `dailymirrorlk-fb40edda` | Mahaweli River water levels rise; Kandy areas warned of possible floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-fb40edda)
 - 2026-09-20 | `dailymirrorlk-ea9f880d` | Sri Lankan model wins third place at Top Model of Universe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-ea9f880d)
 - 2026-09-20 | `dailymirrorlk-f61b3e77` | Lightning warning issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-f61b3e77)
-- 2026-09-20 | `adalk-ef86ac15` | මහවැලිය පිටාර ගලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-adalk-ef86ac15)
 
 ---
 
