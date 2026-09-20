@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_08:01:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_09:58:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,028** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,034** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-20-dailymirrorlk-f229fcfa",
-    "num": "dailymirrorlk-f229fcfa",
+    "doc_id": "2026-09-20-dailymirrorlk-5fd9f9fa",
+    "num": "dailymirrorlk-5fd9f9fa",
     "date_str": "2026-09-20",
-    "description": "Heavy rains exceeding 100 mm forecast in several areas",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-exceeding-100-mm-forecast-in-several-areas/108-350714",
+    "description": "Flood warning issued for low-lying areas along Mahaweli River",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warning-issued-for-low-lying-areas-along-Mahaweli-River/108-350717",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789870745.0
+    "time_ut": 1789877716.0
 }
 ```
 
@@ -41,10 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-20 | `dailymirrorlk-5fd9f9fa` | Flood warning issued for low-lying areas along Mahaweli River | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-5fd9f9fa)
+- 2026-09-20 | `dailymirrorlk-86198000` | 80.6% of device use via smartphones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-86198000)
+- 2026-09-20 | `dailymirrorlk-87e42614` | Landslide warnings issued for six districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-87e42614)
+- 2026-09-20 | `adalk-6d37847b` | තායිලන්තයෙන් කාන්තාවන් හරහා මත්ද්‍රව්‍ය ලංකාවට ගෙන එන ජාවාරමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-adalk-6d37847b)
+- 2026-09-20 | `adalk-5b3df6d2` | ප්‍රා ලේ කොට්ඨාස 9ට නාය යෑමේ අනතුරු ඇඟවීම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-adalk-5b3df6d2)
 - 2026-09-20 | `dailymirrorlk-f229fcfa` | Heavy rains exceeding 100 mm forecast in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-20-dailymirrorlk-f229fcfa)
 - 2026-09-19 | `dailymirrorlk-c6665650` | England sweep Sri Lanka 3-0 to reclaim No. 1 T20I ranking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-c6665650)
 - 2026-09-19 | `dailymirrorlk-cf4c80fb` | UN allows Palestinian president to again speak via video after US denies visa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-cf4c80fb)
 - 2026-09-19 | `dailymirrorlk-d6b93ff4` | Trump bans CNN, MSNBC and Politico from White House over ‘fake news’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-d6b93ff4)
+- 2026-09-19 | `adalk-79163ff1` | තරුණයෙක් හා තරුණියන් තිදෙනෙක් දියේ ගලි මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-adalk-79163ff1)
 - 2026-09-19 | `dailymirrorlk-95fe5d73` | New WhatsApp number for vehicle-related complaints | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-95fe5d73)
 - 2026-09-19 | `adalk-e986eaaf` | සී.එන්.එන්. ඇතුළු මාධ්‍ය ආයතන තුනකට ට්‍රම්ප්ගෙන් තහනමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-adalk-e986eaaf)
 - 2026-09-19 | `dailymirrorlk-ad9a3b71` | Legal action over destruction of 110 trees in Wilpattu buffer zone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-ad9a3b71)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-19 | `dailymirrorlk-72b60e25` | Ranil unveils programme for Sri Lanka’s future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-72b60e25)
 - 2026-09-19 | `dailymirrorlk-53cfd5b4` | CAA clarifies medical test prices circulating on social media | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-53cfd5b4)
 - 2026-09-19 | `adalk-8a493750` | නීතිය සැමදෙනාටම එකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-adalk-8a493750)
-- 2026-09-19 | `dailymirrorlk-7ce5aed4` | Rs. 60m for each district under road safety programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-7ce5aed4)
-- 2026-09-19 | `dailymirrorlk-6f59ab6f` | Four missing after entering Ma Oya in Badalgama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-6f59ab6f)
-- 2026-09-19 | `dailymirrorlk-5268a949` | Political and public service cooperation can speed up development: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-5268a949)
-- 2026-09-19 | `dailymirrorlk-e076e3b8` | Rs. 1.5bn allocated to make dangerous roads safer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-e076e3b8)
-- 2026-09-19 | `dailymirrorlk-833b2a66` | Two arrested within an hour over armed robbery at Trincomalee liquor store | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-833b2a66)
-- 2026-09-19 | `dailymirrorlk-d388b635` | Hotel employee opens fire with air rifle during Kegalle party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-19-dailymirrorlk-d388b635)
 
 ---
 

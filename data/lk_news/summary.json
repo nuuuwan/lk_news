@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-20 08:00:09",
-  "n_docs": 131028,
+  "time_updated": "2026-09-20 09:57:25",
+  "n_docs": 131034,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131028,
+  "n_docs_with_text": 131034,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-20",
-  "dataset_size": 2036612090,
+  "dataset_size": 2036629641,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-20-dailymirrorlk-f229fcfa",
-    "num": "dailymirrorlk-f229fcfa",
+    "doc_id": "2026-09-20-dailymirrorlk-5fd9f9fa",
+    "num": "dailymirrorlk-5fd9f9fa",
     "date_str": "2026-09-20",
-    "description": "Heavy rains exceeding 100 mm forecast in several areas",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-exceeding-100-mm-forecast-in-several-areas/108-350714",
+    "description": "Flood warning issued for low-lying areas along Mahaweli River",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warning-issued-for-low-lying-areas-along-Mahaweli-River/108-350717",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789870745.0
+    "time_ut": 1789877716.0
   }
 }
