@@ -56212,5 +56212,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789897120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-3b88e4b5",
+    "num": "dailymirrorlk-3b88e4b5",
+    "date_str": "2026-09-20",
+    "description": "A blessing from the skies",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/A-blessing-from-the-skies/110-350733",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789900630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-2763a229",
+    "num": "dailymirrorlk-2763a229",
+    "date_str": "2026-09-20",
+    "description": "Heavy rain forecast for next 36 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-forecast-for-next-36-hours/108-350734",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789901113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-84fc65d4",
+    "num": "dailymirrorlk-84fc65d4",
+    "date_str": "2026-09-20",
+    "description": "Two killed in \u2019massive\u2019 Ukrainian drone attack on Moscow region, Russia says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-killed-in-massive-Ukrainian-drone-attack-on-Moscow-region-Russia-says/108-350735",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789901662.0
   }
 ]
