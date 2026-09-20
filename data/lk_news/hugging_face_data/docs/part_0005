@@ -55915,5 +55915,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789836737.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-f229fcfa",
+    "num": "dailymirrorlk-f229fcfa",
+    "date_str": "2026-09-20",
+    "description": "Heavy rains exceeding 100 mm forecast in several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-exceeding-100-mm-forecast-in-several-areas/108-350714",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789870745.0
   }
 ]
