@@ -56215,6 +56215,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-20-adalk-f60bf94d",
+    "num": "adalk-f60bf94d",
+    "date_str": "2026-09-20",
+    "description": "\u0d89\u0dc4\u0dc5 \u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dda \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0ddc\u0dbb\u0da7\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dc4\u0dc5-\u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dda-\u0dc0\u0dcf\u0db1\u0dca-\u0daf\u0ddc\u0dbb\u0da7\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424287",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789897617.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-20-dailymirrorlk-3b88e4b5",
     "num": "dailymirrorlk-3b88e4b5",
     "date_str": "2026-09-20",
@@ -56245,5 +56256,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789901662.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-c409d3b2",
+    "num": "dailymirrorlk-c409d3b2",
+    "date_str": "2026-09-20",
+    "description": "Fuel prices may rise from Oct. 1; Govt. plans subsidy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-may-rise-from-Oct-1-Govt-plans-subsidy/108-350736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789907312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-e7ddfab7",
+    "num": "dailymirrorlk-e7ddfab7",
+    "date_str": "2026-09-20",
+    "description": "Fuel price revision may be considered at month-end: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-price-revision-may-be-considered-at-month-end-Minister/108-350737",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789907732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-b329db57",
+    "num": "dailymirrorlk-b329db57",
+    "date_str": "2026-09-20",
+    "description": "Sri Lanka seeks stronger China-South Asia Ocean cooperation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-stronger-China-South-Asia-Ocean-cooperation/108-350738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789912145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-20-dailymirrorlk-ba4d70be",
+    "num": "dailymirrorlk-ba4d70be",
+    "date_str": "2026-09-20",
+    "description": "US military says four killed in strike on suspected drug-trafficking boat in Caribbean",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-Caribbean/108-350739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789913207.0
   }
 ]
