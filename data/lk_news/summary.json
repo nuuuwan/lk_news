@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-21 12:13:54",
-  "n_docs": 131087,
+  "time_updated": "2026-09-21 14:07:47",
+  "n_docs": 131118,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131087,
+  "n_docs_with_text": 131118,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-21",
-  "dataset_size": 2036649887,
+  "dataset_size": 2036825208,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-3db25081",
-    "num": "dailymirrorlk-3db25081",
+    "doc_id": "2026-09-21-dailymirrorlk-20d3c7d0",
+    "num": "dailymirrorlk-20d3c7d0",
     "date_str": "2026-09-21",
-    "description": "Supreme Court rules transit passengers subject to Customs jurisdiction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-transit-passengers-subject-to-Customs-jurisdiction/108-350794",
+    "description": "China\u2019s Xi to visit the US from September 23-25",
+    "url_metadata": "https://www.dailymirror.lk/international/Chinas-Xi-to-visit-the-US-from-September-23-25/107-350805",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789972177.0
+    "time_ut": 1789978559.0
   }
 }
