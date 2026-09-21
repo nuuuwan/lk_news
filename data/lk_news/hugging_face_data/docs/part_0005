@@ -56344,5 +56344,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1789954712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-adalk-3be09307",
+    "num": "adalk-3be09307",
+    "date_str": "2026-09-21",
+    "description": "\u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0dbd \u0da2\u0dbd \u0db8\u0da7\u0dca\u0da7\u0db8\u0dca \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0dbd-\u0da2\u0dbd-\u0db8\u0da7\u0dca\u0da7\u0db8\u0dca-\u0d9c\u0dd0\u0db1-\u0db1\u0dc0\u0dad\u0db8-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba/11-424291",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789955771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-adalk-10b62543",
+    "num": "adalk-10b62543",
+    "date_str": "2026-09-21",
+    "description": "\u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd3\u0da7\u0dbb\u0dca 100\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dbd\u0dd2-\u0db8\u0dd3\u0da7\u0dbb\u0dca-100\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/11-424292",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789957804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-dfe1bd7d",
+    "num": "dailymirrorlk-dfe1bd7d",
+    "date_str": "2026-09-21",
+    "description": "Southern Expressway bus crash injures over 10",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Southern-Expressway-bus-crash-injures-over-10/108-350765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789959640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-1e6d50f8",
+    "num": "dailymirrorlk-1e6d50f8",
+    "date_str": "2026-09-21",
+    "description": "Gnanasara Thera seeks fresh pardon from President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-seeks-fresh-pardon-from-President/108-350766",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789960411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-4453bb88",
+    "num": "dailymirrorlk-4453bb88",
+    "date_str": "2026-09-21",
+    "description": "Sister of Pakistan\u2019s ex-PM Imran Khan arrested",
+    "url_metadata": "https://www.dailymirror.lk/international/Sister-of-Pakistans-ex-PM-Imran-Khan-arrested/107-350767",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789962718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-ad5d0f95",
+    "num": "dailymirrorlk-ad5d0f95",
+    "date_str": "2026-09-21",
+    "description": "Only one in five Sri Lankan households owns a computer: Census Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Only-one-in-five-Sri-Lankan-households-owns-a-computer-Census-Dept/108-350768",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789963357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-eb9d87c8",
+    "num": "dailymirrorlk-eb9d87c8",
+    "date_str": "2026-09-21",
+    "description": "Cyclone Ditwah causes over Rs. 2.27 bn damage to schools, colleges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyclone-Ditwah-causes-over-Rs-2-27-bn-damage-to-schools-colleges/108-350769",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789963487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-0fedc8aa",
+    "num": "dailymirrorlk-0fedc8aa",
+    "date_str": "2026-09-21",
+    "description": "Kuda Ganga reaches minor flood level due to heavy rain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuda-Ganga-reaches-minor-flood-level-due-to-heavy-rain/108-350770",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789963678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-337a1631",
+    "num": "dailymirrorlk-337a1631",
+    "date_str": "2026-09-21",
+    "description": "Navy steps up flood preparedness",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Navy-steps-up-flood-preparedness/110-350771",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789964692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-02f4cccb",
+    "num": "dailymirrorlk-02f4cccb",
+    "date_str": "2026-09-21",
+    "description": "Trump says triumphal arch will be military complex with drones and snipers",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-triumphal-arch-will-be-military-complex-with-drones-and-snipers/107-350772",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789964832.0
   }
 ]

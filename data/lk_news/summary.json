@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-21 08:08:33",
-  "n_docs": 131066,
+  "time_updated": "2026-09-21 10:04:48",
+  "n_docs": 131076,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131066,
+  "n_docs_with_text": 131076,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-21",
-  "dataset_size": 2036485028,
+  "dataset_size": 2036569861,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-adalk-5ef80c39",
-    "num": "adalk-5ef80c39",
+    "doc_id": "2026-09-21-dailymirrorlk-02f4cccb",
+    "num": "dailymirrorlk-02f4cccb",
     "date_str": "2026-09-21",
-    "description": "MEPA \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dad\u0dd9\u0dbd\u0dca \u0d9a\u0dcf\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0dd3\u0db8\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da0\u0dcf\u0dbb \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0dc0\u0dd0\u0da9\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 HIP \u0dc4\u0dd2\u0daf\u0dd3",
-    "url_metadata": "https://www.ada.lk/business/MEPA-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dad\u0dd9\u0dbd\u0dca-\u0d9a\u0dcf\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0dd3\u0db8\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da0\u0dcf\u0dbb-\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca-\u0dc0\u0dd0\u0da9\u0db8\u0dd4\u0dc5\u0dd4\u0dc0-HIP-\u0dc4\u0dd2\u0daf\u0dd3/7-424289",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1789954712.0
+    "description": "Trump says triumphal arch will be military complex with drones and snipers",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-triumphal-arch-will-be-military-complex-with-drones-and-snipers/107-350772",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789964832.0
   }
 }
