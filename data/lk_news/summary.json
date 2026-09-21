@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-21 10:04:48",
-  "n_docs": 131076,
+  "time_updated": "2026-09-21 12:13:54",
+  "n_docs": 131087,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131076,
+  "n_docs_with_text": 131087,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-21",
-  "dataset_size": 2036569861,
+  "dataset_size": 2036649887,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-02f4cccb",
-    "num": "dailymirrorlk-02f4cccb",
+    "doc_id": "2026-09-21-dailymirrorlk-3db25081",
+    "num": "dailymirrorlk-3db25081",
     "date_str": "2026-09-21",
-    "description": "Trump says triumphal arch will be military complex with drones and snipers",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-triumphal-arch-will-be-military-complex-with-drones-and-snipers/107-350772",
+    "description": "Supreme Court rules transit passengers subject to Customs jurisdiction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-transit-passengers-subject-to-Customs-jurisdiction/108-350794",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789964832.0
+    "time_ut": 1789972177.0
   }
 }
