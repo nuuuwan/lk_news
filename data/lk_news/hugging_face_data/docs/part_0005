@@ -57029,6 +57029,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-21-adalk-42e880fd",
+    "num": "adalk-42e880fd",
+    "date_str": "2026-09-21",
+    "description": "\u0d92\u0dca\u0da2\u0db1\u0dca\u0dc3\u0dd2 \u0db1\u0dd2\u0dc3\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d82\u0dc1\u0dba\u0da7 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dd9\u0dbd\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd3 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d92\u0dca\u0da2\u0db1\u0dca\u0dc3\u0dd2-\u0db1\u0dd2\u0dc3\u0dcf-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d82\u0dc1\u0dba\u0da7-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dd9\u0dbd\u0dca-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0d85\u0dc4\u0dd2\u0db8\u0dd2-\u0dc0\u0dd3-\u0db1\u0dd1/11-424300",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789989871.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-21-dailymirrorlk-fdaa7001",
     "num": "dailymirrorlk-fdaa7001",
     "date_str": "2026-09-21",
@@ -57081,5 +57092,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789997499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-adalk-a59cbf01",
+    "num": "adalk-a59cbf01",
+    "date_str": "2026-09-21",
+    "description": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca/11-424301",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789998124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-4240b89a",
+    "num": "dailymirrorlk-4240b89a",
+    "date_str": "2026-09-21",
+    "description": "Ampara human-elephant conflict: 14 new control units to be established",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict-14-new-control-units-to-be-established/108-350830",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790001198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-5804f963",
+    "num": "dailymirrorlk-5804f963",
+    "date_str": "2026-09-21",
+    "description": "Nimal Perera must face legal action over bond scam: Lawyer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam-Lawyer/108-350832",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790003831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-f54bc08e",
+    "num": "dailymirrorlk-f54bc08e",
+    "date_str": "2026-09-21",
+    "description": "CSE slips below 21,000 as turnover falls to second-lowest level YTD",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790004023.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-fbb4c066",
+    "num": "dailymirrorlk-fbb4c066",
+    "date_str": "2026-09-21",
+    "description": "CNN, MS NOW and Politico sue Trump over White House ban",
+    "url_metadata": "https://www.dailymirror.lk/international/CNN-MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790006991.0
   }
 ]

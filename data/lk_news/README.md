@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--21_20:07:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--21_22:03:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,133** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,139** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-513437c9",
-    "num": "dailymirrorlk-513437c9",
+    "doc_id": "2026-09-21-dailymirrorlk-fbb4c066",
+    "num": "dailymirrorlk-fbb4c066",
     "date_str": "2026-09-21",
-    "description": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
+    "description": "CNN, MS NOW and Politico sue Trump over White House ban",
+    "url_metadata": "https://www.dailymirror.lk/international/CNN-MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789997499.0
+    "time_ut": 1790006991.0
 }
 ```
 
@@ -41,11 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-21 | `dailymirrorlk-fbb4c066` | CNN, MS NOW and Politico sue Trump over White House ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-fbb4c066)
+- 2026-09-21 | `dailymirrorlk-f54bc08e` | CSE slips below 21,000 as turnover falls to second-lowest level YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-f54bc08e)
+- 2026-09-21 | `dailymirrorlk-5804f963` | Nimal Perera must face legal action over bond scam: Lawyer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-5804f963)
+- 2026-09-21 | `dailymirrorlk-4240b89a` | Ampara human-elephant conflict: 14 new control units to be established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-4240b89a)
+- 2026-09-21 | `adalk-a59cbf01` | පාර්ලිමේන්තු කටයුතුවල වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-adalk-a59cbf01)
 - 2026-09-21 | `dailymirrorlk-513437c9` | Vijitha Herath to make special statement in Parliament on Sivarasa Anojan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-513437c9)
 - 2026-09-21 | `dailymirrorlk-cb9077d7` | Justice Mayadunna Corea appointed Acting President of Court of Appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-cb9077d7)
 - 2026-09-21 | `dailymirrorlk-62141b91` | No fuel price hike as government plans concession: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-62141b91)
 - 2026-09-21 | `dailymirrorlk-a2d0a928` | Government to appeal to Saudi King for Anojan’s pardon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-a2d0a928)
 - 2026-09-21 | `dailymirrorlk-fdaa7001` | Multi-day fishing vessels urged to leave Andaman sea areas amid rough weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-fdaa7001)
+- 2026-09-21 | `adalk-42e880fd` | ඒ්ජන්සි නිසා කාර්යංශයට ලැබෙන ඊශ්‍රායෙල් රැකියා අහිමි වී නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-adalk-42e880fd)
 - 2026-09-21 | `dailymirrorlk-27ce53f0` | Landslide red warnings issued for six districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-27ce53f0)
 - 2026-09-21 | `dailymirrorlk-066ecc65` | Low-pressure system to intensify; rainy weather to continue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-066ecc65)
 - 2026-09-21 | `dailymirrorlk-d0d601b3` | One dead, seven injured following wasp attack in Lindula | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-d0d601b3)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-21 | `dailymirrorlk-20d3c7d0` | China’s Xi to visit the US from September 23-25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-20d3c7d0)
 - 2026-09-21 | `dailymirrorlk-0261752c` | New music licensing rules introduced for weddings, parties and events | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-0261752c)
 - 2026-09-21 | `dailymirrorlk-a558044d` | Irrigation Department warns of rising river levels amid heavy rain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-a558044d)
-- 2026-09-21 | `dailymirrorlk-0e840ab9` | Police to introduce on-site drug testing for drivers within three months - IGP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-0e840ab9)
-- 2026-09-21 | `dailymirrorlk-c7073385` | “ViYASA” National Business Facilitation Centre to open tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-c7073385)
-- 2026-09-21 | `dailymirrorlk-261df283` | Chinese culture meets Lyceum students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-261df283)
-- 2026-09-21 | `adalk-9890462b` | කුකුළේගඟ වාන් දොරටු දෙකක් විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-adalk-9890462b)
-- 2026-09-21 | `dailymirrorlk-6cf7dd0f` | SLMC appoints new National List MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-6cf7dd0f)
-- 2026-09-21 | `dailymirrorlk-5f479fe2` | 190,000 cancer injections allegedly imported without approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-5f479fe2)
 
 ---
 

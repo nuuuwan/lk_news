@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-21 20:06:05",
-  "n_docs": 131133,
+  "time_updated": "2026-09-21 22:02:26",
+  "n_docs": 131139,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131133,
+  "n_docs_with_text": 131139,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-21",
-  "dataset_size": 2037158534,
+  "dataset_size": 2037195187,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-513437c9",
-    "num": "dailymirrorlk-513437c9",
+    "doc_id": "2026-09-21-dailymirrorlk-fbb4c066",
+    "num": "dailymirrorlk-fbb4c066",
     "date_str": "2026-09-21",
-    "description": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
+    "description": "CNN, MS NOW and Politico sue Trump over White House ban",
+    "url_metadata": "https://www.dailymirror.lk/international/CNN-MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1789997499.0
+    "time_ut": 1790006991.0
   }
 }
