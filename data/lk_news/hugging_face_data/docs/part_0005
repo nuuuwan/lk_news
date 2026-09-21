@@ -57037,5 +57037,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1789992087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-a2d0a928",
+    "num": "dailymirrorlk-a2d0a928",
+    "date_str": "2026-09-21",
+    "description": "Government to appeal to Saudi King for Anojan\u2019s pardon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojans-pardon/108-350826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789994721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-62141b91",
+    "num": "dailymirrorlk-62141b91",
+    "date_str": "2026-09-21",
+    "description": "No fuel price hike as government plans concession: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession-Minister/108-350827",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789995290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-cb9077d7",
+    "num": "dailymirrorlk-cb9077d7",
+    "date_str": "2026-09-21",
+    "description": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789995969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-513437c9",
+    "num": "dailymirrorlk-513437c9",
+    "date_str": "2026-09-21",
+    "description": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789997499.0
   }
 ]
