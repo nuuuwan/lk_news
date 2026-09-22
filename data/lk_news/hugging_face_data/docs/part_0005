@@ -57942,6 +57942,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-b7ec3f78",
+    "num": "adalk-b7ec3f78",
+    "date_str": "2026-09-22",
+    "description": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dc5\u0da7 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dc5\u0da7-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba\u0d9a\u0dca/11-424321",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790074026.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-fd8580e4",
     "num": "dailymirrorlk-fd8580e4",
     "date_str": "2026-09-22",
@@ -57972,6 +57983,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790074235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-fdf99d5a",
+    "num": "adalk-fdf99d5a",
+    "date_str": "2026-09-22",
+    "description": "\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba\u0da7 \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca 133 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba\u0da7-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca-133-\u0daf\u0dd9\u0db1\u0d9a\u0dd4-\u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-424322",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790074669.0
   },
   {
     "doc_type": "lk_news",
@@ -58016,5 +58038,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790077901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-fbc93a52",
+    "num": "dailymirrorlk-fbc93a52",
+    "date_str": "2026-09-22",
+    "description": "British father admits causing toddler son\u2019s death after fall from Cyprus hotel",
+    "url_metadata": "https://www.dailymirror.lk/international/British-father-admits-causing-toddler-sons-death-after-fall-from-Cyprus-hotel/107-350916",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790081244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-53422894",
+    "num": "dailymirrorlk-53422894",
+    "date_str": "2026-09-22",
+    "description": "Record-Breaking El Ni\u00f1o Surpasses Previous Benchmarks",
+    "url_metadata": "https://www.dailymirror.lk/international/Record-Breaking-El-Ni\u00f1o-Surpasses-Previous-Benchmarks/107-350917",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790084543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-054353c8",
+    "num": "dailymirrorlk-054353c8",
+    "date_str": "2026-09-22",
+    "description": "Vijitha Herath expresses condolences over death of Sheikh Ahmed bin Rashid Al Maktoum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-expresses-condolences-over-death-of-Sheikh-Ahmed-bin-Rashid-Al-Maktoum/108-350918",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790086853.0
   }
 ]
