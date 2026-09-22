@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_22:04:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_00:04:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,229** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-22-dailymirrorlk-1d3f3f4a",
-    "num": "dailymirrorlk-1d3f3f4a",
+    "doc_id": "2026-09-22-dailymirrorlk-fe05fc00",
+    "num": "dailymirrorlk-fe05fc00",
     "date_str": "2026-09-22",
-    "description": "Was negligence behind former Ampara hospital director\u2019s death?",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Was-negligence-behind-former-Ampara-hospital-directors-death/108-350921",
+    "description": "15 convicted in Easter Sunday case, each handed 220-year sentence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/15-convicted-in-Easter-Sunday-case-each-handed-220-year-sentence/108-350922",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790090918.0
+    "time_ut": 1790099806.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-22 | `dailymirrorlk-fe05fc00` | 15 convicted in Easter Sunday case, each handed 220-year sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-fe05fc00)
 - 2026-09-22 | `dailymirrorlk-1d3f3f4a` | Was negligence behind former Ampara hospital director’s death? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1d3f3f4a)
 - 2026-09-22 | `dailymirrorlk-36ca3bdb` | Certain passengers exempt from seat-belt requirement on expressways: Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-36ca3bdb)
 - 2026-09-22 | `dailymirrorlk-5be7fe74` | Water supply to be suspended in several Anuradhapura areas tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-5be7fe74)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-22 | `adalk-b7ec3f78` | ඉන්ධන මිළට සංශෝධනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-b7ec3f78)
 - 2026-09-22 | `dailymirrorlk-8dcbe297` | Cabinet approves €4.93 million contract for 5 million NIC cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-8dcbe297)
 - 2026-09-22 | `dailymirrorlk-bc6bebb1` | 133 construction workers to leave for Israel tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-bc6bebb1)
-- 2026-09-22 | `dailymirrorlk-d1232cf9` | Navy builds Sri Lanka’s first waveless referee boat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-d1232cf9)
 
 ---
 
