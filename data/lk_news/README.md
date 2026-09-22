@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_06:58:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_08:38:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,139** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,140** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-09-21 | `dailymirrorlk-fbb4c066` | CNN, MS NOW and Politico sue Trump over White House ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-fbb4c066)
 - 2026-09-21 | `dailymirrorlk-f54bc08e` | CSE slips below 21,000 as turnover falls to second-lowest level YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-f54bc08e)
 - 2026-09-21 | `dailymirrorlk-5804f963` | Nimal Perera must face legal action over bond scam: Lawyer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-5804f963)
+- 2026-09-21 | `adalk-03254e70` | විදුලි බිලට සහන දෙන්න රුපියල් බිලියන 17.2ක පරිපූරක ඇස්තමේන්තුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-adalk-03254e70)
 - 2026-09-21 | `dailymirrorlk-4240b89a` | Ampara human-elephant conflict: 14 new control units to be established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-4240b89a)
 - 2026-09-21 | `adalk-a59cbf01` | පාර්ලිමේන්තු කටයුතුවල වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-adalk-a59cbf01)
 - 2026-09-21 | `dailymirrorlk-513437c9` | Vijitha Herath to make special statement in Parliament on Sivarasa Anojan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-513437c9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-21 | `dailymirrorlk-4b5b2e98` | Speaker receives Supreme Court determination on 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-4b5b2e98)
 - 2026-09-21 | `dailymirrorlk-20d3c7d0` | China’s Xi to visit the US from September 23-25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-20d3c7d0)
 - 2026-09-21 | `dailymirrorlk-0261752c` | New music licensing rules introduced for weddings, parties and events | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-0261752c)
-- 2026-09-21 | `dailymirrorlk-a558044d` | Irrigation Department warns of rising river levels amid heavy rain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-a558044d)
 
 ---
 
