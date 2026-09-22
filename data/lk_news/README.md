@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_00:04:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_01:56:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,231** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-09-22 | `dailymirrorlk-fe05fc00` | 15 convicted in Easter Sunday case, each handed 220-year sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-fe05fc00)
+- 2026-09-22 | `dailymirrorlk-1e741f99` | 15 convicted over Easter attacks get sentences ranging from 200 to 260 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1e741f99)
 - 2026-09-22 | `dailymirrorlk-1d3f3f4a` | Was negligence behind former Ampara hospital director’s death? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1d3f3f4a)
 - 2026-09-22 | `dailymirrorlk-36ca3bdb` | Certain passengers exempt from seat-belt requirement on expressways: Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-36ca3bdb)
 - 2026-09-22 | `dailymirrorlk-5be7fe74` | Water supply to be suspended in several Anuradhapura areas tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-5be7fe74)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-22 | `dailymirrorlk-fd8580e4` | New Irrigation DG appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-fd8580e4)
 - 2026-09-22 | `adalk-b7ec3f78` | ඉන්ධන මිළට සංශෝධනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-b7ec3f78)
 - 2026-09-22 | `dailymirrorlk-8dcbe297` | Cabinet approves €4.93 million contract for 5 million NIC cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-8dcbe297)
-- 2026-09-22 | `dailymirrorlk-bc6bebb1` | 133 construction workers to leave for Israel tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-bc6bebb1)
 
 ---
 
