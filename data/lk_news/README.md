@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_20:00:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_22:04:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,229** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-22-dailymirrorlk-054353c8",
-    "num": "dailymirrorlk-054353c8",
+    "doc_id": "2026-09-22-dailymirrorlk-1d3f3f4a",
+    "num": "dailymirrorlk-1d3f3f4a",
     "date_str": "2026-09-22",
-    "description": "Vijitha Herath expresses condolences over death of Sheikh Ahmed bin Rashid Al Maktoum",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-expresses-condolences-over-death-of-Sheikh-Ahmed-bin-Rashid-Al-Maktoum/108-350918",
+    "description": "Was negligence behind former Ampara hospital director\u2019s death?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Was-negligence-behind-former-Ampara-hospital-directors-death/108-350921",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790086853.0
+    "time_ut": 1790090918.0
 }
 ```
 
@@ -41,12 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-22 | `dailymirrorlk-1d3f3f4a` | Was negligence behind former Ampara hospital director’s death? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1d3f3f4a)
+- 2026-09-22 | `dailymirrorlk-36ca3bdb` | Certain passengers exempt from seat-belt requirement on expressways: Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-36ca3bdb)
+- 2026-09-22 | `dailymirrorlk-5be7fe74` | Water supply to be suspended in several Anuradhapura areas tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-5be7fe74)
+- 2026-09-22 | `adalk-621108e7` | පාස්කු මහ නඩුවේ 15ක් වරදකරුවන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-621108e7)
 - 2026-09-22 | `dailymirrorlk-054353c8` | Vijitha Herath expresses condolences over death of Sheikh Ahmed bin Rashid Al Maktoum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-054353c8)
 - 2026-09-22 | `dailymirrorlk-53422894` | Record-Breaking El Niño Surpasses Previous Benchmarks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-53422894)
 - 2026-09-22 | `dailymirrorlk-fbc93a52` | British father admits causing toddler son’s death after fall from Cyprus hotel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-fbc93a52)
 - 2026-09-22 | `dailymirrorlk-4d813fcd` | 15 found guilty, 9 acquitted in Easter Sunday terror case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-4d813fcd)
 - 2026-09-22 | `dailymirrorlk-1b83c052` | Heavy rainfall above 100mm expected in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1b83c052)
 - 2026-09-22 | `dailymirrorlk-02e616eb` | Police probe Wimal’s remarks over possible contempt of court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-02e616eb)
+- 2026-09-22 | `adalk-45b008d8` | ජනපති රට වටේ ගිහින් අලුත් බොරුවක් කියනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-45b008d8)
 - 2026-09-22 | `dailymirrorlk-1ae639a3` | President recommends two High Court judges for Court of Appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1ae639a3)
 - 2026-09-22 | `adalk-fdf99d5a` | ඊශ්‍රායලයට ඉදිකිරීම් රැකියාලාභීන් 133 දෙනකු පිටත්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-fdf99d5a)
 - 2026-09-22 | `dailymirrorlk-8e9e35fc` | Referendum cannot be called as a result of protests: Nalinda Jayatissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-8e9e35fc)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-22 | `dailymirrorlk-8dcbe297` | Cabinet approves €4.93 million contract for 5 million NIC cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-8dcbe297)
 - 2026-09-22 | `dailymirrorlk-bc6bebb1` | 133 construction workers to leave for Israel tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-bc6bebb1)
 - 2026-09-22 | `dailymirrorlk-d1232cf9` | Navy builds Sri Lanka’s first waveless referee boat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-d1232cf9)
-- 2026-09-22 | `dailymirrorlk-4376cdad` | Blood donation during Nallur Festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-4376cdad)
-- 2026-09-22 | `adalk-eeac3dd4` | ලංකාවේ ණය ශ්‍රේණිගත කිරීම් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-adalk-eeac3dd4)
-- 2026-09-22 | `dailymirrorlk-7290493e` | SLINEX-26 ends with joint naval drills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-7290493e)
-- 2026-09-22 | `dailymirrorlk-c49174cd` | President telling new lies to mark second anniversary: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-c49174cd)
-- 2026-09-22 | `dailymirrorlk-5317f430` | Flights at major US airports delayed after cable cut by construction workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-5317f430)
 
 ---
 

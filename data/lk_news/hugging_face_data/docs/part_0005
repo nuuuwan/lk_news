@@ -57843,6 +57843,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-7f9b9a0e",
+    "num": "adalk-7f9b9a0e",
+    "date_str": "2026-09-22",
+    "description": "\u0db4\u0ddc\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0da7 \u0d91\u0db1 \u0d85\u0dba\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0da7-\u0d91\u0db1-\u0d85\u0dba\u0da7-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd3\u0db8\u0d9a\u0dca/11-424318",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790069619.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-adalk-9449e108",
     "num": "adalk-9449e108",
     "date_str": "2026-09-22",
@@ -58008,6 +58019,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-45b008d8",
+    "num": "adalk-45b008d8",
+    "date_str": "2026-09-22",
+    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0da7 \u0dc0\u0da7\u0dda \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db6\u0ddc\u0dbb\u0dd4\u0dc0\u0d9a\u0dca \u0d9a\u0dd2\u0dba\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0da7-\u0dc0\u0da7\u0dda-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db6\u0ddc\u0dbb\u0dd4\u0dc0\u0d9a\u0dca-\u0d9a\u0dd2\u0dba\u0db1\u0dc0\u0dcf/11-424323",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790075743.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-02e616eb",
     "num": "dailymirrorlk-02e616eb",
     "date_str": "2026-09-22",
@@ -58071,5 +58093,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790086853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-621108e7",
+    "num": "adalk-621108e7",
+    "date_str": "2026-09-22",
+    "description": "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0db8\u0dc4 \u0db1\u0da9\u0dd4\u0dc0\u0dda 15\u0d9a\u0dca \u0dc0\u0dbb\u0daf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4-\u0db8\u0dc4-\u0db1\u0da9\u0dd4\u0dc0\u0dda-15\u0d9a\u0dca-\u0dc0\u0dbb\u0daf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424324",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790088891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-5be7fe74",
+    "num": "dailymirrorlk-5be7fe74",
+    "date_str": "2026-09-22",
+    "description": "Water supply to be suspended in several Anuradhapura areas tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-be-suspended-in-several-Anuradhapura-areas-tomorrow/108-350919",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790089536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-36ca3bdb",
+    "num": "dailymirrorlk-36ca3bdb",
+    "date_str": "2026-09-22",
+    "description": "Certain passengers exempt from seat-belt requirement on expressways: Police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Certain-passengers-exempt-from-seat-belt-requirement-on-expressways-Police/108-350920",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790090821.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-1d3f3f4a",
+    "num": "dailymirrorlk-1d3f3f4a",
+    "date_str": "2026-09-22",
+    "description": "Was negligence behind former Ampara hospital director\u2019s death?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Was-negligence-behind-former-Ampara-hospital-directors-death/108-350921",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790090918.0
   }
 ]
