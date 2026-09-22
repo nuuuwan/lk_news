@@ -56567,6 +56567,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-487e9f89",
+    "num": "dailymirrorlk-487e9f89",
+    "date_str": "2026-09-21",
+    "description": "Sri Lanka navigates path to implement  out-of-country voting",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Sri-Lanka-navigates-path-to-implement-out-of-country-voting/131-350764",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789944144.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-21-adalk-5ef80c39",
     "num": "adalk-5ef80c39",
     "date_str": "2026-09-21",
@@ -57161,6 +57172,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-b679bd6b",
+    "num": "adalk-b679bd6b",
+    "date_str": "2026-09-22",
+    "description": "\u0dbd\u0d9a\u0dca\u0dc2 350\u0d9a \u0daf\u0dda\u0db4\u0dc5 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d9a\u0dca\u0dc2-350\u0d9a-\u0daf\u0dda\u0db4\u0dc5-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424303",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790042681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-2bc00378",
+    "num": "adalk-2bc00378",
+    "date_str": "2026-09-22",
+    "description": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-424304",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790043020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-d366b7c8",
+    "num": "adalk-d366b7c8",
+    "date_str": "2026-09-22",
+    "description": "SLIATE \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0d9c\u0dd0\u0db1 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/SLIATE-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4-\u0d9c\u0dd0\u0db1-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dca/11-424306",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790047185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-ac599a3e",
+    "num": "adalk-ac599a3e",
+    "date_str": "2026-09-22",
+    "description": "\u0d85\u0db1\u0ddd\u0da2\u0db1\u0dca\u0da7 \u0dc3\u0db8\u0dcf\u0dc0 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dc0 \u0dc3\u0dde\u0daf\u0dd2 \u0dbb\u0da2\u0dd4\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0ddd\u0da2\u0db1\u0dca\u0da7-\u0dc3\u0db8\u0dcf\u0dc0-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dc0-\u0dc3\u0dde\u0daf\u0dd2-\u0dbb\u0da2\u0dd4\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/11-424307",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790047812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-9b9b4899",
+    "num": "dailymirrorlk-9b9b4899",
+    "date_str": "2026-09-22",
+    "description": "Rs. 8.1M bribe: Former Minister\u2019s Secretary arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-8-1M-bribe-Former-Ministers-Secretary-arrested/108-350835",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790049776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-a637292e",
+    "num": "dailymirrorlk-a637292e",
+    "date_str": "2026-09-22",
+    "description": "US to open two new military bases in Greenland, sources say",
+    "url_metadata": "https://www.dailymirror.lk/international/US-to-open-two-new-military-bases-in-Greenland-sources-say/107-350836",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790049955.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-8f133785",
     "num": "dailymirrorlk-8f133785",
     "date_str": "2026-09-22",
@@ -57202,5 +57279,104 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790052268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-71e69470",
+    "num": "dailymirrorlk-71e69470",
+    "date_str": "2026-09-22",
+    "description": "SLEIS 2026 to examine SL\u2019s energy transition and its implications for economic growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLEIS-2026-to-examine-SLs-energy-transition-and-its-implications-for-economic-growth/273-350845",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-23633767",
+    "num": "dailymirrorlk-23633767",
+    "date_str": "2026-09-22",
+    "description": "HNB Life celebrates success at NAFLIA 2026 with 10 awards",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-Life-celebrates-success-at-NAFLIA-2026-with-10-awards/273-350846",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-2dc52dd6",
+    "num": "dailymirrorlk-2dc52dd6",
+    "date_str": "2026-09-22",
+    "description": "Cargills Bank recognizes 12th anniversary Spend Campaign winners",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cargills-Bank-recognizes-12th-anniversary-Spend-Campaign-winners/273-350848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-6af5fe91",
+    "num": "adalk-6af5fe91",
+    "date_str": "2026-09-22",
+    "description": "22 \u0dc3\u0db8\u0dca\u0db8\u0dad \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0da2\u0db1\u0db8\u0dad \u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/22-\u0dc3\u0db8\u0dca\u0db8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0da2\u0db1\u0db8\u0dad-\u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db1\u0dd1/11-424308",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790054898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-da9f5556",
+    "num": "dailymirrorlk-da9f5556",
+    "date_str": "2026-09-22",
+    "description": "Driver, two women arrested after police pursuit in Pannala",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Driver-two-women-arrested-after-police-pursuit-in-Pannala/108-350862",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790056097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-91e5b446",
+    "num": "dailymirrorlk-91e5b446",
+    "date_str": "2026-09-22",
+    "description": "Over 650,000 have migrated for temporary reasons - Analyst",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-650-000-have-migrated-for-temporary-reasons-Analyst/108-350864",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790056534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-c96c5c54",
+    "num": "dailymirrorlk-c96c5c54",
+    "date_str": "2026-09-22",
+    "description": "Is another Ditwah-like situation around the corner?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-another-Ditwah-like-situation-around-the-corner/108-350868",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790057306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-7c5dbc99",
+    "num": "dailymirrorlk-7c5dbc99",
+    "date_str": "2026-09-22",
+    "description": "33 essential drugs out of stock, Health Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/33-essential-drugs-out-of-stock-Health-Minister/108-350870",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790057612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-7b6bfb46",
+    "num": "dailymirrorlk-7b6bfb46",
+    "date_str": "2026-09-22",
+    "description": "Sri Lanka holds clues to a 500-million-year-old Earth",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-holds-clues-to-a-500-million-year-old-Earth/108-350871",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790058123.0
   }
 ]
