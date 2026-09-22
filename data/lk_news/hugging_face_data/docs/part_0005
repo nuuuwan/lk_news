@@ -56589,6 +56589,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-21-adalk-d4c0e844",
+    "num": "adalk-d4c0e844",
+    "date_str": "2026-09-21",
+    "description": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0dbd\u0ddd\u0d9a-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca/7-424290",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1789954839.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-21-adalk-3be09307",
     "num": "adalk-3be09307",
     "date_str": "2026-09-21",
@@ -57282,6 +57293,50 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-8fce100d",
+    "num": "dailymirrorlk-8fce100d",
+    "date_str": "2026-09-22",
+    "description": "Hayleys Mobility celebrates 1,000 new journeys across Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Mobility-celebrates-1-000-new-journeys-across-Sri-Lanka/273-350841",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790052578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-67b4dd13",
+    "num": "dailymirrorlk-67b4dd13",
+    "date_str": "2026-09-22",
+    "description": "Pan Asia EZY revolutionises digital banking in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Pan-Asia-EZY-revolutionises-digital-banking-in-Sri-Lanka/273-350842",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790052696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-3f9cec24",
+    "num": "dailymirrorlk-3f9cec24",
+    "date_str": "2026-09-22",
+    "description": "Dialog unveils South Asia\u2019s 1st 5G eSIM MiFi",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dialog-unveils-South-Asias-1st-5G-eSIM-MiFi/273-350843",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790052753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-5450798d",
+    "num": "dailymirrorlk-5450798d",
+    "date_str": "2026-09-22",
+    "description": "LOLC Finance-Continental Cars promote Volkswagen vehicles across Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LOLC-Finance-Continental-Cars-promote-Volkswagen-vehicles-across-Sri-Lanka/273-350844",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790052807.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-71e69470",
     "num": "dailymirrorlk-71e69470",
     "date_str": "2026-09-22",
@@ -57304,6 +57359,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-390de03c",
+    "num": "dailymirrorlk-390de03c",
+    "date_str": "2026-09-22",
+    "description": "Evolution Auto highlights importance of TOPS Power Score in NextGen EVs",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Evolution-Auto-highlights-importance-of-TOPS-Power-Score-in-NextGen-EVs/273-350847",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053322.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-2dc52dd6",
     "num": "dailymirrorlk-2dc52dd6",
     "date_str": "2026-09-22",
@@ -57315,6 +57381,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-6ec68c0d",
+    "num": "dailymirrorlk-6ec68c0d",
+    "date_str": "2026-09-22",
+    "description": "Hilton named Sri Lanka\u2019s No. 1 Best Workplace again",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hilton-named-Sri-Lankas-No-1-Best-Workplace-again/273-350849",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053428.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-e3f6ba9f",
+    "num": "dailymirrorlk-e3f6ba9f",
+    "date_str": "2026-09-22",
+    "description": "patpat.lk wins Gold at BestWeb.LK Awards 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/patpat-lk-wins-Gold-at-BestWeb-LK-Awards-2026/273-350850",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-c549332f",
+    "num": "dailymirrorlk-c549332f",
+    "date_str": "2026-09-22",
+    "description": "ITF announces landmark Colombo AI Conference hosted by NUSS",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ITF-announces-landmark-Colombo-AI-Conference-hosted-by-NUSS/273-350851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790053696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-356b44ae",
+    "num": "dailymirrorlk-356b44ae",
+    "date_str": "2026-09-22",
+    "description": "Resus Energy commissions 2 MW Ampara solar plant",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Resus-Energy-commissions-2-MW-Ampara-solar-plant/273-350853",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790054231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-09-22",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-350854",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790054356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-35de9322",
+    "num": "dailymirrorlk-35de9322",
+    "date_str": "2026-09-22",
+    "description": "SL rallies agencies behind US $ 36bn export push",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SL-rallies-agencies-behind-US-36bn-export-push/273-350855",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790054393.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-adalk-6af5fe91",
     "num": "adalk-6af5fe91",
     "date_str": "2026-09-22",
@@ -57323,6 +57455,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790054898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-c46d0844",
+    "num": "dailymirrorlk-c46d0844",
+    "date_str": "2026-09-22",
+    "description": "Govt. commits to boat manufacturing zone; EDB to pick site",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Govt-commits-to-boat-manufacturing-zone-EDB-to-pick-site/273-350856",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790054969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-e5a69493",
+    "num": "dailymirrorlk-e5a69493",
+    "date_str": "2026-09-22",
+    "description": "Colombo transshipment climbs as adverse weather threatens to worsen port congestion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Colombo-transshipment-climbs-as-adverse-weather-threatens-to-worsen-port-congestion/273-350857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790055057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-862b2d45",
+    "num": "dailymirrorlk-862b2d45",
+    "date_str": "2026-09-22",
+    "description": "Softlogic points to 3-year turnaround as debt restructuring gathers pace",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Softlogic-points-to-3-year-turnaround-as-debt-restructuring-gathers-pace/273-350858",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790055129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-c64e2adb",
+    "num": "adalk-c64e2adb",
+    "date_str": "2026-09-22",
+    "description": "\u0d9c\u0dcf\u0da9\u0dca\u0db8\u0ddd\u0dbb\u0dca \u0db1\u0dcf\u0dba \u0dba\u0dd1\u0db8\u0d9a\u0dca \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d9c\u0dcf\u0da9\u0dca\u0db8\u0ddd\u0dbb\u0dca-\u0db1\u0dcf\u0dba-\u0dba\u0dd1\u0db8\u0d9a\u0dca-\u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba-\u0dc0\u0dd9\u0dba\u0dd2/10-424309",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790055288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-9ad61847",
+    "num": "dailymirrorlk-9ad61847",
+    "date_str": "2026-09-22",
+    "description": "Inflation more than triples in 7 months",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Inflation-more-than-triples-in-7-months/245-350859",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790055303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-2d5d82cc",
+    "num": "adalk-2d5d82cc",
+    "date_str": "2026-09-22",
+    "description": "\u0d85\u0dba\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0ddd 21\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0dc4\u0dcf \u0dc3\u0dd0\u0d9a\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0d9a\u0dd2\u0dbd\u0ddd-21\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0dc4\u0dcf-\u0dc3\u0dd0\u0d9a\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424310",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790055806.0
   },
   {
     "doc_type": "lk_news",
@@ -57378,5 +57576,148 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790058123.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-504f7add",
+    "num": "dailymirrorlk-504f7add",
+    "date_str": "2026-09-22",
+    "description": "Seed maize project approved under Ministry procedures, former Additional Secretary tells court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seed-maize-project-approved-under-Ministry-procedures-former-Additional-Secretary-tells-court/108-350872",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790059148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-876d960d",
+    "num": "dailymirrorlk-876d960d",
+    "date_str": "2026-09-22",
+    "description": "Saudi prosecution appeal leads to death sentence for  Sivarasa Anojan: Vijitha Herath",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Saudi-prosecution-appeal-leads-to-death-sentence-for-Sivarasa-Anojan-Vijitha-Herath/108-350873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790059498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-923eddd9",
+    "num": "dailymirrorlk-923eddd9",
+    "date_str": "2026-09-22",
+    "description": "Train driver acquitted over wild elephant death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-driver-acquitted-over-wild-elephant-death/108-350877",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790060591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-76363f1d",
+    "num": "dailymirrorlk-76363f1d",
+    "date_str": "2026-09-22",
+    "description": "Committee proposes community service, work camps to ease prison overcrowding",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Committee-proposes-community-service-work-camps-to-ease-prison-overcrowding/108-350882",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790061138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-51963445",
+    "num": "dailymirrorlk-51963445",
+    "date_str": "2026-09-22",
+    "description": "Russian Embassy hosts polling station for State Duma election",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russian-Embassy-hosts-polling-station-for-State-Duma-election/108-350885",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790061774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-2a5eee51",
+    "num": "dailymirrorlk-2a5eee51",
+    "date_str": "2026-09-22",
+    "description": "Fitch upgrades Sri Lanka\u2019s rating to \u2019B-\u2019",
+    "url_metadata": "https://www.dailymirror.lk/international/Fitch-upgrades-Sri-Lankas-rating-to-B/107-350886",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790062646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-1690a969",
+    "num": "dailymirrorlk-1690a969",
+    "date_str": "2026-09-22",
+    "description": "Easter Sunday attacks case judgment proceedings begin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Easter-Sunday-attacks-case-judgment-proceedings-begin/108-350887",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790062743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-fbc971f5",
+    "num": "dailymirrorlk-fbc971f5",
+    "date_str": "2026-09-22",
+    "description": "Short and mid tenure yields ease amid selective buying",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Short-and-mid-tenure-yields-ease-amid-selective-buying/273-350888",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790062961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-1ab16ed0",
+    "num": "adalk-1ab16ed0",
+    "date_str": "2026-09-22",
+    "description": "\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca 20 \u0dc0\u0db1 \u2018\u0dc6\u0dd0\u0db8\u0dd2\u0dbd\u0dd2 \u0dc3\u0dc0\u0dcf\u0dbb\u0dd2\u2019 \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-20-\u0dc0\u0db1-\u2018\u0dc6\u0dd0\u0db8\u0dd2\u0dbd\u0dd2-\u0dc3\u0dc0\u0dcf\u0dbb\u0dd2\u2019-\u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2/7-424313",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790063659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-2b2cefed",
+    "num": "dailymirrorlk-2b2cefed",
+    "date_str": "2026-09-22",
+    "description": "Sri Lankan-origin actress will play Sita in a leading musical at Wembley Arena",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-origin-actress-will-play-Sita-in-a-leading-musical-at-Wembley-Arena/108-350889",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790063865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-353d16c5",
+    "num": "dailymirrorlk-353d16c5",
+    "date_str": "2026-09-22",
+    "description": "Supreme Court determines Clause 17 of Anti-Corruption (Amendment) Bill requires referendum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-determines-Clause-17-of-Anti-Corruption-Amendment-Bill-requires-referendum/108-350890",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790064812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-5d79ab37",
+    "num": "dailymirrorlk-5d79ab37",
+    "date_str": "2026-09-22",
+    "description": "\u2018Walk the talk\u2019 on justice for Sri Lankan fishermen, Chandrasekar tells Vijay",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Walk-the-talk-on-justice-for-Sri-Lankan-fishermen-Chandrasekar-tells-Vijay/108-350891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790065003.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-0bf1af99",
+    "num": "dailymirrorlk-0bf1af99",
+    "date_str": "2026-09-22",
+    "description": "Seat belts help reduce expressway accident casualties: RDA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seat-belts-help-reduce-expressway-accident-casualties-RDA/108-350892",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790065172.0
   }
 ]
