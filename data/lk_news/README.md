@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_08:38:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_10:28:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,140** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,144** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-fbb4c066",
-    "num": "dailymirrorlk-fbb4c066",
-    "date_str": "2026-09-21",
-    "description": "CNN, MS NOW and Politico sue Trump over White House ban",
-    "url_metadata": "https://www.dailymirror.lk/international/CNN-MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
+    "doc_id": "2026-09-22-dailymirrorlk-320ab516",
+    "num": "dailymirrorlk-320ab516",
+    "date_str": "2026-09-22",
+    "description": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen-G7-says-ahead-of-UN-General-Assembly/107-350840",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790006991.0
+    "time_ut": 1790052268.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-22 | `dailymirrorlk-320ab516` | Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-320ab516)
+- 2026-09-22 | `dailymirrorlk-bb25a665` | Sri Lanka, Qatar seek more jobs for skilled workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-bb25a665)
+- 2026-09-22 | `dailymirrorlk-1cb8d1e8` | 22nd Amendment does not require referendum, Supreme Court determines: Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-1cb8d1e8)
+- 2026-09-22 | `dailymirrorlk-8f133785` | Security beefed up for Easter verdict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-8f133785)
 - 2026-09-21 | `dailymirrorlk-fbb4c066` | CNN, MS NOW and Politico sue Trump over White House ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-fbb4c066)
 - 2026-09-21 | `dailymirrorlk-f54bc08e` | CSE slips below 21,000 as turnover falls to second-lowest level YTD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-f54bc08e)
 - 2026-09-21 | `dailymirrorlk-5804f963` | Nimal Perera must face legal action over bond scam: Lawyer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-5804f963)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-09-21 | `dailymirrorlk-066ecc65` | Low-pressure system to intensify; rainy weather to continue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-066ecc65)
 - 2026-09-21 | `dailymirrorlk-d0d601b3` | One dead, seven injured following wasp attack in Lindula | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-d0d601b3)
 - 2026-09-21 | `dailymirrorlk-675941ef` | Repeated crises leave Sri Lankans facing layers of trauma, loss | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-675941ef)
-- 2026-09-21 | `dailymirrorlk-e78cb366` | Aeroflot to resume flights on October 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-e78cb366)
-- 2026-09-21 | `dailymirrorlk-4b5b2e98` | Speaker receives Supreme Court determination on 22nd Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-4b5b2e98)
-- 2026-09-21 | `dailymirrorlk-20d3c7d0` | China’s Xi to visit the US from September 23-25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-20d3c7d0)
-- 2026-09-21 | `dailymirrorlk-0261752c` | New music licensing rules introduced for weddings, parties and events | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-21-dailymirrorlk-0261752c)
 
 ---
 

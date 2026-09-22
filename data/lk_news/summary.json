@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-22 08:37:38",
-  "n_docs": 131140,
+  "time_updated": "2026-09-22 10:27:08",
+  "n_docs": 131144,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131140,
+  "n_docs_with_text": 131144,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-09-21",
-  "dataset_size": 2037254965,
+  "date_str_max": "2026-09-22",
+  "dataset_size": 2037270442,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-21-dailymirrorlk-fbb4c066",
-    "num": "dailymirrorlk-fbb4c066",
-    "date_str": "2026-09-21",
-    "description": "CNN, MS NOW and Politico sue Trump over White House ban",
-    "url_metadata": "https://www.dailymirror.lk/international/CNN-MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
+    "doc_id": "2026-09-22-dailymirrorlk-320ab516",
+    "num": "dailymirrorlk-320ab516",
+    "date_str": "2026-09-22",
+    "description": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen-G7-says-ahead-of-UN-General-Assembly/107-350840",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790006991.0
+    "time_ut": 1790052268.0
   }
 }
