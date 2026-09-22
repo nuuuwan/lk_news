@@ -57535,6 +57535,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-6208dad0",
+    "num": "adalk-6208dad0",
+    "date_str": "2026-09-22",
+    "description": "Centrum Air \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/Centrum-Air-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d91\u0dba\u0dd2/11-424311",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790056391.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-91e5b446",
     "num": "dailymirrorlk-91e5b446",
     "date_str": "2026-09-22",
@@ -57546,6 +57557,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-1c1e9b1b",
+    "num": "adalk-1c1e9b1b",
+    "date_str": "2026-09-22",
+    "description": "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db1\u0da9\u0dd4 \u0db8\u0d9c\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db1\u0da9\u0dd4-\u0db8\u0d9c\u0da7/11-424312",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790056897.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-22-dailymirrorlk-c96c5c54",
     "num": "dailymirrorlk-c96c5c54",
     "date_str": "2026-09-22",
@@ -57554,6 +57576,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790057306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-b1c7d45b",
+    "num": "dailymirrorlk-b1c7d45b",
+    "date_str": "2026-09-22",
+    "description": "Ploughing for Maha",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Ploughing-for-Maha/110-350869",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790057527.0
   },
   {
     "doc_type": "lk_news",
@@ -57719,5 +57752,148 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790065172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-ea365722",
+    "num": "dailymirrorlk-ea365722",
+    "date_str": "2026-09-22",
+    "description": "India crush Sri Lanka to retain Asian Games Gold",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-crush-Sri-Lanka-to-retain-Asian-Games-Gold/108-350893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790066055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-99cca3e7",
+    "num": "dailymirrorlk-99cca3e7",
+    "date_str": "2026-09-22",
+    "description": "State to take ownership of Neville Fernando Hospital, Air Force to manage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/State-to-take-ownership-of-Neville-Fernando-Hospital-Air-Force-to-manage/108-350894",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790066695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-07d6e691",
+    "num": "dailymirrorlk-07d6e691",
+    "date_str": "2026-09-22",
+    "description": "New Sri Lanka Cricket Bill gets Cabinet nod",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Sri-Lanka-Cricket-Bill-gets-Cabinet-nod/108-350895",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790066892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-574f447c",
+    "num": "dailymirrorlk-574f447c",
+    "date_str": "2026-09-22",
+    "description": "Mustapha, Kumarapperuma offer free legal assistance in Anojan\u2019s case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mustapha-Kumarapperuma-offer-free-legal-assistance-in-Anojans-case/108-350896",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790067372.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-b208619f",
+    "num": "dailymirrorlk-b208619f",
+    "date_str": "2026-09-22",
+    "description": "Bring reusable bags to Colombo Book Fair, CEA urges public",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bring-reusable-bags-to-Colombo-Book-Fair-CEA-urges-public/108-350897",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790068286.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-126ecefc",
+    "num": "adalk-126ecefc",
+    "date_str": "2026-09-22",
+    "description": "\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1 \u0db4\u0db1\u0dad \u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u200d\u0dbb\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0db4\u0da7\u0dc4\u0dd0\u0db1\u0dd2 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1-\u0db4\u0db1\u0dad-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u200d\u0dbb\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7-\u0db4\u0da7\u0dc4\u0dd0\u0db1\u0dd2-\u0db1\u0dd1/11-424315",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790068445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-19724045",
+    "num": "dailymirrorlk-19724045",
+    "date_str": "2026-09-22",
+    "description": "China company wins US$40.84M Muthurajawela aviation fuel contract",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-company-wins-US-40-84M-Muthurajawela-aviation-fuel-contract/108-350898",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790068455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-adalk-0151d779",
+    "num": "adalk-0151d779",
+    "date_str": "2026-09-22",
+    "description": "\u0daf\u0dd6\u0dc2\u0dab \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0db4\u0db1\u0dad\u0dda 17 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0da2\u0db1\u0db8\u0dad \u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d95\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd6\u0dc2\u0dab-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3-\u0db4\u0db1\u0dad\u0dda-17-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba\u0da7-\u0da2\u0db1\u0db8\u0dad-\u0dc0\u0dd2\u0da0\u0dcf\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d95\u0db1/11-424316",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790068673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-5317f430",
+    "num": "dailymirrorlk-5317f430",
+    "date_str": "2026-09-22",
+    "description": "Flights at major US airports delayed after cable cut by construction workers",
+    "url_metadata": "https://www.dailymirror.lk/international/Flights-at-major-US-airports-delayed-after-cable-cut-by-construction-workers/107-350900",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790070522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-c49174cd",
+    "num": "dailymirrorlk-c49174cd",
+    "date_str": "2026-09-22",
+    "description": "President telling new lies to mark second anniversary: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-telling-new-lies-to-mark-second-anniversary-Namal/108-350901",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790070636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-7290493e",
+    "num": "dailymirrorlk-7290493e",
+    "date_str": "2026-09-22",
+    "description": "SLINEX-26 ends with joint naval drills",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLINEX-26-ends-with-joint-naval-drills/108-350902",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790070842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-4376cdad",
+    "num": "dailymirrorlk-4376cdad",
+    "date_str": "2026-09-22",
+    "description": "Blood donation during Nallur Festival",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Blood-donation-during-Nallur-Festival/110-350903",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790071469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-22-dailymirrorlk-d1232cf9",
+    "num": "dailymirrorlk-d1232cf9",
+    "date_str": "2026-09-22",
+    "description": "Navy builds Sri Lanka\u2019s first waveless referee boat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-builds-Sri-Lankas-first-waveless-referee-boat/108-350904",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790071636.0
   }
 ]
