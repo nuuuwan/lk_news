@@ -58217,6 +58217,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-2bc00378",
+    "num": "adalk-2bc00378",
+    "date_str": "2026-09-23",
+    "description": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-424329",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790130112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-387f6b1e",
+    "num": "adalk-387f6b1e",
+    "date_str": "2026-09-23",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0da7 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dbb\u0db1-\u0db6\u0dc0\u0da7-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca/11-424330",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790130649.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-23-dailymirrorlk-03b2c9b1",
     "num": "dailymirrorlk-03b2c9b1",
     "date_str": "2026-09-23",
@@ -58280,5 +58302,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790137548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-10b624fd",
+    "num": "dailymirrorlk-10b624fd",
+    "date_str": "2026-09-23",
+    "description": "Govt. gazettes \u2018Protection of the State from Terrorism\u2019 Bill to replace PTA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-gazettes-Protection-of-the-State-from-Terrorism-Bill-to-replace-PTA/108-350953",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790138156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-78740c74",
+    "num": "dailymirrorlk-78740c74",
+    "date_str": "2026-09-23",
+    "description": "5,741-km elephant fence gets major resource boost",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/5-741-km-elephant-fence-gets-major-resource-boost/108-350954",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790140779.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-cc67142b",
+    "num": "dailymirrorlk-cc67142b",
+    "date_str": "2026-09-23",
+    "description": "Driving licence medicals go digital from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Driving-licence-medicals-go-digital-from-tomorrow/108-350955",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790141009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-cd8b705e",
+    "num": "dailymirrorlk-cd8b705e",
+    "date_str": "2026-09-23",
+    "description": "Couple arrested as assets worth Rs. 47.5 Mn frozen in money laundering probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Couple-arrested-as-assets-worth-Rs-47-5-Mn-frozen-in-money-laundering-probe/108-350956",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790141792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-f4d1b181",
+    "num": "dailymirrorlk-f4d1b181",
+    "date_str": "2026-09-23",
+    "description": "Court reduces sentence of couple convicted of procuring Russian woman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-reduces-sentence-of-couple-convicted-of-procuring-Russian-woman/108-350957",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790142716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-bf154630",
+    "num": "dailymirrorlk-bf154630",
+    "date_str": "2026-09-23",
+    "description": "IMF urges Sri Lanka to stay the course on economic reforms",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-urges-Sri-Lanka-to-stay-the-course-on-economic-reforms/108-350958",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790143204.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-4f1b7aff",
+    "num": "dailymirrorlk-4f1b7aff",
+    "date_str": "2026-09-23",
+    "description": "22A to be approved by Parliament on Friday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22A-to-be-approved-by-Parliament-on-Friday/108-350959",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790143864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-b97545c0",
+    "num": "dailymirrorlk-b97545c0",
+    "date_str": "2026-09-23",
+    "description": "Inclement weather in central hills",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inclement-weather-in-central-hills/108-350963",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790144596.0
   }
 ]
