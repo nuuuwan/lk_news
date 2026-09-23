@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-23 16:00:48",
-  "n_docs": 131290,
+  "time_updated": "2026-09-23 18:10:01",
+  "n_docs": 131298,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131290,
+  "n_docs_with_text": 131298,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-23",
-  "dataset_size": 2038749878,
+  "dataset_size": 2038907149,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-23-dailymirrorlk-afce4635",
-    "num": "dailymirrorlk-afce4635",
+    "doc_id": "2026-09-23-dailymirrorlk-8d98a004",
+    "num": "dailymirrorlk-8d98a004",
     "date_str": "2026-09-23",
-    "description": "Ex-Maldives President Nasheed offers help in Sivarasa Anojan case",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Maldives-President-Nasheed-offers-help-in-Sivarasa-Anojan-case/108-350987",
+    "description": "Parliament approves Rs. 17.2 bn supplementary estimate for electricity relief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-Rs-17-2-bn-supplementary-estimate-for-electricity-relief/108-350993",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790158841.0
+    "time_ut": 1790165977.0
   }
 }

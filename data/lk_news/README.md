@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_16:01:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_18:11:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,290** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-23-dailymirrorlk-afce4635",
-    "num": "dailymirrorlk-afce4635",
+    "doc_id": "2026-09-23-dailymirrorlk-8d98a004",
+    "num": "dailymirrorlk-8d98a004",
     "date_str": "2026-09-23",
-    "description": "Ex-Maldives President Nasheed offers help in Sivarasa Anojan case",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Maldives-President-Nasheed-offers-help-in-Sivarasa-Anojan-case/108-350987",
+    "description": "Parliament approves Rs. 17.2 bn supplementary estimate for electricity relief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-Rs-17-2-bn-supplementary-estimate-for-electricity-relief/108-350993",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790158841.0
+    "time_ut": 1790165977.0
 }
 ```
 
@@ -41,7 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-23 | `dailymirrorlk-8d98a004` | Parliament approves Rs. 17.2 bn supplementary estimate for electricity relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-8d98a004)
+- 2026-09-23 | `dailymirrorlk-b486f0ca` | Public assistance sought to trace suspect wanted for child abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-b486f0ca)
+- 2026-09-23 | `dailymirrorlk-762d73e0` | BASL calls for conscience vote by MPs on 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-762d73e0)
+- 2026-09-23 | `dailymirrorlk-299dddd0` | MP urges action over schoolchildren’s participation in LTTE cadre commemoration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-299dddd0)
+- 2026-09-23 | `dailymirrorlk-04009c45` | Oil holds near two-week lows while diesel cracks hit record peak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-04009c45)
+- 2026-09-23 | `dailymirrorlk-21f94998` | Sri Lanka Customs to enter paperless era from October 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-21f94998)
 - 2026-09-23 | `dailymirrorlk-afce4635` | Ex-Maldives President Nasheed offers help in Sivarasa Anojan case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-afce4635)
+- 2026-09-23 | `adalk-a16151d3` | මෙයා ගැන දන්නවනම් පොලීසියට කියන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-a16151d3)
+- 2026-09-23 | `adalk-6fe7c28b` | ඇමෙරිකාව හා ඉරානය සාකච්ඡා මාර්ගයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-6fe7c28b)
 - 2026-09-23 | `adalk-e14b65b6` | නාමල් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-e14b65b6)
 - 2026-09-23 | `dailymirrorlk-4a66b602` | More than 170,000 respiratory cases recorded in haze-choked Indonesia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-4a66b602)
 - 2026-09-23 | `dailymirrorlk-5c1da939` | Namal Rajapaksa further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-5c1da939)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-09-23 | `dailymirrorlk-f1f1f220` | US and Iran hold first talks since June after Trump’s ’annihilation’ threat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-f1f1f220)
 - 2026-09-23 | `dailymirrorlk-bf2508b2` | Inquiry launched into clash between Harak Kata and Kehelbaddara Padme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-bf2508b2)
 - 2026-09-23 | `dailymirrorlk-2b07006f` | Speaker endorses Bill to repeal  post of Chief of Defence Staff | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-2b07006f)
-- 2026-09-23 | `dailymirrorlk-6dbffba4` | Three new High Court Judges appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-6dbffba4)
-- 2026-09-23 | `dailymirrorlk-b97545c0` | Inclement weather in central hills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-b97545c0)
-- 2026-09-23 | `adalk-38b4a504` | සීට් එකේ පාද තිබ්බොත්, බස් රියේ ආහාර ගත්තොත්, අපද්‍රව්‍ය දැම්මොත් දඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-38b4a504)
-- 2026-09-23 | `adalk-96816c94` | පිරිවැය-ප්‍රතිසාධන බලශක්ති මිලකරණයක් අවශ්‍යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-96816c94)
-- 2026-09-23 | `dailymirrorlk-4f1b7aff` | 22A to be approved by Parliament on Friday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-4f1b7aff)
-- 2026-09-23 | `dailymirrorlk-bf154630` | IMF urges Sri Lanka to stay the course on economic reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-bf154630)
-- 2026-09-23 | `adalk-cff37605` | ආරක්ෂක මාණ්ඩලික ප්‍රධානී කාර්යාලයේ දේපළ ආරක්ෂක අමාත්‍යවරයා යටතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-cff37605)
-- 2026-09-23 | `dailymirrorlk-f4d1b181` | Court reduces sentence of couple convicted of procuring Russian woman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-f4d1b181)
 
 ---
 

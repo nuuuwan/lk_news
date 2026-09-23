@@ -58800,6 +58800,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-6fe7c28b",
+    "num": "adalk-6fe7c28b",
+    "date_str": "2026-09-23",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc4\u0dcf \u0d89\u0dbb\u0dcf\u0db1\u0dba \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0dc4\u0dcf-\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7/11-424337",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790156541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-a16151d3",
+    "num": "adalk-a16151d3",
+    "date_str": "2026-09-23",
+    "description": "\u0db8\u0dd9\u0dba\u0dcf \u0d9c\u0dd0\u0db1 \u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd9\u0dba\u0dcf-\u0d9c\u0dd0\u0db1-\u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1/11-424338",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790158578.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-23-dailymirrorlk-afce4635",
     "num": "dailymirrorlk-afce4635",
     "date_str": "2026-09-23",
@@ -58808,5 +58830,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790158841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-21f94998",
+    "num": "dailymirrorlk-21f94998",
+    "date_str": "2026-09-23",
+    "description": "Sri Lanka Customs to enter paperless era from October 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Customs-to-enter-paperless-era-from-October-1/108-350988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790159387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-04009c45",
+    "num": "dailymirrorlk-04009c45",
+    "date_str": "2026-09-23",
+    "description": "Oil holds near two-week lows while diesel cracks hit record peak",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-holds-near-two-week-lows-while-diesel-cracks-hit-record-peak/107-350989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790159567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-299dddd0",
+    "num": "dailymirrorlk-299dddd0",
+    "date_str": "2026-09-23",
+    "description": "MP urges action over schoolchildren\u2019s participation in LTTE cadre commemoration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MP-urges-action-over-schoolchildrens-participation-in-LTTE-cadre-commemoration/108-350990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790162599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-762d73e0",
+    "num": "dailymirrorlk-762d73e0",
+    "date_str": "2026-09-23",
+    "description": "BASL calls for conscience vote by MPs on 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790163622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-b486f0ca",
+    "num": "dailymirrorlk-b486f0ca",
+    "date_str": "2026-09-23",
+    "description": "Public assistance sought to trace suspect wanted for child abuse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-assistance-sought-to-trace-suspect-wanted-for-child-abuse/108-350992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790165474.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-8d98a004",
+    "num": "dailymirrorlk-8d98a004",
+    "date_str": "2026-09-23",
+    "description": "Parliament approves Rs. 17.2 bn supplementary estimate for electricity relief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-Rs-17-2-bn-supplementary-estimate-for-electricity-relief/108-350993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790165977.0
   }
 ]
