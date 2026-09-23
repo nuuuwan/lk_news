@@ -56567,6 +56567,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-21-dailymirrorlk-e39ac1ed",
+    "num": "dailymirrorlk-e39ac1ed",
+    "date_str": "2026-09-21",
+    "description": "Sivarasa Anojan:  Sri Lanka must not lose another citizen",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Sivarasa-Anojan-Sri-Lanka-must-not-lose-another-citizen/131-350763",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1789942789.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-21-dailymirrorlk-487e9f89",
     "num": "dailymirrorlk-487e9f89",
     "date_str": "2026-09-21",
@@ -58181,5 +58192,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790127849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-819f9aa2",
+    "num": "adalk-819f9aa2",
+    "date_str": "2026-09-23",
+    "description": "\u0d9a\u0dc3\u0dcf\u0d9c\u0dbd \u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0dcf \u0dc3\u0dd2\u0dbd\u0ddd\u0db1\u0dca \u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc4\u0dba\u0d9a \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc3\u0dcf\u0d9c\u0dbd-\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0dc4\u0dcf-\u0dc3\u0dd2\u0dbd\u0ddd\u0db1\u0dca-\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-\u0dc4\u0dba\u0d9a-\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424326",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790128425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-da35c979",
+    "num": "adalk-da35c979",
+    "date_str": "2026-09-23",
+    "description": "\u0d91\u0dbd\u0dca \u0db1\u0dd2\u0db1\u0ddd\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca \u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0dda \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dbd\u0dca-\u0db1\u0dd2\u0db1\u0ddd\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd-\u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca-\u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0dda-\u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba-\u0d89\u0dc4\u0dc5\u0da7/11-424328",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790129513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-03b2c9b1",
+    "num": "dailymirrorlk-03b2c9b1",
+    "date_str": "2026-09-23",
+    "description": "CBSL orders asset freeze on six companies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CBSL-orders-asset-freeze-on-six-companies/108-350947",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790135503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-53fa0e3e",
+    "num": "dailymirrorlk-53fa0e3e",
+    "date_str": "2026-09-23",
+    "description": "Trump threatens to annihilate Iran as diplomats push for deal at UN",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-threatens-to-annihilate-Iran-as-diplomats-push-for-deal-at-UN/107-350948",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790135694.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-928b93cf",
+    "num": "dailymirrorlk-928b93cf",
+    "date_str": "2026-09-23",
+    "description": "Fitch upgrade lifts CSE as ASPI rebounds above 21,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fitch-upgrade-lifts-CSE-as-ASPI-rebounds-above-21-000/108-350949",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790135813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-0781cbc6",
+    "num": "dailymirrorlk-0781cbc6",
+    "date_str": "2026-09-23",
+    "description": "Catholic Church  expects satisfactory judgements on other cases pertaining to Easter Sunday attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Catholic-Church-expects-satisfactory-judgements-on-other-cases-pertaining-to-Easter-Sunday-attacks/108-350950",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790136370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-0e3a1c29",
+    "num": "dailymirrorlk-0e3a1c29",
+    "date_str": "2026-09-23",
+    "description": "Suspect arrested over Rs. 24.85 Billion foreign currency transfer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-Rs-24-85-Billion-foreign-currency-transfer/108-350951",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790136508.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-b3f2b1c7",
+    "num": "dailymirrorlk-b3f2b1c7",
+    "date_str": "2026-09-23",
+    "description": "Dickwella returns to T20I Squad after five years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dickwella-returns-to-T20I-Squad-after-five-years/108-350952",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790137548.0
   }
 ]
