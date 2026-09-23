@@ -58184,6 +58184,215 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-ff4920e8",
+    "num": "dailymirrorlk-ff4920e8",
+    "date_str": "2026-09-23",
+    "description": "Aberdeen Holdings achieves carbon neutral certification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Aberdeen-Holdings-achieves-carbon-neutral-certification/273-350923",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790123432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-293736b5",
+    "num": "dailymirrorlk-293736b5",
+    "date_str": "2026-09-23",
+    "description": "FiNAC HR Optimizer more relevant today: Datamation Chief",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FiNAC-HR-Optimizer-more-relevant-today-Datamation-Chief/273-350924",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790123566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-c77a0e57",
+    "num": "dailymirrorlk-c77a0e57",
+    "date_str": "2026-09-23",
+    "description": "Prime Lands receives YouTube Silver Play Button",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Prime-Lands-receives-YouTube-Silver-Play-Button/273-350925",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790123733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-bf67dd39",
+    "num": "dailymirrorlk-bf67dd39",
+    "date_str": "2026-09-23",
+    "description": "People\u2019s Bank YES Cash Carnival Draw rewards 25 customers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-YES-Cash-Carnival-Draw-rewards-25-customers/273-350926",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-075757c5",
+    "num": "dailymirrorlk-075757c5",
+    "date_str": "2026-09-23",
+    "description": "Omega Traders marks 45 years",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Omega-Traders-marks-45-years/273-350927",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124391.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-b65ea4ec",
+    "num": "dailymirrorlk-b65ea4ec",
+    "date_str": "2026-09-23",
+    "description": "DBL introduces Dongcheng hand tools",
+    "url_metadata": "https://www.dailymirror.lk/business-news/DBL-introduces-Dongcheng-hand-tools/273-350928",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-5c885c79",
+    "num": "dailymirrorlk-5c885c79",
+    "date_str": "2026-09-23",
+    "description": "SLIIT Int\u2019l-Liverpool John Moores University inaugurate learning facility in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLIIT-Intl-Liverpool-John-Moores-University-inaugurate-learning-facility-in-Colombo/273-350929",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-8e42c4bd",
+    "num": "dailymirrorlk-8e42c4bd",
+    "date_str": "2026-09-23",
+    "description": "Correction",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Correction/273-350930",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124769.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-72416f8f",
+    "num": "dailymirrorlk-72416f8f",
+    "date_str": "2026-09-23",
+    "description": "Planters\u2019 Association\u2019s incoming chief proposes 5 - point plan for industry revival at AGM",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Planters-Associations-incoming-chief-proposes-5-point-plan-for-industry-revival-at-AGM/273-350931",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790124972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-821a32a1",
+    "num": "dailymirrorlk-821a32a1",
+    "date_str": "2026-09-23",
+    "description": "Indices close in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-green/273-350932",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790125062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-a5b61115",
+    "num": "dailymirrorlk-a5b61115",
+    "date_str": "2026-09-23",
+    "description": "Yield curve slips by 10-15bps following sovereign rating upgrade",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yield-curve-slips-by-10-15bps-following-sovereign-rating-upgrade/273-350933",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790125422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-ce6cc79b",
+    "num": "dailymirrorlk-ce6cc79b",
+    "date_str": "2026-09-23",
+    "description": "Vidullanka-led  consortium leads  Rs. 5bn transmission tender",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vidullanka-led-consortium-leads-Rs-5bn-transmission-tender/273-350934",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790125519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-4b0af813",
+    "num": "dailymirrorlk-4b0af813",
+    "date_str": "2026-09-23",
+    "description": "Sri Lanka has little room for tax hikes or cuts: IPS",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-has-little-room-for-tax-hikes-or-cuts-IPS/273-350935",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790125672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-b66f8a67",
+    "num": "dailymirrorlk-b66f8a67",
+    "date_str": "2026-09-23",
+    "description": "LMFN chief urges microfinance sector to embrace regulation as ally of growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/LMFN-chief-urges-microfinance-sector-to-embrace-regulation-as-ally-of-growth/273-350936",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790125861.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-d8f6c0cd",
+    "num": "dailymirrorlk-d8f6c0cd",
+    "date_str": "2026-09-23",
+    "description": "FITIS to hold  \u2018Sri Lanka Digital Day 2026\u2019 in November",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FITIS-to-hold-Sri-Lanka-Digital-Day-2026-in-November/273-350937",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790126329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-939cc396",
+    "num": "dailymirrorlk-939cc396",
+    "date_str": "2026-09-23",
+    "description": "Sri Lanka back in \u2018B\u2019 league",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Sri-Lanka-back-in-B-league/245-350938",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790126548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-fe516969",
+    "num": "dailymirrorlk-fe516969",
+    "date_str": "2026-09-23",
+    "description": "Easter Sunday attacks: People need to  know the truth",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Easter-Sunday-attacks-People-need-to-know-the-truth/172-350939",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790127028.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-31f6cf74",
+    "num": "dailymirrorlk-31f6cf74",
+    "date_str": "2026-09-23",
+    "description": "AKD\u2019s two years and beyond",
+    "url_metadata": "https://www.dailymirror.lk/opinion/AKDs-two-years-and-beyond/172-350940",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790127090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-4aea918b",
+    "num": "dailymirrorlk-4aea918b",
+    "date_str": "2026-09-23",
+    "description": "Easter Sunday Attack Verdict:  More a moment of reckoning than a closure",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Easter-Sunday-Attack-Verdict-More-a-moment-of-reckoning-than-a-closure/172-350942",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790127781.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-23-adalk-03959906",
     "num": "adalk-03959906",
     "date_str": "2026-09-23",
@@ -58206,6 +58415,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-bb6169d0",
+    "num": "adalk-bb6169d0",
+    "date_str": "2026-09-23",
+    "description": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/11-424327",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790129124.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-23-adalk-da35c979",
     "num": "adalk-da35c979",
     "date_str": "2026-09-23",
@@ -58225,6 +58445,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790130112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-bc3d8475",
+    "num": "dailymirrorlk-bc3d8475",
+    "date_str": "2026-09-23",
+    "description": "Is Nature Finally Striking Back at Us?",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Is-Nature-Finally-Striking-Back-at-Us/131-350945",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790130184.0
   },
   {
     "doc_type": "lk_news",
@@ -58360,6 +58591,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-cff37605",
+    "num": "adalk-cff37605",
+    "date_str": "2026-09-23",
+    "description": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dcf\u0dab\u0dca\u0da9\u0dbd\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0daf\u0dda\u0db4\u0dc5 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0dba\u0da7\u0dad\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db8\u0dcf\u0dab\u0dca\u0da9\u0dbd\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0daf\u0dda\u0db4\u0dc5-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf-\u0dba\u0da7\u0dad\u0da7/11-424331",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790142996.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-23-dailymirrorlk-bf154630",
     "num": "dailymirrorlk-bf154630",
     "date_str": "2026-09-23",
@@ -58390,5 +58632,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790144596.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-6dbffba4",
+    "num": "dailymirrorlk-6dbffba4",
+    "date_str": "2026-09-23",
+    "description": "Three new High Court Judges appointed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-new-High-Court-Judges-appointed/108-350966",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790144966.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-2b07006f",
+    "num": "dailymirrorlk-2b07006f",
+    "date_str": "2026-09-23",
+    "description": "Speaker endorses Bill to repeal  post of Chief of Defence Staff",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Speaker-endorses-Bill-to-repeal-post-of-Chief-of-Defence-Staff/108-350968",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790145146.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-bf2508b2",
+    "num": "dailymirrorlk-bf2508b2",
+    "date_str": "2026-09-23",
+    "description": "Inquiry launched into clash between Harak Kata and Kehelbaddara Padme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inquiry-launched-into-clash-between-Harak-Kata-and-Kehelbaddara-Padme/108-350974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790147626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-dailymirrorlk-f1f1f220",
+    "num": "dailymirrorlk-f1f1f220",
+    "date_str": "2026-09-23",
+    "description": "US and Iran hold first talks since June after Trump\u2019s \u2019annihilation\u2019 threat",
+    "url_metadata": "https://www.dailymirror.lk/international/US-and-Iran-hold-first-talks-since-June-after-Trumps-annihilation-threat/107-350975",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790148009.0
   }
 ]

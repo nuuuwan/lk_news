@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_12:11:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--23_14:05:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,252** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-23-dailymirrorlk-b97545c0",
-    "num": "dailymirrorlk-b97545c0",
+    "doc_id": "2026-09-23-dailymirrorlk-f1f1f220",
+    "num": "dailymirrorlk-f1f1f220",
     "date_str": "2026-09-23",
-    "description": "Inclement weather in central hills",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inclement-weather-in-central-hills/108-350963",
+    "description": "US and Iran hold first talks since June after Trump\u2019s \u2019annihilation\u2019 threat",
+    "url_metadata": "https://www.dailymirror.lk/international/US-and-Iran-hold-first-talks-since-June-after-Trumps-annihilation-threat/107-350975",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790144596.0
+    "time_ut": 1790148009.0
 }
 ```
 
@@ -41,9 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-23 | `dailymirrorlk-f1f1f220` | US and Iran hold first talks since June after Trump’s ’annihilation’ threat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-f1f1f220)
+- 2026-09-23 | `dailymirrorlk-bf2508b2` | Inquiry launched into clash between Harak Kata and Kehelbaddara Padme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-bf2508b2)
+- 2026-09-23 | `dailymirrorlk-2b07006f` | Speaker endorses Bill to repeal  post of Chief of Defence Staff | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-2b07006f)
+- 2026-09-23 | `dailymirrorlk-6dbffba4` | Three new High Court Judges appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-6dbffba4)
 - 2026-09-23 | `dailymirrorlk-b97545c0` | Inclement weather in central hills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-b97545c0)
 - 2026-09-23 | `dailymirrorlk-4f1b7aff` | 22A to be approved by Parliament on Friday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-4f1b7aff)
 - 2026-09-23 | `dailymirrorlk-bf154630` | IMF urges Sri Lanka to stay the course on economic reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-bf154630)
+- 2026-09-23 | `adalk-cff37605` | ආරක්ෂක මාණ්ඩලික ප්‍රධානී කාර්යාලයේ දේපළ ආරක්ෂක අමාත්‍යවරයා යටතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-cff37605)
 - 2026-09-23 | `dailymirrorlk-f4d1b181` | Court reduces sentence of couple convicted of procuring Russian woman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-f4d1b181)
 - 2026-09-23 | `dailymirrorlk-cd8b705e` | Couple arrested as assets worth Rs. 47.5 Mn frozen in money laundering probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-cd8b705e)
 - 2026-09-23 | `dailymirrorlk-cc67142b` | Driving licence medicals go digital from tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-cc67142b)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-23 | `dailymirrorlk-53fa0e3e` | Trump threatens to annihilate Iran as diplomats push for deal at UN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-53fa0e3e)
 - 2026-09-23 | `dailymirrorlk-03b2c9b1` | CBSL orders asset freeze on six companies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-03b2c9b1)
 - 2026-09-23 | `adalk-387f6b1e` | ඉරානය විනාශ කරන බවට ට්‍රම්ප්ගෙන් යළිත් තර්ජනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-387f6b1e)
-- 2026-09-23 | `adalk-2bc00378` | තද වැසි ගැන අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-2bc00378)
-- 2026-09-23 | `adalk-da35c979` | එල් නිනෝව තවත් ප්‍රභල වෙමින් පැසිෆික් සාගරයේ උෂ්ණත්වය ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-da35c979)
-- 2026-09-23 | `adalk-819f9aa2` | කසාගල ග්‍රීන් හා සිලෝන් ග්‍රීන් ලයිෆ් ඇතුළු සමාගම් හයක වත්කම් තහනම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-819f9aa2)
-- 2026-09-23 | `adalk-03959906` | පාස්කු මහ නඩුවේ චූදිතයන්ට වසර 200කට අධික සිර දඩුවම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-03959906)
-- 2026-09-22 | `dailymirrorlk-fe05fc00` | 15 convicted in Easter Sunday case, each handed 220-year sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-22-dailymirrorlk-fe05fc00)
 
 ---
 
