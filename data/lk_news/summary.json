@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-23 14:04:55",
-  "n_docs": 131278,
+  "time_updated": "2026-09-23 16:00:48",
+  "n_docs": 131290,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131278,
+  "n_docs_with_text": 131290,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-23",
-  "dataset_size": 2038467990,
+  "dataset_size": 2038749878,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-23-dailymirrorlk-f1f1f220",
-    "num": "dailymirrorlk-f1f1f220",
+    "doc_id": "2026-09-23-dailymirrorlk-afce4635",
+    "num": "dailymirrorlk-afce4635",
     "date_str": "2026-09-23",
-    "description": "US and Iran hold first talks since June after Trump\u2019s \u2019annihilation\u2019 threat",
-    "url_metadata": "https://www.dailymirror.lk/international/US-and-Iran-hold-first-talks-since-June-after-Trumps-annihilation-threat/107-350975",
+    "description": "Ex-Maldives President Nasheed offers help in Sivarasa Anojan case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Maldives-President-Nasheed-offers-help-in-Sivarasa-Anojan-case/108-350987",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790148009.0
+    "time_ut": 1790158841.0
   }
 }
