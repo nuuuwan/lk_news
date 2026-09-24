@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_10:04:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_12:10:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,316** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,323** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-24-dailymirrorlk-4104ee77",
-    "num": "dailymirrorlk-4104ee77",
+    "doc_id": "2026-09-24-dailymirrorlk-d71c0bd7",
+    "num": "dailymirrorlk-d71c0bd7",
     "date_str": "2026-09-24",
-    "description": "Opposition holds protest near Parliamentary Complex",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+    "description": "Parliamentary debate on 22nd Amendment begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790223543.0
+    "time_ut": 1790230070.0
 }
 ```
 
@@ -41,10 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-24 | `dailymirrorlk-d71c0bd7` | Parliamentary debate on 22nd Amendment begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-d71c0bd7)
+- 2026-09-24 | `adalk-34134293` | නව මන්ත්‍රිවරයෙක් දිවුරුම් දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-34134293)
+- 2026-09-24 | `adalk-0d0e0824` | පළාත් අටක ආදායම් බලපත්‍ර නිකුත් කිරිම දින තුනකට නවති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-0d0e0824)
+- 2026-09-24 | `dailymirrorlk-d240ad6e` | Security tightened around Parliament amid 22nd Amendment debate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-d240ad6e)
+- 2026-09-24 | `dailymirrorlk-94a6a84c` | Australia says OpenAI agent hacked into government website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-94a6a84c)
+- 2026-09-24 | `dailymirrorlk-0b54bdb4` | Habib Rifan sworn in as MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-0b54bdb4)
 - 2026-09-24 | `dailymirrorlk-4104ee77` | Opposition holds protest near Parliamentary Complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-4104ee77)
 - 2026-09-24 | `dailymirrorlk-ab3e6333` | Revenue license system goes offline in eight provinces for four days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-ab3e6333)
 - 2026-09-24 | `dailymirrorlk-8afe9544` | Galle Face child abuse case: Police seek information to identify suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-8afe9544)
 - 2026-09-24 | `dailymirrorlk-6d4f0b42` | Trump offers warm welcome as China’s Xi arrives for US visit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-6d4f0b42)
+- 2026-09-24 | `adalk-278f4375` | මුල් මාස අටේ අපනයන ආදායම ඩොලර් බිලියන 12 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-278f4375)
 - 2026-09-24 | `adalk-70c61617` | විදුලිබිලට සහන දෙන්න රු.බි. 17.3ක පරිපූරක ඇස්තමේන්තුවට අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-70c61617)
 - 2026-09-24 | `adalk-e7ea8cbe` | අදත් මිලි මිටර් 100ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-e7ea8cbe)
 - 2026-09-24 | `adalk-48ba60c8` | මහජන බැංකු YES CASH CANIVAL ජ්‍යග්‍රාහකයන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-48ba60c8)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-09-23 | `dailymirrorlk-3681c3de` | Navy Commander visits Northern Naval Command | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-3681c3de)
 - 2026-09-23 | `dailymirrorlk-82e4f5a6` | CSE extends rebound as ASPI holds above 21,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-82e4f5a6)
 - 2026-09-23 | `dailymirrorlk-835f6c9f` | Deep depression to cross coastal areas of India tonight: Met. Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-835f6c9f)
-- 2026-09-23 | `dailymirrorlk-d71bc1bb` | Sectoral Oversight Committee approves 22A, Judicature Amendment Bills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-d71bc1bb)
-- 2026-09-23 | `dailymirrorlk-8d98a004` | Parliament approves Rs. 17.2 bn supplementary estimate for electricity relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-8d98a004)
-- 2026-09-23 | `dailymirrorlk-b486f0ca` | Public assistance sought to trace suspect wanted for child abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-b486f0ca)
-- 2026-09-23 | `dailymirrorlk-762d73e0` | BASL calls for conscience vote by MPs on 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-762d73e0)
-- 2026-09-23 | `dailymirrorlk-299dddd0` | MP urges action over schoolchildren’s participation in LTTE cadre commemoration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-299dddd0)
-- 2026-09-23 | `adalk-d03222d1` | ආබාධ සහිත පුද්ගලයන්ට රියදුරු බලපත්‍ර ලබාගැනීම පහසු කිරීමට පියවර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-d03222d1)
-- 2026-09-23 | `adalk-1e89afd1` | විදුහල්පති සේවයේ වැටුප් විෂමතා විසඳීමට අනුකාරක සභාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-1e89afd1)
 
 ---
 

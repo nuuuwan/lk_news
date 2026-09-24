@@ -59053,6 +59053,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-278f4375",
+    "num": "adalk-278f4375",
+    "date_str": "2026-09-24",
+    "description": "\u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0d85\u0da7\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 12 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0dbd\u0dca-\u0db8\u0dcf\u0dc3-\u0d85\u0da7\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-12-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-424347",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790216644.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-24-dailymirrorlk-6d4f0b42",
     "num": "dailymirrorlk-6d4f0b42",
     "date_str": "2026-09-24",
@@ -59094,5 +59105,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790223543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-0b54bdb4",
+    "num": "dailymirrorlk-0b54bdb4",
+    "date_str": "2026-09-24",
+    "description": "Habib Rifan sworn in as MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Habib-Rifan-sworn-in-as-MP/108-351004",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790223721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-94a6a84c",
+    "num": "dailymirrorlk-94a6a84c",
+    "date_str": "2026-09-24",
+    "description": "Australia says OpenAI agent hacked into government website",
+    "url_metadata": "https://www.dailymirror.lk/international/Australia-says-OpenAI-agent-hacked-into-government-website/107-351008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790227596.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-d240ad6e",
+    "num": "dailymirrorlk-d240ad6e",
+    "date_str": "2026-09-24",
+    "description": "Security tightened around Parliament amid 22nd Amendment debate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Security-tightened-around-Parliament-amid-22nd-Amendment-debate/108-351009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790228026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-0d0e0824",
+    "num": "adalk-0d0e0824",
+    "date_str": "2026-09-24",
+    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d85\u0da7\u0d9a \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd2\u0db8 \u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0db1\u0dc0\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d85\u0da7\u0d9a-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8-\u0daf\u0dd2\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0db1\u0dc0\u0dad\u0dd2/11-424348",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790228243.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-34134293",
+    "num": "adalk-34134293",
+    "date_str": "2026-09-24",
+    "description": "\u0db1\u0dc0 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-424351",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790229607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-d71c0bd7",
+    "num": "dailymirrorlk-d71c0bd7",
+    "date_str": "2026-09-24",
+    "description": "Parliamentary debate on 22nd Amendment begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790230070.0
   }
 ]
