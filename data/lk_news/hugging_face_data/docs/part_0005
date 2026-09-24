@@ -59482,6 +59482,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-9b8257d0",
+    "num": "adalk-9b8257d0",
+    "date_str": "2026-09-24",
+    "description": "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0dad\u0dc4\u0db1\u0db8 \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0dad\u0dc4\u0db1\u0db8-\u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/11-424352",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790235748.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-24-dailymirrorlk-d8c7dda1",
     "num": "dailymirrorlk-d8c7dda1",
     "date_str": "2026-09-24",
@@ -59578,5 +59589,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790245225.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-338fdff7",
+    "num": "adalk-338fdff7",
+    "date_str": "2026-09-24",
+    "description": "\u0da2\u0db4\u0db1\u0dca \u0dc3\u0dc4 \u0dbb\u0dd4\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf  \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dc0 \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0db1\u0dca-\u0dc3\u0dc4-\u0dbb\u0dd4\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf--\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0dc3\u0db3\u0dc4\u0dcf-\u0db1\u0dc0-\u0db1\u0dd3\u0dad\u0dd2\u0dba\u0d9a\u0dca/11-424353",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790247518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-f8041504",
+    "num": "adalk-f8041504",
+    "date_str": "2026-09-24",
+    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0dd0\u0dc3\u0dd2, \u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0dc3\u0ddc\u0dbb\u0ddc\u0dc0\u0dca\u0dc0 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba\u0da7-\u0d85\u0db0\u0dd2\u0d9a-\u0dc0\u0dd0\u0dc3\u0dd2--\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2-\u0dc0\u0dd0\u0dc0\u0dda-\u0dc3\u0ddc\u0dbb\u0ddc\u0dc0\u0dca\u0dc0-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424356",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790248589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-bcb63aa2",
+    "num": "dailymirrorlk-bcb63aa2",
+    "date_str": "2026-09-24",
+    "description": "Ruling party MPs pose for photo in Parliament canteen",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ruling-party-MPs-pose-for-photo-in-Parliament-canteen/108-351072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790253194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-36d354a5",
+    "num": "dailymirrorlk-36d354a5",
+    "date_str": "2026-09-24",
+    "description": "Vijitha Herath to address UN General Assembly on September 28",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-address-UN-General-Assembly-on-September-28/108-351073",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790253899.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-b4f115e3",
+    "num": "dailymirrorlk-b4f115e3",
+    "date_str": "2026-09-24",
+    "description": "National media guidelines proposed to protect children\u2019s privacy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-media-guidelines-proposed-to-protect-childrens-privacy/108-351074",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790254091.0
   }
 ]

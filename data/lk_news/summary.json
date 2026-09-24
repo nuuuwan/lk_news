@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-24 15:58:15",
-  "n_docs": 131360,
+  "time_updated": "2026-09-24 18:20:11",
+  "n_docs": 131366,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131360,
+  "n_docs_with_text": 131366,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-24",
-  "dataset_size": 2039675439,
+  "dataset_size": 2039725070,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-24-dailymirrorlk-d9c99496",
-    "num": "dailymirrorlk-d9c99496",
+    "doc_id": "2026-09-24-dailymirrorlk-b4f115e3",
+    "num": "dailymirrorlk-b4f115e3",
     "date_str": "2026-09-24",
-    "description": "Urgent treatment begins for \u2018Kavantissa\u2019 elephant in Galgamuwa",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Urgent-treatment-begins-for-Kavantissa-elephant-in-Galgamuwa/108-351062",
+    "description": "National media guidelines proposed to protect children\u2019s privacy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-media-guidelines-proposed-to-protect-childrens-privacy/108-351074",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790245225.0
+    "time_ut": 1790254091.0
   }
 }
