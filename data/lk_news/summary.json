@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-24 18:20:11",
-  "n_docs": 131366,
+  "time_updated": "2026-09-24 22:01:59",
+  "n_docs": 131383,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131366,
+  "n_docs_with_text": 131383,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-24",
-  "dataset_size": 2039725070,
+  "dataset_size": 2039803241,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-24-dailymirrorlk-b4f115e3",
-    "num": "dailymirrorlk-b4f115e3",
+    "doc_id": "2026-09-24-dailymirrorlk-c20fe256",
+    "num": "dailymirrorlk-c20fe256",
     "date_str": "2026-09-24",
-    "description": "National media guidelines proposed to protect children\u2019s privacy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-media-guidelines-proposed-to-protect-childrens-privacy/108-351074",
+    "description": "Fake website misuses Foreign Bureau name to collect job seekers\u2019 personal data",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fake-website-misuses-Foreign-Bureau-name-to-collect-job-seekers-personal-data/108-351079",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790254091.0
+    "time_ut": 1790262987.0
   }
 }
