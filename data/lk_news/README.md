@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_12:10:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_14:07:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,323** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,353** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-24-dailymirrorlk-d71c0bd7",
-    "num": "dailymirrorlk-d71c0bd7",
+    "doc_id": "2026-09-24-dailymirrorlk-e086eb3c",
+    "num": "dailymirrorlk-e086eb3c",
     "date_str": "2026-09-24",
-    "description": "Parliamentary debate on 22nd Amendment begins",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+    "description": "Flood warning for Kuda Ganga extended by 48 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warning-for-Kuda-Ganga-extended-by-48-hours/108-351050",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790230070.0
+    "time_ut": 1790236564.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-24 | `dailymirrorlk-e086eb3c` | Flood warning for Kuda Ganga extended by 48 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-e086eb3c)
+- 2026-09-24 | `dailymirrorlk-d8c7dda1` | Police uncover real story behind viral ‘extortion’ video | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-d8c7dda1)
+- 2026-09-24 | `dailymirrorlk-4ae435c4` | Against 22A... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-4ae435c4)
+- 2026-09-24 | `dailymirrorlk-2a113714` | Judges will have option of retiring early despite new retirement age: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-2a113714)
+- 2026-09-24 | `dailymirrorlk-982bdd62` | No regrets whatsoever, accused still hold onto their ideology: ASG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-982bdd62)
+- 2026-09-24 | `dailymirrorlk-3eb61c96` | What is the 22nd Amendment to the Constitution? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-3eb61c96)
+- 2026-09-24 | `dailymirrorlk-dda2bd9d` | Why are ministers  still complaining about bureaucratic bottlenecks? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-dda2bd9d)
+- 2026-09-24 | `dailymirrorlk-1ae3add1` | Bill on dog registration and rabies elimination presented in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-1ae3add1)
+- 2026-09-24 | `dailymirrorlk-11af8746` | Another Damper for Aussie Dream of Lankans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-11af8746)
+- 2026-09-24 | `dailymirrorlk-e5e4e53f` | The burden of road traffic accidents in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-e5e4e53f)
 - 2026-09-24 | `dailymirrorlk-d71c0bd7` | Parliamentary debate on 22nd Amendment begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-d71c0bd7)
+- 2026-09-24 | `dailymirrorlk-e765b34a` | Fitch upgrade paves way for investment-led growth; DFIs urged to go beyond lending: CB Governor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-e765b34a)
+- 2026-09-24 | `dailymirrorlk-ca2f469e` | CCC urges targeted poverty relief after Fitch upgrade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-ca2f469e)
+- 2026-09-24 | `dailymirrorlk-50645b59` | Apparel slump tests Sri Lanka’s US $ 12bn export run | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-50645b59)
 - 2026-09-24 | `adalk-34134293` | නව මන්ත්‍රිවරයෙක් දිවුරුම් දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-34134293)
-- 2026-09-24 | `adalk-0d0e0824` | පළාත් අටක ආදායම් බලපත්‍ර නිකුත් කිරිම දින තුනකට නවති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-0d0e0824)
-- 2026-09-24 | `dailymirrorlk-d240ad6e` | Security tightened around Parliament amid 22nd Amendment debate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-d240ad6e)
-- 2026-09-24 | `dailymirrorlk-94a6a84c` | Australia says OpenAI agent hacked into government website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-94a6a84c)
-- 2026-09-24 | `dailymirrorlk-0b54bdb4` | Habib Rifan sworn in as MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-0b54bdb4)
-- 2026-09-24 | `dailymirrorlk-4104ee77` | Opposition holds protest near Parliamentary Complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-4104ee77)
-- 2026-09-24 | `dailymirrorlk-ab3e6333` | Revenue license system goes offline in eight provinces for four days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-ab3e6333)
-- 2026-09-24 | `dailymirrorlk-8afe9544` | Galle Face child abuse case: Police seek information to identify suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-8afe9544)
-- 2026-09-24 | `dailymirrorlk-6d4f0b42` | Trump offers warm welcome as China’s Xi arrives for US visit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-6d4f0b42)
-- 2026-09-24 | `adalk-278f4375` | මුල් මාස අටේ අපනයන ආදායම ඩොලර් බිලියන 12 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-278f4375)
-- 2026-09-24 | `adalk-70c61617` | විදුලිබිලට සහන දෙන්න රු.බි. 17.3ක පරිපූරක ඇස්තමේන්තුවට අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-70c61617)
-- 2026-09-24 | `adalk-e7ea8cbe` | අදත් මිලි මිටර් 100ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-e7ea8cbe)
-- 2026-09-24 | `adalk-48ba60c8` | මහජන බැංකු YES CASH CANIVAL ජ්‍යග්‍රාහකයන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-48ba60c8)
-- 2026-09-23 | `adalk-eed4e3fa` | විචක්ෂණශීලී ප්‍රතිපත්ති සහ ප්‍රතිසංස්කරණ අවශ්‍යයි - IMF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-eed4e3fa)
-- 2026-09-23 | `dailymirrorlk-c247d28b` | Sri Lanka Easter attacks convicts to challenge 200-year jail terms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-c247d28b)
-- 2026-09-23 | `dailymirrorlk-6696bb62` | One dead, two injured in Moratuwa Soysapura Housing Complex fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-6696bb62)
-- 2026-09-23 | `dailymirrorlk-3681c3de` | Navy Commander visits Northern Naval Command | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-3681c3de)
-- 2026-09-23 | `dailymirrorlk-82e4f5a6` | CSE extends rebound as ASPI holds above 21,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-82e4f5a6)
-- 2026-09-23 | `dailymirrorlk-835f6c9f` | Deep depression to cross coastal areas of India tonight: Met. Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-835f6c9f)
+- 2026-09-24 | `dailymirrorlk-39fa0a33` | Stronger revenues put tax relief on table: IMF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-39fa0a33)
+- 2026-09-24 | `dailymirrorlk-98505aaa` | Central Bank freezes assets of 6 firms and their directors over deposit-taking concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-98505aaa)
+- 2026-09-24 | `dailymirrorlk-2bed3a52` | Venue shortage cost Sri Lanka an Indian film festival:  Deputy Tourism Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-2bed3a52)
+- 2026-09-24 | `dailymirrorlk-1ca7b4a7` | Development banking needs tax relief and sharper aim to take off, says Bingumal Thewarathanthri | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-1ca7b4a7)
+- 2026-09-24 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-dailymirrorlk-821a32a1)
 
 ---
 
