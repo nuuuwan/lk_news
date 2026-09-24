@@ -59501,5 +59501,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790236564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-06d4321b",
+    "num": "dailymirrorlk-06d4321b",
+    "date_str": "2026-09-24",
+    "description": "Dambulla tourist hotel fined Rs. 500,000 for overcharging on bottled water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dambulla-tourist-hotel-fined-Rs-500-000-for-overcharging-on-bottled-water/108-351053",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790239217.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-4faaaf67",
+    "num": "dailymirrorlk-4faaaf67",
+    "date_str": "2026-09-24",
+    "description": "Transport medical tokens go online today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Transport-medical-tokens-go-online-today/108-351054",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790239347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-23c44f09",
+    "num": "dailymirrorlk-23c44f09",
+    "date_str": "2026-09-24",
+    "description": "Piumi Hansamali withdraws writ petition challenging CID probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Piumi-Hansamali-withdraws-writ-petition-challenging-CID-probe/108-351057",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790241692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-6237214a",
+    "num": "dailymirrorlk-6237214a",
+    "date_str": "2026-09-24",
+    "description": "Judge temporarily overturns Trump\u2019s White House media ban",
+    "url_metadata": "https://www.dailymirror.lk/international/Judge-temporarily-overturns-Trumps-White-House-media-ban/107-351059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790241840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-289f5e84",
+    "num": "dailymirrorlk-289f5e84",
+    "date_str": "2026-09-24",
+    "description": "Former Krrish Group Director Janaki Siriwardena arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Krrish-Group-Director-Janaki-Siriwardena-arrested/108-351060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790242365.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-32e5f398",
+    "num": "dailymirrorlk-32e5f398",
+    "date_str": "2026-09-24",
+    "description": "NPP unity will be clear in 22nd Amendment vote: Harini",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-unity-will-be-clear-in-22nd-Amendment-vote-Harini/108-351061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790243721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-d9c99496",
+    "num": "dailymirrorlk-d9c99496",
+    "date_str": "2026-09-24",
+    "description": "Urgent treatment begins for \u2018Kavantissa\u2019 elephant in Galgamuwa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Urgent-treatment-begins-for-Kavantissa-elephant-in-Galgamuwa/108-351062",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790245225.0
   }
 ]
