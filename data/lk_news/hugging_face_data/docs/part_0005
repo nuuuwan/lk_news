@@ -59028,5 +59028,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790210526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-e7ea8cbe",
+    "num": "adalk-e7ea8cbe",
+    "date_str": "2026-09-24",
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd2\u0da7\u0dbb\u0dca 100\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db8\u0dd2\u0dbd\u0dd2-\u0db8\u0dd2\u0da7\u0dbb\u0dca-100\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc0\u0dd0\u0dc3\u0dd2/11-424345",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790215115.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-70c61617",
+    "num": "adalk-70c61617",
+    "date_str": "2026-09-24",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dd2\u0dbd\u0da7 \u0dc3\u0dc4\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dbb\u0dd4.\u0db6\u0dd2. 17.3\u0d9a \u0db4\u0dbb\u0dd2\u0db4\u0dd6\u0dbb\u0d9a \u0d87\u0dc3\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dd2\u0dbd\u0da7-\u0dc3\u0dc4\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dbb\u0dd4-\u0db6\u0dd2--17-3\u0d9a-\u0db4\u0dbb\u0dd2\u0db4\u0dd6\u0dbb\u0d9a-\u0d87\u0dc3\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-424346",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790216008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-6d4f0b42",
+    "num": "dailymirrorlk-6d4f0b42",
+    "date_str": "2026-09-24",
+    "description": "Trump offers warm welcome as China\u2019s Xi arrives for US visit",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-offers-warm-welcome-as-Chinas-Xi-arrives-for-US-visit/107-351000",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790220497.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-8afe9544",
+    "num": "dailymirrorlk-8afe9544",
+    "date_str": "2026-09-24",
+    "description": "Galle Face child abuse case: Police seek information to identify suspect",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Galle-Face-child-abuse-case-Police-seek-information-to-identify-suspect/108-351001",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790220924.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-ab3e6333",
+    "num": "dailymirrorlk-ab3e6333",
+    "date_str": "2026-09-24",
+    "description": "Revenue license system goes offline in eight provinces for four days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Revenue-license-system-goes-offline-in-eight-provinces-for-four-days/108-351002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790222689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-dailymirrorlk-4104ee77",
+    "num": "dailymirrorlk-4104ee77",
+    "date_str": "2026-09-24",
+    "description": "Opposition holds protest near Parliamentary Complex",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790223543.0
   }
 ]
