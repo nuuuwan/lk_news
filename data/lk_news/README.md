@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_06:23:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_08:04:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,309** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,310** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2026-09-23 | `dailymirrorlk-b486f0ca` | Public assistance sought to trace suspect wanted for child abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-b486f0ca)
 - 2026-09-23 | `dailymirrorlk-762d73e0` | BASL calls for conscience vote by MPs on 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-762d73e0)
 - 2026-09-23 | `dailymirrorlk-299dddd0` | MP urges action over schoolchildren’s participation in LTTE cadre commemoration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-299dddd0)
+- 2026-09-23 | `adalk-d03222d1` | ආබාධ සහිත පුද්ගලයන්ට රියදුරු බලපත්‍ර ලබාගැනීම පහසු කිරීමට පියවර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-d03222d1)
 - 2026-09-23 | `adalk-1e89afd1` | විදුහල්පති සේවයේ වැටුප් විෂමතා විසඳීමට අනුකාරක සභාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-1e89afd1)
 - 2026-09-23 | `dailymirrorlk-04009c45` | Oil holds near two-week lows while diesel cracks hit record peak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-04009c45)
 - 2026-09-23 | `dailymirrorlk-21f94998` | Sri Lanka Customs to enter paperless era from October 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-21f94998)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-23 | `dailymirrorlk-afce4635` | Ex-Maldives President Nasheed offers help in Sivarasa Anojan case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-afce4635)
 - 2026-09-23 | `adalk-a16151d3` | මෙයා ගැන දන්නවනම් පොලීසියට කියන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-a16151d3)
 - 2026-09-23 | `adalk-6fe7c28b` | ඇමෙරිකාව හා ඉරානය සාකච්ඡා මාර්ගයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-6fe7c28b)
-- 2026-09-23 | `adalk-e14b65b6` | නාමල් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-e14b65b6)
 
 ---
 
