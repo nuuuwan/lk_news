@@ -58995,5 +58995,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790178798.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-23-adalk-eed4e3fa",
+    "num": "adalk-eed4e3fa",
+    "date_str": "2026-09-23",
+    "description": "\u0dc0\u0dd2\u0da0\u0d9a\u0dca\u0dc2\u0dab\u0dc1\u0dd3\u0dbd\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2 - IMF",
+    "url_metadata": "https://www.ada.lk/business/\u0dc0\u0dd2\u0da0\u0d9a\u0dca\u0dc2\u0dab\u0dc1\u0dd3\u0dbd\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2-\u0dc3\u0dc4-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2---IMF/7-424342",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790179878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-48ba60c8",
+    "num": "adalk-48ba60c8",
+    "date_str": "2026-09-24",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 YES CASH CANIVAL \u0da2\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-YES-CASH-CANIVAL-\u0da2\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0db1\u0dca/7-424343",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790210526.0
   }
 ]

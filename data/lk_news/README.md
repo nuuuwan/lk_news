@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_03:58:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_06:23:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,307** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,309** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-23-dailymirrorlk-c247d28b",
-    "num": "dailymirrorlk-c247d28b",
-    "date_str": "2026-09-23",
-    "description": "Sri Lanka Easter attacks convicts to challenge 200-year jail terms",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Easter-attacks-convicts-to-challenge-200-year-jail-terms/108-350999",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790178798.0
+    "doc_id": "2026-09-24-adalk-48ba60c8",
+    "num": "adalk-48ba60c8",
+    "date_str": "2026-09-24",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 YES CASH CANIVAL \u0da2\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-YES-CASH-CANIVAL-\u0da2\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba\u0db1\u0dca/7-424343",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790210526.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-24 | `adalk-48ba60c8` | මහජන බැංකු YES CASH CANIVAL ජ්‍යග්‍රාහකයන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-24-adalk-48ba60c8)
+- 2026-09-23 | `adalk-eed4e3fa` | විචක්ෂණශීලී ප්‍රතිපත්ති සහ ප්‍රතිසංස්කරණ අවශ්‍යයි - IMF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-eed4e3fa)
 - 2026-09-23 | `dailymirrorlk-c247d28b` | Sri Lanka Easter attacks convicts to challenge 200-year jail terms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-c247d28b)
 - 2026-09-23 | `dailymirrorlk-6696bb62` | One dead, two injured in Moratuwa Soysapura Housing Complex fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-6696bb62)
 - 2026-09-23 | `dailymirrorlk-3681c3de` | Navy Commander visits Northern Naval Command | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-3681c3de)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-23 | `adalk-a16151d3` | මෙයා ගැන දන්නවනම් පොලීසියට කියන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-a16151d3)
 - 2026-09-23 | `adalk-6fe7c28b` | ඇමෙරිකාව හා ඉරානය සාකච්ඡා මාර්ගයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-6fe7c28b)
 - 2026-09-23 | `adalk-e14b65b6` | නාමල් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-adalk-e14b65b6)
-- 2026-09-23 | `dailymirrorlk-4a66b602` | More than 170,000 respiratory cases recorded in haze-choked Indonesia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-4a66b602)
-- 2026-09-23 | `dailymirrorlk-5c1da939` | Namal Rajapaksa further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-23-dailymirrorlk-5c1da939)
 
 ---
 
