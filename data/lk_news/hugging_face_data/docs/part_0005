@@ -59878,6 +59878,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-9f61b314",
+    "num": "adalk-9f61b314",
+    "date_str": "2026-09-25",
+    "description": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0db1\u0db8\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dbb\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dc3\u0dda\u0dc0\u0dcf-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda-\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4-\u0d91\u0d9a\u0dad\u0dd4-\u0d9a\u0dbb\u0db1-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2-\u0dc0\u0dd9\u0db6\u0dca-\u0d85\u0da9\u0dc0\u0dd2\u0dba\u0d9a\u0dca/11-424363",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790304525.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-957d1689",
+    "num": "adalk-957d1689",
+    "date_str": "2026-09-25",
+    "description": "\u0dc5\u0db8\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dc1\u0dcf\u0dbb\u0dd3\u0dbb\u0dd2\u0d9a \u0daf\u0dab\u0dca\u0da9\u0db1\u0dba \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc5\u0db8\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dbb\u0db1-\u0dc1\u0dcf\u0dbb\u0dd3\u0dbb\u0dd2\u0d9a-\u0daf\u0dab\u0dca\u0da9\u0db1\u0dba-\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db1\u0dd3\u0dad\u0dd2\u0db8\u0dba-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1/11-424364",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790304998.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-68cd660e",
+    "num": "adalk-68cd660e",
+    "date_str": "2026-09-25",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d85\u0dc0\u0da7 \u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba\u0da7 \u0dad\u0dc4\u0db1\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d85\u0dc0\u0da7-\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a-\u0d86\u0dc4\u0dcf\u0dbb-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba\u0da7-\u0dad\u0dc4\u0db1\u0db8\u0d9a\u0dca/11-424365",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790305493.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-b4181cf4",
     "num": "dailymirrorlk-b4181cf4",
     "date_str": "2026-09-25",
@@ -59908,5 +59941,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790309646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-cfefdf3b",
+    "num": "dailymirrorlk-cfefdf3b",
+    "date_str": "2026-09-25",
+    "description": "25 Indonesian fishermen rescued",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/25-Indonesian-fishermen-rescued/110-351082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790309646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-b5090b03",
+    "num": "dailymirrorlk-b5090b03",
+    "date_str": "2026-09-25",
+    "description": "Opposition MPs wear black in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-MPs-wear-black-in-Parliament/108-351083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790310924.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-74f511c8",
+    "num": "dailymirrorlk-74f511c8",
+    "date_str": "2026-09-25",
+    "description": "Ruling party MPs urged to vote according to conscience",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ruling-party-MPs-urged-to-vote-according-to-conscience/108-351084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790311047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-8370e9a3",
+    "num": "dailymirrorlk-8370e9a3",
+    "date_str": "2026-09-25",
+    "description": "US airlines oppose China\u2019s bid to add more flights",
+    "url_metadata": "https://www.dailymirror.lk/international/US-airlines-oppose-Chinas-bid-to-add-more-flights/107-351085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790313041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-67fcb3e5",
+    "num": "dailymirrorlk-67fcb3e5",
+    "date_str": "2026-09-25",
+    "description": "After 22A, NPP Govt to begin work on new Constitution",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/After-22A-NPP-Govt-to-begin-work-on-new-Constitution/108-351086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790313196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-7acefdf0",
+    "num": "dailymirrorlk-7acefdf0",
+    "date_str": "2026-09-25",
+    "description": "Italian woman falls to death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Italian-woman-falls-to-death/108-351092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-1e931954",
+    "num": "dailymirrorlk-1e931954",
+    "date_str": "2026-09-25",
+    "description": "Dialog Govi Mithuru and University of Ruhuna Partner to Advance Agricultural Innovation",
+    "url_metadata": "https://www.dailymirror.lk/business/Dialog-Govi-Mithuru-and-University-of-Ruhuna-Partner-to-Advance-Agricultural-Innovation/215-351100",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790315346.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-9e8e24e3",
+    "num": "dailymirrorlk-9e8e24e3",
+    "date_str": "2026-09-25",
+    "description": "Avoid taking painkillers amid rising flu cases: Expert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Avoid-taking-painkillers-amid-rising-flu-cases-Expert/108-351104",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790315585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-7526bd7e",
+    "num": "dailymirrorlk-7526bd7e",
+    "date_str": "2026-09-25",
+    "description": "Weather impact to ease as depression weakens",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Weather-impact-to-ease-as-depression-weakens/108-351110",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790316219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-2b11d874",
+    "num": "dailymirrorlk-2b11d874",
+    "date_str": "2026-09-25",
+    "description": "Committee on High Posts approves Ambassador, High Commissioner appointments",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Committee-on-High-Posts-approves-Ambassador-High-Commissioner-appointments/108-351119",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317394.0
   }
 ]
