@@ -60516,6 +60516,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-3349f0be",
+    "num": "adalk-3349f0be",
+    "date_str": "2026-09-25",
+    "description": "2025\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca \u0d85\u0dbd\u0dcf\u0db7\u0dba \u0dbb\u0dd4.\u0db6\u0dd2. 7.6",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025\u0db1\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-\u0d85\u0dbd\u0dcf\u0db7\u0dba-\u0dbb\u0dd4-\u0db6\u0dd2--7-6/11-424375",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790330061.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-75a0bc39",
     "num": "dailymirrorlk-75a0bc39",
     "date_str": "2026-09-25",
@@ -60527,6 +60538,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-537589e3",
+    "num": "adalk-537589e3",
+    "date_str": "2026-09-25",
+    "description": "\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 01 \u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0da7\u0dd2\u0db1\u0dca \u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba \u0dc0\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-01-\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0da7\u0dd2\u0db1\u0dca-\u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba-\u0dc0\u0db1-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4/11-424376",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790333907.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-e5d2bdb3",
     "num": "dailymirrorlk-e5d2bdb3",
     "date_str": "2026-09-25",
@@ -60535,6 +60557,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790334247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-72f51463",
+    "num": "adalk-72f51463",
+    "date_str": "2026-09-25",
+    "description": "\u0dad\u0dc0\u0dad\u0dca \u0dc0\u0db1\u0dcf\u0db1\u0dca\u0dad\u0dbb 20\u0d9a\u0dca \u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dbd\u0dd9\u0dc3 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dc0\u0dad\u0dca-\u0dc0\u0db1\u0dcf\u0db1\u0dca\u0dad\u0dbb-20\u0d9a\u0dca-\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dbd\u0dd9\u0dc3-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424377",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790334585.0
   },
   {
     "doc_type": "lk_news",
@@ -60678,5 +60711,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790350097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-fbdae197",
+    "num": "adalk-fbdae197",
+    "date_str": "2026-09-25",
+    "description": "22  \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db6\u0dc4\u0dd4\u0dad\u0dbb \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca  \u0dc3\u0db8\u0dca\u0db8\u0dad \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/22--\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0db6\u0dc4\u0dd4\u0dad\u0dbb-\u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca--\u0dc3\u0db8\u0dca\u0db8\u0dad-\u0d9a\u0dd9\u0dbb\u0dda/11-424378",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790350970.0
   }
 ]
