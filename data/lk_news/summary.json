@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-25 08:01:53",
-  "n_docs": 131385,
+  "time_updated": "2026-09-25 10:01:34",
+  "n_docs": 131390,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131385,
+  "n_docs_with_text": 131390,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-25",
-  "dataset_size": 2039972716,
+  "dataset_size": 2039991495,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-25-adalk-fddde88c",
-    "num": "adalk-fddde88c",
+    "doc_id": "2026-09-25-dailymirrorlk-016880d0",
+    "num": "dailymirrorlk-016880d0",
     "date_str": "2026-09-25",
-    "description": "\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 6 \u0dc0\u0db1 \u0dc0\u0dc3\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0dd2\u0dba\u0dd0\u0da7\u0dca \u0d9a\u0dd0\u0dbd\u0dab\u0dd2 Fitch AA+ \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7",
-    "url_metadata": "https://www.ada.lk/business/\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0-6-\u0dc0\u0db1-\u0dc0\u0dc3\u0dbb\u0da7\u0dad\u0dca-\u0dc3\u0dd2\u0dba\u0dd0\u0da7\u0dca-\u0d9a\u0dd0\u0dbd\u0dab\u0dd2-Fitch-AA--\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7/7-424360",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1790294654.0
+    "description": "25 Indonesian fishermen rescued after trawler capsizes South of Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/25-Indonesian-fishermen-rescued-after-trawler-capsizes-South-of-Sri-Lanka/110-351082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790309646.0
   }
 }

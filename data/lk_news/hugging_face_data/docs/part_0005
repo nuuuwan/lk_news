@@ -59768,6 +59768,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-24-adalk-ad64341b",
+    "num": "adalk-ad64341b",
+    "date_str": "2026-09-24",
+    "description": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf \u0d87\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd3 \u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0dad\u0dbb\u0dd4\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0dc0\u0dab\u0dcf-\u0d87\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da7\u0dd3-\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad-\u0dad\u0dbb\u0dd4\u0dab\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-424359",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790253422.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-24-dailymirrorlk-36d354a5",
     "num": "dailymirrorlk-36d354a5",
     "date_str": "2026-09-24",
@@ -59853,5 +59864,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790294654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-03016c85",
+    "num": "adalk-03016c85",
+    "date_str": "2026-09-25",
+    "description": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dad\u0dd4\u0dc5 \u0d89\u0dad\u0dcf\u0dbd\u0dd2 \u0db7\u0dcf\u0dc2\u0dcf\u0dc0 \u0d9a\u0dae\u0dcf \u0db1\u0ddc\u0d9a\u0dbb\u0db1 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0da7 \u0dc3\u0dd2\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dad\u0dd4\u0dc5-\u0d89\u0dad\u0dcf\u0dbd\u0dd2-\u0db7\u0dcf\u0dc2\u0dcf\u0dc0-\u0d9a\u0dae\u0dcf-\u0db1\u0ddc\u0d9a\u0dbb\u0db1-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0da7-\u0dc3\u0dd2\u0db8\u0dcf\u0dc0\u0d9a\u0dca/11-424362",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790303937.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-b4181cf4",
+    "num": "dailymirrorlk-b4181cf4",
+    "date_str": "2026-09-25",
+    "description": "Sri Lanka beat England to level ODI series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-beat-England-to-level-ODI-series/108-351080",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790307038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-00e3f4d9",
+    "num": "dailymirrorlk-00e3f4d9",
+    "date_str": "2026-09-25",
+    "description": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "url_metadata": "https://www.dailymirror.lk/international/Netanyahu-defends-Israeli-military-action-as-delegates-walk-out-before-UN-speech/107-351081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790309019.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-016880d0",
+    "num": "dailymirrorlk-016880d0",
+    "date_str": "2026-09-25",
+    "description": "25 Indonesian fishermen rescued after trawler capsizes South of Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/25-Indonesian-fishermen-rescued-after-trawler-capsizes-South-of-Sri-Lanka/110-351082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790309646.0
   }
 ]
