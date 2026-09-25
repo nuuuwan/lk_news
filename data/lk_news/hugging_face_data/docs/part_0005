@@ -59911,6 +59911,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-dd1c941c",
+    "num": "adalk-dd1c941c",
+    "date_str": "2026-09-25",
+    "description": "\u2019\u2019\u0d86\u0dba\u0dd4\u0db6\u0ddd\u2019\u2019 \u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf \u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba \u0da2\u0db1\u0d9c\u0dad \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u2019\u2019\u0d86\u0dba\u0dd4\u0db6\u0ddd\u2019\u2019-\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf-\u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2\u0dba-\u0da2\u0db1\u0d9c\u0dad-\u0d9a\u0dd9\u0dbb\u0dda/11-424367",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790306817.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-b4181cf4",
     "num": "dailymirrorlk-b4181cf4",
     "date_str": "2026-09-25",
@@ -59974,6 +59985,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790311047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-6024a439",
+    "num": "adalk-6024a439",
+    "date_str": "2026-09-25",
+    "description": "\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda-\u0dc0\u0dcf\u0db1\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424368",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790311135.0
   },
   {
     "doc_type": "lk_news",
@@ -60051,5 +60073,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790317394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-f01db2e2",
+    "num": "dailymirrorlk-f01db2e2",
+    "date_str": "2026-09-25",
+    "description": "Over 53,000 people with kidney disease receive Rs. 10,000 monthly allowance: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-53-000-people-with-kidney-disease-receive-Rs-10-000-monthly-allowance-Minister/108-351125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-370fae9f",
+    "num": "dailymirrorlk-370fae9f",
+    "date_str": "2026-09-25",
+    "description": "Solar sector at risk, Chamber of Commerce tells president",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Solar-sector-at-risk-Chamber-of-Commerce-tells-president/108-351130",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790318447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-79bee362",
+    "num": "dailymirrorlk-79bee362",
+    "date_str": "2026-09-25",
+    "description": "Courts go paperless as e-filing launched",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Courts-go-paperless-as-e-filing-launched/108-351133",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790320277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-bc33d440",
+    "num": "dailymirrorlk-bc33d440",
+    "date_str": "2026-09-25",
+    "description": "Ex-Lanka Mineral Sands Chairman arrested over alleged corruption",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-Lanka-Mineral-Sands-Chairman-arrested-over-alleged-corruption/108-351138",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790323787.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-b1aa2acf",
+    "num": "dailymirrorlk-b1aa2acf",
+    "date_str": "2026-09-25",
+    "description": "TIN certificate mandatory for key transactions from November 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TIN-certificate-mandatory-for-key-transactions-from-November-1/108-351139",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790324632.0
   }
 ]
