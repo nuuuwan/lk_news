@@ -59999,6 +59999,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-561e386b",
+    "num": "adalk-561e386b",
+    "date_str": "2026-09-25",
+    "description": "\u0db6\u0dc3\u0dca\u0dc0\u0dbd\u0da7 \u0dc3\u0dc0\u0dd2\u0d9a\u0dc5 \u0da2\u0dd3\u0db4\u0dd3\u0d91\u0dc3\u0dca \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0dc3\u0dd2\u0dba\u0dba\u0da7 56\u0d9a\u0dca\u0db8 \u0d85\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dc3\u0dca\u0dc0\u0dbd\u0da7-\u0dc3\u0dc0\u0dd2\u0d9a\u0dc5-\u0da2\u0dd3\u0db4\u0dd3\u0d91\u0dc3\u0dca-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2-\u0dc3\u0dd2\u0dba\u0dba\u0da7-56\u0d9a\u0dca\u0db8-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dba\u0dd2/11-424369",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790311384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-de647399",
+    "num": "adalk-de647399",
+    "date_str": "2026-09-25",
+    "description": "10 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/10-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/11-424370",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790311416.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-8370e9a3",
     "num": "dailymirrorlk-8370e9a3",
     "date_str": "2026-09-25",
@@ -60021,6 +60043,50 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-47c910e2",
+    "num": "dailymirrorlk-47c910e2",
+    "date_str": "2026-09-25",
+    "description": "A taste of Sweden with Chef Carola Magnusson at Cinnamon Lakeside Colombo",
+    "url_metadata": "https://www.dailymirror.lk/business/A-taste-of-Sweden-with-Chef-Carola-Magnusson-at-Cinnamon-Lakeside-Colombo/215-351087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-a6587ab7",
+    "num": "dailymirrorlk-a6587ab7",
+    "date_str": "2026-09-25",
+    "description": "Beyond Ordinary - Nations Business Advisory Nations Trust Bank advances business dialogue",
+    "url_metadata": "https://www.dailymirror.lk/business/Beyond-Ordinary-Nations-Business-Advisory-Nations-Trust-Bank-advances-business-dialogue/215-351088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-9040017d",
+    "num": "dailymirrorlk-9040017d",
+    "date_str": "2026-09-25",
+    "description": "GS1 Lanka drives SL\u2019s shift to 2D barcodes",
+    "url_metadata": "https://www.dailymirror.lk/business/GS1-Lanka-drives-SLs-shift-to-2D-barcodes/215-351090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-35d7a360",
+    "num": "dailymirrorlk-35d7a360",
+    "date_str": "2026-09-25",
+    "description": "Blink International acquires Wristlab",
+    "url_metadata": "https://www.dailymirror.lk/business/Blink-International-acquires-Wristlab/215-351091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314533.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-7acefdf0",
     "num": "dailymirrorlk-7acefdf0",
     "date_str": "2026-09-25",
@@ -60029,6 +60095,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790314583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-f73b787e",
+    "num": "dailymirrorlk-f73b787e",
+    "date_str": "2026-09-25",
+    "description": "LB CIM-Thyaga bring digital gifting services",
+    "url_metadata": "https://www.dailymirror.lk/business/LB-CIM-Thyaga-bring-digital-gifting-services/215-351093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314715.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-6e0d6b2d",
+    "num": "dailymirrorlk-6e0d6b2d",
+    "date_str": "2026-09-25",
+    "description": "CEAT Kelani retains Fitch AA+ rating for 6th consecutive year",
+    "url_metadata": "https://www.dailymirror.lk/business/CEAT-Kelani-retains-Fitch-AA-rating-for-6th-consecutive-year/215-351095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-f20293f9",
+    "num": "dailymirrorlk-f20293f9",
+    "date_str": "2026-09-25",
+    "description": "Ambeon Capital with Chennai firm to open India-SL investment desks",
+    "url_metadata": "https://www.dailymirror.lk/business/Ambeon-Capital-with-Chennai-firm-to-open-India-SL-investment-desks/215-351097",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790315067.0
   },
   {
     "doc_type": "lk_news",
@@ -60043,6 +60142,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-486e785b",
+    "num": "dailymirrorlk-486e785b",
+    "date_str": "2026-09-25",
+    "description": "SLIC General appoints Asiri Wickramarachchi as Acting CEO",
+    "url_metadata": "https://www.dailymirror.lk/business/SLIC-General-appoints-Asiri-Wickramarachchi-as-Acting-CEO/215-351103",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790315509.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-9e8e24e3",
     "num": "dailymirrorlk-9e8e24e3",
     "date_str": "2026-09-25",
@@ -60051,6 +60161,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790315585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-e928d224",
+    "num": "dailymirrorlk-e928d224",
+    "date_str": "2026-09-25",
+    "description": "HNB Bank\u2019s Central Collections Unit receives ISO 9001:2015 Certification",
+    "url_metadata": "https://www.dailymirror.lk/business/HNB-Banks-Central-Collections-Unit-receives-ISO-90012015-Certification/215-351105",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790315635.0
   },
   {
     "doc_type": "lk_news",
@@ -60065,6 +60186,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-1b8dd645",
+    "num": "dailymirrorlk-1b8dd645",
+    "date_str": "2026-09-25",
+    "description": "SDF ranked 1st in Category 3 of SL\u2019s Listed Finance Company Ranking",
+    "url_metadata": "https://www.dailymirror.lk/business/SDF-ranked-1st-in-Category-3-of-SLs-Listed-Finance-Company-Ranking/215-351111",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790316432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-b9bb9fcf",
+    "num": "dailymirrorlk-b9bb9fcf",
+    "date_str": "2026-09-25",
+    "description": "Jetwing Travels adopts new-energy mobility solution with Hayleys tie-up",
+    "url_metadata": "https://www.dailymirror.lk/business/Jetwing-Travels-adopts-new-energy-mobility-solution-with-Hayleys-tie-up/215-351113",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790316632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-09-25",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business/Indices-close-in-red/215-351115",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790316837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-9d94f771",
+    "num": "dailymirrorlk-9d94f771",
+    "date_str": "2026-09-25",
+    "description": "Yield curve edges higher amid modest trading activity",
+    "url_metadata": "https://www.dailymirror.lk/business/Yield-curve-edges-higher-amid-modest-trading-activity/215-351116",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-6e0bfe3b",
+    "num": "dailymirrorlk-6e0bfe3b",
+    "date_str": "2026-09-25",
+    "description": "Tea export volumes fall through August as dollar prices weaken",
+    "url_metadata": "https://www.dailymirror.lk/business/Tea-export-volumes-fall-through-August-as-dollar-prices-weaken/215-351118",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317349.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-2b11d874",
     "num": "dailymirrorlk-2b11d874",
     "date_str": "2026-09-25",
@@ -60076,6 +60252,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-d79d067b",
+    "num": "dailymirrorlk-d79d067b",
+    "date_str": "2026-09-25",
+    "description": "Auction offerings fall to two-year low of 4.8 M/Kgs",
+    "url_metadata": "https://www.dailymirror.lk/business/Auction-offerings-fall-to-two-year-low-of-4-8-MKgs/215-351120",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-7ea254e2",
+    "num": "dailymirrorlk-7ea254e2",
+    "date_str": "2026-09-25",
+    "description": "\u2018Sri Lanka AI Week 2026\u2019 set to amplify country\u2019s AI potential",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-AI-Week-2026-set-to-amplify-countrys-AI-potential/215-351121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317474.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-935f8051",
+    "num": "dailymirrorlk-935f8051",
+    "date_str": "2026-09-25",
+    "description": "SLIC Life appoints Dr. Sameera Dharmasena as CEO",
+    "url_metadata": "https://www.dailymirror.lk/business/SLIC-Life-appoints-Dr-Sameera-Dharmasena-as-CEO/215-351123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317618.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-f01db2e2",
     "num": "dailymirrorlk-f01db2e2",
     "date_str": "2026-09-25",
@@ -60084,6 +60293,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790317790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-1fc5e91d",
+    "num": "dailymirrorlk-1fc5e91d",
+    "date_str": "2026-09-25",
+    "description": "Development banks should return to equity stakes and board seats, says DFCC CEO",
+    "url_metadata": "https://www.dailymirror.lk/business/Development-banks-should-return-to-equity-stakes-and-board-seats-says-DFCC-CEO/215-351126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317798.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-a16a1790",
+    "num": "dailymirrorlk-a16a1790",
+    "date_str": "2026-09-25",
+    "description": "Sri Lanka producing tech graduates faster than it creates jobs for them, warns Bingumal",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-producing-tech-graduates-faster-than-it-creates-jobs-for-them-warns-Bingumal/215-351128",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790317995.0
   },
   {
     "doc_type": "lk_news",
@@ -60109,6 +60340,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-c405fcc5",
+    "num": "dailymirrorlk-c405fcc5",
+    "date_str": "2026-09-25",
+    "description": "Colombo International Book Fair opens at BMICH",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Colombo-International-Book-Fair-opens-at-BMICH/110-351135",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790321006.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-bc33d440",
     "num": "dailymirrorlk-bc33d440",
     "date_str": "2026-09-25",
@@ -60128,5 +60370,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790324632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-a2fbb832",
+    "num": "dailymirrorlk-a2fbb832",
+    "date_str": "2026-09-25",
+    "description": "20 more forests to be gazetted as reserves tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/20-more-forests-to-be-gazetted-as-reserves-tomorrow/108-351140",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790325031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-35b9ce7d",
+    "num": "dailymirrorlk-35b9ce7d",
+    "date_str": "2026-09-25",
+    "description": "SLAAA receives ICAO TRAINAIR PLUS Silver Membership plaque",
+    "url_metadata": "https://www.dailymirror.lk/business/SLAAA-receives-ICAO-TRAINAIR-PLUS-Silver-Membership-plaque/215-351141",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790325461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-2797b894",
+    "num": "dailymirrorlk-2797b894",
+    "date_str": "2026-09-25",
+    "description": "WHEN SILENCE STOPS BEING SAFE",
+    "url_metadata": "https://www.dailymirror.lk/opinion/WHEN-SILENCE-STOPS-BEING-SAFE/231-351142",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790325775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-2acecd5e",
+    "num": "dailymirrorlk-2acecd5e",
+    "date_str": "2026-09-25",
+    "description": "Indian High Commissioner meets Ranil Wickremesinghe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-meets-Ranil-Wickremesinghe/108-351143",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790326140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-3b3bae04",
+    "num": "dailymirrorlk-3b3bae04",
+    "date_str": "2026-09-25",
+    "description": "Navy seizes drugs worth over Rs. 55 Billion this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-drugs-worth-over-Rs-55-Billion-this-year/108-351144",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790326434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-327402c6",
+    "num": "dailymirrorlk-327402c6",
+    "date_str": "2026-09-25",
+    "description": "Former Buddhasasana Ministry Secretary arrested over Rs. 4.7 Mn corruption case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Buddhasasana-Ministry-Secretary-arrested-over-Rs-4-7-Mn-corruption-case/108-351148",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790326834.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-78f2d503",
+    "num": "dailymirrorlk-78f2d503",
+    "date_str": "2026-09-25",
+    "description": "India to make fastest-ever bullet train to match Japan\u2019s E10",
+    "url_metadata": "https://www.dailymirror.lk/international/India-to-make-fastest-ever-bullet-train-to-match-Japans-E10/107-351149",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790327862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-3b702455",
+    "num": "adalk-3b702455",
+    "date_str": "2026-09-25",
+    "description": "22\u0da7 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0dc3\u0dd4\u0dc5\u0dd4 \u0db6\u0dd9\u0daf\u0dd3\u0db8\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/22\u0da7-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0dc3\u0dd4\u0dc5\u0dd4-\u0db6\u0dd9\u0daf\u0dd3\u0db8\u0d9a\u0dca-\u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf/11-424373",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790327949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-4a4fc4ac",
+    "num": "dailymirrorlk-4a4fc4ac",
+    "date_str": "2026-09-25",
+    "description": "\u2018Source of anxiety\u2019: Pakistan cracks down before march to free Imran Khan",
+    "url_metadata": "https://www.dailymirror.lk/international/Source-of-anxiety-Pakistan-cracks-down-before-march-to-free-Imran-Khan/107-351152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790329478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-c71a911b",
+    "num": "adalk-c71a911b",
+    "date_str": "2026-09-25",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba \u0d87\u0db8\u0dad\u0dd2 \u0dc3\u0dbb\u0dab \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0d9c\u0dda \u0db6\u0dd2\u0dbb\u0dd2\u0db3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba-\u0d87\u0db8\u0dad\u0dd2-\u0dc3\u0dbb\u0dab-\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0d9c\u0dda-\u0db6\u0dd2\u0dbb\u0dd2\u0db3-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424374",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790329598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-3977d69c",
+    "num": "dailymirrorlk-3977d69c",
+    "date_str": "2026-09-25",
+    "description": "Sarana Gunawardena\u2019s wife arrested over Rs. 50,000 bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarana-Gunawardenas-wife-arrested-over-Rs-50-000-bribe/108-351153",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790329604.0
   }
 ]

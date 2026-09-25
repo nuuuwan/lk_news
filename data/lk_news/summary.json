@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-25 14:03:54",
-  "n_docs": 131410,
+  "time_updated": "2026-09-25 15:58:32",
+  "n_docs": 131443,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131410,
+  "n_docs_with_text": 131443,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-25",
-  "dataset_size": 2040192513,
+  "dataset_size": 2040342438,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-25-dailymirrorlk-b1aa2acf",
-    "num": "dailymirrorlk-b1aa2acf",
+    "doc_id": "2026-09-25-dailymirrorlk-3977d69c",
+    "num": "dailymirrorlk-3977d69c",
     "date_str": "2026-09-25",
-    "description": "TIN certificate mandatory for key transactions from November 1",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/TIN-certificate-mandatory-for-key-transactions-from-November-1/108-351139",
+    "description": "Sarana Gunawardena\u2019s wife arrested over Rs. 50,000 bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarana-Gunawardenas-wife-arrested-over-Rs-50-000-bribe/108-351153",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790324632.0
+    "time_ut": 1790329604.0
   }
 }
