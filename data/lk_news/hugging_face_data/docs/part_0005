@@ -60571,6 +60571,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-0a76a7fc",
+    "num": "dailymirrorlk-0a76a7fc",
+    "date_str": "2026-09-25",
+    "description": "ITAK could have approved 22A if it was part of new Constitution",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ITAK-could-have-approved-22A-if-it-was-part-of-new-Constitution/108-351165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790339139.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-a34ef285",
     "num": "dailymirrorlk-a34ef285",
     "date_str": "2026-09-25",
@@ -60579,5 +60590,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790339139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-1002370f",
+    "num": "dailymirrorlk-1002370f",
+    "date_str": "2026-09-25",
+    "description": "Red landslide warnings issued for several districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Red-landslide-warnings-issued-for-several-districts/108-351166",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790341522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-9a517d6d",
+    "num": "dailymirrorlk-9a517d6d",
+    "date_str": "2026-09-25",
+    "description": "A few Opposition MPs will support 22A: Chief Government Whip",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/A-few-Opposition-MPs-will-support-22A-Chief-Government-Whip/108-351167",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790343921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-e8d24a0f",
+    "num": "dailymirrorlk-e8d24a0f",
+    "date_str": "2026-09-25",
+    "description": "China\u2019s 77th National Day celebrated in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Chinas-77th-National-Day-celebrated-in-Colombo/110-351168",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790344233.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-d6bed026",
+    "num": "dailymirrorlk-d6bed026",
+    "date_str": "2026-09-25",
+    "description": "Parliament approves second reading of 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-second-reading-of-22A/108-351169",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790344707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-3ca156c7",
+    "num": "dailymirrorlk-3ca156c7",
+    "date_str": "2026-09-25",
+    "description": "Parliament approves third reading of 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-third-reading-of-22A/108-351173",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790346022.0
   }
 ]

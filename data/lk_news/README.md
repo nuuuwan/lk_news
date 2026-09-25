@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--25_18:05:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--25_20:04:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,457** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-25-dailymirrorlk-a34ef285",
-    "num": "dailymirrorlk-a34ef285",
+    "doc_id": "2026-09-25-dailymirrorlk-3ca156c7",
+    "num": "dailymirrorlk-3ca156c7",
     "date_str": "2026-09-25",
-    "description": "IATAK could have approved 22A if it was part of new Constitution",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/IATAK-could-have-approved-22A-if-it-was-part-of-new-Constitution/108-351165",
+    "description": "Parliament approves third reading of 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-third-reading-of-22A/108-351173",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790339139.0
+    "time_ut": 1790346022.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-25 | `dailymirrorlk-3ca156c7` | Parliament approves third reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-3ca156c7)
+- 2026-09-25 | `dailymirrorlk-d6bed026` | Parliament approves second reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-d6bed026)
+- 2026-09-25 | `dailymirrorlk-e8d24a0f` | China’s 77th National Day celebrated in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e8d24a0f)
+- 2026-09-25 | `dailymirrorlk-9a517d6d` | A few Opposition MPs will support 22A: Chief Government Whip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-9a517d6d)
+- 2026-09-25 | `dailymirrorlk-1002370f` | Red landslide warnings issued for several districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-1002370f)
 - 2026-09-25 | `dailymirrorlk-a34ef285` | IATAK could have approved 22A if it was part of new Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-a34ef285)
+- 2026-09-25 | `dailymirrorlk-0a76a7fc` | ITAK could have approved 22A if it was part of new Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-0a76a7fc)
 - 2026-09-25 | `dailymirrorlk-d62fda50` | Chamara Sampath’s ex-private secretary further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-d62fda50)
 - 2026-09-25 | `dailymirrorlk-2cbb51d9` | Zelensky says Trump has made ‘final decision’ to allow Kyiv to make Patriot missiles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-2cbb51d9)
 - 2026-09-25 | `dailymirrorlk-e05f9c97` | Ex-Deputy Minister Sarana Gunawardena’s wife remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e05f9c97)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-09-25 | `adalk-61b46405` | මාවුස්සාකැලේ වාන් දොරටු තුනම විවෘත කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-adalk-61b46405)
 - 2026-09-25 | `dailymirrorlk-327402c6` | Former Buddhasasana Ministry Secretary arrested over Rs. 4.7 Mn corruption case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-327402c6)
 - 2026-09-25 | `dailymirrorlk-3b3bae04` | Navy seizes drugs worth over Rs. 55 Billion this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-3b3bae04)
-- 2026-09-25 | `dailymirrorlk-2acecd5e` | Indian High Commissioner meets Ranil Wickremesinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-2acecd5e)
-- 2026-09-25 | `dailymirrorlk-2797b894` | WHEN SILENCE STOPS BEING SAFE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-2797b894)
-- 2026-09-25 | `dailymirrorlk-35b9ce7d` | SLAAA receives ICAO TRAINAIR PLUS Silver Membership plaque | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-35b9ce7d)
-- 2026-09-25 | `dailymirrorlk-a2fbb832` | 20 more forests to be gazetted as reserves tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-a2fbb832)
-- 2026-09-25 | `dailymirrorlk-b1aa2acf` | TIN certificate mandatory for key transactions from November 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-b1aa2acf)
-- 2026-09-25 | `dailymirrorlk-bc33d440` | Ex-Lanka Mineral Sands Chairman arrested over alleged corruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-bc33d440)
 
 ---
 
