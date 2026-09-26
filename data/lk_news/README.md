@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_09:58:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_12:04:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,471** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-26-dailymirrorlk-60b99602",
-    "num": "dailymirrorlk-60b99602",
+    "doc_id": "2026-09-26-adalk-84a8f943",
+    "num": "adalk-84a8f943",
     "date_str": "2026-09-26",
-    "description": "Plane crash in DR Congo killes 14 including senior military officials",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plane-crash-in-DR-Congo-killes-14-including-senior-military-officials/108-351188",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790396437.0
+    "description": "\u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0db1\u0dd0\u0dc0\u0dad \u0dc3\u0db8\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0db1\u0dd0\u0dc0\u0dad-\u0dc3\u0db8\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424384",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790403254.0
 }
 ```
 
@@ -41,8 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-26 | `adalk-84a8f943` | සාපෙළ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-84a8f943)
+- 2026-09-26 | `dailymirrorlk-86a14f61` | GCE O/L rescrutiny results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-86a14f61)
+- 2026-09-26 | `dailymirrorlk-7ffc40b8` | High waves, sea inundation warning issued for Southern coastal areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-7ffc40b8)
+- 2026-09-26 | `dailymirrorlk-32b211f2` | Iran offers US deal to reopen Strait of Hormuz in seven days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-32b211f2)
 - 2026-09-26 | `dailymirrorlk-60b99602` | Plane crash in DR Congo killes 14 including senior military officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-60b99602)
 - 2026-09-26 | `dailymirrorlk-06aa0a22` | Seven injured in gas cylinder explosion at Polonnaruwa Nephrology Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-06aa0a22)
+- 2026-09-26 | `adalk-284f7bed` | අත්බෝම්බයක් එල්ල කර දරුවන් දෙදෙනෙක් ඝාතනය කිරිමට තවත් දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-284f7bed)
 - 2026-09-26 | `dailymirrorlk-8cdad073` | Flood warnings extended for Gin and Nilwala river basins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-8cdad073)
 - 2026-09-26 | `dailymirrorlk-80825092` | Showers forecast in several areas today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-80825092)
 - 2026-09-26 | `adalk-1219a35c` | පොලොන්නරුව වකුගඩු රෝහලේ ගෑස් සිලින්ඩරයක් පිපිරි හතක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-1219a35c)
@@ -52,15 +57,10 @@ A collection of lk_news documents.
 - 2026-09-25 | `dailymirrorlk-f4c7181f` | Judicature Amendment Bill approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-f4c7181f)
 - 2026-09-25 | `dailymirrorlk-663f07de` | Lanka Sathosa reduces prices of six essential food items | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-663f07de)
 - 2026-09-25 | `dailymirrorlk-3ca156c7` | Parliament approves third reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-3ca156c7)
+- 2026-09-25 | `dailymirrorlk-e9ad94ba` | Only fractional division in government over 22A – Bimal admits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e9ad94ba)
 - 2026-09-25 | `dailymirrorlk-45c10dc4` | 22nd Amendment to the Constitution: Arguments for and against | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-45c10dc4)
 - 2026-09-25 | `dailymirrorlk-d6bed026` | Parliament approves second reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-d6bed026)
 - 2026-09-25 | `dailymirrorlk-e8d24a0f` | China’s 77th National Day celebrated in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e8d24a0f)
-- 2026-09-25 | `dailymirrorlk-9a517d6d` | A few Opposition MPs will support 22A: Chief Government Whip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-9a517d6d)
-- 2026-09-25 | `dailymirrorlk-1002370f` | Red landslide warnings issued for several districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-1002370f)
-- 2026-09-25 | `dailymirrorlk-a34ef285` | IATAK could have approved 22A if it was part of new Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-a34ef285)
-- 2026-09-25 | `dailymirrorlk-0a76a7fc` | ITAK could have approved 22A if it was part of new Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-0a76a7fc)
-- 2026-09-25 | `dailymirrorlk-d62fda50` | Chamara Sampath’s ex-private secretary further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-d62fda50)
-- 2026-09-25 | `dailymirrorlk-2cbb51d9` | Zelensky says Trump has made ‘final decision’ to allow Kyiv to make Patriot missiles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-2cbb51d9)
 
 ---
 
