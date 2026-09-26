@@ -60736,6 +60736,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-2ee9e50e",
+    "num": "dailymirrorlk-2ee9e50e",
+    "date_str": "2026-09-25",
+    "description": "Counsellors warn of growing sexual withdrawal among married men",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Counsellors-warn-of-growing-sexual-withdrawal-among-married-men/108-351176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790346956.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-663f07de",
     "num": "dailymirrorlk-663f07de",
     "date_str": "2026-09-25",
@@ -60942,5 +60953,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790403254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-26-dailymirrorlk-cc3d7aed",
+    "num": "dailymirrorlk-cc3d7aed",
+    "date_str": "2026-09-26",
+    "description": "SJB mulls no-confidence motion against Speaker",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-mulls-no-confidence-motion-against-Speaker/108-351197",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790411407.0
   }
 ]

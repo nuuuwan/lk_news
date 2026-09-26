@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_14:00:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_15:55:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,484** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,486** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-26-adalk-84a8f943",
-    "num": "adalk-84a8f943",
+    "doc_id": "2026-09-26-dailymirrorlk-cc3d7aed",
+    "num": "dailymirrorlk-cc3d7aed",
     "date_str": "2026-09-26",
-    "description": "\u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0db1\u0dd0\u0dc0\u0dad \u0dc3\u0db8\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0db1\u0dd0\u0dc0\u0dad-\u0dc3\u0db8\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424384",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1790403254.0
+    "description": "SJB mulls no-confidence motion against Speaker",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-mulls-no-confidence-motion-against-Speaker/108-351197",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790411407.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-26 | `dailymirrorlk-cc3d7aed` | SJB mulls no-confidence motion against Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-cc3d7aed)
 - 2026-09-26 | `adalk-84a8f943` | සාපෙළ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-84a8f943)
 - 2026-09-26 | `adalk-07842086` | මුහුදු රළ ගොඩබිමට ආ හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-07842086)
 - 2026-09-26 | `dailymirrorlk-86a14f61` | GCE O/L rescrutiny results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-86a14f61)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-25 | `dailymirrorlk-f33150c8` | Speaker endorses 22 Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-f33150c8)
 - 2026-09-25 | `dailymirrorlk-f4c7181f` | Judicature Amendment Bill approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-f4c7181f)
 - 2026-09-25 | `dailymirrorlk-663f07de` | Lanka Sathosa reduces prices of six essential food items | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-663f07de)
-- 2026-09-25 | `dailymirrorlk-ff1adc82` | Northern Sea, Arabian Sea used as key drug smuggling routes to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-ff1adc82)
 
 ---
 
