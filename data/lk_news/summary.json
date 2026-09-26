@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-26 15:54:13",
-  "n_docs": 131486,
+  "time_updated": "2026-09-26 18:00:15",
+  "n_docs": 131489,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131486,
+  "n_docs_with_text": 131489,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-26",
-  "dataset_size": 2040948348,
+  "dataset_size": 2040968599,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-26-dailymirrorlk-cc3d7aed",
-    "num": "dailymirrorlk-cc3d7aed",
+    "doc_id": "2026-09-26-dailymirrorlk-b657bdf6",
+    "num": "dailymirrorlk-b657bdf6",
     "date_str": "2026-09-26",
-    "description": "SJB mulls no-confidence motion against Speaker",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-mulls-no-confidence-motion-against-Speaker/108-351197",
+    "description": "No move to curtail rooftop solar: Energy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-move-to-curtail-rooftop-solar-Energy-Minister/108-351198",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790411407.0
+    "time_ut": 1790417952.0
   }
 }

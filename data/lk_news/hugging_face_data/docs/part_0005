@@ -60747,6 +60747,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-fb715638",
+    "num": "dailymirrorlk-fb715638",
+    "date_str": "2026-09-25",
+    "description": "64% of pre-schoolers get 30+ minutes of daily screen time in SL, raising concerns - Survey",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/64-of-pre-schoolers-get-30-minutes-of-daily-screen-time-in-SL-raising-concerns-Survey/108-351177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790347378.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-663f07de",
     "num": "dailymirrorlk-663f07de",
     "date_str": "2026-09-25",
@@ -60956,6 +60967,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-26-adalk-8c97fb5b",
+    "num": "adalk-8c97fb5b",
+    "date_str": "2026-09-26",
+    "description": "\u0d91\u0da2\u0dcf \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7 \u0db8\u0dd9\u0dc0\u0dbb \u0dc0\u0dd2\u0da2\u0dd2\u0dad\u0d9c\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0da2\u0dcf-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7-\u0db8\u0dd9\u0dc0\u0dbb-\u0dc0\u0dd2\u0da2\u0dd2\u0dad\u0d9c\u0dda-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca-\u0dba\u0dd4\u0dad\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0dca/11-424385",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790406273.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-26-dailymirrorlk-cc3d7aed",
     "num": "dailymirrorlk-cc3d7aed",
     "date_str": "2026-09-26",
@@ -60964,5 +60986,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790411407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-26-dailymirrorlk-b657bdf6",
+    "num": "dailymirrorlk-b657bdf6",
+    "date_str": "2026-09-26",
+    "description": "No move to curtail rooftop solar: Energy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-move-to-curtail-rooftop-solar-Energy-Minister/108-351198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790417952.0
   }
 ]
