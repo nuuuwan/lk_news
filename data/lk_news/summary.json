@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-26 07:58:53",
-  "n_docs": 131467,
+  "time_updated": "2026-09-26 09:57:36",
+  "n_docs": 131471,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131467,
+  "n_docs_with_text": 131471,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-26",
-  "dataset_size": 2040743149,
+  "dataset_size": 2040772005,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-26-dailymirrorlk-8cdad073",
-    "num": "dailymirrorlk-8cdad073",
+    "doc_id": "2026-09-26-dailymirrorlk-60b99602",
+    "num": "dailymirrorlk-60b99602",
     "date_str": "2026-09-26",
-    "description": "Flood warnings extended for Gin and Nilwala river basins",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warnings-extended-for-Gin-and-Nilwala-river-basins/108-351183",
+    "description": "Plane crash in DR Congo killes 14 including senior military officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plane-crash-in-DR-Congo-killes-14-including-senior-military-officials/108-351188",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790388825.0
+    "time_ut": 1790396437.0
   }
 }
