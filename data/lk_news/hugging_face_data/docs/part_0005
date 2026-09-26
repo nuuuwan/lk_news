@@ -60722,5 +60722,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790350970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-25-adalk-89f41610",
+    "num": "adalk-89f41610",
+    "date_str": "2026-09-25",
+    "description": "22\u0da7 \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba, \u0d85\u0daf \u0dc3\u0dd2\u0da7\u0db8 \u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/22\u0da7-\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba--\u0d85\u0daf-\u0dc3\u0dd2\u0da7\u0db8-\u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2/11-424379",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790351529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-26-dailymirrorlk-80825092",
+    "num": "dailymirrorlk-80825092",
+    "date_str": "2026-09-26",
+    "description": "Showers forecast in several areas today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-forecast-in-several-areas-today/108-351182",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790388008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-26-dailymirrorlk-8cdad073",
+    "num": "dailymirrorlk-8cdad073",
+    "date_str": "2026-09-26",
+    "description": "Flood warnings extended for Gin and Nilwala river basins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warnings-extended-for-Gin-and-Nilwala-river-basins/108-351183",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790388825.0
   }
 ]
