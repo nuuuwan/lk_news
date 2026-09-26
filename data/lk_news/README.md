@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_12:04:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--26_14:00:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,484** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,10 +42,14 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-09-26 | `adalk-84a8f943` | සාපෙළ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-84a8f943)
+- 2026-09-26 | `adalk-07842086` | මුහුදු රළ ගොඩබිමට ආ හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-07842086)
 - 2026-09-26 | `dailymirrorlk-86a14f61` | GCE O/L rescrutiny results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-86a14f61)
 - 2026-09-26 | `dailymirrorlk-7ffc40b8` | High waves, sea inundation warning issued for Southern coastal areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-7ffc40b8)
 - 2026-09-26 | `dailymirrorlk-32b211f2` | Iran offers US deal to reopen Strait of Hormuz in seven days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-32b211f2)
+- 2026-09-26 | `dailymirrorlk-6766c835` | Whither UN  sanctity when Trump and Netanyahu take the podium? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-6766c835)
 - 2026-09-26 | `dailymirrorlk-60b99602` | Plane crash in DR Congo killes 14 including senior military officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-60b99602)
+- 2026-09-26 | `dailymirrorlk-5b8e34ab` | Easter massacre – after seven years, the mystery continues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-5b8e34ab)
+- 2026-09-26 | `dailymirrorlk-790e6509` | The pros and cons of mandatory seat belt law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-790e6509)
 - 2026-09-26 | `dailymirrorlk-06aa0a22` | Seven injured in gas cylinder explosion at Polonnaruwa Nephrology Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-06aa0a22)
 - 2026-09-26 | `adalk-284f7bed` | අත්බෝම්බයක් එල්ල කර දරුවන් දෙදෙනෙක් ඝාතනය කිරිමට තවත් දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-284f7bed)
 - 2026-09-26 | `dailymirrorlk-8cdad073` | Flood warnings extended for Gin and Nilwala river basins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-8cdad073)
@@ -56,11 +60,7 @@ A collection of lk_news documents.
 - 2026-09-25 | `dailymirrorlk-f33150c8` | Speaker endorses 22 Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-f33150c8)
 - 2026-09-25 | `dailymirrorlk-f4c7181f` | Judicature Amendment Bill approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-f4c7181f)
 - 2026-09-25 | `dailymirrorlk-663f07de` | Lanka Sathosa reduces prices of six essential food items | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-663f07de)
-- 2026-09-25 | `dailymirrorlk-3ca156c7` | Parliament approves third reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-3ca156c7)
-- 2026-09-25 | `dailymirrorlk-e9ad94ba` | Only fractional division in government over 22A – Bimal admits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e9ad94ba)
-- 2026-09-25 | `dailymirrorlk-45c10dc4` | 22nd Amendment to the Constitution: Arguments for and against | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-45c10dc4)
-- 2026-09-25 | `dailymirrorlk-d6bed026` | Parliament approves second reading of 22A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-d6bed026)
-- 2026-09-25 | `dailymirrorlk-e8d24a0f` | China’s 77th National Day celebrated in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-e8d24a0f)
+- 2026-09-25 | `dailymirrorlk-ff1adc82` | Northern Sea, Arabian Sea used as key drug smuggling routes to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-25-dailymirrorlk-ff1adc82)
 
 ---
 
