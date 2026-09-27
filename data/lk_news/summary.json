@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-27 08:03:56",
-  "n_docs": 131495,
+  "time_updated": "2026-09-27 09:58:09",
+  "n_docs": 131499,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131495,
+  "n_docs_with_text": 131499,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-27",
-  "dataset_size": 2041068283,
+  "dataset_size": 2041074724,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-27-dailymirrorlk-072461b0",
-    "num": "dailymirrorlk-072461b0",
+    "doc_id": "2026-09-27-dailymirrorlk-dd950b67",
+    "num": "dailymirrorlk-dd950b67",
     "date_str": "2026-09-27",
-    "description": "England change ODI squad before Sri Lanka decider",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-change-ODI-squad-before-Sri-Lanka-decider/108-351210",
+    "description": "Navy seizes heroin and ICE in Jaffna raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-heroin-and-ICE-in-Jaffna-raid/108-351212",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790469094.0
+    "time_ut": 1790480171.0
   }
 }
