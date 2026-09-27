@@ -60076,6 +60076,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-25-dailymirrorlk-288148ba",
+    "num": "dailymirrorlk-288148ba",
+    "date_str": "2026-09-25",
+    "description": "Rainwater harvesting in Sri Lanka: How to start at home before the dry months",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Rainwater-harvesting-in-Sri-Lanka-How-to-start-at-home-before-the-dry-months/131-351089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790314208.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-25-dailymirrorlk-9040017d",
     "num": "dailymirrorlk-9040017d",
     "date_str": "2026-09-25",
@@ -61088,6 +61099,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-27-adalk-79d39b85",
+    "num": "adalk-79d39b85",
+    "date_str": "2026-09-27",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dda-\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0d9a\u0dbb\u0dba\u0dd2/11-424389",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790478411.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-27-dailymirrorlk-96995fa6",
     "num": "dailymirrorlk-96995fa6",
     "date_str": "2026-09-27",
@@ -61107,5 +61129,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790480171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-afec7766",
+    "num": "dailymirrorlk-afec7766",
+    "date_str": "2026-09-27",
+    "description": "Iran insists on diplomatic solution after Trump rejects peace plan",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-insists-on-diplomatic-solution-after-Trump-rejects-peace-plan/107-351214",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790487527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-459316a6",
+    "num": "dailymirrorlk-459316a6",
+    "date_str": "2026-09-27",
+    "description": "Two killed in Beddagama shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-killed-in-Beddagama-shooting/108-351215",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790487680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-b63a1a3d",
+    "num": "dailymirrorlk-b63a1a3d",
+    "date_str": "2026-09-27",
+    "description": "Thileepan statue installed in Nallur removed by police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thileepan-statue-installed-in-Nallur-removed-by-police/108-351216",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790487988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-a75d6b9f",
+    "num": "dailymirrorlk-a75d6b9f",
+    "date_str": "2026-09-27",
+    "description": "104 new buses to join Western Province routes as police tighten bus lane enforcement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/104-new-buses-to-join-Western-Province-routes-as-police-tighten-bus-lane-enforcement/108-351217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790488130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-fa7529ef",
+    "num": "dailymirrorlk-fa7529ef",
+    "date_str": "2026-09-27",
+    "description": "Nor\u2019easter brings flooding as New York and New Jersey declare emergency",
+    "url_metadata": "https://www.dailymirror.lk/international/Noreaster-brings-flooding-as-New-York-and-New-Jersey-declare-emergency/107-351218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790488569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-065a195a",
+    "num": "dailymirrorlk-065a195a",
+    "date_str": "2026-09-27",
+    "description": "Sri Lankan ruling party delegation to visit India, meet BJP leaders",
+    "url_metadata": "https://www.dailymirror.lk/international/Sri-Lankan-ruling-party-delegation-to-visit-India-meet-BJP-leaders/107-351219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790488661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-1be4ff91",
+    "num": "dailymirrorlk-1be4ff91",
+    "date_str": "2026-09-27",
+    "description": "Sri Lanka explores hosting Miss Universe Pageant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-explores-hosting-Miss-Universe-Pageant/108-351220",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790489457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-adalk-a39c7f9d",
+    "num": "adalk-a39c7f9d",
+    "date_str": "2026-09-27",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db7\u0dcf\u0dbb\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dbb\u0dd0\u0d9c\u0dad\u0dca-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db7\u0dcf\u0dbb\u0dba\u0da7/11-424390",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790489686.0
   }
 ]
