@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--27_03:54:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--27_06:25:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,494** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,495** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-26-dailymirrorlk-e80e52dc",
-    "num": "dailymirrorlk-e80e52dc",
-    "date_str": "2026-09-26",
-    "description": "36-year-old dies following gas cylinder explosion at Polonnaruwa Kidney Hospital",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/36-year-old-dies-following-gas-cylinder-explosion-at-Polonnaruwa-Kidney-Hospital/108-351209",
+    "doc_id": "2026-09-27-dailymirrorlk-072461b0",
+    "num": "dailymirrorlk-072461b0",
+    "date_str": "2026-09-27",
+    "description": "England change ODI squad before Sri Lanka decider",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-change-ODI-squad-before-Sri-Lanka-decider/108-351210",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790436382.0
+    "time_ut": 1790469094.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-27 | `dailymirrorlk-072461b0` | England change ODI squad before Sri Lanka decider | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-072461b0)
 - 2026-09-26 | `dailymirrorlk-e80e52dc` | 36-year-old dies following gas cylinder explosion at Polonnaruwa Kidney Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-e80e52dc)
 - 2026-09-26 | `dailymirrorlk-3c0b4d70` | 44 kg of hashish, 13 kg of cocaine destined for Sri Lanka seized at Toronto Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-3c0b4d70)
 - 2026-09-26 | `dailymirrorlk-e4d217a5` | Police warn leasing firms over unlawful seizures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-e4d217a5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-26 | `dailymirrorlk-790e6509` | The pros and cons of mandatory seat belt law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-790e6509)
 - 2026-09-26 | `dailymirrorlk-06aa0a22` | Seven injured in gas cylinder explosion at Polonnaruwa Nephrology Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-06aa0a22)
 - 2026-09-26 | `adalk-284f7bed` | අත්බෝම්බයක් එල්ල කර දරුවන් දෙදෙනෙක් ඝාතනය කිරිමට තවත් දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-adalk-284f7bed)
-- 2026-09-26 | `dailymirrorlk-8cdad073` | Flood warnings extended for Gin and Nilwala river basins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-8cdad073)
 
 ---
 
