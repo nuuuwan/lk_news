@@ -61272,5 +61272,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790504016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-74e466f3",
+    "num": "dailymirrorlk-74e466f3",
+    "date_str": "2026-09-27",
+    "description": "Sri Lanka among top 10 fastest-improving tourism destinations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-top-10-fastest-improving-tourism-destinations/108-351223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790512216.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-02c5636a",
+    "num": "dailymirrorlk-02c5636a",
+    "date_str": "2026-09-27",
+    "description": "President announces Rs. 41 Billion fuel subsidy for three months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-announces-Rs-41-Billion-fuel-subsidy-for-three-months/108-351224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790516105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-59e4e78d",
+    "num": "dailymirrorlk-59e4e78d",
+    "date_str": "2026-09-27",
+    "description": "Tourists at Gangaramaya Temple on World Tourism Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Tourists-at-Gangaramaya-Temple-on-World-Tourism-Day/110-351225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790517436.0
   }
 ]

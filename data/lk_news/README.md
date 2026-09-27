@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--27_18:01:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--27_19:56:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,517** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-27-adalk-55579257",
-    "num": "adalk-55579257",
+    "doc_id": "2026-09-27-dailymirrorlk-59e4e78d",
+    "num": "dailymirrorlk-59e4e78d",
     "date_str": "2026-09-27",
-    "description": "\u0dc0\u0dd0\u0dc3\u0dd2 \u0dc3\u0dc4 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0db6\u0dd0\u0dc3\u0dd3\u0db8\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0dc0\u0d9c\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dbd\u0dd2\u0db4\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc3\u0dc4-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dad-\u0db6\u0dd0\u0dc3\u0dd3\u0db8\u0dca-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d91\u0dc5\u0dc0\u0dc5\u0dd4-\u0dc0\u0d9c\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dbd\u0dd2\u0db4\u0da7/11-424393",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1790504016.0
+    "description": "Tourists at Gangaramaya Temple on World Tourism Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Tourists-at-Gangaramaya-Temple-on-World-Tourism-Day/110-351225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790517436.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-27 | `dailymirrorlk-59e4e78d` | Tourists at Gangaramaya Temple on World Tourism Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-59e4e78d)
+- 2026-09-27 | `dailymirrorlk-02c5636a` | President announces Rs. 41 Billion fuel subsidy for three months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-02c5636a)
+- 2026-09-27 | `dailymirrorlk-74e466f3` | Sri Lanka among top 10 fastest-improving tourism destinations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-74e466f3)
 - 2026-09-27 | `adalk-55579257` | වැසි සහ මිල පහත බැසීම් හේතුවෙන් මධ්‍යම එළවළු වගාකරුවෝ කබලෙන් ලිපට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-adalk-55579257)
 - 2026-09-27 | `dailymirrorlk-a8fdffe4` | Two mass shootings in South Africa leave 27 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-a8fdffe4)
 - 2026-09-27 | `adalk-c129aa40` | බද්දේගම වෙඩි තැබීමකින් දෙදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-adalk-c129aa40)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-09-27 | `dailymirrorlk-96995fa6` | Sri Lankan girl killed in crash as she walked to school in London | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-96995fa6)
 - 2026-09-27 | `adalk-79d39b85` | ඉරානයේ යෝජනාව ට්‍රම්ප් ප්‍රතික්ෂේප කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-adalk-79d39b85)
 - 2026-09-27 | `adalk-de4e6f1c` | සතොස භාණ්ඩ හයක මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-adalk-de4e6f1c)
-- 2026-09-27 | `dailymirrorlk-072461b0` | England change ODI squad before Sri Lanka decider | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-27-dailymirrorlk-072461b0)
-- 2026-09-26 | `dailymirrorlk-e80e52dc` | 36-year-old dies following gas cylinder explosion at Polonnaruwa Kidney Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-e80e52dc)
-- 2026-09-26 | `dailymirrorlk-3c0b4d70` | 44 kg of hashish, 13 kg of cocaine destined for Sri Lanka seized at Toronto Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-26-dailymirrorlk-3c0b4d70)
 
 ---
 

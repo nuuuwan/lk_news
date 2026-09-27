@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-27 18:00:29",
-  "n_docs": 131514,
+  "time_updated": "2026-09-27 19:55:52",
+  "n_docs": 131517,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131514,
+  "n_docs_with_text": 131517,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-27",
-  "dataset_size": 2041258030,
+  "dataset_size": 2041276160,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-27-adalk-55579257",
-    "num": "adalk-55579257",
+    "doc_id": "2026-09-27-dailymirrorlk-59e4e78d",
+    "num": "dailymirrorlk-59e4e78d",
     "date_str": "2026-09-27",
-    "description": "\u0dc0\u0dd0\u0dc3\u0dd2 \u0dc3\u0dc4 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0db6\u0dd0\u0dc3\u0dd3\u0db8\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0dc0\u0d9c\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dbd\u0dd2\u0db4\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc3\u0dc4-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dad-\u0db6\u0dd0\u0dc3\u0dd3\u0db8\u0dca-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d91\u0dc5\u0dc0\u0dc5\u0dd4-\u0dc0\u0d9c\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dbd\u0dd2\u0db4\u0da7/11-424393",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1790504016.0
+    "description": "Tourists at Gangaramaya Temple on World Tourism Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Tourists-at-Gangaramaya-Temple-on-World-Tourism-Day/110-351225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790517436.0
   }
 }
