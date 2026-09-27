@@ -61217,5 +61217,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790489686.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-adalk-bfe58bc6",
+    "num": "adalk-bfe58bc6",
+    "date_str": "2026-09-27",
+    "description": "\u0dc4\u0dbd\u0dca\u0dad\u0ddc\u0da7 \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0da7 \u0dc0\u0dd9\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dbd\u0dca\u0dad\u0ddc\u0da7-\u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-424391",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790490046.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-4b7b669c",
+    "num": "dailymirrorlk-4b7b669c",
+    "date_str": "2026-09-27",
+    "description": "NMSJ urges lawmakers to avoid conflict of interest in proposed 22A",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NMSJ-urges-lawmakers-to-avoid-conflict-of-interest-in-proposed-22A/108-351221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790497882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-adalk-c129aa40",
+    "num": "adalk-c129aa40",
+    "date_str": "2026-09-27",
+    "description": "\u0db6\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-424392",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790501536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-27-dailymirrorlk-a8fdffe4",
+    "num": "dailymirrorlk-a8fdffe4",
+    "date_str": "2026-09-27",
+    "description": "Two mass shootings in South Africa leave 27 dead",
+    "url_metadata": "https://www.dailymirror.lk/international/Two-mass-shootings-in-South-Africa-leave-27-dead/107-351222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790502246.0
   }
 ]
