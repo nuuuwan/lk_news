@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--28_22:00:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_00:03:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,586** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,587** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-28-dailymirrorlk-76fa1229",
-    "num": "dailymirrorlk-76fa1229",
+    "doc_id": "2026-09-28-dailymirrorlk-b6dcfe67",
+    "num": "dailymirrorlk-b6dcfe67",
     "date_str": "2026-09-28",
-    "description": "Upcountry train services to Gampola resume from Oct. 2",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Upcountry-train-services-to-Gampola-resume-from-Oct-2/108-351306",
+    "description": "Sri Lanka urges world to put humanity before weapons",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-urges-world-to-put-humanity-before-weapons/108-351307",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790610358.0
+    "time_ut": 1790613449.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-28 | `dailymirrorlk-b6dcfe67` | Sri Lanka urges world to put humanity before weapons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-b6dcfe67)
 - 2026-09-28 | `dailymirrorlk-76fa1229` | Upcountry train services to Gampola resume from Oct. 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-76fa1229)
 - 2026-09-28 | `dailymirrorlk-74dbb50d` | BMI Group launches Ahasa TV with focus on education and quality content | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-74dbb50d)
 - 2026-09-28 | `dailymirrorlk-f73ecea0` | Lanka Metro Transit to launch seven new routes tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-f73ecea0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-28 | `dailymirrorlk-575c943c` | Congo’s Ebola infections cross 8,000, government says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-575c943c)
 - 2026-09-28 | `dailymirrorlk-837ee49b` | ‘Rabies control has become a racket’: AWC accuses Health Ministry of neglect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-837ee49b)
 - 2026-09-28 | `dailymirrorlk-cf460cd2` | Wrestler Benjamin Satterley, known as Pac, dies aged 40 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-cf460cd2)
-- 2026-09-28 | `dailymirrorlk-e86d4132` | BMI Group launches Ahasa TV | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-e86d4132)
 
 ---
 

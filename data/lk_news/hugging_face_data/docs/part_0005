@@ -62064,5 +62064,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790610358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-b6dcfe67",
+    "num": "dailymirrorlk-b6dcfe67",
+    "date_str": "2026-09-28",
+    "description": "Sri Lanka urges world to put humanity before weapons",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-urges-world-to-put-humanity-before-weapons/108-351307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790613449.0
   }
 ]
