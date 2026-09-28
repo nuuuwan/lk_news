@@ -61759,6 +61759,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-28-adalk-0647162e",
+    "num": "adalk-0647162e",
+    "date_str": "2026-09-28",
+    "description": "\u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd \u0d85\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dca\u200d\u0dbb\u0db7\u0dbd-\u0d85\u0d9a\u0dd4\u0dab\u0dd4-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-424404",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790579993.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-551c39cb",
+    "num": "dailymirrorlk-551c39cb",
+    "date_str": "2026-09-28",
+    "description": "Tamil and Muslim MPs appeal to Saudi Arabia for clemency for Anojan Sivarasa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tamil-and-Muslim-MPs-appeal-to-Saudi-Arabia-for-clemency-for-Anojan-Sivarasa/108-351275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790580708.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-28-dailymirrorlk-7cd5e17e",
     "num": "dailymirrorlk-7cd5e17e",
     "date_str": "2026-09-28",
@@ -61767,5 +61789,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790581092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-f011307f",
+    "num": "dailymirrorlk-f011307f",
+    "date_str": "2026-09-28",
+    "description": "Driver demerit points system pilot project to begin October 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Driver-demerit-points-system-pilot-project-to-begin-October-1/108-351276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790581092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-866236b6",
+    "num": "dailymirrorlk-866236b6",
+    "date_str": "2026-09-28",
+    "description": "Warrant issued on Chamika Karunaratne for failure to appear before court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warrant-issued-on-Chamika-Karunaratne-for-failure-to-appear-before-court/108-351277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790584262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-22ba1cd3",
+    "num": "dailymirrorlk-22ba1cd3",
+    "date_str": "2026-09-28",
+    "description": "22 A likely to become topic at European Round Table: Kavinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22-A-likely-to-become-topic-at-European-Round-Table-Kavinda/108-351278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790584420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-19554a9d",
+    "num": "dailymirrorlk-19554a9d",
+    "date_str": "2026-09-28",
+    "description": "US, Sri Lanka strengthen nuclear smuggling detection capabilities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Sri-Lanka-strengthen-nuclear-smuggling-detection-capabilities/108-351282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790588101.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-86592ade",
+    "num": "dailymirrorlk-86592ade",
+    "date_str": "2026-09-28",
+    "description": "Iran has no plans to negotiate with US: State media",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-has-no-plans-to-negotiate-with-US-State-media/107-351283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790588253.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-e86d4132",
+    "num": "dailymirrorlk-e86d4132",
+    "date_str": "2026-09-28",
+    "description": "BMI Group launches Ahasa TV",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/BMI-Group-launches-Ahasa-TV/110-351284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790588254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-cf460cd2",
+    "num": "dailymirrorlk-cf460cd2",
+    "date_str": "2026-09-28",
+    "description": "Wrestler Benjamin Satterley, known as Pac, dies aged 40",
+    "url_metadata": "https://www.dailymirror.lk/international/Wrestler-Benjamin-Satterley-known-as-Pac-dies-aged-40/107-351285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790588388.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-575c943c",
+    "num": "dailymirrorlk-575c943c",
+    "date_str": "2026-09-28",
+    "description": "Congo\u2019s Ebola infections cross 8,000, government says",
+    "url_metadata": "https://www.dailymirror.lk/international/Congos-Ebola-infections-cross-8-000-government-says/107-351288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790589423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-6b9d63c5",
+    "num": "dailymirrorlk-6b9d63c5",
+    "date_str": "2026-09-28",
+    "description": "Namal Rajapaksa named as suspect in \u2019Krrish\u2019 bribery investigation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-named-as-suspect-in-Krrish-bribery-investigation/108-351289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790589963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-682bfedd",
+    "num": "dailymirrorlk-682bfedd",
+    "date_str": "2026-09-28",
+    "description": "Sachin Tendulkar announces partnership with OpenAI, says exploring ChatGPT",
+    "url_metadata": "https://www.dailymirror.lk/international/Sachin-Tendulkar-announces-partnership-with-OpenAI-says-exploring-ChatGPT/107-351290",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790590078.0
   }
 ]
