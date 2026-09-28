@@ -61385,6 +61385,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-28-adalk-16fcd442",
+    "num": "adalk-16fcd442",
+    "date_str": "2026-09-28",
+    "description": "\u0dbd\u0ddd\u0d9a \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0daf\u0dd2\u0db1 \u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0dca \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba \u0db8\u0ddd\u0dc4\u0dd2\u0dab\u0dd2 \u0d87\u0dbd\u0dca\u0dbd \u0d85\u0dc3\u0dc5\u0daf\u0dd3",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0ddd\u0d9a-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0daf\u0dd2\u0db1-\u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0dca-\u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba-\u0db8\u0ddd\u0dc4\u0dd2\u0dab\u0dd2-\u0d87\u0dbd\u0dca\u0dbd-\u0d85\u0dc3\u0dc5\u0daf\u0dd3/11-424399",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790563529.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-28-dailymirrorlk-f37f0a3d",
     "num": "dailymirrorlk-f37f0a3d",
     "date_str": "2026-09-28",
@@ -61415,5 +61426,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790568425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-adalk-d9d0bba7",
+    "num": "adalk-d9d0bba7",
+    "date_str": "2026-09-28",
+    "description": "\u0d87\u0db8\u0dad\u0dd2 \u0dc0\u0dd2\u0da2\u0dd2\u0dad \u0d85\u0daf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd0\u0dc3\u0dd2\u0dc0\u0dcf\u0dbb\u0dba \u0d85\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dad\u0dd2-\u0dc0\u0dd2\u0da2\u0dd2\u0dad-\u0d85\u0daf-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dd0\u0dc3\u0dd2\u0dc0\u0dcf\u0dbb\u0dba-\u0d85\u0db8\u0dad\u0dba\u0dd2/11-424400",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790569754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-adalk-b1c2fd3b",
+    "num": "adalk-b1c2fd3b",
+    "date_str": "2026-09-28",
+    "description": "\u0dbd\u0d9a\u0dca\u0dc2\u0db4\u0dcf\u0db1 \u0daf\u0dd2\u0dba \u0d87\u0dbd\u0dca\u0dbd \u0db4\u0dca\u200d\u0dbb \u0daf\u0dda\u0dc1\u0dba \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d9a\u0dca\u0dc2\u0db4\u0dcf\u0db1-\u0daf\u0dd2\u0dba-\u0d87\u0dbd\u0dca\u0dbd-\u0db4\u0dca\u200d\u0dbb-\u0daf\u0dda\u0dc1\u0dba-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7/11-424401",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790570545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-fdb4f3a2",
+    "num": "dailymirrorlk-fdb4f3a2",
+    "date_str": "2026-09-28",
+    "description": "Yoshitha Rajapaksa, Daisy Forrest money laundering case fixed for pre-trial conference",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksa-Daisy-Forrest-money-laundering-case-fixed-for-pre-trial-conference/108-351254",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790573456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-adfc685a",
+    "num": "dailymirrorlk-adfc685a",
+    "date_str": "2026-09-28",
+    "description": "Sri Lanka selling fuel lower than minimum international prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-selling-fuel-lower-than-minimum-international-prices/108-351255",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790574090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-7b1d4bbe",
+    "num": "dailymirrorlk-7b1d4bbe",
+    "date_str": "2026-09-28",
+    "description": "Irregularities in tender process for purchasing body cameras for police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Irregularities-in-tender-process-for-purchasing-body-cameras-for-police/108-351256",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790574571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-0185b996",
+    "num": "dailymirrorlk-0185b996",
+    "date_str": "2026-09-28",
+    "description": "Ireland beat Israel but refuse handshakes due to war in Gaza",
+    "url_metadata": "https://www.dailymirror.lk/international/Ireland-beat-Israel-but-refuse-handshakes-due-to-war-in-Gaza/107-351257",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790575333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-56de2b1f",
+    "num": "dailymirrorlk-56de2b1f",
+    "date_str": "2026-09-28",
+    "description": "Dengue cases surpass 100,000 in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-surpass-100-000-in-Sri-Lanka/108-351258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790575449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-fa79f292",
+    "num": "dailymirrorlk-fa79f292",
+    "date_str": "2026-09-28",
+    "description": "\u2019\u2019Sri Lanka emerges as key contender for Indian ocean blue economy hub\u2019\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-emerges-as-key-contender-for-Indian-ocean-blue-economy-hub/108-351259",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790576701.0
   }
 ]

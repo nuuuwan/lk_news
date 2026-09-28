@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-28 10:00:18",
-  "n_docs": 131527,
+  "time_updated": "2026-09-28 12:15:24",
+  "n_docs": 131536,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131527,
+  "n_docs_with_text": 131536,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-28",
-  "dataset_size": 2041383764,
+  "dataset_size": 2041436751,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-28-dailymirrorlk-e3f30c60",
-    "num": "dailymirrorlk-e3f30c60",
+    "doc_id": "2026-09-28-dailymirrorlk-fa79f292",
+    "num": "dailymirrorlk-fa79f292",
     "date_str": "2026-09-28",
-    "description": "Oil heads higher as US-Iran peace talks in stalemate",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-heads-higher-as-US-Iran-peace-talks-in-stalemate/108-351252",
+    "description": "\u2019\u2019Sri Lanka emerges as key contender for Indian ocean blue economy hub\u2019\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-emerges-as-key-contender-for-Indian-ocean-blue-economy-hub/108-351259",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790568425.0
+    "time_ut": 1790576701.0
   }
 }
