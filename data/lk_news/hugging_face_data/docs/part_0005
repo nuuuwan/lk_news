@@ -61869,6 +61869,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-837ee49b",
+    "num": "dailymirrorlk-837ee49b",
+    "date_str": "2026-09-28",
+    "description": "\u2018Rabies control has become a racket\u2019: AWC accuses Health Ministry of neglect",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rabies-control-has-become-a-racket-AWC-accuses-Health-Ministry-of-neglect/108-351286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790588603.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-28-dailymirrorlk-575c943c",
     "num": "dailymirrorlk-575c943c",
     "date_str": "2026-09-28",
@@ -61899,5 +61910,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790590078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-d8cd7667",
+    "num": "dailymirrorlk-d8cd7667",
+    "date_str": "2026-09-28",
+    "description": "Sri Lanka seeks to boost seafood exports to Russia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-to-boost-seafood-exports-to-Russia/108-351294",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790593535.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-6e451219",
+    "num": "dailymirrorlk-6e451219",
+    "date_str": "2026-09-28",
+    "description": "Fuel crisis looms Friday as tanker owners threaten to stop deliveries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-crisis-looms-Friday-as-tanker-owners-threaten-to-stop-deliveries/108-351295",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790593643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-5280895e",
+    "num": "dailymirrorlk-5280895e",
+    "date_str": "2026-09-28",
+    "description": "SLPP hints at rally to rival Anuradhapura event",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-hints-at-rally-to-rival-Anuradhapura-event/108-351296",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790593737.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-58feab20",
+    "num": "dailymirrorlk-58feab20",
+    "date_str": "2026-09-28",
+    "description": "Three arrested over Baddegama double murder",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-arrested-over-Baddegama-double-murder/108-351298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790595181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-acebde46",
+    "num": "dailymirrorlk-acebde46",
+    "date_str": "2026-09-28",
+    "description": "Opposition in disarray after 22A: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-in-disarray-after-22A-Nalinda/108-351299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790597167.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-0c395d35",
+    "num": "dailymirrorlk-0c395d35",
+    "date_str": "2026-09-28",
+    "description": "Supreme Court dismisses contempt petitions against Shani Abeysekara, Ravi Seneviratne, Fr. Cyril Gamini",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-dismisses-contempt-petitions-against-Shani-Abeysekara-Ravi-Seneviratne-Fr-Cyril-Gamini/108-351300",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790598631.0
   }
 ]
