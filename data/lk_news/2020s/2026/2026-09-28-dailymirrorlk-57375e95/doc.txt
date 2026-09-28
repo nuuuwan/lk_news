@@ -1,0 +1,23 @@
+CB carves top-rated foreign sovereigns out of large exposure limits as bank NFA rebuilds
+
+Top-rated foreign sovereign paper exempt from 25% single-borrower cap, subject to 50% of Tier 1 ceiling
+
+Commercial banks’ NFA up 32% since December to Rs.467bn in June
+
+Licensed banks will be able to deploy up to half of their Tier 1 capital in the local-currency debt of any single top-rated foreign sovereign from October 1, carving such holdings out of the prudential large exposure regime, according to directions issued by the Central Bank of Sri Lanka (CBSL) last week.
+
+Banking Act Directions No. 05 of 2026 exempt instruments issued or guaranteed by foreign sovereigns and their central banks that attract a zero percent risk weight under Basel III capital rules. Such holdings will fall outside both the 25 percent single-borrower limit and the 55 percent cap on aggregate large exposures.
+
+However, exposure to any one sovereign and its central bank is capped at 50 percent of Tier 1 capital, twice the previous limit, and the instruments must be permitted by the CBSL and denominated in the issuer’s domestic currency. With zero risk weights typically reserved for sovereigns rated AA- and above, dollar-denominated US Treasuries fall within scope, while hard-currency paper of lower-rated emerging market issuers is excluded.
+
+Until now, holdings of a single foreign sovereign’s paper beyond a quarter of Tier 1 capital would have breached the single-borrower limit. That left placements with correspondent banks, which carry counterparty risk and count against the same limits, as the main outlet for surplus dollar liquidity.
+
+Net foreign assets (NFA) of commercial banks rose to Rs.467.4 billion in June 2026, as per CBSL data. That is up 12.1 percent month-on-month and 32.2 percent above the end-December 2025 level. The position remains 16.0 percent below the April 2025 peak of Rs.556.5 billion, but marks a reversal from a net foreign liability of Rs.732.9 billion in April 2022.
+
+Meanwhile, the CBSL’s own NFA contracted 20.1 percent between March and June to Rs.797.4 billion. That lifted commercial banks’ share of the banking system’s Rs.1.26 trillion NFA to 37 percent, from 30 percent in March. Foreign currency deposits, as proxied by the gap between M2b and M2, widened 13.4 percent year-on-year to Rs.2.08 trillion.
+
+Foreign currency holdings and balances due from banks abroad rose to Rs.1.52 trillion in June, up 18.0 percent from end-December and 30.3 percent year-on-year, according to CBSL data on commercial bank assets. Offshore banking units’ claims on non-resident non-bank entities, a category that includes foreign securities, climbed 22.1 percent in six months to Rs.787.3 billion, more than double the level at end-2024. By contrast, rupee Treasury bill holdings fell 40.1 percent year-on-year to Rs.1.64 trillion, while loans and advances expanded 24.7 percent to Rs.11.70 trillion.
+
+The directions followed Fitch Ratings’ upgrade of Sri Lanka’s long-term foreign currency issuer default rating to ‘B-’ from ‘CCC+’ two days earlier, though the agency flagged modest reserve buffers against rising external debt service. Its end-2026 reserve projection of US$ 7.7 billion implies a further US$ 800 million build-up from the US$ 6.9 billion held at end-August.
+
+In the US, the Federal Reserve raised its policy rate on September 16 for the first time since 2023, and the 10-year Treasury yield touched 5.22 percent on September 24, its highest since 2007. Elevated front-end yields improve the carry on short-dated bills. The long-end sell-off, however, exposes longer-duration holdings to mark-to-market losses, which would erode capital where securities are carried at fair value through other comprehensive income (FVOCI).  (NF)
