@@ -61968,6 +61968,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-28-adalk-f8192ff5",
+    "num": "adalk-f8192ff5",
+    "date_str": "2026-09-28",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dad\u0dbb\u0d9c\u0dba\u0d9a \u0db8\u0dd4\u0dbd\u0dca \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dad\u0dd4\u0db1\u0db8 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae-\u0dad\u0dbb\u0d9c\u0dba\u0d9a-\u0db8\u0dd4\u0dbd\u0dca-\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0dad\u0dd4\u0db1\u0db8-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/11-424406",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790595471.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-28-dailymirrorlk-acebde46",
     "num": "dailymirrorlk-acebde46",
     "date_str": "2026-09-28",
@@ -62020,5 +62031,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790602227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-f73ecea0",
+    "num": "dailymirrorlk-f73ecea0",
+    "date_str": "2026-09-28",
+    "description": "Lanka Metro Transit to launch seven new routes tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lanka-Metro-Transit-to-launch-seven-new-routes-tomorrow/108-351304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790607033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-74dbb50d",
+    "num": "dailymirrorlk-74dbb50d",
+    "date_str": "2026-09-28",
+    "description": "BMI Group launches Ahasa TV with focus on education and quality content",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BMI-Group-launches-Ahasa-TV-with-focus-on-education-and-quality-content/108-351305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790608261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-28-dailymirrorlk-76fa1229",
+    "num": "dailymirrorlk-76fa1229",
+    "date_str": "2026-09-28",
+    "description": "Upcountry train services to Gampola resume from Oct. 2",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Upcountry-train-services-to-Gampola-resume-from-Oct-2/108-351306",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790610358.0
   }
 ]

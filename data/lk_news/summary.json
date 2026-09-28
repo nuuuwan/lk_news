@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-28 19:59:54",
-  "n_docs": 131582,
+  "time_updated": "2026-09-28 21:59:19",
+  "n_docs": 131586,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131582,
+  "n_docs_with_text": 131586,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-28",
-  "dataset_size": 2041953196,
+  "dataset_size": 2041990065,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-28-dailymirrorlk-9c1fbe94",
-    "num": "dailymirrorlk-9c1fbe94",
+    "doc_id": "2026-09-28-dailymirrorlk-76fa1229",
+    "num": "dailymirrorlk-76fa1229",
     "date_str": "2026-09-28",
-    "description": "\u2018Was he planning to open a restaurant?\u2019: AKD on Ranil\u2019s 16-cook request",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Was-he-planning-to-open-a-restaurant-AKD-on-Ranils-16-cook-request/108-351303",
+    "description": "Upcountry train services to Gampola resume from Oct. 2",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Upcountry-train-services-to-Gampola-resume-from-Oct-2/108-351306",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790602227.0
+    "time_ut": 1790610358.0
   }
 }
