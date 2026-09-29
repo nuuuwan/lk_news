@@ -6,7 +6,6 @@
     "bbccomsinhala",
     "ceylontodaylk",
     "colombotelegraphcom",
-    "dailyftlk",
     "dailynewslk",
     "dbsjeyarajcom",
     "divainalk",
@@ -18,7 +17,8 @@
     "virakesarilk"
   ],
   "newspaper_to_n": {
-    "dailymirrorlk": 341,
-    "adalk": 99
+    "dailymirrorlk": 331,
+    "adalk": 95,
+    "dailyftlk": 78
   }
 }
