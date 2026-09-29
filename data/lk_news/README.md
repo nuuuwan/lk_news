@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_08:42:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_10:01:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,590** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,591** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-09-29 | `adalk-f0b84487` | රත්ගම වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-f0b84487)
+- 2026-09-29 | `adalk-348ce085` | කොළඹ සිට පේරාදෙණිය හා ගම්පොලට දුම්රිය ධාවනය අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-348ce085)
 - 2026-09-29 | `adalk-b0a1c04c` | පුද්ගලයෙකුගේ පසුබිම නොසලකා දූෂණයට එරෙහිව නීතිය ක්‍රියාත්මක කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-b0a1c04c)
 - 2026-09-28 | `dailymirrorlk-b6dcfe67` | Sri Lanka urges world to put humanity before weapons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-b6dcfe67)
 - 2026-09-28 | `dailymirrorlk-76fa1229` | Upcountry train services to Gampola resume from Oct. 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-76fa1229)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-09-28 | `dailymirrorlk-d8cd7667` | Sri Lanka seeks to boost seafood exports to Russia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-d8cd7667)
 - 2026-09-28 | `dailymirrorlk-682bfedd` | Sachin Tendulkar announces partnership with OpenAI, says exploring ChatGPT | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-682bfedd)
 - 2026-09-28 | `dailymirrorlk-6b9d63c5` | Namal Rajapaksa named as suspect in ’Krrish’ bribery investigation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-dailymirrorlk-6b9d63c5)
-- 2026-09-28 | `adalk-fa0e9dd0` | රියදුරු වැරදි සඳහා ලකුණු අඩු කිරීමේ නියමු ව්‍යාපෘතිය ලබන මස ඇරඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-28-adalk-fa0e9dd0)
 
 ---
 
