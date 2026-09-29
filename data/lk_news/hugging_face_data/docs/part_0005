@@ -63989,5 +63989,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790690117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-e8d5aeab",
+    "num": "dailymirrorlk-e8d5aeab",
+    "date_str": "2026-09-29",
+    "description": "Sri Lanka AI Week 2026 opens",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-AI-Week-2026-opens/110-351400",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790690358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-2cbb3aa8",
+    "num": "dailymirrorlk-2cbb3aa8",
+    "date_str": "2026-09-29",
+    "description": "No final decision on exit from IMF programme: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-final-decision-on-exit-from-IMF-programme-Nalinda/108-351401",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790693683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-7cc4ae44",
+    "num": "dailymirrorlk-7cc4ae44",
+    "date_str": "2026-09-29",
+    "description": "Vijitha Herath meets Iranian Foreign Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-meets-Iranian-Foreign-Minister/108-351402",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790693850.0
   }
 ]
