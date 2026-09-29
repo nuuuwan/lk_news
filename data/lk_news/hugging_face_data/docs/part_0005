@@ -63629,6 +63629,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-61c8bc56",
+    "num": "dailymirrorlk-61c8bc56",
+    "date_str": "2026-09-29",
+    "description": "Gotabaya appears before court over Lalith-Kugan case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-appears-before-court-over-Lalith-Kugan-case/108-351364",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790665844.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-29-dailymirrorlk-a5113d59",
     "num": "dailymirrorlk-a5113d59",
     "date_str": "2026-09-29",
@@ -63637,6 +63648,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790666306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-adalk-023e35e8",
+    "num": "adalk-023e35e8",
+    "date_str": "2026-09-29",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7 \u0d87\u0db4 \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7-\u0d87\u0db4-\u0db1\u0dd1/11-424416",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790666670.0
   },
   {
     "doc_type": "lk_news",
@@ -63681,5 +63703,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790669706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-d66770db",
+    "num": "dailymirrorlk-d66770db",
+    "date_str": "2026-09-29",
+    "description": "Army seeks blessings at Sri Dalada Maligawa",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-seeks-blessings-at-Sri-Dalada-Maligawa/110-351377",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790670491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-49ef0d8a",
+    "num": "dailymirrorlk-49ef0d8a",
+    "date_str": "2026-09-29",
+    "description": "Journalist to be crowned king in Uganda after bitter succession dispute",
+    "url_metadata": "https://www.dailymirror.lk/international/Journalist-to-be-crowned-king-in-Uganda-after-bitter-succession-dispute/107-351378",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790670688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-6b9512b8",
+    "num": "dailymirrorlk-6b9512b8",
+    "date_str": "2026-09-29",
+    "description": "Opposition parties share same view on 22A despite protest absence: GL",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-parties-share-same-view-on-22A-despite-protest-absence-GL/108-351380",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790671752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-f31751ff",
+    "num": "dailymirrorlk-f31751ff",
+    "date_str": "2026-09-29",
+    "description": "Public transport should be on par with free healthcare, education: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-transport-should-be-on-par-with-free-healthcare-education-President/108-351381",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790671940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-8fb9bf03",
+    "num": "dailymirrorlk-8fb9bf03",
+    "date_str": "2026-09-29",
+    "description": "112 new Metro buses deployed on seven Western Province routes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/112-new-Metro-buses-deployed-on-seven-Western-Province-routes/108-351382",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790672032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-877726ff",
+    "num": "dailymirrorlk-877726ff",
+    "date_str": "2026-09-29",
+    "description": "BIA to expand automated clearance facilities to 12 e-gates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BIA-to-expand-automated-clearance-facilities-to-12-e-gates/108-351383",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790672215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-632e24b1",
+    "num": "dailymirrorlk-632e24b1",
+    "date_str": "2026-09-29",
+    "description": "Cabinet approves over Rs. 40 Bn fuel relief programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-over-Rs-40-Bn-fuel-relief-programme/108-351384",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790672344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-81d5bed3",
+    "num": "dailymirrorlk-81d5bed3",
+    "date_str": "2026-09-29",
+    "description": "Cabinet approves committee to restore Sri Lankan heritage abroad",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-committee-to-restore-Sri-Lankan-heritage-abroad/108-351385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790672695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-263935a5",
+    "num": "dailymirrorlk-263935a5",
+    "date_str": "2026-09-29",
+    "description": "Cabinet approves continuation of education reforms for Grades 2 and 6 in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-continuation-of-education-reforms-for-Grades-2-and-6-in-2027/108-351386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790673099.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-fddefed5",
+    "num": "dailymirrorlk-fddefed5",
+    "date_str": "2026-09-29",
+    "description": "US forces exit Iraq after two decades, leaving opening for Iran",
+    "url_metadata": "https://www.dailymirror.lk/international/US-forces-exit-Iraq-after-two-decades-leaving-opening-for-Iran/107-351387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790674512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-59cab4dc",
+    "num": "dailymirrorlk-59cab4dc",
+    "date_str": "2026-09-29",
+    "description": "Further evidence in Lalith-Kugan case set for Nov. 27",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-Lalith-Kugan-case-set-for-Nov-27/108-351388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790675305.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-876f80aa",
+    "num": "dailymirrorlk-876f80aa",
+    "date_str": "2026-09-29",
+    "description": "Baseline Road extension gets green light",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Baseline-Road-extension-gets-green-light/108-351389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790675571.0
   }
 ]
