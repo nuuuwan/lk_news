@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_16:00:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_18:09:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,747** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,756** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-29-dailymirrorlk-876f80aa",
-    "num": "dailymirrorlk-876f80aa",
+    "doc_id": "2026-09-29-dailymirrorlk-99fd211c",
+    "num": "dailymirrorlk-99fd211c",
     "date_str": "2026-09-29",
-    "description": "Baseline Road extension gets green light",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Baseline-Road-extension-gets-green-light/108-351389",
+    "description": "Over 890 illegal firearms seized in first nine months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-890-illegal-firearms-seized-in-first-nine-months/108-351395",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790675571.0
+    "time_ut": 1790684217.0
 }
 ```
 
@@ -41,8 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-29 | `dailymirrorlk-99fd211c` | Over 890 illegal firearms seized in first nine months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-99fd211c)
+- 2026-09-29 | `adalk-64336128` | නාමල්ගේ කුඩු නාවලපිටියට බේදූ සැකකරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-64336128)
+- 2026-09-29 | `dailymirrorlk-b66586e1` | Thailand floods kill 23, affect 700,000 people as Bangkok battles severe inundation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-b66586e1)
+- 2026-09-29 | `adalk-ccae01a3` | කොළඹ මාර්ග හතකට මෙට්‍රෝ බස් 112ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-ccae01a3)
+- 2026-09-29 | `dailymirrorlk-07c28306` | Massive Cigarette haul destroyed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-07c28306)
+- 2026-09-29 | `dailymirrorlk-fe82b819` | SC orders Fowzie to pay Rs.6.6m over misuse of government vehicle with public apology | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-fe82b819)
+- 2026-09-29 | `dailymirrorlk-c6a2fa71` | Child content for profit: Ministry issues warning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-c6a2fa71)
+- 2026-09-29 | `dailymirrorlk-84a6ad6a` | Former President Sirisena calls hospital explosion his ‘most painful day’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-84a6ad6a)
 - 2026-09-29 | `dailymirrorlk-876f80aa` | Baseline Road extension gets green light | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-876f80aa)
 - 2026-09-29 | `dailymirrorlk-59cab4dc` | Further evidence in Lalith-Kugan case set for Nov. 27 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-59cab4dc)
+- 2026-09-29 | `adalk-b239f8cd` | රේණුක පෙරේරාට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-b239f8cd)
 - 2026-09-29 | `dailymirrorlk-fddefed5` | US forces exit Iraq after two decades, leaving opening for Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-fddefed5)
 - 2026-09-29 | `dailymirrorlk-263935a5` | Cabinet approves continuation of education reforms for Grades 2 and 6 in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-263935a5)
 - 2026-09-29 | `dailymirrorlk-81d5bed3` | Cabinet approves committee to restore Sri Lankan heritage abroad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-81d5bed3)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-09-29 | `dailymirrorlk-f31751ff` | Public transport should be on par with free healthcare, education: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-f31751ff)
 - 2026-09-29 | `dailymirrorlk-6b9512b8` | Opposition parties share same view on 22A despite protest absence: GL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-6b9512b8)
 - 2026-09-29 | `dailymirrorlk-49ef0d8a` | Journalist to be crowned king in Uganda after bitter succession dispute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-49ef0d8a)
-- 2026-09-29 | `dailymirrorlk-d66770db` | Army seeks blessings at Sri Dalada Maligawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-d66770db)
-- 2026-09-29 | `dailymirrorlk-0921452a` | Rs. 1.58B state land fraud: Ex-Commissioner arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-0921452a)
-- 2026-09-29 | `dailymirrorlk-58dc13d3` | Former NTC Chairman Renuka Perera released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-58dc13d3)
-- 2026-09-29 | `dailymirrorlk-dfc12aac` | Court of Appeal issues warrant for Gnanasara Thera’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-dfc12aac)
-- 2026-09-29 | `dailymirrorlk-19107f8a` | Marking World Pharmacists Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-19107f8a)
-- 2026-09-29 | `adalk-023e35e8` | නාමල්ට ඇප නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-023e35e8)
-- 2026-09-29 | `dailymirrorlk-a5113d59` | Namal Rajapaksa remanded till October 6 in Krrish case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-a5113d59)
-- 2026-09-29 | `dailymirrorlk-61c8bc56` | Gotabaya appears before court over Lalith-Kugan case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-61c8bc56)
-- 2026-09-29 | `adalk-1149649a` | ගම්මන්පිල නිදොස්කොට නිදහස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-1149649a)
 
 ---
 

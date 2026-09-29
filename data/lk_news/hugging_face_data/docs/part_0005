@@ -63816,6 +63816,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-29-adalk-b239f8cd",
+    "num": "adalk-b239f8cd",
+    "date_str": "2026-09-29",
+    "description": "\u0dbb\u0dda\u0dab\u0dd4\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dda\u0dab\u0dd4\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0da7-\u0d87\u0db4/11-424417",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790674861.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-29-dailymirrorlk-59cab4dc",
     "num": "dailymirrorlk-59cab4dc",
     "date_str": "2026-09-29",
@@ -63835,5 +63846,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790675571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-84a6ad6a",
+    "num": "dailymirrorlk-84a6ad6a",
+    "date_str": "2026-09-29",
+    "description": "Former President Sirisena calls hospital explosion his \u2018most painful day\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-calls-hospital-explosion-his-most-painful-day/108-351390",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790678055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-c6a2fa71",
+    "num": "dailymirrorlk-c6a2fa71",
+    "date_str": "2026-09-29",
+    "description": "Child content for profit: Ministry issues warning",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Child-content-for-profit-Ministry-issues-warning/108-351391",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790678474.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-fe82b819",
+    "num": "dailymirrorlk-fe82b819",
+    "date_str": "2026-09-29",
+    "description": "SC orders Fowzie to pay Rs.6.6m over misuse of government vehicle with public apology",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SC-orders-Fowzie-to-pay-Rs-6-6m-over-misuse-of-government-vehicle-with-public-apology/108-351392",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790680556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-07c28306",
+    "num": "dailymirrorlk-07c28306",
+    "date_str": "2026-09-29",
+    "description": "Massive Cigarette haul destroyed",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Massive-Cigarette-haul-destroyed/110-351393",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790681008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-adalk-ccae01a3",
+    "num": "adalk-ccae01a3",
+    "date_str": "2026-09-29",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc4\u0dad\u0d9a\u0da7 \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd \u0db6\u0dc3\u0dca 112\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d9a\u0ddc\u0dc5\u0db9-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0dc4\u0dad\u0d9a\u0da7-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0db6\u0dc3\u0dca-112\u0d9a\u0dca/10-424419",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790681941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-b66586e1",
+    "num": "dailymirrorlk-b66586e1",
+    "date_str": "2026-09-29",
+    "description": "Thailand floods kill 23, affect 700,000 people as Bangkok battles severe inundation",
+    "url_metadata": "https://www.dailymirror.lk/international/Thailand-floods-kill-23-affect-700-000-people-as-Bangkok-battles-severe-inundation/107-351394",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790682301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-adalk-64336128",
+    "num": "adalk-64336128",
+    "date_str": "2026-09-29",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0d9a\u0dd4\u0da9\u0dd4 \u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7 \u0db6\u0dda\u0daf\u0dd6 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0d9a\u0dd4\u0da9\u0dd4-\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7-\u0db6\u0dda\u0daf\u0dd6-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424420",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790682982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-99fd211c",
+    "num": "dailymirrorlk-99fd211c",
+    "date_str": "2026-09-29",
+    "description": "Over 890 illegal firearms seized in first nine months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-890-illegal-firearms-seized-in-first-nine-months/108-351395",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790684217.0
   }
 ]
