@@ -63882,6 +63882,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-29-adalk-b6c38548",
+    "num": "adalk-b6c38548",
+    "date_str": "2026-09-29",
+    "description": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dc4\u0db1\u0dba \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db1\u0dd1, \u0da9\u0dd3\u0dc3\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc3\u0dc4\u0db1\u0dba-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db1\u0dd1--\u0da9\u0dd3\u0dc3\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/11-424418",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790680982.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-29-dailymirrorlk-07c28306",
     "num": "dailymirrorlk-07c28306",
     "date_str": "2026-09-29",
@@ -63934,5 +63945,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790684217.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-9806b86d",
+    "num": "dailymirrorlk-9806b86d",
+    "date_str": "2026-09-29",
+    "description": "New shrine hall consecrated",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/New-shrine-hall-consecrated/110-351396",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790685404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-3212398a",
+    "num": "dailymirrorlk-3212398a",
+    "date_str": "2026-09-29",
+    "description": "CSE selling deepens as market breadth falls sharply",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-selling-deepens-as-market-breadth-falls-sharply/108-351397",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790686765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-d967ef5f",
+    "num": "dailymirrorlk-d967ef5f",
+    "date_str": "2026-09-29",
+    "description": "President calls for single digital system for public services",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-single-digital-system-for-public-services/108-351398",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790689593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-29-dailymirrorlk-b15b4f4c",
+    "num": "dailymirrorlk-b15b4f4c",
+    "date_str": "2026-09-29",
+    "description": "Sajith ready for public debate on Government report on socio-economic situation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-ready-for-public-debate-on-Government-report-on-socio-economic-situation/108-351399",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790690117.0
   }
 ]
