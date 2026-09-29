@@ -1,0 +1,57 @@
+Sri Lanka’s next cybersecurity strategy should assume the hacker gets in
+
+Sri Lanka is embarking on an ambitious digital transformation involving digital identity, digital payments, data exchange, online government services and increasing use of artificial intelligence. The more successful that transformation becomes, the more valuable Sri Lanka’s digital infrastructure becomes to criminals
+
+For decades, cybersecurity has been built around a simple objective: keep the attacker out.
+
+Build stronger firewalls. Improve passwords. Add multifactor authentication. Monitor networks. Detect intrusions faster.
+
+All are necessary. But the digital economy is reaching a point where they are no longer sufficient.
+
+A recent case in Europe illustrates why. Financial Times reporting revealed that sensitive customer information held by fintech Revolut was obtained by criminals who allegedly compromised an official Italian government communications channel and impersonated law-enforcement authorities.
+
+The striking point is that Revolut says its own systems and databases were not breached.
+
+The attackers did not need to break through the front door. They persuaded someone with legitimate access to open it.
+
+The country is embarking on an ambitious digital transformation involving digital identity, digital payments, data exchange, online government services and increasing use of artificial intelligence. The more successful that transformation becomes, the more valuable Sri Lanka’s digital infrastructure becomes to criminals.
+
+Sri Lanka CERT’s National Cyber Security Strategy records 21,743 cyber and social-media incidents reported in 2024. Financial scams accounted for 2,241 reported cyber incidents, alongside phishing, ransomware and data breaches.
+
+The conventional response is to spend more on defending databases.
+
+There is another question we should ask: why are we creating so many repositories of valuable, readable data in the first place?
+
+A database containing millions of identity records is valuable because the information inside can be read, copied and reused. The same applies to financial records, medical information, land records, corporate documents and government data.
+
+Encryption protects much of this information while stored or transmitted. But authorised systems and users eventually need access to it.
+
+An attacker does not always need to defeat the encryption. Sometimes it is easier to compromise the person, application, credential or trusted institution authorised to access the information. Artificial intelligence makes the problem more serious. AI can strengthen cyber defence, but it can also automate reconnaissance, create convincing impersonations and allow attackers to operate at a scale previously requiring significant resources.
+
+Cybersecurity architecture therefore needs to evolve from simply preventing access towards minimising what successful access can reveal.
+
+Instead of storing a complete sensitive document in one location, information can be cryptographically protected and distributed so compromising one repository does not deliver a usable prize.
+
+Instead of sending an entire identity document whenever a fact must be established, cryptographic proofs can confirm the required fact without exposing all the underlying information.
+
+Instead of trusting a request because it arrived through an authorised channel, important transactions can require independently verifiable proof of authority. And instead of security ending once somebody successfully logs in, sensitive actions can become an auditable chain of cryptographically verifiable events.
+
+Assume someone eventually gets through. Design the data so that getting through is not enough.
+
+This is particularly important for Sri Lanka because much of the country’s digital infrastructure is still being built.
+
+Developed economies carry enormous amounts of legacy technology and decades of accumulated databases. Replacing them is extraordinarily difficult.
+
+Sri Lanka has the opportunity to avoid creating some of those problems in the first place. Emerging digital identity, data-exchange and government-service infrastructure should therefore minimise centralised concentrations of sensitive information; disclose only information required for a transaction; separate verification from possession of the underlying data; make critical actions independently verifiable; and design recovery from compromise into the architecture from the beginning.
+
+This does not mean abandoning conventional cybersecurity. Firewalls, endpoint protection, identity management, monitoring and incident response remain essential.
+
+No organisation can credibly promise that an employee will never be deceived, credentials will never be compromised, software will never contain a vulnerability or an attacker will never penetrate a network.
+
+A modern national cybersecurity architecture should therefore be judged not only by whether attackers can enter it, but by what an attacker receives if they succeed. That question becomes even more important as Sri Lanka’s core Personal Data Protection Act compliance regime approaches commencement in January 2027. Protecting personal information should not simply mean imposing stronger obligations on organisations after they collect it. Technology can reduce how much sensitive information organisations need to possess and expose in the first place. Sri Lanka does not need to reproduce the digital architecture of countries that digitised 20 years earlier and then spend the next twenty years repairing its weaknesses.
+
+As Sri Lanka constructs the foundations of its digital economy, cybersecurity should no longer begin with the assumption that every wall will hold forever.
+
+Build the walls. But build the data architecture on the assumption that one day, somewhere, one of them will fail.
+
+(The author is the Managing Director of Future CX Pty., Ltd., and Future CX Lanka Ltd., an Australian/Sri Lankan digital-infrastructure company with engineering operations in Colombo, Sri Lanka. He is a director of companies across technology, property, manufacturing, construction and seniors living in Australia)

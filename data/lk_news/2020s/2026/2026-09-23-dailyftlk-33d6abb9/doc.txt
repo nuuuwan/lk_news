@@ -1,0 +1,39 @@
+Understanding Sri Lanka’s startup funding ladder and why the right capital matters
+
+Sri Lanka does not need more entities calling themselves venture capital. It needs more genuine risk capital, properly structured, willing to publish real performance data, wins and losses both, so that family offices, diaspora investors, and institutional LPs can tell the difference between a fund and a finance company, and so that founders can find the right capital at the right stage of their journey. The opportunity is real and the timing is good; what is missing is the discipline to make “venture capital” mean what it is supposed to mean
+
+Sri Lanka’s startup conversation has matured fast over the past decade, but the language around funding hasn’t kept pace. Newspapers routinely carry announcements from “venture capital” firms, yet very few founders, or even investors, understand what separates a genuine VC fund from a lender, a private equity shop, or an angel network using the same label. That confusion has a real cost: founders approach the wrong capital at the wrong stage, and legitimate risk capital struggles to differentiate itself in a crowded, imprecisely labelled market.
+
+Every startup’s capital journey typically runs through five stages, each suited to a different kind of investor:
+
+Bootstrapping and friends and family – Founders self-fund or raise informally to prove an idea works, with no institutional capital involved.
+
+Angel and pre-seed – Individual investors or angel networks write small checks, often the first outside validation a founder gets.
+
+Seed and early-stage VC – The first institutional capital: equity investment in exchange for a stake, usually alongside board involvement and hands-on support. This is where a genuine venture capital fund operates.
+
+Growth stage, Series B and beyond – Larger checks focused on scaling proven models, often blending VC with private equity.
+
+Exit – Acquisition or public listing, where early investors realise returns.
+
+The confusion in Sri Lanka’s market largely happens at stage three. A genuine VC fund is a managed vehicle: it raises capital from limited partners (LPs) under a defined fund life, invests that capital as equity in exchange for ownership stakes, and is structurally built to accept a high failure rate across its portfolio in exchange for a few outsized winners. That is fundamentally different from a lending or leasing company, even one using “venture capital” in its name, which earns through interest and fees on debt rather than equity upside, and does not carry the same risk profile or founder-support model.
+
+Neither model is wrong. Sri Lankan SMEs need credit and leasing products as much as startups need equity risk capital. The issue arises only when the label blurs the distinction for founders trying to work out who to approach, and for investors trying to work out where real venture risk, and real venture return, actually lives.
+
+Is it equity or debt? A VC takes an ownership stake and shares in your upside and downside. A lender wants repayment regardless of outcome.
+
+Where is the fund incorporated, and who are its LPs? A properly structured fund discloses its domicile, its LP base, and its fund life. This is not a technicality; it shapes incentives and time horizon.
+
+What is the track record, not the AUM, but the distributions? Assets under management is a vanity metric. What matters is DPI (distributions to paid-in capital): has the fund actually returned cash to its investors, and at what multiples? A fund willing to publish realised exits, including its losses, is signalling real accountability.
+
+Does it bring more than capital? Board involvement, follow-on support, go-to-market relationships, and sector expertise are what separate a genuine venture partner from a passive cheque-writer.
+
+Sri Lanka is arguably at an inflection point comparable to India around 2015, or Singapore in its own earlier growth years: a market where reform, IMF-anchored macroeconomic stabilisation (reserves rebuilt to roughly $7 billion), and a stated $15 billion digital economy target by 2030 are converging with valuations that have not yet re-rated the way comparable regional markets have. Add trade access through FTAs with India and Pakistan, proximity to Bangladesh and the Maldives, and a regional consumer base of more than 1.9 billion people, and the opportunity for family offices, diaspora capital, and institutional LPs is not simply “invest in Sri Lanka.” It is “get in before the market re-prices.”
+
+That is a real, defensible opportunity, but it only works if it is backed by credible proof that locally deployed venture capital actually returns money. In the interest of transparency, since I lead one of the funds active in this space, I will cite our own numbers as one example of what that proof can look like, not as a pitch: our earlier fund has already distributed 72.5% of capital back to LPs, with realised, cash exits ranging from 1.6x up to 12.7x across individual portfolio companies. We have also been transparent about what did not work; one investment returned only 0.5x, a lesson that has since sharpened our own investment criteria. That mix of real, banked cash returns alongside honest disclosure of losses is exactly the kind of track record the local ecosystem needs more of, publicly, so that trust can be built with the next wave of capital, regardless of which fund it ultimately flows into.
+
+Sri Lanka does not need more entities calling themselves venture capital. It needs more genuine risk capital, properly structured, willing to publish real performance data, wins and losses both, so that family offices, diaspora investors, and institutional LPs can tell the difference between a fund and a finance company, and so that founders can find the right capital at the right stage of their journey. The opportunity is real and the timing is good; what is missing is the discipline to make “venture capital” mean what it is supposed to mean.
+
+The more local capital, and local fund managers, that step up to meet that standard, the stronger Sri Lanka’s case becomes as a genuine, investable startup ecosystem rather than a single fund’s story.
+
+(The author is the Managing Partner at BOV Capital, a Sri Lanka and Singapore based venture capital firm, and Founder of the Lankan Angel Network)

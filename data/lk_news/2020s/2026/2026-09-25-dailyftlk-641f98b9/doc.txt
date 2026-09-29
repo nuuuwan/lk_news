@@ -1,0 +1,59 @@
+Why rebuilding Sri Lanka’s foreign-exchange base requires creative destruction, not a jigsaw puzzle
+
+This paper responds to the argument, common in current commentary on Sri Lanka’s post-IMF development strategy, that a production-based, forex-earning economy can be built by correctly assembling a known set of policy “pieces” — fiscal discipline, energy, logistics, skills, finance — into a coordinated whole, in the manner of a jigsaw puzzle.
+
+Drawing on the historical record of Sri Lanka’s post-1977 export drive and on trade, income-classification and logistics data through 2026, it argues that this framing understates the scale of the task. The pieces themselves, and the institutions that were meant to assemble them, are no longer fit for the trading environment Sri Lanka now competes in. What the record calls for is not coordination of existing components but their deliberate replacement — a process closer to Schumpeterian creative destruction than to puzzle-solving.
+
+Sri Lanka’s shift from an import-substitution economy to an open, export-oriented one began with the 1977 liberalisation under President J.R. Jayewardene. The policy architecture built in the following decade was the personal project of a small group of ministers. Lalith Athulathmudali, appointed Minister of Trade (later Trade and Shipping) in 1977, established the Sri Lanka Export Development Board and the Ports Authority and introduced the country’s first intellectual-property law [1] — the institutional scaffolding for an export-led model. Gamini Dissanayake, Minister of Mahaweli Development from 1977 to 1990, ran the Accelerated Mahaweli Program, the irrigation and land development platform that underpinned export agriculture [2]. Ranjan Wijeratne, appointed Permanent Secretary to the Ministry of Agricultural Development in 1978 and later Minister of Plantation Industries (1989–91), administered the tea, rubber and coconut sectors during the period in which they shifted toward value-added processing rather than raw commodity export [3].
+
+Within a single four-year span, all three men were killed in political violence connected to the civil conflict. Wijeratne died on 2 March 1991 when an LTTE car bomb struck his convoy on Havelock Road, Colombo, killing nineteen people [4]. Athulathmudali was assassinated in April 1993 during the run-up to provincial council elections. Dissanayake, by then the United National Party’s presidential candidate, was killed in a bomb attack at a Colombo campaign rally on 24 October 1994 that killed fifty-two people, two and a half weeks before the election he was expected to contend closely [5].
+
+This is not offered as a monocausal explanation of subsequent policy drift, but the timing is material: the removal of the individuals most identified with the 1977 export-oriented settlement coincided with the governments of the 1990s and 2000s giving export promotion markedly less sustained priority than fiscal, redistributive and, later, security priorities. The result shows up directly in the trade data below.
+
+Sri Lanka’s exports of goods and services rose from roughly 26–27% of GDP in the early 1990s to a peak of 39% in 2000, then declined steadily to about 23% by 2019 and to under 19% by 2024–25 [6] — among the lowest export-to-GDP ratios in the region, and below the 15% threshold the World Bank treats as marking a “relatively closed” economy [7]. A 2021 UNCTAD assessment of this trajectory is explicit that the cause was not the absence of a nominal open-trade framework but inconsistent implementation of it: “this trend clearly indicates that Sri Lanka has been increasingly reliant on inward-oriented domestic sectors for growth and employment generation despite the period after 1977 being seen as a more market-oriented open trade regime”, attributing it to “a lack of consistency in policies with the reform agenda losing momentum over time” [8]. Consistent with this, Sri Lanka’s share of world merchandise exports stagnated between 0.08% in 2001 and 0.07% in 2016, even as regional peers expanded theirs substantially over the same period [9].
+
+The apparel sector — the main beneficiary of 1977 liberalisation — grew at roughly 18.5% a year through the 1990s under the protection of Multi-Fibre Arrangement (MFA) quotas, which guaranteed Sri Lanka market share in the US and EU independent of underlying cost competitiveness [10]. The phase-out of MFA quotas from 2005 and the EU’s suspension of GSP+ tariff preferences in August 2010 (over human-rights concerns arising from the civil war) exposed how much of that growth had rested on preferential access rather than productivity: roughly twenty-five garment factories closed, and Sri Lanka’s export growth to the EU fell from an average 16.4% a year in 2005–09 to 7.4% a year after the suspension [11]. GSP+ was reinstated in May 2017, after which EU-bound exports rose about 18% in the following seventeen months — a rebound driven by regained preferential access rather than a change in the underlying product or market mix [12].
+
+The clearest evidence of the “non-identification of new sectors” you describe is comparative: between 2010 and 2019, Sri Lanka’s share of the global garment export market was essentially flat at about 1%, while Bangladesh’s rose from 4% to 9% and Vietnam’s from 3% to 6% over the identical period [13]. The three countries faced the same MFA phaseout and the same global buyers; only two used the adjustment to gain ground.
+
+Export policy did return to the agenda after 2015. The National Export Strategy (NES) 2018–2022, developed with the International Trade Centre and launched under Prime Minister Ranil Wickremesinghe, explicitly aimed to move beyond apparel, tea, rubber and gems into six new priority sectors — ICT/BPM, boat-building, spice concentrates, processed food and beverages, electronics and electrical components, and wellness tourism — with a target of raising exports from roughly $10 billion to $28 billion by 2022 [14].
+
+The target was missed by a wide margin. By the mid-2020s Sri Lanka’s total merchandise exports stood at roughly $12 billion — essentially unchanged from the NES starting point — against Bangladesh’s $60 billion and Vietnam’s $355 billion over the same horizon, and apparel still accounted for about 41% of merchandise exports, indicating that the diversification the strategy targeted did not materially occur [15]. As late as 2024, two years after the NES’s own end-date, the Export Development Board and the ITC were still assembling data to assess whether it had had any measurable impact, with exporter representatives citing implementation delay rather than lack of a plan as the binding constraint [16].
+
+This is where the coordination-versus-transformation distinction is sharpest. Sri Lanka ranked 96th of 190 economies on the World Bank’s “trading across borders” pillar in 2020 [17]. In the World Bank’s Logistics Performance Index, Sri Lanka’s overall ranking improved from 92nd to 73rd of roughly 139 countries between the 2018 and 2023 rounds — yet its customs sub-ranking moved in the opposite direction, slipping from 77th to 84th over the same period [18]. A country whose broad logistics environment is improving while its customs administration specifically regresses is not suffering from a missing piece in a puzzle; it is showing that a core piece of institutional machinery is actively deteriorating relative to the rest of the system around it.
+
+The jigsaw-puzzle framing carries two implicit assumptions: first, that the necessary components already exist in usable form and merely need to be arranged in the right sequence; second, that the task is therefore one of coordination among ministries and stakeholders. The record above does not support either assumption.
+
+The preference-dependent export model built between 1977 and 2005 was well suited to a quota-protected trading world that no longer exists; reassembling its components more efficiently does not address the fact that Vietnam and Bangladesh have since built cost and scale advantages Sri Lanka cannot now match on the same terms.
+
+Sri Lanka has not lacked planning documents: the Export Development Board (1977), the National Export Strategy (2014, then 2018–22) and the current National Export Development Plan (2026–30, targeting 14–15% of GDP and $36 billion in exports by 2030) represent three successive planning cycles across nearly five decades without the underlying export share ever recovering its year-2000 peak.
+
+Customs and border administration — identified by both this paper and the original commentary as central — has regressed on the specific sub-metric that measures it, even while adjacent logistics indicators improved, suggesting the institution itself needs restructuring rather than better placement within a wider plan.
+
+Schumpeter’s original use of “creative destruction” described the process by which obsolete productive structures must be dismantled, not merely optimised, to release capital and labour for genuinely new combinations [19]. Applied here: a five-year plan that adds new target sectors onto an unreformed customs regime and an incentive structure still built around low labour costs and time-unlimited tax holidays is arranging pieces around a frame that itself needs replacing. The alternative your argument points to — overhauling customs and tariff administration and actively identifying new international product-market combinations rather than defending the existing export basket — targets the frame itself.
+
+Replace, rather than incrementally digitise, legacy customs procedures with a risk-based, largely automated clearance system, with the customs-specific LPI sub-score (not only the aggregate score) tracked as the accountability metric.
+
+Convert Board of Investment incentives from open-ended, low-labour-cost tax holidays to time-bound, performance-linked support tied to export revenue, technology transfer and measured productivity gains — consistent with the East Asian model but adapted to current global value chains.
+
+Build institutional continuity into trade-strategy leadership (a standing, professionally staffed body rather than a minister-dependent initiative) so that strategy does not depend on the tenure or survival of individual political figures, as it did between 1977 and 1994.
+
+Set diversification targets benchmarked explicitly against the trajectories of Vietnam and Bangladesh since 2010, rather than against Sri Lanka’s own historical export levels, since the latter measures recovery, not competitiveness.
+
+The data on Sri Lanka’s export-to-GDP ratio, its dependence on and repeated loss of preferential trade access, its missed National Export Strategy targets, and its deteriorating customs administration all point to the same conclusion: the constraint on rebuilding a forex-earning economy is not primarily one of arranging known, available components into the right sequence. It is that the export model, and several of the institutions built to run it, were designed for a trading environment — quota-protected, preference-dependent, low-labour-cost — that no longer exists. Meeting that condition requires dismantling and rebuilding those structures, not fitting them, unaltered, into a better-coordinated whole.
+
+(The author is a Chartered Engineer and can be contacted via email [email protected])
+
+[9] International Trade Centre, National Export Strategy of Sri Lanka
+
+[11] Oxford Business Group, “Sri Lankan exports take off with
+
+[13] Pasan Ilangaratne, “A Dive into Sri Lankan Garment Exports”,
+
+LinkedIn, citing UN Comtrade / ITC Trade Map data — https://
+
+[17] Advocata Institute, commentary citing World Bank Ease of Doing
+
+[18] Daily FT, “Sri Lanka improves in latest global Logistics
+
+[20] World Bank Group / Development Data Group, 2026 country

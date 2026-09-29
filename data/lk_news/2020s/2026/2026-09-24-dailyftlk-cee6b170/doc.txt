@@ -1,0 +1,97 @@
+Sri Lanka’s Islamic finance and ESG: Aligning ethical principles with sustainable development
+
+Sri Lanka’s financial landscape is undergoing a quiet but profound transformation. Two forces that once occupied separate spheres, Islamic finance, grounded in Shariah principles of ethical, asset-backed, risk-sharing transactions, and Environmental, Social and Governance (ESG) frameworks focused on long-term sustainability, are increasingly converging. This convergence is not coincidental. Islamic finance’s foundational prohibitions against Riba (interest), Gharar (excessive uncertainty), Maysir (speculation), and investments in harmful activities naturally overlap with ESG’s emphasis on ethical investing, social justice, environmental stewardship, and sound governance. In a country recovering from economic crisis, climate vulnerability, and the need for inclusive growth, this alignment offers a powerful pathway for mobilising capital towards sustainable development.
+
+This article examines the evolution of Islamic finance in Sri Lanka, the key Shariah principles that underpin it, the parallel development of ESG legislation, rules, directions and accounting standards, and the emerging synergies between the two. It draws on regulatory developments from the Central Bank of Sri Lanka (CBSL), the Securities and Exchange Commission (SEC), the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), including the SLFRS S1 and S2 sustainability disclosure framework, and practical market initiatives.
+
+Islamic finance rests on a set of well-established principles derived from the Quran, Sunnah, and scholarly consensus (ijma). The most fundamental is the prohibition of Riba. Money is viewed not as a commodity that generates returns through time alone, but as a medium of exchange. Returns must be earned through real economic activity, risk-sharing, or the provision of tangible assets or services. This principle immediately distances Islamic finance from purely speculative or highly leveraged conventional products and aligns it with ESG’s preference for productive, real-economy investments.
+
+Closely related is the prohibition of Gharar and Maysir. Contracts must be transparent, with clear terms, identifiable assets, and known risks. Excessive uncertainty or pure gambling-like speculation is forbidden. This requirement for transparency and substance over form supports robust governance (the “G” in ESG) and reduces the likelihood of systemic risks arising from complex, opaque instruments.
+
+Perhaps the most direct bridge to ESG lies in the ethical screening of investments. Islamic finance excludes sectors deemed harmful; alcohol, tobacco, gambling, conventional interest-based financial services in certain contexts, weapons in many interpretations, and activities causing significant environmental or social harm. The concept of maslahah (public interest) and the higher objectives of Shariah (maqasid al-Shariah): preservation of faith, life, intellect, lineage, and wealth, encourage investments that promote social welfare, environmental protection, and equitable distribution.
+
+These objectives map closely onto the United Nations Sustainable Development Goals and modern ESG criteria.
+
+Risk-sharing contracts such as Mudarabah (profit-and-loss sharing partnership) and Musharakah (joint venture) further reinforce social and governance dimensions. Capital providers and entrepreneurs share both profits and losses, aligning incentives and discouraging reckless behaviour. Asset-backed structures; Murabaha (cost-plus sale), ijarah (leasing), and sukuk (Islamic certificates representing ownership in assets), ensure that financing is tied to real economic activity rather than pure debt creation. This asset-backing reduces systemic leverage and supports long-term value creation, a core ESG concern.
+
+In practice, these principles create a natural affinity with ESG. Prohibition of harmful industries mirrors negative ESG screening. Emphasis on real assets and productive activity supports positive impact investing. Risk-sharing and transparency strengthen governance. Social justice elements, encouraging financial inclusion, supporting SMEs, and prioritising community welfare, align with the social pillar of ESG.
+
+Islamic finance in Sri Lanka operates primarily under the existing conventional regulatory framework rather than a dedicated Islamic banking law. The pivotal legal foundation was the Banking (Amendment) Act No. 2 of 2005, which amended the Banking Act No. 30 of 1988. This amendment provided the flexibility for licensed banks to offer Shariah-compliant products by recognising forms of deposit-taking and business activities compatible with profit-sharing and trade-based contracts. CBSL subsequently clarified that Islamic banking operations must be conducted within the existing prudential framework, with separate books of accounts and reporting, while remaining subject to the same capital, liquidity, and risk-management requirements as conventional banking.
+
+The industry has grown steadily. As of recent data, it comprises one fully-fledged Islamic bank and Islamic windows or units in several commercial banks  and non-bank financial institutions. Products include mudarabah savings and deposits, wakalah deposits, murabaha financing, ijarah (especially vehicle and equipment leasing, including solar and EV systems), diminishing musharakah, and more recently specialised offerings such as medical finance.
+
+Shariah governance remains largely institution-level. Each Islamic bank or window maintains a Shariah Supervisory Board (SSB) of qualified scholars who review products, issue and provide annual compliance reports. There is no mandatory national-level Shariah board or compulsory adoption of Accounting and Auditing Organisation for Islamic Financial Institutions (AAOIFI) standards; compliance is voluntary and determined by each institution’s SSB. While the SEC’s guideline and directive provide for accredited Shariah scholars to certify individual transactions, the framework does not establish a permanent collective body with authority to issue binding national Shariah rulings comparable to Malaysia’s Shariah Advisory Council. Instead, the function is performed by accredited scholars selected for each transaction rather than by a standing national council.
+
+This micro-level approach has enabled innovation but has also drawn criticism for potential inconsistencies across institutions and limited enforcement power at the system level.
+
+Capital market developments have been particularly significant. In 2024, the SEC finalised rules relating to Shariah-compliant debt securities (sukuk) and published guidelines for accredited Shariah scholars recognised as Supplementary Service Providers under the SEC Act No. 19 of 2021. Issuers of Islamic capital market products must obtain certification from three accredited scholars from the SEC’s approved list.
+
+In September 2024, the SEC further issued directions on Whitelist Indices for Shariah-compliant equities, requiring a standardised screening methodology approved by accredited scholars.
+
+A landmark moment arrived in June 2025 with the listing of Sri Lanka’s first sukuk on the Colombo Stock Exchange. The Rs. 500 million, five-year, rated, secured, redeemable sukuk, structured under an ijarah model linked to a mini-hydropower plant, was oversubscribed on opening day. It offered both fixed and floating return options and marked the formal entry of Shariah-compliant debt into the listed market. This milestone demonstrated both regulatory readiness and investor appetite for ethical, asset-backed instruments.
+
+Other recent initiatives include the launch of Islamic money market funds and the continued expansion of Shariah-compliant offerings by non-bank financial institutions.
+
+The Association of Alternate Financial Institutions provides a collective voice for the sector. While still relatively small compared with the conventional system, Islamic finance has shown resilience and is increasingly positioned as a complementary, values-based alternative that can attract both domestic Muslim  and non- Muslims communities and international ethical capital, particularly from the Middle East and Malaysia.
+
+ESG legislation, rules, directions and accounting frameworks in Sri Lanka
+
+Parallel to the growth of Islamic finance, Sri Lanka has built a comprehensive ESG and sustainable finance architecture.
+
+The foundation was the Roadmap for Sustainable Finance in Sri Lanka launched by CBSL in 2019 with support from the IFC and UNDP. This roadmap focused on integrating ESG risk management, promoting green and climate finance, enhancing financial inclusion, building capacity, and improving measurement and reporting.
+
+In 2022, CBSL issued Banking Act Direction No. 05 of 2022 on Sustainable Finance Activities of Licensed Banks, requiring reporting of sustainable financing activities. A similar guideline was issued for non-bank financial institutions.
+
+The same year, CBSL launched the Sri Lanka Green Finance Taxonomy, a classification system defining environmentally sustainable economic activities across priority sectors including agriculture, energy, water, construction, transport, manufacturing, and tourism. The taxonomy covers climate change mitigation, adaptation, and other green objectives and is based on international common-ground approaches while tailored to local conditions. All regulated financial institutions are expected to use it when classifying and reporting green finance.
+
+In May 2025, CBSL launched the Sustainable Finance Roadmap 2.0 (2025–2029). Building on the original roadmap, version 2.0 places greater emphasis on the social dimension of sustainability, climate risk management within financial institutions, inclusive green financing, and alignment with the new Central Bank Act’s focus on financial inclusion. It prioritises climate mitigation (especially renewable energy), adaptation and resilience, and broader social justice objectives including support for MSMEs, vulnerable groups, and gender equality.
+
+The roadmap was developed with IFC and European Union support under the ACSIIS program and involves close coordination with the SEC, Insurance Regulatory Commission, Colombo Stock Exchange, and industry associations.
+
+On the disclosure and accounting front, CA Sri Lanka has played a leading role. As the national standard-setter, it adopted the IFRS Sustainability Disclosure Standards issued by the International Sustainability Standards Board (ISSB). Localised as SLFRS S1 (General Requirements for Disclosure of Sustainability-related Financial Information) and SLFRS S2 (Climate-related Disclosures), these standards became effective from 1 January 2025 on a phased basis. The top 100 listed entities by market capitalisation must comply for reporting periods beginning on or after 1 January 2025. Coverage expands to all main-board listed entities in 2026, remaining listed entities in 2027, and larger private companies (based on turnover thresholds) from 2028 onwards, with full coverage targeted by 2030.
+
+SLFRS S1 and S2 require disclosures across the four pillars of governance, strategy, risk management, and metrics and targets. Climate-related disclosures under S2 include physical and transition risks, scenario analysis, greenhouse gas emissions (Scopes 1 and 2 mandatory, Scope 3 if material), and progress against targets. CA Sri Lanka has issued preparers’ guides, maturity assessment frameworks, and training programs to support implementation.
+
+The Colombo Stock Exchange has amended its listing rules to mandate compliance, and the Sri Lanka Accounting and Auditing Standards Monitoring Board oversees monitoring.
+
+Additional elements of the ESG architecture include the National Environmental Act (undergoing reforms focused more explicitly on sustainable development), CBSL’s broader directions on risk management that increasingly incorporate climate considerations, and market innovations such as green, social, sustainability, and blue bonds. The first social bond and first listed blue bond have already appeared, complementing the sukuk milestone.
+
+The natural overlap between Islamic finance principles and ESG objectives is already translating into concrete market activity. Islamic banks in Sri Lanka, has developed a formal Sustainability Framework aligned with CBSL’s Sustainable Banking Initiatives Direction and the Green Finance Taxonomy. Its approach integrates economic, environmental, and social pillars, prioritises financing for climate mitigation and adaptation activities, renewable energy, sustainable agriculture, and inclusive products such as gold certificate financing for under-banked segments.
+
+The bank reports alignment with the UN s Development Goals and participates in mangrove restoration and other environmental projects.
+
+Other Islamic windows have financed solar power plants, eco-friendly SMEs, and sustainable housing through diminishing musharakah, ijarah, and related structures. Sri Lanka’s first listed sukuk itself financed a renewable energy asset, demonstrating how Shariah-compliant instruments can directly fund green projects.
+
+Because Islamic finance already screens out many environmentally and socially harmful activities, institutions operating under these principles often find the transition to formal ESG taxonomies and disclosure standards less disruptive than purely conventional peers.
+
+Governance synergies are also evident. Shariah Supervisory Boards provide an additional layer of independent ethical oversight that complements conventional board and risk-committee structures.
+
+Transparency requirements inherent in Shariah contracts support the robust disclosure demanded by SLFRS S1 and S2. Risk-sharing models can reduce moral hazard and encourage more careful assessment of environmental and social risks.
+
+At the system level, CBSL’s Sustainable Finance Roadmap 2.0 and the Green Finance Taxonomy provide a common language that Islamic and conventional institutions can both use.
+
+SEC’s sukuk framework and whitelist index rules create pathways for Shariah-compliant ESG products. CA Sri Lanka’s sustainability standards apply equally to Islamic financial institutions, ensuring that their reporting meets global investor expectations.
+
+Despite clear progress, challenges remain. The absence of a dedicated Islamic banking law and mandatory national Shariah governance framework can lead to product inconsistencies and limit the sector’s ability to scale and attract large institutional capital.
+
+Liquidity management remains constrained by the relative scarcity of high-quality Shariah-compliant instruments.
+
+Capacity constraints, both in Shariah scholarship and in ESG expertise, persist across the industry.
+
+Climate physical risks (floods, droughts, coastal erosion) pose material threats to asset-backed Islamic portfolios, particularly in agriculture, tourism, and property-linked financing.
+
+On the ESG side, phased implementation of SLFRS S1 and S2 will require significant investment in data systems, scenario analysis capabilities, and assurance processes. Smaller institutions and non-listed companies face resource constraints. Taxonomy application and consistent classification of activities still need refinement, and social taxonomy development is at an earlier stage.
+
+Opportunities, however, outweigh the challenges. Green and sustainability sukuk can become a distinctive Sri Lankan offering that appeals simultaneously to Islamic and ESG investors. Integration of Shariah screening with the Green Finance Taxonomy can produce high-quality, dual-compliant products.
+
+Sri Lanka’s Islamic finance sector and its ESG regulatory architecture are on converging trajectories. Shariah principles of ethical investment, risk-sharing, asset-backing, and social justice provide a values foundation that resonates strongly with modern sustainability objectives.
+
+Regulatory advances, from the 2005 Banking Act amendments and subsequent CBSL guidance, through the SEC’s sukuk and whitelist frameworks, to the Green Finance Taxonomy, Sustainable Finance Roadmap 2.0, and CA Sri Lanka’s adoption of SLFRS S1 and S2, have created an enabling environment for this convergence.
+
+The first listed sukuk, expanding Islamic windows, sustainability frameworks, and the progressive mandatory sustainability disclosures all demonstrate that the market is moving from principle to practice.
+
+Sri Lanka has increasingly aligned its economic and capital market policies with global sustainability objectives by promoting renewable energy, climate resilience, sustainable finance, and low-carbon development initiatives. The country has also undertaken commitments under the Paris Agreement and introduced regulatory measures to encourage environmentally sustainable investment and green economic growth. Against this backdrop, the development of Islamic capital market products such as Sukuk can complement Sri Lanka's broader transition towards a low-carbon and climate-resilient economy by mobilising long-term capital for sustainable infrastructure, renewable energy, and other environmentally responsible projects.
+
+Accordingly, the introduction of a robust regulatory framework for Sukuk and other Islamic capital market instruments has the potential to support Sri Lanka's sustainable development agenda by attracting ethically focused investment capital and financing projects that contribute to inclusive and low-carbon economic growth
+
+(The author, an Attorney-at-Law, LLB, FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 Asia Pacific Region  (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year)

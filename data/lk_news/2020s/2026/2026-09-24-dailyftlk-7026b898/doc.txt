@@ -1,0 +1,75 @@
+Capital Gains Tax takes sharp turn: What  Sri Lanka’s new 2026 rates mean for investors
+
+From 10% to 15% for individuals and partnerships — and from 10% to 30% for trusts, unit trusts, mutual funds and NGOs
+
+Sri Lanka has significantly reshaped the tax landscape for investment gains with the enactment of the Inland Revenue (Amendment) Act, No. 11 of 2026, certified on 3 June 2026. Among the important changes introduced by the amendment is a significant revision of the Capital Gains Tax (CGT) rates applicable to gains arising from the realisation of investment assets. With effect from 3 June 2026, the CGT rate applicable to individuals and partnerships has increased from 10% to 15%, while the rate applicable to trusts, unit trusts or mutual funds and non-governmental organisations (NGOs) has increased from 10% to 30%. The Inland Revenue Department has specifically highlighted these changes in its Notice to Taxpayers dated 8 June 2026. The change is particularly significant for trusts and collective investment structures, for which the applicable CGT rate has increased from 10% to 30%. This is therefore not merely a technical adjustment to tax rates. It has potentially important implications for investment decisions, asset disposals, wealth structures and the after-tax return expected by investors.
+
+The previous 10% rate for these categories is confirmed in the IRD’s 2025/2026 tax information, while the 2026 taxpayer notice confirms the new rates. An important distinction should therefore be made: companies have not moved from 10% to 30% under this 2026 amendment. Companies were already subject to a 30% rate on gains from the realisation of investment assets. The principal change in 2026 concerns the other taxpayer categories listed above.
+
+Capital Gains Tax applies to the gain arising from the realisation of an investment asset. The Inland Revenue Department explains that a realisation may arise through transactions such as a sale, exchange, transfer, distribution, cancellation, redemption, destruction, expiry, expropriation or surrender of an investment asset. The capital gain is broadly determined by comparing the consideration received or receivable with the cost of the investment asset, subject to the specific rules governing the determination of consideration, cost and allowable expenditure. Therefore, CGT is not generally a tax on the gross selling price of an asset. It is a tax on the gain. For example, if an investment property has a relevant tax cost of Rs. 50 million and is subsequently realised for Rs. 80 million, the starting point would be a capital gain of Rs. 30 million, subject to the detailed statutory rules governing the determination of consideration, cost and allowable expenditure. The new CGT rate is then applied to the taxable gain.
+
+For individual investors, the CGT rate has increased from 10% to 15%. While the increase is five percentage points, it represents a 50% increase in the rate of tax. Consider an individual who realises an investment asset and has a taxable capital gain of Rs. 20 million.
+
+Under the previous regime: Rs. 20 million × 10% = Rs. 2 million
+
+For investors dealing with high-value land, buildings or other investment assets, the additional liability can be substantial. The change makes it increasingly important for individuals to calculate the expected after-tax proceeds before entering into a disposal transaction.
+
+Partnerships have similarly moved from 10% to 15%. A partnership realising a taxable capital gain of Rs. 20 million would therefore face:
+
+This change is relevant not only to traditional business partnerships but also to partnerships holding investment assets. Where a partnership is considering the sale of land, buildings, investment interests or other qualifying assets, the partners should take the increased CGT cost into account when determining the expected net proceeds from the transaction.
+
+The most striking change is the increase applicable to trusts. The CGT rate has increased from 10% to 30%. In other words, the tax rate has tripled. Suppose a trust realises an investment asset and makes a taxable capital gain of Rs. 20 million.
+
+Under the previous rate: Rs. 20 million × 10% = Rs. 2 million
+
+This is a major consideration for trusts established for investment holding, family wealth planning, succession planning or other long-term purposes. The change does not mean that trusts are inherently unsuitable as an ownership or succession structure. A trust may have important legal, family and commercial purposes. However, where a trust holds appreciating investment assets, the tax cost of eventually realising those assets must now be given considerably greater weight. A structure designed when the CGT rate was 10% may produce a substantially different tax outcome when the asset is ultimately realised at a 30% rate.
+
+The CGT rate applicable to unit trusts and mutual funds has also increased from 10% to 30%. This is potentially significant because these structures may hold investment portfolios and may periodically realise investment assets. Consider a taxable capital gain of Rs. 100 million.
+
+The new rate could consequently influence investment management decisions, including the timing and economics of asset disposals. It is important, however, to distinguish CGT on the realisation of investment assets from the general taxation of taxable income of a unit trust or mutual fund. The amendment specifically changes the rate applicable to gains from the realisation of investment assets; it should not automatically be interpreted as changing every other aspect of the taxation of such investment vehicles. The IRD’s existing guidance separately addresses the taxation of taxable income and the CGT applicable to gains from the realisation of investment assets.
+
+The new rate also applies to non-governmental organisations. The CGT rate has increased from 10% to 30%. For an NGO realising a taxable capital gain of Rs. 10 million:
+
+This should not be confused with the separate tax rules applicable to grants, donations and contributions received by NGOs. The change discussed here specifically concerns gains arising from the realisation of investment assets.
+
+One of the most important practical points is that CGT does not automatically apply to every asset sold by every taxpayer. The Inland Revenue Act defines an investment asset by reference to a capital asset held as part of an investment. Capital assets include, among other things:
+
+However, trading stock and depreciable assets are excluded from the definition of capital asset for these purposes. This distinction can be critical. A taxpayer who sells an asset in the ordinary course of a trading business may be subject to the ordinary income-tax rules applicable to business income rather than the CGT provisions. Therefore, the first question should not simply be: “What is the CGT rate?” It should be: “Does the transaction actually fall within the CGT regime?”
+
+Individual’s principal place of residence : The Inland Revenue Department identifies an individual’s principal place of residence as an excluded investment asset where the statutory ownership and occupation conditions are satisfied. Broadly, the individual must have owned the property continuously for the (3) three years immediately preceding disposal and occupied it for at least two of those three years, calculated on a daily basis.
+
+Quoted shares listed on the Colombo Stock Exchange are also identified by the IRD as excluded from CGT.
+
+Therefore, it would be incorrect to state that every increase in the value of a property or investment automatically produces a CGT liability. The nature of the asset and the circumstances of the taxpayer must first be established.
+
+In addition to the specific exclusions from Capital Gains Tax, the Inland Revenue Department provides an exemption for a resident individual where the gain from the realisation of an investment asset does not exceed Rs. 50,000 and the individual’s total gains from the realisation of investment assets do not exceed Rs. 600,000 for the year of assessment. This should be considered separately from the exclusion of specific investment assets such as a qualifying principal place of residence and quoted shares listed on the Colombo Stock Exchange.
+
+Another important consideration arises where an investment asset was already held when the CGT regime was introduced. The IRD’s guidance provides that, for an investment asset held by a person as at 30 September 2017, the cost for CGT purposes is generally linked to the market value of that asset at that date. This rule can be highly significant for long-held properties and investments. For example, an individual may have purchased a property many years before the introduction of CGT at a relatively low historical price. The tax computation is not necessarily based simply on that original purchase price. The applicable statutory valuation rules must be considered. This makes historical valuation records particularly important when preparing a CGT computation.
+
+Not necessarily. The increase in CGT rates may encourage taxpayers to reconsider how investment assets are held, but tax should not be the only factor determining an ownership structure. A trust, partnership, company or direct individual ownership may each have different legal, commercial, succession, governance, financing and regulatory consequences. Accordingly, the tax rate should be considered alongside the commercial, legal, succession, governance, financing and regulatory implications of the ownership structure. This distinction is particularly important because a restructuring carried out solely to obtain a tax advantage may itself have tax consequences. Any restructuring should therefore be assessed before implementation.
+
+The amendment was certified on 3 June 2026, and the IRD has expressly stated that the revised rates apply from that date. Accordingly, transactions occurring around the effective date require careful examination. Taxpayers should not assume that signing an agreement before 3 June 2026 automatically determines the applicable CGT rate. The relevant question is when the transaction constitutes a realisation of the investment asset for tax purposes, having regard to the applicable provisions of the Inland Revenue Act and the facts and terms of the transaction. This can become particularly important for:
+
+Professional advice should be obtained where the transaction straddles the effective date or involves multiple stages.
+
+Another area frequently misunderstood is the treatment of capital losses. The IRD states that a loss from the realisation of an investment asset is not deductible against a gain from the realisation of another investment asset. Consequently, investors should not assume that a capital loss on one investment can simply be used to eliminate a capital gain on another. This makes the timing and sequencing of investment disposals an important planning consideration.
+
+The tax obligation does not end when the sale agreement is signed. The IRD requires a liable taxpayer to file a CGT return and pay the relevant tax following the realisation of an investment asset. The current IRD guidance states that both the CGT payment and return are generally due not later than 30 days after the end of the month in which the realisation occurs. Taxpayers should therefore retain adequate supporting documentation, including:
+
+Good documentation will be particularly important for properties and investments acquired many years ago.
+
+The new rates may influence the way investors look at the economics of investment assets. Previously, an investor realising a Rs. 100 million taxable capital gain at a 10% rate would have faced Rs. 10 million of CGT.
+
+For investors, the relevant calculation is no longer simply: Selling price – acquisition cost = investment profit
+
+For investment planning purposes, the after-tax return should be considered after taking into account applicable taxes and relevant transaction and financing costs.
+
+This after-tax perspective should increasingly form part of investment decision-making.
+
+The increase to 30% for trusts deserves particular attention from families using trusts as part of their long-term wealth and succession arrangements. A trust may have been established for perfectly valid non-tax reasons, including succession, governance or protection of family assets. However, if substantial investment assets are held within the trust and are expected to be realised in the future, the potential CGT liability must now be incorporated into the long-term financial planning of the structure. This does not necessarily justify changing an existing trust. It does, however, justify a review. The same principle applies to unit trusts, mutual funds and other investment structures.
+
+The 2026 CGT amendment sends a clear message that tax planning should begin before an investment asset is realised. By the time the sale agreement is signed, many important tax decisions may already have been made. The appropriate questions should therefore be considered at the planning stage:
+
+Sri Lanka’s 2026 CGT amendment represents a significant change in the taxation of investment gains. For individuals and partnerships, the rate has moved from 10% to 15%. For trusts, unit trusts or mutual funds and NGOs, the change is much more substantial — from 10% to 30%. Companies remain at 30%, meaning that their position should not be confused with the newly increased rates applicable to the other categories.
+
+The practical message is straightforward: Investment decisions should increasingly be assessed on an after-tax basis. For high-value investment assets, a difference of five or twenty percentage points can translate into millions of rupees. Investors, trustees, fund managers, partners and advisers should therefore review the tax consequences before an investment asset is realised. The new CGT regime does not necessarily prevent investment or restructuring. Rather, it makes proper tax analysis, valuation, documentation and advance planning more important than ever. In an environment where the tax on a capital gain can now be as high as 30%, the question is no longer merely how much an investment has appreciated. The more important question is: “How much of that gain will ultimately remain with the investor after tax?”
