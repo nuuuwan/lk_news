@@ -1,0 +1,13 @@
+Cargills Bank expands partnership with Intellect
+
+Intellect Design Arena Ltd., a global leader in AI-First, enterprise-grade financial technology, recently announced that Cargills Bank, a licensed commercial bank in Sri Lanka, has selected the Composable eMACH.ai Core Banking Architecture to expand its digital banking capabilities and strengthen its long-standing technology partnership with Intellect.
+
+The expanded engagement marks the next phase of Cargills Bank’s digital transformation journey, enabling the bank to modernise its technology landscape with a composable, cloud-ready banking architecture.
+
+The programme spans Core Banking, Lending, Trade Finance and Treasury, creating a unified technology foundation that supports greater agility, operational resilience and long-term business growth.
+
+The modernisation programme will enable Cargills Bank to transform critical banking capabilities spanning Customer On-boarding, Deposits, Payments, Loan Origination, Loan Management, Limits and Collateral Management, Trade Finance and Treasury, enabling faster product innovation and seamless customer experiences.
+
+Indika Fernando, Chief Information Officer, Cargills Bank said, “Our relationship with Intellect has evolved over the years, built on a shared vision of innovation and trust. By expanding this partnership, we are creating a unified, future-ready banking platform that will enable us to deliver simpler, smarter and more personalised banking experiences for years to come.”
+
+Ramanan SV, CEO-India & South Asia, Intellect Design Arena, said:, “Sri Lanka’s banking sector is entering a new phase of transformation, with banks investing in modern, resilient technology platforms that can support sustainable growth while delivering superior customer experiences. We are proud to deepen our long-standing relationship with Cargills Bank through this expanded engagement. By bringing together our Composable eMACH.ai Architecture across Core Banking, Lending, Treasury and Trade Finance, we are enabling the bank to operate on a unified, future-ready platform that combines operational excellence with continuous innovation.”

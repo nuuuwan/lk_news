@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_12:09:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--29_14:04:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,699** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-29-dailymirrorlk-c3d3286b",
-    "num": "dailymirrorlk-c3d3286b",
+    "doc_id": "2026-09-29-dailymirrorlk-0921452a",
+    "num": "dailymirrorlk-0921452a",
     "date_str": "2026-09-29",
-    "description": "Gnanasara Thera absent in court: Decision on warrant at noon",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-absent-in-court-Decision-on-warrant-at-noon/108-351358",
+    "description": "Rs. 1.58B state land fraud: Ex-Commissioner arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-1-58B-state-land-fraud-Ex-Commissioner-arrested/108-351375",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790663438.0
+    "time_ut": 1790669706.0
 }
 ```
 
@@ -41,8 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-29 | `dailymirrorlk-0921452a` | Rs. 1.58B state land fraud: Ex-Commissioner arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-0921452a)
+- 2026-09-29 | `dailymirrorlk-58dc13d3` | Former NTC Chairman Renuka Perera released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-58dc13d3)
+- 2026-09-29 | `dailymirrorlk-dfc12aac` | Court of Appeal issues warrant for Gnanasara Thera’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-dfc12aac)
+- 2026-09-29 | `dailymirrorlk-19107f8a` | Marking World Pharmacists Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-19107f8a)
+- 2026-09-29 | `dailymirrorlk-a5113d59` | Namal Rajapaksa remanded till October 6 in Krrish case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-a5113d59)
+- 2026-09-29 | `adalk-1149649a` | ගම්මන්පිල නිදොස්කොට නිදහස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-1149649a)
+- 2026-09-29 | `adalk-29e74a55` | සෙලින්කෝ ලයිෆ් විශිෂ්ටතම විකුණුම් නිලධාරීන් ඇගයෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-29e74a55)
+- 2026-09-29 | `dailymirrorlk-790ec6bd` | Oil prices rise for second session on continued Middle East supply concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-790ec6bd)
+- 2026-09-29 | `dailymirrorlk-a1cc30f4` | Namal Rajapaksa further remanded over Air Bus deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-a1cc30f4)
 - 2026-09-29 | `dailymirrorlk-c3d3286b` | Gnanasara Thera absent in court: Decision on warrant at noon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-c3d3286b)
 - 2026-09-29 | `dailymirrorlk-dfccf906` | Udaya Gammanpila acquitted in Rs. 21 million criminal breach of trust case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-dfccf906)
+- 2026-09-29 | `dailymirrorlk-532e4427` | OpenAI scraps rollout of new model over safety concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-532e4427)
 - 2026-09-29 | `dailymirrorlk-df4cefd4` | Eswatini Government confirms death of Sri Lankan national | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-df4cefd4)
 - 2026-09-29 | `dailymirrorlk-d2963497` | Mihintalen Handak YouTube Channel defamation case postponed to December4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-d2963497)
 - 2026-09-29 | `dailymirrorlk-2069a2a7` | Full Moon a sign of cultural link between China and Sri Lanka - Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-2069a2a7)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-09-29 | `dailymirrorlk-9f9e6908` | Tissamaharama Base Hospital faces severe staff, facility shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-9f9e6908)
 - 2026-09-29 | `dailymirrorlk-c886f174` | Elephant runs riot at Perahera in Badulla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-c886f174)
 - 2026-09-29 | `dailymirrorlk-cc43e189` | JVP beefs up ties with India’s BJP as Tilvin leads delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-cc43e189)
-- 2026-09-29 | `dailymirrorlk-b16533b4` | US Army Pacific Deputy Commander arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-b16533b4)
-- 2026-09-29 | `dailymirrorlk-1d2794f7` | Four injured as pavement caves in near old Kandy Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-1d2794f7)
-- 2026-09-29 | `dailymirrorlk-21405431` | Namal produced before court over ‘Krrish’ deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-21405431)
-- 2026-09-29 | `dailymirrorlk-b58173cb` | Asian Games Cricket: Bangladesh, Sri Lanka reach semifinals without playing a ball | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-b58173cb)
-- 2026-09-29 | `dailymirrorlk-0cc4db2a` | President congratulates Rumesh on historic gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-0cc4db2a)
-- 2026-09-29 | `dailymirrorlk-e6978865` | SpaceX’s Starship makes orbital debut deploying Starlinks before early ending | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-e6978865)
-- 2026-09-29 | `dailymirrorlk-2076b6c7` | Baby hippo’s winning name to be announced on Oct. 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-2076b6c7)
-- 2026-09-29 | `adalk-f997e28f` | චීනයට ආයුධ විකිණීමට සාකච්ඡා කළේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-f997e28f)
-- 2026-09-29 | `adalk-f0b84487` | රත්ගම වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-f0b84487)
-- 2026-09-29 | `adalk-348ce085` | කොළඹ සිට පේරාදෙණිය හා ගම්පොලට දුම්රිය ධාවනය අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-adalk-348ce085)
 
 ---
 
