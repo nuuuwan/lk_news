@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-30 18:11:47",
-  "n_docs": 131844,
+  "time_updated": "2026-09-30 19:59:54",
+  "n_docs": 131851,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131844,
+  "n_docs_with_text": 131851,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-30",
-  "dataset_size": 2045941189,
+  "dataset_size": 2046041940,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-30-dailymirrorlk-52061866",
-    "num": "dailymirrorlk-52061866",
+    "doc_id": "2026-09-30-dailymirrorlk-52a8cb69",
+    "num": "dailymirrorlk-52a8cb69",
     "date_str": "2026-09-30",
-    "description": "World Bank approves $110 Million for roads damaged by Cyclone Ditwah",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Bank-approves-110-Million-for-roads-damaged-by-Cyclone-Ditwah/108-351470",
+    "description": "57 officers of tri-forces receive \u2019\u2019Vishishta Seva Vibhushana\u2019\u2019 medals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/57-officers-of-tri-forces-receive-Vishishta-Seva-Vibhushana-medals/108-351474",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790769108.0
+    "time_ut": 1790775600.0
   }
 }
