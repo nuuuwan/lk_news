@@ -64894,6 +64894,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-36280869",
+    "num": "adalk-36280869",
+    "date_str": "2026-09-30",
+    "description": "\u0d85\u0dbb\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0dda \u0dc4\u0dcf \u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dd9\u0dca \u0d87\u0db4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0dda-\u0dc4\u0dcf-\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dd9\u0dca-\u0d87\u0db4-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a-\u0d9a\u0dbb\u0dba\u0dd2/11-424439",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790764932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-21c27930",
+    "num": "adalk-21c27930",
+    "date_str": "2026-09-30",
+    "description": "\u0db1\u0dc0 \u0db4\u0db1\u0dad\u0dd9\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd9\u0db1 \u0dc4\u0dd0\u0da7\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0db4\u0db1\u0dad\u0dd9\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca-\u0db4\u0dcf\u0dbd\u0db1\u0dba-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0dc0\u0dd9\u0db1-\u0dc4\u0dd0\u0da7\u0dd2/11-424440",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790765483.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-37eaff70",
     "num": "dailymirrorlk-37eaff70",
     "date_str": "2026-09-30",
@@ -64979,5 +65001,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790775600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-1609ee1f",
+    "num": "dailymirrorlk-1609ee1f",
+    "date_str": "2026-09-30",
+    "description": "Government working on several relief packages: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-working-on-several-relief-packages-Nalinda/108-351475",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790779113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-513384f0",
+    "num": "dailymirrorlk-513384f0",
+    "date_str": "2026-09-30",
+    "description": "SLC targets transparency, professional management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLC-targets-transparency-professional-management/108-351476",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790781238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-60b2761a",
+    "num": "dailymirrorlk-60b2761a",
+    "date_str": "2026-09-30",
+    "description": "Ticket ballot to go live for Men\u2019s Cricket World Cup 2027",
+    "url_metadata": "https://www.dailymirror.lk/international/Ticket-ballot-to-go-live-for-Mens-Cricket-World-Cup-2027/107-351477",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790781945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-6b2850a1",
+    "num": "dailymirrorlk-6b2850a1",
+    "date_str": "2026-09-30",
+    "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says",
+    "url_metadata": "https://www.dailymirror.lk/international/Passengers-overcame-pilot-who-tried-to-crash-flydubai-flight-Israel-says/107-351478",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790784637.0
   }
 ]
