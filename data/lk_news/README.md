@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--30_06:27:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--30_08:08:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,782** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,789** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-30-dailyftlk-b703456c",
-    "num": "dailyftlk-b703456c",
+    "doc_id": "2026-09-30-dailyftlk-4f5dfe2b",
+    "num": "dailyftlk-4f5dfe2b",
     "date_str": "2026-09-30",
-    "description": "Sri Lanka\u2019s Budget process gives public too few opportunities to participate: Verit\u00e9 Research",
-    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-Budget-process-gives-public-too-few-opportunities-to-participate-Verit\u00e9-Research/14-797971",
+    "description": "AAT Sri Lanka Conference 2026 explores what makes accountants valuable in age of AI",
+    "url_metadata": "https://www.ft.lk/business/AAT-Sri-Lanka-Conference-2026-explores-what-makes-accountants-valuable-in-age-of-AI/34-797981",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1790729069.0
+    "time_ut": 1790734838.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-09-30 | `dailyftlk-4f5dfe2b` | AAT Sri Lanka Conference 2026 explores what makes accountants valuable in age of AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-4f5dfe2b)
+- 2026-09-30 | `adalk-4375b389` | රටපුරා වෙරළබඩ, ජලජ කලාප කොමර්ෂල් බැංකුව පිරිසිදු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-4375b389)
+- 2026-09-30 | `adalk-bdfd3183` | අමු කජු ලෙසින් ඔස්ට්‍රේලියාවට යැවීමට ගිය සිගරට් රේගු දැලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-bdfd3183)
+- 2026-09-30 | `dailyftlk-3fb18170` | Beyond El Niño: Building lasting climate resilience in Sri Lanka’s plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-3fb18170)
+- 2026-09-30 | `dailyftlk-5e810947` | Sophistry, lineage, and class war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-5e810947)
 - 2026-09-30 | `dailyftlk-b703456c` | Sri Lanka’s Budget process gives public too few opportunities to participate: Verité Research | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-b703456c)
 - 2026-09-30 | `dailyftlk-138e89aa` | Budget 2027: Time to review tax-free threshold for salaried taxpayers? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-138e89aa)
 - 2026-09-30 | `dailyftlk-bb8b7ac1` | IMF Staff statement: What counts as sustainable recovery? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-bb8b7ac1)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-09-30 | `dailyftlk-a616ae57` | Sajith accuses Govt., CBSL of using outdated data to mask poverty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-a616ae57)
 - 2026-09-30 | `dailyftlk-c4812e50` | India airlifts three tons of anti-TB medicines to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-c4812e50)
 - 2026-09-30 | `dailyftlk-a296eee3` | No bail for Namal in two cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-a296eee3)
-- 2026-09-30 | `dailyftlk-b9c4b4be` | India tells SL illicit funds used in Krrish project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-b9c4b4be)
-- 2026-09-30 | `dailyftlk-20b8d343` | Court of Appeal orders Gnanasara Thera’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-20b8d343)
-- 2026-09-30 | `dailyftlk-9a8bd698` | Cabinet approves to two committees to restore Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailyftlk-9a8bd698)
-- 2026-09-29 | `dailymirrorlk-7cc4ae44` | Vijitha Herath meets Iranian Foreign Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-7cc4ae44)
-- 2026-09-29 | `dailymirrorlk-2cbb3aa8` | No final decision on exit from IMF programme: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-29-dailymirrorlk-2cbb3aa8)
 
 ---
 
