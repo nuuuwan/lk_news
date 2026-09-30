@@ -64641,6 +64641,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-0797161a",
+    "num": "adalk-0797161a",
+    "date_str": "2026-09-30",
+    "description": "\u0db6\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dca\u0dc0 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dca\u0dc0-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424432",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790745546.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-07692bf2",
     "num": "dailymirrorlk-07692bf2",
     "date_str": "2026-09-30",
@@ -64649,6 +64660,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790745666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-9993fca6",
+    "num": "adalk-9993fca6",
+    "date_str": "2026-09-30",
+    "description": "\u0d9a\u0ddd\u0da7\u0dd2 \u0d85\u0da7\u0d9a \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0dc3\u0db8\u0d9c \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-\u0d85\u0da7\u0d9a-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0dc3\u0db8\u0d9c-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424433",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790745812.0
   },
   {
     "doc_type": "lk_news",
@@ -64759,5 +64781,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790753952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-7478f088",
+    "num": "dailymirrorlk-7478f088",
+    "date_str": "2026-09-30",
+    "description": "Ranil Wickremesinghe\u2019s case to be called on November 11",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-Wickremesinghes-case-to-be-called-on-November-11/108-351458",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790757661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-41772962",
+    "num": "dailymirrorlk-41772962",
+    "date_str": "2026-09-30",
+    "description": "Namal Rajapaksa granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-granted-bail/108-351462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790758936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-430702ed",
+    "num": "dailymirrorlk-430702ed",
+    "date_str": "2026-09-30",
+    "description": "Digital technology to be integrated into schools: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Digital-technology-to-be-integrated-into-schools-Deputy-Minister/108-351463",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790760183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-8e05850c",
+    "num": "dailymirrorlk-8e05850c",
+    "date_str": "2026-09-30",
+    "description": "Activists inspect Miracle Dome City Site amid environmental concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Activists-inspect-Miracle-Dome-City-Site-amid-environmental-concerns/108-351464",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790760262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-a580a766",
+    "num": "dailymirrorlk-a580a766",
+    "date_str": "2026-09-30",
+    "description": "Heavy rains expected tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-expected-tomorrow/108-351465",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790760337.0
   }
 ]

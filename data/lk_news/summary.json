@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-30 14:05:28",
-  "n_docs": 131831,
+  "time_updated": "2026-09-30 15:59:07",
+  "n_docs": 131838,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131831,
+  "n_docs_with_text": 131838,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-30",
-  "dataset_size": 2045643349,
+  "dataset_size": 2045872527,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-30-dailymirrorlk-7d5c878d",
-    "num": "dailymirrorlk-7d5c878d",
+    "doc_id": "2026-09-30-dailymirrorlk-a580a766",
+    "num": "dailymirrorlk-a580a766",
     "date_str": "2026-09-30",
-    "description": "Aesthetic education vital for empathetic professionals: PM",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Aesthetic-education-vital-for-empathetic-professionals-PM/108-351457",
+    "description": "Heavy rains expected tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rains-expected-tomorrow/108-351465",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790753952.0
+    "time_ut": 1790760337.0
   }
 }
