@@ -64916,6 +64916,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-e2c6e8b2",
+    "num": "adalk-e2c6e8b2",
+    "date_str": "2026-09-30",
+    "description": "\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0daf\u0dd2\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0dad\u0dd1\u0d9c\u0dca\u0d9c",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2-\u0daf\u0dd2\u0db1\u0dba\u0dda\u0daf\u0dd3-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2\u0dba\u0db1\u0dca\u0da7-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0dad\u0dd1\u0d9c\u0dca\u0d9c/11-424441",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790765845.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-37eaff70",
     "num": "dailymirrorlk-37eaff70",
     "date_str": "2026-09-30",
@@ -65045,5 +65056,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790784637.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-4529ad73",
+    "num": "dailymirrorlk-4529ad73",
+    "date_str": "2026-09-30",
+    "description": "Fuel prices revised with effect from midnight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-with-effect-from-midnight/108-351479",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790789098.0
   }
 ]

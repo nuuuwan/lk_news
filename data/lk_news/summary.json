@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-09-30 22:00:20",
-  "n_docs": 131857,
+  "time_updated": "2026-10-01 00:03:03",
+  "n_docs": 131859,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131857,
+  "n_docs_with_text": 131859,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-09-30",
-  "dataset_size": 2046112160,
+  "dataset_size": 2046169918,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-30-dailymirrorlk-6b2850a1",
-    "num": "dailymirrorlk-6b2850a1",
+    "doc_id": "2026-09-30-dailymirrorlk-4529ad73",
+    "num": "dailymirrorlk-4529ad73",
     "date_str": "2026-09-30",
-    "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says",
-    "url_metadata": "https://www.dailymirror.lk/international/Passengers-overcame-pilot-who-tried-to-crash-flydubai-flight-Israel-says/107-351478",
+    "description": "Fuel prices revised with effect from midnight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-with-effect-from-midnight/108-351479",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790784637.0
+    "time_ut": 1790789098.0
   }
 }
