@@ -1,0 +1,49 @@
+Smarter solar planning: Why Sri Lanka must protect its hydraulic heritage before floating on agricultural waters
+
+The recent commissioning of the “Diyajanani” 5-Megawatt floating solar power plant on the Ibbankatuwa Reservoir has generated justifiable excitement across Sri Lanka’s energy and business sectors. Emerging from the waters of Dambulla, the 10.5-acre floating array represents a milestone in local engineering capability. Spearheaded by WindForce PLC with local technical teams, the project promises to generate roughly 9 gigawatt-hours of clean electricity annually, offsetting 2.5 million litres of imported diesel, saving nearly $3 million in foreign exchange, and reducing carbon emissions by over 6,400 metric tons every year.
+
+On paper, the narrative is flawless: sun meets water, diesel imports shrink, and carbon footprints drop. Yet, as a nation standing at the crossroads of a historic energy transition and severe economic restructuring, we must look beyond the immediate gloss of photo opportunities.
+
+The central question facing Sri Lanka’s policymakers is not whether floating solar technology works—it clearly does—but whether placing utility-scale solar farms on agricultural irrigation reservoirs is the right strategy when vast expanses of rooftops, degraded land, and industrial surfaces remain entirely untapped. Are we rushing into living water bodies simply because they seem easy to lease, setting a troubling precedent for our 3,500-year-old hydraulic civilisation?
+
+To evaluate floating solar objectively, one must acknowledge its legitimate engineering merits. Photovoltaic (PV) panels lose efficiency as operational temperatures rise. When mounted over water, the natural evaporative cooling effect can boost power generation efficiency by 5% to 15% compared to conventional ground-mounted installations. Furthermore, shading a portion of the water surface reduces thermal evaporation—a seemingly ideal benefit for drought-prone dry zone reservoirs.
+
+However, these engineering advantages must be weighed against the unique ecological, agricultural, and socio-economic realities of Sri Lanka’s water management systems.
+
+Unlike artificial industrial ponds or land-constrained urban nations like Singapore or South Korea, Sri Lanka’s reservoirs are not isolated, static bodies of water. They are the arteries of a complex, interconnected hydraulic cascade system designed over millennia to sustain food security, replenish groundwater tables, and nurture regional ecosystems. Converting these living agricultural assets into energy generation hubs introduces long-term vulnerabilities that demand rigorous national scrutiny.
+
+A foundational mistake in energy spatial planning is treating agricultural tanks as idle real estate. While the Ibbankatuwa Reservoir is a relatively modern multi-purpose reservoir built under the Mahaweli Development Programme in the 1980s, much of Sri Lanka’s dry zone relies on ancient cascades—such as the Parakrama Samudra, Kala Wewa, Tissa Wewa, and Minneriya.
+
+Deploying floating arrays on active agricultural tanks presents several critical operational and ecological risks:
+
+Sri Lanka’s irrigation tanks experience dramatic seasonal water level fluctuations. During the dry Yala season, water levels drop significantly as sluice gates open to feed downstream paddy fields. When water levels plummet, floating solar structures risk grounding on exposed mudbeds, straining mooring cables, damaging anchoring systems, and potentially obstructing irrigation intake structures.
+
+Covering large surface areas with opaque solar arrays blocks natural sunlight penetration. This alters the photic zone, suppressing phytoplankton growth—the foundation of the aquatic food chain. Reduced photosynthesis leads to lower dissolved oxygen levels, threatening freshwater fish populations. For thousands of rural families reliant on inland fisheries for protein and livelihood, widespread coverage of water bodies poses a direct threat to community food security.
+
+Solar panels in tropical environments accumulate bird droppings, dust, and algae. Cleaning these vast floating arrays requires regular maintenance. If chemical detergents or non-purified water systems are utilised, chemical run-off directly contaminates irrigation water used for food crops and domestic consumption downstream.
+
+Sri Lanka is not land-starved in a way that forces an immediate, uncritical retreat onto active agricultural waters. A rational national renewable energy policy must enforce a strict spatial prioritisation hierarchy, ensuring low-risk, high-yield assets are fully developed before touching sensitive natural ecosystems.
+
+The low-hanging fruit of Sri Lanka’s solar transition lies overhead. Hundreds of thousands of square meters of roof space across industrial zones, apparel factories, warehouses, government complexes, schools, and university campuses remain unutilised. Placing solar panels on industrial rooftops places generation directly at the point of heaviest demand, eliminating costly grid transmission losses and requiring zero environmental clearing or water leasing.
+
+Before converting active water bodies, Sri Lanka must inventory its brownfield sites. Closed rock quarries, degraded non-arable soil patches, railway corridors, and highway buffer zones represent ideal locations for utility-scale ground-mounted solar. Ground-mounted systems feature lower capital expenditure (CAPEX) compared to floating infrastructure, translating to lower generation costs for the Ceylon Electricity Board (CEB) and consumers.
+
+If floating solar technology is to be scaled as part of Sri Lanka’s long-term strategy, development should focus on water bodies carrying zero agricultural or biodiversity risk:
+
+Closed-Loop Industrial Lagoons: Wastewater treatment basins, ash ponds, and industrial cooling reservoirs near manufacturing hubs offer ideal platforms. They benefit from proximity to industrial grid infrastructure while posing zero risk to food systems.
+
+Offshore and Marine Systems: As marine solar engineering matures, utilising sheltered coastal bays, lagoons, and salt-pan peripheries can unlock significant floating capacity without encroaching on inland freshwater reserves.
+
+Acknowledging these risks does not mean opposing projects like “Diyajanani” or rejecting floating solar technology entirely. Local engineering firms like WindForce PLC have demonstrated commendable technical capability, and the community contributions—such as smart classrooms for local schools and support for fishing associations—show positive corporate social responsibility.
+
+However, one successful pilot project on a modern 1980s reservoir must not trigger an unregulated rush to cover Sri Lanka’s historic agricultural tanks.
+
+To safeguard national interests, the Ministry of Power and Energy, the Sustainable Energy Authority (SLSEA), and the Irrigation Department must establish clear policy guardrails:
+
+A legal ban on heritage and sanctuary tanks: Ancient cultural tanks (such as Parakrama Samudra and Tissa Wewa) and reservoirs located within National Parks or bird sanctuaries must be legally exempted from floating energy development.
+
+Strict surface area caps: On modern, multi-purpose reservoirs where floating solar is deemed viable, coverage must be capped at a maximum of 5% of total surface area to protect aquatic ecology and irrigation functions.
+
+Mandatory comprehensive EIAs: Floating solar proposals must undergo independent Environmental Impact Assessments (EIAs) evaluating seasonal water drawdowns, fish breeding cycles, and long-term water quality impact.
+
+Sustainable development is not merely about generating clean units of electricity; it is about harmony between technology, community, and ecology. Sri Lanka can achieve 70% renewable energy target by 2030 without sacrificing its agricultural heritage. By prioritising rooftops, degraded land, and industrial surfaces first, we can build a resilient, green energy future while preserving the ancient waters that have sustained our nation for centuries.

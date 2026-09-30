@@ -64022,5 +64022,203 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790693850.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-9a8bd698",
+    "num": "dailyftlk-9a8bd698",
+    "date_str": "2026-09-30",
+    "description": "Cabinet approves to two committees to restore Gregory Lake",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-to-two-committees-to-restore-Gregory-Lake/56-797934",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-20b8d343",
+    "num": "dailyftlk-20b8d343",
+    "date_str": "2026-09-30",
+    "description": "Court of Appeal orders Gnanasara Thera\u2019s arrest",
+    "url_metadata": "https://www.ft.lk/news/Court-of-Appeal-orders-Gnanasara-Thera-s-arrest/56-797935",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-b9c4b4be",
+    "num": "dailyftlk-b9c4b4be",
+    "date_str": "2026-09-30",
+    "description": "India tells SL illicit funds used in Krrish project",
+    "url_metadata": "https://www.ft.lk/news/India-tells-SL-illicit-funds-used-in-Krrish-project/56-797936",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-a296eee3",
+    "num": "dailyftlk-a296eee3",
+    "date_str": "2026-09-30",
+    "description": "No bail for Namal in two cases",
+    "url_metadata": "https://www.ft.lk/news/No-bail-for-Namal-in-two-cases/56-797937",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-c4812e50",
+    "num": "dailyftlk-c4812e50",
+    "date_str": "2026-09-30",
+    "description": "India airlifts three tons of anti-TB medicines to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/India-airlifts-three-tons-of-anti-TB-medicines-to-Sri-Lanka/56-797938",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-a616ae57",
+    "num": "dailyftlk-a616ae57",
+    "date_str": "2026-09-30",
+    "description": "Sajith accuses Govt., CBSL of using outdated data to mask poverty",
+    "url_metadata": "https://www.ft.lk/news/Sajith-accuses-Govt-CBSL-of-using-outdated-data-to-mask-poverty/56-797939",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790721326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-43bb30bd",
+    "num": "dailyftlk-43bb30bd",
+    "date_str": "2026-09-30",
+    "description": "WindForce shelves Rs. 4 b Green Bond on adverse market conditions",
+    "url_metadata": "https://www.ft.lk/business/WindForce-shelves-Rs-4-b-Green-Bond-on-adverse-market-conditions/34-797951",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-7f83239a",
+    "num": "dailyftlk-7f83239a",
+    "date_str": "2026-09-30",
+    "description": "Ex-land official arrested over Rs. 1.59 b Borella State land",
+    "url_metadata": "https://www.ft.lk/business/Ex-land-official-arrested-over-Rs-1-59-b-Borella-State-land/34-797952",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-5158374b",
+    "num": "dailyftlk-5158374b",
+    "date_str": "2026-09-30",
+    "description": "TRCSL to acquire $ 9.25 m ADB-funded spectrum and service quality monitoring systems",
+    "url_metadata": "https://www.ft.lk/business/TRCSL-to-acquire-9-25-m-ADB-funded-spectrum-and-service-quality-monitoring-systems/34-797953",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-b61de207",
+    "num": "dailyftlk-b61de207",
+    "date_str": "2026-09-30",
+    "description": "Cabinet awards Rs. 2.89 b Baseline Road contract to Maga Engineering",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-awards-Rs-2-89-b-Baseline-Road-contract-to-Maga-Engineering/34-797954",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-04b70e62",
+    "num": "dailyftlk-04b70e62",
+    "date_str": "2026-09-30",
+    "description": "27 leading corporates endorse CA Sri Lanka\u2019s 47th National Conference of Chartered Accountants",
+    "url_metadata": "https://www.ft.lk/business/27-leading-corporates-endorse-CA-Sri-Lanka-s-47th-National-Conference-of-Chartered-Accountants/34-797955",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-4127eebf",
+    "num": "dailyftlk-4127eebf",
+    "date_str": "2026-09-30",
+    "description": "CTC celebrates commercial excellence at Pinnacle Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/CTC-celebrates-commercial-excellence-at-Pinnacle-Awards-2026/34-797956",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727399.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-aca16ac7",
+    "num": "dailyftlk-aca16ac7",
+    "date_str": "2026-09-30",
+    "description": "Sri Lanka, Brazil move to strengthen dairy sector cooperation",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Brazil-move-to-strengthen-dairy-sector-cooperation/34-797957",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790727471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-97fa1cf2",
+    "num": "dailyftlk-97fa1cf2",
+    "date_str": "2026-09-30",
+    "description": "Smarter solar planning: Why Sri Lanka must protect its hydraulic heritage before floating on agricultural waters",
+    "url_metadata": "https://www.ft.lk/columns/Smarter-solar-planning-Why-Sri-Lanka-must-protect-its-hydraulic-heritage-before-floating-on-agricultural-waters/4-797967",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790728293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-e277724c",
+    "num": "dailyftlk-e277724c",
+    "date_str": "2026-09-30",
+    "description": "Karu Jayasuriya at 86: Lesson of life in service",
+    "url_metadata": "https://www.ft.lk/columns/Karu-Jayasuriya-at-86-Lesson-of-life-in-service/4-797968",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790728435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-bb8b7ac1",
+    "num": "dailyftlk-bb8b7ac1",
+    "date_str": "2026-09-30",
+    "description": "IMF Staff statement: What counts as sustainable recovery?",
+    "url_metadata": "https://www.ft.lk/columns/IMF-Staff-statement-What-counts-as-sustainable-recovery/4-797969",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790728658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-138e89aa",
+    "num": "dailyftlk-138e89aa",
+    "date_str": "2026-09-30",
+    "description": "Budget 2027: Time to review tax-free threshold for salaried taxpayers?",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-Time-to-review-tax-free-threshold-for-salaried-taxpayers/4-797970",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790728957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailyftlk-b703456c",
+    "num": "dailyftlk-b703456c",
+    "date_str": "2026-09-30",
+    "description": "Sri Lanka\u2019s Budget process gives public too few opportunities to participate: Verit\u00e9 Research",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-Budget-process-gives-public-too-few-opportunities-to-participate-Verit\u00e9-Research/14-797971",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790729069.0
   }
 ]
