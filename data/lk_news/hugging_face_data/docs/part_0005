@@ -64245,6 +64245,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-61285006",
+    "num": "dailymirrorlk-61285006",
+    "date_str": "2026-09-30",
+    "description": "INSEE honours suppliers and partners at \u2018Supplier Excellence Awards\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/INSEE-honours-suppliers-and-partners-at-Supplier-Excellence-Awards/273-351403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790731053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-c1202995",
+    "num": "dailymirrorlk-c1202995",
+    "date_str": "2026-09-30",
+    "description": "Groundworth launches \u2018Antara\u2019 in Thalawathugoda",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Groundworth-launches-Antara-in-Thalawathugoda/273-351404",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790731227.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailyftlk-5e810947",
     "num": "dailyftlk-5e810947",
     "date_str": "2026-09-30",
@@ -64256,6 +64278,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-cb0be978",
+    "num": "dailymirrorlk-cb0be978",
+    "date_str": "2026-09-30",
+    "description": "STC General targets wider institutional and consumer markets with three new product launches",
+    "url_metadata": "https://www.dailymirror.lk/business-news/STC-General-targets-wider-institutional-and-consumer-markets-with-three-new-product-launches/273-351405",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790731509.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailyftlk-3fb18170",
     "num": "dailyftlk-3fb18170",
     "date_str": "2026-09-30",
@@ -64264,6 +64297,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1790731576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-be001c6e",
+    "num": "dailymirrorlk-be001c6e",
+    "date_str": "2026-09-30",
+    "description": "Infomate opens new chapter for SL\u2019s BPM industry with Kurunegala expansion",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Infomate-opens-new-chapter-for-SLs-BPM-industry-with-Kurunegala-expansion/273-351406",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790731644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-3599691f",
+    "num": "dailymirrorlk-3599691f",
+    "date_str": "2026-09-30",
+    "description": "Ceyline Group unveils \u2018Roots for the Future\u2019 national reforestation initiative to mark 40th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceyline-Group-unveils-Roots-for-the-Future-national-reforestation-initiative-to-mark-40th-anniversary/273-351407",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790731790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-d0535366",
+    "num": "dailymirrorlk-d0535366",
+    "date_str": "2026-09-30",
+    "description": "Channa Wijewardena named Diabetasol\u2019s Brand Ambassador",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Channa-Wijewardena-named-Diabetasols-Brand-Ambassador/273-351408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790732009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-c93e8fbc",
+    "num": "dailymirrorlk-c93e8fbc",
+    "date_str": "2026-09-30",
+    "description": "Sri Lanka wins Gold at ARCASIA Awards for Architecture 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-wins-Gold-at-ARCASIA-Awards-for-Architecture-2026/273-351409",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790732110.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-ddb03d37",
+    "num": "dailymirrorlk-ddb03d37",
+    "date_str": "2026-09-30",
+    "description": "Court of Appeal quashes Deputy Tea Commissioner\u2019s appointment",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Court-of-Appeal-quashes-Deputy-Tea-Commissioners-appointment/273-351410",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790732209.0
   },
   {
     "doc_type": "lk_news",
@@ -64289,6 +64377,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-7d505ba9",
+    "num": "dailymirrorlk-7d505ba9",
+    "date_str": "2026-09-30",
+    "description": "Imran Noordeen appointed as Sheraton Colombo\u2019s Sales & Marketing Director",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Imran-Noordeen-appointed-as-Sheraton-Colombos-Sales-Marketing-Director/273-351411",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790733857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-eabe2b8c",
+    "num": "dailymirrorlk-eabe2b8c",
+    "date_str": "2026-09-30",
+    "description": "SLFPA holds 29th Annual General Meeting",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLFPA-holds-29th-Annual-General-Meeting/273-351412",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790734051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-83ff8327",
+    "num": "dailymirrorlk-83ff8327",
+    "date_str": "2026-09-30",
+    "description": "Ceylon Chamber proceeds with \u2018business continuity training\u2019 for private sector",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-proceeds-with-business-continuity-training-for-private-sector/273-351413",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790734224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-ff963487",
+    "num": "dailymirrorlk-ff963487",
+    "date_str": "2026-09-30",
+    "description": "EDB and SLAMERP partner to enhance energy efficiency and profitability  in rubber products manufacturing",
+    "url_metadata": "https://www.dailymirror.lk/business-news/EDB-and-SLAMERP-partner-to-enhance-energy-efficiency-and-profitability-in-rubber-products-manufacturing/273-351414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790734400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-09-30",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-351415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790734595.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailyftlk-4f5dfe2b",
     "num": "dailyftlk-4f5dfe2b",
     "date_str": "2026-09-30",
@@ -64308,6 +64451,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790735134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-d3fbe3c0",
+    "num": "dailymirrorlk-d3fbe3c0",
+    "date_str": "2026-09-30",
+    "description": "Investors on wait-and-see mode ahead of policy decision",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Investors-on-wait-and-see-mode-ahead-of-policy-decision/273-351416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790735301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-02cac9e1",
+    "num": "dailymirrorlk-02cac9e1",
+    "date_str": "2026-09-30",
+    "description": "WindForce pulls plug on Rs. 4bn green bond issue",
+    "url_metadata": "https://www.dailymirror.lk/business-news/WindForce-pulls-plug-on-Rs-4bn-green-bond-issue/273-351417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790735375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-57a763f1",
+    "num": "dailymirrorlk-57a763f1",
+    "date_str": "2026-09-30",
+    "description": "CSE, GGGI step up push for sustainable bonds",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CSE-GGGI-step-up-push-for-sustainable-bonds/273-351418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790735458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-92d7e5cc",
+    "num": "dailymirrorlk-92d7e5cc",
+    "date_str": "2026-09-30",
+    "description": "Control failures emerge from NDB\u2019s  Rs. 13.64bn fraud probe",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Control-failures-emerge-from-NDBs-Rs-13-64bn-fraud-probe/273-351419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790735618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-e3ad9ecb",
+    "num": "dailymirrorlk-e3ad9ecb",
+    "date_str": "2026-09-30",
+    "description": "Small vehicles dominate Sri Lanka\u2019s auto demand as consumers turn selective",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Small-vehicles-dominate-Sri-Lankas-auto-demand-as-consumers-turn-selective/273-351420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790735949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-61a26a24",
+    "num": "dailymirrorlk-61a26a24",
+    "date_str": "2026-09-30",
+    "description": "Sri Lanka\u2019s AI ambitions hinge on private capital and control of critical systems",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Sri-Lankas-AI-ambitions-hinge-on-private-capital-and-control-of-critical-systems/245-351421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790736555.0
   },
   {
     "doc_type": "lk_news",
@@ -64341,6 +64550,39 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790739724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-6329147f",
+    "num": "adalk-6329147f",
+    "date_str": "2026-09-30",
+    "description": "\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0db4\u0ddc\u0dbd\u0dd2 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0db1\u0ddc\u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0db4\u0ddc\u0dbd\u0dd2-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0db1\u0ddc\u0d9a\u0dbb\u0dba\u0dd2/11-424430",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790740906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-500cc1bc",
+    "num": "dailymirrorlk-500cc1bc",
+    "date_str": "2026-09-30",
+    "description": "The Overstretch Doctrine: The price of being everywhere",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Overstretch-Doctrine-The-price-of-being-everywhere/172-351426",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790740957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-50dec50f",
+    "num": "adalk-50dec50f",
+    "date_str": "2026-09-30",
+    "description": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd2 \u0daf\u0dc5 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0dd2\u0dad\u0dba \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd2-\u0daf\u0dc5-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0dd2\u0dad\u0dba-\u0d89\u0dc4\u0dc5\u0da7/11-424431",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790741225.0
   },
   {
     "doc_type": "lk_news",
@@ -64462,5 +64704,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790749721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-b4b66469",
+    "num": "dailymirrorlk-b4b66469",
+    "date_str": "2026-09-30",
+    "description": "Namal\u2019s Airbus case to be taken up before Fort Magistrate\u2019s Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namals-Airbus-case-to-be-taken-up-before-Fort-Magistrates-Court/108-351449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790751449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-b610b563",
+    "num": "dailymirrorlk-b610b563",
+    "date_str": "2026-09-30",
+    "description": "Budget speech on November 12",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Budget-speech-on-November-12/108-351450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790751678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-8c1ef4a7",
+    "num": "dailymirrorlk-8c1ef4a7",
+    "date_str": "2026-09-30",
+    "description": "US Supreme Court lifts limits on third-country deportations",
+    "url_metadata": "https://www.dailymirror.lk/international/US-Supreme-Court-lifts-limits-on-third-country-deportations/107-351454",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790753227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-dadca75c",
+    "num": "dailymirrorlk-dadca75c",
+    "date_str": "2026-09-30",
+    "description": "Deputy Minister warns legal action if Shiranthi Rajapaksa fails to return",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deputy-Minister-warns-legal-action-if-Shiranthi-Rajapaksa-fails-to-return/108-351456",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790753801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-7d5c878d",
+    "num": "dailymirrorlk-7d5c878d",
+    "date_str": "2026-09-30",
+    "description": "Aesthetic education vital for empathetic professionals: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Aesthetic-education-vital-for-empathetic-professionals-PM/108-351457",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790753952.0
   }
 ]
