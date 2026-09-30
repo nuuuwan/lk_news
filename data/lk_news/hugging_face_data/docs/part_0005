@@ -64319,5 +64319,148 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790738887.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-3502e306",
+    "num": "adalk-3502e306",
+    "date_str": "2026-09-30",
+    "description": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d86\u0dba\u0dd9\u0dad\u0dca \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0d86\u0dba\u0dd9\u0dad\u0dca-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-424428",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790739244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-bffdd4a4",
+    "num": "adalk-bffdd4a4",
+    "date_str": "2026-09-30",
+    "description": "75 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0db6\u0dd2\u0dbb\u0dd2\u0db3 \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dc5 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db1 \u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/75-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0db6\u0dd2\u0dbb\u0dd2\u0db3-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dc5-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0da7-\u0db4\u0dd0\u0db1-\u0daf\u0dd2\u0dc0\u0dd2-\u0db1\u0dc3\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-424429",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790739724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-a5f78cf8",
+    "num": "dailymirrorlk-a5f78cf8",
+    "date_str": "2026-09-30",
+    "description": "Morocco\u2019s King Mohammed VI appoints Fatima Mansouri as the country\u2019s first female prime minister",
+    "url_metadata": "https://www.dailymirror.lk/international/Moroccos-King-Mohammed-VI-appoints-Fatima-Mansouri-as-the-countrys-first-female-prime-minister/107-351427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790742772.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-b3ed9230",
+    "num": "dailymirrorlk-b3ed9230",
+    "date_str": "2026-09-30",
+    "description": "Policy rate stays at 8.75% amid inflation surge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Policy-rate-stays-at-8-75-amid-inflation-surge/108-351428",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790743471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-ed5a1a9f",
+    "num": "dailymirrorlk-ed5a1a9f",
+    "date_str": "2026-09-30",
+    "description": "Dilith Jayaweera\u2019s writ petition challenging contempt complaint dismissed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dilith-Jayaweeras-writ-petition-challenging-contempt-complaint-dismissed/108-351429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790743609.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-32882657",
+    "num": "dailymirrorlk-32882657",
+    "date_str": "2026-09-30",
+    "description": "Sri Lanka, UAE discuss strengthening bilateral relations at UNGA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-UAE-discuss-strengthening-bilateral-relations-at-UNGA/108-351430",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790744450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-70549985",
+    "num": "dailymirrorlk-70549985",
+    "date_str": "2026-09-30",
+    "description": "Next IMF programme depends on macro economic stability",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Next-IMF-programme-depends-on-macro-economic-stability/108-351431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790745320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-07692bf2",
+    "num": "dailymirrorlk-07692bf2",
+    "date_str": "2026-09-30",
+    "description": "Fort Court to hear case against Ranil today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fort-Court-to-hear-case-against-Ranil-today/108-351432",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790745666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-c5c224f1",
+    "num": "dailymirrorlk-c5c224f1",
+    "date_str": "2026-09-30",
+    "description": "Former Malaysia PM Mahathir admitted to hospital for observation following wife\u2019s passing",
+    "url_metadata": "https://www.dailymirror.lk/international/Former-Malaysia-PM-Mahathir-admitted-to-hospital-for-observation-following-wifes-passing/107-351433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790747157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-e7b17643",
+    "num": "dailymirrorlk-e7b17643",
+    "date_str": "2026-09-30",
+    "description": "1st World Congress on Snakes 2026 to be held in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1st-World-Congress-on-Snakes-2026-to-be-held-in-Sri-Lanka/108-351434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790747421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-7941f303",
+    "num": "dailymirrorlk-7941f303",
+    "date_str": "2026-09-30",
+    "description": "Govt to drop or amend Clause 17 of Anti- Corruption Bill requiring referendum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-drop-or-amend-Clause-17-of-Anti-Corruption-Bill-requiring-referendum/108-351437",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790748961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-1b3416af",
+    "num": "dailymirrorlk-1b3416af",
+    "date_str": "2026-09-30",
+    "description": "Drought drives elephant into deadly fence: farmer arrested in Horowpathana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drought-drives-elephant-into-deadly-fence-farmer-arrested-in-Horowpathana/108-351438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790749196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-6534b1e8",
+    "num": "dailymirrorlk-6534b1e8",
+    "date_str": "2026-09-30",
+    "description": "Gotabaya Rajapaksa: Claims of disappearances were made to damage Sri Lanka\u2019s name",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-Rajapaksa-Claims-of-disappearances-were-made-to-damage-Sri-Lankas-name/108-351441",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790749721.0
   }
 ]
