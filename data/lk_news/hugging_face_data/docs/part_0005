@@ -64795,6 +64795,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-4baad7f0",
+    "num": "dailymirrorlk-4baad7f0",
+    "date_str": "2026-09-30",
+    "description": "Israel-bound flight diverted after fight between pilots",
+    "url_metadata": "https://www.dailymirror.lk/international/Israel-bound-flight-diverted-after-fight-between-pilots/107-351461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790758827.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-41772962",
     "num": "dailymirrorlk-41772962",
     "date_str": "2026-09-30",
@@ -64803,6 +64814,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790758936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-3a92e7ec",
+    "num": "adalk-3a92e7ec",
+    "date_str": "2026-09-30",
+    "description": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-424434",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790759570.0
   },
   {
     "doc_type": "lk_news",
@@ -64836,5 +64858,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790760337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-f3e6ada3",
+    "num": "adalk-f3e6ada3",
+    "date_str": "2026-09-30",
+    "description": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d9a\u0dae\u0dcf\u0dc0 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 12",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0d9a\u0dae\u0dcf\u0dc0-\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-12/11-424435",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790760786.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-cd03183b",
+    "num": "dailymirrorlk-cd03183b",
+    "date_str": "2026-09-30",
+    "description": "President seeks mechanism to educate parents on drug threat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-seeks-mechanism-to-educate-parents-on-drug-threat/108-351468",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790767460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-088bb407",
+    "num": "dailymirrorlk-088bb407",
+    "date_str": "2026-09-30",
+    "description": "JVP delegation visits Delhi BJP office",
+    "url_metadata": "https://www.dailymirror.lk/international/JVP-delegation-visits-Delhi-BJP-office/107-351469",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790768138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-09-30-dailymirrorlk-52061866",
+    "num": "dailymirrorlk-52061866",
+    "date_str": "2026-09-30",
+    "description": "World Bank approves $110 Million for roads damaged by Cyclone Ditwah",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Bank-approves-110-Million-for-roads-damaged-by-Cyclone-Ditwah/108-351470",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790769108.0
   }
 ]
