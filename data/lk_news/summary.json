@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-01 12:12:43",
-  "n_docs": 131918,
+  "time_updated": "2026-10-01 14:04:28",
+  "n_docs": 131928,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131918,
+  "n_docs_with_text": 131928,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-01",
-  "dataset_size": 2046732026,
+  "dataset_size": 2047013947,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailymirrorlk-1453e7d1",
-    "num": "dailymirrorlk-1453e7d1",
+    "doc_id": "2026-10-01-dailymirrorlk-9d86dd65",
+    "num": "dailymirrorlk-9d86dd65",
     "date_str": "2026-10-01",
-    "description": "Fuel companies to get Rs. 70 per litre diesel subsidy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-companies-to-get-Rs-70-per-litre-diesel-subsidy/108-351533",
+    "description": "Plans to develop Anuradhapura city with Indian funds of Rs. 7.7 Billion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plans-to-develop-Anuradhapura-city-with-Indian-funds-of-Rs-7-7-Billion/108-351540",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790834992.0
+    "time_ut": 1790839566.0
   }
 }

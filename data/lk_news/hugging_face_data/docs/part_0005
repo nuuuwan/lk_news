@@ -65147,6 +65147,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-01-adalk-3654a794",
+    "num": "adalk-3654a794",
+    "date_str": "2026-10-01",
+    "description": "\u0d9c\u0ddc\u0da9\u0db1\u0d9f\u0db1 \u0db1\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d9a\u0dd2\u0dc3\u0dd2\u0daf\u0dd4 \u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0ddc\u0da9\u0db1\u0d9f\u0db1-\u0db1\u0dc0-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d9a\u0dd2\u0dc3\u0dd2\u0daf\u0dd4-\u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-424449",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790815418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-adalk-f752f223",
+    "num": "adalk-f752f223",
+    "date_str": "2026-10-01",
+    "description": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc4\u0dbb\u0dc3\u0dca \u0dc0\u0dd4\u0dab\u0dcf",
+    "url_metadata": "https://www.ada.lk/sports/\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc4\u0dbb\u0dc3\u0dca-\u0dc0\u0dd4\u0dab\u0dcf/9-424450",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790815665.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-01-dailyftlk-a2100b6a",
     "num": "dailyftlk-a2100b6a",
     "date_str": "2026-10-01",
@@ -65620,6 +65642,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-d90d3d33",
+    "num": "dailymirrorlk-d90d3d33",
+    "date_str": "2026-10-01",
+    "description": "Quest for accountability should no longer lead to dead-ends",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Quest-for-accountability-should-no-longer-lead-to-dead-ends/172-351508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790832135.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-01-dailymirrorlk-b662c8f7",
     "num": "dailymirrorlk-b662c8f7",
     "date_str": "2026-10-01",
@@ -65631,6 +65664,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-594587a0",
+    "num": "dailymirrorlk-594587a0",
+    "date_str": "2026-10-01",
+    "description": "Will any leader undo the 22A in future?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Will-any-leader-undo-the-22A-in-future/172-351511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790832351.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-01-dailymirrorlk-864bef08",
     "num": "dailymirrorlk-864bef08",
     "date_str": "2026-10-01",
@@ -65639,6 +65683,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790832468.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-36c88a2d",
+    "num": "dailymirrorlk-36c88a2d",
+    "date_str": "2026-10-01",
+    "description": "Children\u2019s rights: My day, my rights, my future",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Childrens-rights-My-day-my-rights-my-future/172-351514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790832588.0
   },
   {
     "doc_type": "lk_news",
@@ -65716,5 +65771,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790834992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-c0f6d9c7",
+    "num": "dailymirrorlk-c0f6d9c7",
+    "date_str": "2026-10-01",
+    "description": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-says-22-fighters-killed-in-air-attacks-on-Afghanistan/107-351535",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790837602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-4b3a0638",
+    "num": "dailymirrorlk-4b3a0638",
+    "date_str": "2026-10-01",
+    "description": "Lightning advisory issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lightning-advisory-issued-for-several-areas/108-351537",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790838273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-d02fd6e8",
+    "num": "dailymirrorlk-d02fd6e8",
+    "date_str": "2026-10-01",
+    "description": "Africa\u2019s industrial future takes shape in Kenya with US$16 Billion oil refinery investment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Africas-industrial-future-takes-shape-in-Kenya-with-US-16-Billion-oil-refinery-investment/108-351538",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790838585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-7355d976",
+    "num": "dailymirrorlk-7355d976",
+    "date_str": "2026-10-01",
+    "description": "Price regulation of 13 costly medicines saves Govt. Rs. 5.7 bn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Price-regulation-of-13-costly-medicines-saves-Govt-Rs-5-7-bn/108-351539",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790839248.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-9d86dd65",
+    "num": "dailymirrorlk-9d86dd65",
+    "date_str": "2026-10-01",
+    "description": "Plans to develop Anuradhapura city with Indian funds of Rs. 7.7 Billion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plans-to-develop-Anuradhapura-city-with-Indian-funds-of-Rs-7-7-Billion/108-351540",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790839566.0
   }
 ]
