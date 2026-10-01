@@ -64410,6 +64410,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-04033ed1",
+    "num": "adalk-04033ed1",
+    "date_str": "2026-09-30",
+    "description": "\u0dc4\u0dbb\u0dd2\u0dad \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7 \u0dc3\u0dc4\u0dcf\u0dba",
+    "url_metadata": "https://www.ada.lk/business/\u0dc4\u0dbb\u0dd2\u0dad-\u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0dc3\u0dc4\u0dcf\u0dba/7-424425",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790734348.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-ff963487",
     "num": "dailymirrorlk-ff963487",
     "date_str": "2026-09-30",
@@ -65169,6 +65180,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-01-adalk-2420dd68",
+    "num": "adalk-2420dd68",
+    "date_str": "2026-10-01",
+    "description": "\u0d85\u0daf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb \u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb-\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-424451",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790816017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-adalk-f923fd6b",
+    "num": "adalk-f923fd6b",
+    "date_str": "2026-10-01",
+    "description": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda 57\u0d9a\u0da7 \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8 \u0dc3\u0dda\u0dc0\u0dcf \u0dc0\u0dd2\u0db7\u0dd6\u0dc2\u0dab \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda-57\u0d9a\u0da7-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc0\u0dd2\u0db7\u0dd6\u0dc2\u0dab-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8/11-424452",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790816263.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-01-dailyftlk-a2100b6a",
     "num": "dailyftlk-a2100b6a",
     "date_str": "2026-10-01",
@@ -65826,5 +65859,104 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790839566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-5de1515c",
+    "num": "dailymirrorlk-5de1515c",
+    "date_str": "2026-10-01",
+    "description": "TV cameraman arrested over alleged assault on Ranil\u2019s security officer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TV-cameraman-arrested-over-alleged-assault-on-Ranils-security-officer/108-351541",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790843161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-584d4606",
+    "num": "dailymirrorlk-584d4606",
+    "date_str": "2026-10-01",
+    "description": "Sri Lanka Air Force promotes world record holder Dulith Dassanayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-promotes-world-record-holder-Dulith-Dassanayake/108-351542",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790845386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-1b1f6401",
+    "num": "dailymirrorlk-1b1f6401",
+    "date_str": "2026-10-01",
+    "description": "Jaffna recycling hub launched",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Jaffna-recycling-hub-launched/110-351543",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790845818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-7290f0a6",
+    "num": "dailymirrorlk-7290f0a6",
+    "date_str": "2026-10-01",
+    "description": "Sri Lanka\u2019s 45 all out sends India into gold medal match",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-45-all-out-sends-India-into-gold-medal-match/108-351544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790845897.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-656755d1",
+    "num": "dailymirrorlk-656755d1",
+    "date_str": "2026-10-01",
+    "description": "Walkie-talkies banned in Kumana National Park from today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Walkie-talkies-banned-in-Kumana-National-Park-from-today/108-351545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790845991.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-664d8a76",
+    "num": "dailymirrorlk-664d8a76",
+    "date_str": "2026-10-01",
+    "description": "Bambalapitiya restaurant fined Rs. 1 million for overcharging on bottled water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bambalapitiya-restaurant-fined-Rs-1-million-for-overcharging-on-bottled-water/108-351546",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790846907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-b1e604d4",
+    "num": "dailymirrorlk-b1e604d4",
+    "date_str": "2026-10-01",
+    "description": "India will always support Sri Lanka\u2019s progress, prosperity: Jaishankar tells Tilvin",
+    "url_metadata": "https://www.dailymirror.lk/international/India-will-always-support-Sri-Lankas-progress-prosperity-Jaishankar-tells-Tilvin/107-351548",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790847283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-611e9c8f",
+    "num": "dailymirrorlk-611e9c8f",
+    "date_str": "2026-10-01",
+    "description": "US death row inmate survives execution attempt after two lethal injections",
+    "url_metadata": "https://www.dailymirror.lk/international/US-death-row-inmate-survives-execution-attempt-after-two-lethal-injections/107-351549",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790847505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-2f300300",
+    "num": "dailymirrorlk-2f300300",
+    "date_str": "2026-10-01",
+    "description": "LRH celebrates World Children\u2019s Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/LRH-celebrates-World-Childrens-Day/110-351551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790848257.0
   }
 ]

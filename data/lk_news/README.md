@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_14:05:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_16:01:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,928** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,940** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailymirrorlk-9d86dd65",
-    "num": "dailymirrorlk-9d86dd65",
+    "doc_id": "2026-10-01-dailymirrorlk-2f300300",
+    "num": "dailymirrorlk-2f300300",
     "date_str": "2026-10-01",
-    "description": "Plans to develop Anuradhapura city with Indian funds of Rs. 7.7 Billion",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plans-to-develop-Anuradhapura-city-with-Indian-funds-of-Rs-7-7-Billion/108-351540",
+    "description": "LRH celebrates World Children\u2019s Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/LRH-celebrates-World-Childrens-Day/110-351551",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790839566.0
+    "time_ut": 1790848257.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-01 | `dailymirrorlk-2f300300` | LRH celebrates World Children’s Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-2f300300)
+- 2026-10-01 | `dailymirrorlk-611e9c8f` | US death row inmate survives execution attempt after two lethal injections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-611e9c8f)
+- 2026-10-01 | `dailymirrorlk-b1e604d4` | India will always support Sri Lanka’s progress, prosperity: Jaishankar tells Tilvin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b1e604d4)
+- 2026-10-01 | `dailymirrorlk-664d8a76` | Bambalapitiya restaurant fined Rs. 1 million for overcharging on bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-664d8a76)
+- 2026-10-01 | `dailymirrorlk-656755d1` | Walkie-talkies banned in Kumana National Park from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-656755d1)
+- 2026-10-01 | `dailymirrorlk-7290f0a6` | Sri Lanka’s 45 all out sends India into gold medal match | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-7290f0a6)
+- 2026-10-01 | `dailymirrorlk-1b1f6401` | Jaffna recycling hub launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-1b1f6401)
+- 2026-10-01 | `dailymirrorlk-584d4606` | Sri Lanka Air Force promotes world record holder Dulith Dassanayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-584d4606)
+- 2026-10-01 | `dailymirrorlk-5de1515c` | TV cameraman arrested over alleged assault on Ranil’s security officer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-5de1515c)
 - 2026-10-01 | `dailymirrorlk-9d86dd65` | Plans to develop Anuradhapura city with Indian funds of Rs. 7.7 Billion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-9d86dd65)
 - 2026-10-01 | `dailymirrorlk-7355d976` | Price regulation of 13 costly medicines saves Govt. Rs. 5.7 bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-7355d976)
 - 2026-10-01 | `dailymirrorlk-d02fd6e8` | Africa’s industrial future takes shape in Kenya with US$16 Billion oil refinery investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-d02fd6e8)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-10-01 | `dailymirrorlk-c5c100a7` | Open warrant issued for Gnanasara Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-c5c100a7)
 - 2026-10-01 | `dailymirrorlk-b26d8241` | Court of Appeal prevents police from arresting Tiran Alles and others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b26d8241)
 - 2026-10-01 | `dailymirrorlk-33006f96` | CPC makes profit on petrol but loses on diesel and kerosene | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-33006f96)
-- 2026-10-01 | `dailymirrorlk-01a4e237` | SLFUW Celebrates  85th Anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-01a4e237)
-- 2026-10-01 | `dailymirrorlk-36c88a2d` | Children’s rights: My day, my rights, my future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-36c88a2d)
-- 2026-10-01 | `dailymirrorlk-864bef08` | Rumesh Tharanga returns with gold—and a message | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-864bef08)
-- 2026-10-01 | `dailymirrorlk-594587a0` | Will any leader undo the 22A in future? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-594587a0)
-- 2026-10-01 | `dailymirrorlk-b662c8f7` | Please Maintain Our Street Lights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b662c8f7)
-- 2026-10-01 | `dailymirrorlk-d90d3d33` | Quest for accountability should no longer lead to dead-ends | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-d90d3d33)
-- 2026-10-01 | `dailymirrorlk-7a904d19` | Inflation relief months away: CBSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-7a904d19)
-- 2026-10-01 | `dailymirrorlk-a1736cb2` | September arrivals edge back into growth as Japan, Australia gain ground | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-a1736cb2)
-- 2026-10-01 | `dailymirrorlk-e8430cff` | U.S. issues damning report on investment climate in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-e8430cff)
 
 ---
 
