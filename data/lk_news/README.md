@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_20:00:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_22:01:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,963** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailymirrorlk-20129ee6",
-    "num": "dailymirrorlk-20129ee6",
+    "doc_id": "2026-10-01-dailymirrorlk-c29ff45a",
+    "num": "dailymirrorlk-c29ff45a",
     "date_str": "2026-10-01",
-    "description": "Free Caregiver NVQ Level 03 course begins with 30 trainees",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Free-Caregiver-NVQ-Level-03-course-begins-with-30-trainees/108-351562",
+    "description": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+    "url_metadata": "https://www.dailymirror.lk/international/SpaceX-launches-13th-long-duration-astronaut-crew-to-International-Space-Station/107-351566",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790860342.0
+    "time_ut": 1790870064.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-01 | `dailymirrorlk-c29ff45a` | SpaceX launches 13th long-duration astronaut crew to International Space Station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-c29ff45a)
+- 2026-10-01 | `dailymirrorlk-a7f6bb1b` | Brother of underworld figure ‘Loku Patty’ shot dead in Ahungalla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-a7f6bb1b)
+- 2026-10-01 | `dailymirrorlk-e3bfb4d7` | 17,506 drug-related Government Analyst reports issued in two months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-e3bfb4d7)
+- 2026-10-01 | `dailymirrorlk-5e67912a` | Kavinda calls for stronger, more transparent political parties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-5e67912a)
 - 2026-10-01 | `dailymirrorlk-20129ee6` | Free Caregiver NVQ Level 03 course begins with 30 trainees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-20129ee6)
 - 2026-10-01 | `dailymirrorlk-7f226550` | CSE rebounds as buying interest improves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-7f226550)
 - 2026-10-01 | `dailymirrorlk-09e2c10b` | 100% government funding for vaccines from next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-09e2c10b)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-01 | `dailymirrorlk-b1e604d4` | India will always support Sri Lanka’s progress, prosperity: Jaishankar tells Tilvin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b1e604d4)
 - 2026-10-01 | `dailymirrorlk-9334aa30` | Court of Appeal dismisses Gotabaya Rajapaksa’s writ petition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-9334aa30)
 - 2026-10-01 | `dailymirrorlk-664d8a76` | Bambalapitiya restaurant fined Rs. 1 million for overcharging on bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-664d8a76)
-- 2026-10-01 | `dailymirrorlk-656755d1` | Walkie-talkies banned in Kumana National Park from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-656755d1)
-- 2026-10-01 | `dailymirrorlk-7290f0a6` | Sri Lanka’s 45 all out sends India into gold medal match | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-7290f0a6)
-- 2026-10-01 | `dailymirrorlk-1b1f6401` | Jaffna recycling hub launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-1b1f6401)
-- 2026-10-01 | `dailymirrorlk-584d4606` | Sri Lanka Air Force promotes world record holder Dulith Dassanayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-584d4606)
 
 ---
 
