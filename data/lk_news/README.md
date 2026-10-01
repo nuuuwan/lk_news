@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_03:58:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_06:29:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,859** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-09-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,861** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-09-30-dailymirrorlk-4529ad73",
-    "num": "dailymirrorlk-4529ad73",
-    "date_str": "2026-09-30",
-    "description": "Fuel prices revised with effect from midnight",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-with-effect-from-midnight/108-351479",
+    "doc_id": "2026-10-01-dailyftlk-eef4fc28",
+    "num": "dailyftlk-eef4fc28",
+    "date_str": "2026-10-01",
+    "description": "The expert shortage we are building",
+    "url_metadata": "https://www.ft.lk/columns/The-expert-shortage-we-are-building/4-798011",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790789098.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790813227.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-01 | `dailyftlk-eef4fc28` | The expert shortage we are building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-eef4fc28)
+- 2026-10-01 | `dailyftlk-41cae6e8` | Rowing without a compass: Why Sri Lanka’s industries need a shared bearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-41cae6e8)
 - 2026-09-30 | `dailymirrorlk-4529ad73` | Fuel prices revised with effect from midnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-4529ad73)
 - 2026-09-30 | `dailymirrorlk-6b2850a1` | Passengers overcame pilot who tried to crash flydubai flight, Israel says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-6b2850a1)
 - 2026-09-30 | `dailymirrorlk-60b2761a` | Ticket ballot to go live for Men’s Cricket World Cup 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-60b2761a)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-09-30 | `adalk-36280869` | අරවින්දගේ හා බිරිඳගේ ඇප මුදල් රාජසන්තක කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-36280869)
 - 2026-09-30 | `adalk-1c19995c` | ඇප ලැබුණත් රිමාන්ඩ් වුණ නාමල් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-1c19995c)
 - 2026-09-30 | `adalk-33de9c18` | රනිල්ට එරෙහි නඩුව නොවැම්බර් 11 දා දක්වා කල් දැමෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-33de9c18)
-- 2026-09-30 | `adalk-f3e6ada3` | අයවැය කථාව නොවැම්බර් 12 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-adalk-f3e6ada3)
-- 2026-09-30 | `dailymirrorlk-a580a766` | Heavy rains expected tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-a580a766)
 
 ---
 
