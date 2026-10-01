@@ -2,7 +2,7 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 02:00:31",
+  "time_updated": "2026-10-02 03:55:35",
   "n_docs": 131964,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 131964,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-01",
-  "dataset_size": 2047541742,
+  "dataset_size": 2047542705,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
