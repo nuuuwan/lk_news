@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_22:01:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_00:04:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,963** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,964** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailymirrorlk-c29ff45a",
-    "num": "dailymirrorlk-c29ff45a",
+    "doc_id": "2026-10-01-dailymirrorlk-22df10e6",
+    "num": "dailymirrorlk-22df10e6",
     "date_str": "2026-10-01",
-    "description": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
-    "url_metadata": "https://www.dailymirror.lk/international/SpaceX-launches-13th-long-duration-astronaut-crew-to-International-Space-Station/107-351566",
+    "description": "Fixture schedule announced for ICC Men\u2019s Cricket World Cup 2027: Sri Lanka in Group B",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fixture-schedule-announced-for-ICC-Mens-Cricket-World-Cup-2027-Sri-Lanka-in-Group-B/108-351567",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790870064.0
+    "time_ut": 1790874863.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-01 | `dailymirrorlk-22df10e6` | Fixture schedule announced for ICC Men’s Cricket World Cup 2027: Sri Lanka in Group B | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-22df10e6)
 - 2026-10-01 | `dailymirrorlk-c29ff45a` | SpaceX launches 13th long-duration astronaut crew to International Space Station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-c29ff45a)
 - 2026-10-01 | `dailymirrorlk-a7f6bb1b` | Brother of underworld figure ‘Loku Patty’ shot dead in Ahungalla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-a7f6bb1b)
 - 2026-10-01 | `dailymirrorlk-e3bfb4d7` | 17,506 drug-related Government Analyst reports issued in two months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-e3bfb4d7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-01 | `dailymirrorlk-611e9c8f` | US death row inmate survives execution attempt after two lethal injections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-611e9c8f)
 - 2026-10-01 | `dailymirrorlk-b1e604d4` | India will always support Sri Lanka’s progress, prosperity: Jaishankar tells Tilvin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b1e604d4)
 - 2026-10-01 | `dailymirrorlk-9334aa30` | Court of Appeal dismisses Gotabaya Rajapaksa’s writ petition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-9334aa30)
-- 2026-10-01 | `dailymirrorlk-664d8a76` | Bambalapitiya restaurant fined Rs. 1 million for overcharging on bottled water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-664d8a76)
 
 ---
 
