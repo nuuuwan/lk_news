@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_08:12:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--01_10:00:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,887** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailyftlk-9ab9f9f0",
-    "num": "dailyftlk-9ab9f9f0",
+    "doc_id": "2026-10-01-dailymirrorlk-eea421d2",
+    "num": "dailymirrorlk-eea421d2",
     "date_str": "2026-10-01",
-    "description": "President confers \u201cVishishta Seva Vibhushana\u201d on 57 senior tri-forces officers",
-    "url_metadata": "https://www.ft.lk/news/President-confers-Vishishta-Seva-Vibhushana-on-57-senior-tri-forces-officers/56-798024",
+    "description": "Johnston: Government targeting opponents through legal action",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Johnston-Government-targeting-opponents-through-legal-action/108-351485",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1790818038.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790828395.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-01 | `dailymirrorlk-eea421d2` | Johnston: Government targeting opponents through legal action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-eea421d2)
+- 2026-10-01 | `dailymirrorlk-ea96c77c` | 801 reusable plastic bottles seized in Pettah raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-ea96c77c)
+- 2026-10-01 | `dailymirrorlk-2be1eefa` | Child protection system to be strengthened through new laws, policies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-2be1eefa)
+- 2026-10-01 | `dailymirrorlk-f4329a17` | Japan raises residency fee for foreign nationals by twenty-fold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-f4329a17)
+- 2026-10-01 | `dailymirrorlk-ae86480a` | IGP orders criminal probe into Colombo Port drug seizure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-ae86480a)
+- 2026-10-01 | `dailymirrorlk-a5661717` | Netanyahu and Modi hail Indian flydubai pilot as hero | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-a5661717)
+- 2026-10-01 | `dailyftlk-f5f5dc52` | FAAMA appoints new Executive Committee for 2026/27, targeting  $ 1 b local value-addition opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-f5f5dc52)
+- 2026-10-01 | `dailyftlk-a65cc526` | World Bank approves $ 110 m for 600km of climate-resistant roads in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-a65cc526)
+- 2026-10-01 | `dailyftlk-9426232c` | Laugfs Holdings appoints Dhanusha Muthukumarana as Group MD/CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-9426232c)
+- 2026-10-01 | `dailyftlk-131dc89c` | Akram Cassim re-elected SLGJA President for third term | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-131dc89c)
+- 2026-10-01 | `dailyftlk-0c33b487` | Reliance Consumer Products CEO keynotes SLEIS 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-0c33b487)
 - 2026-10-01 | `dailyftlk-9ab9f9f0` | President confers “Vishishta Seva Vibhushana” on 57 senior tri-forces officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-9ab9f9f0)
 - 2026-10-01 | `dailyftlk-fc47d6ff` | Ranil’s misuse of public funds case put off to 11 Nov. pending AG’s advice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-fc47d6ff)
 - 2026-10-01 | `dailyftlk-dcb68a94` | Hambantota women stage awareness protest in Colombo for Tobacco-Free Generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-dcb68a94)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-10-01 | `dailyftlk-3860d252` | Resus Energy bids for  16 MW of battery storage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-3860d252)
 - 2026-10-01 | `dailyftlk-09356658` | Storex Renewables partners world’s no. 1 Sigenergy to answer Sri Lanka’s solar policy shift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-09356658)
 - 2026-10-01 | `dailyftlk-7cffa260` | Glen Nevis Plantation’s Aratenna Special Silver Tips shine at 2026 North American Tea Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-7cffa260)
-- 2026-10-01 | `dailyftlk-c8c81f0e` | 81.25% of workers reported heat stress: Sri Lanka is still treating heat as weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-c8c81f0e)
-- 2026-10-01 | `dailyftlk-8e64cb21` | From relief to recovery: Rebuilding lives after Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-8e64cb21)
-- 2026-10-01 | `dailyftlk-a2100b6a` | Opposition’s strategic dilemmas, Easter massacre matrix | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-a2100b6a)
-- 2026-10-01 | `dailyftlk-eef4fc28` | The expert shortage we are building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-eef4fc28)
-- 2026-10-01 | `dailyftlk-41cae6e8` | Rowing without a compass: Why Sri Lanka’s industries need a shared bearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailyftlk-41cae6e8)
-- 2026-09-30 | `dailymirrorlk-4529ad73` | Fuel prices revised with effect from midnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-4529ad73)
-- 2026-09-30 | `dailymirrorlk-6b2850a1` | Passengers overcame pilot who tried to crash flydubai flight, Israel says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-6b2850a1)
-- 2026-09-30 | `dailymirrorlk-60b2761a` | Ticket ballot to go live for Men’s Cricket World Cup 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-60b2761a)
-- 2026-09-30 | `dailymirrorlk-513384f0` | SLC targets transparency, professional management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-513384f0)
-- 2026-09-30 | `dailymirrorlk-1609ee1f` | Government working on several relief packages: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-1609ee1f)
-- 2026-09-30 | `dailymirrorlk-52a8cb69` | 57 officers of tri-forces receive ’’Vishishta Seva Vibhushana’’ medals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-09-30-dailymirrorlk-52a8cb69)
 
 ---
 
