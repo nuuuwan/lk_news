@@ -64938,6 +64938,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-09-30-adalk-4016decb",
+    "num": "adalk-4016decb",
+    "date_str": "2026-09-30",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0d9a\u0dd6\u0da9\u0dbd\u0dd4 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0d9a\u0dd6\u0da9\u0dbd\u0dd4-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dba\u0d9a\u0dca/11-424442",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790766446.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-09-30-dailymirrorlk-cd03183b",
     "num": "dailymirrorlk-cd03183b",
     "date_str": "2026-09-30",
@@ -65089,5 +65100,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1790813227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-a2100b6a",
+    "num": "dailyftlk-a2100b6a",
+    "date_str": "2026-10-01",
+    "description": "Opposition\u2019s strategic dilemmas, Easter massacre matrix",
+    "url_metadata": "https://www.ft.lk/columns/Opposition-s-strategic-dilemmas-Easter-massacre-matrix/4-798013",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790816983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-8e64cb21",
+    "num": "dailyftlk-8e64cb21",
+    "date_str": "2026-10-01",
+    "description": "From relief to recovery: Rebuilding lives after Ditwah",
+    "url_metadata": "https://www.ft.lk/opinion/From-relief-to-recovery-Rebuilding-lives-after-Ditwah/14-798014",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817146.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-c8c81f0e",
+    "num": "dailyftlk-c8c81f0e",
+    "date_str": "2026-10-01",
+    "description": "81.25% of workers reported heat stress: Sri Lanka is still treating heat as weather",
+    "url_metadata": "https://www.ft.lk/opinion/81-25-of-workers-reported-heat-stress-Sri-Lanka-is-still-treating-heat-as-weather/14-798015",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-7cffa260",
+    "num": "dailyftlk-7cffa260",
+    "date_str": "2026-10-01",
+    "description": "Glen Nevis Plantation\u2019s Aratenna Special Silver Tips shine at 2026 North American Tea Conference",
+    "url_metadata": "https://www.ft.lk/business/Glen-Nevis-Plantation-s-Aratenna-Special-Silver-Tips-shine-at-2026-North-American-Tea-Conference/34-798016",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-09356658",
+    "num": "dailyftlk-09356658",
+    "date_str": "2026-10-01",
+    "description": "Storex Renewables partners world\u2019s no. 1 Sigenergy to answer Sri Lanka\u2019s solar policy shift",
+    "url_metadata": "https://www.ft.lk/business/Storex-Renewables-partners-world-s-no-1-Sigenergy-to-answer-Sri-Lanka-s-solar-policy-shift/34-798017",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-3860d252",
+    "num": "dailyftlk-3860d252",
+    "date_str": "2026-10-01",
+    "description": "Resus Energy bids for  16 MW of battery storage",
+    "url_metadata": "https://www.ft.lk/business/Resus-Energy-bids-for-16-MW-of-battery-storage/34-798018",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-23020d3b",
+    "num": "dailyftlk-23020d3b",
+    "date_str": "2026-10-01",
+    "description": "Budget 2027 to be presented on 12 Nov.; final vote on 14 Dec.",
+    "url_metadata": "https://www.ft.lk/business/Budget-2027-to-be-presented-on-12-Nov-final-vote-on-14-Dec/34-798019",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817686.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-9d6a2983",
+    "num": "dailyftlk-9d6a2983",
+    "date_str": "2026-10-01",
+    "description": "Keells marks 35 years of keeping life fresh for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Keells-marks-35-years-of-keeping-life-fresh-for-Sri-Lanka/34-798020",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-741c9226",
+    "num": "dailyftlk-741c9226",
+    "date_str": "2026-10-01",
+    "description": "Port City Colombo builds investment momentum across UAE, Oman, and Qatar",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-builds-investment-momentum-across-UAE-Oman-and-Qatar/34-798021",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-dcb68a94",
+    "num": "dailyftlk-dcb68a94",
+    "date_str": "2026-10-01",
+    "description": "Hambantota women stage awareness protest in Colombo for Tobacco-Free Generation",
+    "url_metadata": "https://www.ft.lk/news/Hambantota-women-stage-awareness-protest-in-Colombo-for-Tobacco-Free-Generation/56-798022",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-fc47d6ff",
+    "num": "dailyftlk-fc47d6ff",
+    "date_str": "2026-10-01",
+    "description": "Ranil\u2019s misuse of public funds case put off to 11 Nov. pending AG\u2019s advice",
+    "url_metadata": "https://www.ft.lk/news/Ranil-s-misuse-of-public-funds-case-put-off-to-11-Nov-pending-AG-s-advice/56-798023",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790817984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailyftlk-9ab9f9f0",
+    "num": "dailyftlk-9ab9f9f0",
+    "date_str": "2026-10-01",
+    "description": "President confers \u201cVishishta Seva Vibhushana\u201d on 57 senior tri-forces officers",
+    "url_metadata": "https://www.ft.lk/news/President-confers-Vishishta-Seva-Vibhushana-on-57-senior-tri-forces-officers/56-798024",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790818038.0
   }
 ]
