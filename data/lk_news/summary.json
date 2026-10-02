@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 18:02:23",
-  "n_docs": 132054,
+  "time_updated": "2026-10-02 19:59:11",
+  "n_docs": 132062,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132054,
+  "n_docs_with_text": 132062,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2048650873,
+  "dataset_size": 2048732625,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-5b4754d4",
-    "num": "dailymirrorlk-5b4754d4",
+    "doc_id": "2026-10-02-dailymirrorlk-b7b93cd7",
+    "num": "dailymirrorlk-b7b93cd7",
     "date_str": "2026-10-02",
-    "description": "Peradeniya \u2019Black Bridge\u2019 construction expedited",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Peradeniya-Black-Bridge-construction-expedited/108-351646",
+    "description": "Europe weighs new diesel stocks release after US pressure",
+    "url_metadata": "https://www.dailymirror.lk/international/Europe-weighs-new-diesel-stocks-release-after-US-pressure/107-351652",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790943165.0
+    "time_ut": 1790950420.0
   }
 }

@@ -67061,6 +67061,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-5bc36e68",
+    "num": "adalk-5bc36e68",
+    "date_str": "2026-10-02",
+    "description": "\u0db4\u0dc0\u0dd4\u0dbd\u0dca \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0db1\u0dca 1056\u0d9a\u0dca \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0dc3\u0dda\u0dc0\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc0\u0dd4\u0dbd\u0dca-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0db1\u0dca-1056\u0d9a\u0dca-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0dc3\u0dda\u0dc0\u0dba\u0da7/11-424477",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790932778.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailymirrorlk-070ccd26",
     "num": "dailymirrorlk-070ccd26",
     "date_str": "2026-10-02",
@@ -67113,6 +67124,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790933717.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-a1021f64",
+    "num": "adalk-a1021f64",
+    "date_str": "2026-10-02",
+    "description": "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dc0 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db7\u0dcf\u0d9c-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db1\u0dc0-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca/11-424478",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790934244.0
   },
   {
     "doc_type": "lk_news",
@@ -67212,5 +67234,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790943165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-d9fb0832",
+    "num": "dailymirrorlk-d9fb0832",
+    "date_str": "2026-10-02",
+    "description": "Kananathan congratulates Nigerian President on 66th Independence Day",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kananathan-congratulates-Nigerian-President-on-66th-Independence-Day/108-351647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790944262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-6f3c9044",
+    "num": "dailymirrorlk-6f3c9044",
+    "date_str": "2026-10-02",
+    "description": "CSE slips as turnover falls below LKR 1 bn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-slips-as-turnover-falls-below-LKR-1-bn/108-351648",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790944623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-4da521dc",
+    "num": "dailymirrorlk-4da521dc",
+    "date_str": "2026-10-02",
+    "description": "Lal Kantha critical of two private media channels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lal-Kantha-critical-of-two-private-media-channels/108-351649",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790944992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-7e64d9f8",
+    "num": "dailymirrorlk-7e64d9f8",
+    "date_str": "2026-10-02",
+    "description": "Drug-related arrests include 11 children aged 8-14",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-related-arrests-include-11-children-aged-8-14/108-351650",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790949289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-4294c09e",
+    "num": "dailymirrorlk-4294c09e",
+    "date_str": "2026-10-02",
+    "description": "Tanker owners continue fuel deliveries after CPC agreement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tanker-owners-continue-fuel-deliveries-after-CPC-agreement/108-351651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790949895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-b7b93cd7",
+    "num": "dailymirrorlk-b7b93cd7",
+    "date_str": "2026-10-02",
+    "description": "Europe weighs new diesel stocks release after US pressure",
+    "url_metadata": "https://www.dailymirror.lk/international/Europe-weighs-new-diesel-stocks-release-after-US-pressure/107-351652",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790950420.0
   }
 ]
