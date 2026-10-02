@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 15:56:44",
-  "n_docs": 132044,
+  "time_updated": "2026-10-02 18:02:23",
+  "n_docs": 132054,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132044,
+  "n_docs_with_text": 132054,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2048538773,
+  "dataset_size": 2048650873,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-ed1aad6d",
-    "num": "dailymirrorlk-ed1aad6d",
+    "doc_id": "2026-10-02-dailymirrorlk-5b4754d4",
+    "num": "dailymirrorlk-5b4754d4",
     "date_str": "2026-10-02",
-    "description": "About 400 French schools closed as some student protests turn violent",
-    "url_metadata": "https://www.dailymirror.lk/international/About-400-French-schools-closed-as-some-student-protests-turn-violent/107-351634",
+    "description": "Peradeniya \u2019Black Bridge\u2019 construction expedited",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Peradeniya-Black-Bridge-construction-expedited/108-351646",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790935499.0
+    "time_ut": 1790943165.0
   }
 }

@@ -67039,6 +67039,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-ea4cd577",
+    "num": "adalk-ea4cd577",
+    "date_str": "2026-10-02",
+    "description": "\u0db6\u0ddd\u0d9c\u0db8\u0dca\u0db6\u0dbb\u0da7 \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd2\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0d9c\u0db8\u0dca\u0db6\u0dbb\u0da7-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0db1\u0dca-\u0dba\u0ddc\u0db8\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-424475",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790931314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-26437b2c",
+    "num": "adalk-26437b2c",
+    "date_str": "2026-10-02",
+    "description": "\u0daf\u0dd6\u0dc2\u0dab \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0da7 \u0d86\u0d82\u0dc1\u0dd2\u0d9a \u0d85\u0db0\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0d85\u0db1\u0dd4\u0db8\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd6\u0dc2\u0dab-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3-\u0db4\u0db1\u0dad\u0dca-\u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0da7-\u0d86\u0d82\u0dc1\u0dd2\u0d9a-\u0d85\u0db0\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0\u0dda-\u0d85\u0db1\u0dd4\u0db8\u0dad\u0dd2\u0dba/11-424476",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790932035.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailymirrorlk-070ccd26",
     "num": "dailymirrorlk-070ccd26",
     "date_str": "2026-10-02",
@@ -67102,5 +67124,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790935499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-fac90206",
+    "num": "dailymirrorlk-fac90206",
+    "date_str": "2026-10-02",
+    "description": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-pilot-tells-PM-Modi-he-opened-flydubai-cockpit-door-during-attack/107-351636",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790936316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-a254c771",
+    "num": "dailymirrorlk-a254c771",
+    "date_str": "2026-10-02",
+    "description": "IRD revenue tops Rs. 2,040 bn in nine months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IRD-revenue-tops-Rs-2-040-bn-in-nine-months/108-351640",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790938105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-3e53e0f1",
+    "num": "dailymirrorlk-3e53e0f1",
+    "date_str": "2026-10-02",
+    "description": "Court summons 10 doctors who examined Suresh Salley",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-summons-10-doctors-who-examined-Suresh-Salley/108-351641",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790938265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-11d63436",
+    "num": "dailymirrorlk-11d63436",
+    "date_str": "2026-10-02",
+    "description": "Sri Lanka renews appointment of Honorary Consul in Mombasa, Kenya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-renews-appointment-of-Honorary-Consul-in-Mombasa-Kenya/108-351642",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790938365.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-d8dbcc56",
+    "num": "dailymirrorlk-d8dbcc56",
+    "date_str": "2026-10-02",
+    "description": "The Billionaire Distortion Field",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Billionaire-Distortion-Field/231-351643",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790938567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-3aa4371a",
+    "num": "dailymirrorlk-3aa4371a",
+    "date_str": "2026-10-02",
+    "description": "Warm weather advisory issued for four provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warm-weather-advisory-issued-for-four-provinces/108-351644",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790940902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-d24afb0f",
+    "num": "dailymirrorlk-d24afb0f",
+    "date_str": "2026-10-02",
+    "description": "Govt urges public to cut fuel use amid energy transition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-urges-public-to-cut-fuel-use-amid-energy-transition/108-351645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790942616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-5b4754d4",
+    "num": "dailymirrorlk-5b4754d4",
+    "date_str": "2026-10-02",
+    "description": "Peradeniya \u2019Black Bridge\u2019 construction expedited",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Peradeniya-Black-Bridge-construction-expedited/108-351646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790943165.0
   }
 ]
