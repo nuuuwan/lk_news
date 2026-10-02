@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_19:59:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_21:56:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,062** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,063** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2026-10-02 | `dailymirrorlk-a254c771` | IRD revenue tops Rs. 2,040 bn in nine months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-a254c771)
 - 2026-10-02 | `dailymirrorlk-fac90206` | Indian pilot tells PM Modi he opened flydubai cockpit door during attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-fac90206)
 - 2026-10-02 | `dailymirrorlk-ed1aad6d` | About 400 French schools closed as some student protests turn violent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-ed1aad6d)
+- 2026-10-02 | `adalk-60f01e5a` | 2026 මුල් මාස 8 ඉන්ධන ආනයනයට ඩො.බි.  4ක් වැයවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-adalk-60f01e5a)
 - 2026-10-02 | `adalk-a1021f64` | විභාග ප්‍රතිඵල නිකුත් කිරීම කඩිනම් කිරීමට නව පද්ධතියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-adalk-a1021f64)
 - 2026-10-02 | `dailymirrorlk-0192eecd` | Exams Dept. key to future-ready education: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-0192eecd)
 - 2026-10-02 | `dailymirrorlk-46daed41` | IndiGo resumes key India-Sri Lanka flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-46daed41)
 - 2026-10-02 | `dailymirrorlk-e511cb7a` | Mahanayake Theros seek State intervention to secure release of Anojan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-e511cb7a)
-- 2026-10-02 | `dailymirrorlk-04bfdd02` | Over 187 acres of land released in Jaffna for civilian use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-04bfdd02)
 
 ---
 
