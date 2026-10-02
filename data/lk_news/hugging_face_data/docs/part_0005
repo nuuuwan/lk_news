@@ -66247,6 +66247,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-3cbc1186",
+    "num": "adalk-3cbc1186",
+    "date_str": "2026-10-02",
+    "description": "\u0dbd\u0ddc\u0d9a \u0db4\u0dd0\u0da7\u0dd3\u0d9c\u0dda \u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0db6\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0ddc\u0d9a-\u0db4\u0dd0\u0da7\u0dd3\u0d9c\u0dda-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0db6\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-424463",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790885921.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-adalk-1024f93a",
     "num": "adalk-1024f93a",
     "date_str": "2026-10-02",
@@ -66255,6 +66266,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1790886904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-3e328be2",
+    "num": "adalk-3e328be2",
+    "date_str": "2026-10-02",
+    "description": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a\u0da7 \u0dbb\u0dc3 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf 17506\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dc5\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba-\u0db8\u0dcf\u0dc3-\u0daf\u0dd9\u0d9a\u0da7-\u0dbb\u0dc3-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-17506\u0d9a\u0dca-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dc5\u0dcf/11-424466",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790887060.0
   },
   {
     "doc_type": "lk_news",
@@ -66475,5 +66497,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1790908398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-18b9189d",
+    "num": "dailymirrorlk-18b9189d",
+    "date_str": "2026-10-02",
+    "description": "Colombo-Gampola train services resume after 10 months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Gampola-train-services-resume-after-10-months/108-351568",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790908938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-fee67637",
+    "num": "dailymirrorlk-fee67637",
+    "date_str": "2026-10-02",
+    "description": "20 Iranian oil tankers stranded off Sri Lanka as supplies run short",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/20-Iranian-oil-tankers-stranded-off-Sri-Lanka-as-supplies-run-short/108-351570",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790912084.0
   }
 ]

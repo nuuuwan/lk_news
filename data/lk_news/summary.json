@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 08:07:16",
-  "n_docs": 131987,
+  "time_updated": "2026-10-02 10:02:12",
+  "n_docs": 131991,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131987,
+  "n_docs_with_text": 131991,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2047804002,
+  "dataset_size": 2047998610,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailyftlk-daffa499",
-    "num": "dailyftlk-daffa499",
+    "doc_id": "2026-10-02-dailymirrorlk-fee67637",
+    "num": "dailymirrorlk-fee67637",
     "date_str": "2026-10-02",
-    "description": "Customs goes paperless, makes digital signatures mandatory",
-    "url_metadata": "https://www.ft.lk/business/Customs-goes-paperless-makes-digital-signatures-mandatory/34-798104",
+    "description": "20 Iranian oil tankers stranded off Sri Lanka as supplies run short",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/20-Iranian-oil-tankers-stranded-off-Sri-Lanka-as-supplies-run-short/108-351570",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1790908398.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790912084.0
   }
 }

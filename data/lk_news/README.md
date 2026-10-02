@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_08:08:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_10:03:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,987** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,991** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailyftlk-daffa499",
-    "num": "dailyftlk-daffa499",
+    "doc_id": "2026-10-02-dailymirrorlk-fee67637",
+    "num": "dailymirrorlk-fee67637",
     "date_str": "2026-10-02",
-    "description": "Customs goes paperless, makes digital signatures mandatory",
-    "url_metadata": "https://www.ft.lk/business/Customs-goes-paperless-makes-digital-signatures-mandatory/34-798104",
+    "description": "20 Iranian oil tankers stranded off Sri Lanka as supplies run short",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/20-Iranian-oil-tankers-stranded-off-Sri-Lanka-as-supplies-run-short/108-351570",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1790908398.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790912084.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-02 | `dailymirrorlk-fee67637` | 20 Iranian oil tankers stranded off Sri Lanka as supplies run short | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-fee67637)
+- 2026-10-02 | `dailymirrorlk-18b9189d` | Colombo-Gampola train services resume after 10 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailymirrorlk-18b9189d)
 - 2026-10-02 | `dailyftlk-daffa499` | Customs goes paperless, makes digital signatures mandatory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-daffa499)
 - 2026-10-02 | `dailyftlk-3c93ebea` | Customs finds metal scrap in export container declared as rice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-3c93ebea)
 - 2026-10-02 | `dailyftlk-8edbf862` | $ 1 m guarantee cap holds back Sri Lankan builders in Africa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-8edbf862)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-02 | `dailyftlk-6830e39a` | WCIC sharpens focus on scaling women-owned businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-6830e39a)
 - 2026-10-02 | `dailyftlk-2b2a4fc4` | Regulatory reforms to  boost Sri Lanka’s gem and  jewellery industry: NGJA Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-2b2a4fc4)
 - 2026-10-02 | `dailyftlk-6c3f8514` | Sri Lanka and Palestine reaffirm commitment to deepen economic cooperation and trade ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-6c3f8514)
-- 2026-10-02 | `dailyftlk-2abebed2` | IGP says CA Sri Lanka’s newly launched Faculty  of Forensic Accounting  a timely national initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-2abebed2)
-- 2026-10-02 | `dailyftlk-1b0b8dcc` | Tilvin meets Jaishankar as  BJP-hosted visit to India concludes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-1b0b8dcc)
 
 ---
 
