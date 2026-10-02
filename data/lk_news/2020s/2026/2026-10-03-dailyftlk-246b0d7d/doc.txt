@@ -1,0 +1,15 @@
+Blicq transforms Colombo  International Book Fair experience
+
+Every September, hundreds of thousands of readers navigate the crowded corridors of the BMICH for the Colombo International Book Fair. For most, the routine is familiar: handwritten notes, tired feet, and the repetitive ritual of asking stall after stall whether a particular title is in stock.
+
+This year, a digital alternative has quietly gained traction among fairgoers. Rather than navigating the halls by trial and error, thousands of attendees have turned to Blicq, an independent mobile directory and navigation tool designed specifically to cut through the venue’s congestion.
+
+The core utility of the platform is inventory mapping. Ahead of the fair, a team of 12 Sri Lankan software engineers at Blicq Ltd., —a startup founded by tech entrepreneur Sathya Merengnage—indexed over 19,000 individual book titles across over 400 publishers and exhibitor stalls.
+
+“The physical layout of the book fair changes every year, and the sheer volume of books makes traditional browsing exhausting for visitors,” said Merengnage. “Our objective was simple: build a searchable index that bridges what readers are looking for with the exact physical shelf where it sits, cutting down hours of aimless searching.”
+
+By querying an author or title, users can verify whether a book is available on the grounds and identify the precise stall displaying it. An interactive wishlist tool then plots an optimised walking route between stalls, reducing unnecessary backtracking through packed exhibition halls.
+
+Within the fair’s opening days, more than 5,000 visitors utilised the system, with the development team projecting adoption could reach up to 150,000 users before the exhibition closes. To avoid download bottlenecks on congested venue networks, the platform functions both as the downloadable Blicq App and as a lightweight web interface hosted at the blicq.events domain, allowing fairgoers to search and navigate directly from standard mobile browsers.
+
+At an event defined by sheer physical scale, the platform offers a practical case study in how targeted, locally developed software can modernise traditional public gatherings without disrupting the cultural charm of the book hunt.

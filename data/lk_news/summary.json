@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-03 00:03:24",
-  "n_docs": 132064,
+  "time_updated": "2026-10-03 01:55:37",
+  "n_docs": 132085,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132064,
+  "n_docs_with_text": 132085,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-02",
-  "dataset_size": 2048799540,
+  "date_str_max": "2026-10-03",
+  "dataset_size": 2048922168,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-a63942ff",
-    "num": "dailymirrorlk-a63942ff",
-    "date_str": "2026-10-02",
-    "description": "Public can now \u2018Ask Handun\u2019 via WhatsApp voice messages",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-can-now-Ask-Handun-via-WhatsApp-voice-messages/108-351663",
+    "doc_id": "2026-10-03-dailyftlk-6f307b8f",
+    "num": "dailyftlk-6f307b8f",
+    "date_str": "2026-10-03",
+    "description": "Court summons 10 doctors on Suresh Salley\u2019s medical panel",
+    "url_metadata": "https://www.ft.lk/news/Court-summons-10-doctors-on-Suresh-Salley-s-medical-panel/56-798148",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790958150.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790967738.0
   }
 }
