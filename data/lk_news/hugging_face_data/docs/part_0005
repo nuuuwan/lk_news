@@ -67311,5 +67311,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790950420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-a63942ff",
+    "num": "dailymirrorlk-a63942ff",
+    "date_str": "2026-10-02",
+    "description": "Public can now \u2018Ask Handun\u2019 via WhatsApp voice messages",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-can-now-Ask-Handun-via-WhatsApp-voice-messages/108-351663",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790958150.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 21:56:24",
-  "n_docs": 132063,
+  "time_updated": "2026-10-03 00:03:24",
+  "n_docs": 132064,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132063,
+  "n_docs_with_text": 132064,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2048790621,
+  "dataset_size": 2048799540,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-b7b93cd7",
-    "num": "dailymirrorlk-b7b93cd7",
+    "doc_id": "2026-10-02-dailymirrorlk-a63942ff",
+    "num": "dailymirrorlk-a63942ff",
     "date_str": "2026-10-02",
-    "description": "Europe weighs new diesel stocks release after US pressure",
-    "url_metadata": "https://www.dailymirror.lk/international/Europe-weighs-new-diesel-stocks-release-after-US-pressure/107-351652",
+    "description": "Public can now \u2018Ask Handun\u2019 via WhatsApp voice messages",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-can-now-Ask-Handun-via-WhatsApp-voice-messages/108-351663",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790950420.0
+    "time_ut": 1790958150.0
   }
 }
