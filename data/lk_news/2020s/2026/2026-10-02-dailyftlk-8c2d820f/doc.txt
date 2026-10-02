@@ -1,0 +1,79 @@
+TIN becomes gateway to key transactions: What changes from 1 November 2026?
+
+Mandatory submission of the TIN Certificate introduces a new compliance checkpoint across banking, property, vehicles and business registration
+
+This article is based principally on Inland Revenue Department Circular No. SEC/2026/E/07 dated 22 September 2026, issued under the Inland Revenue Act, No. 24 of 2017 as amended by the Inland Revenue (Amendment) Act, No. 11 of 2026. The Circular is addressed to banks and financial institutions, local authorities, the Department of Motor Traffic, Provincial Revenue Commissioners, Divisional Secretaries, the Registrar General’s Department, the Registrar General of Companies, credit-card issuing institutions and other relevant Government institutions
+
+Sri Lanka’s tax administration is entering a new phase in which the Taxpayer Identification Number (TIN) will increasingly become part of routine economic and administrative transactions. Under the latest Inland Revenue Department (IRD) procedure, individuals undertaking specified transactions will generally be required to produce their TIN Certificate or otherwise facilitate TIN verification through the relevant institution. The IRD, through Circular No. SEC/2026/E/07 dated 22 September 2026, has instructed banks, financial institutions, local authorities, the Department of Motor Traffic, Provincial Revenue Commissioners, Divisional Secretaries, the Registrar General’s Department, the Registrar General of Companies, credit-card issuing institutions and other relevant Government institutions to ensure compliance with the new requirement. The practical effect is significant: from 1 November 2026, the prescribed TIN verification procedure will be implemented for individuals undertaking the specified transactions, subject to the exemptions set out in the Circular. This is not simply another tax formality. It effectively places the TIN at the intersection of an individual’s banking, property, motor vehicle, business and financial activities.
+
+The requirement arises from the amendments introduced to Section 103 of the Inland Revenue Act, No. 24 of 2017, by the Inland Revenue (Amendment) Act, No. 11 of 2026. The amended Section 103 provides for the Commissioner-General of Inland Revenue to issue a TIN Certificate to a person assigned a TIN and establishes circumstances in which the certificate is required to be submitted for specified transactions.  The IRD’s latest Circular translates this legislative requirement into an operational procedure for the institutions and officials responsible for processing those transactions. The practical implication for individuals is therefore clear: individuals intending to undertake one of the specified transactions should regularise their TIN position before approaching the relevant institution.
+
+A valid TIN Certificate will be required when opening an account at a financial institution. Importantly, the Circular defines an “account” broadly. It includes: savings accounts; term deposits; current accounts; and other types of deposit accounts maintained with a financial institution. For a joint account, each joint account holder is considered separately for this purpose. Accordingly, individuals opening new savings accounts, current accounts, term deposits or other deposit accounts after implementation should ensure that their TIN documentation is available.
+
+Individuals applying for approval of a building plan will also come within the TIN submission requirement. The relevant responsibility has been placed on the Chairman, Director of Enforcement or Commissioner of the relevant Local Authority, as applicable. This means that TIN compliance will increasingly become part of the documentation required in local-authority approval processes.
+
+A TIN Certificate will be required when registering a motor vehicle. The Commissioner-General of Motor Traffic has been identified as the responsible authority for verification. Individuals planning to purchase and register vehicles should therefore ensure that their TIN documentation is available before commencing the registration process.
+
+The requirement does not stop at first registration. The Circular specifically includes renewal of the licence of a motor vehicle. The relevant verification responsibility rests with the Provincial Revenue Commissioner or Divisional Secretary. This is particularly important because vehicle licence renewal is a recurring transaction. Consequently, individuals should not regard TIN compliance as a one-off requirement associated only with vehicle registration.
+
+Land-related transactions are another major area affected. A TIN Certificate will be required for the registration of land or title to land, with the Registrar-General of the Registrar General’s Department identified as the responsible official. This places TIN compliance directly into the property-registration process. Individuals contemplating land purchases, transfers or registration of title should therefore consider TIN documentation as part of their transaction preparation.
+
+Individuals seeking to register a business will also have to comply with the TIN Certificate requirement. The relevant responsibility has been assigned to the Divisional Secretary. This is particularly relevant to entrepreneurs, sole proprietors and individuals establishing new businesses. It also demonstrates the broader direction of tax administration: the tax identification system is increasingly being connected with formal economic activity.
+
+One of the more significant provisions concerns the transfer of shares in a company incorporated in Sri Lanka. Here, both the transferor and the transferee are required to submit the TIN Certificate. This is an important distinction. The requirement is not limited to the person acquiring the shares. Both sides of the transaction must satisfy the TIN documentation requirement before the transfer can be completed. The Registrar-General of Companies has been identified as the relevant official.
+
+The final specified transaction is the obtaining of a credit card. The manager of the relevant bank or credit-card issuing entity is responsible for ensuring compliance. Accordingly, individuals applying for new credit-card facilities should expect TIN verification to form part of the process.
+
+An important feature of the new system is that the responsibility does not rest solely with the taxpayer. The Circular places an obligation on the relevant officials and institutions to:
+
+3.ensure that a transaction subject to the requirement is not completed without compliance, unless an exemption applies; and
+
+This effectively creates a tax-compliance checkpoint within other Government and financial services. The transaction-processing institution therefore becomes an additional point through which the tax identification system is administered.
+
+The Circular provides some flexibility in the manner of verification. The TIN Certificate is issued by the Commissioner-General of Inland Revenue following registration and assignment of a TIN. However, the Circular also recognises the practical use of the IRD’s electronic verification facility. An individual may verify the TIN through the IRD’s e-Services portal, and a printout of the verification showing the individual’s NIC number and TIN may be accepted as an alternative to the official TIN Certificate. Furthermore, the Circular states that soft copies of the relevant certificates may also be accepted by officials. This indicates that the procedure is not limited to submission of a physical paper certificate, as electronic verification and soft copies may also be accepted by the relevant officials. Accordingly, taxpayers may use electronic verification or soft-copy documentation where accepted by the relevant institution.”
+
+A particularly important aspect of the Circular is the list of exemptions. The requirement to submit a TIN Certificate does not apply to:
+
+an individual who has not attained the age of 18 as at the date of the relevant transaction;
+
+a non-resident individual for the purposes of the Inland Revenue Act;
+
+an individual whose application for registration has been refused by the Commissioner-General;
+
+an individual or organisation entitled to diplomatic privileges or similar immunities;
+
+an entity other than an individual, such as a company, partnership, Government institution, society, fund, trust, unit trust, NGO or other institute.
+
+This last category is especially important. The Circular therefore does not extend this particular TIN Certificate submission requirement to every company, partnership, trust or other non-individual entity.
+
+The treatment of non-resident individuals deserves particular attention. The Circular states that a non-citizen individual who has arrived in Sri Lanka and stayed in Sri Lanka for less than 183 days as at the date of the relevant transaction may be treated as a non-resident individual for the purpose of the exemption. Where another individual claims non-resident status, the Circular requires appropriate confirmation of residence status from the IRD. The Circular indicates that such confirmation may be requested from the IRD through the specified email channel. Accordingly, individuals relying on non-resident status should ensure that the required evidence or IRD confirmation is available where applicable.
+
+There is an important technical point that taxpayers and professional advisers should note. The Inland Revenue (Amendment) Act, No. 11 of 2026, in the newly inserted Section 103(6)(b), refers to the requirement taking effect from 1 April 2026. However, the IRD’s Circular dated 22 September 2026 states under its “Effective Date” that the procedure shall take effect from 1 November 2026, and instructs relevant institutions to make the necessary administrative, operational and system arrangements from that date. The statutory requirement and the subsequent administrative procedure should therefore be distinguished carefully, particularly when considering the practical date on which institutions are required to implement the verification process. Accordingly, while the statutory provision establishes the TIN Certificate requirement, the IRD Circular specifies 1 November 2026 as the date from which the prescribed verification procedure is to be implemented by the relevant institutions. Nevertheless, the reference to 1 April 2026 in the amended legislation raises an important legal and administrative question concerning the relationship between the statutory commencement provision and the later administrative implementation. Taxpayers, institutions and professional advisers should therefore retain the distinction between:
+
+the date communicated by the IRD for implementation of the procedure.
+
+This is precisely the type of issue that merits clarity in tax administration, particularly where compliance requirements can affect the completion of property, banking and commercial transactions.
+
+With the implementation date of 1 November 2026 approaching, individuals who regularly undertake banking, property, vehicle or business-related transactions should take several practical steps.
+
+Many individuals may already possess a TIN without having previously needed to produce the certificate for routine transactions.
+
+If a TIN has been assigned, the relevant certificate should be kept safely, preferably in both physical and electronic form.
+
+Individuals should ensure that the name, NIC details and TIN correspond correctly.
+
+Since the Circular permits soft copies and recognises electronic verification, maintaining a secure digital copy can reduce delays.
+
+A person intending to register a vehicle, register land, open a new bank account, obtain a credit card, register a business or transfer shares should check the TIN requirement before visiting the relevant institution.
+
+The significance of this development extends beyond the physical submission of a document. A TIN is fundamentally an identifier. Its integration into banking, property, vehicle, business and financial transactions provides the tax administration with a mechanism to link specified economic and administrative activities with identifiable taxpayers. The move is consistent with the broader direction of modern tax administration, where governments increasingly use information from multiple institutions to improve taxpayer identification, information matching and compliance. However, such systems also require careful implementation.
+
+For taxpayers, the process must be simple, predictable and transparent.
+
+For financial institutions and government authorities, verification procedures need to be efficient enough to avoid unnecessary delays in legitimate transactions.
+
+For the IRD, the challenge will be to ensure that the system strengthens tax administration without creating unnecessary administrative friction for taxpayers who are already compliant.
+
+The introduction of mandatory TIN submission for specified transactions represents an important shift in Sri Lanka’s tax administration. The TIN is no longer merely an identification number used within the IRD. For the transactions covered by the new framework, it becomes a gateway document connecting an individual with important financial, property, commercial and administrative services. From 1 November 2026, individuals intending to undertake specified transactions should therefore treat TIN compliance as part of their transaction planning rather than as an issue to be addressed at the last minute. Effective implementation will depend, among other things, on three factors: clarity of the legal framework, efficient implementation by institutions and adequate public awareness. If these three elements operate together, the TIN system can become an important component of a more integrated and information-driven tax administration framework. But as with any significant compliance reform, the objective should not merely be to collect another document. The real objective should be to create a seamless identification and information system that improves tax administration while making compliance easier, not harder, for the taxpayer.
+
+Source: Inland Revenue Department, Circular No. SEC/2026/E/07 dated 22 September 2026, issued under the Inland Revenue Act, No. 24 of 2017, as amended by the Inland Revenue (Amendment) Act, No. 11 of 2026.

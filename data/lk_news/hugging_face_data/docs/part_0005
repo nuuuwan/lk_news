@@ -66222,5 +66222,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790874863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-1b0b8dcc",
+    "num": "dailyftlk-1b0b8dcc",
+    "date_str": "2026-10-02",
+    "description": "Tilvin meets Jaishankar as  BJP-hosted visit to India concludes",
+    "url_metadata": "https://www.ft.lk/news/Tilvin-meets-Jaishankar-as-BJP-hosted-visit-to-India-concludes/56-798066",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790893965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-2abebed2",
+    "num": "dailyftlk-2abebed2",
+    "date_str": "2026-10-02",
+    "description": "IGP says CA Sri Lanka\u2019s newly launched Faculty  of Forensic Accounting  a timely national initiative",
+    "url_metadata": "https://www.ft.lk/business/IGP-says-CA-Sri-Lanka-s-newly-launched-Faculty-of-Forensic-Accounting-a-timely-national-initiative/34-798068",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-6c3f8514",
+    "num": "dailyftlk-6c3f8514",
+    "date_str": "2026-10-02",
+    "description": "Sri Lanka and Palestine reaffirm commitment to deepen economic cooperation and trade ties",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-and-Palestine-reaffirm-commitment-to-deepen-economic-cooperation-and-trade-ties/34-798069",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-2b2a4fc4",
+    "num": "dailyftlk-2b2a4fc4",
+    "date_str": "2026-10-02",
+    "description": "Regulatory reforms to  boost Sri Lanka\u2019s gem and  jewellery industry: NGJA Chief",
+    "url_metadata": "https://www.ft.lk/business/Regulatory-reforms-to-boost-Sri-Lanka-s-gem-and-jewellery-industry-NGJA-Chief/34-798070",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-6830e39a",
+    "num": "dailyftlk-6830e39a",
+    "date_str": "2026-10-02",
+    "description": "WCIC sharpens focus on scaling women-owned businesses",
+    "url_metadata": "https://www.ft.lk/business/WCIC-sharpens-focus-on-scaling-women-owned-businesses/34-798071",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900313.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-014bd08e",
+    "num": "dailyftlk-014bd08e",
+    "date_str": "2026-10-02",
+    "description": "Servatians Colombo Night 2026 at Waters Edge tomorrow",
+    "url_metadata": "https://www.ft.lk/business/Servatians-Colombo-Night-2026-at-Waters-Edge-tomorrow/34-798072",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-ab8c59c5",
+    "num": "dailyftlk-ab8c59c5",
+    "date_str": "2026-10-02",
+    "description": "Wijeya Newspapers\u2019 Moiz Mustafa wins AI Content Creators of the Year - Gold at National AI Awards",
+    "url_metadata": "https://www.ft.lk/business/Wijeya-Newspapers-Moiz-Mustafa-wins-AI-Content-Creators-of-the-Year-Gold-at-National-AI-Awards/34-798073",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790900402.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-8c2d820f",
+    "num": "dailyftlk-8c2d820f",
+    "date_str": "2026-10-02",
+    "description": "TIN becomes gateway to key transactions: What changes from 1 November 2026?",
+    "url_metadata": "https://www.ft.lk/columns/TIN-becomes-gateway-to-key-transactions-What-changes-from-1-November-2026/4-798074",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790901121.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-f348dacb",
+    "num": "dailyftlk-f348dacb",
+    "date_str": "2026-10-02",
+    "description": "Judging and judges",
+    "url_metadata": "https://www.ft.lk/columns/Judging-and-judges/4-798075",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790901405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailyftlk-c7080393",
+    "num": "dailyftlk-c7080393",
+    "date_str": "2026-10-02",
+    "description": "Economic recovery, growth and challenge",
+    "url_metadata": "https://www.ft.lk/columns/Economic-recovery-growth-and-challenge/4-798077",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790901635.0
   }
 ]

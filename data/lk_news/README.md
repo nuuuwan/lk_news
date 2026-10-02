@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_03:56:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_06:21:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**131,964** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**131,974** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-01-dailymirrorlk-22df10e6",
-    "num": "dailymirrorlk-22df10e6",
-    "date_str": "2026-10-01",
-    "description": "Fixture schedule announced for ICC Men\u2019s Cricket World Cup 2027: Sri Lanka in Group B",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fixture-schedule-announced-for-ICC-Mens-Cricket-World-Cup-2027-Sri-Lanka-in-Group-B/108-351567",
+    "doc_id": "2026-10-02-dailyftlk-c7080393",
+    "num": "dailyftlk-c7080393",
+    "date_str": "2026-10-02",
+    "description": "Economic recovery, growth and challenge",
+    "url_metadata": "https://www.ft.lk/columns/Economic-recovery-growth-and-challenge/4-798077",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790874863.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1790901635.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-02 | `dailyftlk-c7080393` | Economic recovery, growth and challenge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-c7080393)
+- 2026-10-02 | `dailyftlk-f348dacb` | Judging and judges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-f348dacb)
+- 2026-10-02 | `dailyftlk-8c2d820f` | TIN becomes gateway to key transactions: What changes from 1 November 2026? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-8c2d820f)
+- 2026-10-02 | `dailyftlk-ab8c59c5` | Wijeya Newspapers’ Moiz Mustafa wins AI Content Creators of the Year - Gold at National AI Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-ab8c59c5)
+- 2026-10-02 | `dailyftlk-014bd08e` | Servatians Colombo Night 2026 at Waters Edge tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-014bd08e)
+- 2026-10-02 | `dailyftlk-6830e39a` | WCIC sharpens focus on scaling women-owned businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-6830e39a)
+- 2026-10-02 | `dailyftlk-2b2a4fc4` | Regulatory reforms to  boost Sri Lanka’s gem and  jewellery industry: NGJA Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-2b2a4fc4)
+- 2026-10-02 | `dailyftlk-6c3f8514` | Sri Lanka and Palestine reaffirm commitment to deepen economic cooperation and trade ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-6c3f8514)
+- 2026-10-02 | `dailyftlk-2abebed2` | IGP says CA Sri Lanka’s newly launched Faculty  of Forensic Accounting  a timely national initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-2abebed2)
+- 2026-10-02 | `dailyftlk-1b0b8dcc` | Tilvin meets Jaishankar as  BJP-hosted visit to India concludes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-02-dailyftlk-1b0b8dcc)
 - 2026-10-01 | `dailymirrorlk-22df10e6` | Fixture schedule announced for ICC Men’s Cricket World Cup 2027: Sri Lanka in Group B | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-22df10e6)
 - 2026-10-01 | `dailymirrorlk-c29ff45a` | SpaceX launches 13th long-duration astronaut crew to International Space Station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-c29ff45a)
 - 2026-10-01 | `dailymirrorlk-a7f6bb1b` | Brother of underworld figure ‘Loku Patty’ shot dead in Ahungalla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-a7f6bb1b)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-10-01 | `dailymirrorlk-09e2c10b` | 100% government funding for vaccines from next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-09e2c10b)
 - 2026-10-01 | `dailymirrorlk-bd241edd` | PM urges stronger safeguards for children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-bd241edd)
 - 2026-10-01 | `dailymirrorlk-95cda288` | 63 endemic snakes in spotlight at global congress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-95cda288)
-- 2026-10-01 | `dailymirrorlk-9dca8b85` | Six-year labour pact promises better jobs and worker protection - but can Sri Lanka deliver? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-9dca8b85)
-- 2026-10-01 | `dailymirrorlk-747b818d` | Wijeya Newspapers’ Moiz Mustafa Wins AI Content Creators of the Year - Gold at National AI Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-747b818d)
-- 2026-10-01 | `dailymirrorlk-5efcf8b8` | Rice export container found packed with metal scrap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-5efcf8b8)
-- 2026-10-01 | `dailymirrorlk-0ed88878` | India approves $19 billion for renewable energy programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-0ed88878)
-- 2026-10-01 | `dailymirrorlk-941cef6a` | Police Commission cancels transfers of senior officers including Ranmal Kodituwakku | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-941cef6a)
-- 2026-10-01 | `dailymirrorlk-1c41c1a1` | Army Chief greets child with special needs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-1c41c1a1)
-- 2026-10-01 | `dailymirrorlk-2f300300` | LRH celebrates World Children’s Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-2f300300)
-- 2026-10-01 | `dailymirrorlk-611e9c8f` | US death row inmate survives execution attempt after two lethal injections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-611e9c8f)
-- 2026-10-01 | `dailymirrorlk-b1e604d4` | India will always support Sri Lanka’s progress, prosperity: Jaishankar tells Tilvin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-b1e604d4)
-- 2026-10-01 | `dailymirrorlk-9334aa30` | Court of Appeal dismisses Gotabaya Rajapaksa’s writ petition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-01-dailymirrorlk-9334aa30)
 
 ---
 
