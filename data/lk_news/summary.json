@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 14:04:23",
-  "n_docs": 132033,
+  "time_updated": "2026-10-02 15:56:44",
+  "n_docs": 132044,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132033,
+  "n_docs_with_text": 132044,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2048271302,
+  "dataset_size": 2048538773,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-3dd30ca0",
-    "num": "dailymirrorlk-3dd30ca0",
+    "doc_id": "2026-10-02-dailymirrorlk-ed1aad6d",
+    "num": "dailymirrorlk-ed1aad6d",
     "date_str": "2026-10-02",
-    "description": "Determine whether attack near courts was aimed at RW",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Determine-whether-attack-near-courts-was-aimed-at-RW/108-351622",
+    "description": "About 400 French schools closed as some student protests turn violent",
+    "url_metadata": "https://www.dailymirror.lk/international/About-400-French-schools-closed-as-some-student-protests-turn-violent/107-351634",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790926122.0
+    "time_ut": 1790935499.0
   }
 }

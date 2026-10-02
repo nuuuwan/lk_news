@@ -66489,6 +66489,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-24f9d125",
+    "num": "adalk-24f9d125",
+    "date_str": "2026-10-02",
+    "description": "\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd6 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca\u0da7 \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0daf\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dd6-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca\u0da7-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0daf\u0dd2\u0dba\u0dd2/11-424473",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790907574.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailyftlk-78a054f6",
     "num": "dailyftlk-78a054f6",
     "date_str": "2026-10-02",
@@ -66981,5 +66992,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790926122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-d236c21a",
+    "num": "dailymirrorlk-d236c21a",
+    "date_str": "2026-10-02",
+    "description": "Sri Lanka name 15-member T20I squad for Pakistan series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-name-15-member-T20I-squad-for-Pakistan-series/108-351623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790930109.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-b05dafca",
+    "num": "adalk-b05dafca",
+    "date_str": "2026-10-02",
+    "description": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 06 \u0dc3\u0dd2\u0da7 09 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd0\u0dc3\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca-06-\u0dc3\u0dd2\u0da7-09-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd0\u0dc3\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-424474",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790930342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-27f7dba2",
+    "num": "dailymirrorlk-27f7dba2",
+    "date_str": "2026-10-02",
+    "description": "Court acquits accused in 1999 election-period bombing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-acquits-accused-in-1999-election-period-bombing/108-351625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790930878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-3c540567",
+    "num": "dailymirrorlk-3c540567",
+    "date_str": "2026-10-02",
+    "description": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+    "url_metadata": "https://www.dailymirror.lk/international/US-pressures-Europe-to-release-diesel-reserves-as-Trump-threatens-export-ban/107-351626",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790931012.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-070ccd26",
+    "num": "dailymirrorlk-070ccd26",
+    "date_str": "2026-10-02",
+    "description": "A journey through the past",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/A-journey-through-the-past/110-351628",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790933126.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-04bfdd02",
+    "num": "dailymirrorlk-04bfdd02",
+    "date_str": "2026-10-02",
+    "description": "Over 187 acres of land released in Jaffna for civilian use",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-187-acres-of-land-released-in-Jaffna-for-civilian-use/108-351629",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790933240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-e511cb7a",
+    "num": "dailymirrorlk-e511cb7a",
+    "date_str": "2026-10-02",
+    "description": "Mahanayake Theros seek State intervention to secure release of Anojan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahanayake-Theros-seek-State-intervention-to-secure-release-of-Anojan/108-351630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790933342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-46daed41",
+    "num": "dailymirrorlk-46daed41",
+    "date_str": "2026-10-02",
+    "description": "IndiGo resumes key India-Sri Lanka flights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IndiGo-resumes-key-India-Sri-Lanka-flights/108-351631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790933459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-0192eecd",
+    "num": "dailymirrorlk-0192eecd",
+    "date_str": "2026-10-02",
+    "description": "Exams Dept. key to future-ready education: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Exams-Dept-key-to-future-ready-education-PM/108-351632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790933717.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-ed1aad6d",
+    "num": "dailymirrorlk-ed1aad6d",
+    "date_str": "2026-10-02",
+    "description": "About 400 French schools closed as some student protests turn violent",
+    "url_metadata": "https://www.dailymirror.lk/international/About-400-French-schools-closed-as-some-student-protests-turn-violent/107-351634",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790935499.0
   }
 ]
