@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-02 10:02:12",
-  "n_docs": 131991,
+  "time_updated": "2026-10-02 12:08:27",
+  "n_docs": 132001,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 131991,
+  "n_docs_with_text": 132001,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-02",
-  "dataset_size": 2047998610,
+  "dataset_size": 2048068526,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-02-dailymirrorlk-fee67637",
-    "num": "dailymirrorlk-fee67637",
+    "doc_id": "2026-10-02-dailymirrorlk-9a087a28",
+    "num": "dailymirrorlk-9a087a28",
     "date_str": "2026-10-02",
-    "description": "20 Iranian oil tankers stranded off Sri Lanka as supplies run short",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/20-Iranian-oil-tankers-stranded-off-Sri-Lanka-as-supplies-run-short/108-351570",
+    "description": "Macroeconomic stability achieved within two years: Labour Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Macroeconomic-stability-achieved-within-two-years-Labour-Minister/108-351582",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1790912084.0
+    "time_ut": 1790922324.0
   }
 }
