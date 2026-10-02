@@ -1,0 +1,61 @@
+Child protection in Sri Lanka: Root causes, scale, response, and the case for reform
+
+Sri Lanka’s child protection system has built substantial machinery — school committees, a police bureau, national statistics, a housing program for care-leavers. Yet, vulnerability drivers; poverty, family breakdown, migration, stigma — go largely unaddressed until they produce a crisis. This article combines the institutional record, current statistics, a Ministry of Women’s Affairs coordination discussion, and IHR’s reform proposal to the Prime Minister, all pointing toward earlier, joined-up intervention.
+
+Only 18–19% of children in residential institutional care have lost both parents; 50% have one living parent and 31% have both living. Institutionalisation is overwhelmingly a response to parental inability to cope, not orphanhood, along a connected chain: economic precarity (single mothers face ~5x the poverty risk) pushes some women into labour migration abroad, leaving children unguarded, and others into sex work, with exposure to violence, arrest and STIs. Rising adolescent HIV/STI rates compound household instability. Stigma against children of unmarried, sex-worker, or HIV-positive mothers excludes them from schools and extended family support. Economically stretched families see more underage pregnancy and exploitation, restarting the cycle a generation down — surfacing as institutionalisation, while the mother stays invisible to policy and data. No published Sri Lankan data disaggregates children by parental sex-work or HIV/STI status, making targeted services impossible to design.
+
+to 1,176 (Sep). Leading statutory categories: care and protection needs (1,697), cruelty (1,547), education violations (1,313) — ~4,550 of 6,296 total; sexual-offence categories combined total ~290. Leading non-statutory items: unspecified welfare (457), counselling needs (444), cyberbullying with nude imagery (102). Colombo (1,024) and Gampaha (819) lead districts, reflecting density/access; Kilinochchi (29), Mannar (35), Mullaitivu (60) and Vavuniya (43) are lowest, possibly reflecting weak reporting infrastructure.
+
+5,523 complaints Jan.-Jun. 2026 (1,100 cruelty, 213 sexual harassment, 112 cyber violence). Cumulative 2015–2025: 108,581 complaints, averaging ~9,800–10,800/year.
+
+A June 2026 Health Ministry briefing described a “triple burden” affecting over one in five schoolchildren: stunting 10.1%, underweight 16.1%, wasting 8.1%, overweight 0.5%. Under-five trends worsened 2021→2024: underweight 12.2%→17.0%, stunting 7.4%→10.5%, wasting 8.2%→9.3%, reversing prior decades of improvement (underweight fell from 38% in 1993 to 29% in 2000) — linked to the 2022 economic crisis. Severe acute malnutrition affects 1.2% of under-fives (~16,000 children); Nuwara Eliya is worst-affected district (24.6% underweight); tea-estate children show ~1 in 3 underweight/stunted versus ~1 in 10 in urban areas. 10% of children lived in poverty as of June 2023.
+
+The Woman and Child Affairs Ministry Secretary has stated that the number of children under Probation Department institutional care has fallen to around 9,000 — down from 14,179 recorded in the last full national census (2013) and figures near 15,000 through the 2000s. No breakdown accompanies the new figure, but the decline fits the shift toward foster care and family-based prevention discussed in Sections 7–8.
+
+The Student Ambassador National Program (NCPA/Education Ministry) trains senior prefects, plus a university strand, in child protection and ethical leadership across Government, private and international schools and pirivens. Surakum Pawwa aims to place tripartite (parent-teacher-child) committees in all 9,700 government schools, backed by community “Jana Pavura” bodies (Grama Niladhari, Public Health Nurse, five civil-society representatives). A defined complaint pipeline follows: police investigate within 48 hours, an NCPA Field Officer within 14 days, with video evidence and psychosocial support. Rollout has lagged — full coverage was still a forward plan in 2020, a decade after launch.
+
+The Bureau for the Prevention of Abuse of Children and Women runs a 24-hour desk (Emergency 109; Hotline 011-2444444) with ~300 district child protection officers; CID investigates, the AG’s Department prosecutes, and the Children and Women’s Bureau enforces child-labour law. A 2024 International Reporting Portal lets the public report online CSAM. Police note home-front conflict pushes children toward early relationships, and that victims/guardians often avoid pursuing protection orders.
+
+Launched 17 September 2026 for care-leavers (18+) and high-risk children: 834 beneficiaries, Rs. 2,000,000 grant each (doubled from Rs. 1,000,000), 2026 Budget-funded, usable to build/buy/renovate housing. Cabinet also approved National Children’s Week (25 Sep.—1 Oct. 2026), explicitly covering digital/online risks.
+
+On 17 September 2026, police warned that creating, possessing, distributing or viewing AI-generated CSAM is a criminal offence regardless of whether a real child was involved, driven by easy-to-use AI tools; detection is hampered by encrypted apps and dark-web channels, prompting international cooperation and penalties including imprisonment. This extends NCPA’s traditional contact-abuse focus to AI-specific risks, consistent with rising cyberbullying/counselling figures in Section 3.1.
+
+4,421 abuse cases remain pending, coordinated across 47 Police Child and Women Protection Bureaus; nine provincial video evidence recording units are under discussion to spare children court appearances.
+
+NCPA’s staffing gap (284/618 vacant) and the decade-long SCPC rollout lag show design has outpaced field capacity.
+
+Participants agreed institutions must function in unison, and that the Centre need not bear the whole burden — provinces have both duty and capacity to act in collaboration with national bodies. One proposal: NCPA could have provincial Governors host 24-hour hotlines for direct child reporting. Discussion covered malnourished children, probation-home children needing educational support, children affected by family turbulence, and children attending court (for whom the Ministry provides transport) — questioning whether structures outside Colombo can manage these ongoing. Police already hold much relevant case data through dedicated desks, so the gap is connection, not missing information; Health’s role on malnutrition was flagged as essential. This mirrors Section 8’s push for district/provincial ownership rather than sole reliance on the Centre.
+
+IHR Chairman Jeevan Thiagarajah wrote to PM Dr. Harini Amarasuriya (3 July 2026) arguing that fragmented agencies — clinics, police, children’s homes, Probation and Childcare Services — each see only one piece of a family’s situation, so intervention comes only after breakdown. Proposed reforms, under a standing multi-disciplinary authority:
+
+A national automatic multi-agency referral registry (under Probation and Childcare Services), triggered by clinic pregnancies, police reports involving minors, or care-home admissions.
+
+Named case coordinators at District/Divisional level, reporting to the registry.
+
+Targeted cash/livelihood support for at-risk single mothers via Samurdhi/Divisional Secretariat infrastructure.
+
+Confidential district-level services for sex workers and STI-affected parents, linked to the registry.
+
+A recognised child-led early-warning network (schools, youth clubs) as a fifth trigger — children as sentinels only, never handling case files.
+
+A standing multi-disciplinary cluster (Health, Police, Probation, Education, Women and Child Affairs, Provincial Councils, civil society) empowered to act on cases raised.
+
+Joint implementation circulars within the financial year, with benchmarks cascading to town level.
+
+The letter does not seek to reopen sex-work legalisation, framing itself narrowly around families already living this reality. It cites Sri Lanka’s 2019 removal of marital status from birth certificates as a precedent for tackling stigma directly.
+
+Common thread: any state contact should automatically register a person of concern into a shared case file and trigger family-level support, not just single-agency or removal-point action.
+
+Sri Lanka has most components a reformer would want — school committees, a police bureau, national data, a housing program — but lacks the tissue linking a mother’s poverty, a father’s absence, an adolescent’s health risk and a child’s abuse complaint as one vulnerability, not separate caseloads. The statistics, the falling institutional-care count, the Ministry’s coordination discussion, and IHR’s proposal all point the same way: intervene earlier, at the level of parent and province, not just child and Centre.
+
+National Child Protection Authority (childprotection.gov.lk) — Annual Reports and Statistics Bulletins
+
+Daily Mirror, Sunday Observer, The Island, Tamil Guardian, Onlanka, Newswire.lk, Lanka Newspapers — news reporting
+
+U.S. Department of Labor, Findings on the Worst Forms of Child Labor – Sri Lanka (2024)
+
+Report of the Parliamentary Select Committee on Child Malnutrition (parliament.lk)
+
+WHO, “Childhood Malnutrition in Sri Lanka: A Road Map for the Last Mile”
+
+Letter from IHR Chairman Jeevan Thiagarajah to the Prime Minister, 3 July 2026, and its Annex A
