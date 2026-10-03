@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_15:54:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_19:28:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,125** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-5d749f6d",
-    "num": "dailymirrorlk-5d749f6d",
+    "doc_id": "2026-10-03-dailymirrorlk-5a4b33db",
+    "num": "dailymirrorlk-5a4b33db",
     "date_str": "2026-10-03",
-    "description": "GMOA warns proposed dog vaccination law could disrupt rabies control",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-warns-proposed-dog-vaccination-law-could-disrupt-rabies-control/108-351706",
+    "description": "Govt. urges public to cut fuel use, switch to EVs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-urges-public-to-cut-fuel-use-switch-to-EVs/108-351707",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791019477.0
+    "time_ut": 1791026254.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-03 | `dailymirrorlk-5a4b33db` | Govt. urges public to cut fuel use, switch to EVs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-5a4b33db)
+- 2026-10-03 | `adalk-c2b7a5d1` | නාගරික සංවර්ධන අමාත්‍යාංශයට අයත් සුඛෝපභෝගී වාහන 23ක් තවමත් භාවිතයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-c2b7a5d1)
 - 2026-10-03 | `dailymirrorlk-5d749f6d` | GMOA warns proposed dog vaccination law could disrupt rabies control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-5d749f6d)
+- 2026-10-03 | `adalk-3d672297` | නවසීලන්තය පෙන්වා කෝටි 3ක් වංචාකළ හිටපු ජනපති සම්බන්ධීකරණ ලේකම්ට වැඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-3d672297)
 - 2026-10-03 | `dailymirrorlk-a6b7ecd2` | Liquor outlets closed today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-a6b7ecd2)
 - 2026-10-03 | `dailymirrorlk-1c5fc744` | Flydubai suspends flights to Israel until further notice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-1c5fc744)
 - 2026-10-03 | `dailymirrorlk-03254536` | Wild elephant damages Welikanda station, train window | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-03254536)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-03 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-421ed8bb)
 - 2026-10-03 | `dailymirrorlk-de69777b` | SLASSCOM calls for industry support to establish Accessibility Testing & QA Centre for hearing and visually impaired talent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-de69777b)
 - 2026-10-03 | `dailymirrorlk-7f66379b` | Seylan Bank opens 295th ‘Pahasara’ library | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-7f66379b)
-- 2026-10-03 | `dailymirrorlk-e2ccfb12` | ComBank launches nationwide coastal and aquatic cleanup drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-e2ccfb12)
-- 2026-10-03 | `dailymirrorlk-fb06174b` | Rosy Senanayake’s son passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-fb06174b)
-- 2026-10-03 | `dailymirrorlk-3838cca3` | Aberdeen’s Neptune Recyclers supports Esala Perahera PET collection drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-3838cca3)
 
 ---
 

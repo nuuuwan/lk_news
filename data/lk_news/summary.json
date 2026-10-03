@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-03 15:53:39",
-  "n_docs": 132125,
+  "time_updated": "2026-10-03 19:27:46",
+  "n_docs": 132132,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132125,
+  "n_docs_with_text": 132132,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-03",
-  "dataset_size": 2049562323,
+  "dataset_size": 2049625643,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-5d749f6d",
-    "num": "dailymirrorlk-5d749f6d",
+    "doc_id": "2026-10-03-dailymirrorlk-5a4b33db",
+    "num": "dailymirrorlk-5a4b33db",
     "date_str": "2026-10-03",
-    "description": "GMOA warns proposed dog vaccination law could disrupt rabies control",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-warns-proposed-dog-vaccination-law-could-disrupt-rabies-control/108-351706",
+    "description": "Govt. urges public to cut fuel use, switch to EVs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-urges-public-to-cut-fuel-use-switch-to-EVs/108-351707",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791019477.0
+    "time_ut": 1791026254.0
   }
 }
