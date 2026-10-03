@@ -67171,6 +67171,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-0f7920bc",
+    "num": "adalk-0f7920bc",
+    "date_str": "2026-10-02",
+    "description": "\u0d85\u0d82\u0d9a \u0dad\u0dc4\u0da9\u0dd4 \u0dc3\u0dc4 \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d82\u0d9a-\u0dad\u0dc4\u0da9\u0dd4-\u0dc3\u0dc4-\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca/11-424481",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790937419.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailymirrorlk-a254c771",
     "num": "dailymirrorlk-a254c771",
     "date_str": "2026-10-02",
@@ -67311,6 +67322,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790950420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-5786ac93",
+    "num": "dailymirrorlk-5786ac93",
+    "date_str": "2026-10-02",
+    "description": "Who will guard the guards themselves?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Who-will-guard-the-guards-themselves/108-351653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790952044.0
   },
   {
     "doc_type": "lk_news",
