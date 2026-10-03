@@ -66269,6 +66269,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-adalk-159d2c35",
+    "num": "adalk-159d2c35",
+    "date_str": "2026-10-02",
+    "description": "SLEIS 2026, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0db1\u0dc0 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0dc3\u0ddc\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/SLEIS-2026--\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda-\u0db1\u0dc0-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf-\u0dc3\u0ddc\u0dba\u0dba\u0dd2/7-424465",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1790886963.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-adalk-3e328be2",
     "num": "adalk-3e328be2",
     "date_str": "2026-10-02",
@@ -67336,6 +67347,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-c8acc89f",
+    "num": "dailymirrorlk-c8acc89f",
+    "date_str": "2026-10-02",
+    "description": "Police Sergeant interdicted over demanding chicken bribe for bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-Sergeant-interdicted-over-demanding-chicken-bribe-for-bail/108-351654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790952366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-22ff5c10",
+    "num": "dailymirrorlk-22ff5c10",
+    "date_str": "2026-10-02",
+    "description": "NGO Bill: some provisions inconsistent with right to freedom of association under international law",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NGO-Bill-some-provisions-inconsistent-with-right-to-freedom-of-association-under-international-law/108-351655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790952732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailymirrorlk-5abaf8a9",
     "num": "dailymirrorlk-5abaf8a9",
     "date_str": "2026-10-02",
@@ -67586,5 +67619,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1790967738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-1c2b7758",
+    "num": "dailymirrorlk-1c2b7758",
+    "date_str": "2026-10-03",
+    "description": "Sri Lanka wins bronze medal in Men\u2019s T20 Cricket at Asian Games",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-wins-bronze-medal-in-Mens-T20-Cricket-at-Asian-Games/108-351671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791001910.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-fb06174b",
+    "num": "dailymirrorlk-fb06174b",
+    "date_str": "2026-10-03",
+    "description": "Rosy Senanayake\u2019s son passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rosy-Senanayakes-son-passes-away/108-351675",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791003444.0
   }
 ]

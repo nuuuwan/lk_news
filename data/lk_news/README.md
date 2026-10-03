@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_10:00:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_12:06:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,088** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,093** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailyftlk-6f307b8f",
-    "num": "dailyftlk-6f307b8f",
+    "doc_id": "2026-10-03-dailymirrorlk-fb06174b",
+    "num": "dailymirrorlk-fb06174b",
     "date_str": "2026-10-03",
-    "description": "Court summons 10 doctors on Suresh Salley\u2019s medical panel",
-    "url_metadata": "https://www.ft.lk/news/Court-summons-10-doctors-on-Suresh-Salley-s-medical-panel/56-798148",
+    "description": "Rosy Senanayake\u2019s son passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rosy-Senanayakes-son-passes-away/108-351675",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1790967738.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791003444.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-03 | `dailymirrorlk-fb06174b` | Rosy Senanayake’s son passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-fb06174b)
+- 2026-10-03 | `dailymirrorlk-1c2b7758` | Sri Lanka wins bronze medal in Men’s T20 Cricket at Asian Games | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-1c2b7758)
 - 2026-10-03 | `dailyftlk-6f307b8f` | Court summons 10 doctors on Suresh Salley’s medical panel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-6f307b8f)
 - 2026-10-03 | `dailyftlk-f86b822e` | Appeal Court throws out Gota’s plea against arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-f86b822e)
 - 2026-10-03 | `dailyftlk-fc47d6ff` | Ranil’s misuse of public funds case put off to 11 Nov. pending AG’s advice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-fc47d6ff)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-03 | `dailyftlk-fa0e989a` | Sri Lanka’s next test: Balancing recovery with democratic integrity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-fa0e989a)
 - 2026-10-03 | `dailyftlk-771210d7` | Sampath Bank launches first community-powered book discovery platform at Book Fair | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-771210d7)
 - 2026-10-03 | `dailyftlk-226b2488` | Abans commissions 5 MW ground mounted solar plant with Rs. 1.2 b investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-226b2488)
-- 2026-10-03 | `dailyftlk-b6cf02b4` | EDB and SLAMERP partner to  boost energy efficiency and profitability in rubber manufacturing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-b6cf02b4)
-- 2026-10-03 | `dailyftlk-246b0d7d` | Blicq transforms Colombo  International Book Fair experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailyftlk-246b0d7d)
 
 ---
 
