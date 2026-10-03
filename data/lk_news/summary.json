@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-03 12:06:18",
-  "n_docs": 132093,
+  "time_updated": "2026-10-03 13:59:16",
+  "n_docs": 132121,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132093,
+  "n_docs_with_text": 132121,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-03",
-  "dataset_size": 2049243718,
+  "dataset_size": 2049366587,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-fb06174b",
-    "num": "dailymirrorlk-fb06174b",
+    "doc_id": "2026-10-03-dailymirrorlk-a6b7ecd2",
+    "num": "dailymirrorlk-a6b7ecd2",
     "date_str": "2026-10-03",
-    "description": "Rosy Senanayake\u2019s son passes away",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rosy-Senanayakes-son-passes-away/108-351675",
+    "description": "Liquor outlets closed today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Liquor-outlets-closed-today/108-351705",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791003444.0
+    "time_ut": 1791014095.0
   }
 }
