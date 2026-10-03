@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-03 13:59:16",
-  "n_docs": 132121,
+  "time_updated": "2026-10-03 15:53:39",
+  "n_docs": 132125,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132121,
+  "n_docs_with_text": 132125,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-03",
-  "dataset_size": 2049366587,
+  "dataset_size": 2049562323,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-a6b7ecd2",
-    "num": "dailymirrorlk-a6b7ecd2",
+    "doc_id": "2026-10-03-dailymirrorlk-5d749f6d",
+    "num": "dailymirrorlk-5d749f6d",
     "date_str": "2026-10-03",
-    "description": "Liquor outlets closed today",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Liquor-outlets-closed-today/108-351705",
+    "description": "GMOA warns proposed dog vaccination law could disrupt rabies control",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-warns-proposed-dog-vaccination-law-could-disrupt-rabies-control/108-351706",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791014095.0
+    "time_ut": 1791019477.0
   }
 }

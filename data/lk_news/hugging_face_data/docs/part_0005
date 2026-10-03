@@ -67391,6 +67391,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-59cc8349",
+    "num": "dailymirrorlk-59cc8349",
+    "date_str": "2026-10-02",
+    "description": "Bitumen shortage hampers road construction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bitumen-shortage-hampers-road-construction/108-351658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790953268.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-02-dailymirrorlk-5abaf8a9",
     "num": "dailymirrorlk-5abaf8a9",
     "date_str": "2026-10-02",
@@ -67886,6 +67897,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-77dcc5cf",
+    "num": "dailymirrorlk-77dcc5cf",
+    "date_str": "2026-10-03",
+    "description": "Melwa dismisses Seeduwa plant allegations as baseless; hints at business motives",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Melwa-dismisses-Seeduwa-plant-allegations-as-baseless-hints-at-business-motives/273-351685",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791006180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-03-dailymirrorlk-70549c46",
     "num": "dailymirrorlk-70549c46",
     "date_str": "2026-10-03",
@@ -67919,6 +67941,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-48079db7",
+    "num": "dailymirrorlk-48079db7",
+    "date_str": "2026-10-03",
+    "description": "Rethinking Adequate Housing  for All",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Rethinking-Adequate-Housing-for-All/172-351689",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791008267.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-03-dailymirrorlk-03254536",
     "num": "dailymirrorlk-03254536",
     "date_str": "2026-10-03",
@@ -67949,5 +67982,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791014095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-5d749f6d",
+    "num": "dailymirrorlk-5d749f6d",
+    "date_str": "2026-10-03",
+    "description": "GMOA warns proposed dog vaccination law could disrupt rabies control",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-warns-proposed-dog-vaccination-law-could-disrupt-rabies-control/108-351706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791019477.0
   }
 ]
