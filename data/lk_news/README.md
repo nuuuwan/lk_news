@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_19:28:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--03_20:40:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,138** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-5a4b33db",
-    "num": "dailymirrorlk-5a4b33db",
+    "doc_id": "2026-10-03-dailymirrorlk-97f23a18",
+    "num": "dailymirrorlk-97f23a18",
     "date_str": "2026-10-03",
-    "description": "Govt. urges public to cut fuel use, switch to EVs",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-urges-public-to-cut-fuel-use-switch-to-EVs/108-351707",
+    "description": "IGP vows tougher discipline within police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IGP-vows-tougher-discipline-within-police/108-351711",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791026254.0
+    "time_ut": 1791039064.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-03 | `dailymirrorlk-97f23a18` | IGP vows tougher discipline within police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-97f23a18)
+- 2026-10-03 | `dailymirrorlk-ae626dff` | Hawaii’s iconic 550-year-old Hōlei Sea Arch collapses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-ae626dff)
+- 2026-10-03 | `adalk-2d740ef4` | ෆ්ලයි ඩුබායි නියමුවාට පහරදී ඇත්තේ පොරවක් වැනි ආයුධයකින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-2d740ef4)
+- 2026-10-03 | `dailymirrorlk-9018f17e` | Gnanasara Thera arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-9018f17e)
+- 2026-10-03 | `adalk-aa570cf2` | අකුණු සැර වැදි පුද්ගලයෙකු ජිවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-aa570cf2)
 - 2026-10-03 | `dailymirrorlk-5a4b33db` | Govt. urges public to cut fuel use, switch to EVs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-5a4b33db)
+- 2026-10-03 | `adalk-8b97343a` | මඩකලපුව පළාත් සෞඛ්‍ය පුහුණු මධ්‍යස්ථානය සෞඛ්‍ය අමාත්‍යාංශය යටතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-8b97343a)
 - 2026-10-03 | `adalk-c2b7a5d1` | නාගරික සංවර්ධන අමාත්‍යාංශයට අයත් සුඛෝපභෝගී වාහන 23ක් තවමත් භාවිතයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-c2b7a5d1)
 - 2026-10-03 | `dailymirrorlk-5d749f6d` | GMOA warns proposed dog vaccination law could disrupt rabies control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-5d749f6d)
 - 2026-10-03 | `adalk-3d672297` | නවසීලන්තය පෙන්වා කෝටි 3ක් වංචාකළ හිටපු ජනපති සම්බන්ධීකරණ ලේකම්ට වැඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-adalk-3d672297)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-03 | `dailymirrorlk-77dcc5cf` | Melwa dismisses Seeduwa plant allegations as baseless; hints at business motives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-77dcc5cf)
 - 2026-10-03 | `dailymirrorlk-251bb028` | Sri Lanka secures US $ 100mn ADB loan to tackle skills shortages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-251bb028)
 - 2026-10-03 | `dailymirrorlk-46daed41` | IndiGo resumes key India-Sri Lanka flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-46daed41)
-- 2026-10-03 | `dailymirrorlk-f25f816f` | Better-quality teas command premiums at weekly auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-f25f816f)
-- 2026-10-03 | `dailymirrorlk-db95339d` | IRD revenue tops Rs.2,040bn in 9 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-db95339d)
-- 2026-10-03 | `dailymirrorlk-0ea6010d` | Yield curve holds steady as market activity stays muted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-0ea6010d)
-- 2026-10-03 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-421ed8bb)
-- 2026-10-03 | `dailymirrorlk-de69777b` | SLASSCOM calls for industry support to establish Accessibility Testing & QA Centre for hearing and visually impaired talent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-de69777b)
-- 2026-10-03 | `dailymirrorlk-7f66379b` | Seylan Bank opens 295th ‘Pahasara’ library | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-03-dailymirrorlk-7f66379b)
 
 ---
 
