@@ -68136,5 +68136,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791039064.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-b618d6ba",
+    "num": "dailymirrorlk-b618d6ba",
+    "date_str": "2026-10-03",
+    "description": "Two arrested after shootout with police in Kosgoda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-after-shootout-with-police-in-Kosgoda/108-351713",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791043220.0
   }
 ]
