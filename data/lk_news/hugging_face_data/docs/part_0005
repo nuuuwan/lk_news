@@ -68128,6 +68128,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-03-adalk-652e5a18",
+    "num": "adalk-652e5a18",
+    "date_str": "2026-10-03",
+    "description": "\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb \u0dc4\u0dd2\u0db8\u0dd2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424489",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791038961.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-03-dailymirrorlk-97f23a18",
     "num": "dailymirrorlk-97f23a18",
     "date_str": "2026-10-03",
@@ -68147,5 +68158,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791043220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-adalk-f56de83b",
+    "num": "adalk-f56de83b",
+    "date_str": "2026-10-04",
+    "description": "\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0dab\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda\u0daf\u0dd2 \u0db4\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dd9\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0dab\u0dba-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda\u0daf\u0dd2-\u0db4\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dd9\u0db1\u0dca/11-424490",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791083326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-adalk-1d0732ba",
+    "num": "adalk-1d0732ba",
+    "date_str": "2026-10-04",
+    "description": "\u0d85\u0dc4\u0dd4\u0db1\u0dca\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca 74 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc4\u0dd4\u0db1\u0dca\u0d9c\u0dbd\u0dca\u0dbd\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-74-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-424491",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791083725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-cf8fe569",
+    "num": "dailymirrorlk-cf8fe569",
+    "date_str": "2026-10-04",
+    "description": "Navy seizes Indian trawler, arrests nine fishermen",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-Indian-trawler-arrests-nine-fishermen/108-351714",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791084818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-936b9289",
+    "num": "dailymirrorlk-936b9289",
+    "date_str": "2026-10-04",
+    "description": "74-year-old man injured in Ahungalla shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/74-year-old-man-injured-in-Ahungalla-shooting/108-351715",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791085122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-72c25a2d",
+    "num": "dailymirrorlk-72c25a2d",
+    "date_str": "2026-10-04",
+    "description": "Four-member legal team heads to Saudi Arabia over Anojan case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-member-legal-team-heads-to-Saudi-Arabia-over-Anojan-case/108-351716",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791087318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-635abd3e",
+    "num": "dailymirrorlk-635abd3e",
+    "date_str": "2026-10-04",
+    "description": "Gnanasara Thera to be produced before court today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-to-be-produced-before-court-today/108-351717",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791087809.0
   }
 ]

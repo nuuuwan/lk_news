@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-04 08:37:00",
-  "n_docs": 132139,
+  "time_updated": "2026-10-04 11:15:52",
+  "n_docs": 132146,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132139,
+  "n_docs_with_text": 132146,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-03",
-  "dataset_size": 2049768552,
+  "date_str_max": "2026-10-04",
+  "dataset_size": 2049783459,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-03-dailymirrorlk-b618d6ba",
-    "num": "dailymirrorlk-b618d6ba",
-    "date_str": "2026-10-03",
-    "description": "Two arrested after shootout with police in Kosgoda",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-arrested-after-shootout-with-police-in-Kosgoda/108-351713",
+    "doc_id": "2026-10-04-dailymirrorlk-635abd3e",
+    "num": "dailymirrorlk-635abd3e",
+    "date_str": "2026-10-04",
+    "description": "Gnanasara Thera to be produced before court today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-to-be-produced-before-court-today/108-351717",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791043220.0
+    "time_ut": 1791087809.0
   }
 }
