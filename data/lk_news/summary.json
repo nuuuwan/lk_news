@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-04 11:15:52",
-  "n_docs": 132146,
+  "time_updated": "2026-10-04 13:47:17",
+  "n_docs": 132154,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132146,
+  "n_docs_with_text": 132154,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-04",
-  "dataset_size": 2049783459,
+  "dataset_size": 2049844089,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-04-dailymirrorlk-635abd3e",
-    "num": "dailymirrorlk-635abd3e",
+    "doc_id": "2026-10-04-adalk-a76b6643",
+    "num": "adalk-a76b6643",
     "date_str": "2026-10-04",
-    "description": "Gnanasara Thera to be produced before court today",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-to-be-produced-before-court-today/108-351717",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791087809.0
+    "description": "\u0dbb\u0dd4 \u0dbd\u0d9a\u0dca\u0dc2 365\u0d9a\u0dca \u0dbb\u0db1\u0dca \u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a \u0d9a\u0dbb\u0dba\u0dd2, \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf\u0da7 \u0daf\u0da9\u0dba \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 37",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4-\u0dbd\u0d9a\u0dca\u0dc2-365\u0d9a\u0dca-\u0dbb\u0db1\u0dca-\u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a-\u0d9a\u0dbb\u0dba\u0dd2--\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf\u0da7-\u0daf\u0da9\u0dba-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-37/11-424494",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791098783.0
   }
 }
