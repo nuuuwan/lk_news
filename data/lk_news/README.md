@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--04_19:43:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--04_21:24:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,165** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.0 GB**), from **2021-09-12** to **2026-10-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-04-dailymirrorlk-da12f514",
-    "num": "dailymirrorlk-da12f514",
+    "doc_id": "2026-10-04-dailymirrorlk-20f21a64",
+    "num": "dailymirrorlk-20f21a64",
     "date_str": "2026-10-04",
-    "description": "Landslide warnings issued for 13 DS divisions in five districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-13-DS-divisions-in-five-districts/108-351733",
+    "description": "Can you play songs at private functions without paying?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Can-you-play-songs-at-private-functions-without-paying/108-351736",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791122550.0
+    "time_ut": 1791128391.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-04 | `dailymirrorlk-20f21a64` | Can you play songs at private functions without paying? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-20f21a64)
+- 2026-10-04 | `dailymirrorlk-6e1c12fa` | Sri Lanka begin Pakistan tour | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-6e1c12fa)
+- 2026-10-04 | `dailymirrorlk-548d1dd8` | Sri Lanka rejects claims of US pressure over Iranian ships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-548d1dd8)
 - 2026-10-04 | `dailymirrorlk-da12f514` | Landslide warnings issued for 13 DS divisions in five districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-da12f514)
 - 2026-10-04 | `dailymirrorlk-75b6c0e3` | Litro gas prices unchanged for October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-75b6c0e3)
 - 2026-10-04 | `dailymirrorlk-6c32044a` | Australia probes flydubai co-pilot links | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-6c32044a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-04 | `dailymirrorlk-64070fe9` | Tennessee prison chief to resign after Christa Pike’s failed execution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-64070fe9)
 - 2026-10-04 | `adalk-e256cd1f` | චරිත් අසලංකට එක්දින කණ්ඩායමේ ස්ථානය අහිමිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-adalk-e256cd1f)
 - 2026-10-04 | `dailymirrorlk-a1d419c3` | Sri Lanka name 16-member squad for Pakistan ODI Tri-Nation Series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-a1d419c3)
-- 2026-10-04 | `dailymirrorlk-6d783f85` | Govt. to ensure digital connectivity in secondary schools by year-end: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-6d783f85)
-- 2026-10-04 | `adalk-660e61bb` | රුසියාව යුක්රේනයේ පාලම්වලට පහරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-adalk-660e61bb)
-- 2026-10-04 | `dailymirrorlk-635abd3e` | Gnanasara Thera to be produced before court today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-635abd3e)
 
 ---
 

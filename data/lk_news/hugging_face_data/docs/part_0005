@@ -68433,5 +68433,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791122550.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-548d1dd8",
+    "num": "dailymirrorlk-548d1dd8",
+    "date_str": "2026-10-04",
+    "description": "Sri Lanka rejects claims of US pressure over Iranian ships",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-rejects-claims-of-US-pressure-over-Iranian-ships/108-351734",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791125013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-6e1c12fa",
+    "num": "dailymirrorlk-6e1c12fa",
+    "date_str": "2026-10-04",
+    "description": "Sri Lanka begin Pakistan tour",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-begin-Pakistan-tour/110-351735",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791126886.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-20f21a64",
+    "num": "dailymirrorlk-20f21a64",
+    "date_str": "2026-10-04",
+    "description": "Can you play songs at private functions without paying?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Can-you-play-songs-at-private-functions-without-paying/108-351736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791128391.0
   }
 ]
