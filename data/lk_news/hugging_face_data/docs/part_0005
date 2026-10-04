@@ -68312,5 +68312,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791098783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-b5461b8f",
+    "num": "dailymirrorlk-b5461b8f",
+    "date_str": "2026-10-04",
+    "description": "16-year-old student drowns during educational trip",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/16-year-old-student-drowns-during-educational-trip/108-351726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791104218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-d0b35cb7",
+    "num": "dailymirrorlk-d0b35cb7",
+    "date_str": "2026-10-04",
+    "description": "Final decision on NCM against Speaker tomorrow: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Final-decision-on-NCM-against-Speaker-tomorrow-MP/108-351727",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791104569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-aebaf49b",
+    "num": "dailymirrorlk-aebaf49b",
+    "date_str": "2026-10-04",
+    "description": "Gnanasara Thera remanded until tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-remanded-until-tomorrow/108-351728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791109776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-04-dailymirrorlk-9ebb56bc",
+    "num": "dailymirrorlk-9ebb56bc",
+    "date_str": "2026-10-04",
+    "description": "Is your bread weighing what you pay for?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-your-bread-weighing-what-you-pay-for/108-351729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791111278.0
   }
 ]

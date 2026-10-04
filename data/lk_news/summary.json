@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-04 13:47:17",
-  "n_docs": 132154,
+  "time_updated": "2026-10-04 17:07:09",
+  "n_docs": 132158,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132154,
+  "n_docs_with_text": 132158,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-04",
-  "dataset_size": 2049844089,
+  "dataset_size": 2049909143,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-04-adalk-a76b6643",
-    "num": "adalk-a76b6643",
+    "doc_id": "2026-10-04-dailymirrorlk-9ebb56bc",
+    "num": "dailymirrorlk-9ebb56bc",
     "date_str": "2026-10-04",
-    "description": "\u0dbb\u0dd4 \u0dbd\u0d9a\u0dca\u0dc2 365\u0d9a\u0dca \u0dbb\u0db1\u0dca \u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a \u0d9a\u0dbb\u0dba\u0dd2, \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf\u0da7 \u0daf\u0da9\u0dba \u0dbb\u0dd4. \u0dbd\u0d9a\u0dca\u0dc2 37",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4-\u0dbd\u0d9a\u0dca\u0dc2-365\u0d9a\u0dca-\u0dbb\u0db1\u0dca-\u0dbb\u0dcf\u0da2\u0dc3\u0db1\u0dca\u0dad\u0d9a-\u0d9a\u0dbb\u0dba\u0dd2--\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf\u0da7-\u0daf\u0da9\u0dba-\u0dbb\u0dd4--\u0dbd\u0d9a\u0dca\u0dc2-37/11-424494",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1791098783.0
+    "description": "Is your bread weighing what you pay for?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-your-bread-weighing-what-you-pay-for/108-351729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791111278.0
   }
 }
