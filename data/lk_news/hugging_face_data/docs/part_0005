@@ -69214,5 +69214,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791188568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-af19d0a8",
+    "num": "dailymirrorlk-af19d0a8",
+    "date_str": "2026-10-05",
+    "description": "High-speed internet rollout reaches over 3,600 secondary schools",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-speed-internet-rollout-reaches-over-3-600-secondary-schools/108-351794",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791196048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-0343562b",
+    "num": "dailymirrorlk-0343562b",
+    "date_str": "2026-10-05",
+    "description": "Global fuel supply disruptions driving diesel price surge: Champika",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Global-fuel-supply-disruptions-driving-diesel-price-surge-Champika/108-351795",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791196175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-c3933479",
+    "num": "dailymirrorlk-c3933479",
+    "date_str": "2026-10-05",
+    "description": "Sri Lanka, ADB discuss development priorities for 2026\u20132029",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ADB-discuss-development-priorities-for-20262029/108-351797",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791196431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-89baf70f",
+    "num": "dailymirrorlk-89baf70f",
+    "date_str": "2026-10-05",
+    "description": "Case against former Minister Kumara Jayakody fixed for further evidence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Case-against-former-Minister-Kumara-Jayakody-fixed-for-further-evidence/108-351798",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791196541.0
   }
 ]
