@@ -69228,6 +69228,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-80995c0c",
+    "num": "dailymirrorlk-80995c0c",
+    "date_str": "2026-10-05",
+    "description": "Signature campaign against CBSL investment company ban",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Signature-campaign-against-CBSL-investment-company-ban/110-351785",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791188078.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-05-dailymirrorlk-b08deb9b",
     "num": "dailymirrorlk-b08deb9b",
     "date_str": "2026-10-05",
@@ -69445,5 +69456,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791201960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-adalk-506f37a4",
+    "num": "adalk-506f37a4",
+    "date_str": "2026-10-05",
+    "description": "\u0d8b\u0da9\u0dbb\u0da7 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dad\u0dcf\u0dc0 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0da9\u0dbb\u0da7-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dad\u0dcf\u0dc0-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-424513",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791202409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-7ca20c62",
+    "num": "dailymirrorlk-7ca20c62",
+    "date_str": "2026-10-05",
+    "description": "Government won\u2019t implement IMF proposals contrary to NPP policies: Chaturanga Abeysinghe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-wont-implement-IMF-proposals-contrary-to-NPP-policies-Chaturanga-Abeysinghe/108-351814",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791205591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-e19c801d",
+    "num": "dailymirrorlk-e19c801d",
+    "date_str": "2026-10-05",
+    "description": "Hambantota Port crosses one million TEUs milestone",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-crosses-one-million-TEUs-milestone/108-351816",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791206480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-dde153e2",
+    "num": "dailymirrorlk-dde153e2",
+    "date_str": "2026-10-05",
+    "description": "CSE selling intensifies as ASPI falls below 20,650",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-selling-intensifies-as-ASPI-falls-below-20-650/108-351817",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791206755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-56882e74",
+    "num": "dailymirrorlk-56882e74",
+    "date_str": "2026-10-05",
+    "description": "Sri Lanka rejects claims of US pressure over Iranian vessels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-rejects-claims-of-US-pressure-over-Iranian-vessels/108-351818",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791209078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-089b4fcb",
+    "num": "dailymirrorlk-089b4fcb",
+    "date_str": "2026-10-05",
+    "description": "Air Chief Marshal Kolitha Gunathilake appointed KDU Chancellor",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Air-Chief-Marshal-Kolitha-Gunathilake-appointed-KDU-Chancellor/108-351819",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791209177.0
   }
 ]
