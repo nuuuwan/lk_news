@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--05_21:59:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--06_00:43:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,268** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-10-05 | `dailymirrorlk-02f21ec1` | Cinnamon Grand celebrates cake mixing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-02f21ec1)
+- 2026-10-05 | `adalk-0a358123` | බය නෑ, දකුණේ ලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-adalk-0a358123)
+- 2026-10-05 | `dailymirrorlk-81587d45` | No-confidence motion against Speaker to be handed over on Friday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-81587d45)
 - 2026-10-05 | `dailymirrorlk-eb3515e2` | Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-eb3515e2)
 - 2026-10-05 | `dailymirrorlk-dac063d2` | Unforeseen hand trying to sabotage rabies prevention programme: Veterinary associations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-dac063d2)
 - 2026-10-05 | `dailymirrorlk-089b4fcb` | Air Chief Marshal Kolitha Gunathilake appointed KDU Chancellor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-089b4fcb)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-05 | `dailymirrorlk-fc3346fc` | How India escaped the IMF cycle - the Manmohan Singh lesson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-fc3346fc)
 - 2026-10-05 | `dailymirrorlk-89baf70f` | Case against former Minister Kumara Jayakody fixed for further evidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-89baf70f)
 - 2026-10-05 | `dailymirrorlk-c3933479` | Sri Lanka, ADB discuss development priorities for 2026–2029 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-c3933479)
-- 2026-10-05 | `dailymirrorlk-7750359c` | Financial literacy rises to 58%: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-7750359c)
-- 2026-10-05 | `dailymirrorlk-0343562b` | Global fuel supply disruptions driving diesel price surge: Champika | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-0343562b)
 
 ---
 

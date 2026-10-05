@@ -69558,6 +69558,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-81587d45",
+    "num": "dailymirrorlk-81587d45",
+    "date_str": "2026-10-05",
+    "description": "No-confidence motion against Speaker to be handed over on Friday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-confidence-motion-against-Speaker-to-be-handed-over-on-Friday/108-351822",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791212197.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-adalk-0a358123",
+    "num": "adalk-0a358123",
+    "date_str": "2026-10-05",
+    "description": "\u0db6\u0dba \u0db1\u0dd1, \u0daf\u0d9a\u0dd4\u0dab\u0dda \u0dbd\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dba-\u0db1\u0dd1--\u0daf\u0d9a\u0dd4\u0dab\u0dda-\u0dbd\u0dda/11-424516",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791212828.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-05-dailymirrorlk-02f21ec1",
     "num": "dailymirrorlk-02f21ec1",
     "date_str": "2026-10-05",
