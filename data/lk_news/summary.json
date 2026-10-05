@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-05 08:11:18",
-  "n_docs": 132188,
+  "time_updated": "2026-10-05 10:34:47",
+  "n_docs": 132191,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132188,
+  "n_docs_with_text": 132191,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-05",
-  "dataset_size": 2050420019,
+  "dataset_size": 2050434334,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-05-adalk-2dc43847",
-    "num": "adalk-2dc43847",
+    "doc_id": "2026-10-05-dailymirrorlk-cd866e04",
+    "num": "dailymirrorlk-cd866e04",
     "date_str": "2026-10-05",
-    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0dda \u0d9a\u0da9\u0d89\u0db8 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/business/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0dda-\u0d9a\u0da9\u0d89\u0db8-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/7-424500",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1791160023.0
+    "description": "Indian police accused of sexually harassing journalists at protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-police-accused-of-sexually-harassing-journalists-at-protest/107-351765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791173080.0
   }
 }

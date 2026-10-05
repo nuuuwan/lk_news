@@ -68686,5 +68686,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791160023.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-14e86560",
+    "num": "dailymirrorlk-14e86560",
+    "date_str": "2026-10-05",
+    "description": "Sri Lanka reaches staff-level agreement with IMF on seventh EFF review",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reaches-staff-level-agreement-with-IMF-on-seventh-EFF-review/108-351761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791169947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-399d9ce4",
+    "num": "dailymirrorlk-399d9ce4",
+    "date_str": "2026-10-05",
+    "description": "Brazil election goes to run-off as right-wing Fl\u00e1vio Bolsonaro wins first round",
+    "url_metadata": "https://www.dailymirror.lk/international/Brazil-election-goes-to-run-off-as-right-wing-Fl\u00e1vio-Bolsonaro-wins-first-round/107-351763",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791170398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-cd866e04",
+    "num": "dailymirrorlk-cd866e04",
+    "date_str": "2026-10-05",
+    "description": "Indian police accused of sexually harassing journalists at protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-police-accused-of-sexually-harassing-journalists-at-protest/107-351765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791173080.0
   }
 ]

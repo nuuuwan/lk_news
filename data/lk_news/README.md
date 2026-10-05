@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--05_08:11:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--05_10:35:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,188** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,191** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-05-adalk-2dc43847",
-    "num": "adalk-2dc43847",
+    "doc_id": "2026-10-05-dailymirrorlk-cd866e04",
+    "num": "dailymirrorlk-cd866e04",
     "date_str": "2026-10-05",
-    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0dda \u0d9a\u0da9\u0d89\u0db8 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/business/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0dda-\u0d9a\u0da9\u0d89\u0db8-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/7-424500",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1791160023.0
+    "description": "Indian police accused of sexually harassing journalists at protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-police-accused-of-sexually-harassing-journalists-at-protest/107-351765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791173080.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-05 | `dailymirrorlk-cd866e04` | Indian police accused of sexually harassing journalists at protest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-cd866e04)
+- 2026-10-05 | `dailymirrorlk-399d9ce4` | Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-399d9ce4)
+- 2026-10-05 | `dailymirrorlk-14e86560` | Sri Lanka reaches staff-level agreement with IMF on seventh EFF review | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailymirrorlk-14e86560)
 - 2026-10-05 | `adalk-2dc43847` | හම්බන්තොට වරාය බහාලුම් මිලියනයේ කඩඉම ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-adalk-2dc43847)
 - 2026-10-05 | `dailyftlk-7757ab61` | Gnanasara Thera remanded, to face Court of Appeal today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-7757ab61)
 - 2026-10-05 | `dailyftlk-9a19015f` | Four-member legal team heads to Saudi Arabia to appeal Anojan death sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-9a19015f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-05 | `dailyftlk-2ca73f8a` | Human edge in the age of AI: How purposeful leadership can strengthen our humanness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-2ca73f8a)
 - 2026-10-05 | `dailyftlk-5553a9a5` | Budget 2027 must go looking for earnings,  not lenders: FTZMA’s thoughts for Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-5553a9a5)
 - 2026-10-05 | `dailyftlk-ca8ef5bf` | Solar industry at risk: New policy undermines progress on energy security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-ca8ef5bf)
-- 2026-10-05 | `dailyftlk-51e8fb9e` | The Colombo courtier: Corporate sycophancy and political power in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-51e8fb9e)
-- 2026-10-05 | `dailyftlk-4f66d800` | Major General Milinda Peiris and KDU saga: Setting up university as task “Beyond Rank” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-05-dailyftlk-4f66d800)
-- 2026-10-04 | `dailymirrorlk-20f21a64` | Can you play songs at private functions without paying? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-04-dailymirrorlk-20f21a64)
 
 ---
 
