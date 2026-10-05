@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-05 16:38:56",
-  "n_docs": 132240,
+  "time_updated": "2026-10-05 18:05:36",
+  "n_docs": 132257,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132240,
+  "n_docs_with_text": 132257,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-05",
-  "dataset_size": 2051012974,
+  "dataset_size": 2051107046,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-05-dailymirrorlk-89baf70f",
-    "num": "dailymirrorlk-89baf70f",
+    "doc_id": "2026-10-05-dailymirrorlk-76749f21",
+    "num": "dailymirrorlk-76749f21",
     "date_str": "2026-10-05",
-    "description": "Case against former Minister Kumara Jayakody fixed for further evidence",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Case-against-former-Minister-Kumara-Jayakody-fixed-for-further-evidence/108-351798",
+    "description": "German and US scientists win Nobel medicine prize for work on light and brain",
+    "url_metadata": "https://www.dailymirror.lk/international/German-and-US-scientists-win-Nobel-medicine-prize-for-work-on-light-and-brain/107-351812",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791196541.0
+    "time_ut": 1791201960.0
   }
 }
