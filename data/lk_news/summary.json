@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-05 12:18:51",
-  "n_docs": 132205,
+  "time_updated": "2026-10-05 14:13:27",
+  "n_docs": 132236,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132205,
+  "n_docs_with_text": 132236,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-05",
-  "dataset_size": 2050518776,
+  "dataset_size": 2050752525,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-05-dailymirrorlk-a89316f5",
-    "num": "dailymirrorlk-a89316f5",
+    "doc_id": "2026-10-05-dailymirrorlk-b08deb9b",
+    "num": "dailymirrorlk-b08deb9b",
     "date_str": "2026-10-05",
-    "description": "Porcupine brutally attacked and killed",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Porcupine-brutally-attacked-and-killed/108-351771",
+    "description": "Ranil to leave for Singapore tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-to-leave-for-Singapore-tonight/108-351786",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791182295.0
+    "time_ut": 1791188568.0
   }
 }
