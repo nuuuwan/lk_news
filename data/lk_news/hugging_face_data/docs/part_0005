@@ -69503,6 +69503,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-05-adalk-95dc8802",
+    "num": "adalk-95dc8802",
+    "date_str": "2026-10-05",
+    "description": "\u0d8b\u0da9\u0dbb\u0da7 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d85\u0dc0\u0dc4\u0dd2\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0da9\u0dbb\u0da7-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d85\u0dc0\u0dc4\u0dd2\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/11-424514",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791207092.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-05-dailymirrorlk-56882e74",
     "num": "dailymirrorlk-56882e74",
     "date_str": "2026-10-05",
@@ -69522,5 +69533,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791209177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-dac063d2",
+    "num": "dailymirrorlk-dac063d2",
+    "date_str": "2026-10-05",
+    "description": "Unforeseen hand trying to sabotage rabies prevention programme: Veterinary associations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Unforeseen-hand-trying-to-sabotage-rabies-prevention-programme-Veterinary-associations/108-351820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791210811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-eb3515e2",
+    "num": "dailymirrorlk-eb3515e2",
+    "date_str": "2026-10-05",
+    "description": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+    "url_metadata": "https://www.dailymirror.lk/international/Flydubai-co-pilot-planned-to-crash-plane-into-Tel-Aviv-airport-or-building-reports-say/107-351821",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791211638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-05-dailymirrorlk-02f21ec1",
+    "num": "dailymirrorlk-02f21ec1",
+    "date_str": "2026-10-05",
+    "description": "Cinnamon Grand celebrates cake mixing",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Cinnamon-Grand-celebrates-cake-mixing/110-351823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791215154.0
   }
 ]

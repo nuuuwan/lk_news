@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-05 20:01:57",
-  "n_docs": 132264,
+  "time_updated": "2026-10-05 21:59:04",
+  "n_docs": 132268,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132264,
+  "n_docs_with_text": 132268,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-05",
-  "dataset_size": 2051311516,
+  "dataset_size": 2051360463,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-05-dailymirrorlk-089b4fcb",
-    "num": "dailymirrorlk-089b4fcb",
+    "doc_id": "2026-10-05-dailymirrorlk-02f21ec1",
+    "num": "dailymirrorlk-02f21ec1",
     "date_str": "2026-10-05",
-    "description": "Air Chief Marshal Kolitha Gunathilake appointed KDU Chancellor",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Air-Chief-Marshal-Kolitha-Gunathilake-appointed-KDU-Chancellor/108-351819",
+    "description": "Cinnamon Grand celebrates cake mixing",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Cinnamon-Grand-celebrates-cake-mixing/110-351823",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791209177.0
+    "time_ut": 1791215154.0
   }
 }
