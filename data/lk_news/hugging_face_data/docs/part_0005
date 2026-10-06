@@ -70625,6 +70625,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-2270569f",
+    "num": "dailymirrorlk-2270569f",
+    "date_str": "2026-10-06",
+    "description": "Mrs. Universe Sri Lanka 2026",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Mrs-Universe-Sri-Lanka-2026/110-351893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791271998.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-06-dailymirrorlk-e97f3bfa",
     "num": "dailymirrorlk-e97f3bfa",
     "date_str": "2026-10-06",
@@ -70834,6 +70845,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-e7b31e23",
+    "num": "adalk-e7b31e23",
+    "date_str": "2026-10-06",
+    "description": "\u0dbd\u0ddc\u0dc0 \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dad\u0db8 \u0db8\u0dbd\u0dbd \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbd\u0ddc\u0dc0-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dad\u0db8-\u0db8\u0dbd\u0dbd-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba-\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1-\u0dc0\u0dd9\u0dba\u0dd2/9-424535",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791283819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-05e549c2",
+    "num": "adalk-05e549c2",
+    "date_str": "2026-10-06",
+    "description": "\u0dbd\u0dcf\u0db7\u0dba \u0d9c\u0dd0\u0db1 \u0db1\u0ddc\u0dc3\u0dd2\u0dad\u0dcf \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db4\u0dba\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0dcf\u0db7\u0dba-\u0d9c\u0dd0\u0db1-\u0db1\u0ddc\u0dc3\u0dd2\u0dad\u0dcf-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db4\u0dba\u0db1\u0dca\u0db1/11-424536",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791284537.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-06-dailymirrorlk-bfecb395",
     "num": "dailymirrorlk-bfecb395",
     "date_str": "2026-10-06",
@@ -70875,5 +70908,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791288176.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-9d5d2059",
+    "num": "dailymirrorlk-9d5d2059",
+    "date_str": "2026-10-06",
+    "description": "CSE ends flat as early recovery fades",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-ends-flat-as-early-recovery-fades/108-351912",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791290783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-e3833e1d",
+    "num": "dailymirrorlk-e3833e1d",
+    "date_str": "2026-10-06",
+    "description": "Suspect arrested in Maharagama while attempting to sell protected sea shells",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-in-Maharagama-while-attempting-to-sell-protected-sea-shells/108-351913",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791290948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-15d1001c",
+    "num": "dailymirrorlk-15d1001c",
+    "date_str": "2026-10-06",
+    "description": "Bill to combat organised crime to be gazetted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bill-to-combat-organised-crime-to-be-gazetted/108-351914",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791296026.0
   }
 ]
