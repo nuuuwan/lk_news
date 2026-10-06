@@ -69591,6 +69591,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-05-adalk-fd68ebb4",
+    "num": "adalk-fd68ebb4",
+    "date_str": "2026-10-05",
+    "description": "\u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda \u0dc3\u0dd2\u0da7 6 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dc0\u0dd2\u0dc2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0db6\u0db1-\u0dc0\u0dc3\u0dbb\u0dda-\u0dc3\u0dd2\u0da7-6-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0dc0\u0dd2\u0dc2\u0dba\u0d9a\u0dca/11-424517",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791217553.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-06-dailyftlk-4328bcf6",
     "num": "dailyftlk-4328bcf6",
     "date_str": "2026-10-06",
@@ -69874,5 +69885,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791251023.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-304cc76a",
+    "num": "adalk-304cc76a",
+    "date_str": "2026-10-06",
+    "description": "\u0dc6\u0dca\u0dbd\u0dba\u0dd2\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2 \u0dc3\u0dc4\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0dab\u00a09-11 \u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc6\u0dca\u0dbd\u0dba\u0dd2\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2-\u0dc3\u0dc4\u0dcf\u0dba\u0d9a-\u0db1\u0dd2\u0dba\u0db8\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u00a09-11-\u0dc0\u0dd0\u0db1\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-424518",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791254133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-b78f1acf",
+    "num": "adalk-b78f1acf",
+    "date_str": "2026-10-06",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca \u0d9a\u0dc5 \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca-\u0d9a\u0dc5-\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424520",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791254931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-99c905c4",
+    "num": "adalk-99c905c4",
+    "date_str": "2026-10-06",
+    "description": "\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0d91\u0dba\u0dd2/11-424521",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791257292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-9a68337d",
+    "num": "dailymirrorlk-9a68337d",
+    "date_str": "2026-10-06",
+    "description": "Mahinda Kahandagama arrested over drug trafficking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-Kahandagama-arrested-over-drug-trafficking/108-351825",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791258842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-ce5c57f7",
+    "num": "dailymirrorlk-ce5c57f7",
+    "date_str": "2026-10-06",
+    "description": "Shiranthi Rajapaksa returns from Singapore",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-returns-from-Singapore/108-351826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791259162.0
   }
 ]

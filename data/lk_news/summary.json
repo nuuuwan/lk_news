@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-06 08:03:33",
-  "n_docs": 132296,
+  "time_updated": "2026-10-06 09:59:26",
+  "n_docs": 132302,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132296,
+  "n_docs_with_text": 132302,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-06",
-  "dataset_size": 2052493318,
+  "dataset_size": 2052638369,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailyftlk-9ae091bf",
-    "num": "dailyftlk-9ae091bf",
+    "doc_id": "2026-10-06-dailymirrorlk-ce5c57f7",
+    "num": "dailymirrorlk-ce5c57f7",
     "date_str": "2026-10-06",
-    "description": "Gnanasara Thera jailed for six years after Supreme Court annuls pardon",
-    "url_metadata": "https://www.ft.lk/news/Gnanasara-Thera-jailed-for-six-years-after-Supreme-Court-annuls-pardon/56-798290",
+    "description": "Shiranthi Rajapaksa returns from Singapore",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-returns-from-Singapore/108-351826",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1791251023.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791259162.0
   }
 }
