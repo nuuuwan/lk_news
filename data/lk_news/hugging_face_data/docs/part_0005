@@ -70867,6 +70867,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-c2d71fa4",
+    "num": "adalk-c2d71fa4",
+    "date_str": "2026-10-06",
+    "description": "\u0d86\u0db1\u0dba\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0dc3\u0dd2\u0dba\u0dba\u0da7 21\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d86\u0db1\u0dba\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0dc3\u0dd2\u0dba\u0dba\u0da7-21\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-424537",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791285165.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-06-dailymirrorlk-bfecb395",
     "num": "dailymirrorlk-bfecb395",
     "date_str": "2026-10-06",
@@ -70941,5 +70952,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791296026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-79a1bdde",
+    "num": "dailymirrorlk-79a1bdde",
+    "date_str": "2026-10-06",
+    "description": "Civilian clothing for Gnanasara Thera in court could signal State interference in Sasana: Ven. Dhammaloka Thera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Civilian-clothing-for-Gnanasara-Thera-in-court-could-signal-State-interference-in-Sasana-Ven-Dhammaloka-Thera/108-351916",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791297786.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-1eb904f2",
+    "num": "dailymirrorlk-1eb904f2",
+    "date_str": "2026-10-06",
+    "description": "Trincomalee Prison Assistant Superintendent arrested over alleged bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trincomalee-Prison-Assistant-Superintendent-arrested-over-alleged-bribe/108-351917",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791298754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-100051f2",
+    "num": "dailymirrorlk-100051f2",
+    "date_str": "2026-10-06",
+    "description": "Sri Lanka imports over 800,000 vehicles worth USD 3.8 Billion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-imports-over-800-000-vehicles-worth-USD-3-8-Billion/108-351918",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791298830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-d9a28649",
+    "num": "dailymirrorlk-d9a28649",
+    "date_str": "2026-10-06",
+    "description": "Fuel shortage returns: Auto Diesel, Petrol 92 in short supply - Union",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-shortage-returns-Auto-Diesel-Petrol-92-in-short-supply-Union/108-351919",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791299646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-26a50727",
+    "num": "dailymirrorlk-26a50727",
+    "date_str": "2026-10-06",
+    "description": "Ship sinks and crew missing after Black Sea drone attack",
+    "url_metadata": "https://www.dailymirror.lk/international/Ship-sinks-and-crew-missing-after-Black-Sea-drone-attack/107-351920",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791299783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-84118dbe",
+    "num": "dailymirrorlk-84118dbe",
+    "date_str": "2026-10-06",
+    "description": "Gnanasara Thera\u2019s prison attire: What the rules say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-prison-attire-What-the-rules-say/108-351921",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791299946.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-3ea022ee",
+    "num": "dailymirrorlk-3ea022ee",
+    "date_str": "2026-10-06",
+    "description": "Water supply to several Kalutara areas to be suspended on Oct. 8",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-several-Kalutara-areas-to-be-suspended-on-Oct-8/108-351922",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791300139.0
   }
 ]
