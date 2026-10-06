@@ -1,0 +1,41 @@
+Edinborough Products enters new digital era with Group-wide transformation
+
+Managing Director R.P.M. Zalmy, Chief Financial Officer and Project Manager Asanka Narangoda
+
+Edinborough Products, a Sri Lankan food manufacturing company with more than 200 products and exports to over 25 countries, has entered a new phase of its digital transformation with the go live of a Group-wide integrated digital ecosystem.
+
+The platform went live on 5 October, bringing together SAP S/4HANA Cloud, SFA manufacturing systems, a Human Resource Information System (HRIS) and banking integration across the Group’s business functions, manufacturing facilities and overseas operations. The initiative is the largest project undertaken by the Edinborough Products team and comes as the company marks 50 years in business.
+
+The transformation is intended to create a more connected operating environment across the organisation, linking finance, manufacturing, procurement, supply chain, sales and distribution, human resources, treasury and banking operations. The new platform is designed to support real time information, standardised processes, stronger governance and faster business decision making.
+
+For a manufacturing business operating across geographical boundaries, the integration is also intended to provide more consistent access to operational and financial information across local and overseas activities. The wider objective is to connect information, processes and people within a common enterprise environment.
+
+At the centre of the transformation is SAP S/4HANA Cloud, which serves as the digital backbone for finance and management reporting, procurement, manufacturing and production planning, inventory and warehouse operations, sales and distribution, supply chain management, treasury, banking and Group wide performance visibility.
+
+The integration of SAP S/4HANA Cloud with SFA connects manufacturing activity with the wider enterprise environment, covering production, material consumption, inventory, quality and supply chain processes. This is intended to improve coordination between manufacturing operations and functions including planning, procurement, inventory, quality and finance. The significance of the project extends beyond the introduction of new software. The integrated environment is designed to reduce unnecessary manual intervention, improve transaction accuracy and strengthen governance across the organisation.
+
+Edinborough Products Managing Director R.P.M. Zalmy described the initiative as a broader transformation in the way the organisation operates.
+
+“The implementation of SAP S/4HANA Cloud, SFA, HRIS and banking integration represents a defining moment for Edinborough Products. This is not simply a technology implementation. It is a transformation of how we operate, collaborate and create value.”
+
+He added that connecting the Group’s companies and manufacturing operations through a common digital platform would establish a foundation for sustainable growth, operational excellence and international expansion.
+
+The transformation also extends beyond manufacturing and finance. The HRIS component is intended to strengthen employee information management while supporting HR administration, workforce planning and decision making.
+
+The banking integration connects the enterprise platform with the Group’s banking environment, supporting payment processing, bank reconciliation, cash flow visibility, treasury operations and financial controls.
+
+Chief Financial Officer and Project Manager Asanka Narangoda, who oversaw the overall transformation program, highlighted the organisation-wide effort behind the project.
+
+“This program has brought together every major function of the business under one shared vision. Its successful delivery reflects the commitment of our employees, the guidance of our leadership team and the expertise of our advisory and implementation partners.”
+
+He added that the program was creating a connected, data driven enterprise capable of supporting the future ambitions of the Edinborough Group, both in Sri Lanka and across its overseas operations.
+
+The program involved employees from finance, information technology, manufacturing, supply chain, procurement, sales, human resources and other functions in process design, data preparation, user acceptance testing, training and go live preparation. Their involvement formed part of the organisation’s preparation for new ways of working.
+
+The transformation was supported by Ernst & Young (EY), which provided technical project management support covering governance, program coordination and risk oversight. PBBS served as the implementation partner, working with the internal project team and stakeholders to configure, integrate, test and prepare the new digital environment for go-live.
+
+The event also brought together representatives from PBSS Group who made this initiative possible, including Managing Director Dr. Madura Gamanayaka.
+
+The go live follows Edinborough Products’ wider investment in manufacturing capabilities, people, technology and innovation. Over its 50 year history, the company has maintained a focus on local and international standards and certifications while developing its presence across domestic and overseas markets.
+
+The 5 October ‘go live’ therefore marks the beginning of a new operating phase for Edinborough Products. The significance of the transformation will ultimately depend on how effectively the connected systems improve information flow, collaboration, governance and decision making across the organisation as it continues to develop its domestic and international operations.

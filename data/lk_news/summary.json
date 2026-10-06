@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-06 06:21:05",
-  "n_docs": 132284,
+  "time_updated": "2026-10-06 08:03:33",
+  "n_docs": 132296,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132284,
+  "n_docs_with_text": 132296,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-06",
-  "dataset_size": 2051489254,
+  "dataset_size": 2052493318,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailyftlk-a0dfcb73",
-    "num": "dailyftlk-a0dfcb73",
+    "doc_id": "2026-10-06-dailyftlk-9ae091bf",
+    "num": "dailyftlk-9ae091bf",
     "date_str": "2026-10-06",
-    "description": "PR Wire Sri Lanka ranked among \u2018Global Top 300\u2019 PR Consultancies by PRovoke Media",
-    "url_metadata": "https://www.ft.lk/opinion/PR-Wire-Sri-Lanka-ranked-among-Global-Top-300-PR-Consultancies-by-PRovoke-Media/14-798267",
+    "description": "Gnanasara Thera jailed for six years after Supreme Court annuls pardon",
+    "url_metadata": "https://www.ft.lk/news/Gnanasara-Thera-jailed-for-six-years-after-Supreme-Court-annuls-pardon/56-798290",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1791246938.0
+    "time_ut": 1791251023.0
   }
 }
