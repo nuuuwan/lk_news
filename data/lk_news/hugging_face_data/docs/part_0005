@@ -71029,5 +71029,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791300139.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-e965b75a",
+    "num": "dailymirrorlk-e965b75a",
+    "date_str": "2026-10-07",
+    "description": "Kananathan condoles with Nigeria over Air Force tragedy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kananathan-condoles-with-Nigeria-over-Air-Force-tragedy/108-351923",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791314479.0
   }
 ]

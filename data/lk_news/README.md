@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_00:00:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_01:58:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,401** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,402** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailymirrorlk-3ea022ee",
-    "num": "dailymirrorlk-3ea022ee",
-    "date_str": "2026-10-06",
-    "description": "Water supply to several Kalutara areas to be suspended on Oct. 8",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-several-Kalutara-areas-to-be-suspended-on-Oct-8/108-351922",
+    "doc_id": "2026-10-07-dailymirrorlk-e965b75a",
+    "num": "dailymirrorlk-e965b75a",
+    "date_str": "2026-10-07",
+    "description": "Kananathan condoles with Nigeria over Air Force tragedy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kananathan-condoles-with-Nigeria-over-Air-Force-tragedy/108-351923",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791300139.0
+    "time_ut": 1791314479.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-07 | `dailymirrorlk-e965b75a` | Kananathan condoles with Nigeria over Air Force tragedy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-e965b75a)
 - 2026-10-06 | `dailymirrorlk-3ea022ee` | Water supply to several Kalutara areas to be suspended on Oct. 8 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-3ea022ee)
 - 2026-10-06 | `dailymirrorlk-84118dbe` | Gnanasara Thera’s prison attire: What the rules say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-84118dbe)
 - 2026-10-06 | `dailymirrorlk-26a50727` | Ship sinks and crew missing after Black Sea drone attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-26a50727)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-06 | `adalk-e7b31e23` | ලොව විශිෂ්ටතම මලල ක්‍රීඩක සම්මානය රුමේෂ් නිර්දේශ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-e7b31e23)
 - 2026-10-06 | `adalk-44990d1b` | මඩුවන්වෙල වලව්ව කේන්ද්‍ර කර ගනිමින් සංචාරක කලාපයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-44990d1b)
 - 2026-10-06 | `adalk-6d5fccdb` | ග්‍රෙගරි වැවේ නාඳුනන පිරිමි මළ සිරුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-6d5fccdb)
-- 2026-10-06 | `dailymirrorlk-80a09d99` | Cabinet approves digital infrastructure upgrade for e-Court project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-80a09d99)
 
 ---
 

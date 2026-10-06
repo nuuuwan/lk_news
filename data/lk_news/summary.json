@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-06 23:59:29",
-  "n_docs": 132401,
+  "time_updated": "2026-10-07 01:57:27",
+  "n_docs": 132402,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132401,
+  "n_docs_with_text": 132402,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-06",
-  "dataset_size": 2053973217,
+  "date_str_max": "2026-10-07",
+  "dataset_size": 2053973401,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailymirrorlk-3ea022ee",
-    "num": "dailymirrorlk-3ea022ee",
-    "date_str": "2026-10-06",
-    "description": "Water supply to several Kalutara areas to be suspended on Oct. 8",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-to-several-Kalutara-areas-to-be-suspended-on-Oct-8/108-351922",
+    "doc_id": "2026-10-07-dailymirrorlk-e965b75a",
+    "num": "dailymirrorlk-e965b75a",
+    "date_str": "2026-10-07",
+    "description": "Kananathan condoles with Nigeria over Air Force tragedy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kananathan-condoles-with-Nigeria-over-Air-Force-tragedy/108-351923",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791300139.0
+    "time_ut": 1791314479.0
   }
 }
