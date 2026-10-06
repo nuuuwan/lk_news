@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--06_10:00:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--06_12:07:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,302** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailymirrorlk-ce5c57f7",
-    "num": "dailymirrorlk-ce5c57f7",
+    "doc_id": "2026-10-06-dailymirrorlk-0c01cb45",
+    "num": "dailymirrorlk-0c01cb45",
     "date_str": "2026-10-06",
-    "description": "Shiranthi Rajapaksa returns from Singapore",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-returns-from-Singapore/108-351826",
+    "description": "HIP crosses 1mn TEU milestone",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HIP-crosses-1mn-TEU-milestone/273-351866",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791259162.0
+    "time_ut": 1791268256.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-10-06 | `dailymirrorlk-ce5c57f7` | Shiranthi Rajapaksa returns from Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-ce5c57f7)
-- 2026-10-06 | `dailymirrorlk-9a68337d` | Mahinda Kahandagama arrested over drug trafficking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-9a68337d)
-- 2026-10-06 | `adalk-99c905c4` | ශිරන්ති රාජපක්ෂ එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-99c905c4)
-- 2026-10-06 | `adalk-b78f1acf` | මත්ද්‍රව්‍ය ජාවාරම් කළ මහින්ද අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-b78f1acf)
-- 2026-10-06 | `adalk-304cc76a` | ෆ්ලයිඩුබායි සහායක නියමුවාගේ අරමුණ 9-11 වැනි ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-adalk-304cc76a)
-- 2026-10-06 | `dailyftlk-9ae091bf` | Gnanasara Thera jailed for six years after Supreme Court annuls pardon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-9ae091bf)
-- 2026-10-06 | `dailyftlk-39c3ed2f` | Jayaweera, Indian envoy discuss economy and politics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-39c3ed2f)
-- 2026-10-06 | `dailyftlk-557a1eb0` | Colombo port container volumes up 10% in eight months on transshipment growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-557a1eb0)
-- 2026-10-06 | `dailyftlk-743c4d1e` | Leading regional voices to headline Sri Lanka Economic and Investment Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-743c4d1e)
-- 2026-10-06 | `dailyftlk-703521f4` | City of Dreams Sri Lanka to host Mercedes-Benz Fashion Week Sri Lanka with AOD and DIMO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-703521f4)
-- 2026-10-06 | `dailyftlk-eee6e703` | RTS Holdings Tea Factories Avissawella;  Hidellana receive global recognition at North American Tea Conference 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-eee6e703)
-- 2026-10-06 | `dailyftlk-d419d79c` | Edinborough Products enters new digital era with Group-wide transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-d419d79c)
-- 2026-10-06 | `dailyftlk-cf7d074b` | ‘India Calling’: Sri Lanka businesses sees new opportunities, sharper challenges in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-cf7d074b)
-- 2026-10-06 | `dailyftlk-6fbe2dae` | Deal of strategic necessity: What EU’s trade agreement with Delhi reveals about its new approach to India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-6fbe2dae)
-- 2026-10-06 | `dailymirrorlk-4b54d5bf` | Nobel prize in physiology or medicine is awarded for discoveries in neuroscience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-4b54d5bf)
-- 2026-10-06 | `dailyftlk-6ea14b20` | Sri Lankan consumers expect to spend more, but becoming more deliberate about choices: Boston Consulting Group | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-6ea14b20)
-- 2026-10-06 | `dailyftlk-5f6b6136` | Be responsive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-5f6b6136)
-- 2026-10-06 | `dailyftlk-a0dfcb73` | PR Wire Sri Lanka ranked among ‘Global Top 300’ PR Consultancies by PRovoke Media | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-a0dfcb73)
-- 2026-10-06 | `dailyftlk-035e91fc` | From degrees to economic value: Rethinking educated youth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-035e91fc)
-- 2026-10-06 | `dailyftlk-adf1aae4` | A peace building response to Anojan case and Thileepan memorial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailyftlk-adf1aae4)
+- 2026-10-06 | `dailymirrorlk-0c01cb45` | HIP crosses 1mn TEU milestone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-0c01cb45)
+- 2026-10-06 | `dailymirrorlk-741469b9` | Commercial High Court stays resolution to parate execute Ranfer Teas properties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-741469b9)
+- 2026-10-06 | `dailymirrorlk-81bacf30` | Tea’s rupee gains outpace dollar performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-81bacf30)
+- 2026-10-06 | `dailymirrorlk-55fe6d50` | Bank lending to real estate tops Rs.2tn as bad loans retreat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-55fe6d50)
+- 2026-10-06 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-2831aeed)
+- 2026-10-06 | `dailymirrorlk-8af0fb81` | Quiet start to week in secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-8af0fb81)
+- 2026-10-06 | `dailymirrorlk-d53a4412` | Financial literacy rises to 58%: Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-d53a4412)
+- 2026-10-06 | `dailymirrorlk-2e82a593` | Leading regional voices to headline Sri Lanka Economic & Investment Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-2e82a593)
+- 2026-10-06 | `dailymirrorlk-1b7a735b` | IMF staff-level agreement unrelated to any agreement on successor programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-1b7a735b)
+- 2026-10-06 | `dailymirrorlk-b3a0ad68` | CA Sri Lanka to inaugurate 47th National Conference tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-b3a0ad68)
+- 2026-10-06 | `dailymirrorlk-741c9226` | Port City Colombo builds investment momentum across UAE, Oman, and Qatar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-741c9226)
+- 2026-10-06 | `dailymirrorlk-84e4a815` | Sri Lanka cannot resist sanctions, but can raise non-aligned policy collectively with others- Joint Opposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-84e4a815)
+- 2026-10-06 | `dailymirrorlk-b5b52c56` | SHIFT Group marks 18 years of Making Work That Works | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-b5b52c56)
+- 2026-10-06 | `dailymirrorlk-15c69c98` | Sri Lanka’s BRICS strategy must begin at home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-15c69c98)
+- 2026-10-06 | `dailymirrorlk-fe400cf2` | Solar power industry warns new policy could threaten energy security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-fe400cf2)
+- 2026-10-06 | `dailymirrorlk-0d1b85b3` | Technomedics shines among Best Workplaces in Asia 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-0d1b85b3)
+- 2026-10-06 | `dailymirrorlk-8c34b43b` | Allianz Lanka expands customer support with 24/7 roadside assistance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-8c34b43b)
+- 2026-10-06 | `dailymirrorlk-bdfc523f` | Evolution Auto unveils AVATR 07 luxury SUV in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-bdfc523f)
+- 2026-10-06 | `dailymirrorlk-8fe7af55` | Nearly 3,000 face legal action over seat belt violations on expressways | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-8fe7af55)
+- 2026-10-06 | `dailymirrorlk-bd125755` | Rush Lanka Group reaches major milestone with 10th residential project in Dehiwala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-bd125755)
 
 ---
 

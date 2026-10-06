@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-06 09:59:26",
-  "n_docs": 132302,
+  "time_updated": "2026-10-06 12:06:23",
+  "n_docs": 132342,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132302,
+  "n_docs_with_text": 132342,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-06",
-  "dataset_size": 2052638369,
+  "dataset_size": 2052847284,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailymirrorlk-ce5c57f7",
-    "num": "dailymirrorlk-ce5c57f7",
+    "doc_id": "2026-10-06-dailymirrorlk-0c01cb45",
+    "num": "dailymirrorlk-0c01cb45",
     "date_str": "2026-10-06",
-    "description": "Shiranthi Rajapaksa returns from Singapore",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-returns-from-Singapore/108-351826",
+    "description": "HIP crosses 1mn TEU milestone",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HIP-crosses-1mn-TEU-milestone/273-351866",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791259162.0
+    "time_ut": 1791268256.0
   }
 }

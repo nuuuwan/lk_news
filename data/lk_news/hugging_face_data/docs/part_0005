@@ -65862,6 +65862,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-01-dailymirrorlk-eccfb9ed",
+    "num": "dailymirrorlk-eccfb9ed",
+    "date_str": "2026-10-01",
+    "description": "\u2018Road traffic accidents, a preventable burden\u2019- SLMA Expert Committee",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Road-traffic-accidents-a-preventable-burden-SLMA-Expert-Committee/131-351520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790833037.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-01-dailymirrorlk-c5c100a7",
     "num": "dailymirrorlk-c5c100a7",
     "date_str": "2026-10-01",
@@ -66607,6 +66618,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1790915398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-02-dailymirrorlk-c99cd11d",
+    "num": "dailymirrorlk-c99cd11d",
+    "date_str": "2026-10-02",
+    "description": "The age of longevity: Is Sri Lanka ready for longer lives?",
+    "url_metadata": "https://www.dailymirror.lk/news-features/The-age-of-longevity-Is-Sri-Lanka-ready-for-longer-lives/131-351572",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1790915782.0
   },
   {
     "doc_type": "lk_news",
@@ -68015,6 +68037,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791009238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-03-dailymirrorlk-4716f434",
+    "num": "dailymirrorlk-4716f434",
+    "date_str": "2026-10-03",
+    "description": "When Crime Speaks Louder Than Politics",
+    "url_metadata": "https://www.dailymirror.lk/news-features/When-Crime-Speaks-Louder-Than-Politics/131-351700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791010518.0
   },
   {
     "doc_type": "lk_news",
@@ -69899,6 +69932,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-2d948034",
+    "num": "adalk-2d948034",
+    "date_str": "2026-10-06",
+    "description": "\u0d85\u0db1\u0dd2\u0dba\u0db8\u0dca \u0db6\u0dd2\u0dbb\u0dd2\u0db3 \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dc5 \u0d85\u0db1\u0dd2\u0dba\u0db8\u0dca \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0dad\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db1 \u0daf\u0dd2\u0dc0\u0dd2\u0db1\u0dc3\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd2\u0dba\u0db8\u0dca-\u0db6\u0dd2\u0dbb\u0dd2\u0db3-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dc5-\u0d85\u0db1\u0dd2\u0dba\u0db8\u0dca-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0dad\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0da7-\u0db4\u0dd0\u0db1-\u0daf\u0dd2\u0dc0\u0dd2\u0db1\u0dc3\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-424519",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791254383.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-06-adalk-b78f1acf",
     "num": "adalk-b78f1acf",
     "date_str": "2026-10-06",
@@ -69940,5 +69984,401 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791259162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-1a661ec7",
+    "num": "dailymirrorlk-1a661ec7",
+    "date_str": "2026-10-06",
+    "description": "Military plane crash kills 32 in Nigeria",
+    "url_metadata": "https://www.dailymirror.lk/international/Military-plane-crash-kills-32-in-Nigeria/107-351827",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791260971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-8b20961e",
+    "num": "dailymirrorlk-8b20961e",
+    "date_str": "2026-10-06",
+    "description": "Government ready to debate NCM against Speaker this week: Bimal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-ready-to-debate-NCM-against-Speaker-this-week-Bimal/108-351828",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791261148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-991cc166",
+    "num": "dailymirrorlk-991cc166",
+    "date_str": "2026-10-06",
+    "description": "Australian opposition party vows \u2019biggest cut to immigration\u2019 in country\u2019s history",
+    "url_metadata": "https://www.dailymirror.lk/international/Australian-opposition-party-vows-biggest-cut-to-immigration-in-countrys-history/107-351829",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791261345.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-cfecec01",
+    "num": "adalk-cfecec01",
+    "date_str": "2026-10-06",
+    "description": "\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca \u0d9c\u0dd2\u0dc4\u0dd2 \u0d87\u0db3\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca-\u0d9c\u0dd2\u0dc4\u0dd2-\u0d87\u0db3\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7/11-424524",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791261645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-af459f3a",
+    "num": "adalk-af459f3a",
+    "date_str": "2026-10-06",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7/11-424525",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791261805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-e622681c",
+    "num": "dailymirrorlk-e622681c",
+    "date_str": "2026-10-06",
+    "description": "Rohitha Abeygunawardhane, Anuradha Jayaratne exchange COPE, COPA memberships",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardhane-Anuradha-Jayaratne-exchange-COPE-COPA-memberships/108-351830",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791262183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-4a404357",
+    "num": "dailymirrorlk-4a404357",
+    "date_str": "2026-10-06",
+    "description": "Anunayake Thera asks Prisons not to remove Gnanasara Thera\u2019s robes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anunayake-Thera-asks-Prisons-not-to-remove-Gnanasara-Theras-robes/108-351831",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791262262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-4d386566",
+    "num": "dailymirrorlk-4d386566",
+    "date_str": "2026-10-06",
+    "description": "Gnanasara Thera brought before Colombo High Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-brought-before-Colombo-High-Court/108-351832",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791262690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-f3a96e57",
+    "num": "dailymirrorlk-f3a96e57",
+    "date_str": "2026-10-06",
+    "description": "Minister assures to ease fuel queues by Wednesday or Thursday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-assures-to-ease-fuel-queues-by-Wednesday-or-Thursday/108-351834",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791263369.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-158f4ce9",
+    "num": "dailymirrorlk-158f4ce9",
+    "date_str": "2026-10-06",
+    "description": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-orders-firing-squad-for-gunman-who-killed-13-people-at-Fort-Hood-Texas/107-351835",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791264108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-f7b68508",
+    "num": "dailymirrorlk-f7b68508",
+    "date_str": "2026-10-06",
+    "description": "Sarana Gunawardena\u2019s wife further remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarana-Gunawardenas-wife-further-remanded/108-351836",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791264751.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-d5d92936",
+    "num": "dailymirrorlk-d5d92936",
+    "date_str": "2026-10-06",
+    "description": "Sri Lanka, India to be excluded from Israel private construction recruitment from 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-to-be-excluded-from-Israel-private-construction-recruitment-from-2027/108-351837",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791265390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-56d6253e",
+    "num": "dailymirrorlk-56d6253e",
+    "date_str": "2026-10-06",
+    "description": "\u201cIf the Sri Lankan government is willing to open the door, they will know the wisdom I am carrying\u201d \u2013 Jerome Fernando",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/If-the-Sri-Lankan-government-is-willing-to-open-the-door-they-will-know-the-wisdom-I-am-carrying-Jerome-Fernando/108-351838",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791266228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-02bf1b8f",
+    "num": "dailymirrorlk-02bf1b8f",
+    "date_str": "2026-10-06",
+    "description": "Soldier arrested for cattle rustling",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Soldier-arrested-for-cattle-rustling/108-351839",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791266783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-3dec26af",
+    "num": "dailymirrorlk-3dec26af",
+    "date_str": "2026-10-06",
+    "description": "One in four Sri Lankans expected to be over 60 by 2041: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-in-four-Sri-Lankans-expected-to-be-over-60-by-2041-Minister/108-351840",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791266943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-db5ba71a",
+    "num": "dailymirrorlk-db5ba71a",
+    "date_str": "2026-10-06",
+    "description": "Hutch partners with SLIM to honour Marketing and Business Excellence",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hutch-partners-with-SLIM-to-honour-Marketing-and-Business-Excellence/273-351841",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-bd125755",
+    "num": "dailymirrorlk-bd125755",
+    "date_str": "2026-10-06",
+    "description": "Rush Lanka Group reaches major milestone with 10th residential project in Dehiwala",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Rush-Lanka-Group-reaches-major-milestone-with-10th-residential-project-in-Dehiwala/273-351842",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-8fe7af55",
+    "num": "dailymirrorlk-8fe7af55",
+    "date_str": "2026-10-06",
+    "description": "Nearly 3,000 face legal action over seat belt violations on expressways",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-3-000-face-legal-action-over-seat-belt-violations-on-expressways/108-351843",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-bdfc523f",
+    "num": "dailymirrorlk-bdfc523f",
+    "date_str": "2026-10-06",
+    "description": "Evolution Auto unveils AVATR 07 luxury SUV in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Evolution-Auto-unveils-AVATR-07-luxury-SUV-in-Sri-Lanka/273-351844",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267287.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-8c34b43b",
+    "num": "dailymirrorlk-8c34b43b",
+    "date_str": "2026-10-06",
+    "description": "Allianz Lanka expands customer support with 24/7 roadside assistance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Allianz-Lanka-expands-customer-support-with-247-roadside-assistance/273-351845",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267305.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-0d1b85b3",
+    "num": "dailymirrorlk-0d1b85b3",
+    "date_str": "2026-10-06",
+    "description": "Technomedics shines among Best Workplaces in Asia 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Technomedics-shines-among-Best-Workplaces-in-Asia-2026/273-351846",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-fe400cf2",
+    "num": "dailymirrorlk-fe400cf2",
+    "date_str": "2026-10-06",
+    "description": "Solar power industry warns new policy could threaten energy security",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Solar-power-industry-warns-new-policy-could-threaten-energy-security/273-351847",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-15c69c98",
+    "num": "dailymirrorlk-15c69c98",
+    "date_str": "2026-10-06",
+    "description": "Sri Lanka\u2019s BRICS strategy must begin at home",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankas-BRICS-strategy-must-begin-at-home/273-351848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-b5b52c56",
+    "num": "dailymirrorlk-b5b52c56",
+    "date_str": "2026-10-06",
+    "description": "SHIFT Group marks 18 years of Making Work That Works",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SHIFT-Group-marks-18-years-of-Making-Work-That-Works/273-351849",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-84e4a815",
+    "num": "dailymirrorlk-84e4a815",
+    "date_str": "2026-10-06",
+    "description": "Sri Lanka cannot resist sanctions, but can raise non-aligned policy collectively with others- Joint Opposition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-resist-sanctions-but-can-raise-non-aligned-policy-collectively-with-others-Joint-Opposition/108-351850",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267514.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-741c9226",
+    "num": "dailymirrorlk-741c9226",
+    "date_str": "2026-10-06",
+    "description": "Port City Colombo builds investment momentum across UAE, Oman, and Qatar",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Port-City-Colombo-builds-investment-momentum-across-UAE-Oman-and-Qatar/273-351851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-b3a0ad68",
+    "num": "dailymirrorlk-b3a0ad68",
+    "date_str": "2026-10-06",
+    "description": "CA Sri Lanka to inaugurate 47th National Conference tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CA-Sri-Lanka-to-inaugurate-47th-National-Conference-tomorrow/273-351852",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-1b7a735b",
+    "num": "dailymirrorlk-1b7a735b",
+    "date_str": "2026-10-06",
+    "description": "IMF staff-level agreement unrelated to any agreement on successor programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-staff-level-agreement-unrelated-to-any-agreement-on-successor-programme/108-351853",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-2e82a593",
+    "num": "dailymirrorlk-2e82a593",
+    "date_str": "2026-10-06",
+    "description": "Leading regional voices to headline Sri Lanka Economic & Investment Summit 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Leading-regional-voices-to-headline-Sri-Lanka-Economic-Investment-Summit-2026/273-351854",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-d53a4412",
+    "num": "dailymirrorlk-d53a4412",
+    "date_str": "2026-10-06",
+    "description": "Financial literacy rises to 58%: Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Financial-literacy-rises-to-58-Prime-Minister/273-351855",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267723.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-8af0fb81",
+    "num": "dailymirrorlk-8af0fb81",
+    "date_str": "2026-10-06",
+    "description": "Quiet start to week in secondary market",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Quiet-start-to-week-in-secondary-market/273-351857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267887.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-10-06",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-351858",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-55fe6d50",
+    "num": "dailymirrorlk-55fe6d50",
+    "date_str": "2026-10-06",
+    "description": "Bank lending to real estate tops Rs.2tn as bad loans retreat",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Bank-lending-to-real-estate-tops-Rs-2tn-as-bad-loans-retreat/273-351859",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791267975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-81bacf30",
+    "num": "dailymirrorlk-81bacf30",
+    "date_str": "2026-10-06",
+    "description": "Tea\u2019s rupee gains outpace dollar performance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Teas-rupee-gains-outpace-dollar-performance/273-351861",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791268007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-741469b9",
+    "num": "dailymirrorlk-741469b9",
+    "date_str": "2026-10-06",
+    "description": "Commercial High Court stays resolution to parate execute Ranfer Teas properties",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Commercial-High-Court-stays-resolution-to-parate-execute-Ranfer-Teas-properties/273-351862",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791268032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-0c01cb45",
+    "num": "dailymirrorlk-0c01cb45",
+    "date_str": "2026-10-06",
+    "description": "HIP crosses 1mn TEU milestone",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HIP-crosses-1mn-TEU-milestone/273-351866",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791268256.0
   }
 ]
