@@ -70787,5 +70787,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791280925.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-559df5f0",
+    "num": "adalk-559df5f0",
+    "date_str": "2026-10-06",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1 \u0db1\u0dd0\u0dc0\u0dca \u0d9c\u0dd0\u0db1 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9c\u0dd0\u0db1 \u0d85\u0db4\u0dd2 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dca\u0dbd\u0da7 \u0d9c\u0db1\u0dca\u0db1 \u0d95\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1-\u0db1\u0dd0\u0dc0\u0dca-\u0d9c\u0dd0\u0db1-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9c\u0dd0\u0db1-\u0d85\u0db4\u0dd2-\u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dca\u0dbd\u0da7-\u0d9c\u0db1\u0dca\u0db1-\u0d95\u0db1/11-424531",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791281979.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-80a09d99",
+    "num": "dailymirrorlk-80a09d99",
+    "date_str": "2026-10-06",
+    "description": "Cabinet approves digital infrastructure upgrade for e-Court project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-digital-infrastructure-upgrade-for-e-Court-project/108-351906",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791282074.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-6d5fccdb",
+    "num": "adalk-6d5fccdb",
+    "date_str": "2026-10-06",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1 \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0db8\u0dc5 \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2-\u0dc0\u0dd0\u0dc0\u0dda-\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1-\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2-\u0db8\u0dc5-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca/11-424532",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791282319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-adalk-44990d1b",
+    "num": "adalk-44990d1b",
+    "date_str": "2026-10-06",
+    "description": "\u0db8\u0da9\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd9\u0dbd \u0dc0\u0dbd\u0dc0\u0dca\u0dc0 \u0d9a\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0d9a\u0dbb \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0da9\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd9\u0dbd-\u0dc0\u0dbd\u0dc0\u0dca\u0dc0-\u0d9a\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb-\u0d9a\u0dbb-\u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca/11-424534",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791283093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-bfecb395",
+    "num": "dailymirrorlk-bfecb395",
+    "date_str": "2026-10-06",
+    "description": "UK threatens to expel Israeli diplomats",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-threatens-to-expel-Israeli-diplomats/107-351908",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791285706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-ae0a010c",
+    "num": "dailymirrorlk-ae0a010c",
+    "date_str": "2026-10-06",
+    "description": "Abolish private fuel companies if they fail public, union tells Govt",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Abolish-private-fuel-companies-if-they-fail-public-union-tells-Govt/108-351909",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791285855.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-1036ef9d",
+    "num": "dailymirrorlk-1036ef9d",
+    "date_str": "2026-10-06",
+    "description": "No special treatment for Gnanasara thera in prison: Government",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-special-treatment-for-Gnanasara-thera-in-prison-Government/108-351910",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791285952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-06-dailymirrorlk-759e1d02",
+    "num": "dailymirrorlk-759e1d02",
+    "date_str": "2026-10-06",
+    "description": "FCID to seek suspension of use of property linked to Basil Rajapaksa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FCID-to-seek-suspension-of-use-of-property-linked-to-Basil-Rajapaksa/108-351911",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791288176.0
   }
 ]
