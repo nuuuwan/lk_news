@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-06 14:01:57",
-  "n_docs": 132363,
+  "time_updated": "2026-10-06 15:56:55",
+  "n_docs": 132379,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132363,
+  "n_docs_with_text": 132379,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-06",
-  "dataset_size": 2053344087,
+  "dataset_size": 2053666490,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-06-dailymirrorlk-e97f3bfa",
-    "num": "dailymirrorlk-e97f3bfa",
+    "doc_id": "2026-10-06-dailymirrorlk-328562d8",
+    "num": "dailymirrorlk-328562d8",
     "date_str": "2026-10-06",
-    "description": "'Only Mahanayake Theras can remove monk\u2019s robe\u2019: Defence objects to Gnanasara Thera\u2019s prison attire",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Only-Mahanayake-Theras-can-remove-monks-robe-Defence-objects-to-Gnanasara-Theras-prison-attire/108-351894",
+    "description": "Raid uncovers hakka-patas manufacturing site in Galgamuwa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Raid-uncovers-hakka-patas-manufacturing-site-in-Galgamuwa/108-351905",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791274045.0
+    "time_ut": 1791280925.0
   }
 }
