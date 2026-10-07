@@ -71824,6 +71824,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-94ae553b",
+    "num": "adalk-94ae553b",
+    "date_str": "2026-10-07",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2 \u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4\u0da7 \u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2-\u0daf\u0dda\u0dc1\u0db6\u0db1\u0dca\u0daf\u0dd4\u0da7-\u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf-\u0db7\u0dcf\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/11-424550",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791362528.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-da19de23",
     "num": "dailymirrorlk-da19de23",
     "date_str": "2026-10-07",
@@ -71832,6 +71843,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791362585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-38455751",
+    "num": "adalk-38455751",
+    "date_str": "2026-10-07",
+    "description": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3 \u0db1\u0dc0\u0dba \u0dad\u0dd4\u0dc5 211,666 \u0d9a\u0dca \u0dbb\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba-\u0db8\u0dcf\u0dc3-\u0db1\u0dc0\u0dba-\u0dad\u0dd4\u0dc5-211-666-\u0d9a\u0dca-\u0dbb\u0da7-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/11-424551",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791363483.0
   },
   {
     "doc_type": "lk_news",
@@ -71909,5 +71931,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791368000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-4480c86a",
+    "num": "dailymirrorlk-4480c86a",
+    "date_str": "2026-10-07",
+    "description": "What led to Shiranthi Rajapaksa\u2019s arrest?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-led-to-Shiranthi-Rajapaksas-arrest/108-351998",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791368892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-e930ef13",
+    "num": "dailymirrorlk-e930ef13",
+    "date_str": "2026-10-07",
+    "description": "Contempt proceedings against Dilith, Gammanpila, others fixed for October 15",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Contempt-proceedings-against-Dilith-Gammanpila-others-fixed-for-October-15/108-351999",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791369301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-d9912646",
+    "num": "dailymirrorlk-d9912646",
+    "date_str": "2026-10-07",
+    "description": "Asgiri Chapter questions legal basis for removing Gnanasara Thera\u2019s robe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Asgiri-Chapter-questions-legal-basis-for-removing-Gnanasara-Theras-robe/108-352000",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791370506.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-30fa3134",
+    "num": "dailymirrorlk-30fa3134",
+    "date_str": "2026-10-07",
+    "description": "Bakeer Markar attends Iraq Day event",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Bakeer-Markar-attends-Iraq-Day-event/110-352001",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791371689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-5d9ca565",
+    "num": "dailymirrorlk-5d9ca565",
+    "date_str": "2026-10-07",
+    "description": "Government will not be able to engage in politics by suppressing opponents: Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-will-not-be-able-to-engage-in-politics-by-suppressing-opponents-Namal/108-352002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791371893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-147fb194",
+    "num": "dailymirrorlk-147fb194",
+    "date_str": "2026-10-07",
+    "description": "CSE selling deepens as ASPI falls towards 20,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-selling-deepens-as-ASPI-falls-towards-20-500/108-352009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791374953.0
   }
 ]
