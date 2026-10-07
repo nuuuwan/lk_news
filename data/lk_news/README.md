@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_06:24:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_08:11:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,415** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,417** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-07-dailyftlk-45b668d6",
-    "num": "dailyftlk-45b668d6",
+    "doc_id": "2026-10-07-adalk-b88fc994",
+    "num": "adalk-b88fc994",
     "date_str": "2026-10-07",
-    "description": "Namal, Janaki further remanded till 16 Oct.",
-    "url_metadata": "https://www.ft.lk/news/Namal-Janaki-further-remanded-till-16-Oct/56-798336",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1791331338.0
+    "description": "\u0daf\u0dd2\u0da7\u0dca\u0dc0\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dba\u0dc5\u0dd2 \u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0dd2\u0db1 \u0db4\u0dda\u0dbb\u0dda \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7 CDB \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0daf\u0dd2\u0da7\u0dca\u0dc0\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0dba\u0dc5\u0dd2-\u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0dd2\u0db1-\u0db4\u0dda\u0dbb\u0dda-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7-CDB-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-\u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0d9a\u0dca/7-424538",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791336363.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-07 | `adalk-b88fc994` | දිට්වාවෙන් පසු යළි නැගිටින පේරේ සරසවියට CDB වෙතින් අත්වැලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-b88fc994)
 - 2026-10-07 | `dailyftlk-45b668d6` | Namal, Janaki further remanded till 16 Oct. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailyftlk-45b668d6)
 - 2026-10-07 | `dailyftlk-938cdaa6` | Shiranthi Rajapaksa seeks anticipatory bail ahead of return | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailyftlk-938cdaa6)
 - 2026-10-07 | `dailyftlk-041200e3` | Cabinet green lights passenger sea ferry for Delft-Jaffna route under “Prajashakthi” program | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailyftlk-041200e3)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-06 | `dailymirrorlk-26a50727` | Ship sinks and crew missing after Black Sea drone attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-26a50727)
 - 2026-10-06 | `dailymirrorlk-d9a28649` | Fuel shortage returns: Auto Diesel, Petrol 92 in short supply - Union | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-d9a28649)
 - 2026-10-06 | `dailymirrorlk-100051f2` | Sri Lanka imports over 800,000 vehicles worth USD 3.8 Billion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-100051f2)
-- 2026-10-06 | `dailymirrorlk-1eb904f2` | Trincomalee Prison Assistant Superintendent arrested over alleged bribe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-06-dailymirrorlk-1eb904f2)
 
 ---
 

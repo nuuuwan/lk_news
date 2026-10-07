@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-07 06:23:13",
-  "n_docs": 132415,
+  "time_updated": "2026-10-07 08:10:04",
+  "n_docs": 132417,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132415,
+  "n_docs_with_text": 132417,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-07",
-  "dataset_size": 2054036445,
+  "dataset_size": 2054175283,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-07-dailyftlk-45b668d6",
-    "num": "dailyftlk-45b668d6",
+    "doc_id": "2026-10-07-adalk-b88fc994",
+    "num": "adalk-b88fc994",
     "date_str": "2026-10-07",
-    "description": "Namal, Janaki further remanded till 16 Oct.",
-    "url_metadata": "https://www.ft.lk/news/Namal-Janaki-further-remanded-till-16-Oct/56-798336",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1791331338.0
+    "description": "\u0daf\u0dd2\u0da7\u0dca\u0dc0\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dba\u0dc5\u0dd2 \u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0dd2\u0db1 \u0db4\u0dda\u0dbb\u0dda \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7 CDB \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0daf\u0dd2\u0da7\u0dca\u0dc0\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0dba\u0dc5\u0dd2-\u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0dd2\u0db1-\u0db4\u0dda\u0dbb\u0dda-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7-CDB-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-\u0d85\u0dad\u0dca\u0dc0\u0dd0\u0dbd\u0d9a\u0dca/7-424538",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791336363.0
   }
 }
