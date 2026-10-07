@@ -1,0 +1,53 @@
+’Ghost particles’ from space telescope wins physics Nobel
+
+BBC - Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe.
+
+Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos. These carry information about violent, high-energy processes in the cosmos.
+
+The Royal Swedish Academy of Sciences said "his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory".
+
+He first presented his vision for detecting neutrinos at the South Pole in 1988.
+
+Halzen, who is now a US citizen at the University of Wisconsin–Madison, told a news conference that he was surprised his idea worked so well.
+
+"I have to emphasise how lucky I was. Because when we started this project, everybody realised this was maybe a good idea, but very few thought it would work, including myself."
+
+Neutrinos are elusive subatomic particles. The Sun produces vast numbers of them: every second, billions pass harmlessly through an area the size of your fingernail.
+
+But IceCube is searching for much higher-energy neutrinos, those produced by violent processes far beyond our Solar System — in distant galaxies.
+
+It is composed of thousands of sensors on long cables that are drilled and frozen into a 1km cubic block of ice.
+
+Neutrinos can be thought of as astronomical messengers that point to those fundamental events.
+
+At the observatory, most neutrinos pass straight through the ice, but occasionally one interacts with it, producing particles that give off a telltale flash of light.
+
+These rare signals carry clues to where the neutrinos came from and the extreme conditions that produced them — allowing scientists to investigate places that ordinary telescopes cannot easily see.
+
+"Francis Halzen has led an international team of researchers and engineers who have provided us with a fantastic instrument," said Prof Mark Pearce, Chair of the Nobel Committee for Physics.
+
+"His tenacity and scientific vision has paved the way for a new kind of astronomy."
+
+On the rare occasions when a neutrino strikes an atomic nucleus, it produces fast-moving charged particles. It is these racing through the ice, which give off a blue glow, which sensitive light detectors can pick up.
+
+The pattern and timing of that light allow scientists to estimate the direction the neutrino came from — helping them trace its origins in the cosmos. But these interactions are so rare that the observatory needed an enormous volume of clear ice.
+
+Halzen's idea was to use a vast natural ice sheet in Antarctica. So began an audacious plan to build a neutrino observatory at the geographic South Pole, with thousands of light sensors embedded deep in the ice.
+
+The neutrino's ghostly nature, the very thing that makes it so hard to detect, also makes it a powerful messenger from the distant Universe.
+
+Neutrinos rarely interact with material in its way, so they can go right through dense regions that light cannot easily penetrate.
+
+And because they have no electric charge, magnetic fields do not bend their paths through space. That means their direction of arrival can point scientists back towards their source.
+
+Their energies carry further insight into the processes that created them - helping scientists investigate how exploding stars and the environments around giant black holes accelerate particles to extraordinary energies.
+
+Louis Barson, director of science at the Institute of Physics in London, said the IceCube Observatory had enabled astronomers to investigate phenomena that conventional telescopes cannot see.
+
+"The discoveries that have followed are helping us understand some of the most energetic and mysterious processes in the universe - and that's thanks to Professor Halzen's work," he added.
+
+Prof Subir Sarkar, physicist from the University of Oxford, quoted the French novelist Marcel Proust in describing his assessment of Halzen's contribution to science:
+
+"'The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is'.
+
+"Francis Halzen has led the IceCube collaboration on just such a voyage of discovery and opened a new window on to our Universe".

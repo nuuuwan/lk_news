@@ -71395,6 +71395,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-e97db2ab",
+    "num": "adalk-e97db2ab",
+    "date_str": "2026-10-07",
+    "description": "\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 4\u0d9a\u0dd2\u0db1\u0dca \u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca 4\u0d9a\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-4\u0d9a\u0dd2\u0db1\u0dca-\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-4\u0d9a\u0dca-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-424543",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791343446.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-f718f7a3",
     "num": "dailymirrorlk-f718f7a3",
     "date_str": "2026-10-07",
@@ -71788,5 +71799,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791360180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-299da76e",
+    "num": "adalk-299da76e",
+    "date_str": "2026-10-07",
+    "description": "\u0d91\u0db1\u0dca.\u0d91\u0dc3\u0dca.\u0db6\u0dd3. \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db1\u0dca-\u0d91\u0dc3\u0dca-\u0db6\u0dd3--\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424549",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791361720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-a0b589b4",
+    "num": "dailymirrorlk-a0b589b4",
+    "date_str": "2026-10-07",
+    "description": "\u2018Better to shoot Gnanasara Thera dead like Kudapola Thera\u2019: Siridhamma Thera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Better-to-shoot-Gnanasara-Thera-dead-like-Kudapola-Thera-Siridhamma-Thera/108-351989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791362150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-da19de23",
+    "num": "dailymirrorlk-da19de23",
+    "date_str": "2026-10-07",
+    "description": "Former Minister Rohitha Bogollagama arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Minister-Rohitha-Bogollagama-arrested/108-351990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791362585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-7a586ec0",
+    "num": "dailymirrorlk-7a586ec0",
+    "date_str": "2026-10-07",
+    "description": "Economic Census to be conducted in 2026 and 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Economic-Census-to-be-conducted-in-2026-and-2027/108-351991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791363550.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-972f3528",
+    "num": "dailymirrorlk-972f3528",
+    "date_str": "2026-10-07",
+    "description": "Anojan moved to new cell after altercation at Dammam Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anojan-moved-to-new-cell-after-altercation-at-Dammam-Prison/108-351992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791363794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-b9598d83",
+    "num": "dailymirrorlk-b9598d83",
+    "date_str": "2026-10-07",
+    "description": "India\u2019s opposition leader dragged onto bus as police break up protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Indias-opposition-leader-dragged-onto-bus-as-police-break-up-protest/107-351994",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791364211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-4c7716d8",
+    "num": "adalk-4c7716d8",
+    "date_str": "2026-10-07",
+    "description": "\u0dbb\u0ddd\u0dc4\u0dd2\u0dad \u0db6\u0ddd\u0d9c\u0ddc\u0dbd\u0dca\u0dbd\u0dcf\u0d9c\u0db8 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0ddd\u0dc4\u0dd2\u0dad-\u0db6\u0ddd\u0d9c\u0ddc\u0dbd\u0dca\u0dbd\u0dcf\u0d9c\u0db8-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424553",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791365065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-9adcc545",
+    "num": "dailymirrorlk-9adcc545",
+    "date_str": "2026-10-07",
+    "description": "\u201cHow can money paid under an agreement be considered a bribe?\u201d- defense questions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-can-money-paid-under-an-agreement-be-considered-a-bribe-defense-questions/108-351995",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791366863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-d9e62361",
+    "num": "dailymirrorlk-d9e62361",
+    "date_str": "2026-10-07",
+    "description": "Hunnasgiriya eatery closed over unsanitary conditions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hunnasgiriya-eatery-closed-over-unsanitary-conditions/108-351996",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791367555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-6901c02e",
+    "num": "dailymirrorlk-6901c02e",
+    "date_str": "2026-10-07",
+    "description": "\u2019Ghost particles\u2019 from space telescope wins physics Nobel",
+    "url_metadata": "https://www.dailymirror.lk/international/Ghost-particles-from-space-telescope-wins-physics-Nobel/107-351997",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791368000.0
   }
 ]
