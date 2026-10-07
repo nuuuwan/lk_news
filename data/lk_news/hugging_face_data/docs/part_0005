@@ -71879,6 +71879,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-e03bcbaa",
+    "num": "adalk-e03bcbaa",
+    "date_str": "2026-10-07",
+    "description": "\u0d87\u0dad\u0dd0\u0db8\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd9\u0db1\u0dd4\u0dad\u0dca \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0d85\u0dbb\u0d9c\u0dd9\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0dad\u0dd0\u0db8\u0dca-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd9\u0db1\u0dd4\u0dad\u0dca-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0d85\u0dbb\u0d9c\u0dd9\u0db1/11-424552",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791364209.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-b9598d83",
     "num": "dailymirrorlk-b9598d83",
     "date_str": "2026-10-07",
@@ -71945,6 +71956,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-41d25438",
+    "num": "adalk-41d25438",
+    "date_str": "2026-10-07",
+    "description": "2027 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/2027-\u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1-\u0db4\u0db1\u0dad\u0dca-\u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7/11-424555",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791369003.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-e930ef13",
     "num": "dailymirrorlk-e930ef13",
     "date_str": "2026-10-07",
@@ -71997,5 +72019,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791374953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-5110d58a",
+    "num": "dailymirrorlk-5110d58a",
+    "date_str": "2026-10-07",
+    "description": "Shiranthi Rajapaksa remanded, former NSB Chairman granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-remanded-former-NSB-Chairman-granted-bail/108-352011",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791377793.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-f16625a9",
+    "num": "dailymirrorlk-f16625a9",
+    "date_str": "2026-10-07",
+    "description": "Presidential Secretariat to obtain 16 vehicles on lease: MP reveals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidential-Secretariat-to-obtain-16-vehicles-on-lease-MP-reveals/108-352013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791381288.0
   }
 ]
