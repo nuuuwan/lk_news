@@ -1,0 +1,17 @@
+South Asia’s strong growth defies global headwinds
+
+Exceeding earlier projections, growth in South Asia is expected to increase to 6.9 percent this year, with strong domestic demand keeping the region resilient to global shocks, according to the World Bank Group’s twice-yearly regional outlook.
+
+The latest South Asia Economic Update, Adopting AI for Growth, released yesterday said the strong growth is supported by robust domestic demand following strong remittance inflows and recent structural reforms.  The report projects growth to slow to 6.7 percent in 2027 as headwinds mount. Persistently elevated energy prices could push inflation higher and tighten financial conditions, while a severe El Niño episode could affect agricultural output and food security, and a sharp reversal in global artificial intelligence (AI) investment could trigger financial strains.
+
+“South Asia has demonstrated remarkable resilience in a challenging global environment. But the region needs to invest in new drivers of growth to sustain momentum and create more jobs,” said Johannes Zutt, World Bank Vice President for South Asia.
+
+“To seize the opportunity provided by rapidly-growing AI global value chains, countries should invest in the skills, infrastructure, and enabling environment that allow workers and businesses to harness AI’s potential.”
+
+The report explores how the strategic use of AI can build new sources of growth. Adoption of AI in South Asia is rising but it remains well behind that in advanced economies. Around 23 percent of Indian firms report using AI, compared to 43 percent in the United States, and the gap is wider for more sophisticated uses. Despite this gap, AI adoption is accelerating and firms are using AI to find new market opportunities. Analysis of recent data shows that AI is expanding opportunities, through global value chain links, for South Asian suppliers that are heavily exposed to AI.
+
+Another area of significant potential is the use of AI for public service delivery, in sectors such as health, education and agriculture, where skilled personnel are scarce. Governments are increasingly using AI to improve frontline public service functions such as AI-based weather forecasts delivered to smallholder farmers in India and AI-assisted retinal screening in Bangladesh. However, evidence shows that capturing gains from these AI tools requires carefully tailoring them to local conditions, including through small AI applications that run on basic devices and limited connectivity.
+
+“The adoption of AI has the potential to transform South Asia’s development trajectory by boosting labour productivity, expanding export opportunities, and improving public service delivery,” said Franziska Ohnsorge, World Bank Group Chief Economist for Asia. “But to reap these benefits, governments need to address the foundational gaps that hold back adoption.”
+
+The report recommends policy measures to strengthen workforce skills, establish a more business-enabling environment, and improve physical and digital infrastructure, complemented by measures to reduce barriers to AI adoption by small firms, foster local AI innovation, and establish a clear regulatory framework that reduces uncertainty and safeguards data security and privacy.

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_12:07:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_14:04:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,437** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,470** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-07-dailymirrorlk-6fa7a729",
-    "num": "dailymirrorlk-6fa7a729",
+    "doc_id": "2026-10-07-dailymirrorlk-64ef7c80",
+    "num": "dailymirrorlk-64ef7c80",
     "date_str": "2026-10-07",
-    "description": "Rupee weakens against US Dollar",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-against-US-Dollar/108-351972",
+    "description": "Appropriation Account for 2027 presented to Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appropriation-Account-for-2027-presented-to-Parliament/108-351988",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791354125.0
+    "time_ut": 1791360180.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-07 | `dailymirrorlk-64ef7c80` | Appropriation Account for 2027 presented to Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-64ef7c80)
+- 2026-10-07 | `dailymirrorlk-17ae82e4` | India donates anti-TB medicines worth Rs. 52 Mn to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-17ae82e4)
+- 2026-10-07 | `dailymirrorlk-e3ed1a83` | Diplomatic delegation to visit Saudi Arabia after legal process in Anojan Case: Vijitha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-e3ed1a83)
+- 2026-10-07 | `dailymirrorlk-d9ecb356` | Colombo High Court upholds nine-month jail term for Gnanasara Thera over insulting Islam remarks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-d9ecb356)
+- 2026-10-07 | `dailymirrorlk-c157829b` | Former NSB Chairman Pradeep Kariyawasam arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-c157829b)
+- 2026-10-07 | `dailymirrorlk-e674f9b3` | Paramount takes over Warner Bros in $110bn Hollywood merger | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-e674f9b3)
+- 2026-10-07 | `dailymirrorlk-bfa7e022` | US warship USS Tulsa arrives at Colombo Port | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-bfa7e022)
+- 2026-10-07 | `dailymirrorlk-14e5ec86` | Double standards by NGOs could give government greater justification for regulation – Cassilingam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-14e5ec86)
+- 2026-10-07 | `dailymirrorlk-44cc68f3` | Katchatheevu Row: India SC urges fishermen to avoid Sri Lankan waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-44cc68f3)
+- 2026-10-07 | `dailymirrorlk-8ca88a8e` | 65 youths benefit from Dreams Registrations CSR | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-8ca88a8e)
+- 2026-10-07 | `dailymirrorlk-e156f07d` | Publication of certain information on media considered an act of terrorism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-e156f07d)
 - 2026-10-07 | `dailymirrorlk-6fa7a729` | Rupee weakens against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-6fa7a729)
 - 2026-10-07 | `dailymirrorlk-0b21f571` | Govt. to seek legal advice on action to be taken against private fuel suppliers: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-0b21f571)
 - 2026-10-07 | `dailymirrorlk-8a3ee00d` | Sri Lanka MICE Expo 2026 begins in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-8a3ee00d)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-10-07 | `dailymirrorlk-030dd3df` | Rising HIV cases may be linked to FB parties: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-030dd3df)
 - 2026-10-07 | `dailymirrorlk-fdbbd850` | Bank officer remanded for allegedly helping Gnanasara Thera evade arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-fdbbd850)
 - 2026-10-07 | `dailymirrorlk-f5223119` | Government to seek legal advice on action against private fuel companies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-f5223119)
-- 2026-10-07 | `adalk-e926d161` | ශිරන්ති රාජපක්ෂ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-e926d161)
-- 2026-10-07 | `dailymirrorlk-c37991ad` | Gnanasara Thera brought before court again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-c37991ad)
-- 2026-10-07 | `dailymirrorlk-3216e498` | Shiranthi Rajapaksa arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-3216e498)
-- 2026-10-07 | `dailymirrorlk-604e9e52` | Protest planned over removal of Gnanasara Thera’s robes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-604e9e52)
-- 2026-10-07 | `dailymirrorlk-57f9fa2c` | “Indiscipline among players has been recognised as an issue, and we will not tolerate it” – Eran Wickramaratne | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-57f9fa2c)
-- 2026-10-07 | `dailymirrorlk-02f74aa2` | 14 Injured as bus crashes into tree on A09 road | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-02f74aa2)
-- 2026-10-07 | `dailymirrorlk-bd7d6a1d` | Messi bids farewell to Argentina fans in emotional international finale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-bd7d6a1d)
-- 2026-10-07 | `dailymirrorlk-bcb30714` | No fuel shortage, private supply cuts and panic buying trigger queues: CPC Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-bcb30714)
-- 2026-10-07 | `adalk-550f484c` | හොර දොස්තර දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-550f484c)
-- 2026-10-07 | `adalk-e7057d12` | රිජ්වේ රෝහලේ ඖෂධ හා ශල්‍ය ද්‍රව්‍ය හිඟයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-e7057d12)
-- 2026-10-07 | `adalk-cca0b5d2` | නාමල්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-cca0b5d2)
 
 ---
 
