@@ -72107,5 +72107,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791391501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-840de7c5",
+    "num": "dailyftlk-840de7c5",
+    "date_str": "2026-10-08",
+    "description": "Govt. rejects Accord-13A-PCs, FSP-PSA launches resistance, AKD attempts black Bill",
+    "url_metadata": "https://www.ft.lk/columns/Govt-rejects-Accord-13A-PCs-FSP-PSA-launches-resistance-AKD-attempts-black-Bill/4-798357",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791409050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-eabd0561",
+    "num": "dailyftlk-eabd0561",
+    "date_str": "2026-10-08",
+    "description": "Ghost of Gnanasara haunts our republic",
+    "url_metadata": "https://www.ft.lk/columns/Ghost-of-Gnanasara-haunts-our-republic/4-798359",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791410080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-efe7f19b",
+    "num": "dailyftlk-efe7f19b",
+    "date_str": "2026-10-08",
+    "description": "Beyond access to information: How Sri Lanka\u2019s RTI Commission became an access-to-justice forum",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-access-to-information-How-Sri-Lanka-s-RTI-Commission-became-an-access-to-justice-forum/4-798360",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791410289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-104f6f58",
+    "num": "dailyftlk-104f6f58",
+    "date_str": "2026-10-08",
+    "description": "Hong Kong retains leading position as world\u2019s freest economy",
+    "url_metadata": "https://www.ft.lk/opinion/Hong-Kong-retains-leading-position-as-world-s-freest-economy/14-798361",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791410486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-823cc2a0",
+    "num": "dailyftlk-823cc2a0",
+    "date_str": "2026-10-08",
+    "description": "Redesigning Sri Lanka\u2019s tax incentives for the Pillar Two era",
+    "url_metadata": "https://www.ft.lk/columns/Redesigning-Sri-Lanka-s-tax-incentives-for-the-Pillar-Two-era/4-798362",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791410941.0
   }
 ]

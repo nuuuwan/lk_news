@@ -1,0 +1,59 @@
+Redesigning Sri Lanka’s tax incentives for the Pillar Two era
+
+For decades, Sri Lanka has competed for foreign investment with tax holidays and concessionary rates. The logic was simple: tax less, and the investor will come. That logic has been overtaken by the OECD/G20 BEPS Pillar Two framework, under which large multinational groups must bear an effective tax rate of at least 15% in every jurisdiction where they operate. If we do not redesign our incentives, we risk surrendering revenue that rightfully belongs to Sri Lanka to other treasuries, while still failing to win the large investors we are trying to attract
+
+For decades, Sri Lanka has competed for foreign investment with tax holidays and concessionary rates. The logic was simple: tax less, and the investor will come. That logic has been overtaken by the OECD/G20 BEPS Pillar Two framework, under which large multinational groups must bear an effective tax rate of at least 15% in every jurisdiction where they operate. If we do not redesign our incentives, we risk surrendering revenue that rightfully belongs to Sri Lanka to other treasuries, while still failing to win the large investors we are trying to attract.
+
+Pillar Two is implemented through the Global Anti-Base Erosion (GloBE) rules, which apply to multinational groups with consolidated revenue of at least EUR 750 million. The rules test the jurisdictional effective tax rate (ETR), calculated by comparing covered taxes with GloBE income in each jurisdiction. Where the ETR falls below 15%, a top-up tax is imposed to bring it up to the minimum. A country can collect this top-up tax first through a Qualified Domestic Minimum Top-up Tax (QDMTT), which keeps the revenue at home and, where it qualifies, eliminates the top-up tax liability under the GloBE rules. If the tax is not collected domestically, the Income Inclusion Rule (IIR) allows the parent jurisdiction to collect it, starting at the ultimate parent entity and working down the ownership chain. The Undertaxed Profits Rule (UTPR) then acts as a final backstop.
+
+The implication for incentives is direct. A tax holiday or concessionary rate lowers covered taxes and pushes the investor’s ETR below 15%. If Sri Lanka does not collect the resulting top-up tax itself, the group’s home country can do so through the IIR or the UTPR. Sri Lanka collects nothing, the investor gains nothing extra, and a foreign treasury is the only winner.
+
+Sri Lanka has not committed to implementing the GloBE rules, but that does not shield us. In-scope groups are captured anyway, through the rules of other jurisdictions.
+
+Recent reforms are encouraging. The Strategic Development Projects (Amendment) Bill proposes limiting tax holidays to ten years, down from 25, and requiring a Finance Ministry cost-benefit analysis before concessions are granted, followed by Board of Investment (BOI) performance monitoring. Further to the Budget 2026 and the recent amendment to the Inland Revenue Act the minimum investment threshold for enhance capital allowance was reduced from $ 3 million to $ 250,000 to support SMEs. In September 2026, the IMF urged Sri Lanka to replace discretionary tax holidays with a stable, transparent and competitive tax environment.
+
+These measures improve governance, but none answers the harder question: which incentives still work for in-scope multinationals? The stakes are high.
+
+According to World Bank data (net FDI inflows, Balance of Payments basis), Sri Lanka’s net FDI inflows in 2023 were about $ 713 million, against $ 18.5 billion for Vietnam. We cannot afford incentives that look generous on paper but deliver no benefit to the investor or to the Treasury.
+
+According to World Bank data (net FDI inflows, Balance of Payments basis), Sri Lanka’s net FDI inflows in 2023 were about $ 713 million, against $ 18.5 billion for Vietnam. We cannot afford incentives that look generous on paper but deliver no benefit to the investor or to the Treasury
+
+1.Substance matters. BEPS Action 5 on harmful tax practices requires preferential regimes to be backed by real economic activity.
+
+2.Not all incentives are equal under Pillar Two. Income-based incentives, such as holidays and concessionary rates, reduce covered taxes and hurt the ETR most. Accelerated depreciation usually has little or no downward impact. Expenditure- and production-based incentives are treated more favorably, up to a cap linked to payroll and tangible assets in the country. This treatment was formalised by the Substance-based Tax Incentive (SBTI) Safe Harbour, agreed by the OECD Inclusive Framework in January 2026 and applicable from 2026.The SBTI Safe Harbour is distinct from the Substance-Based Income Exclusion (SBIE), a long-standing carve-out of a return on payroll and tangible assets from the profits on which top-up tax is calculated. The SBIE reduces the top-up tax payable on genuinely substantive profits, while the safe harbour determines how an incentive affects the ETR in the first place. Both reward real presence rather than a paper footprint.
+
+3.Refundability helps. A Qualified Refundable Tax Credit, paid in cash or a cash equivalent within four years, is treated as income rather than a reduction in tax. It therefore has a far smaller effect on the ETR than a holiday.
+
+A two-track framework, reinforced by a revenue backstop and robust governance, may be appropriate:
+
+Track 1 – domestic companies and smaller groups. Retain time-bound holidays and reduced rates, which Pillar Two does not reach.
+
+Track 2 – in-scope multinationals. Replace income-based incentives with qualified refundable credits, enhanced capital allowances, and payroll- or capex-linked credits.
+
+Revenue backstop. Consider a QDMTT, subject to a cost-benefit analysis.
+
+Substance conditions. Link benefits to local employment, tangible investment and R&D spend.
+
+Governance. Ex-ante cost-benefit analysis, ex-post reviews, sunset clauses and public tax expenditure reporting.
+
+The QDMTT deserves serious attention. It lets Sri Lanka collect the top-up tax on in-scope profits itself instead of ceding it. Its importance has grown since the OECD’s January 2026 Side-by-Side package, which exempts US-parented groups from the IIR and UTPR but not from domestic top-up taxes. For those groups, a QDMTT may be the only route to collecting top-up tax.
+
+Singapore has committed to a QDMTT and relies on real functions and targeted incentives.
+
+Vietnam offers a close comparator. It legislated QDMTT and IIR through Resolution 107/2023/QH15, effective from 1 January 2024, and issued Decree 236/2025 in August 2025 with detailed rules. Hanoi is now pairing the minimum tax with alternative support for strategic investors. The common thread is that incentives are increasingly tied to manufacturing scale, employment, technology transfer and genuine local value addition, rather than to the mere presence of a holding company.
+
+In September 2026, the IMF urged Sri Lanka to replace discretionary tax holidays with a stable, transparent and competitive tax environment. These measures improve governance, but none answers the harder question: which incentives still work for in-scope multinationals? The stakes are high
+
+Sri Lanka does not need to abandon incentives. It needs to make them work in a world where a headline tax holiday can quietly transfer revenue abroad. A dual-track framework that rewards genuine substance, uses refundable and expenditure-based tools for multinationals, and protects the domestic tax base through a considered QDMTT would put us ahead of the curve. The longer we wait, the more revenue we hand to other treasuries and the more ground we lose in the race for foreign direct investment
+
+1.Own the policy at the right level. Incentive design is a policy matter for the Ministry of Finance. The Inland Revenue Department administers the law but has no policy mandate to redesign it.
+
+2.Deal with the legacy. Existing holidays for in-scope groups should be reviewed and, where possible, renegotiated or converted into Pillar Two-compliant benefits, before investors look to regional competitors.
+
+3.Build on the data. The Tax Expenditure Statement 2024/2025, issued under the Public Financial Management Act, gives us a baseline to measure what current incentives cost and what they deliver.
+
+Sri Lanka does not need to abandon incentives. It needs to make them work in a world where a headline tax holiday can quietly transfer revenue abroad. A dual-track framework that rewards genuine substance, uses refundable and expenditure-based tools for multinationals, and protects the domestic tax base through a considered QDMTT would put us ahead of the curve.
+
+The longer we wait, the more revenue we hand to other treasuries and the more ground we lose in the race for foreign direct investment.
+
+(The views and opinions expressed in this article are those of the author in her personal capacity)
