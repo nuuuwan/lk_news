@@ -71040,5 +71040,148 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791314479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-6411a19f",
+    "num": "dailyftlk-6411a19f",
+    "date_str": "2026-10-07",
+    "description": "The turn of the Compass",
+    "url_metadata": "https://www.ft.lk/columns/The-turn-of-the-Compass/4-798310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791326095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-d0227832",
+    "num": "dailyftlk-d0227832",
+    "date_str": "2026-10-07",
+    "description": "RCSS Report calls for stronger integration of technology into Sri Lanka\u2019s maritime security framework",
+    "url_metadata": "https://www.ft.lk/opinion/RCSS-Report-calls-for-stronger-integration-of-technology-into-Sri-Lanka-s-maritime-security-framework/14-798312",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791327162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-91bc531b",
+    "num": "dailyftlk-91bc531b",
+    "date_str": "2026-10-07",
+    "description": "Sri Lanka\u2019s Counterterrorism Bill retains abusive powers",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-Counterterrorism-Bill-retains-abusive-powers/14-798313",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791327627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-70c78382",
+    "num": "dailyftlk-70c78382",
+    "date_str": "2026-10-07",
+    "description": "Mercedes-Benz Fashion Week Sri Lanka kicks off today",
+    "url_metadata": "https://www.ft.lk/business/Mercedes-Benz-Fashion-Week-Sri-Lanka-kicks-off-today/34-798327",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-ed29dfe5",
+    "num": "dailyftlk-ed29dfe5",
+    "date_str": "2026-10-07",
+    "description": "Sri Lanka\u2019s homegrown delivery platform \u2018Ting\u2019 unveils multi-vendor ordering and built-in bill splitting",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-homegrown-delivery-platform-Ting-unveils-multi-vendor-ordering-and-built-in-bill-splitting/34-798328",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-c2eb7512",
+    "num": "dailyftlk-c2eb7512",
+    "date_str": "2026-10-07",
+    "description": "Cabinet clears Rs. 511.78 m contract for wastewater network at Batticaloa textile investment zone",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-clears-Rs-511-78-m-contract-for-wastewater-network-at-Batticaloa-textile-investment-zone/34-798329",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-5fba75ed",
+    "num": "dailyftlk-5fba75ed",
+    "date_str": "2026-10-07",
+    "description": "NCEL and COOPFED sign MoU for supply of essential food commodities",
+    "url_metadata": "https://www.ft.lk/business/NCEL-and-COOPFED-sign-MoU-for-supply-of-essential-food-commodities/34-798330",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330655.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-38334583",
+    "num": "dailyftlk-38334583",
+    "date_str": "2026-10-07",
+    "description": "EDB directs Trinco SMEs towards export markets",
+    "url_metadata": "https://www.ft.lk/business/EDB-directs-Trinco-SMEs-towards-export-markets/34-798331",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-8306b9a9",
+    "num": "dailyftlk-8306b9a9",
+    "date_str": "2026-10-07",
+    "description": "Cabinet approves Rs. 30,000 fertiliser subsidy for 2026/27 Maha season",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-30-000-fertiliser-subsidy-for-2026-27-Maha-season/56-798332",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-dfbda890",
+    "num": "dailyftlk-dfbda890",
+    "date_str": "2026-10-07",
+    "description": "Cabinet approves 1,050 official email accounts for 350 Courts under \u2018e-Court\u2019 digitisation drive",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-1-050-official-email-accounts-for-350-Courts-under-e-Court-digitisation-drive/56-798333",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791330944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-041200e3",
+    "num": "dailyftlk-041200e3",
+    "date_str": "2026-10-07",
+    "description": "Cabinet green lights passenger sea ferry for Delft-Jaffna route under \u201cPrajashakthi\u201d program",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-green-lights-passenger-sea-ferry-for-Delft-Jaffna-route-under-Prajashakthi-program/56-798334",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791331026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-938cdaa6",
+    "num": "dailyftlk-938cdaa6",
+    "date_str": "2026-10-07",
+    "description": "Shiranthi Rajapaksa seeks anticipatory bail ahead of return",
+    "url_metadata": "https://www.ft.lk/news/Shiranthi-Rajapaksa-seeks-anticipatory-bail-ahead-of-return/56-798335",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791331138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailyftlk-45b668d6",
+    "num": "dailyftlk-45b668d6",
+    "date_str": "2026-10-07",
+    "description": "Namal, Janaki further remanded till 16 Oct.",
+    "url_metadata": "https://www.ft.lk/news/Namal-Janaki-further-remanded-till-16-Oct/56-798336",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791331338.0
   }
 ]
