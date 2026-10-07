@@ -71923,6 +71923,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-c9156eaa",
+    "num": "adalk-c9156eaa",
+    "date_str": "2026-10-07",
+    "description": "\u0da2\u0d9c\u0dd4\u0dc0\u0dbb\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0dd2\u0dba \u0db1\u0dc0\u0dd3\u0db1\u0dad\u0db8 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0d91\u0dc5\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0d9c\u0dd4\u0dc0\u0dbb\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8-\u0dc3\u0dd2\u0dba-\u0db1\u0dc0\u0dd3\u0db1\u0dad\u0db8-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba-\u0d91\u0dc5\u0dd2-\u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2/11-424554",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791367201.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-d9e62361",
     "num": "dailymirrorlk-d9e62361",
     "date_str": "2026-10-07",
@@ -71975,6 +71986,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791369301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-8aed63a2",
+    "num": "adalk-8aed63a2",
+    "date_str": "2026-10-07",
+    "description": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0dd2\u0dbd \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db1\u0dd2\u0dbd-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba\u0d9a\u0dca/11-424556",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791370140.0
   },
   {
     "doc_type": "lk_news",
@@ -72041,5 +72063,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791381288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-6f691044",
+    "num": "dailymirrorlk-6f691044",
+    "date_str": "2026-10-07",
+    "description": "Even President must wear prison uniform for sentences over three years: Spokesman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Even-President-must-wear-prison-uniform-for-sentences-over-three-years-Spokesman/108-352014",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791385766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-feafd075",
+    "num": "dailymirrorlk-feafd075",
+    "date_str": "2026-10-07",
+    "description": "\u2019Siriliya Saviya\u2019 funds still in account, no corruption involved: Defense counsel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Siriliya-Saviya-funds-still-in-account-no-corruption-involved-Defense-counsel/108-352015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791387830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-21f222b6",
+    "num": "adalk-21f222b6",
+    "date_str": "2026-10-07",
+    "description": "\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2 \u0dc0\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db8\u0dc4\u0db1\u0dcf\u0dba\u0d9a  \u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0daf\u0dd0\u0da9\u0dd2 \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0da7-\u0d9c\u0dd2\u0dc4\u0dd2-\u0dc0\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb-\u0dbd\u0db6\u0dcf-\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db8\u0dc4\u0db1\u0dcf\u0dba\u0d9a--\u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0daf\u0dd0\u0da9\u0dd2-\u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd/11-424557",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791388891.0
   }
 ]
