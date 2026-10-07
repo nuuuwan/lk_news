@@ -71230,6 +71230,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-550f484c",
+    "num": "adalk-550f484c",
+    "date_str": "2026-10-07",
+    "description": "\u0dc4\u0ddc\u0dbb \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddc\u0dbb-\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424542",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791341984.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-bcb30714",
     "num": "dailymirrorlk-bcb30714",
     "date_str": "2026-10-07",
@@ -71282,5 +71293,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791346054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-3216e498",
+    "num": "dailymirrorlk-3216e498",
+    "date_str": "2026-10-07",
+    "description": "Shiranthi Rajapaksa arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-arrested/108-351951",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791347316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-c37991ad",
+    "num": "dailymirrorlk-c37991ad",
+    "date_str": "2026-10-07",
+    "description": "Gnanasara Thera brought before court again",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-brought-before-court-again/108-351952",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791348890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-e926d161",
+    "num": "adalk-e926d161",
+    "date_str": "2026-10-07",
+    "description": "\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424548",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791349248.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-f5223119",
+    "num": "dailymirrorlk-f5223119",
+    "date_str": "2026-10-07",
+    "description": "Government to seek legal advice on action against private fuel companies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-to-seek-legal-advice-on-action-against-private-fuel-companies/108-351953",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791350334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-fdbbd850",
+    "num": "dailymirrorlk-fdbbd850",
+    "date_str": "2026-10-07",
+    "description": "Bank officer remanded for allegedly helping Gnanasara Thera evade arrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bank-officer-remanded-for-allegedly-helping-Gnanasara-Thera-evade-arrest/108-351955",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791352153.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-030dd3df",
+    "num": "dailymirrorlk-030dd3df",
+    "date_str": "2026-10-07",
+    "description": "Rising HIV cases may be linked to FB parties: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rising-HIV-cases-may-be-linked-to-FB-parties-Minister/108-351957",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791352479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-166e5df7",
+    "num": "dailymirrorlk-166e5df7",
+    "date_str": "2026-10-07",
+    "description": "Tobacco industry stands to lose from proposed tobacco-free generation \u2013 Dr. Bandara",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tobacco-industry-stands-to-lose-from-proposed-tobacco-free-generation-Dr-Bandara/108-351959",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791352640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-b7dd522a",
+    "num": "dailymirrorlk-b7dd522a",
+    "date_str": "2026-10-07",
+    "description": "Kenya confirms its first Ebola death as outbreak spreads",
+    "url_metadata": "https://www.dailymirror.lk/international/Kenya-confirms-its-first-Ebola-death-as-outbreak-spreads/107-351962",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791352808.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-b01fbf43",
+    "num": "dailymirrorlk-b01fbf43",
+    "date_str": "2026-10-07",
+    "description": "Two accused in Wanathavilluwa explosives case sentenced to 10 years\u2019 rigorous imprisonment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-accused-in-Wanathavilluwa-explosives-case-sentenced-to-10-years-rigorous-imprisonment/108-351964",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791352913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-8a3ee00d",
+    "num": "dailymirrorlk-8a3ee00d",
+    "date_str": "2026-10-07",
+    "description": "Sri Lanka MICE Expo 2026 begins in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-MICE-Expo-2026-begins-in-Colombo/110-351970",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791353830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-0b21f571",
+    "num": "dailymirrorlk-0b21f571",
+    "date_str": "2026-10-07",
+    "description": "Govt. to seek legal advice on action to be taken against private fuel suppliers: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-seek-legal-advice-on-action-to-be-taken-against-private-fuel-suppliers-Minister/108-351971",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791353973.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-07-dailymirrorlk-6fa7a729",
+    "num": "dailymirrorlk-6fa7a729",
+    "date_str": "2026-10-07",
+    "description": "Rupee weakens against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-against-US-Dollar/108-351972",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791354125.0
   }
 ]
