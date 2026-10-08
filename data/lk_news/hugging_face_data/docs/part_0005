@@ -73012,6 +73012,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-bc6e9eae",
+    "num": "adalk-bc6e9eae",
+    "date_str": "2026-10-08",
+    "description": "\u0d91\u0db1\u0dca\u0da9\u0dd3\u0db6\u0dd3 \u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0da9\u0dd4\u0dc0 \u0dbb\u0dd4.\u0db6\u0dd2. 13.6",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0db1\u0dca\u0da9\u0dd3\u0db6\u0dd3-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda-\u0db4\u0dcf\u0da9\u0dd4\u0dc0-\u0dbb\u0dd4-\u0db6\u0dd2--13-6/11-424570",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791452752.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-08-dailymirrorlk-d151f028",
     "num": "dailymirrorlk-d151f028",
     "date_str": "2026-10-08",
@@ -73152,5 +73163,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791462196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-f56fe459",
+    "num": "dailymirrorlk-f56fe459",
+    "date_str": "2026-10-08",
+    "description": "President rejects bypassing prison laws at Maha Sangha meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-rejects-bypassing-prison-laws-at-Maha-Sangha-meeting/108-352104",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791462943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-058ddc6b",
+    "num": "adalk-058ddc6b",
+    "date_str": "2026-10-08",
+    "description": "\u0dc4\u0dd2\u0db8\u0dd2\u0db1\u0db8\u0d9a\u0dca \u0daf\u0dd0\u0db8\u0dd6 \u0d9a\u0dbd\u0dd4 \u0d9a\u0ddc\u0da9\u0dd2 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0d9c\u0dbd\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0db8\u0dd2\u0db1\u0db8\u0d9a\u0dca-\u0daf\u0dd0\u0db8\u0dd6-\u0d9a\u0dbd\u0dd4-\u0d9a\u0ddc\u0da9\u0dd2-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba-\u0d9c\u0dbd\u0dc0\u0dba\u0dd2/11-424571",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791463572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-ca94c53b",
+    "num": "adalk-ca94c53b",
+    "date_str": "2026-10-08",
+    "description": "\u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d9a\u0dd4\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0db1\u0dca\u0da9\u0dd2\u0dc3\u0dca\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba-\u0d9a\u0dd4\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0db1\u0dca\u0da9\u0dd2\u0dc3\u0dca\u0da7/9-424572",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791464222.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-e03c9940",
+    "num": "dailymirrorlk-e03c9940",
+    "date_str": "2026-10-08",
+    "description": "Lithuania, Sri Lanka sign MoU to mark 30 years of diplomatic relations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lithuania-Sri-Lanka-sign-MoU-to-mark-30-years-of-diplomatic-relations/108-352105",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791464412.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-142a0611",
+    "num": "dailymirrorlk-142a0611",
+    "date_str": "2026-10-08",
+    "description": "FR petition seeks court order to allow Gnanasara Thera to wear robes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FR-petition-seeks-court-order-to-allow-Gnanasara-Thera-to-wear-robes/108-352106",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791464630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-ec411a27",
+    "num": "dailymirrorlk-ec411a27",
+    "date_str": "2026-10-08",
+    "description": "Canadian poet Anne Carson wins 2026 Nobel Prize in Literature",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Canadian-poet-Anne-Carson-wins-2026-Nobel-Prize-in-Literature/108-352107",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791464845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-2553bf32",
+    "num": "adalk-2553bf32",
+    "date_str": "2026-10-08",
+    "description": "\u0daf\u0dd6\u0dc2\u0dab \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0db4\u0db1\u0dad \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd6\u0dc2\u0dab-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3-\u0db4\u0db1\u0dad-\u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2/11-424573",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791465630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-4a6414f5",
+    "num": "dailymirrorlk-4a6414f5",
+    "date_str": "2026-10-08",
+    "description": "Naotunne Vijitha, monk who preyed on girls at Melbourne temple, sentenced to 13 years\u2019 jail",
+    "url_metadata": "https://www.dailymirror.lk/international/Naotunne-Vijitha-monk-who-preyed-on-girls-at-Melbourne-temple-sentenced-to-13-years-jail/107-352108",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791466558.0
   }
 ]
