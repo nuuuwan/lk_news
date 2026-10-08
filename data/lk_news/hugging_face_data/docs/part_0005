@@ -73031,5 +73031,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791453079.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-ffb00063",
+    "num": "dailymirrorlk-ffb00063",
+    "date_str": "2026-10-08",
+    "description": "Fisheries Minister welcomes Indian SC remarks on Tamil Nadu fishermen",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fisheries-Minister-welcomes-Indian-SC-remarks-on-Tamil-Nadu-fishermen/108-352091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791455274.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-437e9ee1",
+    "num": "dailymirrorlk-437e9ee1",
+    "date_str": "2026-10-08",
+    "description": "Can an ill-prepared plan ever deliver results?",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Can-an-ill-prepared-plan-ever-deliver-results/110-352092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791455678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-f40775b2",
+    "num": "dailymirrorlk-f40775b2",
+    "date_str": "2026-10-08",
+    "description": "Christa Pike now walking after failed US execution",
+    "url_metadata": "https://www.dailymirror.lk/international/Christa-Pike-now-walking-after-failed-US-execution/107-352094",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791456542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-19955975",
+    "num": "dailymirrorlk-19955975",
+    "date_str": "2026-10-08",
+    "description": "Sri Lankan Students Make Their Mark at Asia Pacific Robot Olympiad in Hyderabad",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Students-Make-Their-Mark-at-Asia-Pacific-Robot-Olympiad-in-Hyderabad/108-352095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791456831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-24f8d027",
+    "num": "dailymirrorlk-24f8d027",
+    "date_str": "2026-10-08",
+    "description": "MasterChef Sri Lanka takes its culinary journey to the Maldives",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MasterChef-Sri-Lanka-takes-its-culinary-journey-to-the-Maldives/108-352096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791457864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-d21d192b",
+    "num": "dailymirrorlk-d21d192b",
+    "date_str": "2026-10-08",
+    "description": "NIMH raises awareness on screen addiction among youth",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NIMH-raises-awareness-on-screen-addiction-among-youth/108-352098",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791459405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-f7f2a88b",
+    "num": "dailymirrorlk-f7f2a88b",
+    "date_str": "2026-10-08",
+    "description": "New motorcycle registration to begin at five district offices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-motorcycle-registration-to-begin-at-five-district-offices/108-352099",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791459633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-4edd092b",
+    "num": "dailymirrorlk-4edd092b",
+    "date_str": "2026-10-08",
+    "description": "NIMH raises awareness on mental health among prison, health staff",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NIMH-raises-awareness-on-mental-health-among-prison-health-staff/108-352100",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791459712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-3fe05483",
+    "num": "dailymirrorlk-3fe05483",
+    "date_str": "2026-10-08",
+    "description": "\u2018Not political revenge\u2019: Bimal tables 50 corruption, fraud and criminal cases in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Not-political-revenge-Bimal-tables-50-corruption-fraud-and-criminal-cases-in-Parliament/108-352101",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791460615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-412bb161",
+    "num": "dailymirrorlk-412bb161",
+    "date_str": "2026-10-08",
+    "description": "16 former ministers convicted in bribery cases since NPP came to power: Watagala",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/16-former-ministers-convicted-in-bribery-cases-since-NPP-came-to-power-Watagala/108-352102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791461119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-5cc8c82b",
+    "num": "dailymirrorlk-5cc8c82b",
+    "date_str": "2026-10-08",
+    "description": "Anti-Corruption Amendment Bill approved by Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anti-Corruption-Amendment-Bill-approved-by-Parliament/108-352103",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791462196.0
   }
 ]

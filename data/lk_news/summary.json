@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-08 15:56:00",
-  "n_docs": 132583,
+  "time_updated": "2026-10-08 18:05:40",
+  "n_docs": 132594,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132583,
+  "n_docs_with_text": 132594,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-08",
-  "dataset_size": 2056116999,
+  "dataset_size": 2056226737,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailymirrorlk-4a9da957",
-    "num": "dailymirrorlk-4a9da957",
+    "doc_id": "2026-10-08-dailymirrorlk-5cc8c82b",
+    "num": "dailymirrorlk-5cc8c82b",
     "date_str": "2026-10-08",
-    "description": "Kusal Mendis appointed Sri Lanka Test captain",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kusal-Mendis-appointed-Sri-Lanka-Test-captain/108-352090",
+    "description": "Anti-Corruption Amendment Bill approved by Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anti-Corruption-Amendment-Bill-approved-by-Parliament/108-352103",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791453079.0
+    "time_ut": 1791462196.0
   }
 }
