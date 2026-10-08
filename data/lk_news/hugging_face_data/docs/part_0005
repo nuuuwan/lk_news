@@ -73251,5 +73251,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791466558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-bbd7998c",
+    "num": "dailymirrorlk-bbd7998c",
+    "date_str": "2026-10-08",
+    "description": "Army Commander pays tribute to War Heroes",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-Commander-pays-tribute-to-War-Heroes/110-352109",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791471203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-33573e6f",
+    "num": "dailymirrorlk-33573e6f",
+    "date_str": "2026-10-08",
+    "description": "Govt. aims to reduce VAT within next 2-3 years: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-aims-to-reduce-VAT-within-next-2-3-years-President/108-352110",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791473080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-7080ede8",
+    "num": "dailymirrorlk-7080ede8",
+    "date_str": "2026-10-08",
+    "description": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
+    "url_metadata": "https://www.dailymirror.lk/international/Attack-risks-rise-for-tankers-as-Iran-vows-to-block-more-Hormuz-routes/107-352112",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791474855.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_19:58:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_22:02:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,603** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,606** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailymirrorlk-4a6414f5",
-    "num": "dailymirrorlk-4a6414f5",
+    "doc_id": "2026-10-08-dailymirrorlk-7080ede8",
+    "num": "dailymirrorlk-7080ede8",
     "date_str": "2026-10-08",
-    "description": "Naotunne Vijitha, monk who preyed on girls at Melbourne temple, sentenced to 13 years\u2019 jail",
-    "url_metadata": "https://www.dailymirror.lk/international/Naotunne-Vijitha-monk-who-preyed-on-girls-at-Melbourne-temple-sentenced-to-13-years-jail/107-352108",
+    "description": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
+    "url_metadata": "https://www.dailymirror.lk/international/Attack-risks-rise-for-tankers-as-Iran-vows-to-block-more-Hormuz-routes/107-352112",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791466558.0
+    "time_ut": 1791474855.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-08 | `dailymirrorlk-7080ede8` | Attack risks rise for tankers as Iran vows to block more Hormuz routes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-7080ede8)
+- 2026-10-08 | `dailymirrorlk-33573e6f` | Govt. aims to reduce VAT within next 2-3 years: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-33573e6f)
+- 2026-10-08 | `dailymirrorlk-bbd7998c` | Army Commander pays tribute to War Heroes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-bbd7998c)
 - 2026-10-08 | `dailymirrorlk-4a6414f5` | Naotunne Vijitha, monk who preyed on girls at Melbourne temple, sentenced to 13 years’ jail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-4a6414f5)
 - 2026-10-08 | `adalk-2553bf32` | දූෂණ විරෝධී පනත සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-adalk-2553bf32)
 - 2026-10-08 | `dailymirrorlk-ec411a27` | Canadian poet Anne Carson wins 2026 Nobel Prize in Literature | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-ec411a27)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-08 | `dailymirrorlk-24f8d027` | MasterChef Sri Lanka takes its culinary journey to the Maldives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-24f8d027)
 - 2026-10-08 | `dailymirrorlk-19955975` | Sri Lankan Students Make Their Mark at Asia Pacific Robot Olympiad in Hyderabad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-19955975)
 - 2026-10-08 | `dailymirrorlk-f40775b2` | Christa Pike now walking after failed US execution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-f40775b2)
-- 2026-10-08 | `dailymirrorlk-437e9ee1` | Can an ill-prepared plan ever deliver results? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-437e9ee1)
-- 2026-10-08 | `dailymirrorlk-ffb00063` | Fisheries Minister welcomes Indian SC remarks on Tamil Nadu fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-ffb00063)
-- 2026-10-08 | `dailymirrorlk-4a9da957` | Kusal Mendis appointed Sri Lanka Test captain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-4a9da957)
 
 ---
 
