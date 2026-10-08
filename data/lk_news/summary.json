@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-08 12:07:14",
-  "n_docs": 132537,
+  "time_updated": "2026-10-08 14:03:49",
+  "n_docs": 132571,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132537,
+  "n_docs_with_text": 132571,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-08",
-  "dataset_size": 2055522567,
+  "dataset_size": 2055762796,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailymirrorlk-e3a33b53",
-    "num": "dailymirrorlk-e3a33b53",
+    "doc_id": "2026-10-08-dailymirrorlk-869c1fa5",
+    "num": "dailymirrorlk-869c1fa5",
     "date_str": "2026-10-08",
-    "description": "Sri Lankan Bhikkhu Association in Europe seeks permission for jailed monks to wear robes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Bhikkhu-Association-in-Europe-seeks-permission-for-jailed-monks-to-wear-robes/108-352052",
+    "description": "UN weather body says El Ni\u00f1o set to intensify and last until February 2027",
+    "url_metadata": "https://www.dailymirror.lk/international/UN-weather-body-says-El-Ni\u00f1o-set-to-intensify-and-last-until-February-2027/107-352081",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791440815.0
+    "time_ut": 1791447568.0
   }
 }

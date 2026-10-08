@@ -1,0 +1,13 @@
+Sampath Bank-Bancstac enable Google Pay acceptance for merchants
+
+Sampath Bank now enables the businesses to accept Google Pay over the Sampath Bank Internet Payment Gateway (IPG), powered by Bancstac.
+
+This innovation allows the merchants to seamlessly offer Google Pay as a payment method, providing the customers with a secure and frictionless biometric checkout experience using the Android devices.
+
+An immediate revenue driver for merchants: The participating merchants can now offer Google Pay across e-commerce platforms, mobile apps and digital invoices. By offering one of the world’s most popular digital wallets, the merchants gain a powerful tool to accept payments from over 250 million wallet users across 85 countries. Crucially, this capability requires zero technical integration or development for businesses already utilising or onboarding onto the Sampath Bank IPG.
+
+How Google Pay checkout works: When a customer selects Google Pay on a merchant’s payment page, the IPG facilitates a secure transaction using tokenisation, ensuring that the sensitive card details are never exposed or shared. The cardholders are authenticated via robust security protocols, including biometric verification and device passcodes. Upon successful verification, the transaction is processed in real-time by Bancstac and financial reconciliation is handled automatically within the standard Sampath Bank settlement process, maintaining accounting simplicity for the merchant.
+
+Sampath Bank Card Centre Head Chirath Samarasekara said, “At Sampath Bank, we continually adopt new technologies that drive higher customer engagement and add tangible value to our payment ecosystem. We are proud to extend our strategic partnership with Bancstac to deliver the Google Pay capabilities to our extensive merchant base. This solution provides our business partners with an effortless tool to grow their business to more customers and countries whilst offering the convenience and security of Google Pay.”
+
+Bancstac CEO Evan Lau said, “By enabling Google Pay, we have eliminated technical barriers for merchants wishing to accept one of the most widely used digital wallets globally. This payment innovation gives the Sampath Bank merchants the tools to help increase sales conversions, reduce cart abandonment and enhance the digital payment experience for their customers.”
