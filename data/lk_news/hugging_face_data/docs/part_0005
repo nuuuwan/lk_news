@@ -72261,5 +72261,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791420469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-e922b7a0",
+    "num": "adalk-e922b7a0",
+    "date_str": "2026-10-08",
+    "description": "\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2 \u0dc0\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb \u0dbd\u0db6\u0dcf\u0daf\u0dd2\u0db8 - \u0db8\u0dc4\u0dcf \u0dc3\u0d82\u0d9d\u0dbb\u0dad\u0dca\u0db1\u0dba \u0dc4\u0dcf \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da5\u0dcf\u0db1\u0dc3\u0dcf\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0da7-\u0d9c\u0dd2\u0dc4\u0dd2-\u0dc0\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb-\u0dbd\u0db6\u0dcf\u0daf\u0dd2\u0db8---\u0db8\u0dc4\u0dcf-\u0dc3\u0d82\u0d9d\u0dbb\u0dad\u0dca\u0db1\u0dba-\u0dc4\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d85\u0dad\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/11-424559",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791425781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-ac12b1e9",
+    "num": "adalk-ac12b1e9",
+    "date_str": "2026-10-08",
+    "description": "\u0d9a\u0ddd\u0da7\u0dd2 15,000\u0d9a \u0d9a\u0db1\u0d9a\u0dbb \u0db6\u0da9\u0dd4 \u0d8b\u0d9c\u0dc3\u0dca \u0dad\u0dd2\u0dba\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-15-000\u0d9a-\u0d9a\u0db1\u0d9a\u0dbb-\u0db6\u0da9\u0dd4-\u0d8b\u0d9c\u0dc3\u0dca-\u0dad\u0dd2\u0dba\u0dbd\u0dcf/11-424562",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791428466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-162f8791",
+    "num": "adalk-162f8791",
+    "date_str": "2026-10-08",
+    "description": "\u0dbb\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0da7 \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0dba-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0da7-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424563",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791428929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-faabc341",
+    "num": "dailymirrorlk-faabc341",
+    "date_str": "2026-10-08",
+    "description": "Veteran Indian actor Nana Patekar dies at 75 after cardiac arrest",
+    "url_metadata": "https://www.dailymirror.lk/international/Veteran-Indian-actor-Nana-Patekar-dies-at-75-after-cardiac-arrest/107-352019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791430683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-06288741",
+    "num": "dailymirrorlk-06288741",
+    "date_str": "2026-10-08",
+    "description": "NPP MP Chandana Sooriyaarachchi arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-MP-Chandana-Sooriyaarachchi-arrested/108-352020",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791431159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-7e8a113f",
+    "num": "dailymirrorlk-7e8a113f",
+    "date_str": "2026-10-08",
+    "description": "Bus runs over Kelaniya University student",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-runs-over-Kelaniya-University-student/108-352021",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791432444.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-71f9fbce",
+    "num": "dailymirrorlk-71f9fbce",
+    "date_str": "2026-10-08",
+    "description": "Army, Rangers Deployed in Rawalpindi ahead of Pakistan-Sri Lanka T20 Series",
+    "url_metadata": "https://www.dailymirror.lk/international/Army-Rangers-Deployed-in-Rawalpindi-ahead-of-Pakistan-Sri-Lanka-T20-Series/107-352022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791432677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-a90a1913",
+    "num": "dailymirrorlk-a90a1913",
+    "date_str": "2026-10-08",
+    "description": "Shiranthi held under special security at Welikada Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-held-under-special-security-at-Welikada-Prison/108-352023",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791432835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-360ec5fd",
+    "num": "dailymirrorlk-360ec5fd",
+    "date_str": "2026-10-08",
+    "description": "Over 1500 Grama Niladharis to be appointed today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1500-Grama-Niladharis-to-be-appointed-today/108-352024",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791432968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-b5c34827",
+    "num": "dailymirrorlk-b5c34827",
+    "date_str": "2026-10-08",
+    "description": "Sri Lanka\u2019s inflation remains at 8% in September",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-inflation-remains-at-8-in-September/108-352025",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791433102.0
   }
 ]
