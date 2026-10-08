@@ -72099,6 +72099,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-07-adalk-0da2d9df",
+    "num": "adalk-0da2d9df",
+    "date_str": "2026-10-07",
+    "description": "\u0dc3\u0dd2\u0dbb\u0dd2\u0dbd\u0dd2\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0dbb\u0dd2\u0dbd\u0dd2\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424558",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791389124.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-07-dailymirrorlk-6ea546fe",
     "num": "dailymirrorlk-6ea546fe",
     "date_str": "2026-10-07",
@@ -72239,5 +72250,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791417177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-294b5d42",
+    "num": "dailymirrorlk-294b5d42",
+    "date_str": "2026-10-08",
+    "description": "President, Maha Sangha talks scheduled today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-Maha-Sangha-talks-scheduled-today/108-352018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791420469.0
   }
 ]

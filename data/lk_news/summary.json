@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-08 06:21:53",
-  "n_docs": 132511,
+  "time_updated": "2026-10-08 08:08:06",
+  "n_docs": 132513,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132511,
+  "n_docs_with_text": 132513,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-08",
-  "dataset_size": 2055327737,
+  "dataset_size": 2055387554,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailyftlk-279e3bf3",
-    "num": "dailyftlk-279e3bf3",
+    "doc_id": "2026-10-08-dailymirrorlk-294b5d42",
+    "num": "dailymirrorlk-294b5d42",
     "date_str": "2026-10-08",
-    "description": "LOFC\u2019s iPay Business launches \u2018Wyapara Balaganwayi\u2019",
-    "url_metadata": "https://www.ft.lk/business/LOFC-s-iPay-Business-launches-Wyapara-Balaganwayi/34-798396",
+    "description": "President, Maha Sangha talks scheduled today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-Maha-Sangha-talks-scheduled-today/108-352018",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1791417177.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791420469.0
   }
 }
