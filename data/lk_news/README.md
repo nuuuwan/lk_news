@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_14:04:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_15:56:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,571** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,583** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailymirrorlk-869c1fa5",
-    "num": "dailymirrorlk-869c1fa5",
+    "doc_id": "2026-10-08-dailymirrorlk-4a9da957",
+    "num": "dailymirrorlk-4a9da957",
     "date_str": "2026-10-08",
-    "description": "UN weather body says El Ni\u00f1o set to intensify and last until February 2027",
-    "url_metadata": "https://www.dailymirror.lk/international/UN-weather-body-says-El-Ni\u00f1o-set-to-intensify-and-last-until-February-2027/107-352081",
+    "description": "Kusal Mendis appointed Sri Lanka Test captain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kusal-Mendis-appointed-Sri-Lanka-Test-captain/108-352090",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791447568.0
+    "time_ut": 1791453079.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-08 | `dailymirrorlk-4a9da957` | Kusal Mendis appointed Sri Lanka Test captain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-4a9da957)
+- 2026-10-08 | `dailymirrorlk-d151f028` | Shiranthi Rajapaksa to be taken to Eye Hospital tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-d151f028)
+- 2026-10-08 | `dailymirrorlk-19abc915` | Maldives tightens visa rules for foreign workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-19abc915)
+- 2026-10-08 | `dailymirrorlk-4d0f9cb2` | Govt. has “touched the robe”- don’t go further: Duminda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-4d0f9cb2)
+- 2026-10-08 | `adalk-b7048438` | විශ්‍රාමික ගුරුවරියන් දෙදෙනෙක් කෲර ලෙස ඝාතනය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-adalk-b7048438)
+- 2026-10-08 | `adalk-3c172a01` | මාලදිවයිනේ වීසා නීති දැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-adalk-3c172a01)
+- 2026-10-08 | `dailymirrorlk-c3a10f35` | Court rejects preliminary objections in case against Shashindra Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-c3a10f35)
+- 2026-10-08 | `dailymirrorlk-ea848dd8` | Sri Lankan Olympiad winners return home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-ea848dd8)
+- 2026-10-08 | `dailymirrorlk-1017d040` | Five reservoirs spill, gates opened | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-1017d040)
+- 2026-10-08 | `dailymirrorlk-0fcba4c6` | Trump administration proposes $70,000 fee for US international student work permit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-0fcba4c6)
+- 2026-10-08 | `dailymirrorlk-495f6ff9` | UNP raises concerns over removal of Gnanasara Thera’s robes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-495f6ff9)
 - 2026-10-08 | `dailymirrorlk-869c1fa5` | UN weather body says El Niño set to intensify and last until February 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-869c1fa5)
 - 2026-10-08 | `dailymirrorlk-274a0bf7` | What do we know about plague institute lab worker’s death in Russia? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-274a0bf7)
 - 2026-10-08 | `dailymirrorlk-a62822d8` | Investigations into missing persons expedited: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-a62822d8)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-10-08 | `dailymirrorlk-0e94b2a8` | Mild punishments may not break the cycle of sadistic university ragging | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-0e94b2a8)
 - 2026-10-08 | `dailymirrorlk-629f016e` | Is the Govt. trapped within its anti-corruption drive? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-629f016e)
 - 2026-10-08 | `dailymirrorlk-c9a2d680` | Urgent call to curb aggravating wildlife crimes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-c9a2d680)
-- 2026-10-08 | `adalk-454f085f` | ව්‍යවසාය සංවර්ධනය වේගවත් කිරීමට CSE හා කොමර්ෂල් බැංකුව එක්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-adalk-454f085f)
-- 2026-10-08 | `dailymirrorlk-0f0f5b6f` | Sri Lanka’s recovery brings limited relief to family budgets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-0f0f5b6f)
-- 2026-10-08 | `dailymirrorlk-c02810fb` | Geopolitical tensions drive financial sector risk concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-c02810fb)
-- 2026-10-08 | `dailymirrorlk-03db3073` | Economic census to be conducted in 2026 and 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-03db3073)
-- 2026-10-08 | `dailymirrorlk-17eaa8b3` | Breast cancer claims three lives a day, 17 new patients are diagnosed daily | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-17eaa8b3)
-- 2026-10-08 | `dailymirrorlk-12af3692` | LB Finance celebrates 55 years of trust, growth and transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-12af3692)
-- 2026-10-08 | `dailymirrorlk-7ec045ff` | ComBank unveils Prestige banking to empower clients to craft their legacy for growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-7ec045ff)
-- 2026-10-08 | `dailymirrorlk-04b715a9` | Seylan Bank crosses Rs.1tn in assets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-04b715a9)
-- 2026-10-08 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-2831aeed)
-- 2026-10-08 | `dailymirrorlk-d9d73898` | Subdued secondary market activity amid selling pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-d9d73898)
-- 2026-10-08 | `dailymirrorlk-aabc6157` | Stranded Iranian vessels place Sri Lankan in a tight spot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailymirrorlk-aabc6157)
 
 ---
 

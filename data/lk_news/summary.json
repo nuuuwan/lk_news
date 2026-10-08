@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-08 14:03:49",
-  "n_docs": 132571,
+  "time_updated": "2026-10-08 15:56:00",
+  "n_docs": 132583,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132571,
+  "n_docs_with_text": 132583,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-08",
-  "dataset_size": 2055762796,
+  "dataset_size": 2056116999,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailymirrorlk-869c1fa5",
-    "num": "dailymirrorlk-869c1fa5",
+    "doc_id": "2026-10-08-dailymirrorlk-4a9da957",
+    "num": "dailymirrorlk-4a9da957",
     "date_str": "2026-10-08",
-    "description": "UN weather body says El Ni\u00f1o set to intensify and last until February 2027",
-    "url_metadata": "https://www.dailymirror.lk/international/UN-weather-body-says-El-Ni\u00f1o-set-to-intensify-and-last-until-February-2027/107-352081",
+    "description": "Kusal Mendis appointed Sri Lanka Test captain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kusal-Mendis-appointed-Sri-Lanka-Test-captain/108-352090",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791447568.0
+    "time_ut": 1791453079.0
   }
 }

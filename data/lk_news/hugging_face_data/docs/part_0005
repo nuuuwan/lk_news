@@ -72352,6 +72352,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-c1b10d45",
+    "num": "adalk-c1b10d45",
+    "date_str": "2026-10-08",
+    "description": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0da7-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424565",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791431094.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-08-dailymirrorlk-06288741",
     "num": "dailymirrorlk-06288741",
     "date_str": "2026-10-08",
@@ -72899,5 +72910,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791447568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-495f6ff9",
+    "num": "dailymirrorlk-495f6ff9",
+    "date_str": "2026-10-08",
+    "description": "UNP raises concerns over removal of Gnanasara Thera\u2019s robes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-raises-concerns-over-removal-of-Gnanasara-Theras-robes/108-352082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791448350.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-0fcba4c6",
+    "num": "dailymirrorlk-0fcba4c6",
+    "date_str": "2026-10-08",
+    "description": "Trump administration proposes $70,000 fee for US international student work permit",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-administration-proposes-70-000-fee-for-US-international-student-work-permit/107-352083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791448718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-1017d040",
+    "num": "dailymirrorlk-1017d040",
+    "date_str": "2026-10-08",
+    "description": "Five reservoirs spill, gates opened",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-reservoirs-spill-gates-opened/108-352084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791448888.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-ea848dd8",
+    "num": "dailymirrorlk-ea848dd8",
+    "date_str": "2026-10-08",
+    "description": "Sri Lankan Olympiad winners return home",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lankan-Olympiad-winners-return-home/110-352085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791449193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-c3a10f35",
+    "num": "dailymirrorlk-c3a10f35",
+    "date_str": "2026-10-08",
+    "description": "Court rejects preliminary objections in case against Shashindra Rajapaksa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-preliminary-objections-in-case-against-Shashindra-Rajapaksa/108-352086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791450627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-3c172a01",
+    "num": "adalk-3c172a01",
+    "date_str": "2026-10-08",
+    "description": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda \u0dc0\u0dd3\u0dc3\u0dcf \u0db1\u0dd3\u0dad\u0dd2 \u0daf\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda-\u0dc0\u0dd3\u0dc3\u0dcf-\u0db1\u0dd3\u0dad\u0dd2-\u0daf\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-424568",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791450964.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-b7048438",
+    "num": "adalk-b7048438",
+    "date_str": "2026-10-08",
+    "description": "\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd2\u0d9a \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd2\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d9a\u0df2\u0dbb \u0dbd\u0dd9\u0dc3 \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd2\u0d9a-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd2\u0dba\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d9a\u0df2\u0dbb-\u0dbd\u0dd9\u0dc3-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dbd\u0dcf/11-424569",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791451453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-4d0f9cb2",
+    "num": "dailymirrorlk-4d0f9cb2",
+    "date_str": "2026-10-08",
+    "description": "Govt. has \u201ctouched the robe\u201d- don\u2019t go further: Duminda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-has-touched-the-robe-dont-go-further-Duminda/108-352087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791452203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-19abc915",
+    "num": "dailymirrorlk-19abc915",
+    "date_str": "2026-10-08",
+    "description": "Maldives tightens visa rules for foreign workers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Maldives-tightens-visa-rules-for-foreign-workers/108-352088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791452366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-d151f028",
+    "num": "dailymirrorlk-d151f028",
+    "date_str": "2026-10-08",
+    "description": "Shiranthi Rajapaksa to be taken to Eye Hospital tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-to-be-taken-to-Eye-Hospital-tomorrow/108-352089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791452981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailymirrorlk-4a9da957",
+    "num": "dailymirrorlk-4a9da957",
+    "date_str": "2026-10-08",
+    "description": "Kusal Mendis appointed Sri Lanka Test captain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kusal-Mendis-appointed-Sri-Lanka-Test-captain/108-352090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791453079.0
   }
 ]
