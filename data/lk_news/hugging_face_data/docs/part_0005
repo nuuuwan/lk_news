@@ -72162,5 +72162,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791410941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-c6450206",
+    "num": "dailyftlk-c6450206",
+    "date_str": "2026-10-08",
+    "description": "Sallay to return to CID custody after hospital discharge",
+    "url_metadata": "https://www.ft.lk/news/Sallay-to-return-to-CID-custody-after-hospital-discharge/56-798390",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791416396.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-265619c4",
+    "num": "dailyftlk-265619c4",
+    "date_str": "2026-10-08",
+    "description": "Shiranthi Rajapaksa remanded till 13 Oct.",
+    "url_metadata": "https://www.ft.lk/news/Shiranthi-Rajapaksa-remanded-till-13-Oct/56-798391",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791416513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-9a0ea289",
+    "num": "dailyftlk-9a0ea289",
+    "date_str": "2026-10-08",
+    "description": "Chandula Abeywickrema joins global impact investing leaders",
+    "url_metadata": "https://www.ft.lk/business/Chandula-Abeywickrema-joins-global-impact-investing-leaders/34-798392",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791416721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-9ce30c79",
+    "num": "dailyftlk-9ce30c79",
+    "date_str": "2026-10-08",
+    "description": "Robotics startup Scouts and Vidullanka launch first ever drone enhanced security",
+    "url_metadata": "https://www.ft.lk/business/Robotics-startup-Scouts-and-Vidullanka-launch-first-ever-drone-enhanced-security/34-798393",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791416834.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-fa66debe",
+    "num": "dailyftlk-fa66debe",
+    "date_str": "2026-10-08",
+    "description": "ECCSL celebrates 30 years of resilience, achievement; ushers new chapter",
+    "url_metadata": "https://www.ft.lk/business/ECCSL-celebrates-30-years-of-resilience-achievement-ushers-new-chapter/34-798394",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791416988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-58876248",
+    "num": "dailyftlk-58876248",
+    "date_str": "2026-10-08",
+    "description": "BOI puts Paranthan, KKS zones on 2027 infrastructure track",
+    "url_metadata": "https://www.ft.lk/business/BOI-puts-Paranthan-KKS-zones-on-2027-infrastructure-track/34-798395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791417070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-08-dailyftlk-279e3bf3",
+    "num": "dailyftlk-279e3bf3",
+    "date_str": "2026-10-08",
+    "description": "LOFC\u2019s iPay Business launches \u2018Wyapara Balaganwayi\u2019",
+    "url_metadata": "https://www.ft.lk/business/LOFC-s-iPay-Business-launches-Wyapara-Balaganwayi/34-798396",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791417177.0
   }
 ]

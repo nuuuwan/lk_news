@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_03:56:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--08_06:22:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,504** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,511** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-08-dailyftlk-823cc2a0",
-    "num": "dailyftlk-823cc2a0",
+    "doc_id": "2026-10-08-dailyftlk-279e3bf3",
+    "num": "dailyftlk-279e3bf3",
     "date_str": "2026-10-08",
-    "description": "Redesigning Sri Lanka\u2019s tax incentives for the Pillar Two era",
-    "url_metadata": "https://www.ft.lk/columns/Redesigning-Sri-Lanka-s-tax-incentives-for-the-Pillar-Two-era/4-798362",
+    "description": "LOFC\u2019s iPay Business launches \u2018Wyapara Balaganwayi\u2019",
+    "url_metadata": "https://www.ft.lk/business/LOFC-s-iPay-Business-launches-Wyapara-Balaganwayi/34-798396",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1791410941.0
+    "time_ut": 1791417177.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-08 | `dailyftlk-279e3bf3` | LOFC’s iPay Business launches ‘Wyapara Balaganwayi’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-279e3bf3)
+- 2026-10-08 | `dailyftlk-58876248` | BOI puts Paranthan, KKS zones on 2027 infrastructure track | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-58876248)
+- 2026-10-08 | `dailyftlk-fa66debe` | ECCSL celebrates 30 years of resilience, achievement; ushers new chapter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-fa66debe)
+- 2026-10-08 | `dailyftlk-9ce30c79` | Robotics startup Scouts and Vidullanka launch first ever drone enhanced security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-9ce30c79)
+- 2026-10-08 | `dailyftlk-9a0ea289` | Chandula Abeywickrema joins global impact investing leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-9a0ea289)
+- 2026-10-08 | `dailyftlk-265619c4` | Shiranthi Rajapaksa remanded till 13 Oct. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-265619c4)
+- 2026-10-08 | `dailyftlk-c6450206` | Sallay to return to CID custody after hospital discharge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-c6450206)
 - 2026-10-08 | `dailyftlk-823cc2a0` | Redesigning Sri Lanka’s tax incentives for the Pillar Two era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-823cc2a0)
 - 2026-10-08 | `dailyftlk-104f6f58` | Hong Kong retains leading position as world’s freest economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-104f6f58)
 - 2026-10-08 | `dailyftlk-efe7f19b` | Beyond access to information: How Sri Lanka’s RTI Commission became an access-to-justice forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-08-dailyftlk-efe7f19b)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-07 | `dailymirrorlk-5110d58a` | Shiranthi Rajapaksa remanded, former NSB Chairman granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-5110d58a)
 - 2026-10-07 | `dailymirrorlk-147fb194` | CSE selling deepens as ASPI falls towards 20,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-147fb194)
 - 2026-10-07 | `dailymirrorlk-5d9ca565` | Government will not be able to engage in politics by suppressing opponents: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-5d9ca565)
-- 2026-10-07 | `dailymirrorlk-30fa3134` | Bakeer Markar attends Iraq Day event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-30fa3134)
-- 2026-10-07 | `dailymirrorlk-d9912646` | Asgiri Chapter questions legal basis for removing Gnanasara Thera’s robe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-d9912646)
-- 2026-10-07 | `adalk-8aed63a2` | රාජ්‍ය සේවකයන්ට නිල විද්‍යුත් තැපැල් ලිපිනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-8aed63a2)
-- 2026-10-07 | `dailymirrorlk-e930ef13` | Contempt proceedings against Dilith, Gammanpila, others fixed for October 15 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-e930ef13)
-- 2026-10-07 | `adalk-41d25438` | 2027 විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-adalk-41d25438)
-- 2026-10-07 | `dailymirrorlk-4480c86a` | What led to Shiranthi Rajapaksa’s arrest? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-4480c86a)
-- 2026-10-07 | `dailymirrorlk-6901c02e` | ’Ghost particles’ from space telescope wins physics Nobel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-07-dailymirrorlk-6901c02e)
 
 ---
 
