@@ -73672,6 +73672,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-09-adalk-cd9cda89",
+    "num": "adalk-cd9cda89",
+    "date_str": "2026-10-09",
+    "description": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc0\u0dc3\u0dbb \u0daf\u0dd9\u0d9a\u0dda\u0daf\u0dd3 \u0dc0\u0dd0\u0da7\u0dca \u0db6\u0daf\u0dd4 \u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0dc0\u0dc3\u0dbb-\u0daf\u0dd9\u0d9a\u0dda\u0daf\u0dd3-\u0dc0\u0dd0\u0da7\u0dca-\u0db6\u0daf\u0dd4-\u0d85\u0da9\u0dd4\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-424580",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791517332.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-09-dailymirrorlk-4b72ce82",
     "num": "dailymirrorlk-4b72ce82",
     "date_str": "2026-10-09",
@@ -73881,6 +73892,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-a66214cf",
+    "num": "dailymirrorlk-a66214cf",
+    "date_str": "2026-10-09",
+    "description": "Oktoberfest at The Edge returns to Waters Edge",
+    "url_metadata": "https://www.dailymirror.lk/business/Oktoberfest-at-The-Edge-returns-to-Waters-Edge/215-352149",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791526965.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-09-dailymirrorlk-a05c29cd",
     "num": "dailymirrorlk-a05c29cd",
     "date_str": "2026-10-09",
@@ -73892,6 +73914,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-dd416598",
+    "num": "dailymirrorlk-dd416598",
+    "date_str": "2026-10-09",
+    "description": "Sterling Aftercare opens Ratmalana facility",
+    "url_metadata": "https://www.dailymirror.lk/business/Sterling-Aftercare-opens-Ratmalana-facility/215-352151",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-c9051d93",
+    "num": "dailymirrorlk-c9051d93",
+    "date_str": "2026-10-09",
+    "description": "EFutures expands into AI consulting, agent development",
+    "url_metadata": "https://www.dailymirror.lk/business/EFutures-expands-into-AI-consulting-agent-development/215-352152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527193.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-09-dailymirrorlk-8edf4092",
     "num": "dailymirrorlk-8edf4092",
     "date_str": "2026-10-09",
@@ -73900,5 +73944,258 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791527202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-85f0b94c",
+    "num": "dailymirrorlk-85f0b94c",
+    "date_str": "2026-10-09",
+    "description": "Sri Lanka Sustainability Summit 2026 to bring global sustainability voices",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-Sustainability-Summit-2026-to-bring-global-sustainability-voices/215-352154",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-4fdbd101",
+    "num": "dailymirrorlk-4fdbd101",
+    "date_str": "2026-10-09",
+    "description": "Expolanka Leisure Cluster wins 7 National ICT Awards",
+    "url_metadata": "https://www.dailymirror.lk/business/Expolanka-Leisure-Cluster-wins-7-National-ICT-Awards/215-352155",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-fb66c045",
+    "num": "dailymirrorlk-fb66c045",
+    "date_str": "2026-10-09",
+    "description": "Pan Asia Bank powers Sri Lanka\u2019s energy future",
+    "url_metadata": "https://www.dailymirror.lk/business/Pan-Asia-Bank-powers-Sri-Lankas-energy-future/215-352156",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-5970c9ef",
+    "num": "dailymirrorlk-5970c9ef",
+    "date_str": "2026-10-09",
+    "description": "What\u2019s next? SLPP and SLFP representatives hold special talks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Whats-next-SLPP-and-SLFP-representatives-hold-special-talks/108-352157",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527836.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-2f27606c",
+    "num": "dailymirrorlk-2f27606c",
+    "date_str": "2026-10-09",
+    "description": "CMA Sri Lanka and SAFA to host int\u2019l seminar on  Cost Accounting and Cost Audit in Electricity Sector",
+    "url_metadata": "https://www.dailymirror.lk/business/CMA-Sri-Lanka-and-SAFA-to-host-intl-seminar-on-Cost-Accounting-and-Cost-Audit-in-Electricity-Sector/215-352158",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-661ad0e7",
+    "num": "dailymirrorlk-661ad0e7",
+    "date_str": "2026-10-09",
+    "description": "Galle becomes launchpad for India\u2019s Otherland as first lifestyle hotel opens",
+    "url_metadata": "https://www.dailymirror.lk/business/Galle-becomes-launchpad-for-Indias-Otherland-as-first-lifestyle-hotel-opens/215-352159",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791527963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-10-09",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business/Indices-close-in-red/215-352160",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791528202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-5efddb4d",
+    "num": "dailymirrorlk-5efddb4d",
+    "date_str": "2026-10-09",
+    "description": "Secondary market remains subdued as yield curve holds steady",
+    "url_metadata": "https://www.dailymirror.lk/business/Secondary-market-remains-subdued-as-yield-curve-holds-steady/215-352161",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791528350.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-a910139c",
+    "num": "dailymirrorlk-a910139c",
+    "date_str": "2026-10-09",
+    "description": "Govt. moves to standardize building rules nationwide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-moves-to-standardize-building-rules-nationwide/108-352162",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791528373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-df2b51de",
+    "num": "dailymirrorlk-df2b51de",
+    "date_str": "2026-10-09",
+    "description": "Indra Traders sees electric buses within reach if tax structure aligned",
+    "url_metadata": "https://www.dailymirror.lk/business/Indra-Traders-sees-electric-buses-within-reach-if-tax-structure-aligned/215-352163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791528720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-a9b53a04",
+    "num": "dailymirrorlk-a9b53a04",
+    "date_str": "2026-10-09",
+    "description": "EDB appoints 24 advisory committees to support US$ 36bn export drive",
+    "url_metadata": "https://www.dailymirror.lk/business/EDB-appoints-24-advisory-committees-to-support-US-36bn-export-drive/215-352164",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791528972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-42227aff",
+    "num": "dailymirrorlk-42227aff",
+    "date_str": "2026-10-09",
+    "description": "Export Performance Indicators 2025 launched",
+    "url_metadata": "https://www.dailymirror.lk/business/Export-Performance-Indicators-2025-launched/215-352165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-99f0ff6e",
+    "num": "dailymirrorlk-99f0ff6e",
+    "date_str": "2026-10-09",
+    "description": "India\u2019s rum row raises question of whether Sri Lankan consumers know what they drink",
+    "url_metadata": "https://www.dailymirror.lk/business/Indias-rum-row-raises-question-of-whether-Sri-Lankan-consumers-know-what-they-drink/215-352166",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529083.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-ad612fc5",
+    "num": "dailymirrorlk-ad612fc5",
+    "date_str": "2026-10-09",
+    "description": "DMT to enforce 14-day vehicle transfers from Dec. 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DMT-to-enforce-14-day-vehicle-transfers-from-Dec-1/108-352167",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529216.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-212518ee",
+    "num": "dailymirrorlk-212518ee",
+    "date_str": "2026-10-09",
+    "description": "Quantum AI not licensed to offer securities services: SEC",
+    "url_metadata": "https://www.dailymirror.lk/business/Quantum-AI-not-licensed-to-offer-securities-services-SEC/215-352168",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-305b2915",
+    "num": "dailymirrorlk-305b2915",
+    "date_str": "2026-10-09",
+    "description": "ODI calls for trade reforms to unlock Sri Lanka\u2019s digital potential",
+    "url_metadata": "https://www.dailymirror.lk/business/ODI-calls-for-trade-reforms-to-unlock-Sri-Lankas-digital-potential/215-352170",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-1bf9eb49",
+    "num": "dailymirrorlk-1bf9eb49",
+    "date_str": "2026-10-09",
+    "description": "CBSL warns weak lending decisions can weaken banks\u2019 capacity to finance growth",
+    "url_metadata": "https://www.dailymirror.lk/business/CBSL-warns-weak-lending-decisions-can-weaken-banks-capacity-to-finance-growth/215-352171",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791529541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-adalk-9d320649",
+    "num": "adalk-9d320649",
+    "date_str": "2026-10-09",
+    "description": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0dcf \u0dbb\u0dd2\u0dba\u0dcf\u0daf\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0db1\u0dc0\u0dad\u0dd3",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a-\u0dc4\u0dcf-\u0dbb\u0dd2\u0dba\u0dcf\u0daf\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0db1\u0dc0\u0dad\u0dd3/11-424581",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791529936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-496d3b30",
+    "num": "dailymirrorlk-496d3b30",
+    "date_str": "2026-10-09",
+    "description": "Rs. 120 million worth of laparoscopy machines donated to Health Ministry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-120-million-worth-of-laparoscopy-machines-donated-to-Health-Ministry/108-352175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791530461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-84b8b8ce",
+    "num": "dailymirrorlk-84b8b8ce",
+    "date_str": "2026-10-09",
+    "description": "Sajith calls for full implementation of 13th Amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-calls-for-full-implementation-of-13th-Amendment/108-352176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791532226.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-5321b475",
+    "num": "dailymirrorlk-5321b475",
+    "date_str": "2026-10-09",
+    "description": "Former magistrate Thilina Gamage removed from service",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-magistrate-Thilina-Gamage-removed-from-service/108-352177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791532934.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-cd7b3f90",
+    "num": "dailymirrorlk-cd7b3f90",
+    "date_str": "2026-10-09",
+    "description": "WHEN BIG TECH COMES TO TOWN",
+    "url_metadata": "https://www.dailymirror.lk/opinion/WHEN-BIG-TECH-COMES-TO-TOWN/231-352178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791533201.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-5bb00cf7",
+    "num": "dailymirrorlk-5bb00cf7",
+    "date_str": "2026-10-09",
+    "description": "CC approves Dr. Hemamal Jayawardene as Human Rights Commission Commissioner",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CC-approves-Dr-Hemamal-Jayawardene-as-Human-Rights-Commission-Commissioner/108-352179",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791534314.0
   }
 ]

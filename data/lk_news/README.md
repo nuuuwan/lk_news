@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--09_12:07:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--09_14:04:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,662** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,689** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-09-dailymirrorlk-8edf4092",
-    "num": "dailymirrorlk-8edf4092",
+    "doc_id": "2026-10-09-dailymirrorlk-5bb00cf7",
+    "num": "dailymirrorlk-5bb00cf7",
     "date_str": "2026-10-09",
-    "description": "PSTA Bill differs from expert committee draft, Herath admits",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PSTA-Bill-differs-from-expert-committee-draft-Herath-admits/108-352153",
+    "description": "CC approves Dr. Hemamal Jayawardene as Human Rights Commission Commissioner",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CC-approves-Dr-Hemamal-Jayawardene-as-Human-Rights-Commission-Commissioner/108-352179",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791527202.0
+    "time_ut": 1791534314.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-10-09 | `dailymirrorlk-8edf4092` | PSTA Bill differs from expert committee draft, Herath admits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-8edf4092)
-- 2026-10-09 | `dailymirrorlk-a05c29cd` | ‘Emission Eye’ unit to crack down on smoke-emitting vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a05c29cd)
-- 2026-10-09 | `dailymirrorlk-4ad3ca5a` | EPF arrears due from more than 20,000 private companies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-4ad3ca5a)
-- 2026-10-09 | `dailymirrorlk-6e1e8b8e` | Oil falls as Trump comments on Iran talks ease supply concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-6e1e8b8e)
-- 2026-10-09 | `dailymirrorlk-a56259c5` | HIV cases among young people raise fresh concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a56259c5)
-- 2026-10-09 | `dailymirrorlk-a98d26e8` | Ruling party MP accused of forcibly acquiring land in Athurugiriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a98d26e8)
-- 2026-10-09 | `dailymirrorlk-b2eb80ce` | One-off permit issued to export rock stones to Maldives: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-b2eb80ce)
-- 2026-10-09 | `dailymirrorlk-f521e2b3` | Firing squad execution to be livestreamed, Pentagon says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-f521e2b3)
-- 2026-10-09 | `dailymirrorlk-e6983f77` | Police launch probe into attacks on Metro buses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-e6983f77)
-- 2026-10-09 | `dailymirrorlk-74627e04` | Govt. rushes to amend prison attire rules for monks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-74627e04)
-- 2026-10-09 | `dailymirrorlk-53cd9ece` | Damaging Metro buses could lead to public property charges: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-53cd9ece)
-- 2026-10-09 | `dailymirrorlk-a38ceeb4` | Sri Lanka to establish new diplomatic missions in China, Kazakhstan, Switzerland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a38ceeb4)
-- 2026-10-09 | `dailymirrorlk-8c5cb52d` | 50 corruption cases detailed in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-8c5cb52d)
-- 2026-10-09 | `dailymirrorlk-0ef91806` | Sri Lankan man surprises Russian tourists with fluent Russian | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-0ef91806)
-- 2026-10-09 | `dailymirrorlk-d0f47fa3` | 1,500 cancer patients waiting as Apeksha Hospital CT Simulator remains out of order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-d0f47fa3)
-- 2026-10-09 | `dailymirrorlk-da5b575a` | Private sector to join Metro Bus Service within a year: Bimal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-da5b575a)
-- 2026-10-09 | `dailymirrorlk-d231d2d3` | Sri Lanka promotes tourism, trade and investment at Myanmar expo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-d231d2d3)
-- 2026-10-09 | `dailymirrorlk-409e3b0b` | SriLankan Airlines suspends Riyadh flights amid Middle East tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-409e3b0b)
-- 2026-10-09 | `dailymirrorlk-6d8c4308` | Five-year project to upgrade ICT facilities in schools | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-6d8c4308)
-- 2026-10-09 | `dailymirrorlk-147fb194` | CSE selling deepens as ASPI falls towards 20,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-147fb194)
+- 2026-10-09 | `dailymirrorlk-5bb00cf7` | CC approves Dr. Hemamal Jayawardene as Human Rights Commission Commissioner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5bb00cf7)
+- 2026-10-09 | `dailymirrorlk-cd7b3f90` | WHEN BIG TECH COMES TO TOWN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-cd7b3f90)
+- 2026-10-09 | `dailymirrorlk-5321b475` | Former magistrate Thilina Gamage removed from service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5321b475)
+- 2026-10-09 | `dailymirrorlk-84b8b8ce` | Sajith calls for full implementation of 13th Amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-84b8b8ce)
+- 2026-10-09 | `dailymirrorlk-496d3b30` | Rs. 120 million worth of laparoscopy machines donated to Health Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-496d3b30)
+- 2026-10-09 | `adalk-9d320649` | කටුනායක හා රියාද් ගුවන් ගමන් නවතී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-adalk-9d320649)
+- 2026-10-09 | `dailymirrorlk-1bf9eb49` | CBSL warns weak lending decisions can weaken banks’ capacity to finance growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-1bf9eb49)
+- 2026-10-09 | `dailymirrorlk-305b2915` | ODI calls for trade reforms to unlock Sri Lanka’s digital potential | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-305b2915)
+- 2026-10-09 | `dailymirrorlk-212518ee` | Quantum AI not licensed to offer securities services: SEC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-212518ee)
+- 2026-10-09 | `dailymirrorlk-ad612fc5` | DMT to enforce 14-day vehicle transfers from Dec. 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-ad612fc5)
+- 2026-10-09 | `dailymirrorlk-99f0ff6e` | India’s rum row raises question of whether Sri Lankan consumers know what they drink | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-99f0ff6e)
+- 2026-10-09 | `dailymirrorlk-42227aff` | Export Performance Indicators 2025 launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-42227aff)
+- 2026-10-09 | `dailymirrorlk-a9b53a04` | EDB appoints 24 advisory committees to support US$ 36bn export drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a9b53a04)
+- 2026-10-09 | `dailymirrorlk-df2b51de` | Indra Traders sees electric buses within reach if tax structure aligned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-df2b51de)
+- 2026-10-09 | `dailymirrorlk-a910139c` | Govt. moves to standardize building rules nationwide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a910139c)
+- 2026-10-09 | `dailymirrorlk-5efddb4d` | Secondary market remains subdued as yield curve holds steady | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5efddb4d)
+- 2026-10-09 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-2831aeed)
+- 2026-10-09 | `dailymirrorlk-661ad0e7` | Galle becomes launchpad for India’s Otherland as first lifestyle hotel opens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-661ad0e7)
+- 2026-10-09 | `dailymirrorlk-2f27606c` | CMA Sri Lanka and SAFA to host int’l seminar on  Cost Accounting and Cost Audit in Electricity Sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-2f27606c)
+- 2026-10-09 | `dailymirrorlk-5970c9ef` | What’s next? SLPP and SLFP representatives hold special talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5970c9ef)
 
 ---
 
