@@ -72814,6 +72814,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-e6adb97b",
+    "num": "adalk-e6adb97b",
+    "date_str": "2026-10-08",
+    "description": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc3\u0dcf\u0dbb\u0dca\u0dc0 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca 2026 \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d85\u0dbb\u0dca\u0db0\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0d9c\u0ddd\u0dbd\u0dd3\u0dba-\u0dc3\u0dcf\u0dbb\u0dca\u0dc0-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca-2026-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d85\u0dbb\u0dca\u0db0\u0dba\u0dda\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0dd2/7-424567",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791442125.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-08-dailymirrorlk-c9a2d680",
     "num": "dailymirrorlk-c9a2d680",
     "date_str": "2026-10-08",
@@ -73254,6 +73265,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-08-adalk-2430a90d",
+    "num": "adalk-2430a90d",
+    "date_str": "2026-10-08",
+    "description": "\u0db7\u0dd2\u0d9a\u0dca\u0dc2\u0dd6\u0db1\u0dca\u0dc0\u0dc4\u0db1\u0dca\u0dc3\u0dda\u0dbd\u0dcf \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dd2\u0d9a\u0dca\u0dc2\u0dd6\u0db1\u0dca\u0dc0\u0dc4\u0db1\u0dca\u0dc3\u0dda\u0dbd\u0dcf-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2-\u0dc0\u0dd9\u0db1\u0dc3\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-424574",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791467761.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-08-dailymirrorlk-bbd7998c",
     "num": "dailymirrorlk-bbd7998c",
     "date_str": "2026-10-08",
@@ -73383,5 +73405,159 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791506327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-d930495f",
+    "num": "dailyftlk-d930495f",
+    "date_str": "2026-10-09",
+    "description": "Sri Lanka voted for \u2018system change\u2019. Two years on, the harder question is whether power itself has changed",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-voted-for-system-change-Two-years-on-the-harder-question-is-whether-power-itself-has-changed/4-798423",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791506731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-da58e20e",
+    "num": "dailyftlk-da58e20e",
+    "date_str": "2026-10-09",
+    "description": "Over 30 trade unions oppose proposed tripartite management of EPF",
+    "url_metadata": "https://www.ft.lk/opinion/Over-30-trade-unions-oppose-proposed-tripartite-management-of-EPF/14-798424",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791506918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-45b343a3",
+    "num": "dailyftlk-45b343a3",
+    "date_str": "2026-10-09",
+    "description": "Independence of Independent Director,  a key differentiator in Board effectiveness",
+    "url_metadata": "https://www.ft.lk/columns/Independence-of-Independent-Director-a-key-differentiator-in-Board-effectiveness/4-798425",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791507290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-62711652",
+    "num": "dailyftlk-62711652",
+    "date_str": "2026-10-09",
+    "description": "Rabies-free Sri Lanka: One health and vital role of veterinarians",
+    "url_metadata": "https://www.ft.lk/columns/Rabies-free-Sri-Lanka-One-health-and-vital-role-of-veterinarians/4-798426",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791507432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-3992c3ef",
+    "num": "dailyftlk-3992c3ef",
+    "date_str": "2026-10-09",
+    "description": "Dedicated 12 years to Sri Lanka\u2019s street dogs British Vet to run 620 km across the island",
+    "url_metadata": "https://www.ft.lk/opinion/Dedicated-12-years-to-Sri-Lanka-s-street-dogs-British-Vet-to-run-620-km-across-the-island/14-798427",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791507546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-7bbae19a",
+    "num": "dailyftlk-7bbae19a",
+    "date_str": "2026-10-09",
+    "description": "Govt. launches national initiative to establish  Sri Lanka\u2019s first National Building Code",
+    "url_metadata": "https://www.ft.lk/business/Govt-launches-national-initiative-to-establish-Sri-Lanka-s-first-National-Building-Code/34-798428",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-71a56663",
+    "num": "dailyftlk-71a56663",
+    "date_str": "2026-10-09",
+    "description": "Sri Lankan exporters create new business opportunities at Hotel Asia 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-exporters-create-new-business-opportunities-at-Hotel-Asia-2026/34-798429",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-26f6ecdd",
+    "num": "dailyftlk-26f6ecdd",
+    "date_str": "2026-10-09",
+    "description": "Vietjet launches three-day sale as new  Colombo\u2013Maldives service prepares for takeoff",
+    "url_metadata": "https://www.ft.lk/business/Vietjet-launches-three-day-sale-as-new-ColomboMaldives-service-prepares-for-takeoff/34-798430",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512525.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-49866708",
+    "num": "dailyftlk-49866708",
+    "date_str": "2026-10-09",
+    "description": "Ceylon Chamber connects Sri Lankan businesses with Mississippi investment opportunities",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-connects-Sri-Lankan-businesses-with-Mississippi-investment-opportunities/34-798431",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-8bb104b1",
+    "num": "dailyftlk-8bb104b1",
+    "date_str": "2026-10-09",
+    "description": "CanCham Sri Lanka to lead 40-member business delegation to Canada",
+    "url_metadata": "https://www.ft.lk/business/CanCham-Sri-Lanka-to-lead-40-member-business-delegation-to-Canada/34-798432",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512597.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-736ac1e1",
+    "num": "dailyftlk-736ac1e1",
+    "date_str": "2026-10-09",
+    "description": "Historic Lithuanian visit marks new chapter in Sri Lanka-Lithuania relations",
+    "url_metadata": "https://www.ft.lk/news/Historic-Lithuanian-visit-marks-new-chapter-in-Sri-Lanka-Lithuania-relations/56-798433",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512686.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-afb55084",
+    "num": "dailyftlk-afb55084",
+    "date_str": "2026-10-09",
+    "description": "Govt. provides development update and five-year global tourism branding campaign",
+    "url_metadata": "https://www.ft.lk/news/Govt-provides-development-update-and-five-year-global-tourism-branding-campaign/56-798434",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-c6e77eb6",
+    "num": "dailyftlk-c6e77eb6",
+    "date_str": "2026-10-09",
+    "description": "Negombo Magistrate discharges Jiffry Mohamed in drugs case",
+    "url_metadata": "https://www.ft.lk/news/Negombo-Magistrate-discharges-Jiffry-Mohamed-in-drugs-case/56-798435",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailyftlk-4525e80f",
+    "num": "dailyftlk-4525e80f",
+    "date_str": "2026-10-09",
+    "description": "Sri Lanka urged to build digital trade chapters into trade deals",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-urged-to-build-digital-trade-chapters-into-trade-deals/56-798436",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791512846.0
   }
 ]
