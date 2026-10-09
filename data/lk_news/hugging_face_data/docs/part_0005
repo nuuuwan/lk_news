@@ -73551,6 +73551,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-09-adalk-fe77448d",
+    "num": "adalk-fe77448d",
+    "date_str": "2026-10-09",
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 1\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb \u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4-1\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb-\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-424576",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791512798.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-09-dailyftlk-4525e80f",
     "num": "dailyftlk-4525e80f",
     "date_str": "2026-10-09",
@@ -73559,5 +73570,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791512846.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-adalk-6ba84767",
+    "num": "adalk-6ba84767",
+    "date_str": "2026-10-09",
+    "description": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 10\u0d9a \u0daf\u0dda\u0db4\u0dc5 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-10\u0d9a-\u0daf\u0dda\u0db4\u0dc5-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424577",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791513515.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-03f98d36",
+    "num": "dailymirrorlk-03f98d36",
+    "date_str": "2026-10-09",
+    "description": "Sri Lanka\u2019s Ambassador to France presents credentials to Macron",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Ambassador-to-France-presents-credentials-to-Macron/108-352120",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791515140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-d99d6c85",
+    "num": "dailymirrorlk-d99d6c85",
+    "date_str": "2026-10-09",
+    "description": "Man shot dead, wife injured in Kalutara shooting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-shot-dead-wife-injured-in-Kalutara-shooting/108-352121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791515757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-1d1d4d8b",
+    "num": "dailymirrorlk-1d1d4d8b",
+    "date_str": "2026-10-09",
+    "description": "Police seek CCTV footage after porcupine killed in Palawatta",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-seek-CCTV-footage-after-porcupine-killed-in-Palawatta/108-352122",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791516574.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-b06129ef",
+    "num": "dailymirrorlk-b06129ef",
+    "date_str": "2026-10-09",
+    "description": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-administration-freezes-green-cards-for-Microsoft-IT-firms-probes-universities/107-352123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791516868.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-4b72ce82",
+    "num": "dailymirrorlk-4b72ce82",
+    "date_str": "2026-10-09",
+    "description": "Trump says US will not attack Iran before midterm elections in November",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-US-will-not-attack-Iran-before-midterm-elections-in-November/107-352124",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791518175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-09-dailymirrorlk-147fb194",
+    "num": "dailymirrorlk-147fb194",
+    "date_str": "2026-10-09",
+    "description": "CSE selling deepens as ASPI falls towards 20,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-selling-deepens-as-ASPI-falls-towards-20-500/108-352125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791518295.0
   }
 ]
