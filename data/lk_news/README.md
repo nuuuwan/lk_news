@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--09_20:00:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--09_21:58:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,707** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,709** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-09-dailymirrorlk-5aa148b2",
-    "num": "dailymirrorlk-5aa148b2",
+    "doc_id": "2026-10-09-dailymirrorlk-353a69a4",
+    "num": "dailymirrorlk-353a69a4",
     "date_str": "2026-10-09",
-    "description": "Gotabaya appeals against dismissal of Easter Sunday arrest-prevention writ",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-appeals-against-dismissal-of-Easter-Sunday-arrest-prevention-writ/108-352191",
+    "description": "DMT to strictly enforce vehicle transfer rules from December 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DMT-to-strictly-enforce-vehicle-transfer-rules-from-December-1/108-352192",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791548784.0
+    "time_ut": 1791557035.0
 }
 ```
 
@@ -41,10 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-09 | `dailymirrorlk-353a69a4` | DMT to strictly enforce vehicle transfer rules from December 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-353a69a4)
 - 2026-10-09 | `dailymirrorlk-5aa148b2` | Gotabaya appeals against dismissal of Easter Sunday arrest-prevention writ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5aa148b2)
 - 2026-10-09 | `dailymirrorlk-770a5ac7` | Court of Appeal orders action to prevent elephant deaths in train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-770a5ac7)
 - 2026-10-09 | `dailymirrorlk-e02d28b8` | US military will livestream firing squad execution of Fort Hood shooter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-e02d28b8)
 - 2026-10-09 | `adalk-aa6b6d31` | කතානායකට එරෙහි විශ්වාසභංගය භාර දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-adalk-aa6b6d31)
+- 2026-10-09 | `adalk-af0a36ed` | මෙට්‍රෝ බසයේ ගැටුණ පුද්ගලික බසය ධාවනයෙන් ඉවතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-adalk-af0a36ed)
 - 2026-10-09 | `adalk-f0f16525` | 2026 නොබෙල් සාම ත්‍යාගය පිල්ලේ වෙත පිරිනමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-adalk-f0f16525)
 - 2026-10-09 | `dailymirrorlk-a161884e` | Clean Colombo drive focuses on drainage, waste management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-a161884e)
 - 2026-10-09 | `dailymirrorlk-0cb3000a` | Government moves to declare Diyagama forest a reserve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-0cb3000a)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-09 | `adalk-99a839cc` | සමාජ මාධ්‍ය ඔස්සේ සිදුවන විදෙස් විශ්වවිද්‍යාල වංචාවක් හෙළිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-adalk-99a839cc)
 - 2026-10-09 | `dailymirrorlk-c4d02017` | BOI fast-tracks Northern Industrial zones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-c4d02017)
 - 2026-10-09 | `dailymirrorlk-5bb00cf7` | CC approves Dr. Hemamal Jayawardene as Human Rights Commission Commissioner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5bb00cf7)
-- 2026-10-09 | `dailymirrorlk-cd7b3f90` | WHEN BIG TECH COMES TO TOWN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-cd7b3f90)
-- 2026-10-09 | `dailymirrorlk-5321b475` | Former magistrate Thilina Gamage removed from service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5321b475)
 
 ---
 
