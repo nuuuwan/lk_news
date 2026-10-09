@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-09 10:01:26",
-  "n_docs": 132639,
+  "time_updated": "2026-10-09 12:06:33",
+  "n_docs": 132662,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132639,
+  "n_docs_with_text": 132662,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-09",
-  "dataset_size": 2057029932,
+  "dataset_size": 2057145668,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-09-dailymirrorlk-147fb194",
-    "num": "dailymirrorlk-147fb194",
+    "doc_id": "2026-10-09-dailymirrorlk-8edf4092",
+    "num": "dailymirrorlk-8edf4092",
     "date_str": "2026-10-09",
-    "description": "CSE selling deepens as ASPI falls towards 20,500",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-selling-deepens-as-ASPI-falls-towards-20-500/108-352125",
+    "description": "PSTA Bill differs from expert committee draft, Herath admits",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PSTA-Bill-differs-from-expert-committee-draft-Herath-admits/108-352153",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791518295.0
+    "time_ut": 1791527202.0
   }
 }
