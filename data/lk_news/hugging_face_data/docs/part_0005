@@ -74750,6 +74750,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-adalk-28a3a9dc",
+    "num": "adalk-28a3a9dc",
+    "date_str": "2026-10-10",
+    "description": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca 436 \u0d9a\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dbd\u0dd2\u0db4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0dbd\u0db6\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca-436-\u0d9a\u0da7-\u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dca-\u0dbd\u0dd2\u0db4\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba-\u0dbd\u0db6\u0db1/11-424593",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791602365.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-dailymirrorlk-4f34c664",
     "num": "dailymirrorlk-4f34c664",
     "date_str": "2026-10-10",
@@ -74871,6 +74882,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-a7ed2cfa",
+    "num": "dailymirrorlk-a7ed2cfa",
+    "date_str": "2026-10-10",
+    "description": "SDB bank appoints banking veteran Manoj Akmeemana as CEO",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SDB-bank-appoints-banking-veteran-Manoj-Akmeemana-as-CEO/273-352223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791604226.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-dailymirrorlk-8c38fd99",
     "num": "dailymirrorlk-8c38fd99",
     "date_str": "2026-10-10",
@@ -74959,6 +74981,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-5aa148b2",
+    "num": "dailymirrorlk-5aa148b2",
+    "date_str": "2026-10-10",
+    "description": "Gotabaya appeals against dismissal of Easter Sunday arrest-prevention writ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-appeals-against-dismissal-of-Easter-Sunday-arrest-prevention-writ/108-352244",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791616991.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-dailymirrorlk-fc0f3bdd",
     "num": "dailymirrorlk-fc0f3bdd",
     "date_str": "2026-10-10",
@@ -74967,5 +75000,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791617508.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-adalk-39405cb3",
+    "num": "adalk-39405cb3",
+    "date_str": "2026-10-10",
+    "description": "\u0d9c\u0dd0\u0dbb\u0da9\u0dd2\u0d87\u0dbd\u0dca\u0dbd\u0dda \u0db1\u0dcf\u0dba \u0dba\u0dd1\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd0\u0dbb\u0da9\u0dd2\u0d87\u0dbd\u0dca\u0dbd\u0dda-\u0db1\u0dcf\u0dba-\u0dba\u0dd1\u0db8\u0d9a\u0dca/11-424594",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791621334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-f33fd0c4",
+    "num": "dailymirrorlk-f33fd0c4",
+    "date_str": "2026-10-10",
+    "description": "Sri Lanka Army marks 77th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-Army-marks-77th-anniversary/110-352246",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791621463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-582f87ea",
+    "num": "dailymirrorlk-582f87ea",
+    "date_str": "2026-10-10",
+    "description": "Sri Lanka, China to mark key diplomatic milestones in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-China-to-mark-key-diplomatic-milestones-in-2027/108-352247",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791624237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-55d10588",
+    "num": "dailymirrorlk-55d10588",
+    "date_str": "2026-10-10",
+    "description": "Sri Lankan Ambassador visits Anojan Sivarasa at Saudi prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Ambassador-visits-Anojan-Sivarasa-at-Saudi-prison/108-352248",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791625078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-1f12ef24",
+    "num": "dailymirrorlk-1f12ef24",
+    "date_str": "2026-10-10",
+    "description": "Peacocks, monkeys, deer make their way into urban areas including Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Peacocks-monkeys-deer-make-their-way-into-urban-areas-including-Colombo/108-352249",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791625598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-c473fbca",
+    "num": "dailymirrorlk-c473fbca",
+    "date_str": "2026-10-10",
+    "description": "Sri Lanka condemns attacks on Saudi civilian airports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-condemns-attacks-on-Saudi-civilian-airports/108-352250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791626749.0
   }
 ]
