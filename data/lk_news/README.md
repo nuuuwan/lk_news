@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_15:54:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_18:02:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,768** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,770** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-10-dailymirrorlk-c473fbca",
-    "num": "dailymirrorlk-c473fbca",
+    "doc_id": "2026-10-10-dailymirrorlk-133e8d4c",
+    "num": "dailymirrorlk-133e8d4c",
     "date_str": "2026-10-10",
-    "description": "Sri Lanka condemns attacks on Saudi civilian airports",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-condemns-attacks-on-Saudi-civilian-airports/108-352250",
+    "description": "Foreign employment job fair to be held in Jaffna today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-employment-job-fair-to-be-held-in-Jaffna-today/108-352252",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791626749.0
+    "time_ut": 1791629576.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-10 | `dailymirrorlk-133e8d4c` | Foreign employment job fair to be held in Jaffna today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-133e8d4c)
+- 2026-10-10 | `dailymirrorlk-5596fde7` | Eight reservoirs spilling as gates remain open at three major tanks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-5596fde7)
 - 2026-10-10 | `dailymirrorlk-c473fbca` | Sri Lanka condemns attacks on Saudi civilian airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-c473fbca)
 - 2026-10-10 | `dailymirrorlk-1f12ef24` | Peacocks, monkeys, deer make their way into urban areas including Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-1f12ef24)
 - 2026-10-10 | `dailymirrorlk-55d10588` | Sri Lankan Ambassador visits Anojan Sivarasa at Saudi prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-55d10588)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-10 | `dailymirrorlk-8c38fd99` | Tea auction sees firm demand for 5.1mn kg offering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-8c38fd99)
 - 2026-10-10 | `dailymirrorlk-a7ed2cfa` | SDB bank appoints banking veteran Manoj Akmeemana as CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-a7ed2cfa)
 - 2026-10-10 | `dailymirrorlk-49866708` | Ceylon Chamber connects Sri Lankan businesses with Mississippi investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-49866708)
-- 2026-10-10 | `dailymirrorlk-34cd9011` | Thilan Wijesinghe categorically denies allegations contained on Parliamentary list | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-34cd9011)
-- 2026-10-10 | `dailymirrorlk-eba2312e` | Selling pressure continues in secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-eba2312e)
 
 ---
 

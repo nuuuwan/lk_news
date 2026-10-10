@@ -75066,5 +75066,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791626749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-5596fde7",
+    "num": "dailymirrorlk-5596fde7",
+    "date_str": "2026-10-10",
+    "description": "Eight reservoirs spilling as gates remain open at three major tanks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eight-reservoirs-spilling-as-gates-remain-open-at-three-major-tanks/108-352251",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791629071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-133e8d4c",
+    "num": "dailymirrorlk-133e8d4c",
+    "date_str": "2026-10-10",
+    "description": "Foreign employment job fair to be held in Jaffna today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-employment-job-fair-to-be-held-in-Jaffna-today/108-352252",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791629576.0
   }
 ]
