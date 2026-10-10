@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_06:22:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_08:08:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,726** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,728** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-10-dailymirrorlk-0617ca10",
-    "num": "dailymirrorlk-0617ca10",
+    "doc_id": "2026-10-10-dailymirrorlk-39a6274b",
+    "num": "dailymirrorlk-39a6274b",
     "date_str": "2026-10-10",
-    "description": "Pakistan draw first blood",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-draw-first-blood/108-352196",
+    "description": "Four gates opened at Deduru Oya Reservoir",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-gates-opened-at-Deduru-Oya-Reservoir/108-352203",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791581448.0
+    "time_ut": 1791597117.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-10 | `dailymirrorlk-39a6274b` | Four gates opened at Deduru Oya Reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-39a6274b)
+- 2026-10-10 | `dailymirrorlk-ef18251f` | Surgery planned for sick zebra at Dehiwala Zoo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-ef18251f)
 - 2026-10-10 | `dailymirrorlk-0617ca10` | Pakistan draw first blood | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-0617ca10)
 - 2026-10-09 | `dailyftlk-e356adc2` | 44 opposition MPs move no-confidence motion against Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-e356adc2)
 - 2026-10-09 | `dailyftlk-2c404ec9` | Prof. G.L. Peiris Trust for Legal Education and Research established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-2c404ec9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-09 | `dailyftlk-80006b08` | AIA Insurance continues partnership with WCIC as Platinum Partner of the Prathibhabhisheka Women Entrepreneur Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-80006b08)
 - 2026-10-09 | `dailyftlk-5bd60ae0` | Health and Humanity Summit 2026: Humans to humans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-5bd60ae0)
 - 2026-10-09 | `dailymirrorlk-353a69a4` | DMT to strictly enforce vehicle transfer rules from December 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-353a69a4)
-- 2026-10-09 | `dailymirrorlk-5aa148b2` | Gotabaya appeals against dismissal of Easter Sunday arrest-prevention writ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-5aa148b2)
-- 2026-10-09 | `dailymirrorlk-770a5ac7` | Court of Appeal orders action to prevent elephant deaths in train collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailymirrorlk-770a5ac7)
 
 ---
 

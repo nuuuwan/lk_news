@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-10 06:21:35",
-  "n_docs": 132726,
+  "time_updated": "2026-10-10 08:07:36",
+  "n_docs": 132728,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132726,
+  "n_docs_with_text": 132728,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-10",
-  "dataset_size": 2058194242,
+  "dataset_size": 2058197078,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-10-dailymirrorlk-0617ca10",
-    "num": "dailymirrorlk-0617ca10",
+    "doc_id": "2026-10-10-dailymirrorlk-39a6274b",
+    "num": "dailymirrorlk-39a6274b",
     "date_str": "2026-10-10",
-    "description": "Pakistan draw first blood",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-draw-first-blood/108-352196",
+    "description": "Four gates opened at Deduru Oya Reservoir",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-gates-opened-at-Deduru-Oya-Reservoir/108-352203",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791581448.0
+    "time_ut": 1791597117.0
   }
 }
