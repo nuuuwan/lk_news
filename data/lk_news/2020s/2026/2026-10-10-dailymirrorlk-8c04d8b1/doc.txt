@@ -1,0 +1,19 @@
+Edinborough Products goes live with group-wide digital transformation
+
+Edinborough Products, a Sri Lankan food manufacturer with a portfolio of more than 200 products, an export footprint covering over 25 countries and a history spanning more than five decades, has entered a new phase of digital transformation with the go-live of a group-wide integrated digital ecosystem.
+
+The platform, which went live on October 5, brings together SAP S/4HANA Cloud, SFA manufacturing systems, a Human Resource Information System (HRIS) and banking integration across the group’s business functions, manufacturing facilities and overseas operations. The company described the initiative as the largest project undertaken by the Edinborough Products team.
+
+By connecting finance, manufacturing, procurement, supply chain, sales and distribution, human resources, treasury and banking operations within a common digital environment, the platform is designed to provide more consistent access to operational and financial information, while supporting standardised processes, stronger governance and faster decision-making.
+
+At the centre of the transformation is SAP S/4HANA Cloud, which serves as the digital backbone for finance and management reporting, procurement, production planning, inventory, sales and distribution, supply chain management, treasury and banking. Its integration with SFA, in turn, links manufacturing activity with production, material consumption, inventory, quality and supply chain processes.
+
+Edinborough Products Managing Director R.P.M. Zalmy noted that the implementation represented a broader change in how the organisation operates.
+
+“The implementation of SAP S/4HANA Cloud, SFA, HRIS and banking integration represents a defining moment for Edinborough Products. This is not simply a technology implementation. It is a transformation of how we operate, collaborate and create value,” he said.
+
+According to Zalmy, connecting the group’s companies and manufacturing operations through a common digital platform would lay the foundation for sustainable growth, operational excellence and international expansion.
+
+Meanwhile, Chief Financial Officer and Project Manager Asanka Narangoda pointed to the organisation-wide effort behind the programme. “This programme has brought together every major function of the business under one shared vision. Its successful delivery reflects the commitment of our employees, guidance of our leadership team and expertise of our advisory and implementation partners,” he added.
+
+Narangoda went on to note that the programme was creating a connected, data-driven enterprise capable of supporting the group’s future ambitions, both in Sri Lanka and across its overseas operations.

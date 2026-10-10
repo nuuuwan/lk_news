@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_12:03:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--10_13:59:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,735** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,759** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-10-dailymirrorlk-f22c98be",
-    "num": "dailymirrorlk-f22c98be",
+    "doc_id": "2026-10-10-dailymirrorlk-fc0f3bdd",
+    "num": "dailymirrorlk-fc0f3bdd",
     "date_str": "2026-10-10",
-    "description": "\u2018Justice for the Robe\u2019 protest walk begins in Kandy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-for-the-Robe-protest-walk-begins-in-Kandy/108-352229",
+    "description": "SriLankan Airlines suspends Riyadh flights until October 18",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-suspends-Riyadh-flights-until-October-18/108-352245",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791610233.0
+    "time_ut": 1791617508.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-10 | `dailymirrorlk-fc0f3bdd` | SriLankan Airlines suspends Riyadh flights until October 18 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-fc0f3bdd)
+- 2026-10-10 | `dailymirrorlk-24c5f848` | Drug trafficker’s property seized | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-24c5f848)
+- 2026-10-10 | `dailymirrorlk-f31d8475` | Apeksha Hospital to strengthen cancer care, address treatment delays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-f31d8475)
 - 2026-10-10 | `dailymirrorlk-f22c98be` | ‘Justice for the Robe’ protest walk begins in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-f22c98be)
 - 2026-10-10 | `dailymirrorlk-e49c4beb` | Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-e49c4beb)
 - 2026-10-10 | `dailymirrorlk-c1414096` | Madu Ganga boat operations to face stricter controls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-c1414096)
 - 2026-10-10 | `dailymirrorlk-2bc117cf` | BOI sets timetable for 2 northern investment zones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-2bc117cf)
-- 2026-10-10 | `adalk-7da39a93` | මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ රු.මි. 35ක දේපළ ක්‍රියා විරහිත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-adalk-7da39a93)
-- 2026-10-10 | `dailymirrorlk-8511f36a` | Bairaha Farms stands out at Pro-food Pro-pack & Agbiz 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-8511f36a)
-- 2026-10-10 | `dailymirrorlk-39a6274b` | Four gates opened at Deduru Oya Reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-39a6274b)
-- 2026-10-10 | `dailymirrorlk-ef18251f` | Surgery planned for sick zebra at Dehiwala Zoo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-ef18251f)
-- 2026-10-10 | `dailymirrorlk-0617ca10` | Pakistan draw first blood | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-0617ca10)
-- 2026-10-09 | `dailyftlk-e356adc2` | 44 opposition MPs move no-confidence motion against Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-e356adc2)
-- 2026-10-09 | `dailyftlk-2c404ec9` | Prof. G.L. Peiris Trust for Legal Education and Research established | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-2c404ec9)
-- 2026-10-09 | `dailyftlk-01c67618` | Indian Supreme Court says Indian fisherman must not enter Lankan waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-01c67618)
-- 2026-10-09 | `dailyftlk-2f8184f2` | Beyond “Cosmic Myth”: Buddhism, history and search for inclusive Sri Lankan Republic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-2f8184f2)
-- 2026-10-09 | `dailyftlk-9b0001ae` | Myth of Tarshish: Was Galle truly King Solomon’s lost port? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-9b0001ae)
-- 2026-10-09 | `dailyftlk-aa359add` | Beyond coalition arithmetic:  Rethinking Opposition strategy after Aragalaya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-aa359add)
-- 2026-10-09 | `dailyftlk-9dbe7e24` | Who owns new security laws? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-9dbe7e24)
-- 2026-10-09 | `dailyftlk-3c5e84de` | PTSA: Realistic options | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-3c5e84de)
-- 2026-10-09 | `dailyftlk-6d060907` | Decryption, disclosure and detention: What the Prevention of Organised Crimes Bill brings back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-6d060907)
-- 2026-10-09 | `dailyftlk-c34196e0` | SL at Myanmar International Business Trade Show and Travel Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-c34196e0)
-- 2026-10-09 | `dailyftlk-d67e8bc5` | Daraz Sri Lanka launches 10.10 Shopping Fest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-09-dailyftlk-d67e8bc5)
+- 2026-10-10 | `dailymirrorlk-25847e74` | Indian investor urges Sri Lanka to court India with dedicated campaign, restore Kolkata flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-25847e74)
+- 2026-10-10 | `dailymirrorlk-8c38fd99` | Tea auction sees firm demand for 5.1mn kg offering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-8c38fd99)
+- 2026-10-10 | `dailymirrorlk-49866708` | Ceylon Chamber connects Sri Lankan businesses with Mississippi investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-49866708)
+- 2026-10-10 | `dailymirrorlk-34cd9011` | Thilan Wijesinghe categorically denies allegations contained on Parliamentary list | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-34cd9011)
+- 2026-10-10 | `dailymirrorlk-eba2312e` | Selling pressure continues in secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-eba2312e)
+- 2026-10-10 | `dailymirrorlk-dd76ffb4` | Week ends in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-dd76ffb4)
+- 2026-10-10 | `dailymirrorlk-43ad0609` | FLH launches ‘FLH udmsh lemlre’ programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-43ad0609)
+- 2026-10-10 | `dailymirrorlk-b82de411` | Tokyo Cement supports Cyclone Ditwah-affected children in Kandy and Badulla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-b82de411)
+- 2026-10-10 | `dailymirrorlk-fadf1e94` | HNB Life supports young minds celebrating Int’l Children’s Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-fadf1e94)
+- 2026-10-10 | `dailymirrorlk-fad5f04e` | One Galle Face with ICT and Make-A-Wish Sri Lanka marks Children’s Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-fad5f04e)
+- 2026-10-10 | `dailymirrorlk-dd8331c1` | Lanka IOC marks 24th anniversary with community-focused CSR initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-dd8331c1)
+- 2026-10-10 | `dailymirrorlk-8c04d8b1` | Edinborough Products goes live with group-wide digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-8c04d8b1)
+- 2026-10-10 | `dailymirrorlk-4f34c664` | Ninewells celebrates Children’s Day at Lady Ridgeway Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-4f34c664)
 
 ---
 

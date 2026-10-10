@@ -74618,6 +74618,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-a8e0436e",
+    "num": "dailymirrorlk-a8e0436e",
+    "date_str": "2026-10-10",
+    "description": "Ragging in universities: Make students accountable from day one",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Ragging-in-universities-Make-students-accountable-from-day-one/172-352198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791595864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-8e645132",
+    "num": "dailymirrorlk-8e645132",
+    "date_str": "2026-10-10",
+    "description": "Justice and controversy over monks\u2019 attire in prison",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Justice-and-controversy-over-monks-attire-in-prison/172-352199",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791596191.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-dailymirrorlk-ef18251f",
     "num": "dailymirrorlk-ef18251f",
     "date_str": "2026-10-10",
@@ -74626,6 +74648,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791596312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-6940b687",
+    "num": "dailymirrorlk-6940b687",
+    "date_str": "2026-10-10",
+    "description": "2028: Sri Lanka\u2019s 80th Year of Independence",
+    "url_metadata": "https://www.dailymirror.lk/opinion/2028-Sri-Lankas-80th-Year-of-Independence/172-352201",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791596628.0
   },
   {
     "doc_type": "lk_news",
@@ -74651,6 +74684,61 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-3ebabb79",
+    "num": "dailymirrorlk-3ebabb79",
+    "date_str": "2026-10-10",
+    "description": "The Unlabelled Runway 2026 brings fashion, inclusion and purpose",
+    "url_metadata": "https://www.dailymirror.lk/business-news/The-Unlabelled-Runway-2026-brings-fashion-inclusion-and-purpose/273-352207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791600325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-8bedca70",
+    "num": "dailymirrorlk-8bedca70",
+    "date_str": "2026-10-10",
+    "description": "Ceylinco Life rewards sales success with global adventures",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylinco-Life-rewards-sales-success-with-global-adventures/273-352208",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791600677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-ea89dede",
+    "num": "dailymirrorlk-ea89dede",
+    "date_str": "2026-10-10",
+    "description": "Publicis Groupe Sri Lanka relocates to \u2018The Optimist\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Publicis-Groupe-Sri-Lanka-relocates-to-The-Optimist/273-352209",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791600869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-870c6126",
+    "num": "dailymirrorlk-870c6126",
+    "date_str": "2026-10-10",
+    "description": "Khayaban opens fifth outlet in Colombo eyeing tourism boom",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Khayaban-opens-fifth-outlet-in-Colombo-eyeing-tourism-boom/273-352210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791601044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-753cc417",
+    "num": "dailymirrorlk-753cc417",
+    "date_str": "2026-10-10",
+    "description": "AAT Sri Lanka Conference examines new rules shaping finance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/AAT-Sri-Lanka-Conference-examines-new-rules-shaping-finance/273-352211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791601216.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-adalk-7da39a93",
     "num": "adalk-7da39a93",
     "date_str": "2026-10-10",
@@ -74659,6 +74747,149 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791601878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-4f34c664",
+    "num": "dailymirrorlk-4f34c664",
+    "date_str": "2026-10-10",
+    "description": "Ninewells celebrates Children\u2019s Day at Lady Ridgeway Hospital",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ninewells-celebrates-Childrens-Day-at-Lady-Ridgeway-Hospital/273-352212",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791602536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-8c04d8b1",
+    "num": "dailymirrorlk-8c04d8b1",
+    "date_str": "2026-10-10",
+    "description": "Edinborough Products goes live with group-wide digital transformation",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Edinborough-Products-goes-live-with-group-wide-digital-transformation/273-352213",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791602654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-dd8331c1",
+    "num": "dailymirrorlk-dd8331c1",
+    "date_str": "2026-10-10",
+    "description": "Lanka IOC marks 24th anniversary with community-focused CSR initiative",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Lanka-IOC-marks-24th-anniversary-with-community-focused-CSR-initiative/273-352214",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791602783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-fad5f04e",
+    "num": "dailymirrorlk-fad5f04e",
+    "date_str": "2026-10-10",
+    "description": "One Galle Face with ICT and Make-A-Wish Sri Lanka marks Children\u2019s Day",
+    "url_metadata": "https://www.dailymirror.lk/business-news/One-Galle-Face-with-ICT-and-Make-A-Wish-Sri-Lanka-marks-Childrens-Day/273-352215",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791602912.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-fadf1e94",
+    "num": "dailymirrorlk-fadf1e94",
+    "date_str": "2026-10-10",
+    "description": "HNB Life supports young minds celebrating Int\u2019l Children\u2019s Day",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-Life-supports-young-minds-celebrating-Intl-Childrens-Day/273-352216",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603079.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-b82de411",
+    "num": "dailymirrorlk-b82de411",
+    "date_str": "2026-10-10",
+    "description": "Tokyo Cement supports Cyclone Ditwah-affected children in Kandy and Badulla",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tokyo-Cement-supports-Cyclone-Ditwah-affected-children-in-Kandy-and-Badulla/273-352217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603213.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-43ad0609",
+    "num": "dailymirrorlk-43ad0609",
+    "date_str": "2026-10-10",
+    "description": "FLH launches \u2018FLH udmsh lemlre\u2019 programme",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FLH-launches-FLH-udmsh-lemlre-programme/273-352218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-dd76ffb4",
+    "num": "dailymirrorlk-dd76ffb4",
+    "date_str": "2026-10-10",
+    "description": "Week ends in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-green/273-352219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-eba2312e",
+    "num": "dailymirrorlk-eba2312e",
+    "date_str": "2026-10-10",
+    "description": "Selling pressure continues in secondary market",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Selling-pressure-continues-in-secondary-market/273-352220",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-34cd9011",
+    "num": "dailymirrorlk-34cd9011",
+    "date_str": "2026-10-10",
+    "description": "Thilan Wijesinghe categorically denies allegations contained on Parliamentary list",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Thilan-Wijesinghe-categorically-denies-allegations-contained-on-Parliamentary-list/273-352221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791603969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-49866708",
+    "num": "dailymirrorlk-49866708",
+    "date_str": "2026-10-10",
+    "description": "Ceylon Chamber connects Sri Lankan businesses with Mississippi investment opportunities",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-connects-Sri-Lankan-businesses-with-Mississippi-investment-opportunities/273-352222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791604022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-8c38fd99",
+    "num": "dailymirrorlk-8c38fd99",
+    "date_str": "2026-10-10",
+    "description": "Tea auction sees firm demand for 5.1mn kg offering",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Tea-auction-sees-firm-demand-for-5-1mn-kg-offering/273-352224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791604296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-25847e74",
+    "num": "dailymirrorlk-25847e74",
+    "date_str": "2026-10-10",
+    "description": "Indian investor urges Sri Lanka to court India with dedicated campaign, restore Kolkata flights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-investor-urges-Sri-Lanka-to-court-India-with-dedicated-campaign-restore-Kolkata-flights/108-352225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791604409.0
   },
   {
     "doc_type": "lk_news",
@@ -74703,5 +74934,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791610233.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-f31d8475",
+    "num": "dailymirrorlk-f31d8475",
+    "date_str": "2026-10-10",
+    "description": "Apeksha Hospital to strengthen cancer care, address treatment delays",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Apeksha-Hospital-to-strengthen-cancer-care-address-treatment-delays/108-352242",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791614364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-24c5f848",
+    "num": "dailymirrorlk-24c5f848",
+    "date_str": "2026-10-10",
+    "description": "Drug trafficker\u2019s property seized",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-traffickers-property-seized/108-352243",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791614725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-fc0f3bdd",
+    "num": "dailymirrorlk-fc0f3bdd",
+    "date_str": "2026-10-10",
+    "description": "SriLankan Airlines suspends Riyadh flights until October 18",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-suspends-Riyadh-flights-until-October-18/108-352245",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791617508.0
   }
 ]
