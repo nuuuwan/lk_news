@@ -74640,6 +74640,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-8511f36a",
+    "num": "dailymirrorlk-8511f36a",
+    "date_str": "2026-10-10",
+    "description": "Bairaha Farms stands out at Pro-food Pro-pack & Agbiz 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Bairaha-Farms-stands-out-at-Pro-food-Pro-pack-Agbiz-2026/273-352206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791600198.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-10-adalk-7da39a93",
     "num": "adalk-7da39a93",
     "date_str": "2026-10-10",
@@ -74648,5 +74659,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791601878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-2bc117cf",
+    "num": "dailymirrorlk-2bc117cf",
+    "date_str": "2026-10-10",
+    "description": "BOI sets timetable for 2 northern investment zones",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BOI-sets-timetable-for-2-northern-investment-zones/108-352226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791604505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-c1414096",
+    "num": "dailymirrorlk-c1414096",
+    "date_str": "2026-10-10",
+    "description": "Madu Ganga boat operations to face stricter controls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Madu-Ganga-boat-operations-to-face-stricter-controls/108-352227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791608580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-e49c4beb",
+    "num": "dailymirrorlk-e49c4beb",
+    "date_str": "2026-10-10",
+    "description": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-announces-deal-for-Russian-diesel-as-Zelensky-calls-it-a-gift-to-Putin/108-352228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791609584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-10-dailymirrorlk-f22c98be",
+    "num": "dailymirrorlk-f22c98be",
+    "date_str": "2026-10-10",
+    "description": "\u2018Justice for the Robe\u2019 protest walk begins in Kandy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Justice-for-the-Robe-protest-walk-begins-in-Kandy/108-352229",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791610233.0
   }
 ]
