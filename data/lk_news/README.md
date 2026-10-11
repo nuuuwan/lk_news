@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_21:57:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_23:59:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,816** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,817** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-11-dailymirrorlk-6daf1c1a",
-    "num": "dailymirrorlk-6daf1c1a",
+    "doc_id": "2026-10-11-dailymirrorlk-abe525fc",
+    "num": "dailymirrorlk-abe525fc",
     "date_str": "2026-10-11",
-    "description": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-    "url_metadata": "https://www.dailymirror.lk/international/Children-among-139-dead-after-boat-capsizes-off-Djibouti-UN-says/107-352289",
+    "description": "New attack hits Riyadh airport, says Saudi coalition",
+    "url_metadata": "https://www.dailymirror.lk/international/New-attack-hits-Riyadh-airport-says-Saudi-coalition/107-352290",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791734783.0
+    "time_ut": 1791735711.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-11 | `dailymirrorlk-abe525fc` | New attack hits Riyadh airport, says Saudi coalition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-abe525fc)
 - 2026-10-11 | `dailymirrorlk-6daf1c1a` | Children among 139 dead after boat capsizes off Djibouti, UN says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-6daf1c1a)
 - 2026-10-11 | `dailymirrorlk-2cf33f18` | Pope Leo to have surgery after lump found on lung | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-2cf33f18)
 - 2026-10-11 | `dailymirrorlk-eafe2399` | Appeal against Anojan’s death sentence filed in Saudi Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-eafe2399)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `dailymirrorlk-178fc457` | Nepal urges villagers to evacuate after flood triggered by landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-178fc457)
 - 2026-10-11 | `dailymirrorlk-f5de3de9` | How Much Have Prices Changed? Explore Sri Lanka in 2016 vs 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-f5de3de9)
 - 2026-10-11 | `dailymirrorlk-3e28f63f` | Sri Lanka retains Tier 2 status in US Trafficking Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-3e28f63f)
-- 2026-10-11 | `dailymirrorlk-f1520ee4` | Thabbowa reservoir project shows promise in reducing human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-f1520ee4)
 
 ---
 
