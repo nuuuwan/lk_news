@@ -75462,5 +75462,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791706392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-fdad4bea",
+    "num": "dailymirrorlk-fdad4bea",
+    "date_str": "2026-10-11",
+    "description": "Drug trafficking suspect \u2018Ran Malli\u2019 arrested in Bulgaria",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-trafficking-suspect-Ran-Malli-arrested-in-Bulgaria/108-352280",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791707353.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-b8c16eb8",
+    "num": "dailymirrorlk-b8c16eb8",
+    "date_str": "2026-10-11",
+    "description": "Five major reservoirs spill or open gates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-major-reservoirs-spill-or-open-gates/108-352282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791710053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-8f629dd7",
+    "num": "dailymirrorlk-8f629dd7",
+    "date_str": "2026-10-11",
+    "description": "Trump calls for replacing Ukraine\u2019s Zelenskiy in tussle over diesel deal with Russia",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-calls-for-replacing-Ukraines-Zelenskiy-in-tussle-over-diesel-deal-with-Russia/107-352283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791711991.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-1c07e19c",
+    "num": "dailymirrorlk-1c07e19c",
+    "date_str": "2026-10-11",
+    "description": "Yemen\u2019s Houthis warn passengers not to use Saudi airports",
+    "url_metadata": "https://www.dailymirror.lk/international/Yemens-Houthis-warn-passengers-not-to-use-Saudi-airports/107-352284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791712285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-fa639277",
+    "num": "dailymirrorlk-fa639277",
+    "date_str": "2026-10-11",
+    "description": "New regulations for monks in custody to be finalised soon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-regulations-for-monks-in-custody-to-be-finalised-soon/108-352285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791713456.0
   }
 ]
