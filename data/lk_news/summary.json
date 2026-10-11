@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-11 09:58:39",
-  "n_docs": 132787,
+  "time_updated": "2026-10-11 12:04:36",
+  "n_docs": 132796,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132787,
+  "n_docs_with_text": 132796,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-11",
-  "dataset_size": 2058779908,
+  "dataset_size": 2058836341,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-11-dailymirrorlk-7883cbaa",
-    "num": "dailymirrorlk-7883cbaa",
+    "doc_id": "2026-10-11-dailymirrorlk-f5de3de9",
+    "num": "dailymirrorlk-f5de3de9",
     "date_str": "2026-10-11",
-    "description": "Private fuel suppliers can set prices based on costs: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Private-fuel-suppliers-can-set-prices-based-on-costs-Minister/108-352265",
+    "description": "How Much Have Prices Changed? Explore Sri Lanka in 2016 vs 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-Much-Have-Prices-Changed-Explore-Sri-Lanka-in-2016-vs-2026/108-352271",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791686034.0
+    "time_ut": 1791697392.0
   }
 }
