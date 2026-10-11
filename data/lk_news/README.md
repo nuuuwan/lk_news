@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_19:56:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_21:57:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,813** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,816** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-11-adalk-2910a4f6",
-    "num": "adalk-2910a4f6",
+    "doc_id": "2026-10-11-dailymirrorlk-6daf1c1a",
+    "num": "dailymirrorlk-6daf1c1a",
     "date_str": "2026-10-11",
-    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0d9a \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0d9a-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/11-424608",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1791728294.0
+    "description": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+    "url_metadata": "https://www.dailymirror.lk/international/Children-among-139-dead-after-boat-capsizes-off-Djibouti-UN-says/107-352289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791734783.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-11 | `dailymirrorlk-6daf1c1a` | Children among 139 dead after boat capsizes off Djibouti, UN says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-6daf1c1a)
+- 2026-10-11 | `dailymirrorlk-2cf33f18` | Pope Leo to have surgery after lump found on lung | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-2cf33f18)
+- 2026-10-11 | `dailymirrorlk-eafe2399` | Appeal against Anojan’s death sentence filed in Saudi Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-eafe2399)
 - 2026-10-11 | `adalk-2910a4f6` | නේපාලයේ ප්‍රධාන ගංගාවක යළිත් හදිසි ගංවතුර තත්ත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-2910a4f6)
 - 2026-10-11 | `adalk-cca0b5d2` | නාමල්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-cca0b5d2)
 - 2026-10-11 | `dailymirrorlk-cc2efbb5` | Pakistan imposes emergency rule in ​province governed by Imran Khan’s party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-cc2efbb5)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `dailymirrorlk-f5de3de9` | How Much Have Prices Changed? Explore Sri Lanka in 2016 vs 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-f5de3de9)
 - 2026-10-11 | `dailymirrorlk-3e28f63f` | Sri Lanka retains Tier 2 status in US Trafficking Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-3e28f63f)
 - 2026-10-11 | `dailymirrorlk-f1520ee4` | Thabbowa reservoir project shows promise in reducing human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-f1520ee4)
-- 2026-10-11 | `dailymirrorlk-a6885738` | Rs. 20 million fine, imprisonment for hazardous waste offences: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-a6885738)
-- 2026-10-11 | `dailymirrorlk-3e84c66e` | Man arrested in Wattala with over 18kg of Ice and heroin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-3e84c66e)
-- 2026-10-11 | `dailymirrorlk-76cdb979` | Musk takes sarcastic swipe at India over Starlink access | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-76cdb979)
 
 ---
 

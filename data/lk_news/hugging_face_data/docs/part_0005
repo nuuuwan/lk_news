@@ -75561,5 +75561,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791728294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-eafe2399",
+    "num": "dailymirrorlk-eafe2399",
+    "date_str": "2026-10-11",
+    "description": "Appeal against Anojan\u2019s death sentence filed in Saudi Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeal-against-Anojans-death-sentence-filed-in-Saudi-Supreme-Court/108-352287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791731517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-2cf33f18",
+    "num": "dailymirrorlk-2cf33f18",
+    "date_str": "2026-10-11",
+    "description": "Pope Leo to have surgery after lump found on lung",
+    "url_metadata": "https://www.dailymirror.lk/international/Pope-Leo-to-have-surgery-after-lump-found-on-lung/107-352288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791731677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-6daf1c1a",
+    "num": "dailymirrorlk-6daf1c1a",
+    "date_str": "2026-10-11",
+    "description": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+    "url_metadata": "https://www.dailymirror.lk/international/Children-among-139-dead-after-boat-capsizes-off-Djibouti-UN-says/107-352289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791734783.0
   }
 ]
