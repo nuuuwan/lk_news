@@ -75311,6 +75311,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-11-adalk-baa9a887",
+    "num": "adalk-baa9a887",
+    "date_str": "2026-10-11",
+    "description": "\u0d85\u0dba\u0dd2\u0dc3\u0dca \u0dc4\u0dcf \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dbd\u0ddd 18.5\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 24\u0d9a \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0dc4\u0dcf-\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dd2\u0dbd\u0ddd-18-5\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-24\u0d9a-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424603",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791690662.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-adalk-425d0495",
+    "num": "adalk-425d0495",
+    "date_str": "2026-10-11",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-424604",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791691234.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-11-dailymirrorlk-76cdb979",
     "num": "dailymirrorlk-76cdb979",
     "date_str": "2026-10-11",
@@ -75374,5 +75396,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791697392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-178fc457",
+    "num": "dailymirrorlk-178fc457",
+    "date_str": "2026-10-11",
+    "description": "Nepal urges villagers to evacuate after flood triggered by landslide",
+    "url_metadata": "https://www.dailymirror.lk/international/Nepal-urges-villagers-to-evacuate-after-flood-triggered-by-landslide/107-352272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791700374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-c7cdd518",
+    "num": "dailymirrorlk-c7cdd518",
+    "date_str": "2026-10-11",
+    "description": "Only monks can disrobe fellow monks, says Kotte Mahanayake Thera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Only-monks-can-disrobe-fellow-monks-says-Kotte-Mahanayake-Thera/108-352274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791700567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-88374f42",
+    "num": "dailymirrorlk-88374f42",
+    "date_str": "2026-10-11",
+    "description": "Sri Lanka Embassy alerts nationals after sudden flooding in Nepal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Embassy-alerts-nationals-after-sudden-flooding-in-Nepal/108-352275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791702127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-82661f0b",
+    "num": "dailymirrorlk-82661f0b",
+    "date_str": "2026-10-11",
+    "description": "Turkey bans social media for under-15s from November 1",
+    "url_metadata": "https://www.dailymirror.lk/international/Turkey-bans-social-media-for-under-15s-from-November-1/107-352277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791705689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-db948a98",
+    "num": "dailymirrorlk-db948a98",
+    "date_str": "2026-10-11",
+    "description": "Freedom march for Gnanasara Thera enters second day, heads to Kegalle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Freedom-march-for-Gnanasara-Thera-enters-second-day-heads-to-Kegalle/108-352278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791705827.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-11-dailymirrorlk-595ae226",
+    "num": "dailymirrorlk-595ae226",
+    "date_str": "2026-10-11",
+    "description": "Sri Lanka\u2019s rising black economy and corruption?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-rising-black-economy-and-corruption/108-352279",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791706392.0
   }
 ]
