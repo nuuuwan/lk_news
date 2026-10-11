@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_01:56:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_03:57:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,817** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,822** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-11-dailymirrorlk-abe525fc",
-    "num": "dailymirrorlk-abe525fc",
-    "date_str": "2026-10-11",
-    "description": "New attack hits Riyadh airport, says Saudi coalition",
-    "url_metadata": "https://www.dailymirror.lk/international/New-attack-hits-Riyadh-airport-says-Saudi-coalition/107-352290",
+    "doc_id": "2026-10-12-dailyftlk-f9fb9a03",
+    "num": "dailyftlk-f9fb9a03",
+    "date_str": "2026-10-12",
+    "description": "Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy",
+    "url_metadata": "https://www.ft.lk/columns/Alarming-case-of-financial-illiteracy-amidst-drive-for-financial-inclusiveness-and-literacy/4-798523",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791735711.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791756420.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-12 | `dailyftlk-f9fb9a03` | Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-f9fb9a03)
+- 2026-10-12 | `dailyftlk-80cfcadc` | Beyond transhipment: How Sri Lanka can monetise geopolitical disruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-80cfcadc)
+- 2026-10-12 | `dailyftlk-7319021e` | Sri Lanka, sanctioned tankers and international law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-7319021e)
+- 2026-10-12 | `dailyftlk-882aa515` | President AKD urged to uphold humanitarian principle that ‘territorial sea is a boundary for exercising sovereignty and not for limiting humanitarian help’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-882aa515)
+- 2026-10-12 | `dailyftlk-977036d1` | Sri Lanka’s democracy and JVP’s ultimate test | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-977036d1)
 - 2026-10-11 | `dailymirrorlk-abe525fc` | New attack hits Riyadh airport, says Saudi coalition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-abe525fc)
 - 2026-10-11 | `dailymirrorlk-6daf1c1a` | Children among 139 dead after boat capsizes off Djibouti, UN says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-6daf1c1a)
 - 2026-10-11 | `dailymirrorlk-2cf33f18` | Pope Leo to have surgery after lump found on lung | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-2cf33f18)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `dailymirrorlk-595ae226` | Sri Lanka’s rising black economy and corruption? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-595ae226)
 - 2026-10-11 | `dailymirrorlk-db948a98` | Freedom march for Gnanasara Thera enters second day, heads to Kegalle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-db948a98)
 - 2026-10-11 | `dailymirrorlk-82661f0b` | Turkey bans social media for under-15s from November 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-82661f0b)
-- 2026-10-11 | `dailymirrorlk-88374f42` | Sri Lanka Embassy alerts nationals after sudden flooding in Nepal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-88374f42)
-- 2026-10-11 | `dailymirrorlk-c7cdd518` | Only monks can disrobe fellow monks, says Kotte Mahanayake Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-c7cdd518)
-- 2026-10-11 | `dailymirrorlk-178fc457` | Nepal urges villagers to evacuate after flood triggered by landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-178fc457)
-- 2026-10-11 | `dailymirrorlk-f5de3de9` | How Much Have Prices Changed? Explore Sri Lanka in 2016 vs 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-f5de3de9)
-- 2026-10-11 | `dailymirrorlk-3e28f63f` | Sri Lanka retains Tier 2 status in US Trafficking Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-3e28f63f)
 
 ---
 

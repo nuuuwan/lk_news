@@ -75605,5 +75605,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791735711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-977036d1",
+    "num": "dailyftlk-977036d1",
+    "date_str": "2026-10-12",
+    "description": "Sri Lanka\u2019s democracy and JVP\u2019s ultimate test",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-democracy-and-JVP-s-ultimate-test/4-798519",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791755236.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-882aa515",
+    "num": "dailyftlk-882aa515",
+    "date_str": "2026-10-12",
+    "description": "President AKD urged to uphold humanitarian principle that \u2018territorial sea is a boundary for exercising sovereignty and not for limiting humanitarian help\u2019",
+    "url_metadata": "https://www.ft.lk/opinion/President-AKD-urged-to-uphold-humanitarian-principle-that-territorial-sea-is-a-boundary-for-exercising-sovereignty-and-not-for-limiting-humanitarian-help/14-798520",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791755549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-7319021e",
+    "num": "dailyftlk-7319021e",
+    "date_str": "2026-10-12",
+    "description": "Sri Lanka, sanctioned tankers and international law",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-sanctioned-tankers-and-international-law/14-798521",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791755898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-80cfcadc",
+    "num": "dailyftlk-80cfcadc",
+    "date_str": "2026-10-12",
+    "description": "Beyond transhipment: How Sri Lanka can monetise geopolitical disruption",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-transhipment-How-Sri-Lanka-can-monetise-geopolitical-disruption/4-798522",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791756249.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-f9fb9a03",
+    "num": "dailyftlk-f9fb9a03",
+    "date_str": "2026-10-12",
+    "description": "Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy",
+    "url_metadata": "https://www.ft.lk/columns/Alarming-case-of-financial-illiteracy-amidst-drive-for-financial-inclusiveness-and-literacy/4-798523",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791756420.0
   }
 ]
