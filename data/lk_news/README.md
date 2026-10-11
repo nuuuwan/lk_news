@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_06:25:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_08:11:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,777** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,784** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-10-dailymirrorlk-046336a8",
-    "num": "dailymirrorlk-046336a8",
-    "date_str": "2026-10-10",
-    "description": "Multiple people wounded in blast at Riyadh airport",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Multiple-people-wounded-in-blast-at-Riyadh-airport/108-352259",
+    "doc_id": "2026-10-11-dailymirrorlk-d42e9a7a",
+    "num": "dailymirrorlk-d42e9a7a",
+    "date_str": "2026-10-11",
+    "description": "Two children and pregnant woman among 8 shot dead at Pennsylvania house",
+    "url_metadata": "https://www.dailymirror.lk/international/Two-children-and-pregnant-woman-among-8-shot-dead-at-Pennsylvania-house/107-352264",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791648597.0
+    "time_ut": 1791685364.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-11 | `dailymirrorlk-d42e9a7a` | Two children and pregnant woman among 8 shot dead at Pennsylvania house | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-d42e9a7a)
+- 2026-10-11 | `dailymirrorlk-ffbde9be` | Wife of Kalutara restaurant owner dies following shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-ffbde9be)
+- 2026-10-11 | `adalk-185a658a` | රියාද් ගුවන්තොටුපොළට ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-185a658a)
+- 2026-10-11 | `dailymirrorlk-0bedb5f3` | Cristiano Ronaldo suspended by Portugal in latest twist to national team drama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-0bedb5f3)
+- 2026-10-11 | `dailymirrorlk-e67286c7` | Twelve killed in attack on airport in Saudi capital Riyadh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-e67286c7)
+- 2026-10-11 | `adalk-6f691401` | ශ්‍රී ලංකා තානාපති අනෝජන් සිවරාසා හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-6f691401)
 - 2026-10-10 | `dailymirrorlk-046336a8` | Multiple people wounded in blast at Riyadh airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-046336a8)
 - 2026-10-10 | `dailymirrorlk-3bf14e15` | ’Cockroach’ group leaders among hundreds detained in Delhi protest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-3bf14e15)
 - 2026-10-10 | `dailymirrorlk-7ec2994f` | Committee begins review of prison regulations following talks with Maha Sangha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-7ec2994f)
@@ -50,17 +56,11 @@ A collection of lk_news documents.
 - 2026-10-10 | `dailymirrorlk-9fb833e9` | CA orders state authorities to prevent elephant deaths caused by train-elephant collisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-9fb833e9)
 - 2026-10-10 | `dailymirrorlk-133e8d4c` | Foreign employment job fair to be held in Jaffna today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-133e8d4c)
 - 2026-10-10 | `dailymirrorlk-5596fde7` | Eight reservoirs spilling as gates remain open at three major tanks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-5596fde7)
+- 2026-10-10 | `adalk-ac9a7b28` | සාදයක් වටලා 12 දෙනෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-adalk-ac9a7b28)
 - 2026-10-10 | `dailymirrorlk-c473fbca` | Sri Lanka condemns attacks on Saudi civilian airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-c473fbca)
 - 2026-10-10 | `dailymirrorlk-1f12ef24` | Peacocks, monkeys, deer make their way into urban areas including Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-1f12ef24)
 - 2026-10-10 | `dailymirrorlk-55d10588` | Sri Lankan Ambassador visits Anojan Sivarasa at Saudi prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-55d10588)
 - 2026-10-10 | `dailymirrorlk-582f87ea` | Sri Lanka, China to mark key diplomatic milestones in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-582f87ea)
-- 2026-10-10 | `dailymirrorlk-f33fd0c4` | Sri Lanka Army marks 77th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-f33fd0c4)
-- 2026-10-10 | `adalk-39405cb3` | ගැරඩිඇල්ලේ නාය යෑමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-adalk-39405cb3)
-- 2026-10-10 | `dailymirrorlk-fc0f3bdd` | SriLankan Airlines suspends Riyadh flights until October 18 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-fc0f3bdd)
-- 2026-10-10 | `dailymirrorlk-5aa148b2` | Gotabaya appeals against dismissal of Easter Sunday arrest-prevention writ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-5aa148b2)
-- 2026-10-10 | `dailymirrorlk-24c5f848` | Drug trafficker’s property seized | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-24c5f848)
-- 2026-10-10 | `dailymirrorlk-f31d8475` | Apeksha Hospital to strengthen cancer care, address treatment delays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-f31d8475)
-- 2026-10-10 | `dailymirrorlk-f22c98be` | ‘Justice for the Robe’ protest walk begins in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-10-dailymirrorlk-f22c98be)
 
 ---
 
