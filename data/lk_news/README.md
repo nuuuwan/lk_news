@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_18:03:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--11_19:56:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,810** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,813** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-11-dailymirrorlk-cc2efbb5",
-    "num": "dailymirrorlk-cc2efbb5",
+    "doc_id": "2026-10-11-adalk-2910a4f6",
+    "num": "adalk-2910a4f6",
     "date_str": "2026-10-11",
-    "description": "Pakistan imposes emergency rule in \u200bprovince governed by Imran Khan\u2019s party",
-    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-imposes-emergency-rule-in-province-governed-by-Imran-Khans-party/107-352286",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791719786.0
+    "description": "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0d9a \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d9c\u0d82\u0d9c\u0dcf\u0dc0\u0d9a-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/11-424608",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791728294.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-11 | `adalk-2910a4f6` | නේපාලයේ ප්‍රධාන ගංගාවක යළිත් හදිසි ගංවතුර තත්ත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-2910a4f6)
+- 2026-10-11 | `adalk-cca0b5d2` | නාමල්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-cca0b5d2)
 - 2026-10-11 | `dailymirrorlk-cc2efbb5` | Pakistan imposes emergency rule in ​province governed by Imran Khan’s party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-cc2efbb5)
 - 2026-10-11 | `dailymirrorlk-fa639277` | New regulations for monks in custody to be finalised soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-fa639277)
 - 2026-10-11 | `dailymirrorlk-1c07e19c` | Yemen’s Houthis warn passengers not to use Saudi airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-1c07e19c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `dailymirrorlk-a6885738` | Rs. 20 million fine, imprisonment for hazardous waste offences: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-a6885738)
 - 2026-10-11 | `dailymirrorlk-3e84c66e` | Man arrested in Wattala with over 18kg of Ice and heroin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-3e84c66e)
 - 2026-10-11 | `dailymirrorlk-76cdb979` | Musk takes sarcastic swipe at India over Starlink access | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-76cdb979)
-- 2026-10-11 | `adalk-425d0495` | තෙල් මිල යළිත් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-425d0495)
-- 2026-10-11 | `adalk-baa9a887` | අයිස් හා හෙරොයින් කිලෝ 18.5ක් සමග අවුරුදු 24ක තරුණයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-baa9a887)
 
 ---
 
