@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_08:18:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_10:07:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,830** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,833** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-12-dailyftlk-c529f339",
-    "num": "dailyftlk-c529f339",
+    "doc_id": "2026-10-12-dailymirrorlk-f0f4c135",
+    "num": "dailymirrorlk-f0f4c135",
     "date_str": "2026-10-12",
-    "description": "Sri Lanka\u2013Thailand Business Council meet Thai Ambassador",
-    "url_metadata": "https://www.ft.lk/business/Sri-LankaThailand-Business-Council-meet-Thai-Ambassador/34-798540",
+    "description": "\u2019\u2019Don\u2019t panic buy\u2019\u2019 Minister warns public",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dont-panic-buy-Minister-warns-public/108-352322",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1791759104.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791778389.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-12 | `dailymirrorlk-f0f4c135` | ’’Don’t panic buy’’ Minister warns public | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-f0f4c135)
+- 2026-10-12 | `adalk-0a12a45e` | ගිනි අවි දෙකක් සමග දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-0a12a45e)
+- 2026-10-12 | `adalk-57922512` | රියාද් ගුවන් තොටුපොළට දෙවැනි වරටත් පහරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-57922512)
 - 2026-10-12 | `dailyftlk-c529f339` | Sri Lanka–Thailand Business Council meet Thai Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-c529f339)
 - 2026-10-12 | `dailyftlk-f432b7ec` | CMA Sri Lanka and SAFA seminar to conclude with Valedictory Session on cost accounting for energy sector modernisation today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-f432b7ec)
 - 2026-10-12 | `dailyftlk-a663ca2a` | FCCISL and Department of Commerce strengthen partnership to advance export growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-a663ca2a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `dailymirrorlk-2cf33f18` | Pope Leo to have surgery after lump found on lung | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-2cf33f18)
 - 2026-10-11 | `dailymirrorlk-eafe2399` | Appeal against Anojan’s death sentence filed in Saudi Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-eafe2399)
 - 2026-10-11 | `adalk-2910a4f6` | නේපාලයේ ප්‍රධාන ගංගාවක යළිත් හදිසි ගංවතුර තත්ත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-2910a4f6)
-- 2026-10-11 | `adalk-29e4d8e6` | සෞදි ගුවන් තොටුපළ සහ ගුවන් කලාපය භාවිත නොකරන ලෙස හූතිවරු අනතුරු ඇඟවති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-29e4d8e6)
-- 2026-10-11 | `adalk-cca0b5d2` | නාමල්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-cca0b5d2)
-- 2026-10-11 | `dailymirrorlk-cc2efbb5` | Pakistan imposes emergency rule in ​province governed by Imran Khan’s party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-cc2efbb5)
 
 ---
 
