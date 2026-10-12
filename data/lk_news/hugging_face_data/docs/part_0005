@@ -76026,6 +76026,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-7f7a09c8",
+    "num": "dailymirrorlk-7f7a09c8",
+    "date_str": "2026-10-12",
+    "description": "Solar at crossroads: Fix the grid, don\u2019t destroy private investment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Solar-at-crossroads-Fix-the-grid-dont-destroy-private-investment/108-352323",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791778502.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-12-dailymirrorlk-37be4683",
     "num": "dailymirrorlk-37be4683",
     "date_str": "2026-10-12",
@@ -76298,5 +76309,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791793729.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-e2bc9383",
+    "num": "dailymirrorlk-e2bc9383",
+    "date_str": "2026-10-12",
+    "description": "Shiranthi Rajapaksa admitted to National Hospital\u2019s Cardiology Unit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-admitted-to-National-Hospitals-Cardiology-Unit/108-352344",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791796681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-6b9dbb4a",
+    "num": "dailymirrorlk-6b9dbb4a",
+    "date_str": "2026-10-12",
+    "description": "Sri Lanka moves to strengthen e-waste management",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-moves-to-strengthen-e-waste-management/108-352345",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791797087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-8f121d24",
+    "num": "dailymirrorlk-8f121d24",
+    "date_str": "2026-10-12",
+    "description": "Fr. Mathew Peiris was allowed to wear religious attire: Wajira",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fr-Mathew-Peiris-was-allowed-to-wear-religious-attire-Wajira/108-352346",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791797681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-e0d681e7",
+    "num": "dailymirrorlk-e0d681e7",
+    "date_str": "2026-10-12",
+    "description": "Delhi shuts metro stations, restricts traffic as opposition marches against election chief",
+    "url_metadata": "https://www.dailymirror.lk/international/Delhi-shuts-metro-stations-restricts-traffic-as-opposition-marches-against-election-chief/107-352350",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791798569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-9d0efb25",
+    "num": "dailymirrorlk-9d0efb25",
+    "date_str": "2026-10-12",
+    "description": "Expert committee appointed to formulate national engineering education policy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expert-committee-appointed-to-formulate-national-engineering-education-policy/108-352351",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791799516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-59949c64",
+    "num": "dailymirrorlk-59949c64",
+    "date_str": "2026-10-12",
+    "description": "Rainfall to increase across Sri Lanka from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainfall-to-increase-across-Sri-Lanka-from-tomorrow/108-352352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791799820.0
   }
 ]

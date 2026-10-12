@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-12 14:18:45",
-  "n_docs": 132880,
+  "time_updated": "2026-10-12 16:01:18",
+  "n_docs": 132887,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132880,
+  "n_docs_with_text": 132887,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-12",
-  "dataset_size": 2059698205,
+  "dataset_size": 2059976799,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-12-dailymirrorlk-1c5e5295",
-    "num": "dailymirrorlk-1c5e5295",
+    "doc_id": "2026-10-12-dailymirrorlk-59949c64",
+    "num": "dailymirrorlk-59949c64",
     "date_str": "2026-10-12",
-    "description": "Chamara Sampath arrested",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Chamara-Sampath-arrested/108-352343",
+    "description": "Rainfall to increase across Sri Lanka from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainfall-to-increase-across-Sri-Lanka-from-tomorrow/108-352352",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791793729.0
+    "time_ut": 1791799820.0
   }
 }
