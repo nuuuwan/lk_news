@@ -75751,6 +75751,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-924db523",
+    "num": "dailymirrorlk-924db523",
+    "date_str": "2026-10-12",
+    "description": "Delmege Building Products expands portfolio",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Delmege-Building-Products-expands-portfolio/273-352298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791767873.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-12-adalk-57922512",
     "num": "adalk-57922512",
     "date_str": "2026-10-12",
@@ -75773,6 +75784,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-55e15bec",
+    "num": "dailymirrorlk-55e15bec",
+    "date_str": "2026-10-12",
+    "description": "Bimsaviya: Reform on Paper, Red Tape in Practice",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Bimsaviya-Reform-on-Paper-Red-Tape-in-Practice/172-352318",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791775702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-adalk-45729eaa",
+    "num": "adalk-45729eaa",
+    "date_str": "2026-10-12",
+    "description": "\u0dc3\u0dd1\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0d9a\u0da7\u0db8 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd1\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0d9a\u0da7\u0db8-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0d9a\u0dca/11-424612",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791776142.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-12-dailymirrorlk-f0f4c135",
     "num": "dailymirrorlk-f0f4c135",
     "date_str": "2026-10-12",
@@ -75781,5 +75814,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791778389.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-37be4683",
+    "num": "dailymirrorlk-37be4683",
+    "date_str": "2026-10-12",
+    "description": "Mahinda Rajapaksa hospitalised",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-Rajapaksa-hospitalised/108-352324",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791779265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-57a3d9bf",
+    "num": "dailymirrorlk-57a3d9bf",
+    "date_str": "2026-10-12",
+    "description": "Three foreign fuel suppliers seek written communication from Ministry to set prices freely",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-foreign-fuel-suppliers-seek-written-communication-from-Ministry-to-set-prices-freely/108-352325",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791781029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-728f522e",
+    "num": "dailymirrorlk-728f522e",
+    "date_str": "2026-10-12",
+    "description": "Hambantota Hospital patients struggle as contact lenses cost Rs. 40,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hambantota-Hospital-patients-struggle-as-contact-lenses-cost-Rs-40-000/108-352326",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791781469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-1c4fc2df",
+    "num": "dailymirrorlk-1c4fc2df",
+    "date_str": "2026-10-12",
+    "description": "Cancer patients forced to spend over Rs. 100,000 a month on drugs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-patients-forced-to-spend-over-Rs-100-000-a-month-on-drugs/108-352327",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791781781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-b841a1b2",
+    "num": "dailymirrorlk-b841a1b2",
+    "date_str": "2026-10-12",
+    "description": "Ministry concerned over CT simulator breakdown at Apeksha Hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ministry-concerned-over-CT-simulator-breakdown-at-Apeksha-Hospital/108-352328",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791782003.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-adalk-45a78cad",
+    "num": "adalk-45a78cad",
+    "date_str": "2026-10-12",
+    "description": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0d9a\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0d9a\u0da7-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-424613",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791782373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-20cdb5c9",
+    "num": "dailymirrorlk-20cdb5c9",
+    "date_str": "2026-10-12",
+    "description": "U.S. deploys strategic mission to reduce trade gap with Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/U-S-deploys-strategic-mission-to-reduce-trade-gap-with-Sri-Lanka/108-352329",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791782479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-f630c359",
+    "num": "dailymirrorlk-f630c359",
+    "date_str": "2026-10-12",
+    "description": "Youth unemployment hits 17.8%, rises to 22.4% among women",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-unemployment-hits-17-8-rises-to-22-4-among-women/108-352330",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791782841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-e400b9a1",
+    "num": "dailymirrorlk-e400b9a1",
+    "date_str": "2026-10-12",
+    "description": "Court dismisses Shiranthi Rajapaksa\u2019s anticipatory bail application",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-dismisses-Shiranthi-Rajapaksas-anticipatory-bail-application/108-352331",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791783089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-313580b7",
+    "num": "dailymirrorlk-313580b7",
+    "date_str": "2026-10-12",
+    "description": "End of the road for untouchable politicians: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/End-of-the-road-for-untouchable-politicians-President/108-352332",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791783425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-8d24aa13",
+    "num": "dailymirrorlk-8d24aa13",
+    "date_str": "2026-10-12",
+    "description": "Kawanthissa falls sick again",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kawanthissa-falls-sick-again/108-352333",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791783881.0
   }
 ]
