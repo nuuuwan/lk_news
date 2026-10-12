@@ -76290,6 +76290,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-12-adalk-88c5160e",
+    "num": "adalk-88c5160e",
+    "date_str": "2026-10-12",
+    "description": "\u0d9a\u0ddc\u0db1\u0dca\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da7\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0dc4\u0dcf\u0db1\u0dd2 \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbd \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0db1\u0dca\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da7\u0dca-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0dc3\u0dd2\u0daf\u0dd4-\u0d9a\u0dbd-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-424619",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791793107.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-12-dailymirrorlk-0fd3a9be",
     "num": "dailymirrorlk-0fd3a9be",
     "date_str": "2026-10-12",
@@ -76375,5 +76386,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791799820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-74d4d151",
+    "num": "dailymirrorlk-74d4d151",
+    "date_str": "2026-10-12",
+    "description": "HRCSL orders customs to release detained Tamil books, cites rights violations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/HRCSL-orders-customs-to-release-detained-Tamil-books-cites-rights-violations/108-352353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791800450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-2e964634",
+    "num": "dailymirrorlk-2e964634",
+    "date_str": "2026-10-12",
+    "description": "Two Americans Win The 2026 Nobel Prize In Economic Sciences",
+    "url_metadata": "https://www.dailymirror.lk/international/Two-Americans-Win-The-2026-Nobel-Prize-In-Economic-Sciences/107-352354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791801509.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-bfda50a5",
+    "num": "dailymirrorlk-bfda50a5",
+    "date_str": "2026-10-12",
+    "description": "Gnanasara Thera\u2019s robes forcibly removed under pressure from NPP leadership: Gammanpila",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-robes-forcibly-removed-under-pressure-from-NPP-leadership-Gammanpila/108-352355",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791801903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-91ab4311",
+    "num": "dailymirrorlk-91ab4311",
+    "date_str": "2026-10-12",
+    "description": "Youth from all 25 districts urge Government to enact Tobacco-Free Generation policy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-from-all-25-districts-urge-Government-to-enact-Tobacco-Free-Generation-policy/108-352356",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791803157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-9cb17cb8",
+    "num": "dailymirrorlk-9cb17cb8",
+    "date_str": "2026-10-12",
+    "description": "Kelaniya Perahera opens 400-seat tourist enclosure",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Kelaniya-Perahera-opens-400-seat-tourist-enclosure/110-352357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791803666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-adalk-9c9cf694",
+    "num": "adalk-9c9cf694",
+    "date_str": "2026-10-12",
+    "description": "\u0db6\u0dd9\u0d82\u0d9c\u0dcf\u0dbd \u0db6\u0ddc\u0d9a\u0dca\u0d9a\u0dda \u0d85\u0da9\u0dd4\u0db4\u0dd2\u0da9\u0db1 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd9\u0d82\u0d9c\u0dcf\u0dbd-\u0db6\u0ddc\u0d9a\u0dca\u0d9a\u0dda-\u0d85\u0da9\u0dd4\u0db4\u0dd2\u0da9\u0db1-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca-\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba-\u0dc0\u0dd9\u0dba\u0dd2/11-424620",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791804484.0
   }
 ]
