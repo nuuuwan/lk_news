@@ -76650,5 +76650,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791834629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-9408f23c",
+    "num": "dailyftlk-9408f23c",
+    "date_str": "2026-10-13",
+    "description": "Dialog and IESL National Startup Challenge to empower entrepreneurs",
+    "url_metadata": "https://www.ft.lk/business/Dialog-and-IESL-National-Startup-Challenge-to-empower-entrepreneurs/34-798588",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791839290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-34bb23ff",
+    "num": "dailyftlk-34bb23ff",
+    "date_str": "2026-10-13",
+    "description": "Embassy in Rome promotes export and investment opportunities  at Sri Lanka Expo 2027",
+    "url_metadata": "https://www.ft.lk/business/Embassy-in-Rome-promotes-export-and-investment-opportunities-at-Sri-Lanka-Expo-2027/34-798589",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791839539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-fbd64f50",
+    "num": "dailyftlk-fbd64f50",
+    "date_str": "2026-10-13",
+    "description": "Shiranthi admitted to National Hospital Cardiology Unit",
+    "url_metadata": "https://www.ft.lk/news/Shiranthi-admitted-to-National-Hospital-Cardiology-Unit/56-798590",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791839891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-b74834ac",
+    "num": "dailyftlk-b74834ac",
+    "date_str": "2026-10-13",
+    "description": "Sri Lanka holds Tier 2 in US trafficking report for fifth straight year",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-holds-Tier-2-in-US-trafficking-report-for-fifth-straight-year/56-798591",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791839921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-cb0a1cc9",
+    "num": "dailyftlk-cb0a1cc9",
+    "date_str": "2026-10-13",
+    "description": "Sri Lanka Indian Technical and Economic Cooperation Alumni Association holds inaugural meeting",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-Indian-Technical-and-Economic-Cooperation-Alumni-Association-holds-inaugural-meeting/56-798592",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791840053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-11324eeb",
+    "num": "dailyftlk-11324eeb",
+    "date_str": "2026-10-13",
+    "description": "Sajith seeks urgent oversight committee meeting on prison attire rules for clergy",
+    "url_metadata": "https://www.ft.lk/news/Sajith-seeks-urgent-oversight-committee-meeting-on-prison-attire-rules-for-clergy/56-798593",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791840133.0
   }
 ]

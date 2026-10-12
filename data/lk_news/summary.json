@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-13 01:57:30",
-  "n_docs": 132912,
+  "time_updated": "2026-10-13 03:55:42",
+  "n_docs": 132918,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132912,
+  "n_docs_with_text": 132918,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-13",
-  "dataset_size": 2060285672,
+  "dataset_size": 2060471912,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-13-dailyftlk-3c988ba9",
-    "num": "dailyftlk-3c988ba9",
+    "doc_id": "2026-10-13-dailyftlk-11324eeb",
+    "num": "dailyftlk-11324eeb",
     "date_str": "2026-10-13",
-    "description": "Dipped Products opens Rs. 4.2 b  glove plant in Katunayake EPZ",
-    "url_metadata": "https://www.ft.lk/business/Dipped-Products-opens-Rs-4-2-b-glove-plant-in-Katunayake-EPZ/34-798579",
+    "description": "Sajith seeks urgent oversight committee meeting on prison attire rules for clergy",
+    "url_metadata": "https://www.ft.lk/news/Sajith-seeks-urgent-oversight-committee-meeting-on-prison-attire-rules-for-clergy/56-798593",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1791834629.0
+    "time_ut": 1791840133.0
   }
 }
