@@ -75660,5 +75660,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791756420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-83361608",
+    "num": "dailyftlk-83361608",
+    "date_str": "2026-10-12",
+    "description": "President pledges to amend private fuel deals as CPC diesel share rises to 77%",
+    "url_metadata": "https://www.ft.lk/news/President-pledges-to-amend-private-fuel-deals-as-CPC-diesel-share-rises-to-77/56-798533",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-76024099",
+    "num": "dailyftlk-76024099",
+    "date_str": "2026-10-12",
+    "description": "Govt. gives two weeks to revise prison rules on Buddhist monks",
+    "url_metadata": "https://www.ft.lk/news/Govt-gives-two-weeks-to-revise-prison-rules-on-Buddhist-monks/56-798535",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758336.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-4e539eee",
+    "num": "dailyftlk-4e539eee",
+    "date_str": "2026-10-12",
+    "description": "Richardson Projects raises bar for Sri Lanka\u2019s powder coatings industry with global Axalta partnership",
+    "url_metadata": "https://www.ft.lk/business/Richardson-Projects-raises-bar-for-Sri-Lanka-s-powder-coatings-industry-with-global-Axalta-partnership/34-798536",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-0e67e918",
+    "num": "dailyftlk-0e67e918",
+    "date_str": "2026-10-12",
+    "description": "COYLE \u201cI AM\u201d Leadership Forum to spotlight stories that shape leaders",
+    "url_metadata": "https://www.ft.lk/business/COYLE-I-AM-Leadership-Forum-to-spotlight-stories-that-shape-leaders/34-798537",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-a663ca2a",
+    "num": "dailyftlk-a663ca2a",
+    "date_str": "2026-10-12",
+    "description": "FCCISL and Department of Commerce strengthen partnership to advance export growth",
+    "url_metadata": "https://www.ft.lk/business/FCCISL-and-Department-of-Commerce-strengthen-partnership-to-advance-export-growth/34-798538",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758728.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-f432b7ec",
+    "num": "dailyftlk-f432b7ec",
+    "date_str": "2026-10-12",
+    "description": "CMA Sri Lanka and SAFA seminar to conclude with Valedictory Session on cost accounting for energy sector modernisation today",
+    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-and-SAFA-seminar-to-conclude-with-Valedictory-Session-on-cost-accounting-for-energy-sector-modernisation-today/34-798539",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791758931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailyftlk-c529f339",
+    "num": "dailyftlk-c529f339",
+    "date_str": "2026-10-12",
+    "description": "Sri Lanka\u2013Thailand Business Council meet Thai Ambassador",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaThailand-Business-Council-meet-Thai-Ambassador/34-798540",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791759104.0
   }
 ]

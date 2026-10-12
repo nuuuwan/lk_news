@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_03:57:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_06:26:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,822** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,829** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-12-dailyftlk-f9fb9a03",
-    "num": "dailyftlk-f9fb9a03",
+    "doc_id": "2026-10-12-dailyftlk-c529f339",
+    "num": "dailyftlk-c529f339",
     "date_str": "2026-10-12",
-    "description": "Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy",
-    "url_metadata": "https://www.ft.lk/columns/Alarming-case-of-financial-illiteracy-amidst-drive-for-financial-inclusiveness-and-literacy/4-798523",
+    "description": "Sri Lanka\u2013Thailand Business Council meet Thai Ambassador",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaThailand-Business-Council-meet-Thai-Ambassador/34-798540",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1791756420.0
+    "time_ut": 1791759104.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-12 | `dailyftlk-c529f339` | Sri Lanka–Thailand Business Council meet Thai Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-c529f339)
+- 2026-10-12 | `dailyftlk-f432b7ec` | CMA Sri Lanka and SAFA seminar to conclude with Valedictory Session on cost accounting for energy sector modernisation today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-f432b7ec)
+- 2026-10-12 | `dailyftlk-a663ca2a` | FCCISL and Department of Commerce strengthen partnership to advance export growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-a663ca2a)
+- 2026-10-12 | `dailyftlk-0e67e918` | COYLE “I AM” Leadership Forum to spotlight stories that shape leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-0e67e918)
+- 2026-10-12 | `dailyftlk-4e539eee` | Richardson Projects raises bar for Sri Lanka’s powder coatings industry with global Axalta partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-4e539eee)
+- 2026-10-12 | `dailyftlk-76024099` | Govt. gives two weeks to revise prison rules on Buddhist monks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-76024099)
+- 2026-10-12 | `dailyftlk-83361608` | President pledges to amend private fuel deals as CPC diesel share rises to 77% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-83361608)
 - 2026-10-12 | `dailyftlk-f9fb9a03` | Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-f9fb9a03)
 - 2026-10-12 | `dailyftlk-80cfcadc` | Beyond transhipment: How Sri Lanka can monetise geopolitical disruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-80cfcadc)
 - 2026-10-12 | `dailyftlk-7319021e` | Sri Lanka, sanctioned tankers and international law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailyftlk-7319021e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-11 | `adalk-cca0b5d2` | නාමල්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-adalk-cca0b5d2)
 - 2026-10-11 | `dailymirrorlk-cc2efbb5` | Pakistan imposes emergency rule in ​province governed by Imran Khan’s party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-cc2efbb5)
 - 2026-10-11 | `dailymirrorlk-fa639277` | New regulations for monks in custody to be finalised soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-fa639277)
-- 2026-10-11 | `dailymirrorlk-1c07e19c` | Yemen’s Houthis warn passengers not to use Saudi airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-1c07e19c)
-- 2026-10-11 | `dailymirrorlk-8f629dd7` | Trump calls for replacing Ukraine’s Zelenskiy in tussle over diesel deal with Russia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-8f629dd7)
-- 2026-10-11 | `dailymirrorlk-b8c16eb8` | Five major reservoirs spill or open gates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-b8c16eb8)
-- 2026-10-11 | `dailymirrorlk-fdad4bea` | Drug trafficking suspect ‘Ran Malli’ arrested in Bulgaria | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-fdad4bea)
-- 2026-10-11 | `dailymirrorlk-595ae226` | Sri Lanka’s rising black economy and corruption? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-595ae226)
-- 2026-10-11 | `dailymirrorlk-db948a98` | Freedom march for Gnanasara Thera enters second day, heads to Kegalle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-db948a98)
-- 2026-10-11 | `dailymirrorlk-82661f0b` | Turkey bans social media for under-15s from November 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-11-dailymirrorlk-82661f0b)
 
 ---
 
