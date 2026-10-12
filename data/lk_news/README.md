@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_20:04:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_00:00:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,898** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,902** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-12-adalk-8190361e",
-    "num": "adalk-8190361e",
+    "doc_id": "2026-10-12-dailymirrorlk-705707ee",
+    "num": "dailymirrorlk-705707ee",
     "date_str": "2026-10-12",
-    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca 18 \u0daf\u0dcf \u0dad\u0dd9\u0d9a\u0dca \u0daf\u0db8\u0dcf\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-18-\u0daf\u0dcf-\u0dad\u0dd9\u0d9a\u0dca-\u0daf\u0db8\u0dcf\u0db1\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/11-424623",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1791810633.0
+    "description": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Airlines-cancel-flights-to-Saudi-Arabia-after-Riyadh-airport-attacks/108-352362",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791823332.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-12 | `dailymirrorlk-705707ee` | Airlines cancel flights to Saudi Arabia after Riyadh airport attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-705707ee)
+- 2026-10-12 | `dailymirrorlk-9fc7168e` | Ashok Abeysinghe resigns from all SJB positions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-9fc7168e)
+- 2026-10-12 | `dailymirrorlk-6742e940` | Pupil arrested after two teachers shot at French school | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-6742e940)
+- 2026-10-12 | `adalk-3508a357` | චාමර රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-3508a357)
 - 2026-10-12 | `adalk-8190361e` | ශ්‍රී ලන්කන් 18 දා තෙක් දමාන් ගුවන් ගමන් අත්හිටුවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-8190361e)
 - 2026-10-12 | `adalk-a98006c9` | විශේෂ අවශ්‍යතා ඇති දරුවන්ගේ කුසලතා සංවර්ධනයට කොරියාව සමග වැඩසටහනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-a98006c9)
 - 2026-10-12 | `dailymirrorlk-1ac8adc7` | MP Chamara Sampath remanded in five bribery cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-1ac8adc7)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-12 | `dailymirrorlk-8f121d24` | Fr. Mathew Peiris was allowed to wear religious attire: Wajira | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-8f121d24)
 - 2026-10-12 | `dailymirrorlk-6b9dbb4a` | Sri Lanka moves to strengthen e-waste management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-6b9dbb4a)
 - 2026-10-12 | `dailymirrorlk-e2bc9383` | Shiranthi Rajapaksa admitted to National Hospital’s Cardiology Unit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-e2bc9383)
-- 2026-10-12 | `dailymirrorlk-1c5e5295` | Chamara Sampath arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-1c5e5295)
-- 2026-10-12 | `dailymirrorlk-0fd3a9be` | Other religious leaders will be targeted soon, just like Gnanasara Thera: Patali | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-0fd3a9be)
-- 2026-10-12 | `adalk-88c5160e` | කොන්ක්‍රීට් මාර්ගයට හානි සිදු කල සැකකරුවෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-88c5160e)
-- 2026-10-12 | `adalk-9b5bd04a` | චාමර සම්පත් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-9b5bd04a)
 
 ---
 

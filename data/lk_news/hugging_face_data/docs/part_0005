@@ -76496,5 +76496,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791810633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-adalk-3508a357",
+    "num": "adalk-3508a357",
+    "date_str": "2026-10-12",
+    "description": "\u0da0\u0dcf\u0db8\u0dbb \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dcf\u0db8\u0dbb-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424624",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791811316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-6742e940",
+    "num": "dailymirrorlk-6742e940",
+    "date_str": "2026-10-12",
+    "description": "Pupil arrested after two teachers shot at French school",
+    "url_metadata": "https://www.dailymirror.lk/international/Pupil-arrested-after-two-teachers-shot-at-French-school/107-352360",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791818384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-9fc7168e",
+    "num": "dailymirrorlk-9fc7168e",
+    "date_str": "2026-10-12",
+    "description": "Ashok Abeysinghe resigns from all SJB positions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ashok-Abeysinghe-resigns-from-all-SJB-positions/108-352361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791818581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-12-dailymirrorlk-705707ee",
+    "num": "dailymirrorlk-705707ee",
+    "date_str": "2026-10-12",
+    "description": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Airlines-cancel-flights-to-Saudi-Arabia-after-Riyadh-airport-attacks/108-352362",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791823332.0
   }
 ]
