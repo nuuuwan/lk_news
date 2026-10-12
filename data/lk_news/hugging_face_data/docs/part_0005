@@ -76540,5 +76540,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791823332.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-d69a4563",
+    "num": "dailyftlk-d69a4563",
+    "date_str": "2026-10-13",
+    "description": "Beyond better buses: Future of public transport in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-better-buses-Future-of-public-transport-in-Sri-Lanka/4-798561",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791830753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-f0c574e7",
+    "num": "dailyftlk-f0c574e7",
+    "date_str": "2026-10-13",
+    "description": "The accountability gap: Global contrasts and responses to political corruption and crime",
+    "url_metadata": "https://www.ft.lk/columns/The-accountability-gap-Global-contrasts-and-responses-to-political-corruption-and-crime/4-798562",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791831299.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-70007436",
+    "num": "dailyftlk-70007436",
+    "date_str": "2026-10-13",
+    "description": "Yala Zones 1, 1A reopen Friday after drought closure",
+    "url_metadata": "https://www.ft.lk/business/Yala-Zones-1-1A-reopen-Friday-after-drought-closure/34-798563",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791831677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-2e84ea96",
+    "num": "dailyftlk-2e84ea96",
+    "date_str": "2026-10-13",
+    "description": "North takes centre stage in tourism development drive",
+    "url_metadata": "https://www.ft.lk/business/North-takes-centre-stage-in-tourism-development-drive/34-798564",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791831815.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-1834dc2e",
+    "num": "dailyftlk-1834dc2e",
+    "date_str": "2026-10-13",
+    "description": "Hall, Woodford win 2026 Economics Nobel for stabilisation policy models",
+    "url_metadata": "https://www.ft.lk/business/Hall-Woodford-win-2026-Economics-Nobel-for-stabilisation-policy-models/34-798565",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791831893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-2c76f957",
+    "num": "dailyftlk-2c76f957",
+    "date_str": "2026-10-13",
+    "description": "Sri Lanka must shift from consumption to productivity for durable growth: IPS",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-must-shift-from-consumption-to-productivity-for-durable-growth-IPS/34-798566",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791832022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-a35551d2",
+    "num": "dailyftlk-a35551d2",
+    "date_str": "2026-10-13",
+    "description": "Stabilisation must lead to transformation;  A sovereign development fund as a way forward?",
+    "url_metadata": "https://www.ft.lk/columns/Stabilisation-must-lead-to-transformation-A-sovereign-development-fund-as-a-way-forward/4-798567",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791832726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-2706d537",
+    "num": "dailyftlk-2706d537",
+    "date_str": "2026-10-13",
+    "description": "Nobel Peace Prize\u00a0to Navanethem Pillay:  Reminder to Sri Lanka of unfinished commitments",
+    "url_metadata": "https://www.ft.lk/opinion/Nobel-Peace-Prizeto-Navanethem-Pillay-Reminder-to-Sri-Lanka-of-unfinished-commitments/14-798569",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791833015.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-31e6407b",
+    "num": "dailyftlk-31e6407b",
+    "date_str": "2026-10-13",
+    "description": "When responsible organisations remain silent",
+    "url_metadata": "https://www.ft.lk/columns/When-responsible-organisations-remain-silent/4-798570",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791833203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailyftlk-3c988ba9",
+    "num": "dailyftlk-3c988ba9",
+    "date_str": "2026-10-13",
+    "description": "Dipped Products opens Rs. 4.2 b  glove plant in Katunayake EPZ",
+    "url_metadata": "https://www.ft.lk/business/Dipped-Products-opens-Rs-4-2-b-glove-plant-in-Katunayake-EPZ/34-798579",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791834629.0
   }
 ]

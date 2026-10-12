@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-12 23:59:55",
-  "n_docs": 132902,
+  "time_updated": "2026-10-13 01:57:30",
+  "n_docs": 132912,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 132902,
+  "n_docs_with_text": 132912,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-12",
-  "dataset_size": 2060181822,
+  "date_str_max": "2026-10-13",
+  "dataset_size": 2060285672,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-12-dailymirrorlk-705707ee",
-    "num": "dailymirrorlk-705707ee",
-    "date_str": "2026-10-12",
-    "description": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Airlines-cancel-flights-to-Saudi-Arabia-after-Riyadh-airport-attacks/108-352362",
+    "doc_id": "2026-10-13-dailyftlk-3c988ba9",
+    "num": "dailyftlk-3c988ba9",
+    "date_str": "2026-10-13",
+    "description": "Dipped Products opens Rs. 4.2 b  glove plant in Katunayake EPZ",
+    "url_metadata": "https://www.ft.lk/business/Dipped-Products-opens-Rs-4-2-b-glove-plant-in-Katunayake-EPZ/34-798579",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791823332.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791834629.0
   }
 }
