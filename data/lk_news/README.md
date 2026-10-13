@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_20:01:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_22:00:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,992** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,996** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-13-dailymirrorlk-a2ca9608",
-    "num": "dailymirrorlk-a2ca9608",
+    "doc_id": "2026-10-13-dailymirrorlk-8ac16a44",
+    "num": "dailymirrorlk-8ac16a44",
     "date_str": "2026-10-13",
-    "description": "Zahira \u201998 holds first badminton tournament",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Zahira-98-holds-first-badminton-tournament/110-352440",
+    "description": "Gnanasara Thera\u2019s sentence unlawful, alleges former CJ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-sentence-unlawful-alleges-former-CJ/108-352444",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791897681.0
+    "time_ut": 1791906323.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-13 | `dailymirrorlk-8ac16a44` | Gnanasara Thera’s sentence unlawful, alleges former CJ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-8ac16a44)
+- 2026-10-13 | `dailymirrorlk-76f0fe66` | CEJ questions plans to rebuild elephant fences despite court ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-76f0fe66)
+- 2026-10-13 | `dailymirrorlk-a22d8ce1` | Fire breaks out at mattress showroom in Panadura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-a22d8ce1)
+- 2026-10-13 | `dailymirrorlk-c8dcc367` | Company fined Rs. 240,000 over plastic bottles without SLS mark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-c8dcc367)
 - 2026-10-13 | `dailymirrorlk-a2ca9608` | Zahira ’98 holds first badminton tournament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-a2ca9608)
 - 2026-10-13 | `dailymirrorlk-94457324` | Chinese government’s MRI scanner donated to hospital on Shiranthi Rajapaksa’s child’s birthday: AG says in court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-94457324)
 - 2026-10-13 | `dailymirrorlk-d19870df` | IMF raises its forecast for world growth this year but warns of risks from AI boom and debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-d19870df)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-13 | `adalk-337932a6` | අස්වැසුම ලබන පවුල්වල ළමුන්ට රු. 6000ක දීමනාව ලබන වසරේදීත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-337932a6)
 - 2026-10-13 | `adalk-e14b65b6` | නාමල් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-e14b65b6)
 - 2026-10-13 | `dailymirrorlk-9f5784e8` | Rs. 2 billion in Aswesuma benefits to be credited on October 14 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-9f5784e8)
-- 2026-10-13 | `dailymirrorlk-38cc86e5` | Rs. 1.07 billion contract awarded to upgrade Kandy-Jaffna road section | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-38cc86e5)
-- 2026-10-13 | `dailymirrorlk-09c7b5c0` | Cabinet approves redrafting of State Assets Management Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-09c7b5c0)
-- 2026-10-13 | `dailymirrorlk-7ec1590d` | Technical Education Department gets permanent Director General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-7ec1590d)
-- 2026-10-13 | `dailymirrorlk-5a8d8366` | Sri Lanka to strengthen disease surveillance, pandemic response systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-5a8d8366)
 
 ---
 

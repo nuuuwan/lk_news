@@ -77530,5 +77530,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791897681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-c8dcc367",
+    "num": "dailymirrorlk-c8dcc367",
+    "date_str": "2026-10-13",
+    "description": "Company fined Rs. 240,000 over plastic bottles without SLS mark",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Company-fined-Rs-240-000-over-plastic-bottles-without-SLS-mark/108-352441",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791903771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-a22d8ce1",
+    "num": "dailymirrorlk-a22d8ce1",
+    "date_str": "2026-10-13",
+    "description": "Fire breaks out at mattress showroom in Panadura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-mattress-showroom-in-Panadura/108-352442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791903884.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-76f0fe66",
+    "num": "dailymirrorlk-76f0fe66",
+    "date_str": "2026-10-13",
+    "description": "CEJ questions plans to rebuild elephant fences despite court ruling",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEJ-questions-plans-to-rebuild-elephant-fences-despite-court-ruling/108-352443",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791904149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-8ac16a44",
+    "num": "dailymirrorlk-8ac16a44",
+    "date_str": "2026-10-13",
+    "description": "Gnanasara Thera\u2019s sentence unlawful, alleges former CJ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-sentence-unlawful-alleges-former-CJ/108-352444",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791906323.0
   }
 ]
