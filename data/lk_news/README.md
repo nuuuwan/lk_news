@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_15:58:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_18:04:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,980** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,987** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-13-dailymirrorlk-d56480c0",
-    "num": "dailymirrorlk-d56480c0",
+    "doc_id": "2026-10-13-dailymirrorlk-d19870df",
+    "num": "dailymirrorlk-d19870df",
     "date_str": "2026-10-13",
-    "description": "Court finds no medical recommendation for open-heart surgery: Shiranthi further remanded",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-finds-no-medical-recommendation-for-open-heart-surgery-Shiranthi-further-remanded/108-352429",
+    "description": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+    "url_metadata": "https://www.dailymirror.lk/international/IMF-raises-its-forecast-for-world-growth-this-year-but-warns-of-risks-from-AI-boom-and-debt/107-352438",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791884911.0
+    "time_ut": 1791892582.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-13 | `dailymirrorlk-d19870df` | IMF raises its forecast for world growth this year but warns of risks from AI boom and debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-d19870df)
+- 2026-10-13 | `dailymirrorlk-b5ff2dc0` | Fire catches around 25 houses in Grandpass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-b5ff2dc0)
+- 2026-10-13 | `dailymirrorlk-bd180096` | Police to record statement from Gammanpila over Gnanasara Thera’s robes claim | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-bd180096)
+- 2026-10-13 | `dailymirrorlk-a23f4b18` | Pope Leo XIV admitted to hospital for lung surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-a23f4b18)
+- 2026-10-13 | `dailymirrorlk-b21c6ebb` | Sri Lanka Economic and Investment Summit 2026 draws over 800 delegates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-b21c6ebb)
+- 2026-10-13 | `adalk-8b9174e9` | ශිරන්ති යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-8b9174e9)
+- 2026-10-13 | `adalk-4a30e4e5` | නුවරඑළිය ප්‍රා ස අයවැය ඒකමතිකව සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-4a30e4e5)
 - 2026-10-13 | `dailymirrorlk-d56480c0` | Court finds no medical recommendation for open-heart surgery: Shiranthi further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-d56480c0)
 - 2026-10-13 | `adalk-337932a6` | අස්වැසුම ලබන පවුල්වල ළමුන්ට රු. 6000ක දීමනාව ලබන වසරේදීත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-337932a6)
 - 2026-10-13 | `adalk-e14b65b6` | නාමල් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-e14b65b6)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-13 | `dailymirrorlk-1fbeba7d` | Cabinet approves declaration of Nakolagane Wildlife Sanctuary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-1fbeba7d)
 - 2026-10-13 | `dailymirrorlk-bf9fa1cb` | Rs. 500,000 fine for selling bottled water above MRP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-bf9fa1cb)
 - 2026-10-13 | `dailymirrorlk-15c69ef8` | Sajith rejects Ashok Abeysinghe’s resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-15c69ef8)
-- 2026-10-13 | `dailymirrorlk-412a662c` | Namal Rajapaksa further remanded till October 28 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-412a662c)
-- 2026-10-13 | `dailymirrorlk-b30929c2` | Breaking Bad actor RJ Mitte dies aged 34 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-b30929c2)
-- 2026-10-13 | `dailymirrorlk-8decaa5c` | Dharmaraja primary section gets Rs. 4 mn upgrade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-8decaa5c)
-- 2026-10-13 | `dailymirrorlk-b14b9483` | Indian police detain ’cockroach’ movement leaders demanding election chief’s resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-b14b9483)
-- 2026-10-13 | `dailymirrorlk-e437a1f6` | Will the PSC on ‘Black July’ be just another fruitless probe? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-e437a1f6)
-- 2026-10-13 | `dailymirrorlk-f29365e9` | Pakistan becomes more Middle Eastern than South Asian | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-f29365e9)
-- 2026-10-13 | `dailymirrorlk-e4ea83ed` | Polythene Abuse by Big Pharmacies! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-e4ea83ed)
 
 ---
 

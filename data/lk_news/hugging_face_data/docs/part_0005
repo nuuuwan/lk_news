@@ -77398,5 +77398,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791884911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-4a30e4e5",
+    "num": "adalk-4a30e4e5",
+    "date_str": "2026-10-13",
+    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0dcf \u0dc3 \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d92\u0d9a\u0db8\u0dad\u0dd2\u0d9a\u0dc0 \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dcf-\u0dc3-\u0d85\u0dba\u0dc0\u0dd0\u0dba-\u0d92\u0d9a\u0db8\u0dad\u0dd2\u0d9a\u0dc0-\u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2/11-424638",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791885174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-8b9174e9",
+    "num": "adalk-8b9174e9",
+    "date_str": "2026-10-13",
+    "description": "\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2 \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dd2\u0dbb\u0db1\u0dca\u0dad\u0dd2-\u0dba\u0dc5\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424640",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791886134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-b21c6ebb",
+    "num": "dailymirrorlk-b21c6ebb",
+    "date_str": "2026-10-13",
+    "description": "Sri Lanka Economic and Investment Summit 2026 draws over 800 delegates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Economic-and-Investment-Summit-2026-draws-over-800-delegates/108-352431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791886930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-a23f4b18",
+    "num": "dailymirrorlk-a23f4b18",
+    "date_str": "2026-10-13",
+    "description": "Pope Leo XIV admitted to hospital for lung surgery",
+    "url_metadata": "https://www.dailymirror.lk/international/Pope-Leo-XIV-admitted-to-hospital-for-lung-surgery/107-352434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791887839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-bd180096",
+    "num": "dailymirrorlk-bd180096",
+    "date_str": "2026-10-13",
+    "description": "Police to record statement from Gammanpila over Gnanasara Thera\u2019s robes claim",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-to-record-statement-from-Gammanpila-over-Gnanasara-Theras-robes-claim/108-352435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791888711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-b5ff2dc0",
+    "num": "dailymirrorlk-b5ff2dc0",
+    "date_str": "2026-10-13",
+    "description": "Fire catches around 25 houses in Grandpass",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-catches-around-25-houses-in-Grandpass/108-352436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791889457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-d19870df",
+    "num": "dailymirrorlk-d19870df",
+    "date_str": "2026-10-13",
+    "description": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+    "url_metadata": "https://www.dailymirror.lk/international/IMF-raises-its-forecast-for-world-growth-this-year-but-warns-of-risks-from-AI-boom-and-debt/107-352438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791892582.0
   }
 ]
