@@ -76873,6 +76873,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-d3431802",
+    "num": "adalk-d3431802",
+    "date_str": "2026-10-13",
+    "description": "\u0dba\u0dcf\u0dbd\u0dda \u0d9a\u0dbd\u0dcf\u0db4 \u0d85\u0d82\u0d9a 1 \u0dc4\u0dcf 2 \u0dbd\u0db6\u0db1 16\u0daf\u0dcf \u0dba\u0dc5\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dcf\u0dbd\u0dda-\u0d9a\u0dbd\u0dcf\u0db4-\u0d85\u0d82\u0d9a-1-\u0dc4\u0dcf-2-\u0dbd\u0db6\u0db1-16\u0daf\u0dcf-\u0dba\u0dc5\u0dd2-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-424634",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791868383.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-13-dailymirrorlk-2d0fd6e9",
     "num": "dailymirrorlk-2d0fd6e9",
     "date_str": "2026-10-13",
@@ -76914,6 +76925,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791869240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-8bb28a45",
+    "num": "adalk-8bb28a45",
+    "date_str": "2026-10-13",
+    "description": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd \u0dc3\u0db8\u0d9c \u0db1\u0dc0 \u0d91\u0d9a\u0d9f\u0dad\u0dcf\u0dc0\u0d9a\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0d9f\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd-\u0dc3\u0db8\u0d9c-\u0db1\u0dc0-\u0d91\u0d9a\u0d9f\u0dad\u0dcf\u0dc0\u0d9a\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0d9f\u0dd2\u0dba\u0d9a\u0dca/11-424635",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791869355.0
   },
   {
     "doc_type": "lk_news",
@@ -77068,6 +77090,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791871529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-f7625922",
+    "num": "dailymirrorlk-f7625922",
+    "date_str": "2026-10-13",
+    "description": "ComBank brings stakeholders together to prepare agriculture sector for El Ni\u00f1o",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ComBank-brings-stakeholders-together-to-prepare-agriculture-sector-for-El-Ni\u00f1o/273-352394",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871626.0
   },
   {
     "doc_type": "lk_news",
@@ -77255,5 +77288,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791879918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-51eac9dc",
+    "num": "dailymirrorlk-51eac9dc",
+    "date_str": "2026-10-13",
+    "description": "Cabinet clears US$ 100 million ADB funding for water sector reforms",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-clears-US-100-million-ADB-funding-for-water-sector-reforms/108-352419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791880093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-e5365500",
+    "num": "dailymirrorlk-e5365500",
+    "date_str": "2026-10-13",
+    "description": "1.5 million schoolchildren to receive Rs. 6,000 stationery allowance in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-5-million-schoolchildren-to-receive-Rs-6-000-stationery-allowance-in-2027/108-352420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791880240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-5a8d8366",
+    "num": "dailymirrorlk-5a8d8366",
+    "date_str": "2026-10-13",
+    "description": "Sri Lanka to strengthen disease surveillance, pandemic response systems",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-strengthen-disease-surveillance-pandemic-response-systems/108-352421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791880538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-7ec1590d",
+    "num": "dailymirrorlk-7ec1590d",
+    "date_str": "2026-10-13",
+    "description": "Technical Education Department gets permanent Director General",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Technical-Education-Department-gets-permanent-Director-General/108-352422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791880725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-09c7b5c0",
+    "num": "dailymirrorlk-09c7b5c0",
+    "date_str": "2026-10-13",
+    "description": "Cabinet approves redrafting of State Assets Management Bill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-redrafting-of-State-Assets-Management-Bill/108-352423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791880889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-38cc86e5",
+    "num": "dailymirrorlk-38cc86e5",
+    "date_str": "2026-10-13",
+    "description": "Rs. 1.07 billion contract awarded to upgrade Kandy-Jaffna road section",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-1-07-billion-contract-awarded-to-upgrade-Kandy-Jaffna-road-section/108-352424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791881151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-9f5784e8",
+    "num": "dailymirrorlk-9f5784e8",
+    "date_str": "2026-10-13",
+    "description": "Rs. 2 billion in Aswesuma benefits to be credited on October 14",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-2-billion-in-Aswesuma-benefits-to-be-credited-on-October-14/108-352425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791881291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-e14b65b6",
+    "num": "adalk-e14b65b6",
+    "date_str": "2026-10-13",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0dba\u0dc5\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-424636",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791882249.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-337932a6",
+    "num": "adalk-337932a6",
+    "date_str": "2026-10-13",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0dbd\u0db6\u0db1 \u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd \u0dc5\u0db8\u0dd4\u0db1\u0dca\u0da7 \u0dbb\u0dd4. 6000\u0d9a \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0 \u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3\u0dad\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0dbd\u0db6\u0db1-\u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd-\u0dc5\u0db8\u0dd4\u0db1\u0dca\u0da7-\u0dbb\u0dd4--6000\u0d9a-\u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0-\u0dbd\u0db6\u0db1-\u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3\u0dad\u0dca/11-424637",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791882930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-d56480c0",
+    "num": "dailymirrorlk-d56480c0",
+    "date_str": "2026-10-13",
+    "description": "Court finds no medical recommendation for open-heart surgery: Shiranthi further remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-finds-no-medical-recommendation-for-open-heart-surgery-Shiranthi-further-remanded/108-352429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791884911.0
   }
 ]
