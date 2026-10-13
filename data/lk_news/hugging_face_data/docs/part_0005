@@ -76840,6 +76840,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-c769d987",
+    "num": "adalk-c769d987",
+    "date_str": "2026-10-13",
+    "description": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0da2\u0dd0\u0da7\u0dd2\u0dba\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba \u0dbb\u0da2\u0dba\u0da7, \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0da2\u0dd0\u0da7\u0dd2\u0dba\u0dda-\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba-\u0dbb\u0da2\u0dba\u0da7--\u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0da7/11-424632",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791867939.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-13-dailymirrorlk-76cca36b",
     "num": "dailymirrorlk-76cca36b",
     "date_str": "2026-10-13",
@@ -76848,6 +76859,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791868062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-f58caa58",
+    "num": "adalk-f58caa58",
+    "date_str": "2026-10-13",
+    "description": "\u0d8c\u0dc0 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0db4\u0dd3\u0da8\u0dba\u0da7 \u0db1\u0dc0\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 37\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8c\u0dc0-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0db4\u0dd3\u0da8\u0dba\u0da7-\u0db1\u0dc0\u0d9a-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-37\u0d9a\u0dca/11-424633",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791868155.0
   },
   {
     "doc_type": "lk_news",
@@ -76950,6 +76972,171 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-ac9c667d",
+    "num": "dailymirrorlk-ac9c667d",
+    "date_str": "2026-10-13",
+    "description": "People\u2019s Bank launches \u2018Doodaru Pranama\u2019 campaign to reward children of overseas workers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-launches-Doodaru-Pranama-campaign-to-reward-children-of-overseas-workers/273-352385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791870895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-26fc7939",
+    "num": "dailymirrorlk-26fc7939",
+    "date_str": "2026-10-13",
+    "description": "iPay Business launches \u2018Wyapara Balaganwayi\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/iPay-Business-launches-Wyapara-Balaganwayi/273-352386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-65a0cc07",
+    "num": "dailymirrorlk-65a0cc07",
+    "date_str": "2026-10-13",
+    "description": "Euro Motors expands automotive dealer network to support customers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Euro-Motors-expands-automotive-dealer-network-to-support-customers/273-352387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-435c5dee",
+    "num": "dailymirrorlk-435c5dee",
+    "date_str": "2026-10-13",
+    "description": "Yaden Laboratories becomes first SL pharmaceutical manufacturer to exhibit at CPHI Europe 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yaden-Laboratories-becomes-first-SL-pharmaceutical-manufacturer-to-exhibit-at-CPHI-Europe-2026/273-352388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-187a54f2",
+    "num": "dailymirrorlk-187a54f2",
+    "date_str": "2026-10-13",
+    "description": "Ambewela celebrates double victory at Global Business Excellence Awards 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ambewela-celebrates-double-victory-at-Global-Business-Excellence-Awards-2026/273-352389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871304.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-b56018df",
+    "num": "dailymirrorlk-b56018df",
+    "date_str": "2026-10-13",
+    "description": "Expolanka Leisure Group celebrates double victory at SATA 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Expolanka-Leisure-Group-celebrates-double-victory-at-SATA-2026/273-352390",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871353.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-16088c72",
+    "num": "dailymirrorlk-16088c72",
+    "date_str": "2026-10-13",
+    "description": "99x launches AI-Hub to increase visibility on AI-assisted workflows",
+    "url_metadata": "https://www.dailymirror.lk/business-news/99x-launches-AI-Hub-to-increase-visibility-on-AI-assisted-workflows/273-352391",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871402.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-6cca3ad3",
+    "num": "dailymirrorlk-6cca3ad3",
+    "date_str": "2026-10-13",
+    "description": "Pan Asia Bank-Toyota Lanka bring reliable mobility solutions to customers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Pan-Asia-Bank-Toyota-Lanka-bring-reliable-mobility-solutions-to-customers/273-352392",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871470.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-162e63b3",
+    "num": "dailymirrorlk-162e63b3",
+    "date_str": "2026-10-13",
+    "description": "Siyapatha Finance receives independent GHG verification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Siyapatha-Finance-receives-independent-GHG-verification/273-352393",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-8b2c6a1d",
+    "num": "dailymirrorlk-8b2c6a1d",
+    "date_str": "2026-10-13",
+    "description": "Secondary market activity stalls ahead of T-bond auction",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-activity-stalls-ahead-of-T-bond-auction/273-352395",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-10-13",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-352396",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-c8637505",
+    "num": "dailymirrorlk-c8637505",
+    "date_str": "2026-10-13",
+    "description": "India\u2019s consumer growth offers opportunity for SL firms: Reliance Consumer Products chief",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indias-consumer-growth-offers-opportunity-for-SL-firms-Reliance-Consumer-Products-chief/273-352397",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791871892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-d22d59a4",
+    "num": "dailymirrorlk-d22d59a4",
+    "date_str": "2026-10-13",
+    "description": "IPS urges growth shift beyond debt-funded spending",
+    "url_metadata": "https://www.dailymirror.lk/business-news/IPS-urges-growth-shift-beyond-debt-funded-spending/273-352398",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-f7070009",
+    "num": "dailymirrorlk-f7070009",
+    "date_str": "2026-10-13",
+    "description": "CBSL flags sovereign exposure and gold lending risks",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CBSL-flags-sovereign-exposure-and-gold-lending-risks/273-352399",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-8861161e",
+    "num": "dailymirrorlk-8861161e",
+    "date_str": "2026-10-13",
+    "description": "President leaves fresh IMF agreement on the table",
+    "url_metadata": "https://www.dailymirror.lk/business-main/President-leaves-fresh-IMF-agreement-on-the-table/245-352400",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872193.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-13-dailymirrorlk-3bb02677",
     "num": "dailymirrorlk-3bb02677",
     "date_str": "2026-10-13",
@@ -76958,5 +77145,115 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791872632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-e4ea83ed",
+    "num": "dailymirrorlk-e4ea83ed",
+    "date_str": "2026-10-13",
+    "description": "Polythene Abuse by Big Pharmacies!",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Polythene-Abuse-by-Big-Pharmacies/172-352403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-f29365e9",
+    "num": "dailymirrorlk-f29365e9",
+    "date_str": "2026-10-13",
+    "description": "Pakistan becomes more Middle Eastern than South Asian",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Pakistan-becomes-more-Middle-Eastern-than-South-Asian/172-352405",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-e437a1f6",
+    "num": "dailymirrorlk-e437a1f6",
+    "date_str": "2026-10-13",
+    "description": "Will the PSC on \u2018Black July\u2019 be just another fruitless probe?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Will-the-PSC-on-Black-July-be-just-another-fruitless-probe/172-352406",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791872880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-b14b9483",
+    "num": "dailymirrorlk-b14b9483",
+    "date_str": "2026-10-13",
+    "description": "Indian police detain \u2019cockroach\u2019 movement leaders demanding election chief\u2019s resignation",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-police-detain-cockroach-movement-leaders-demanding-election-chiefs-resignation/107-352410",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791874456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-8decaa5c",
+    "num": "dailymirrorlk-8decaa5c",
+    "date_str": "2026-10-13",
+    "description": "Dharmaraja primary section gets Rs. 4 mn upgrade",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Dharmaraja-primary-section-gets-Rs-4-mn-upgrade/110-352413",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791875823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-b30929c2",
+    "num": "dailymirrorlk-b30929c2",
+    "date_str": "2026-10-13",
+    "description": "Breaking Bad actor RJ Mitte dies aged 34",
+    "url_metadata": "https://www.dailymirror.lk/international/Breaking-Bad-actor-RJ-Mitte-dies-aged-34/107-352414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791877889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-412a662c",
+    "num": "dailymirrorlk-412a662c",
+    "date_str": "2026-10-13",
+    "description": "Namal Rajapaksa further remanded till October 28",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-further-remanded-till-October-28/108-352415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791877985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-15c69ef8",
+    "num": "dailymirrorlk-15c69ef8",
+    "date_str": "2026-10-13",
+    "description": "Sajith rejects Ashok Abeysinghe\u2019s resignation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-rejects-Ashok-Abeysinghes-resignation/108-352416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791878614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-bf9fa1cb",
+    "num": "dailymirrorlk-bf9fa1cb",
+    "date_str": "2026-10-13",
+    "description": "Rs. 500,000 fine for selling bottled water above MRP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-500-000-fine-for-selling-bottled-water-above-MRP/108-352417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791878795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-1fbeba7d",
+    "num": "dailymirrorlk-1fbeba7d",
+    "date_str": "2026-10-13",
+    "description": "Cabinet approves declaration of Nakolagane Wildlife Sanctuary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-declaration-of-Nakolagane-Wildlife-Sanctuary/108-352418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791879918.0
   }
 ]
