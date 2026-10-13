@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_08:14:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--13_10:04:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**132,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**132,923** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-13-adalk-c102f13e",
-    "num": "adalk-c102f13e",
+    "doc_id": "2026-10-13-adalk-406c7873",
+    "num": "adalk-406c7873",
     "date_str": "2026-10-13",
-    "description": "\u0da2\u0dcf-\u0d87\u0dbd FOTON \u0db1\u0dc0 \u0dc3\u0dda\u0dc0\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0db8\u0d9c \u0d89\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dcf \u0da7\u0dca\u200d\u0dbb\u0dda\u0da9\u0dbb\u0dca\u0dc3\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0dda",
-    "url_metadata": "https://www.ada.lk/business/\u0da2\u0dcf-\u0d87\u0dbd-FOTON-\u0db1\u0dc0-\u0dc3\u0dda\u0dc0\u0dcf-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0dc3\u0db8\u0d9c-\u0d89\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dcf-\u0da7\u0dca\u200d\u0dbb\u0dda\u0da9\u0dbb\u0dca\u0dc3\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca-\u0dc0\u0dda/7-424626",
+    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0daf\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca\u0dc0\u0dbd\u0da7-\u0daf\u0dd9\u0db1\u0dc0\u0dcf/3-424629",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1791854921.0
+    "time_ut": 1791860598.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-13 | `adalk-406c7873` | රුසියාව බලශක්ති පහසුකම්වලට දෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-406c7873)
+- 2026-10-13 | `adalk-1ca9606f` | කොකේන් සමග ඇල්ලූ විදෙස් ජාතිකයන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-1ca9606f)
 - 2026-10-13 | `adalk-c102f13e` | ජා-ඇල FOTON නව සේවා මධ්‍යස්ථානය සමග ඉන්ද්‍රා ට්‍රේඩර්ස් සේවා ශක්තිමත් වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-adalk-c102f13e)
 - 2026-10-13 | `dailyftlk-11324eeb` | Sajith seeks urgent oversight committee meeting on prison attire rules for clergy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailyftlk-11324eeb)
 - 2026-10-13 | `dailyftlk-cb0a1cc9` | Sri Lanka Indian Technical and Economic Cooperation Alumni Association holds inaugural meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailyftlk-cb0a1cc9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-13 | `dailyftlk-f0c574e7` | The accountability gap: Global contrasts and responses to political corruption and crime | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailyftlk-f0c574e7)
 - 2026-10-13 | `dailyftlk-d69a4563` | Beyond better buses: Future of public transport in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailyftlk-d69a4563)
 - 2026-10-12 | `dailymirrorlk-705707ee` | Airlines cancel flights to Saudi Arabia after Riyadh airport attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-705707ee)
-- 2026-10-12 | `adalk-1b81215c` | තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-adalk-1b81215c)
-- 2026-10-12 | `dailymirrorlk-9fc7168e` | Ashok Abeysinghe resigns from all SJB positions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-12-dailymirrorlk-9fc7168e)
 
 ---
 
