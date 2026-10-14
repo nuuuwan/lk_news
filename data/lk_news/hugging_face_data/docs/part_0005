@@ -77764,6 +77764,116 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-b4ac37e3",
+    "num": "dailymirrorlk-b4ac37e3",
+    "date_str": "2026-10-14",
+    "description": "Sri Lanka Insurance General receives independent greenhouse gas verification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Insurance-General-receives-independent-greenhouse-gas-verification/273-352446",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791938928.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-bc5ac91b",
+    "num": "dailymirrorlk-bc5ac91b",
+    "date_str": "2026-10-14",
+    "description": "Fairfirst named as SL\u2019s Best Travel Insurance Company",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Fairfirst-named-as-SLs-Best-Travel-Insurance-Company/273-352447",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-70f1963a",
+    "num": "dailymirrorlk-70f1963a",
+    "date_str": "2026-10-14",
+    "description": "Unilever Sri Lanka appoints 1st female head of sales",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Unilever-Sri-Lanka-appoints-1st-female-head-of-sales/273-352448",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-f1581b17",
+    "num": "dailymirrorlk-f1581b17",
+    "date_str": "2026-10-14",
+    "description": "HNB Life celebrates Customer Service Week",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-Life-celebrates-Customer-Service-Week/273-352449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939483.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-37d63bda",
+    "num": "dailymirrorlk-37d63bda",
+    "date_str": "2026-10-14",
+    "description": "Yamamoto Motor Corporation introduces Voge Experience Centre",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yamamoto-Motor-Corporation-introduces-Voge-Experience-Centre/273-352450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-3b5082bd",
+    "num": "dailymirrorlk-3b5082bd",
+    "date_str": "2026-10-14",
+    "description": "Spera unveils South Asia\u2019s 1st homegrown security humanoid",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Spera-unveils-South-Asias-1st-homegrown-security-humanoid/273-352451",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-5b77f3de",
+    "num": "dailymirrorlk-5b77f3de",
+    "date_str": "2026-10-14",
+    "description": "New pathways opened for  Sri Lankan and South Asian start-ups",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-pathways-opened-for-Sri-Lankan-and-South-Asian-start-ups/273-352452",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791939884.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-c7a8e3ca",
+    "num": "dailymirrorlk-c7a8e3ca",
+    "date_str": "2026-10-14",
+    "description": "DFCC Bank brings Asia-Pacific Development Finance Leaders to  Sri Lanka for ADFIAP 49",
+    "url_metadata": "https://www.dailymirror.lk/business-news/DFCC-Bank-brings-Asia-Pacific-Development-Finance-Leaders-to-Sri-Lanka-for-ADFIAP-49/273-352453",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791941700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-6dd1b6f2",
+    "num": "dailymirrorlk-6dd1b6f2",
+    "date_str": "2026-10-14",
+    "description": "RDB launches rural entrepreneurship drive with finance and market support",
+    "url_metadata": "https://www.dailymirror.lk/business-news/RDB-launches-rural-entrepreneurship-drive-with-finance-and-market-support/273-352454",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791941814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-10-14",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-352456",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791942134.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-adalk-01b43e36",
     "num": "adalk-01b43e36",
     "date_str": "2026-10-14",
@@ -77772,6 +77882,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791943355.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-d6a5b172",
+    "num": "dailymirrorlk-d6a5b172",
+    "date_str": "2026-10-14",
+    "description": "Trading turns tepid amid T-Bond auction",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Trading-turns-tepid-amid-T-Bond-auction/273-352457",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791943507.0
   },
   {
     "doc_type": "lk_news",
@@ -77794,6 +77915,72 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791944423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-4409bf16",
+    "num": "dailymirrorlk-4409bf16",
+    "date_str": "2026-10-14",
+    "description": "Dinlanka buys 11.11% stake in Ceylon Hotels Corporation for Rs. 600mn",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dinlanka-buys-11-11-stake-in-Ceylon-Hotels-Corporation-for-Rs-600mn/273-352458",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791944616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-52009ef0",
+    "num": "dailymirrorlk-52009ef0",
+    "date_str": "2026-10-14",
+    "description": "Vehicle registrations jump18.3% in September",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Vehicle-registrations-jump18-3-in-September/273-352459",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791944728.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-44ad6380",
+    "num": "dailymirrorlk-44ad6380",
+    "date_str": "2026-10-14",
+    "description": "CB\u2019s wage growth defence runs into World Bank\u2019s six-in-10 poverty figure",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CBs-wage-growth-defence-runs-into-World-Banks-six-in-10-poverty-figure/273-352460",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791944857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-7cdc97d5",
+    "num": "dailymirrorlk-7cdc97d5",
+    "date_str": "2026-10-14",
+    "description": "Longer working lives key to easing Sri Lanka\u2019s ageing challenge: IMF",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Longer-working-lives-key-to-easing-Sri-Lankas-ageing-challenge-IMF/273-352461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791945220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-b33812cd",
+    "num": "dailymirrorlk-b33812cd",
+    "date_str": "2026-10-14",
+    "description": "Govt. to bring private investors into ECT management",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Govt-to-bring-private-investors-into-ECT-management/273-352462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791945500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-a2c11331",
+    "num": "dailymirrorlk-a2c11331",
+    "date_str": "2026-10-14",
+    "description": "Colombo tipped for bigger role in Asia\u2019s trade and investment flows",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Colombo-tipped-for-bigger-role-in-Asias-trade-and-investment-flows/245-352463",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791945841.0
   },
   {
     "doc_type": "lk_news",
@@ -77885,6 +78072,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-8d2f4744",
+    "num": "dailymirrorlk-8d2f4744",
+    "date_str": "2026-10-14",
+    "description": "New Crimes Bill raises questions over people\u2019s liberty",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Crimes-Bill-raises-questions-over-peoples-liberty/108-352474",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791954732.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-adalk-2c4ecd37",
     "num": "adalk-2c4ecd37",
     "date_str": "2026-10-14",
@@ -77937,5 +78135,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791957471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-373c1efd",
+    "num": "dailymirrorlk-373c1efd",
+    "date_str": "2026-10-14",
+    "description": "Sri Lanka expresses gratitude to Saudi Arabia over Anojan Shivarasah case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-expresses-gratitude-to-Saudi-Arabia-over-Anojan-Shivarasah-case/108-352479",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791959340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-a24b62fb",
+    "num": "dailymirrorlk-a24b62fb",
+    "date_str": "2026-10-14",
+    "description": "Severe lightning warning for entire island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Severe-lightning-warning-for-entire-island/108-352490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791960467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-e98fe652",
+    "num": "dailymirrorlk-e98fe652",
+    "date_str": "2026-10-14",
+    "description": "FBI arrests Saudi OpenAI employee for allegedly bugging San Francisco office",
+    "url_metadata": "https://www.dailymirror.lk/international/FBI-arrests-Saudi-OpenAI-employee-for-allegedly-bugging-San-Francisco-office/107-352493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791965156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-101a3749",
+    "num": "dailymirrorlk-101a3749",
+    "date_str": "2026-10-14",
+    "description": "Wildlife offices on alert over tusker Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-offices-on-alert-over-tusker-Kavantissa/108-352494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791965501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-d4e9ec38",
+    "num": "dailymirrorlk-d4e9ec38",
+    "date_str": "2026-10-14",
+    "description": "Sri Lanka Customs achieves 2026 revenue target by October 13",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Customs-achieves-2026-revenue-target-by-October-13/108-352495",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791965724.0
   }
 ]

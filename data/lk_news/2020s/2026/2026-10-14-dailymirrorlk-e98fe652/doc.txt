@@ -1,0 +1,45 @@
+FBI arrests Saudi OpenAI employee for allegedly bugging San Francisco office
+
+FRANCE 24 - A Saudi employee of OpenAI was arrested after allegedly planting a recording device in one of the company's San Francisco offices, the AI firm and federal prosecutors said Tuesday, amid a global race to dominate in artificial intelligence.
+
+"We discovered a sophisticated recording device that was hidden inside one of our offices" and "referred the matter to the FBI," OpenAI told AFP in a statement.
+
+OpenAI's security team found the device late last month and the employee, Saudi national Abdulrahman Alfozan, was arrested on October 9, the US Justice Department said.
+
+Alfozan, a 35-year-old engineer who had worked for OpenAI since July 2025, allegedly wrapped a USB device in toilet paper and inserted it into a television located in an "executive conference room", according to a Justice Department statement.
+
+He was allegedly caught on camera "near" the conference room multiple times but was not authorised to participate in meetings located there.
+
+He used a "productivity tool" to search for more information about OpenAI's office buildings, meeting rooms, calendars, schedules and people's locations, according to the statement.
+
+A chatbot account connected to Alfozan's spouse also allegedly contained queries related to remote audio recording and encrypting memory cards.
+
+"This serious situation underscores why winning the global super intelligence race is a national security prerogative," Director of National Intelligence Jay Clayton said in the statement.
+
+"The intelligence community remains committed to safeguarding America's cutting-edge intellectual property from foreign threats," Clayton added.
+
+The arrest and allegations come amid a fierce global race to dominate in artificial intelligence, which the Trump administration has pushed to be rebranded as "superintelligence."
+
+Saudi Arabia's state-backed AI firm Humain invested $3 billion in Elon Musk's xAI shortly before the American billionaire's space company, SpaceX, acquired the AI division in February.
+
+Now known as SpaceXAI, the division announced last year that it was teaming up with Humain to build a 500-megawatt data center in Saudi Arabia.
+
+It was not immediately clear what, if any information the recording device was able to collect.
+
+"At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data," OpenAI told AFP in a statement.
+
+A second device was found by OpenAI's security team when they searched an unattended bag that belonged to Alfozan, according to the Justice Department.
+
+Alfozan was caught on security footage from inside the restricted conference room where he appeared to look behind the television where the recording device had been placed, the Department said.
+
+A LinkedIn account matching Alfozan's name and resume show that he previously worked at Facebook-owner Meta, as well as an AI startup and a venture capital firm.
+
+He was also a student at University of California at Berkeley and the Massachusetts Institute of Technology.
+
+The Justice Department said Alfozen had been charged with "using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications", for which he could face up to five years in prison and a $250,000 fine.
+
+It did not accuse Alfozan nor Saudi Arabia, which is a close US ally, of spying activity in its statement on Tuesday.
+
+Alfozan is expected to appear at a federal court hearing on October 19.
+
+In 2022, a former Twitter worker, Ahmad Abouammo, was found guilty of spying for Saudi officials keen to unmask critics on the platform.
