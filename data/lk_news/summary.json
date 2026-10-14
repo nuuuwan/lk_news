@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-14 15:56:34",
-  "n_docs": 133071,
+  "time_updated": "2026-10-14 18:03:35",
+  "n_docs": 133079,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133071,
+  "n_docs_with_text": 133079,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-14",
-  "dataset_size": 2062260116,
+  "dataset_size": 2062432736,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-14-dailymirrorlk-9d85591d",
-    "num": "dailymirrorlk-9d85591d",
+    "doc_id": "2026-10-14-dailymirrorlk-dd88ac3d",
+    "num": "dailymirrorlk-dd88ac3d",
     "date_str": "2026-10-14",
-    "description": "President welcomes Saudi court decision to overturn Anojan\u2019s death sentence",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-welcomes-Saudi-court-decision-to-overturn-Anojans-death-sentence/108-352511",
+    "description": "\u2018Dubai Sudda\u2019 gets five-year suspended jail term over foreign job scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dubai-Sudda-gets-five-year-suspended-jail-term-over-foreign-job-scam/108-352517",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791972688.0
+    "time_ut": 1791976790.0
   }
 }
