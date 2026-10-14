@@ -78424,6 +78424,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-d92e8b20",
+    "num": "adalk-d92e8b20",
+    "date_str": "2026-10-14",
+    "description": "\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0db6\u0dc3\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7 \u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dba\u0dcf\u0dbb\u0dca\u0db6\u0dc3\u0dca-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0da7-\u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf/11-424658",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791972351.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-dailymirrorlk-3fe8dc32",
     "num": "dailymirrorlk-3fe8dc32",
     "date_str": "2026-10-14",
@@ -78553,5 +78564,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791982704.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-d12816eb",
+    "num": "dailymirrorlk-d12816eb",
+    "date_str": "2026-10-14",
+    "description": "Kadigamuwa embankment collapses again, train halted at Rambukkana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kadigamuwa-embankment-collapses-again-train-halted-at-Rambukkana/108-352522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791987926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-00b11482",
+    "num": "dailymirrorlk-00b11482",
+    "date_str": "2026-10-14",
+    "description": "IRD urges taxpayers to submit returns by November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IRD-urges-taxpayers-to-submit-returns-by-November-30/108-352523",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791988828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-b0177b8e",
+    "num": "dailymirrorlk-b0177b8e",
+    "date_str": "2026-10-14",
+    "description": "Provincial Council elections to become non-event ?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Provincial-Council-elections-to-become-non-event/108-352525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791990417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-039b2df3",
+    "num": "dailymirrorlk-039b2df3",
+    "date_str": "2026-10-14",
+    "description": "6 killed in plane crash in US state of Wisconsin, authorities say",
+    "url_metadata": "https://www.dailymirror.lk/international/6-killed-in-plane-crash-in-US-state-of-Wisconsin-authorities-say/107-352526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791991319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-98c2101e",
+    "num": "dailymirrorlk-98c2101e",
+    "date_str": "2026-10-14",
+    "description": "Promised dengue vaccine yet to be imported, says Dr. Chamal Sanjeewa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Promised-dengue-vaccine-yet-to-be-imported-says-Dr-Chamal-Sanjeewa/108-352527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791992324.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-14 19:56:39",
-  "n_docs": 133085,
+  "time_updated": "2026-10-14 21:59:52",
+  "n_docs": 133091,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133085,
+  "n_docs_with_text": 133091,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-14",
-  "dataset_size": 2062507516,
+  "dataset_size": 2062565424,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-14-dailymirrorlk-9b7617fd",
-    "num": "dailymirrorlk-9b7617fd",
+    "doc_id": "2026-10-14-dailymirrorlk-98c2101e",
+    "num": "dailymirrorlk-98c2101e",
     "date_str": "2026-10-14",
-    "description": "CSE breaks below 20,000 as selling pressure intensifies",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-breaks-below-20-000-as-selling-pressure-intensifies/108-352521",
+    "description": "Promised dengue vaccine yet to be imported, says Dr. Chamal Sanjeewa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Promised-dengue-vaccine-yet-to-be-imported-says-Dr-Chamal-Sanjeewa/108-352527",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791982704.0
+    "time_ut": 1791992324.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--14_19:57:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--14_22:00:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,085** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,091** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-14-dailymirrorlk-9b7617fd",
-    "num": "dailymirrorlk-9b7617fd",
+    "doc_id": "2026-10-14-dailymirrorlk-98c2101e",
+    "num": "dailymirrorlk-98c2101e",
     "date_str": "2026-10-14",
-    "description": "CSE breaks below 20,000 as selling pressure intensifies",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-breaks-below-20-000-as-selling-pressure-intensifies/108-352521",
+    "description": "Promised dengue vaccine yet to be imported, says Dr. Chamal Sanjeewa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Promised-dengue-vaccine-yet-to-be-imported-says-Dr-Chamal-Sanjeewa/108-352527",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791982704.0
+    "time_ut": 1791992324.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-14 | `dailymirrorlk-98c2101e` | Promised dengue vaccine yet to be imported, says Dr. Chamal Sanjeewa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-98c2101e)
+- 2026-10-14 | `dailymirrorlk-039b2df3` | 6 killed in plane crash in US state of Wisconsin, authorities say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-039b2df3)
+- 2026-10-14 | `dailymirrorlk-b0177b8e` | Provincial Council elections to become non-event ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-b0177b8e)
+- 2026-10-14 | `dailymirrorlk-00b11482` | IRD urges taxpayers to submit returns by November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-00b11482)
+- 2026-10-14 | `dailymirrorlk-d12816eb` | Kadigamuwa embankment collapses again, train halted at Rambukkana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-d12816eb)
 - 2026-10-14 | `dailymirrorlk-9b7617fd` | CSE breaks below 20,000 as selling pressure intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-9b7617fd)
 - 2026-10-14 | `dailymirrorlk-2266cf94` | 23,006 graduate teacher recruitment: Interview-qualified lists published | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-2266cf94)
 - 2026-10-14 | `dailymirrorlk-d58f9f1b` | Committee recommends allowing Buddhist monks to wear robes outside prison: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-d58f9f1b)
@@ -53,14 +58,9 @@ A collection of lk_news documents.
 - 2026-10-14 | `dailymirrorlk-51c11794` | Murali makes Buttler and Broad’s top 10 bowlers of the 21st century | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-51c11794)
 - 2026-10-14 | `dailymirrorlk-9d85591d` | President welcomes Saudi court decision to overturn Anojan’s death sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-9d85591d)
 - 2026-10-14 | `dailymirrorlk-3fe8dc32` | EU, Sri Lanka discuss Trincomalee green energy hub, port development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-3fe8dc32)
+- 2026-10-14 | `adalk-d92e8b20` | එයාර්බස් ගනුදෙනුවට නාමල්ට අධිචෝදනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-adalk-d92e8b20)
 - 2026-10-14 | `dailymirrorlk-6f593b3e` | Sri Lanka’s total exports surpass US$9bn in first half of 2026: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-6f593b3e)
 - 2026-10-14 | `dailymirrorlk-ac59cacb` | Police in Germany seize robot after teen girl is allegedly groped | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-ac59cacb)
-- 2026-10-14 | `adalk-1689aff4` | කාවන්තිස්ස ගැන ඉහළම අවධානයෙන් ඉන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-adalk-1689aff4)
-- 2026-10-14 | `dailymirrorlk-aa022642` | Fire erupts on fourth floor of Bambalapitiya apartment building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-aa022642)
-- 2026-10-14 | `dailymirrorlk-6322a93d` | Mano concerned over Kiriella’s remarks during meeting with Mahanayake Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-6322a93d)
-- 2026-10-14 | `adalk-4a47d0ca` | නාමල් ජනපතිට යළිත් ලිපියක් ලියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-adalk-4a47d0ca)
-- 2026-10-14 | `dailymirrorlk-f6a6e30a` | Namal seeks second-chance loan scheme in 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailymirrorlk-f6a6e30a)
-- 2026-10-14 | `adalk-aee7de42` | කුණු කන්දක් ක්‍රීඩාංගණයක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-adalk-aee7de42)
 
 ---
 
