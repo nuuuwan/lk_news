@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--14_06:16:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--14_08:01:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,008** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-14-dailyftlk-7dfdad47",
-    "num": "dailyftlk-7dfdad47",
+    "doc_id": "2026-10-14-dailyftlk-a07db891",
+    "num": "dailyftlk-a07db891",
     "date_str": "2026-10-14",
-    "description": "Sri Lanka tourism\u2019s billion dollar problem: Record arrivals, shrinking value",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-tourism-s-billion-dollar-problem-Record-arrivals-shrinking-value/4-798629",
+    "description": "From remitters to investors: Sri Lanka needs an  investment engine",
+    "url_metadata": "https://www.ft.lk/columns/From-remitters-to-investors-Sri-Lanka-needs-an-investment-engine/4-798631",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1791938113.0
+    "time_ut": 1791938782.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-14 | `dailyftlk-a07db891` | From remitters to investors: Sri Lanka needs an  investment engine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailyftlk-a07db891)
+- 2026-10-14 | `dailyftlk-cc9d70f1` | IMF Seventh Review and moving forward | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailyftlk-cc9d70f1)
 - 2026-10-14 | `dailyftlk-7dfdad47` | Sri Lanka tourism’s billion dollar problem: Record arrivals, shrinking value | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailyftlk-7dfdad47)
 - 2026-10-14 | `dailyftlk-2d1865a1` | Digital skills development of South Asian women entrepreneurs: Opportunities and challenges for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailyftlk-2d1865a1)
 - 2026-10-14 | `dailyftlk-34f03e1c` | Chaaminda Kumarasiri wins CA Business Leader of the Year Award 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-14-dailyftlk-34f03e1c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-13 | `dailymirrorlk-c8dcc367` | Company fined Rs. 240,000 over plastic bottles without SLS mark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-c8dcc367)
 - 2026-10-13 | `dailymirrorlk-a2ca9608` | Zahira ’98 holds first badminton tournament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-a2ca9608)
 - 2026-10-13 | `dailymirrorlk-94457324` | Chinese government’s MRI scanner donated to hospital on Shiranthi Rajapaksa’s child’s birthday: AG says in court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-94457324)
-- 2026-10-13 | `dailymirrorlk-d19870df` | IMF raises its forecast for world growth this year but warns of risks from AI boom and debt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-d19870df)
-- 2026-10-13 | `dailymirrorlk-0fe12635` | Shiranthi undergoes Angiogram, no surgery yet: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-13-dailymirrorlk-0fe12635)
 
 ---
 

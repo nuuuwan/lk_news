@@ -77445,6 +77445,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-13-adalk-990e32ae",
+    "num": "adalk-990e32ae",
+    "date_str": "2026-10-13",
+    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca \u0db1\u0dd1, \u0d85\u0db1\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dbd\u0db6\u0dbd \u0d91\u0db4\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0d9a\u0dca-\u0db1\u0dd1--\u0d85\u0db1\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0d9a\u0dbd\u0db6\u0dbd-\u0d91\u0db4\u0dcf/11-424642",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791886722.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-13-dailymirrorlk-b21c6ebb",
     "num": "dailymirrorlk-b21c6ebb",
     "date_str": "2026-10-13",
@@ -77706,5 +77717,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1791938113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailyftlk-cc9d70f1",
+    "num": "dailyftlk-cc9d70f1",
+    "date_str": "2026-10-14",
+    "description": "IMF Seventh Review and moving forward",
+    "url_metadata": "https://www.ft.lk/columns/IMF-Seventh-Review-and-moving-forward/4-798630",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791938472.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailyftlk-a07db891",
+    "num": "dailyftlk-a07db891",
+    "date_str": "2026-10-14",
+    "description": "From remitters to investors: Sri Lanka needs an  investment engine",
+    "url_metadata": "https://www.ft.lk/columns/From-remitters-to-investors-Sri-Lanka-needs-an-investment-engine/4-798631",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1791938782.0
   }
 ]
