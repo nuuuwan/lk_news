@@ -78358,6 +78358,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-4a47d0ca",
+    "num": "adalk-4a47d0ca",
+    "date_str": "2026-10-14",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca \u0dbd\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca-\u0dbd\u0dd2\u0dba\u0dba\u0dd2/11-424656",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791971441.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-dailymirrorlk-6322a93d",
     "num": "dailymirrorlk-6322a93d",
     "date_str": "2026-10-14",
@@ -78377,6 +78388,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791971874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-1689aff4",
+    "num": "adalk-1689aff4",
+    "date_str": "2026-10-14",
+    "description": "\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0dad\u0dd2\u0dc3\u0dca\u0dc3 \u0d9c\u0dd0\u0db1 \u0d89\u0dc4\u0dc5\u0db8 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0dad\u0dd2\u0dc3\u0dca\u0dc3-\u0d9c\u0dd0\u0db1-\u0d89\u0dc4\u0dc5\u0db8-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db1/11-424657",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791972046.0
   },
   {
     "doc_type": "lk_news",
@@ -78487,5 +78509,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1791976790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-36d24b6d",
+    "num": "dailymirrorlk-36d24b6d",
+    "date_str": "2026-10-14",
+    "description": "Strong winds, rough seas expected off Negombo\u2013Galle coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-rough-seas-expected-off-NegomboGalle-coast/108-352518",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791980907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-d58f9f1b",
+    "num": "dailymirrorlk-d58f9f1b",
+    "date_str": "2026-10-14",
+    "description": "Committee recommends allowing Buddhist monks to wear robes outside prison: Minister",
+    "url_metadata": "https://www.dailymirror.lk/top-story/Committee-recommends-allowing-Buddhist-monks-to-wear-robes-outside-prison-Minister/155-352519",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791981390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-2266cf94",
+    "num": "dailymirrorlk-2266cf94",
+    "date_str": "2026-10-14",
+    "description": "23,006 graduate teacher recruitment: Interview-qualified lists published",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/23-006-graduate-teacher-recruitment-Interview-qualified-lists-published/108-352520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791982489.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-9b7617fd",
+    "num": "dailymirrorlk-9b7617fd",
+    "date_str": "2026-10-14",
+    "description": "CSE breaks below 20,000 as selling pressure intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-breaks-below-20-000-as-selling-pressure-intensifies/108-352521",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791982704.0
   }
 ]
