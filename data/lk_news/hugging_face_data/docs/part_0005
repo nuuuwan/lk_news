@@ -77599,6 +77599,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-13-dailymirrorlk-9b5502fc",
+    "num": "dailymirrorlk-9b5502fc",
+    "date_str": "2026-10-13",
+    "description": "Wetlands in the tourism spotlight",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Wetlands-in-the-tourism-spotlight/110-352445",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791907032.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-dailyftlk-883c3f94",
     "num": "dailyftlk-883c3f94",
     "date_str": "2026-10-14",
@@ -77775,6 +77786,28 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-787311b3",
+    "num": "adalk-787311b3",
+    "date_str": "2026-10-14",
+    "description": "\u0db8\u0dd2\u0daf\u0dca\u0daf\u0dd9\u0db1\u0dd2\u0dba \u0d9a\u0da2\u0dca\u0da2\u0dcf\u0d9c\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0db8\u0dc4\u0dbd\u0dca \u0db4\u0dd4\u0dad\u0dd4 \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0daf\u0dca\u0daf\u0dd9\u0db1\u0dd2\u0dba-\u0d9a\u0da2\u0dca\u0da2\u0dcf\u0d9c\u0dda-\u0dc0\u0dd0\u0da9\u0dd2\u0db8\u0dc4\u0dbd\u0dca-\u0db4\u0dd4\u0dad\u0dd4-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0d9f-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-424645",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791944423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-ec1958f3",
+    "num": "dailymirrorlk-ec1958f3",
+    "date_str": "2026-10-14",
+    "description": "\u201cIf we can enter into new IMF agreement for Economic Growth , we are ready to go\u201d \u2013 President",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/If-we-can-enter-into-new-IMF-agreement-for-Economic-Growth-we-are-ready-to-go-President/334-352465",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791948308.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-14-adalk-4d4e7d0d",
     "num": "adalk-4d4e7d0d",
     "date_str": "2026-10-14",
@@ -77783,5 +77816,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1791950681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-fc0c5a52",
+    "num": "dailymirrorlk-fc0c5a52",
+    "date_str": "2026-10-14",
+    "description": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "url_metadata": "https://www.dailymirror.lk/international/Pope-diagnosed-with-lung-cancer-but-had-successful-surgery-Vatican-says/107-352468",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791950871.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-ee873f13",
+    "num": "dailymirrorlk-ee873f13",
+    "date_str": "2026-10-14",
+    "description": "Indonesian Food Festival brings archipelago\u2019s flavours to Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Indonesian-Food-Festival-brings-archipelagos-flavours-to-Colombo/110-352469",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791951832.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-0bf9fc42",
+    "num": "dailymirrorlk-0bf9fc42",
+    "date_str": "2026-10-14",
+    "description": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+    "url_metadata": "https://www.dailymirror.lk/international/Apple-unveils-new-smart-home-devices-that-showcase-upgraded-Siri-AI/107-352470",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791952698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-593d9a3e",
+    "num": "dailymirrorlk-593d9a3e",
+    "date_str": "2026-10-14",
+    "description": "Sri Lankan Umrah pilgrims warned of possible flight disruptions to Saudi Arabia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Umrah-pilgrims-warned-of-possible-flight-disruptions-to-Saudi-Arabia/108-352471",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791953660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-35d19258",
+    "num": "dailymirrorlk-35d19258",
+    "date_str": "2026-10-14",
+    "description": "I granted pardon to Gnanasara Thera in line with the Constitution: Maithripala Sirisena",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/I-granted-pardon-to-Gnanasara-Thera-in-line-with-the-Constitution-Maithripala-Sirisena/108-352472",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791953774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-33125ad2",
+    "num": "dailymirrorlk-33125ad2",
+    "date_str": "2026-10-14",
+    "description": "Court orders steps to obtain Interpol Red Notice for Basil Rajapaksa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-steps-to-obtain-Interpol-Red-Notice-for-Basil-Rajapaksa/108-352473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791954196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-2c4ecd37",
+    "num": "adalk-2c4ecd37",
+    "date_str": "2026-10-14",
+    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dbd\u0ddc\u0d9a\u0dd4-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca/11-424648",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791955082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-7ef63d78",
+    "num": "dailymirrorlk-7ef63d78",
+    "date_str": "2026-10-14",
+    "description": "Anojan Sivarasa\u2019s death sentence overturned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anojan-Sivarasas-death-sentence-overturned/108-352475",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791955301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-adalk-4473b97d",
+    "num": "adalk-4473b97d",
+    "date_str": "2026-10-14",
+    "description": "\u0d85\u0db1\u0ddd\u0da2\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dbb\u0dab \u0daf\u0da9\u0dd4\u0dc0\u0db8 \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0ddd\u0da2\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dbb\u0dab-\u0daf\u0da9\u0dd4\u0dc0\u0db8-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-424650",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1791956930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-c3f89dac",
+    "num": "dailymirrorlk-c3f89dac",
+    "date_str": "2026-10-14",
+    "description": "Sangeeth Cooray to lead Sri Lanka at Hong Kong Sixes 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sangeeth-Cooray-to-lead-Sri-Lanka-at-Hong-Kong-Sixes-2026/108-352476",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791957306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-14-dailymirrorlk-520f7b13",
+    "num": "dailymirrorlk-520f7b13",
+    "date_str": "2026-10-14",
+    "description": "Pakistan has locked down Imran Khan\u2019s stronghold - but it could backfire",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-has-locked-down-Imran-Khans-stronghold-but-it-could-backfire/107-352477",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1791957471.0
   }
 ]
