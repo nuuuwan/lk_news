@@ -79422,5 +79422,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792062552.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-001c5fad",
+    "num": "dailymirrorlk-001c5fad",
+    "date_str": "2026-10-15",
+    "description": "Nilwala river flood alert: Six divisions at risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nilwala-river-flood-alert-Six-divisions-at-risk/108-352605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792069901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-32f7bdc6",
+    "num": "dailymirrorlk-32f7bdc6",
+    "date_str": "2026-10-15",
+    "description": "SC decides to hear ex-Deputy Minister\u2019s bribery case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SC-decides-to-hear-ex-Deputy-Ministers-bribery-case/108-352606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792070196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-28ae9531",
+    "num": "dailymirrorlk-28ae9531",
+    "date_str": "2026-10-15",
+    "description": "No Ditwah victim will be abandoned, PM pledges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-Ditwah-victim-will-be-abandoned-PM-pledges/108-352607",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792070343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-b5fd5df7",
+    "num": "dailymirrorlk-b5fd5df7",
+    "date_str": "2026-10-15",
+    "description": "Gnanasara Thera\u2019s pardon: Presidential Secretary unable to give definitive answer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-pardon-Presidential-Secretary-unable-to-give-definitive-answer/108-352613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792072884.0
   }
 ]

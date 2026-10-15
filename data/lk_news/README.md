@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_18:03:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_19:59:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,164** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-da1942d7",
-    "num": "dailymirrorlk-da1942d7",
+    "doc_id": "2026-10-15-dailymirrorlk-b5fd5df7",
+    "num": "dailymirrorlk-b5fd5df7",
     "date_str": "2026-10-15",
-    "description": "Yoshitha Rajapaksa received Rs. 5.15 million in Navy salaries and allowances over 10 years - Court told",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksa-received-Rs-5-15-million-in-Navy-salaries-and-allowances-over-10-years-Court-told/108-352604",
+    "description": "Gnanasara Thera\u2019s pardon: Presidential Secretary unable to give definitive answer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-pardon-Presidential-Secretary-unable-to-give-definitive-answer/108-352613",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792062552.0
+    "time_ut": 1792072884.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-15 | `dailymirrorlk-b5fd5df7` | Gnanasara Thera’s pardon: Presidential Secretary unable to give definitive answer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-b5fd5df7)
+- 2026-10-15 | `dailymirrorlk-28ae9531` | No Ditwah victim will be abandoned, PM pledges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-28ae9531)
+- 2026-10-15 | `dailymirrorlk-32f7bdc6` | SC decides to hear ex-Deputy Minister’s bribery case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-32f7bdc6)
+- 2026-10-15 | `dailymirrorlk-001c5fad` | Nilwala river flood alert: Six divisions at risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-001c5fad)
 - 2026-10-15 | `dailymirrorlk-da1942d7` | Yoshitha Rajapaksa received Rs. 5.15 million in Navy salaries and allowances over 10 years - Court told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da1942d7)
 - 2026-10-15 | `dailymirrorlk-275776b7` | Kananathan congratulates Guinea on Independence Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-275776b7)
 - 2026-10-15 | `dailymirrorlk-6d72a095` | Youth arrested over alleged online vehicle advertisement scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-6d72a095)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-15 | `dailymirrorlk-a0bdced9` | Petrol vehicles now less than half of global market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a0bdced9)
 - 2026-10-15 | `dailymirrorlk-5f84c181` | Heavy rains disrupt Colombo life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-5f84c181)
 - 2026-10-15 | `dailymirrorlk-7e108322` | Arugam Bay named Asia’s best beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-7e108322)
-- 2026-10-15 | `dailymirrorlk-1c1c897c` | Over 14,000 visas issued to foreigners on Port City Commission’s recommendations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-1c1c897c)
-- 2026-10-15 | `dailymirrorlk-5990923d` | Colombo roads flooded as heavy rain lashes city | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-5990923d)
-- 2026-10-15 | `dailymirrorlk-4225d5ab` | Dehiwala Zoo zebra recovers after emergency surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-4225d5ab)
-- 2026-10-15 | `dailymirrorlk-80ed0e10` | Thermal-imaging drones to monitor elephant Kavantissa at night | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-80ed0e10)
 
 ---
 
