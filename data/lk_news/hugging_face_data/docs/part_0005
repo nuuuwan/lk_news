@@ -78751,5 +78751,16 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792024250.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-480278e4",
+    "num": "dailymirrorlk-480278e4",
+    "date_str": "2026-10-15",
+    "description": "Kites, drones and fireworks pose threat to aircraft: ATC warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kites-drones-and-fireworks-pose-threat-to-aircraft-ATC-warns/108-352528",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792029927.0
   }
 ]
