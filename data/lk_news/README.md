@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_14:03:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_15:58:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,137** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-afb31431",
-    "num": "dailymirrorlk-afb31431",
+    "doc_id": "2026-10-15-dailymirrorlk-16e9b50c",
+    "num": "dailymirrorlk-16e9b50c",
     "date_str": "2026-10-15",
-    "description": "Syphilis cases rise to 1,500 annually, Hepatitis B infections double",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Syphilis-cases-rise-to-1-500-annually-Hepatitis-B-infections-double/108-352582",
+    "description": "Airline representatives discuss rising costs, airport upgrades",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Airline-representatives-discuss-rising-costs-airport-upgrades/108-352599",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792052481.0
+    "time_ut": 1792059126.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-15 | `dailymirrorlk-16e9b50c` | Airline representatives discuss rising costs, airport upgrades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-16e9b50c)
+- 2026-10-15 | `dailymirrorlk-da41bbef` | Eight crew missing in tanker fire off Romania’s coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da41bbef)
+- 2026-10-15 | `dailymirrorlk-2c64d740` | Rainfall above 100 mm forecast in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2c64d740)
+- 2026-10-15 | `dailymirrorlk-69290509` | TISL urges Government to withdraw proposed Anti-Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-69290509)
+- 2026-10-15 | `dailymirrorlk-e4d3d98e` | Kandy Metro bus service planned, route survey begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-e4d3d98e)
+- 2026-10-15 | `dailymirrorlk-9bcb5754` | Pathum Nissanka ruled out of Tri-Nation ODI series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-9bcb5754)
+- 2026-10-15 | `dailymirrorlk-2d901c94` | US donates Rs. 330Mn worth of cancer drugs to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2d901c94)
+- 2026-10-15 | `dailymirrorlk-6684fda8` | Sri Lanka seeks China’s support for National AI Computing Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-6684fda8)
+- 2026-10-15 | `dailymirrorlk-a0bdced9` | Petrol vehicles now less than half of global market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a0bdced9)
+- 2026-10-15 | `dailymirrorlk-7e108322` | Arugam Bay named Asia’s best beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-7e108322)
+- 2026-10-15 | `dailymirrorlk-1c1c897c` | Over 14,000 visas issued to foreigners on Port City Commission’s recommendations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-1c1c897c)
+- 2026-10-15 | `dailymirrorlk-5990923d` | Colombo roads flooded as heavy rain lashes city | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-5990923d)
+- 2026-10-15 | `dailymirrorlk-4225d5ab` | Dehiwala Zoo zebra recovers after emergency surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-4225d5ab)
+- 2026-10-15 | `dailymirrorlk-80ed0e10` | Thermal-imaging drones to monitor elephant Kavantissa at night | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-80ed0e10)
 - 2026-10-15 | `dailymirrorlk-afb31431` | Syphilis cases rise to 1,500 annually, Hepatitis B infections double | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-afb31431)
 - 2026-10-15 | `dailymirrorlk-2c2b9ed5` | Death sentence against Sri Lankan migrant worker removed after joint Sri Lankan-Saudi legal efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2c2b9ed5)
 - 2026-10-15 | `dailymirrorlk-605d077a` | Joint operation launched in Thabbowa to remove deadly traps threatening wildlife | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-605d077a)
 - 2026-10-15 | `dailymirrorlk-bba9341c` | SriLankan Airlines wins Prestigious SATA 2026 Visitors’ Choice Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-bba9341c)
 - 2026-10-15 | `dailymirrorlk-6b4692a3` | At least 27 children killed after school roof collapses in Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-6b4692a3)
-- 2026-10-15 | `dailymirrorlk-da515d4a` | IMF vows continued support for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da515d4a)
-- 2026-10-15 | `dailymirrorlk-219f0202` | Actor Imran Khan told to leave India by October 28 for protesting against CEC Gyanesh Kumar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-219f0202)
-- 2026-10-15 | `dailymirrorlk-786002d5` | Sri Lanka needs to gradually shift towards green transition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-786002d5)
-- 2026-10-15 | `dailymirrorlk-3587b32f` | Does Navi Pillay deserve the Nobel Peace Prize? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-3587b32f)
-- 2026-10-15 | `dailymirrorlk-54d803db` | Eradicate ragging in universities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-54d803db)
-- 2026-10-15 | `dailymirrorlk-7fb83c3b` | Severe lightning warning issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-7fb83c3b)
-- 2026-10-15 | `dailymirrorlk-db67c29e` | Look at the child, not just the thermometer’: Doctors tell parents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-db67c29e)
-- 2026-10-15 | `dailymirrorlk-2723cb54` | Anojan’s death sentence overturned, but fight for his freedom continues – Rajeevkanth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2723cb54)
-- 2026-10-15 | `dailymirrorlk-23fbf9d9` | Sri Lanka’s new Anti-Terrorism Bill is a familiar cage with a new name | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-23fbf9d9)
-- 2026-10-15 | `dailymirrorlk-0c42c407` | CA Sri Lanka calls for wider tax net, growth-focused budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-0c42c407)
-- 2026-10-15 | `dailymirrorlk-62981732` | Govt. eyes US $ 100mn dollar bond sale with room to triple offer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-62981732)
-- 2026-10-15 | `dailymirrorlk-28f9426f` | Appeal Court upholds 10 years prison sentence for monk convicted for sexually abusing novice monk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-28f9426f)
-- 2026-10-15 | `dailymirrorlk-16c3ff58` | Sri Lanka targets commercialisation of research to boost economic growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-16c3ff58)
-- 2026-10-15 | `dailymirrorlk-a8c5efc6` | Customs tops Rs.2.2tn annual revenue target ahead of schedule | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a8c5efc6)
-- 2026-10-15 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2831aeed)
+- 2026-10-15 | `dailymirrorlk-9eab3a56` | US reminds non-immigrant visa applicants to prove financial readiness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-9eab3a56)
 
 ---
 

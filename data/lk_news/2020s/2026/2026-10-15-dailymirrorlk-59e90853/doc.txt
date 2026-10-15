@@ -1,0 +1,47 @@
+Sri Lankan firms urged to build data sovereignty guardrails ahead of Personal Data Protection Act
+
+From left: Panelist Sanali Kaushalya, Country Director for Sri Lanka, Women in Tech Global; panellist Prof. Nuwan Kodagoda, Deputy Vice Chancellor (Computing), SLIIT; panelist Anisha Dharmadasa, Managing Director, Nawaloka Holdings; presenter Sampath Jayasundara, Chairperson, SLASSCOM and Director/CEO, hSenid Business Solutions PLC; and moderator Dehan Vithana, Lead Data Evangelist, MAS Holdings
+
+Sri Lankan organisations must urgently build their own data sovereignty frameworks and invest in artificial intelligence (AI) literacy across every level of the workforce before key provisions of the Personal Data Protection Act (PDPA) come into operation on 1 January 2027, industry leaders told the AAT Sri Lanka Conference 2026 held in Battaramulla recently .
+
+The call came during a panel discussion titled ‘Innovation, AI and Data in Finance: Data to Decisions’, held as part of the two-day conference themed ‘Precision to Power’ at Waters Edge on 8 and 9 September.
+
+Moderated by MAS Holdings Lead Data Evangelist Dehan Vithana, the panel brought together hSenid Business Solutions PLC Director/CEO and SLASSCOM Chairperson Sampath Jayasundara, Nawaloka Holdings Managing Director Anisha Dharmadasa, SLIIT Deputy Vice Chancellor (Computing) Professor Nuwan Kodagoda and Women in Tech Global Country Director for Sri Lanka Sanali Kaushalya.
+
+“AI will not replace people, but AI will replace people without AI,” Jayasundara told finance professionals as he opened his presentation on organisational AI strategy. Citing a recent survey of finance leaders, he noted that although 97 percent of finance departments had adopted AI in some capacity, only 42 percent had broadly or fully embedded it into core operations, which leaves more than half of them still short of meaningful integration.
+
+Drawing on the World Economic Forum’s Future of Jobs Report 2025, he pointed out that 92 million traditional jobs would be displaced globally while 170 million new roles would be created, with entry-level positions giving way to roles such as finance data translators and strategic business partners.
+
+Finance teams currently spend 90 percent of their time producing numbers, according to Jayasundara, who estimated that AI could bring this down to 35 percent and free more than half of their working hours for strategic advisory work.
+
+However, he warned leaders to keep a close watch on token consumption costs, which in Sri Lanka could exceed the salary of a junior account executive, and stressed that auditability and human-in-the-loop validation must be established upfront. He also urged institutions to build an internal “Finance Brain” using private large language model (LLM) architectures. Mature organisations such as banks, hospitals and insurers require a dedicated data sovereignty layer, he observed, given that Sri Lanka’s domestic computing infrastructure remains insufficient to meet AI processing demands.
+
+“We must rely on reputed cloud providers,” he remarked, adding that the PDPA would require organisations to formally assign responsibility for data protection and ethical AI use.
+
+Startups, while freer to experiment, were cautioned to monitor the operational costs linked to AI tools. Referring to GitHub Copilot’s shift to usage-based billing in June 2026, which he claimed had pushed costs up as much as tenfold, Jayasundara recalled that token budgets allocated for a month had in some cases been depleted within a day or two.
+
+“Startups should experiment with open-source AI tools while monitoring token usage. Don’t stop innovating, but carefully manage token consumption when commercialising products,” he advised.
+
+Meanwhile, Kaushalya maintained that accountability remained central to the ethical deployment of AI in corporate decision-making, as she cautioned organisations against outsourcing sensitive judgement calls to generative AI tools without adequate oversight. “If you put employee data into Excel or HR systems and ChatGPT decides an employee should not get a salary increment, are you comfortable with that decision? You cannot tell an employee ‘ChatGPT generated that you are not getting an increment this year’,” she said.
+
+Developers building internal recruitment systems, she added, need to weigh the ethics of feeding candidate data, including CVs and photographs, into external AI models.
+
+“We cannot unethically expose candidate data. Organisations should build their own internal tools and applications within ethical policies to protect data,” she stressed. Turning to the barriers to adoption, Kaushalya observed that access to AI tools within organisations was frequently uneven, with finance and human resources teams often under-resourced for AI training when compared to software development units. “In a finance department, not everyone has password access. Authorisation should be scaled by seniority,” she noted.
+
+From the healthcare sector, Dharmadasa shared that Nawaloka Holdings had been an early adopter of AI diagnostic technology in the region and had recorded consistent benefits from its use in both patient care and administrative functions.
+
+“It has always been opportunities for us, not challenges,” he said. He explained that patient and financial records at the group had been secured through vaults and automated cloud storage systems for over three decades, although he acknowledged that the organisation was still familiarising itself with the requirements of the incoming legislation.
+
+“We are still learning about it as it will be enacted soon,” he admitted.
+
+Professor Kodagoda, meanwhile, described AI literacy and the ability to critically evaluate AI-generated output as essential skills across all sectors, and warned that uploading sensitive company data to free, publicly available AI tools carried the risk of that data being absorbed into public model training.
+
+“The most critical skill today is maintaining human-in-the-loop oversight and developing the ability to critique AI outputs,” he emphasised. Conventional four-year university degree cycles, in his view, are no longer suited to the pace of technological change.
+
+“Universities cannot wait four or five years to update curricula; we must adopt an agile curriculum updated annually,” he asserted.
+
+Responding to an audience question on why the global discourse on AI tends to foreground fear over opportunity, Jayasundara pointed to Sri Lanka’s workforce potential. He suggested that training a million AI engineers from among the three million young people expected to enter the labour market over the next decade, or one in every three new entrants, could help address the country’s broader economic challenges.
+
+Dharmadasa was equally confident that Sri Lankans were well positioned to adapt, noting that younger professionals increasingly preferred to use AI to solve complex problems rather than perform repetitive tasks.
+
+Professor Kodagoda added that AI had lowered the barrier to technical creation altogether, since prompt engineering now allows individuals without formal programming backgrounds to build software and websites, a shift that is being reflected in curricula across disciplines including civil and electrical engineering. Asked for one practical step that finance professionals could take immediately, Jayasundara called for finance departments to be reorganised around AI capabilities, while Dharmadasa urged a focus on data insights with a direct revenue impact. Professor Kodagoda recommended assigning finance teams the task of critiquing AI-generated reports to identify blind spots, and Kaushalya advised professionals to learn a new skill every week, with an emphasis on entrepreneurship. “Start somewhere. Take small steps, establish data sovereignty guardrails, and be the person who uses AI to replace old ways of working,” Jayasundara said in his closing remarks.
