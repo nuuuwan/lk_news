@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_19:59:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_21:58:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-b5fd5df7",
-    "num": "dailymirrorlk-b5fd5df7",
+    "doc_id": "2026-10-15-dailymirrorlk-62f03c04",
+    "num": "dailymirrorlk-62f03c04",
     "date_str": "2026-10-15",
-    "description": "Gnanasara Thera\u2019s pardon: Presidential Secretary unable to give definitive answer",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-pardon-Presidential-Secretary-unable-to-give-definitive-answer/108-352613",
+    "description": "Tensions erupt near President\u2019s Secretariat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tensions-erupt-near-Presidents-Secretariat/108-352621",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792072884.0
+    "time_ut": 1792079831.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-15 | `dailymirrorlk-62f03c04` | Tensions erupt near President’s Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-62f03c04)
+- 2026-10-15 | `dailymirrorlk-a782c677` | Special Saturday service for urgent document attestation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a782c677)
+- 2026-10-15 | `dailymirrorlk-3b080754` | Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-3b080754)
+- 2026-10-15 | `dailymirrorlk-05025c7a` | Trump calls off livestream for Fort Hood shooter’s execution by firing squad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-05025c7a)
+- 2026-10-15 | `dailymirrorlk-9cb0c882` | Monks gather at Presidential Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-9cb0c882)
+- 2026-10-15 | `dailymirrorlk-d19a821e` | Sil Anduma and Dhamma Books at SC hearing on Gnanasara Thera’s prison attire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-d19a821e)
+- 2026-10-15 | `dailymirrorlk-e234802a` | New solar policy threatens energy security, industry warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-e234802a)
 - 2026-10-15 | `dailymirrorlk-b5fd5df7` | Gnanasara Thera’s pardon: Presidential Secretary unable to give definitive answer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-b5fd5df7)
 - 2026-10-15 | `dailymirrorlk-28ae9531` | No Ditwah victim will be abandoned, PM pledges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-28ae9531)
 - 2026-10-15 | `dailymirrorlk-32f7bdc6` | SC decides to hear ex-Deputy Minister’s bribery case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-32f7bdc6)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-15 | `dailymirrorlk-da41bbef` | Eight crew missing in tanker fire off Romania’s coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da41bbef)
 - 2026-10-15 | `dailymirrorlk-2c64d740` | Rainfall above 100 mm forecast in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2c64d740)
 - 2026-10-15 | `dailymirrorlk-69290509` | TISL urges Government to withdraw proposed Anti-Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-69290509)
-- 2026-10-15 | `dailymirrorlk-e4d3d98e` | Kandy Metro bus service planned, route survey begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-e4d3d98e)
-- 2026-10-15 | `dailymirrorlk-9bcb5754` | Pathum Nissanka ruled out of Tri-Nation ODI series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-9bcb5754)
-- 2026-10-15 | `dailymirrorlk-2d901c94` | US donates Rs. 330Mn worth of cancer drugs to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2d901c94)
-- 2026-10-15 | `dailymirrorlk-6684fda8` | Sri Lanka seeks China’s support for National AI Computing Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-6684fda8)
-- 2026-10-15 | `dailymirrorlk-a0bdced9` | Petrol vehicles now less than half of global market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a0bdced9)
-- 2026-10-15 | `dailymirrorlk-5f84c181` | Heavy rains disrupt Colombo life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-5f84c181)
-- 2026-10-15 | `dailymirrorlk-7e108322` | Arugam Bay named Asia’s best beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-7e108322)
 
 ---
 
