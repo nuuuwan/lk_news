@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-15 15:57:16",
-  "n_docs": 133158,
+  "time_updated": "2026-10-15 18:03:13",
+  "n_docs": 133164,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133158,
+  "n_docs_with_text": 133164,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-15",
-  "dataset_size": 2063249605,
+  "dataset_size": 2063402432,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-16e9b50c",
-    "num": "dailymirrorlk-16e9b50c",
+    "doc_id": "2026-10-15-dailymirrorlk-da1942d7",
+    "num": "dailymirrorlk-da1942d7",
     "date_str": "2026-10-15",
-    "description": "Airline representatives discuss rising costs, airport upgrades",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Airline-representatives-discuss-rising-costs-airport-upgrades/108-352599",
+    "description": "Yoshitha Rajapaksa received Rs. 5.15 million in Navy salaries and allowances over 10 years - Court told",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksa-received-Rs-5-15-million-in-Navy-salaries-and-allowances-over-10-years-Court-told/108-352604",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792059126.0
+    "time_ut": 1792062552.0
   }
 }

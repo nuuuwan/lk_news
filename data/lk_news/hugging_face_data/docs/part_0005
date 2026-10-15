@@ -79260,6 +79260,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-5f84c181",
+    "num": "dailymirrorlk-5f84c181",
+    "date_str": "2026-10-15",
+    "description": "Heavy rains disrupt Colombo life",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Heavy-rains-disrupt-Colombo-life/110-352589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792055974.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-15-dailymirrorlk-a0bdced9",
     "num": "dailymirrorlk-a0bdced9",
     "date_str": "2026-10-15",
@@ -79356,5 +79367,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792059126.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-f86d5bee",
+    "num": "dailymirrorlk-f86d5bee",
+    "date_str": "2026-10-15",
+    "description": "Blasts heard in Saudi capital after Houthis strike building in Aramco HQ area",
+    "url_metadata": "https://www.dailymirror.lk/international/Blasts-heard-in-Saudi-capital-after-Houthis-strike-building-in-Aramco-HQ-area/107-352600",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792059435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-e50863ea",
+    "num": "dailymirrorlk-e50863ea",
+    "date_str": "2026-10-15",
+    "description": "Overpriced water costs Ella restaurant Rs. 260,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Overpriced-water-costs-Ella-restaurant-Rs-260-000/108-352601",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792059631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-6d72a095",
+    "num": "dailymirrorlk-6d72a095",
+    "date_str": "2026-10-15",
+    "description": "Youth arrested over alleged online vehicle advertisement scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-arrested-over-alleged-online-vehicle-advertisement-scam/108-352602",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792059715.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-275776b7",
+    "num": "dailymirrorlk-275776b7",
+    "date_str": "2026-10-15",
+    "description": "Kananathan congratulates Guinea on Independence Day",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kananathan-congratulates-Guinea-on-Independence-Day/108-352603",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792060656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-da1942d7",
+    "num": "dailymirrorlk-da1942d7",
+    "date_str": "2026-10-15",
+    "description": "Yoshitha Rajapaksa received Rs. 5.15 million in Navy salaries and allowances over 10 years - Court told",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksa-received-Rs-5-15-million-in-Navy-salaries-and-allowances-over-10-years-Court-told/108-352604",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792062552.0
   }
 ]
