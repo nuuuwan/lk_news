@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-15 03:53:45",
-  "n_docs": 133091,
+  "time_updated": "2026-10-15 06:16:16",
+  "n_docs": 133103,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133091,
+  "n_docs_with_text": 133103,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-14",
-  "dataset_size": 2062592564,
+  "date_str_max": "2026-10-15",
+  "dataset_size": 2062650920,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-14-dailymirrorlk-98c2101e",
-    "num": "dailymirrorlk-98c2101e",
-    "date_str": "2026-10-14",
-    "description": "Promised dengue vaccine yet to be imported, says Dr. Chamal Sanjeewa",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Promised-dengue-vaccine-yet-to-be-imported-says-Dr-Chamal-Sanjeewa/108-352527",
+    "doc_id": "2026-10-15-dailyftlk-04afee17",
+    "num": "dailyftlk-04afee17",
+    "date_str": "2026-10-15",
+    "description": "Saudi Supreme Court sets aside death sentence on Sri Lankan Anojan Sivarasa",
+    "url_metadata": "https://www.ft.lk/news/Saudi-Supreme-Court-sets-aside-death-sentence-on-Sri-Lankan-Anojan-Sivarasa/56-798692",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1791992324.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792024250.0
   }
 }
