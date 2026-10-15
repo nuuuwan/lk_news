@@ -79543,5 +79543,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792079831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-88b0324e",
+    "num": "dailymirrorlk-88b0324e",
+    "date_str": "2026-10-15",
+    "description": "Sajith urges President to intervene in monks\u2019 protest outside Presidential Secretariat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-urges-President-to-intervene-in-monks-protest-outside-Presidential-Secretariat/108-352622",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792083160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-b12a9c28",
+    "num": "dailymirrorlk-b12a9c28",
+    "date_str": "2026-10-15",
+    "description": "Who is \u2018Rani Sri Lanki\u2019? Foreign Ministry seeks public help",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Who-is-Rani-Sri-Lanki-Foreign-Ministry-seeks-public-help/108-352623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792083887.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-611e4cd4",
+    "num": "dailymirrorlk-611e4cd4",
+    "date_str": "2026-10-15",
+    "description": "Illegal assets worth over Rs. 85 million frozen in Jaffna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illegal-assets-worth-over-Rs-85-million-frozen-in-Jaffna/108-352624",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792084324.0
   }
 ]

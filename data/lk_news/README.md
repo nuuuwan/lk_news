@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--15_21:58:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_00:01:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-62f03c04",
-    "num": "dailymirrorlk-62f03c04",
+    "doc_id": "2026-10-15-dailymirrorlk-611e4cd4",
+    "num": "dailymirrorlk-611e4cd4",
     "date_str": "2026-10-15",
-    "description": "Tensions erupt near President\u2019s Secretariat",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tensions-erupt-near-Presidents-Secretariat/108-352621",
+    "description": "Illegal assets worth over Rs. 85 million frozen in Jaffna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illegal-assets-worth-over-Rs-85-million-frozen-in-Jaffna/108-352624",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792079831.0
+    "time_ut": 1792084324.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-15 | `dailymirrorlk-611e4cd4` | Illegal assets worth over Rs. 85 million frozen in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-611e4cd4)
+- 2026-10-15 | `dailymirrorlk-b12a9c28` | Who is ‘Rani Sri Lanki’? Foreign Ministry seeks public help | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-b12a9c28)
+- 2026-10-15 | `dailymirrorlk-88b0324e` | Sajith urges President to intervene in monks’ protest outside Presidential Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-88b0324e)
 - 2026-10-15 | `dailymirrorlk-62f03c04` | Tensions erupt near President’s Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-62f03c04)
 - 2026-10-15 | `dailymirrorlk-a782c677` | Special Saturday service for urgent document attestation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-a782c677)
 - 2026-10-15 | `dailymirrorlk-3b080754` | Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-3b080754)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-15 | `dailymirrorlk-e50863ea` | Overpriced water costs Ella restaurant Rs. 260,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-e50863ea)
 - 2026-10-15 | `dailymirrorlk-f86d5bee` | Blasts heard in Saudi capital after Houthis strike building in Aramco HQ area | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-f86d5bee)
 - 2026-10-15 | `dailymirrorlk-16e9b50c` | Airline representatives discuss rising costs, airport upgrades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-16e9b50c)
-- 2026-10-15 | `dailymirrorlk-da41bbef` | Eight crew missing in tanker fire off Romania’s coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da41bbef)
-- 2026-10-15 | `dailymirrorlk-2c64d740` | Rainfall above 100 mm forecast in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-2c64d740)
-- 2026-10-15 | `dailymirrorlk-69290509` | TISL urges Government to withdraw proposed Anti-Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-69290509)
 
 ---
 
