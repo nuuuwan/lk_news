@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-15 09:57:50",
-  "n_docs": 133106,
+  "time_updated": "2026-10-15 12:05:48",
+  "n_docs": 133113,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133106,
+  "n_docs_with_text": 133113,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-15",
-  "dataset_size": 2062807736,
+  "dataset_size": 2062850034,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-27749c24",
-    "num": "dailymirrorlk-27749c24",
+    "doc_id": "2026-10-15-dailymirrorlk-7fb83c3b",
+    "num": "dailymirrorlk-7fb83c3b",
     "date_str": "2026-10-15",
-    "description": "Rs. 30 crore Pakistan salt imports via Sri Lanka flagged in India",
-    "url_metadata": "https://www.dailymirror.lk/international/Rs-30-crore-Pakistan-salt-imports-via-Sri-Lanka-flagged-in-India/107-352530",
+    "description": "Severe lightning warning issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Severe-lightning-warning-issued-for-several-areas/108-352559",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792037537.0
+    "time_ut": 1792044441.0
   }
 }

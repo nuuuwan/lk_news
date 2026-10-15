@@ -78784,5 +78784,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792037537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-30724898",
+    "num": "dailymirrorlk-30724898",
+    "date_str": "2026-10-15",
+    "description": "Six sacks of suspected drugs, Starlink device recovered in joint operation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-sacks-of-suspected-drugs-Starlink-device-recovered-in-joint-operation/108-352531",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792038326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-b1f46af1",
+    "num": "dailymirrorlk-b1f46af1",
+    "date_str": "2026-10-15",
+    "description": "Herath meets Azerbaijan President Aliyev",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Herath-meets-Azerbaijan-President-Aliyev/110-352542",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792041205.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-974fbdd3",
+    "num": "dailymirrorlk-974fbdd3",
+    "date_str": "2026-10-15",
+    "description": "Sri Lanka, Azerbaijan explore oil and gas cooperation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Azerbaijan-explore-oil-and-gas-cooperation/108-352544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792041279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-28f9426f",
+    "num": "dailymirrorlk-28f9426f",
+    "date_str": "2026-10-15",
+    "description": "Appeal Court upholds 10 years prison sentence for monk convicted for sexually abusing novice monk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeal-Court-upholds-10-years-prison-sentence-for-monk-convicted-for-sexually-abusing-novice-monk/108-352549",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792041755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-23fbf9d9",
+    "num": "dailymirrorlk-23fbf9d9",
+    "date_str": "2026-10-15",
+    "description": "Sri Lanka\u2019s new Anti-Terrorism Bill is a familiar cage with a new name",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-new-Anti-Terrorism-Bill-is-a-familiar-cage-with-a-new-name/108-352553",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792042259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-db67c29e",
+    "num": "dailymirrorlk-db67c29e",
+    "date_str": "2026-10-15",
+    "description": "Look at the child, not just the thermometer\u2019: Doctors tell parents",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Look-at-the-child-not-just-the-thermometer-Doctors-tell-parents/108-352558",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792043030.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-15-dailymirrorlk-7fb83c3b",
+    "num": "dailymirrorlk-7fb83c3b",
+    "date_str": "2026-10-15",
+    "description": "Severe lightning warning issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Severe-lightning-warning-issued-for-several-areas/108-352559",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792044441.0
   }
 ]
