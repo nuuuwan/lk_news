@@ -80412,5 +80412,126 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792161701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-13c239c6",
+    "num": "dailyftlk-13c239c6",
+    "date_str": "2026-10-16",
+    "description": "Shadow economy, 5km blind spot, and unseen cost of inclusion",
+    "url_metadata": "https://www.ft.lk/columns/Shadow-economy-5km-blind-spot-and-unseen-cost-of-inclusion/4-798760",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792171693.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-7a79d688",
+    "num": "dailyftlk-7a79d688",
+    "date_str": "2026-10-16",
+    "description": "Beyond grievance: Building avenues for coexistence",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-grievance-Building-avenues-for-coexistence/4-798761",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792171824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-af9727d3",
+    "num": "dailyftlk-af9727d3",
+    "date_str": "2026-10-16",
+    "description": "Chrysalis marks decade of catalysing inclusive change across Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Chrysalis-marks-decade-of-catalysing-inclusive-change-across-Sri-Lanka/34-798766",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792172143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-db6dc746",
+    "num": "dailyftlk-db6dc746",
+    "date_str": "2026-10-16",
+    "description": "Seylan Bank partners Colombo Motor Show 2026 as official banking and leasing partner for 10th consecutive year",
+    "url_metadata": "https://www.ft.lk/business/Seylan-Bank-partners-Colombo-Motor-Show-2026-as-official-banking-and-leasing-partner-for-10th-consecutive-year/34-798767",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792172183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-378cd112",
+    "num": "dailyftlk-378cd112",
+    "date_str": "2026-10-16",
+    "description": "ISMM to host National Supply Chain Day 2026 and National Supply Chain Excellence Awards",
+    "url_metadata": "https://www.ft.lk/business/ISMM-to-host-National-Supply-Chain-Day-2026-and-National-Supply-Chain-Excellence-Awards/34-798768",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792172219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-ecb62b43",
+    "num": "dailyftlk-ecb62b43",
+    "date_str": "2026-10-16",
+    "description": "Shiranthi gets bail",
+    "url_metadata": "https://www.ft.lk/news/Shiranthi-gets-bail/56-798769",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792172270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-c174bf61",
+    "num": "dailyftlk-c174bf61",
+    "date_str": "2026-10-16",
+    "description": "BRISL to host undergraduate seminar on Belt and Road Initiative in Colombo",
+    "url_metadata": "https://www.ft.lk/business/BRISL-to-host-undergraduate-seminar-on-Belt-and-Road-Initiative-in-Colombo/34-798780",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-b5f02e35",
+    "num": "dailyftlk-b5f02e35",
+    "date_str": "2026-10-16",
+    "description": "Port City Colombo and University of Moratuwa sign framework agreement linking urban development with talent development",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-and-University-of-Moratuwa-sign-framework-agreement-linking-urban-development-with-talent-development/34-798781",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-8e6127b9",
+    "num": "dailyftlk-8e6127b9",
+    "date_str": "2026-10-16",
+    "description": "The German connection:  Why Sri Lanka needs it \u2013 and vice versa",
+    "url_metadata": "https://www.ft.lk/columns/The-German-connection-Why-Sri-Lanka-needs-it-and-vice-versa/4-798786",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-f6034e67",
+    "num": "dailyftlk-f6034e67",
+    "date_str": "2026-10-16",
+    "description": "Mahaweli Doctrine 2.0: Sri Lanka in  an age of fragmented interdependence",
+    "url_metadata": "https://www.ft.lk/columns/Mahaweli-Doctrine-2-0-Sri-Lanka-in-an-age-of-fragmented-interdependence/4-798787",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-a602d407",
+    "num": "dailyftlk-a602d407",
+    "date_str": "2026-10-16",
+    "description": "Rooftop solar with battery storage: Significant growth potential not recognised",
+    "url_metadata": "https://www.ft.lk/columns/Rooftop-solar-with-battery-storage-Significant-growth-potential-not-recognised/4-798789",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173856.0
   }
 ]

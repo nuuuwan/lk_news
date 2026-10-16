@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_23:58:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_01:55:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,254** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,265** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailymirrorlk-0eb8529f",
-    "num": "dailymirrorlk-0eb8529f",
+    "doc_id": "2026-10-16-dailyftlk-a602d407",
+    "num": "dailyftlk-a602d407",
     "date_str": "2026-10-16",
-    "description": "Displaying vehicle owners\u2019 names on number plates considered",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Displaying-vehicle-owners-names-on-number-plates-considered/108-352713",
+    "description": "Rooftop solar with battery storage: Significant growth potential not recognised",
+    "url_metadata": "https://www.ft.lk/columns/Rooftop-solar-with-battery-storage-Significant-growth-potential-not-recognised/4-798789",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792161701.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792173856.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-16 | `dailyftlk-a602d407` | Rooftop solar with battery storage: Significant growth potential not recognised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-a602d407)
+- 2026-10-16 | `dailyftlk-f6034e67` | Mahaweli Doctrine 2.0: Sri Lanka in  an age of fragmented interdependence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-f6034e67)
+- 2026-10-16 | `dailyftlk-8e6127b9` | The German connection:  Why Sri Lanka needs it – and vice versa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-8e6127b9)
+- 2026-10-16 | `dailyftlk-b5f02e35` | Port City Colombo and University of Moratuwa sign framework agreement linking urban development with talent development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-b5f02e35)
+- 2026-10-16 | `dailyftlk-c174bf61` | BRISL to host undergraduate seminar on Belt and Road Initiative in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-c174bf61)
+- 2026-10-16 | `dailyftlk-ecb62b43` | Shiranthi gets bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-ecb62b43)
+- 2026-10-16 | `dailyftlk-378cd112` | ISMM to host National Supply Chain Day 2026 and National Supply Chain Excellence Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-378cd112)
+- 2026-10-16 | `dailyftlk-db6dc746` | Seylan Bank partners Colombo Motor Show 2026 as official banking and leasing partner for 10th consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-db6dc746)
+- 2026-10-16 | `dailyftlk-af9727d3` | Chrysalis marks decade of catalysing inclusive change across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-af9727d3)
+- 2026-10-16 | `dailyftlk-7a79d688` | Beyond grievance: Building avenues for coexistence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-7a79d688)
+- 2026-10-16 | `dailyftlk-13c239c6` | Shadow economy, 5km blind spot, and unseen cost of inclusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-13c239c6)
 - 2026-10-16 | `dailymirrorlk-0eb8529f` | Displaying vehicle owners’ names on number plates considered | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-0eb8529f)
 - 2026-10-16 | `dailymirrorlk-2e94c29e` | Iconic tusker Kavantissa dies in Galgamuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-2e94c29e)
 - 2026-10-16 | `dailymirrorlk-2dd81c7a` | Iconic tusker Kavantissa dies while receiving treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-2dd81c7a)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-10-16 | `dailymirrorlk-4b464443` | British man fined €3,000 for causing two-year-old son’s death in Cyprus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-4b464443)
 - 2026-10-16 | `dailymirrorlk-f61801fc` | Danu Innasithamby Honoured with Two Recognitions at Global Business Excellence Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f61801fc)
 - 2026-10-16 | `dailymirrorlk-eaf6d8cf` | Landslide blocks railway line near Kadigamuwa for third time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-eaf6d8cf)
-- 2026-10-16 | `dailymirrorlk-b1cb8154` | Government will not pardon Gnanasara Thera against its mandate: Lal Kantha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-b1cb8154)
-- 2026-10-16 | `dailymirrorlk-a50b53d3` | Shiranthi Rajapaksa granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-a50b53d3)
-- 2026-10-16 | `dailymirrorlk-1be4f678` | Protesting Buddhist monks meet Buddhasasana Ministry officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-1be4f678)
-- 2026-10-16 | `dailymirrorlk-82cc2b51` | WHO HAS THE POWER TO DAMAGE A REPUTATION? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-82cc2b51)
-- 2026-10-16 | `dailymirrorlk-0986d5b4` | Round-the-clock efforts to save Kavantissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-0986d5b4)
-- 2026-10-16 | `dailymirrorlk-0958fb7d` | Environmental damage requires global legal accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-0958fb7d)
-- 2026-10-16 | `dailymirrorlk-f65a9aec` | Misty conditions expected in several areas tomorrow morning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f65a9aec)
-- 2026-10-16 | `dailymirrorlk-94bd15a0` | SriLankan Airlines extends suspension of Riyadh, Dammam flights until Oct. 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-94bd15a0)
-- 2026-10-16 | `dailymirrorlk-5f29f3cb` | Medical reports indicate Shiranthi Rajapaksa needs bypass surgery, court told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-5f29f3cb)
-- 2026-10-16 | `dailymirrorlk-af9939f0` | Techno 2026 Opens at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-af9939f0)
-- 2026-10-16 | `dailymirrorlk-a3db855b` | Jaffna groundwater management unit to be built at Rs. 189 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-a3db855b)
 
 ---
 
