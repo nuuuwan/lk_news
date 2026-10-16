@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_03:55:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_06:56:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,182** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-611e4cd4",
-    "num": "dailymirrorlk-611e4cd4",
-    "date_str": "2026-10-15",
-    "description": "Illegal assets worth over Rs. 85 million frozen in Jaffna",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illegal-assets-worth-over-Rs-85-million-frozen-in-Jaffna/108-352624",
+    "doc_id": "2026-10-16-dailyftlk-cea49424",
+    "num": "dailyftlk-cea49424",
+    "date_str": "2026-10-16",
+    "description": "EDB, CBSL hold seminar on Central Bank rules for electronics manufacturers",
+    "url_metadata": "https://www.ft.lk/business/EDB-CBSL-hold-seminar-on-Central-Bank-rules-for-electronics-manufacturers/34-798730",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792084324.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792113699.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-16 | `dailyftlk-cea49424` | EDB, CBSL hold seminar on Central Bank rules for electronics manufacturers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-cea49424)
+- 2026-10-16 | `dailyftlk-b8302859` | TISL calls for withdrawal of new anti-terror Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-b8302859)
+- 2026-10-16 | `dailyftlk-f6f16ef6` | Monks continue protest for Gnanasara Thera’s release as talks stall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-f6f16ef6)
+- 2026-10-16 | `dailyftlk-243a7dcd` | CA upholds monk’s conviction for abusing novice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-243a7dcd)
 - 2026-10-15 | `dailymirrorlk-611e4cd4` | Illegal assets worth over Rs. 85 million frozen in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-611e4cd4)
 - 2026-10-15 | `dailymirrorlk-b12a9c28` | Who is ‘Rani Sri Lanki’? Foreign Ministry seeks public help | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-b12a9c28)
 - 2026-10-15 | `dailymirrorlk-88b0324e` | Sajith urges President to intervene in monks’ protest outside Presidential Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-88b0324e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-15 | `dailymirrorlk-001c5fad` | Nilwala river flood alert: Six divisions at risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-001c5fad)
 - 2026-10-15 | `dailymirrorlk-da1942d7` | Yoshitha Rajapaksa received Rs. 5.15 million in Navy salaries and allowances over 10 years - Court told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-da1942d7)
 - 2026-10-15 | `dailymirrorlk-275776b7` | Kananathan congratulates Guinea on Independence Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-275776b7)
-- 2026-10-15 | `dailymirrorlk-6d72a095` | Youth arrested over alleged online vehicle advertisement scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-6d72a095)
-- 2026-10-15 | `dailymirrorlk-e50863ea` | Overpriced water costs Ella restaurant Rs. 260,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-e50863ea)
-- 2026-10-15 | `dailymirrorlk-f86d5bee` | Blasts heard in Saudi capital after Houthis strike building in Aramco HQ area | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-f86d5bee)
-- 2026-10-15 | `dailymirrorlk-16e9b50c` | Airline representatives discuss rising costs, airport upgrades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-15-dailymirrorlk-16e9b50c)
 
 ---
 

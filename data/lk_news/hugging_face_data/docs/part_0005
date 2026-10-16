@@ -79576,5 +79576,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792084324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-243a7dcd",
+    "num": "dailyftlk-243a7dcd",
+    "date_str": "2026-10-16",
+    "description": "CA upholds monk\u2019s conviction for abusing novice",
+    "url_metadata": "https://www.ft.lk/news/CA-upholds-monk-s-conviction-for-abusing-novice/56-798715",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792109814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-f6f16ef6",
+    "num": "dailyftlk-f6f16ef6",
+    "date_str": "2026-10-16",
+    "description": "Monks continue protest for Gnanasara Thera\u2019s release as talks stall",
+    "url_metadata": "https://www.ft.lk/news/Monks-continue-protest-for-Gnanasara-Thera-s-release-as-talks-stall/56-798716",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792109847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-b8302859",
+    "num": "dailyftlk-b8302859",
+    "date_str": "2026-10-16",
+    "description": "TISL calls for withdrawal of new anti-terror Bill",
+    "url_metadata": "https://www.ft.lk/news/TISL-calls-for-withdrawal-of-new-anti-terror-Bill/56-798717",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792109945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailyftlk-cea49424",
+    "num": "dailyftlk-cea49424",
+    "date_str": "2026-10-16",
+    "description": "EDB, CBSL hold seminar on Central Bank rules for electronics manufacturers",
+    "url_metadata": "https://www.ft.lk/business/EDB-CBSL-hold-seminar-on-Central-Bank-rules-for-electronics-manufacturers/34-798730",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792113699.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-16 03:55:11",
-  "n_docs": 133178,
+  "time_updated": "2026-10-16 06:55:53",
+  "n_docs": 133182,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133178,
+  "n_docs_with_text": 133182,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-15",
-  "dataset_size": 2063574958,
+  "date_str_max": "2026-10-16",
+  "dataset_size": 2063584395,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-15-dailymirrorlk-611e4cd4",
-    "num": "dailymirrorlk-611e4cd4",
-    "date_str": "2026-10-15",
-    "description": "Illegal assets worth over Rs. 85 million frozen in Jaffna",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illegal-assets-worth-over-Rs-85-million-frozen-in-Jaffna/108-352624",
+    "doc_id": "2026-10-16-dailyftlk-cea49424",
+    "num": "dailyftlk-cea49424",
+    "date_str": "2026-10-16",
+    "description": "EDB, CBSL hold seminar on Central Bank rules for electronics manufacturers",
+    "url_metadata": "https://www.ft.lk/business/EDB-CBSL-hold-seminar-on-Central-Bank-rules-for-electronics-manufacturers/34-798730",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792084324.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792113699.0
   }
 }
