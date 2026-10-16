@@ -1,0 +1,79 @@
+Key income tax deadlines before December ends
+
+Between now and end December 2026, Sri Lankan taxpayers will be closing one tax year while funding the next. Y/A 2025/26 ended on 31 March 2026, and the return of income must be filed by 30 November 2026. Instalments for Y/A 2026/27 now operate on a new basis under the Inland Revenue (Amendment) Act, No. 11 of 2026, with the second instalment due on or before 15 November 2026. The two years of assessment are linked, so an error in one can flow into the other.
+
+The table below sets out the dates that matter between now and the end of the year in relation to income tax, APIT, AIT/WHT, transfer pricing and Country by Country (CbC) notification/reporting.
+
+AIT/WHT and APIT deducted in a month must be remitted to the Inland Revenue Department (IRD) by the 15th of the following month. Accordingly, deductions made in September, October and November are due on 15 October, 15 November and 15 December, respectively.
+
+The scope of withholding has also widened. From 3 June 2026, the 5% WHT on service fees paid to resident individuals exceeding Rs. 100,000 per month applies to a broader group of professionals. Where a business makes such a payment, 5% must be deducted and remitted to the IRD. The recipient may claim the corresponding credit in the return of income based on the WHT certificate. The expanded group includes auditors, valuers, coaches, personal trainers, artists, actors, musicians, photographers, videographers, therapists, counsellors, beauticians, electricians, dentists, veterinarians, event organisers, social media specialists, brand ambassadors, IT specialists, advertising agents, advisers, translators, writers and debt collectors. The Commissioner General may prescribe additional categories.
+
+Four other withholding changes in the Amendment Act deserve a place on the payer’s checklist:
+
+Free certificates. Every withholding agent must issue a withholding certificate to the payee at no cost.
+
+Penalties. Non-compliance by withholding agents, including with the prescribed procedures and formats for filing annual statements, and false or misleading declarations can attract a penalty of up to Rs. 200,000 per year of assessment, subject to exceptions.
+
+Statement formats. The Commissioner General may prescribe the procedures and formats for annual and quarterly WHT statements, so payers should watch for IRD notices.
+
+AIT on interest. Interest or discount paid to a resident individual with no taxable income for the year is not subject to AIT if the individual gives the financial institution a self-declaration in the specified form. This applies from 1 April 2025.
+
+Payers who have not updated their vendor lists may be under-withholding without realising it. Recipients should, in turn, reconcile their tax credits with the relevant certificates, as unsupported or unverified credits may lead to assessments.
+
+All instalment deadlines for Y/A 2025/26 have passed, while the second instalment for Y/A 2026/27 falls due on 15 November 2026.
+
+The Statement of Estimated Tax (SET) has been abolished and does not apply to Y/A 2026/27. Under Section 90(3), each instalment is now calculated by reference to the preceding year’s taxable income using a single formula.
+
+A is the tax on the previous year’s taxable income (here, 2025/26), before deducting any credit.
+
+B is the number of instalments remaining, including the current one (4, 3, 2 and 1).
+
+C is the tax already paid or credited before the due date, including earlier instalments and WHT/AIT.
+
+The IRD’s Circular No. SEC/2026/E/06 (Re-Revised), dated 12 August 2026, explains how “A” is determined. It provides three methods, and the choice is not a matter of convenience.
+
+Method 1 is the default. A taxpayer who is eligible for it cannot use the alternatives. Method 2 covers four situations:
+
+(i) no taxable income last year and none expected, where “A” is zero;
+
+(ii) no taxable income last year but income expected as losses or exemptions end;
+
+Employees :An individual whose income is solely employment income subject to APIT need not pay instalments. The same applies where AIT on rent or interest covers the remaining liability.
+
+SET fallback: Under Method 2, a taxpayer whose 2025/26 tax computation had not been finalised by 15 August could use the final Statement of Estimated Tax for the first instalment.
+
+The estimate must then be revised for the second quarterly instalment based on the actual tax return for Y/A 2025/26, and the prescribed declarations must be submitted to the Department. Only one revision is permitted.
+
+Mid-year revision: A taxpayer using Method 1 who expects lower income in the current year may notify the IRD by the last day of the month preceding the relevant instalment due date: 31 October, 31 January or 30 April. The request, together with supporting information, must be submitted to the Central Document Management Unit.
+
+The second instalment falls due on Sunday, 15 November. Payment should therefore reach the IRD by Friday, 13 November, or, where payment is made online, by 15 November. A shortfall attracts interest and, if it remains unpaid 14 days after the due date, a 10% penalty. Taxpayers should therefore quantify and settle any catch-up amount before the deadline.
+
+The Return of Income for Y/A 2025/26 must be filed on or before 30 November 2026. As the final tax liability for Y/A 2025/26 affects the instalment computation for Y/A 2026/27, it is important to finalise that liability before determining the second quarter instalment for Y/A 2026/27.
+
+For a company, the filing package typically includes the following documents, with the TPDF submitted together with the Return of Income where applicable:
+
+A return lodged without audited accounts is treated as not furnished. Taxpayers who need more time can write to the Commissioner General under Section 130 before 30 November, but this does not extend the payment date.
+
+The same deadline, 30 November, applies to the Y/A 2026/27 instalment documentation, which may be uploaded to RAMIS together with the return for Y/A 2025/26:
+
+This should be submitted by taxpayers who used Method 2 for the first quarter, together with supporting calculations. Attachment 1 (Revised) should be filed where the estimate changes.
+
+This should be submitted by newly registered taxpayers estimating their income for the current year.
+
+Taxpayers claiming tax credits when calculating their quarterly income tax liability are also required to submit the prescribed Statement of Tax Credit Schedule under Notice No. SEC/PN/IT/2026-05. The schedule must be furnished to the IRD by 30 November 2026. Where the tax credit position changes during the year, a separate schedule must be submitted for the relevant instalment. If the credits remain unchanged, the first-quarter schedule remains valid for the entire year.
+
+Section 42 of the Amendment Act discharges interest on late payments and underpayments of income tax, including withholding taxes, the Surcharge Tax and the Debt Repayment Levy. It covers assessments up to Y/A 2024/25. The condition is that the full principal tax is paid by 2 December 2026. Penalties may be waived on written requests showing reasonable cause, and any penalty still payable must also be settled by that date. Taxpayers with pending audits, reviews or appeals can settle and still qualify.
+
+Taxpayers carrying old arrears should treat 2 December as a firm deadline and an opportunity to settle outstanding principal tax and obtain the available interest relief.
+
+Transfer pricing obligations also extend beyond the 30 November return-filing deadline. Constituent entities of qualifying multinational enterprise groups should ensure that the prescribed Country-by-Country (CbC) reporting notification for Y/A 2025/26 is submitted by 31 December 2026, where applicable. This notification requirement should be considered by both March and December year-end entities.
+
+In addition, a qualifying reporting entity with a reporting fiscal year ended 31 December 2025 must submit its CbC Report by 31 December 2026, being within 12 months of the end of that reporting fiscal year. Taxpayers should distinguish between the notification obligation, which identifies the reporting entity, and the separate obligation to file the CbC Report itself.
+
+Taxpayers should not underestimate the consequences of non-compliance. Interest on unpaid tax continues to accrue at 1.5% per month from the original due date, while a penalty of 20% may apply where tax remains unpaid 14 days after the due date. For unpaid quarterly instalments, a 10% penalty may apply.
+
+The coming months will be particularly significant for taxpayers, with several key income tax filing and payment obligations falling within a relatively short period. Unlike in previous years, taxpayers must navigate a range of new requirements, many of which converge in November. Given the potential exposure to interest and penalties, taxpayers should clarify their obligations and address the relevant compliance requirements well before the deadlines.
+
+At the same time, the growing number of forms, schedules and reporting obligations highlights the need for continued simplification of Sri Lanka’s tax compliance framework. While taxpayers must meet their obligations, policymakers and tax administrators should remain focused on reducing complexity and making it easier to calculate, report and pay tax. A tax system that is simple, predictable and user-friendly not only supports voluntary compliance but also strengthens Sri Lanka’s ease of doing business and overall investment climate. The above reflects only the key deadlines stemming from the Inland Revenue Act. Compliance dates under other tax laws such as Value Added Tax (VAT) and Social Security Contribution Levy (SSCL) are separate and are not covered in this article, so taxpayers should ensure these are tracked as well.
+
+(The views and opinions expressed in this article are those of the author in her personal capacity)
