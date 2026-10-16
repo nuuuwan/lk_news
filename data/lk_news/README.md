@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_19:59:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--16_21:58:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,251** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,254** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailymirrorlk-2e94c29e",
-    "num": "dailymirrorlk-2e94c29e",
+    "doc_id": "2026-10-16-dailymirrorlk-0eb8529f",
+    "num": "dailymirrorlk-0eb8529f",
     "date_str": "2026-10-16",
-    "description": "Iconic tusker Kavantissa dies in Galgamuwa",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iconic-tusker-Kavantissa-dies-in-Galgamuwa/108-352712",
+    "description": "Displaying vehicle owners\u2019 names on number plates considered",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Displaying-vehicle-owners-names-on-number-plates-considered/108-352713",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792159352.0
+    "time_ut": 1792161701.0
 }
 ```
 
@@ -41,10 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-16 | `dailymirrorlk-0eb8529f` | Displaying vehicle owners’ names on number plates considered | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-0eb8529f)
 - 2026-10-16 | `dailymirrorlk-2e94c29e` | Iconic tusker Kavantissa dies in Galgamuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-2e94c29e)
+- 2026-10-16 | `dailymirrorlk-2dd81c7a` | Iconic tusker Kavantissa dies while receiving treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-2dd81c7a)
 - 2026-10-16 | `dailymirrorlk-85bb1ee4` | Ailing tusker Kavanthissa in critical condition, public urged to stay away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-85bb1ee4)
 - 2026-10-16 | `dailymirrorlk-e1e2ca3f` | Over 300 Rajarata University students to receive free spectacles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-e1e2ca3f)
 - 2026-10-16 | `dailymirrorlk-f1e7ede4` | Parliament to convene for three days from October 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f1e7ede4)
+- 2026-10-16 | `dailymirrorlk-4b464443` | British man fined €3,000 for causing two-year-old son’s death in Cyprus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-4b464443)
 - 2026-10-16 | `dailymirrorlk-f61801fc` | Danu Innasithamby Honoured with Two Recognitions at Global Business Excellence Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f61801fc)
 - 2026-10-16 | `dailymirrorlk-eaf6d8cf` | Landslide blocks railway line near Kadigamuwa for third time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-eaf6d8cf)
 - 2026-10-16 | `dailymirrorlk-b1cb8154` | Government will not pardon Gnanasara Thera against its mandate: Lal Kantha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-b1cb8154)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-16 | `dailymirrorlk-5f29f3cb` | Medical reports indicate Shiranthi Rajapaksa needs bypass surgery, court told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-5f29f3cb)
 - 2026-10-16 | `dailymirrorlk-af9939f0` | Techno 2026 Opens at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-af9939f0)
 - 2026-10-16 | `dailymirrorlk-a3db855b` | Jaffna groundwater management unit to be built at Rs. 189 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-a3db855b)
-- 2026-10-16 | `dailymirrorlk-3af40d35` | Government Parliamentary group proposes referring no-confidence motion against Speaker to AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-3af40d35)
-- 2026-10-16 | `dailymirrorlk-361195fb` | ‘I criticised Government, not minorities’: Kiriella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-361195fb)
-- 2026-10-16 | `dailymirrorlk-5d1343c0` | India raises windfall tax on petrol, cuts duty on diesel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-5d1343c0)
 
 ---
 
