@@ -80206,6 +80206,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-af9939f0",
+    "num": "dailymirrorlk-af9939f0",
+    "date_str": "2026-10-16",
+    "description": "Techno 2026 Opens at BMICH",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Techno-2026-Opens-at-BMICH/110-352685",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792140843.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-16-dailymirrorlk-5f29f3cb",
     "num": "dailymirrorlk-5f29f3cb",
     "date_str": "2026-10-16",
@@ -80280,5 +80291,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792145038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-a50b53d3",
+    "num": "dailymirrorlk-a50b53d3",
+    "date_str": "2026-10-16",
+    "description": "Shiranthi Rajapaksa granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shiranthi-Rajapaksa-granted-bail/108-352698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792146425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-b1cb8154",
+    "num": "dailymirrorlk-b1cb8154",
+    "date_str": "2026-10-16",
+    "description": "Government will not pardon Gnanasara Thera against its mandate: Lal Kantha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-will-not-pardon-Gnanasara-Thera-against-its-mandate-Lal-Kantha/108-352700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792148775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-eaf6d8cf",
+    "num": "dailymirrorlk-eaf6d8cf",
+    "date_str": "2026-10-16",
+    "description": "Landslide blocks railway line near Kadigamuwa for third time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-blocks-railway-line-near-Kadigamuwa-for-third-time/108-352701",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792149334.0
   }
 ]
