@@ -80118,6 +80118,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-d3c35167",
+    "num": "dailymirrorlk-d3c35167",
+    "date_str": "2026-10-16",
+    "description": "Protesters vacate Presidential Secretariat site",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Protesters-vacate-Presidential-Secretariat-site/110-352674",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792135877.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-16-dailymirrorlk-a53a31d6",
     "num": "dailymirrorlk-a53a31d6",
     "date_str": "2026-10-16",
@@ -80192,5 +80203,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792138054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-5f29f3cb",
+    "num": "dailymirrorlk-5f29f3cb",
+    "date_str": "2026-10-16",
+    "description": "Medical reports indicate Shiranthi Rajapaksa needs bypass surgery, court told",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Medical-reports-indicate-Shiranthi-Rajapaksa-needs-bypass-surgery-court-told/108-352686",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792141623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-94bd15a0",
+    "num": "dailymirrorlk-94bd15a0",
+    "date_str": "2026-10-16",
+    "description": "SriLankan Airlines extends suspension of Riyadh, Dammam flights until Oct. 24",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-extends-suspension-of-Riyadh-Dammam-flights-until-Oct-24/108-352687",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792141767.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-f65a9aec",
+    "num": "dailymirrorlk-f65a9aec",
+    "date_str": "2026-10-16",
+    "description": "Misty conditions expected in several areas tomorrow morning",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Misty-conditions-expected-in-several-areas-tomorrow-morning/108-352688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792141960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-0958fb7d",
+    "num": "dailymirrorlk-0958fb7d",
+    "date_str": "2026-10-16",
+    "description": "Environmental damage requires global legal accountability",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environmental-damage-requires-global-legal-accountability/108-352690",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792143583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-0986d5b4",
+    "num": "dailymirrorlk-0986d5b4",
+    "date_str": "2026-10-16",
+    "description": "Round-the-clock efforts to save Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Round-the-clock-efforts-to-save-Kavantissa/108-352691",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792144144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-82cc2b51",
+    "num": "dailymirrorlk-82cc2b51",
+    "date_str": "2026-10-16",
+    "description": "WHO HAS THE POWER TO DAMAGE A REPUTATION?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/WHO-HAS-THE-POWER-TO-DAMAGE-A-REPUTATION/231-352695",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792144925.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-1be4f678",
+    "num": "dailymirrorlk-1be4f678",
+    "date_str": "2026-10-16",
+    "description": "Protesting Buddhist monks meet Buddhasasana Ministry officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protesting-Buddhist-monks-meet-Buddhasasana-Ministry-officials/108-352696",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792145038.0
   }
 ]
