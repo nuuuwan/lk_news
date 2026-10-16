@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-16 12:05:10",
-  "n_docs": 133215,
+  "time_updated": "2026-10-16 14:00:26",
+  "n_docs": 133234,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133215,
+  "n_docs_with_text": 133234,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-16",
-  "dataset_size": 2063986202,
+  "dataset_size": 2064205374,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailymirrorlk-6b4484cd",
-    "num": "dailymirrorlk-6b4484cd",
+    "doc_id": "2026-10-16-dailymirrorlk-a3db855b",
+    "num": "dailymirrorlk-a3db855b",
     "date_str": "2026-10-16",
-    "description": "Muted market amidst slight rise in yields",
-    "url_metadata": "https://www.dailymirror.lk/business/Muted-market-amidst-slight-rise-in-yields/215-352657",
+    "description": "Jaffna groundwater management unit to be built at Rs. 189 million",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-groundwater-management-unit-to-be-built-at-Rs-189-million/108-352684",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792132137.0
+    "time_ut": 1792138054.0
   }
 }

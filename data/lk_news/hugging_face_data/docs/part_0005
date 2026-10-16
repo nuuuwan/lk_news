@@ -79579,6 +79579,50 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-e261c9cd",
+    "num": "dailymirrorlk-e261c9cd",
+    "date_str": "2026-10-16",
+    "description": "Katchatheevu Balancing Sovereignty, Livelihoods and Diplomacy",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Katchatheevu-Balancing-Sovereignty-Livelihoods-and-Diplomacy/172-352625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792089070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-97526919",
+    "num": "dailymirrorlk-97526919",
+    "date_str": "2026-10-16",
+    "description": "Save Kavantissa the tusker!",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Save-Kavantissa-the-tusker/172-352627",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792089999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-8b2f7d11",
+    "num": "dailymirrorlk-8b2f7d11",
+    "date_str": "2026-10-16",
+    "description": "Sanctions on ICC: Trump\u2019s new world order is nasty, brutish, and dystopian",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sanctions-on-ICC-Trumps-new-world-order-is-nasty-brutish-and-dystopian/172-352628",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792090178.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-5eed7cbf",
+    "num": "dailymirrorlk-5eed7cbf",
+    "date_str": "2026-10-16",
+    "description": "Another IMF Programme: What Is Missing in Sri Lanka\u2019s Growth Story?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Another-IMF-Programme-What-Is-Missing-in-Sri-Lankas-Growth-Story/172-352629",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792090248.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-16-dailyftlk-243a7dcd",
     "num": "dailyftlk-243a7dcd",
     "date_str": "2026-10-16",
@@ -79983,5 +80027,170 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792132137.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-ada7349b",
+    "num": "dailymirrorlk-ada7349b",
+    "date_str": "2026-10-16",
+    "description": "Sri Lanka, China discuss wider economic cooperation",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-China-discuss-wider-economic-cooperation/215-352658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792132404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-567d139f",
+    "num": "dailymirrorlk-567d139f",
+    "date_str": "2026-10-16",
+    "description": "Businesses add jobs, pin hopes on year-end demand",
+    "url_metadata": "https://www.dailymirror.lk/business/Businesses-add-jobs-pin-hopes-on-year-end-demand/215-352659",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792132660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-4d345247",
+    "num": "dailymirrorlk-4d345247",
+    "date_str": "2026-10-16",
+    "description": "China\u2019s backing sought to bridge Sri Lanka\u2019s AI infrastructure gap",
+    "url_metadata": "https://www.dailymirror.lk/business/Chinas-backing-sought-to-bridge-Sri-Lankas-AI-infrastructure-gap/215-352660",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792132781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-63ef08f4",
+    "num": "dailymirrorlk-63ef08f4",
+    "date_str": "2026-10-16",
+    "description": "Sri Lanka to host Tourism Excellence Awards on 26 January",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-to-host-Tourism-Excellence-Awards-on-26-January/215-352661",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792133157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-8bafafdc",
+    "num": "dailymirrorlk-8bafafdc",
+    "date_str": "2026-10-16",
+    "description": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Google-warns-suspected-China-linked-hackers-could-exploit-BeyondTrust-flaw/108-352662",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792133259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-48b9865a",
+    "num": "dailymirrorlk-48b9865a",
+    "date_str": "2026-10-16",
+    "description": "Zydus and Sunshine plan US$ 20mn pharmaceutical plant in Horana",
+    "url_metadata": "https://www.dailymirror.lk/business/Zydus-and-Sunshine-plan-US-20mn-pharmaceutical-plant-in-Horana/215-352663",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792133309.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-43c0f171",
+    "num": "dailymirrorlk-43c0f171",
+    "date_str": "2026-10-16",
+    "description": "UK-styled insolvency law to dismantle exit barrier holding back private equity: StanChart CEO",
+    "url_metadata": "https://www.dailymirror.lk/business/UK-styled-insolvency-law-to-dismantle-exit-barrier-holding-back-private-equity-StanChart-CEO/215-352665",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792133488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-d1279a4e",
+    "num": "dailymirrorlk-d1279a4e",
+    "date_str": "2026-10-16",
+    "description": "Sri Lanka yet to spread tourism wings, but best years lie ahead: global hospitality leaders",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-yet-to-spread-tourism-wings-but-best-years-lie-ahead-global-hospitality-leaders/215-352667",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792134630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-a53a31d6",
+    "num": "dailymirrorlk-a53a31d6",
+    "date_str": "2026-10-16",
+    "description": "Asgiriya Mahanayake calls for Gnanasara Thera\u2019s release",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Asgiriya-Mahanayake-calls-for-Gnanasara-Theras-release/108-352678",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137004.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-fa950798",
+    "num": "dailymirrorlk-fa950798",
+    "date_str": "2026-10-16",
+    "description": "US announces $17 million investment to modernise Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-announces-17-million-investment-to-modernise-Colombo-Port/108-352679",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137138.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-c53f9237",
+    "num": "dailymirrorlk-c53f9237",
+    "date_str": "2026-10-16",
+    "description": "Public urged to maintain quiet environment during treatment of elephant Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-urged-to-maintain-quiet-environment-during-treatment-of-elephant-Kavantissa/108-352680",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137250.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-5d1343c0",
+    "num": "dailymirrorlk-5d1343c0",
+    "date_str": "2026-10-16",
+    "description": "India raises windfall tax on petrol, cuts duty on diesel",
+    "url_metadata": "https://www.dailymirror.lk/international/India-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/107-352681",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-361195fb",
+    "num": "dailymirrorlk-361195fb",
+    "date_str": "2026-10-16",
+    "description": "\u2018I criticised Government, not minorities\u2019: Kiriella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/I-criticised-Government-not-minorities-Kiriella/108-352682",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-3af40d35",
+    "num": "dailymirrorlk-3af40d35",
+    "date_str": "2026-10-16",
+    "description": "Government Parliamentary group proposes referring no-confidence motion against Speaker to AG",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-Parliamentary-group-proposes-referring-no-confidence-motion-against-Speaker-to-AG/108-352683",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792137968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-a3db855b",
+    "num": "dailymirrorlk-a3db855b",
+    "date_str": "2026-10-16",
+    "description": "Jaffna groundwater management unit to be built at Rs. 189 million",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-groundwater-management-unit-to-be-built-at-Rs-189-million/108-352684",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792138054.0
   }
 ]
