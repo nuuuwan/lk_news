@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_01:55:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_03:55:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,265** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,266** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailyftlk-a602d407",
-    "num": "dailyftlk-a602d407",
-    "date_str": "2026-10-16",
-    "description": "Rooftop solar with battery storage: Significant growth potential not recognised",
-    "url_metadata": "https://www.ft.lk/columns/Rooftop-solar-with-battery-storage-Significant-growth-potential-not-recognised/4-798789",
+    "doc_id": "2026-10-17-dailymirrorlk-eb479ee6",
+    "num": "dailymirrorlk-eb479ee6",
+    "date_str": "2026-10-17",
+    "description": "Online Police Clearance certificate system restored",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Online-Police-Clearance-certificate-system-restored/108-352727",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1792173856.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792182155.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-17 | `dailymirrorlk-eb479ee6` | Online Police Clearance certificate system restored | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-eb479ee6)
 - 2026-10-16 | `dailyftlk-a602d407` | Rooftop solar with battery storage: Significant growth potential not recognised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-a602d407)
 - 2026-10-16 | `dailyftlk-f6034e67` | Mahaweli Doctrine 2.0: Sri Lanka in  an age of fragmented interdependence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-f6034e67)
 - 2026-10-16 | `dailyftlk-8e6127b9` | The German connection:  Why Sri Lanka needs it – and vice versa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-8e6127b9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-16 | `dailymirrorlk-f1e7ede4` | Parliament to convene for three days from October 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f1e7ede4)
 - 2026-10-16 | `dailymirrorlk-4b464443` | British man fined €3,000 for causing two-year-old son’s death in Cyprus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-4b464443)
 - 2026-10-16 | `dailymirrorlk-f61801fc` | Danu Innasithamby Honoured with Two Recognitions at Global Business Excellence Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-f61801fc)
-- 2026-10-16 | `dailymirrorlk-eaf6d8cf` | Landslide blocks railway line near Kadigamuwa for third time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailymirrorlk-eaf6d8cf)
 
 ---
 

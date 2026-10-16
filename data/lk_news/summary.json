@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-17 01:54:32",
-  "n_docs": 133265,
+  "time_updated": "2026-10-17 03:54:35",
+  "n_docs": 133266,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133265,
+  "n_docs_with_text": 133266,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-16",
-  "dataset_size": 2064614125,
+  "date_str_max": "2026-10-17",
+  "dataset_size": 2064817745,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailyftlk-a602d407",
-    "num": "dailyftlk-a602d407",
-    "date_str": "2026-10-16",
-    "description": "Rooftop solar with battery storage: Significant growth potential not recognised",
-    "url_metadata": "https://www.ft.lk/columns/Rooftop-solar-with-battery-storage-Significant-growth-potential-not-recognised/4-798789",
+    "doc_id": "2026-10-17-dailymirrorlk-eb479ee6",
+    "num": "dailymirrorlk-eb479ee6",
+    "date_str": "2026-10-17",
+    "description": "Online Police Clearance certificate system restored",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Online-Police-Clearance-certificate-system-restored/108-352727",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1792173856.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792182155.0
   }
 }
