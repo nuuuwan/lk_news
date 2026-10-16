@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-16 09:58:39",
-  "n_docs": 133195,
+  "time_updated": "2026-10-16 12:05:10",
+  "n_docs": 133215,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133195,
+  "n_docs_with_text": 133215,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-16",
-  "dataset_size": 2063910044,
+  "dataset_size": 2063986202,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-16-dailymirrorlk-477b2141",
-    "num": "dailymirrorlk-477b2141",
+    "doc_id": "2026-10-16-dailymirrorlk-6b4484cd",
+    "num": "dailymirrorlk-6b4484cd",
     "date_str": "2026-10-16",
-    "description": "Court bars Sumangala Thera, 54 others from Presidential Secretariat",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-bars-Sumangala-Thera-54-others-from-Presidential-Secretariat/108-352633",
+    "description": "Muted market amidst slight rise in yields",
+    "url_metadata": "https://www.dailymirror.lk/business/Muted-market-amidst-slight-rise-in-yields/215-352657",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792123090.0
+    "time_ut": 1792132137.0
   }
 }
