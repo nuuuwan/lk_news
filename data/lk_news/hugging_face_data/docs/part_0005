@@ -79741,5 +79741,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792113951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-2536b348",
+    "num": "dailymirrorlk-2536b348",
+    "date_str": "2026-10-16",
+    "description": "Three children and teacher killed by 16-year-old at Oregon primary school",
+    "url_metadata": "https://www.dailymirror.lk/international/Three-children-and-teacher-killed-by-16-year-old-at-Oregon-primary-school/107-352632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792121585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-16-dailymirrorlk-477b2141",
+    "num": "dailymirrorlk-477b2141",
+    "date_str": "2026-10-16",
+    "description": "Court bars Sumangala Thera, 54 others from Presidential Secretariat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-bars-Sumangala-Thera-54-others-from-Presidential-Secretariat/108-352633",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792123090.0
   }
 ]
