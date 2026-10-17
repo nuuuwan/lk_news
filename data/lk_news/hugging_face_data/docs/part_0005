@@ -80547,6 +80547,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-e545f2d7",
+    "num": "dailymirrorlk-e545f2d7",
+    "date_str": "2026-10-17",
+    "description": "Colombo Port handles US $ 30Bn worth U.S. related cargo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Port-handles-US-30Bn-worth-U-S-related-cargo/108-352726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792179941.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-17-dailymirrorlk-eb479ee6",
     "num": "dailymirrorlk-eb479ee6",
     "date_str": "2026-10-17",
@@ -80621,5 +80632,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792209854.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-5277697d",
+    "num": "dailymirrorlk-5277697d",
+    "date_str": "2026-10-17",
+    "description": "Delhi Capitals appoint Chaminda Vaas as fast bowling coach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Delhi-Capitals-appoint-Chaminda-Vaas-as-fast-bowling-coach/108-352758",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792213969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-ac66cb19",
+    "num": "dailymirrorlk-ac66cb19",
+    "date_str": "2026-10-17",
+    "description": "Drug analysis report delays to be cut to three months by January",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-analysis-report-delays-to-be-cut-to-three-months-by-January/108-352759",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792214213.0
   }
 ]
