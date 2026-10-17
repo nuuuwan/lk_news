@@ -80984,5 +80984,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792229533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-8b886537",
+    "num": "dailymirrorlk-8b886537",
+    "date_str": "2026-10-17",
+    "description": "National grid expected to be restored by 6.30 p.m.: NSO",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-grid-expected-to-be-restored-by-6-30-p-m-NSO/108-352777",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792232416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-68586aa9",
+    "num": "dailymirrorlk-68586aa9",
+    "date_str": "2026-10-17",
+    "description": "Power failure could affect railway crossing warning systems",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Power-failure-could-affect-railway-crossing-warning-systems/108-352778",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792232734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-5c467481",
+    "num": "dailymirrorlk-5c467481",
+    "date_str": "2026-10-17",
+    "description": "Kavantissa\u2019s death highlights challenges in treating wild elephant: Former zoo vet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kavantissas-death-highlights-challenges-in-treating-wild-elephant-Former-zoo-vet/108-352779",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792234578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-922d0663",
+    "num": "dailymirrorlk-922d0663",
+    "date_str": "2026-10-17",
+    "description": "Grade five scholarship exam re-scrutiny results released",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Grade-five-scholarship-exam-re-scrutiny-results-released/108-352780",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792239825.0
   }
 ]
