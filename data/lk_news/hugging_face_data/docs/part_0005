@@ -80536,6 +80536,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-4e448071",
+    "num": "dailymirrorlk-4e448071",
+    "date_str": "2026-10-17",
+    "description": "Social media, AI influence Sri Lankan voter behaviour \u2013 Election Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Social-media-AI-influence-Sri-Lankan-voter-behaviour-Election-Commission/108-352725",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792179648.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-17-dailymirrorlk-eb479ee6",
     "num": "dailymirrorlk-eb479ee6",
     "date_str": "2026-10-17",
@@ -80577,5 +80588,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792202256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-5338a751",
+    "num": "dailymirrorlk-5338a751",
+    "date_str": "2026-10-17",
+    "description": "Oil touches $110 a barrel for first time since May on Middle East",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-touches-110-a-barrel-for-first-time-since-May-on-Middle-East/107-352747",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792206366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-640c771c",
+    "num": "dailymirrorlk-640c771c",
+    "date_str": "2026-10-17",
+    "description": "Monks continue satyagraha demanding release of Gnanasara Thera",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Monks-continue-satyagraha-demanding-release-of-Gnanasara-Thera/108-352748",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792206949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-b99aef23",
+    "num": "dailymirrorlk-b99aef23",
+    "date_str": "2026-10-17",
+    "description": "Vijay\u2019s TVK official held as India probes drugs smuggling to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijays-TVK-official-held-as-India-probes-drugs-smuggling-to-Sri-Lanka/108-352754",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792209854.0
   }
 ]
