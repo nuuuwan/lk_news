@@ -80544,5 +80544,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792182155.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-0e8d8c76",
+    "num": "dailymirrorlk-0e8d8c76",
+    "date_str": "2026-10-17",
+    "description": "Upcountry train services disrupted again by landslide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Upcountry-train-services-disrupted-again-by-landslide/108-352728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792198753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-384774fc",
+    "num": "dailymirrorlk-384774fc",
+    "date_str": "2026-10-17",
+    "description": "CID seizes CI Varuni Bogahawatta\u2019s car over Rs. 1 billion Co-op fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-seizes-CI-Varuni-Bogahawattas-car-over-Rs-1-billion-Co-op-fraud/108-352731",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792201952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-f9436081",
+    "num": "dailymirrorlk-f9436081",
+    "date_str": "2026-10-17",
+    "description": "12 injured in bus accident on Puttalam-Anuradhapura Road",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/12-injured-in-bus-accident-on-Puttalam-Anuradhapura-Road/108-352734",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792202256.0
   }
 ]

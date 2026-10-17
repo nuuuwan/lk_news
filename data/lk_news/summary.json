@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-17 06:15:13",
-  "n_docs": 133266,
+  "time_updated": "2026-10-17 07:59:45",
+  "n_docs": 133269,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133266,
+  "n_docs_with_text": 133269,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-17",
-  "dataset_size": 2064821501,
+  "dataset_size": 2064825603,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-eb479ee6",
-    "num": "dailymirrorlk-eb479ee6",
+    "doc_id": "2026-10-17-dailymirrorlk-f9436081",
+    "num": "dailymirrorlk-f9436081",
     "date_str": "2026-10-17",
-    "description": "Online Police Clearance certificate system restored",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Online-Police-Clearance-certificate-system-restored/108-352727",
+    "description": "12 injured in bus accident on Puttalam-Anuradhapura Road",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/12-injured-in-bus-accident-on-Puttalam-Anuradhapura-Road/108-352734",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792182155.0
+    "time_ut": 1792202256.0
   }
 }
