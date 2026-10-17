@@ -81042,6 +81042,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-1076debf",
+    "num": "dailymirrorlk-1076debf",
+    "date_str": "2026-10-17",
+    "description": "Water supply resumes at Ambatale after power outage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-supply-resumes-at-Ambatale-after-power-outage/108-352781",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792241258.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-17-dailymirrorlk-14338585",
     "num": "dailymirrorlk-14338585",
     "date_str": "2026-10-17",
@@ -81072,5 +81083,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792248712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-797dc068",
+    "num": "dailymirrorlk-797dc068",
+    "date_str": "2026-10-17",
+    "description": "Balangoda Kassapa Thera hospitalised during satyagraha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Balangoda-Kassapa-Thera-hospitalised-during-satyagraha/108-352785",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792249759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-9cb68487",
+    "num": "dailymirrorlk-9cb68487",
+    "date_str": "2026-10-17",
+    "description": "Court orders probe into tusker Kavantissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-probe-into-tusker-Kavantissas-death/108-352786",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792250119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-0f0e1ddf",
+    "num": "dailymirrorlk-0f0e1ddf",
+    "date_str": "2026-10-17",
+    "description": "Get foreign experts to assist in Kavantissa\u2019s post-mortem: Sajith",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Get-foreign-experts-to-assist-in-Kavantissas-post-mortem-Sajith/108-352787",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792250565.0
   }
 ]

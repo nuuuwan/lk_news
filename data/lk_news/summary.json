@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-17 20:33:17",
-  "n_docs": 133314,
+  "time_updated": "2026-10-17 21:55:30",
+  "n_docs": 133318,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133314,
+  "n_docs_with_text": 133318,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-17",
-  "dataset_size": 2065259770,
+  "dataset_size": 2065280791,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-ef41dc95",
-    "num": "dailymirrorlk-ef41dc95",
+    "doc_id": "2026-10-17-dailymirrorlk-0f0e1ddf",
+    "num": "dailymirrorlk-0f0e1ddf",
     "date_str": "2026-10-17",
-    "description": "Jayawardene leaves role as Mumbai Indians head coach",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jayawardene-leaves-role-as-Mumbai-Indians-head-coach/108-352784",
+    "description": "Get foreign experts to assist in Kavantissa\u2019s post-mortem: Sajith",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Get-foreign-experts-to-assist-in-Kavantissas-post-mortem-Sajith/108-352787",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792248712.0
+    "time_ut": 1792250565.0
   }
 }
