@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_12:03:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_13:58:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,300** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-ac66cb19",
-    "num": "dailymirrorlk-ac66cb19",
+    "doc_id": "2026-10-17-dailymirrorlk-a0715575",
+    "num": "dailymirrorlk-a0715575",
     "date_str": "2026-10-17",
-    "description": "Drug analysis report delays to be cut to three months by January",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-analysis-report-delays-to-be-cut-to-three-months-by-January/108-352759",
+    "description": "1,140 PVC pipes and fittings seized in islandwide raids over missing SLS logo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-140-PVC-pipes-and-fittings-seized-in-islandwide-raids-over-missing-SLS-logo/108-352773",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792214213.0
+    "time_ut": 1792224739.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-17 | `dailymirrorlk-a0715575` | 1,140 PVC pipes and fittings seized in islandwide raids over missing SLS logo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-a0715575)
+- 2026-10-17 | `dailymirrorlk-3b446a5d` | Islandwide power restoration underway after grid disruption: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-3b446a5d)
+- 2026-10-17 | `dailymirrorlk-fb390b2f` | Islandwide power outage as national grid suffers system failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-fb390b2f)
+- 2026-10-17 | `dailymirrorlk-5d32b392` | ‘The forest itself embraced the king for the last time’: Mahinda Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5d32b392)
+- 2026-10-17 | `dailymirrorlk-1fd6b89d` | Solar operators asked to switch off systems amid power outage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-1fd6b89d)
+- 2026-10-17 | `dailymirrorlk-10d73279` | Nearly 500 Sri Lankan troops, STF personnel head to Haiti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-10d73279)
+- 2026-10-17 | `dailymirrorlk-5fe42071` | Power outage reported across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5fe42071)
+- 2026-10-17 | `dailymirrorlk-ba01904f` | It Is Time to Unite the Sri Lankan  Sańgha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ba01904f)
 - 2026-10-17 | `dailymirrorlk-ac66cb19` | Drug analysis report delays to be cut to three months by January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ac66cb19)
 - 2026-10-17 | `dailymirrorlk-5277697d` | Delhi Capitals appoint Chaminda Vaas as fast bowling coach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5277697d)
+- 2026-10-17 | `dailymirrorlk-117e77fd` | IMF ready to support Sri Lanka beyond current programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-117e77fd)
 - 2026-10-17 | `dailymirrorlk-b99aef23` | Vijay’s TVK official held as India probes drugs smuggling to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-b99aef23)
+- 2026-10-17 | `dailymirrorlk-d5462e16` | Exporters push back against separate freight charges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-d5462e16)
+- 2026-10-17 | `dailymirrorlk-94bd15a0` | SriLankan Airlines extends suspension of Riyadh, Dammam flights until Oct. 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-94bd15a0)
+- 2026-10-17 | `dailymirrorlk-fa7a90bf` | Tea auction sees good demand as offerings reach 5.2mn kg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-fa7a90bf)
+- 2026-10-17 | `dailymirrorlk-c13ca508` | Dialog sells 20% of Doc990 operator for Rs.374.9mn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-c13ca508)
+- 2026-10-17 | `dailymirrorlk-cdbb49b9` | Muted market activity amid a slight uptick in yields | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-cdbb49b9)
 - 2026-10-17 | `dailymirrorlk-640c771c` | Monks continue satyagraha demanding release of Gnanasara Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-640c771c)
 - 2026-10-17 | `dailymirrorlk-5338a751` | Oil touches $110 a barrel for first time since May on Middle East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5338a751)
-- 2026-10-17 | `dailymirrorlk-f9436081` | 12 injured in bus accident on Puttalam-Anuradhapura Road | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-f9436081)
-- 2026-10-17 | `dailymirrorlk-384774fc` | CID seizes CI Varuni Bogahawatta’s car over Rs. 1 billion Co-op fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-384774fc)
-- 2026-10-17 | `dailymirrorlk-0e8d8c76` | Upcountry train services disrupted again by landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-0e8d8c76)
-- 2026-10-17 | `dailymirrorlk-eb479ee6` | Online Police Clearance certificate system restored | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-eb479ee6)
-- 2026-10-17 | `dailymirrorlk-e545f2d7` | Colombo Port handles US $ 30Bn worth U.S. related cargo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-e545f2d7)
-- 2026-10-17 | `dailymirrorlk-4e448071` | Social media, AI influence Sri Lankan voter behaviour – Election Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-4e448071)
-- 2026-10-16 | `dailyftlk-a602d407` | Rooftop solar with battery storage: Significant growth potential not recognised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-a602d407)
-- 2026-10-16 | `dailyftlk-f6034e67` | Mahaweli Doctrine 2.0: Sri Lanka in  an age of fragmented interdependence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-f6034e67)
-- 2026-10-16 | `dailyftlk-8e6127b9` | The German connection:  Why Sri Lanka needs it – and vice versa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-8e6127b9)
-- 2026-10-16 | `dailyftlk-b5f02e35` | Port City Colombo and University of Moratuwa sign framework agreement linking urban development with talent development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-b5f02e35)
-- 2026-10-16 | `dailyftlk-c174bf61` | BRISL to host undergraduate seminar on Belt and Road Initiative in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-c174bf61)
-- 2026-10-16 | `dailyftlk-ecb62b43` | Shiranthi gets bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-ecb62b43)
-- 2026-10-16 | `dailyftlk-378cd112` | ISMM to host National Supply Chain Day 2026 and National Supply Chain Excellence Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-378cd112)
-- 2026-10-16 | `dailyftlk-db6dc746` | Seylan Bank partners Colombo Motor Show 2026 as official banking and leasing partner for 10th consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-db6dc746)
-- 2026-10-16 | `dailyftlk-af9727d3` | Chrysalis marks decade of catalysing inclusive change across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-16-dailyftlk-af9727d3)
+- 2026-10-17 | `dailymirrorlk-dd76ffb4` | Week ends in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-dd76ffb4)
 
 ---
 
