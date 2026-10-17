@@ -80591,6 +80591,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-d41ee2d7",
+    "num": "dailymirrorlk-d41ee2d7",
+    "date_str": "2026-10-17",
+    "description": "SriLankan Airlines carries rhythm across borders",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-carries-rhythm-across-borders/108-352730",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792201888.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-17-dailymirrorlk-384774fc",
     "num": "dailymirrorlk-384774fc",
     "date_str": "2026-10-17",
@@ -81028,5 +81039,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792239825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-14338585",
+    "num": "dailymirrorlk-14338585",
+    "date_str": "2026-10-17",
+    "description": "Power transmission system fully restored",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Power-transmission-system-fully-restored/108-352782",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792247292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-dd9f289e",
+    "num": "dailymirrorlk-dd9f289e",
+    "date_str": "2026-10-17",
+    "description": "Pope Leo leaves hospital four days after lung cancer surgery",
+    "url_metadata": "https://www.dailymirror.lk/international/Pope-Leo-leaves-hospital-four-days-after-lung-cancer-surgery/107-352783",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792247996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-17-dailymirrorlk-ef41dc95",
+    "num": "dailymirrorlk-ef41dc95",
+    "date_str": "2026-10-17",
+    "description": "Jayawardene leaves role as Mumbai Indians head coach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jayawardene-leaves-role-as-Mumbai-Indians-head-coach/108-352784",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792248712.0
   }
 ]

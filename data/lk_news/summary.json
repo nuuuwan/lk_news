@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-17 17:58:01",
-  "n_docs": 133310,
+  "time_updated": "2026-10-17 20:33:17",
+  "n_docs": 133314,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133310,
+  "n_docs_with_text": 133314,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-17",
-  "dataset_size": 2065238656,
+  "dataset_size": 2065259770,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-922d0663",
-    "num": "dailymirrorlk-922d0663",
+    "doc_id": "2026-10-17-dailymirrorlk-ef41dc95",
+    "num": "dailymirrorlk-ef41dc95",
     "date_str": "2026-10-17",
-    "description": "Grade five scholarship exam re-scrutiny results released",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Grade-five-scholarship-exam-re-scrutiny-results-released/108-352780",
+    "description": "Jayawardene leaves role as Mumbai Indians head coach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jayawardene-leaves-role-as-Mumbai-Indians-head-coach/108-352784",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792239825.0
+    "time_ut": 1792248712.0
   }
 }

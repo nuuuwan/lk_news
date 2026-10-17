@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_17:58:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--17_20:33:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,310** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,314** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-922d0663",
-    "num": "dailymirrorlk-922d0663",
+    "doc_id": "2026-10-17-dailymirrorlk-ef41dc95",
+    "num": "dailymirrorlk-ef41dc95",
     "date_str": "2026-10-17",
-    "description": "Grade five scholarship exam re-scrutiny results released",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Grade-five-scholarship-exam-re-scrutiny-results-released/108-352780",
+    "description": "Jayawardene leaves role as Mumbai Indians head coach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jayawardene-leaves-role-as-Mumbai-Indians-head-coach/108-352784",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792239825.0
+    "time_ut": 1792248712.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-17 | `dailymirrorlk-ef41dc95` | Jayawardene leaves role as Mumbai Indians head coach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ef41dc95)
+- 2026-10-17 | `dailymirrorlk-dd9f289e` | Pope Leo leaves hospital four days after lung cancer surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-dd9f289e)
+- 2026-10-17 | `dailymirrorlk-14338585` | Power transmission system fully restored | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-14338585)
 - 2026-10-17 | `dailymirrorlk-922d0663` | Grade five scholarship exam re-scrutiny results released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-922d0663)
 - 2026-10-17 | `dailymirrorlk-5c467481` | Kavantissa’s death highlights challenges in treating wild elephant: Former zoo vet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5c467481)
 - 2026-10-17 | `dailymirrorlk-68586aa9` | Power failure could affect railway crossing warning systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-68586aa9)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-17 | `dailymirrorlk-ac66cb19` | Drug analysis report delays to be cut to three months by January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ac66cb19)
 - 2026-10-17 | `dailymirrorlk-5277697d` | Delhi Capitals appoint Chaminda Vaas as fast bowling coach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5277697d)
 - 2026-10-17 | `dailymirrorlk-117e77fd` | IMF ready to support Sri Lanka beyond current programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-117e77fd)
-- 2026-10-17 | `dailymirrorlk-b99aef23` | Vijay’s TVK official held as India probes drugs smuggling to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-b99aef23)
-- 2026-10-17 | `dailymirrorlk-d5462e16` | Exporters push back against separate freight charges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-d5462e16)
-- 2026-10-17 | `dailymirrorlk-94bd15a0` | SriLankan Airlines extends suspension of Riyadh, Dammam flights until Oct. 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-94bd15a0)
 
 ---
 
