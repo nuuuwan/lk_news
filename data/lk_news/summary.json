@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-17 13:57:23",
-  "n_docs": 133300,
+  "time_updated": "2026-10-17 15:53:46",
+  "n_docs": 133306,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133300,
+  "n_docs_with_text": 133306,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-17",
-  "dataset_size": 2064988538,
+  "dataset_size": 2065181400,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-a0715575",
-    "num": "dailymirrorlk-a0715575",
+    "doc_id": "2026-10-17-dailymirrorlk-f63f9c42",
+    "num": "dailymirrorlk-f63f9c42",
     "date_str": "2026-10-17",
-    "description": "1,140 PVC pipes and fittings seized in islandwide raids over missing SLS logo",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/1-140-PVC-pipes-and-fittings-seized-in-islandwide-raids-over-missing-SLS-logo/108-352773",
+    "description": "NWSDB warns of possible water supply interruptions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NWSDB-warns-of-possible-water-supply-interruptions/108-352774",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792224739.0
+    "time_ut": 1792229533.0
   }
 }
