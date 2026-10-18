@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-18 21:55:10",
-  "n_docs": 133344,
+  "time_updated": "2026-10-18 23:55:59",
+  "n_docs": 133346,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133344,
+  "n_docs_with_text": 133346,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-18",
-  "dataset_size": 2065465775,
+  "dataset_size": 2065485499,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-18-dailymirrorlk-33c23195",
-    "num": "dailymirrorlk-33c23195",
+    "doc_id": "2026-10-18-dailymirrorlk-ce5d476b",
+    "num": "dailymirrorlk-ce5d476b",
     "date_str": "2026-10-18",
-    "description": "Over 2,100 killed in road accidents so far this year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-2-100-killed-in-road-accidents-so-far-this-year/108-352815",
+    "description": "Suspect arrested over shooting of tusker Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-shooting-of-tusker-Kavantissa/108-352817",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792338105.0
+    "time_ut": 1792342542.0
   }
 }

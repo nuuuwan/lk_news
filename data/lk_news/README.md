@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_21:55:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_23:56:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-18-dailymirrorlk-33c23195",
-    "num": "dailymirrorlk-33c23195",
+    "doc_id": "2026-10-18-dailymirrorlk-ce5d476b",
+    "num": "dailymirrorlk-ce5d476b",
     "date_str": "2026-10-18",
-    "description": "Over 2,100 killed in road accidents so far this year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-2-100-killed-in-road-accidents-so-far-this-year/108-352815",
+    "description": "Suspect arrested over shooting of tusker Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-shooting-of-tusker-Kavantissa/108-352817",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792338105.0
+    "time_ut": 1792342542.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-18 | `dailymirrorlk-ce5d476b` | Suspect arrested over shooting of tusker Kavantissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-ce5d476b)
+- 2026-10-18 | `dailymirrorlk-9bf6e606` | Probe launched into possible organised network behind elephant shootings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-9bf6e606)
 - 2026-10-18 | `dailymirrorlk-33c23195` | Over 2,100 killed in road accidents so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-33c23195)
 - 2026-10-18 | `dailymirrorlk-1dfbdacc` | Search for Agbo continues; operations to resume tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-1dfbdacc)
 - 2026-10-18 | `dailymirrorlk-eacc78e7` | Probe sought into alleged bid to buy 17-year-old cancer machine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-eacc78e7)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-18 | `dailymirrorlk-00c1f4d1` | Seven illegally imported vehicles worth Rs. 20 million seized by Jaffna Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-00c1f4d1)
 - 2026-10-18 | `dailymirrorlk-e7994785` | Two injured as rock falls on bus at Kadugannawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-e7994785)
 - 2026-10-18 | `dailymirrorlk-f64653ee` | Heavy rain disrupts traffic in Nuwara Eliya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-f64653ee)
-- 2026-10-18 | `dailymirrorlk-0e43e762` | 19 dead, 25 hurt in stampede at India religious gathering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-0e43e762)
-- 2026-10-18 | `dailymirrorlk-62e00405` | Sri Lankans rank second among Kuwait’s domestic workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-62e00405)
 
 ---
 
