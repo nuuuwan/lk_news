@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_19:53:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_21:55:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-18-dailymirrorlk-4aabc547",
-    "num": "dailymirrorlk-4aabc547",
+    "doc_id": "2026-10-18-dailymirrorlk-33c23195",
+    "num": "dailymirrorlk-33c23195",
     "date_str": "2026-10-18",
-    "description": "Norochcholai power plant to remain offline for several days",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Norochcholai-power-plant-to-remain-offline-for-several-days/108-352812",
+    "description": "Over 2,100 killed in road accidents so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-2-100-killed-in-road-accidents-so-far-this-year/108-352815",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792321974.0
+    "time_ut": 1792338105.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-18 | `dailymirrorlk-33c23195` | Over 2,100 killed in road accidents so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-33c23195)
+- 2026-10-18 | `dailymirrorlk-1dfbdacc` | Search for Agbo continues; operations to resume tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-1dfbdacc)
+- 2026-10-18 | `dailymirrorlk-eacc78e7` | Probe sought into alleged bid to buy 17-year-old cancer machine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-eacc78e7)
 - 2026-10-18 | `dailymirrorlk-4aabc547` | Norochcholai power plant to remain offline for several days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-4aabc547)
 - 2026-10-18 | `dailymirrorlk-952ae800` | Shiranthi Rajapaksa transferred to Nawaloka Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-952ae800)
 - 2026-10-18 | `dailymirrorlk-f28b479e` | 30,000 teachers to be recruited by March next year: Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-f28b479e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-18 | `dailymirrorlk-f64653ee` | Heavy rain disrupts traffic in Nuwara Eliya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-f64653ee)
 - 2026-10-18 | `dailymirrorlk-0e43e762` | 19 dead, 25 hurt in stampede at India religious gathering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-0e43e762)
 - 2026-10-18 | `dailymirrorlk-62e00405` | Sri Lankans rank second among Kuwait’s domestic workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-62e00405)
-- 2026-10-18 | `dailymirrorlk-2d2ad911` | Digital registration of fruit traders begins under poison-free fruit programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-2d2ad911)
-- 2026-10-18 | `dailymirrorlk-9ed35f25` | Basil Rajapaksa’s case files sent to AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-9ed35f25)
-- 2026-10-18 | `dailymirrorlk-40e4ce7e` | Litro to distribute 180,000 gas cylinders over two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-40e4ce7e)
 
 ---
 
