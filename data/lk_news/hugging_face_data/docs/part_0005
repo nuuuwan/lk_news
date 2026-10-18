@@ -81424,5 +81424,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792342542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailyftlk-6823f314",
+    "num": "dailyftlk-6823f314",
+    "date_str": "2026-10-19",
+    "description": "The balance of power",
+    "url_metadata": "https://www.ft.lk/columns/The-balance-of-power/4-798804",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792360304.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailyftlk-6c409775",
+    "num": "dailyftlk-6c409775",
+    "date_str": "2026-10-19",
+    "description": "Countrywide power failure:  A national security wake-up call",
+    "url_metadata": "https://www.ft.lk/columns/Countrywide-power-failure-A-national-security-wake-up-call/4-798805",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792360678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailyftlk-3a71c8cd",
+    "num": "dailyftlk-3a71c8cd",
+    "date_str": "2026-10-19",
+    "description": "Ajantha Dharmasiri\u2019s Management Musings: Building bridge from reality to results",
+    "url_metadata": "https://www.ft.lk/columns/Ajantha-Dharmasiri-s-Management-Musings-Building-bridge-from-reality-to-results/4-798807",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792361695.0
   }
 ]
