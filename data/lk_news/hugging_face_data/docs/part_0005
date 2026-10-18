@@ -81171,5 +81171,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792294637.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-62e00405",
+    "num": "dailymirrorlk-62e00405",
+    "date_str": "2026-10-18",
+    "description": "Sri Lankans rank second among Kuwait\u2019s domestic workers",
+    "url_metadata": "https://www.dailymirror.lk/international/Sri-Lankans-rank-second-among-Kuwaits-domestic-workers/107-352794",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792298549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-0e43e762",
+    "num": "dailymirrorlk-0e43e762",
+    "date_str": "2026-10-18",
+    "description": "19 dead, 25 hurt in stampede at India religious gathering",
+    "url_metadata": "https://www.dailymirror.lk/international/19-dead-25-hurt-in-stampede-at-India-religious-gathering/107-352795",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792298733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-f64653ee",
+    "num": "dailymirrorlk-f64653ee",
+    "date_str": "2026-10-18",
+    "description": "Heavy rain disrupts traffic in Nuwara Eliya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-disrupts-traffic-in-Nuwara-Eliya/108-352796",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792298873.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-e7994785",
+    "num": "dailymirrorlk-e7994785",
+    "date_str": "2026-10-18",
+    "description": "Two injured as rock falls on bus at Kadugannawa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-injured-as-rock-falls-on-bus-at-Kadugannawa/108-352797",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792299237.0
   }
 ]

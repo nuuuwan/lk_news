@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_09:58:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_12:07:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,323** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,327** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-18-dailymirrorlk-9ed35f25",
-    "num": "dailymirrorlk-9ed35f25",
+    "doc_id": "2026-10-18-dailymirrorlk-e7994785",
+    "num": "dailymirrorlk-e7994785",
     "date_str": "2026-10-18",
-    "description": "Basil Rajapaksa\u2019s case files sent to AG",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Basil-Rajapaksas-case-files-sent-to-AG/108-352792",
+    "description": "Two injured as rock falls on bus at Kadugannawa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-injured-as-rock-falls-on-bus-at-Kadugannawa/108-352797",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792294637.0
+    "time_ut": 1792299237.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-18 | `dailymirrorlk-e7994785` | Two injured as rock falls on bus at Kadugannawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-e7994785)
+- 2026-10-18 | `dailymirrorlk-f64653ee` | Heavy rain disrupts traffic in Nuwara Eliya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-f64653ee)
+- 2026-10-18 | `dailymirrorlk-0e43e762` | 19 dead, 25 hurt in stampede at India religious gathering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-0e43e762)
+- 2026-10-18 | `dailymirrorlk-62e00405` | Sri Lankans rank second among Kuwait’s domestic workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-62e00405)
 - 2026-10-18 | `dailymirrorlk-9ed35f25` | Basil Rajapaksa’s case files sent to AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-9ed35f25)
 - 2026-10-18 | `dailymirrorlk-40e4ce7e` | Litro to distribute 180,000 gas cylinders over two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-40e4ce7e)
 - 2026-10-18 | `dailymirrorlk-8bfd8c4c` | Mass protests in France spiral into worst riots in years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-8bfd8c4c)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-17 | `dailymirrorlk-5c467481` | Kavantissa’s death highlights challenges in treating wild elephant: Former zoo vet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5c467481)
 - 2026-10-17 | `dailymirrorlk-68586aa9` | Power failure could affect railway crossing warning systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-68586aa9)
 - 2026-10-17 | `dailymirrorlk-8b886537` | National grid expected to be restored by 6.30 p.m.: NSO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-8b886537)
-- 2026-10-17 | `dailymirrorlk-f63f9c42` | NWSDB warns of possible water supply interruptions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-f63f9c42)
-- 2026-10-17 | `dailymirrorlk-a0715575` | 1,140 PVC pipes and fittings seized in islandwide raids over missing SLS logo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-a0715575)
-- 2026-10-17 | `dailymirrorlk-3b446a5d` | Islandwide power restoration underway after grid disruption: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-3b446a5d)
-- 2026-10-17 | `dailymirrorlk-ecef1769` | Trump waives several Russia sanctions as row with Zelensky intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ecef1769)
 
 ---
 
