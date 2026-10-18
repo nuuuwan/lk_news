@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_08:00:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_09:58:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,318** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,323** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-0f0e1ddf",
-    "num": "dailymirrorlk-0f0e1ddf",
-    "date_str": "2026-10-17",
-    "description": "Get foreign experts to assist in Kavantissa\u2019s post-mortem: Sajith",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Get-foreign-experts-to-assist-in-Kavantissas-post-mortem-Sajith/108-352787",
+    "doc_id": "2026-10-18-dailymirrorlk-9ed35f25",
+    "num": "dailymirrorlk-9ed35f25",
+    "date_str": "2026-10-18",
+    "description": "Basil Rajapaksa\u2019s case files sent to AG",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Basil-Rajapaksas-case-files-sent-to-AG/108-352792",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792250565.0
+    "time_ut": 1792294637.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-18 | `dailymirrorlk-9ed35f25` | Basil Rajapaksa’s case files sent to AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-9ed35f25)
+- 2026-10-18 | `dailymirrorlk-40e4ce7e` | Litro to distribute 180,000 gas cylinders over two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-40e4ce7e)
+- 2026-10-18 | `dailymirrorlk-8bfd8c4c` | Mass protests in France spiral into worst riots in years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-8bfd8c4c)
+- 2026-10-18 | `dailymirrorlk-ac54e1b1` | Suspect arrested with firearms, ammunition and grenades hidden in Kirindiwela cinema hall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-ac54e1b1)
+- 2026-10-18 | `dailymirrorlk-d06f28aa` | Police say Balangoda Kassapa Thera injured in accidental fall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-d06f28aa)
 - 2026-10-17 | `dailymirrorlk-0f0e1ddf` | Get foreign experts to assist in Kavantissa’s post-mortem: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-0f0e1ddf)
 - 2026-10-17 | `dailymirrorlk-9cb68487` | Court orders probe into tusker Kavantissa’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-9cb68487)
 - 2026-10-17 | `dailymirrorlk-797dc068` | Balangoda Kassapa Thera hospitalised during satyagraha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-797dc068)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-10-17 | `dailymirrorlk-a0715575` | 1,140 PVC pipes and fittings seized in islandwide raids over missing SLS logo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-a0715575)
 - 2026-10-17 | `dailymirrorlk-3b446a5d` | Islandwide power restoration underway after grid disruption: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-3b446a5d)
 - 2026-10-17 | `dailymirrorlk-ecef1769` | Trump waives several Russia sanctions as row with Zelensky intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-ecef1769)
-- 2026-10-17 | `dailymirrorlk-fb390b2f` | Islandwide power outage as national grid suffers system failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-fb390b2f)
-- 2026-10-17 | `dailymirrorlk-5d32b392` | ‘The forest itself embraced the king for the last time’: Mahinda Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5d32b392)
-- 2026-10-17 | `dailymirrorlk-1fd6b89d` | Solar operators asked to switch off systems amid power outage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-1fd6b89d)
-- 2026-10-17 | `dailymirrorlk-10d73279` | Nearly 500 Sri Lankan troops, STF personnel head to Haiti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-10d73279)
-- 2026-10-17 | `dailymirrorlk-5fe42071` | Power outage reported across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-5fe42071)
 
 ---
 

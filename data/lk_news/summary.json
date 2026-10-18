@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-18 07:58:59",
-  "n_docs": 133318,
+  "time_updated": "2026-10-18 09:57:17",
+  "n_docs": 133323,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133318,
+  "n_docs_with_text": 133323,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-17",
-  "dataset_size": 2065295039,
+  "date_str_max": "2026-10-18",
+  "dataset_size": 2065307294,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-17-dailymirrorlk-0f0e1ddf",
-    "num": "dailymirrorlk-0f0e1ddf",
-    "date_str": "2026-10-17",
-    "description": "Get foreign experts to assist in Kavantissa\u2019s post-mortem: Sajith",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Get-foreign-experts-to-assist-in-Kavantissas-post-mortem-Sajith/108-352787",
+    "doc_id": "2026-10-18-dailymirrorlk-9ed35f25",
+    "num": "dailymirrorlk-9ed35f25",
+    "date_str": "2026-10-18",
+    "description": "Basil Rajapaksa\u2019s case files sent to AG",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Basil-Rajapaksas-case-files-sent-to-AG/108-352792",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792250565.0
+    "time_ut": 1792294637.0
   }
 }
