@@ -81174,6 +81174,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-2d2ad911",
+    "num": "dailymirrorlk-2d2ad911",
+    "date_str": "2026-10-18",
+    "description": "Digital registration of fruit traders begins under poison-free fruit programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Digital-registration-of-fruit-traders-begins-under-poison-free-fruit-programme/108-352793",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792298452.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-18-dailymirrorlk-62e00405",
     "num": "dailymirrorlk-62e00405",
     "date_str": "2026-10-18",
@@ -81215,5 +81226,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792299237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-00c1f4d1",
+    "num": "dailymirrorlk-00c1f4d1",
+    "date_str": "2026-10-18",
+    "description": "Seven illegally imported vehicles worth Rs. 20 million seized by Jaffna Police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seven-illegally-imported-vehicles-worth-Rs-20-million-seized-by-Jaffna-Police/108-352798",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792306261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-90a7aed9",
+    "num": "dailymirrorlk-90a7aed9",
+    "date_str": "2026-10-18",
+    "description": "Formal investigation into islandwide power failure",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Formal-investigation-into-islandwide-power-failure/108-352800",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792307750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-321065fe",
+    "num": "dailymirrorlk-321065fe",
+    "date_str": "2026-10-18",
+    "description": "Several dead or injured in major fire at Canada military base",
+    "url_metadata": "https://www.dailymirror.lk/international/Several-dead-or-injured-in-major-fire-at-Canada-military-base/107-352801",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792308171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-369d7285",
+    "num": "dailymirrorlk-369d7285",
+    "date_str": "2026-10-18",
+    "description": "Independent probe into tusker Kawanthissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Independent-probe-into-tusker-Kawanthissas-death/108-352803",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792309889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-541bb1ac",
+    "num": "dailymirrorlk-541bb1ac",
+    "date_str": "2026-10-18",
+    "description": "\u2018Do not expect decisions beyond Supreme Court rulings\u2019: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Do-not-expect-decisions-beyond-Supreme-Court-rulings-President/108-352804",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792310088.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-af6efd7e",
+    "num": "dailymirrorlk-af6efd7e",
+    "date_str": "2026-10-18",
+    "description": "Most Ven. Keppetiyagoda Siriwimala Nayaka Thera passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Most-Ven-Keppetiyagoda-Siriwimala-Nayaka-Thera-passes-away/108-352805",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792311387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-18-dailymirrorlk-6dc2b3cc",
+    "num": "dailymirrorlk-6dc2b3cc",
+    "date_str": "2026-10-18",
+    "description": "Environment Ministry seeks CID probe into Kawanthissa\u2019s death, suspected elephant killings",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environment-Ministry-seeks-CID-probe-into-Kawanthissas-death-suspected-elephant-killings/108-352806",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792311529.0
   }
 ]
