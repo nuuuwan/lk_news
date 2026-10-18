@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_13:58:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--18_15:55:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,339** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-18-dailymirrorlk-6dc2b3cc",
-    "num": "dailymirrorlk-6dc2b3cc",
+    "doc_id": "2026-10-18-dailymirrorlk-f28b479e",
+    "num": "dailymirrorlk-f28b479e",
     "date_str": "2026-10-18",
-    "description": "Environment Ministry seeks CID probe into Kawanthissa\u2019s death, suspected elephant killings",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environment-Ministry-seeks-CID-probe-into-Kawanthissas-death-suspected-elephant-killings/108-352806",
+    "description": "30,000 teachers to be recruited by March next year: Prime Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/30-000-teachers-to-be-recruited-by-March-next-year-Prime-Minister/108-352810",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792311529.0
+    "time_ut": 1792314591.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-18 | `dailymirrorlk-f28b479e` | 30,000 teachers to be recruited by March next year: Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-f28b479e)
+- 2026-10-18 | `dailymirrorlk-799fc6de` | Teacher recruitment process in crisis, says CTU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-799fc6de)
+- 2026-10-18 | `dailymirrorlk-bd47f3a0` | Special military team deployed to search for Agbo elephant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-bd47f3a0)
+- 2026-10-18 | `dailymirrorlk-baef7e7f` | Ranawaka calls for independent probe into islandwide blackout, alleges rooftop solar agenda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-baef7e7f)
 - 2026-10-18 | `dailymirrorlk-6dc2b3cc` | Environment Ministry seeks CID probe into Kawanthissa’s death, suspected elephant killings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-6dc2b3cc)
 - 2026-10-18 | `dailymirrorlk-af6efd7e` | Most Ven. Keppetiyagoda Siriwimala Nayaka Thera passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-af6efd7e)
 - 2026-10-18 | `dailymirrorlk-541bb1ac` | ‘Do not expect decisions beyond Supreme Court rulings’: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-541bb1ac)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-18 | `dailymirrorlk-40e4ce7e` | Litro to distribute 180,000 gas cylinders over two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-40e4ce7e)
 - 2026-10-18 | `dailymirrorlk-8bfd8c4c` | Mass protests in France spiral into worst riots in years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-8bfd8c4c)
 - 2026-10-18 | `dailymirrorlk-ac54e1b1` | Suspect arrested with firearms, ammunition and grenades hidden in Kirindiwela cinema hall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-ac54e1b1)
-- 2026-10-18 | `dailymirrorlk-d06f28aa` | Police say Balangoda Kassapa Thera injured in accidental fall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-d06f28aa)
-- 2026-10-17 | `dailymirrorlk-0f0e1ddf` | Get foreign experts to assist in Kavantissa’s post-mortem: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-0f0e1ddf)
-- 2026-10-17 | `dailymirrorlk-9cb68487` | Court orders probe into tusker Kavantissa’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-9cb68487)
-- 2026-10-17 | `dailymirrorlk-797dc068` | Balangoda Kassapa Thera hospitalised during satyagraha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-17-dailymirrorlk-797dc068)
 
 ---
 
