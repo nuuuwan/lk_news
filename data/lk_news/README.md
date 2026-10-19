@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_08:04:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_09:58:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,362** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,365** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailymirrorlk-37bdbddf",
-    "num": "dailymirrorlk-37bdbddf",
+    "doc_id": "2026-10-19-dailymirrorlk-645494b4",
+    "num": "dailymirrorlk-645494b4",
     "date_str": "2026-10-19",
-    "description": "Passenger drones set to take off in Sri Lanka",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Passenger-drones-set-to-take-off-in-Sri-Lanka/108-352820",
+    "description": "SriLankan Airlines warns public of fake mobile apps",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-warns-public-of-fake-mobile-apps/108-352843",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792372093.0
+    "time_ut": 1792382823.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-19 | `dailymirrorlk-645494b4` | SriLankan Airlines warns public of fake mobile apps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-645494b4)
+- 2026-10-19 | `dailymirrorlk-4dbda339` | Bollywood actor Tiger Shroff survives shooting in Mumbai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-4dbda339)
+- 2026-10-19 | `dailymirrorlk-583f0eb3` | New motorcycle registration services launched in five districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-583f0eb3)
 - 2026-10-19 | `dailymirrorlk-37bdbddf` | Passenger drones set to take off in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-37bdbddf)
 - 2026-10-19 | `dailyftlk-bbf9ab7d` | Court of Appeal issues notice in WNPS challenge to Mannar wind power project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailyftlk-bbf9ab7d)
 - 2026-10-19 | `dailyftlk-65e8b698` | Supreme Court grants leave to former Deputy Minister  in bribery conviction appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailyftlk-65e8b698)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-19 | `dailyftlk-6c409775` | Countrywide power failure:  A national security wake-up call | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailyftlk-6c409775)
 - 2026-10-19 | `dailyftlk-6823f314` | The balance of power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailyftlk-6823f314)
 - 2026-10-18 | `dailymirrorlk-ce5d476b` | Suspect arrested over shooting of tusker Kavantissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-ce5d476b)
-- 2026-10-18 | `dailymirrorlk-9bf6e606` | Probe launched into possible organised network behind elephant shootings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-9bf6e606)
-- 2026-10-18 | `dailymirrorlk-33c23195` | Over 2,100 killed in road accidents so far this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-33c23195)
-- 2026-10-18 | `dailymirrorlk-1dfbdacc` | Search for Agbo continues; operations to resume tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-18-dailymirrorlk-1dfbdacc)
 
 ---
 

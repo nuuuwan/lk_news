@@ -81600,5 +81600,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792372093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-583f0eb3",
+    "num": "dailymirrorlk-583f0eb3",
+    "date_str": "2026-10-19",
+    "description": "New motorcycle registration services launched in five districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-motorcycle-registration-services-launched-in-five-districts/108-352823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792373657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-4dbda339",
+    "num": "dailymirrorlk-4dbda339",
+    "date_str": "2026-10-19",
+    "description": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+    "url_metadata": "https://www.dailymirror.lk/international/Bollywood-actor-Tiger-Shroff-survives-shooting-in-Mumbai/107-352841",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792382508.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-645494b4",
+    "num": "dailymirrorlk-645494b4",
+    "date_str": "2026-10-19",
+    "description": "SriLankan Airlines warns public of fake mobile apps",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-warns-public-of-fake-mobile-apps/108-352843",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792382823.0
   }
 ]
