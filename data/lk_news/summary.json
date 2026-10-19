@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-19 03:53:04",
-  "n_docs": 133349,
+  "time_updated": "2026-10-19 06:18:41",
+  "n_docs": 133361,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133349,
+  "n_docs_with_text": 133361,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-19",
-  "dataset_size": 2065525428,
+  "dataset_size": 2065660649,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailyftlk-3a71c8cd",
-    "num": "dailyftlk-3a71c8cd",
+    "doc_id": "2026-10-19-dailyftlk-bbf9ab7d",
+    "num": "dailyftlk-bbf9ab7d",
     "date_str": "2026-10-19",
-    "description": "Ajantha Dharmasiri\u2019s Management Musings: Building bridge from reality to results",
-    "url_metadata": "https://www.ft.lk/columns/Ajantha-Dharmasiri-s-Management-Musings-Building-bridge-from-reality-to-results/4-798807",
+    "description": "Court of Appeal issues notice in WNPS challenge to Mannar wind power project",
+    "url_metadata": "https://www.ft.lk/news/Court-of-Appeal-issues-notice-in-WNPS-challenge-to-Mannar-wind-power-project/56-798841",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1792361695.0
+    "time_ut": 1792366875.0
   }
 }
