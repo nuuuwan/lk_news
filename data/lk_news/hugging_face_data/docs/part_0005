@@ -81691,6 +81691,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-5761911d",
+    "num": "dailymirrorlk-5761911d",
+    "date_str": "2026-10-19",
+    "description": "CBA Forum 2026 on October 27",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CBA-Forum-2026-on-October-27/273-352829",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792375343.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-19-dailymirrorlk-53084c76",
     "num": "dailymirrorlk-53084c76",
     "date_str": "2026-10-19",
@@ -81955,6 +81966,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-2d540b40",
+    "num": "dailymirrorlk-2d540b40",
+    "date_str": "2026-10-19",
+    "description": "Sri Lanka aims to increase industrial land allocation to 1% by 2030: Sunil Handunnetti",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-aims-to-increase-industrial-land-allocation-to-1-by-2030-Sunil-Handunnetti/108-352862",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792391642.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-19-dailymirrorlk-4a05d415",
     "num": "dailymirrorlk-4a05d415",
     "date_str": "2026-10-19",
@@ -82010,6 +82032,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-2f1fcdd2",
+    "num": "dailymirrorlk-2f1fcdd2",
+    "date_str": "2026-10-19",
+    "description": "Satyagraha for Gnanasara Thera\u2019s release continues",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Satyagraha-for-Gnanasara-Theras-release-continues/110-352873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792396380.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-19-dailymirrorlk-c5f1c72e",
     "num": "dailymirrorlk-c5f1c72e",
     "date_str": "2026-10-19",
@@ -82018,5 +82051,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792397621.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-3db286fb",
+    "num": "dailymirrorlk-3db286fb",
+    "date_str": "2026-10-19",
+    "description": "Kavantissa\u2019s death highlights need to end wildlife killings: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kavantissas-death-highlights-need-to-end-wildlife-killings-PM/108-352875",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792399276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-3cc10aed",
+    "num": "dailymirrorlk-3cc10aed",
+    "date_str": "2026-10-19",
+    "description": "Injured elephant Agbo located in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Injured-elephant-Agbo-located-in-Anuradhapura/108-352876",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792399703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-341f57ce",
+    "num": "dailymirrorlk-341f57ce",
+    "date_str": "2026-10-19",
+    "description": "SLPA plans new logistics hub at Colombo Port under PPP model",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPA-plans-new-logistics-hub-at-Colombo-Port-under-PPP-model/108-352877",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792399890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-528aeb01",
+    "num": "dailymirrorlk-528aeb01",
+    "date_str": "2026-10-19",
+    "description": "Daily Mirror wins environment awards",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Daily-Mirror-wins-environment-awards/110-352881",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792404926.0
   }
 ]
