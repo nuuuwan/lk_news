@@ -82098,6 +82098,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-b6e22bfc",
+    "num": "dailymirrorlk-b6e22bfc",
+    "date_str": "2026-10-19",
+    "description": "At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa",
+    "url_metadata": "https://www.dailymirror.lk/international/At-least-18-killed-in-Houthi-attack-on-Yemeni-government-military-camp-in-Shabwa/107-352882",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792405230.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-19-dailymirrorlk-e86063e3",
     "num": "dailymirrorlk-e86063e3",
     "date_str": "2026-10-19",
@@ -82161,5 +82172,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792418872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-95f2fd80",
+    "num": "dailymirrorlk-95f2fd80",
+    "date_str": "2026-10-19",
+    "description": "CCD records statement from Ulapane Sumangala Thero",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCD-records-statement-from-Ulapane-Sumangala-Thero/108-352891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792423245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-be444c5b",
+    "num": "dailymirrorlk-be444c5b",
+    "date_str": "2026-10-19",
+    "description": "Namal Rajapaksa\u2019s private secretary arrested by Bribery Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksas-private-secretary-arrested-by-Bribery-Commission/108-352893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792424215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-440c5025",
+    "num": "dailymirrorlk-440c5025",
+    "date_str": "2026-10-19",
+    "description": "Sri Lanka\u2019s first insulin manufacturing plant to begin production in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-first-insulin-manufacturing-plant-to-begin-production-in-2027/108-352894",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792424593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-2970f442",
+    "num": "dailymirrorlk-2970f442",
+    "date_str": "2026-10-19",
+    "description": "Customs seize narcotics worth Rs. 67.5 million at Central Mail Exchange",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-narcotics-worth-Rs-67-5-million-at-Central-Mail-Exchange/108-352895",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792424741.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-de00af6d",
+    "num": "dailymirrorlk-de00af6d",
+    "date_str": "2026-10-19",
+    "description": "Thai Deputy PM visited Sri Lanka in private capacity, Foreign Ministry clarifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thai-Deputy-PM-visited-Sri-Lanka-in-private-capacity-Foreign-Ministry-clarifies/108-352896",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792424914.0
   }
 ]
