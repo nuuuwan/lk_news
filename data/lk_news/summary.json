@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-19 18:03:15",
-  "n_docs": 133411,
+  "time_updated": "2026-10-19 19:57:29",
+  "n_docs": 133413,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133411,
+  "n_docs_with_text": 133413,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-19",
-  "dataset_size": 2066244194,
+  "dataset_size": 2066269691,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailymirrorlk-cee38112",
-    "num": "dailymirrorlk-cee38112",
+    "doc_id": "2026-10-19-dailymirrorlk-1bbf4e00",
+    "num": "dailymirrorlk-1bbf4e00",
     "date_str": "2026-10-19",
-    "description": "Verit\u00e9 Research takes debt agenda to IMF-WB meetings",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Verit\u00e9-Research-takes-debt-agenda-to-IMF-WB-meetings/108-352887",
+    "description": "President appoints committee to probe Kavanthissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-appoints-committee-to-probe-Kavanthissas-death/108-352889",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792410742.0
+    "time_ut": 1792418872.0
   }
 }

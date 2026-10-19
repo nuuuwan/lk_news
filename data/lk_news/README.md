@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_18:03:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_19:58:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,411** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,413** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailymirrorlk-cee38112",
-    "num": "dailymirrorlk-cee38112",
+    "doc_id": "2026-10-19-dailymirrorlk-1bbf4e00",
+    "num": "dailymirrorlk-1bbf4e00",
     "date_str": "2026-10-19",
-    "description": "Verit\u00e9 Research takes debt agenda to IMF-WB meetings",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Verit\u00e9-Research-takes-debt-agenda-to-IMF-WB-meetings/108-352887",
+    "description": "President appoints committee to probe Kavanthissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-appoints-committee-to-probe-Kavanthissas-death/108-352889",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792410742.0
+    "time_ut": 1792418872.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-19 | `dailymirrorlk-1bbf4e00` | President appoints committee to probe Kavanthissa’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-1bbf4e00)
+- 2026-10-19 | `dailymirrorlk-897b301f` | UNP questions failure to accord Thai Deputy PM official welcome | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-897b301f)
 - 2026-10-19 | `dailymirrorlk-cee38112` | Verité Research takes debt agenda to IMF-WB meetings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-cee38112)
 - 2026-10-19 | `dailymirrorlk-36d5b4e5` | NSO requests one-hour power cuts in four zones for three days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-36d5b4e5)
 - 2026-10-19 | `dailymirrorlk-adb89582` | Sirisena apologises to Maha Sangha over technical error in Gnanasara Thera’s pardon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-adb89582)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-19 | `dailymirrorlk-2d540b40` | Sri Lanka aims to increase industrial land allocation to 1% by 2030: Sunil Handunnetti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-2d540b40)
 - 2026-10-19 | `dailymirrorlk-1dc9cce3` | US Ambassador holds talks with Defence Secretary on bilateral cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-1dc9cce3)
 - 2026-10-19 | `dailymirrorlk-82467421` | Four killed in Akurana cement truck crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-82467421)
-- 2026-10-19 | `dailymirrorlk-396090cf` | Sajith expresses concern over possible HSBC Services Centre exit from Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-396090cf)
-- 2026-10-19 | `dailymirrorlk-8b364702` | G. L. Peiris summoned before CIABOC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-8b364702)
 
 ---
 

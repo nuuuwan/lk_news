@@ -82139,5 +82139,27 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792410742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-897b301f",
+    "num": "dailymirrorlk-897b301f",
+    "date_str": "2026-10-19",
+    "description": "UNP questions failure to accord Thai Deputy PM official welcome",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-questions-failure-to-accord-Thai-Deputy-PM-official-welcome/108-352888",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792415224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-19-dailymirrorlk-1bbf4e00",
+    "num": "dailymirrorlk-1bbf4e00",
+    "date_str": "2026-10-19",
+    "description": "President appoints committee to probe Kavanthissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-appoints-committee-to-probe-Kavanthissas-death/108-352889",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792418872.0
   }
 ]
