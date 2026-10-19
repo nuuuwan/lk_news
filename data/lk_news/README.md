@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_15:56:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--19_18:03:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,407** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,411** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailymirrorlk-528aeb01",
-    "num": "dailymirrorlk-528aeb01",
+    "doc_id": "2026-10-19-dailymirrorlk-cee38112",
+    "num": "dailymirrorlk-cee38112",
     "date_str": "2026-10-19",
-    "description": "Daily Mirror wins environment awards",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Daily-Mirror-wins-environment-awards/110-352881",
+    "description": "Verit\u00e9 Research takes debt agenda to IMF-WB meetings",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Verit\u00e9-Research-takes-debt-agenda-to-IMF-WB-meetings/108-352887",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792404926.0
+    "time_ut": 1792410742.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-19 | `dailymirrorlk-cee38112` | Verité Research takes debt agenda to IMF-WB meetings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-cee38112)
+- 2026-10-19 | `dailymirrorlk-36d5b4e5` | NSO requests one-hour power cuts in four zones for three days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-36d5b4e5)
+- 2026-10-19 | `dailymirrorlk-adb89582` | Sirisena apologises to Maha Sangha over technical error in Gnanasara Thera’s pardon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-adb89582)
+- 2026-10-19 | `dailymirrorlk-e86063e3` | Speaker endorses Anti-Corruption (Amendment) Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-e86063e3)
 - 2026-10-19 | `dailymirrorlk-528aeb01` | Daily Mirror wins environment awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-528aeb01)
 - 2026-10-19 | `dailymirrorlk-341f57ce` | SLPA plans new logistics hub at Colombo Port under PPP model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-341f57ce)
 - 2026-10-19 | `dailymirrorlk-3cc10aed` | Injured elephant Agbo located in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-3cc10aed)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-19 | `dailymirrorlk-82467421` | Four killed in Akurana cement truck crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-82467421)
 - 2026-10-19 | `dailymirrorlk-396090cf` | Sajith expresses concern over possible HSBC Services Centre exit from Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-396090cf)
 - 2026-10-19 | `dailymirrorlk-8b364702` | G. L. Peiris summoned before CIABOC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-8b364702)
-- 2026-10-19 | `dailymirrorlk-877b426a` | Sri Lanka opens first Chinese Yuan clearing bank in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-877b426a)
-- 2026-10-19 | `dailymirrorlk-f8d02d5f` | Sri Lankan woman gives birth to baby aboard flight from Kuwait to Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-f8d02d5f)
-- 2026-10-19 | `dailymirrorlk-ec710191` | Hand, foot and mouth disease cases rise- Parents urged to stay alert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-ec710191)
-- 2026-10-19 | `dailymirrorlk-6e05445f` | Sri Lanka not the only country to give Buddhism foremost place: Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-6e05445f)
 
 ---
 
