@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_03:56:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_06:17:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,420** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-19-dailymirrorlk-de00af6d",
-    "num": "dailymirrorlk-de00af6d",
-    "date_str": "2026-10-19",
-    "description": "Thai Deputy PM visited Sri Lanka in private capacity, Foreign Ministry clarifies",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thai-Deputy-PM-visited-Sri-Lanka-in-private-capacity-Foreign-Ministry-clarifies/108-352896",
+    "doc_id": "2026-10-20-dailyftlk-723cdaa2",
+    "num": "dailyftlk-723cdaa2",
+    "date_str": "2026-10-20",
+    "description": "Colombo forum advances South Asia\u2019s circular economy agenda",
+    "url_metadata": "https://www.ft.lk/business/Colombo-forum-advances-South-Asia-s-circular-economy-agenda/34-798899",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792424914.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792456892.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-20 | `dailyftlk-723cdaa2` | Colombo forum advances South Asia’s circular economy agenda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-723cdaa2)
+- 2026-10-20 | `dailyftlk-b47d45be` | SLID launches Women In Leadership intake 4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-b47d45be)
+- 2026-10-20 | `dailyftlk-812f8f89` | Maize import restrictions put Sri Lanka’s poultry export ambitions at risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-812f8f89)
+- 2026-10-20 | `dailyftlk-0359a310` | Personal Income Taxation - A growing burden for Sri Lankans and economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-0359a310)
+- 2026-10-20 | `dailyftlk-098f1e15` | “Buddy-Racketeers” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-098f1e15)
+- 2026-10-20 | `dailyftlk-5dbee246` | War on rights: Protection from Organised Crimes Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailyftlk-5dbee246)
 - 2026-10-19 | `dailymirrorlk-de00af6d` | Thai Deputy PM visited Sri Lanka in private capacity, Foreign Ministry clarifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-de00af6d)
 - 2026-10-19 | `dailymirrorlk-2970f442` | Customs seize narcotics worth Rs. 67.5 million at Central Mail Exchange | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-2970f442)
 - 2026-10-19 | `dailymirrorlk-440c5025` | Sri Lanka’s first insulin manufacturing plant to begin production in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-440c5025)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-19 | `dailymirrorlk-b6e22bfc` | At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-b6e22bfc)
 - 2026-10-19 | `dailymirrorlk-528aeb01` | Daily Mirror wins environment awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-528aeb01)
 - 2026-10-19 | `dailymirrorlk-341f57ce` | SLPA plans new logistics hub at Colombo Port under PPP model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-341f57ce)
-- 2026-10-19 | `dailymirrorlk-3cc10aed` | Injured elephant Agbo located in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-3cc10aed)
-- 2026-10-19 | `dailymirrorlk-3db286fb` | Kavantissa’s death highlights need to end wildlife killings: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-3db286fb)
-- 2026-10-19 | `dailymirrorlk-c5f1c72e` | France’s Macron declines interior minister’s offer to resign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-c5f1c72e)
-- 2026-10-19 | `dailymirrorlk-2f1fcdd2` | Satyagraha for Gnanasara Thera’s release continues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-2f1fcdd2)
-- 2026-10-19 | `dailymirrorlk-aee0655a` | Kylie Jenner sparks backlash after wearing $50M fantasy bra at Victoria’s Secret show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-aee0655a)
-- 2026-10-19 | `dailymirrorlk-b36edb95` | Sajith says tusker Agbo is safe and well | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-19-dailymirrorlk-b36edb95)
 
 ---
 

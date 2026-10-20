@@ -82238,5 +82238,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792424914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-5dbee246",
+    "num": "dailyftlk-5dbee246",
+    "date_str": "2026-10-20",
+    "description": "War on rights: Protection from Organised Crimes Bill",
+    "url_metadata": "https://www.ft.lk/columns/War-on-rights-Protection-from-Organised-Crimes-Bill/4-798879",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792452823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-098f1e15",
+    "num": "dailyftlk-098f1e15",
+    "date_str": "2026-10-20",
+    "description": "\u201cBuddy-Racketeers\u201d",
+    "url_metadata": "https://www.ft.lk/columns/Buddy-Racketeers/4-798881",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792453243.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-0359a310",
+    "num": "dailyftlk-0359a310",
+    "date_str": "2026-10-20",
+    "description": "Personal Income Taxation - A growing burden for Sri Lankans and economy",
+    "url_metadata": "https://www.ft.lk/columns/Personal-Income-Taxation-A-growing-burden-for-Sri-Lankans-and-economy/4-798883",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792453975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-812f8f89",
+    "num": "dailyftlk-812f8f89",
+    "date_str": "2026-10-20",
+    "description": "Maize import restrictions put Sri Lanka\u2019s poultry export ambitions at risk",
+    "url_metadata": "https://www.ft.lk/columns/Maize-import-restrictions-put-Sri-Lanka-s-poultry-export-ambitions-at-risk/4-798885",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792454463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-b47d45be",
+    "num": "dailyftlk-b47d45be",
+    "date_str": "2026-10-20",
+    "description": "SLID launches Women In Leadership intake 4",
+    "url_metadata": "https://www.ft.lk/business/SLID-launches-Women-In-Leadership-intake-4/34-798898",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792456847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailyftlk-723cdaa2",
+    "num": "dailyftlk-723cdaa2",
+    "date_str": "2026-10-20",
+    "description": "Colombo forum advances South Asia\u2019s circular economy agenda",
+    "url_metadata": "https://www.ft.lk/business/Colombo-forum-advances-South-Asia-s-circular-economy-agenda/34-798899",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792456892.0
   }
 ]
