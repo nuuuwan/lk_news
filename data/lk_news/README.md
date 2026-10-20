@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_22:00:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_00:01:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,509** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,510** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-10-20 | `dailymirrorlk-549c10e3` | Restaurant owner shot dead in Moratuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-549c10e3)
 - 2026-10-20 | `dailymirrorlk-3032b5d3` | Transport Authority timekeeper arrested over Rs. 100 bribe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-3032b5d3)
 - 2026-10-20 | `dailymirrorlk-ae1986b9` | Gnanasara Thera to be taken to court in robes on October 23 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-ae1986b9)
+- 2026-10-20 | `dailymirrorlk-566a4a89` | 13 killed, 34 injured after large truck crashes into tour bus in Egypt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-566a4a89)
 - 2026-10-20 | `dailymirrorlk-05d77b85` | CSE tests 20,000 as selective buying support emerges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-05d77b85)
 - 2026-10-20 | `dailymirrorlk-88f72d5e` | Two killed by lightning strike in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-88f72d5e)
 - 2026-10-20 | `dailymirrorlk-10ae0709` | France to impose new curfews where necessary: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-10ae0709)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-20 | `dailymirrorlk-36143ae6` | Traffic restrictions near D.S. Junction due to water pipe repairs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-36143ae6)
 - 2026-10-20 | `dailymirrorlk-d24d142d` | President pays last respects to Kappetiyagoda Siri Wimala Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-d24d142d)
 - 2026-10-20 | `dailymirrorlk-2bfaf627` | Cartoon of the Day 20 -10-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-2bfaf627)
-- 2026-10-20 | `dailymirrorlk-56598cf9` | Organised Crimes Bill does not target people with tattoos or long hair: Justice Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-56598cf9)
 
 ---
 
