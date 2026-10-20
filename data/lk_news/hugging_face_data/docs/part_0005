@@ -83151,5 +83151,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792498503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-10ae0709",
+    "num": "dailymirrorlk-10ae0709",
+    "date_str": "2026-10-20",
+    "description": "France to impose new curfews where necessary: PM",
+    "url_metadata": "https://www.dailymirror.lk/international/France-to-impose-new-curfews-where-necessary-PM/107-352990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792498931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-88f72d5e",
+    "num": "dailymirrorlk-88f72d5e",
+    "date_str": "2026-10-20",
+    "description": "Two killed by lightning strike in Anuradhapura",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-killed-by-lightning-strike-in-Anuradhapura/108-352991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792502066.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-05d77b85",
+    "num": "dailymirrorlk-05d77b85",
+    "date_str": "2026-10-20",
+    "description": "CSE tests 20,000 as selective buying support emerges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-tests-20-000-as-selective-buying-support-emerges/108-352992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792502789.0
   }
 ]
