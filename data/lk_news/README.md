@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_12:06:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--20_14:01:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,459** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,476** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-20-dailymirrorlk-d37886e4",
-    "num": "dailymirrorlk-d37886e4",
+    "doc_id": "2026-10-20-dailymirrorlk-102f56fa",
+    "num": "dailymirrorlk-102f56fa",
     "date_str": "2026-10-20",
-    "description": "Kawantissa died of gunshot injuries: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kawantissa-died-of-gunshot-injuries-Minister/108-352952",
+    "description": "Sajith proposes separate armed force to protect super tuskers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-proposes-separate-armed-force-to-protect-super-tuskers/108-352965",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792477158.0
+    "time_ut": 1792480233.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-20 | `dailymirrorlk-102f56fa` | Sajith proposes separate armed force to protect super tuskers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-102f56fa)
+- 2026-10-20 | `dailymirrorlk-8e756a01` | Litro says islandwide gas distribution running smoothly | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-8e756a01)
+- 2026-10-20 | `dailymirrorlk-3aded0e7` | G.L. Peiris leaves Bribery Commission after giving statement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-3aded0e7)
+- 2026-10-20 | `dailymirrorlk-9fd68fca` | Hegseth meets Netanyahu in unannounced Israel visit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-9fd68fca)
+- 2026-10-20 | `dailymirrorlk-c61ff5a6` | Social media influence on elections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-c61ff5a6)
+- 2026-10-20 | `dailymirrorlk-bfe3d69a` | The raid on Congresswoman Ilhan Omar: Trump uses executive power to cripple political opponents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-bfe3d69a)
+- 2026-10-20 | `dailymirrorlk-abc45e86` | PUNISHMENT IS ONE THING. HATRED IS ANOTHER! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-abc45e86)
 - 2026-10-20 | `dailymirrorlk-d37886e4` | Kawantissa died of gunshot injuries: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-d37886e4)
 - 2026-10-20 | `dailymirrorlk-06f3f716` | Amber warning issued for severe lightning in seven provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-06f3f716)
 - 2026-10-20 | `dailymirrorlk-368a4c69` | Stop the culture of killing tuskers : Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-368a4c69)
@@ -50,17 +57,10 @@ A collection of lk_news documents.
 - 2026-10-20 | `dailymirrorlk-8a226719` | Geopolitical pressure, among others, suspected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-8a226719)
 - 2026-10-20 | `dailymirrorlk-0775a692` | Ven. Kappetiyagoda Sirivimala Thera’s cremation tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-0775a692)
 - 2026-10-20 | `dailymirrorlk-1f30006d` | 13-member committee appointed to oversee anti-corruption action plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-1f30006d)
-- 2026-10-20 | `dailymirrorlk-be753026` | Ronaldo fined $286, given 30-day suspension for leaving Portugal camp early | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-be753026)
-- 2026-10-20 | `dailymirrorlk-cc473b2f` | Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-cc473b2f)
-- 2026-10-20 | `dailymirrorlk-340812b4` | Priest killed by falling crucifix during live streamed Mass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-340812b4)
-- 2026-10-20 | `dailymirrorlk-ea928023` | Vijitha Herath concludes official visit to Azerbaijan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-ea928023)
-- 2026-10-20 | `dailymirrorlk-624d77e0` | Speaker rules out debate on judicial appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-624d77e0)
-- 2026-10-20 | `dailymirrorlk-58292a85` | Inferior coal costs government Rs. 18.3 Billion: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-58292a85)
-- 2026-10-20 | `dailymirrorlk-bdca985b` | 30 petitions filed against Sri Lanka Cricket Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-bdca985b)
-- 2026-10-20 | `dailymirrorlk-43a95af6` | CP Governor suspends functions of Pathahewaheta Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-43a95af6)
-- 2026-10-20 | `dailymirrorlk-69bcb2b6` | France imposes curfews in parts of Paris, other cities after weekend of riots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-69bcb2b6)
-- 2026-10-20 | `dailymirrorlk-52d6f8c8` | Sri Lanka to host 69th IPA World Congress 2026 in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-52d6f8c8)
-- 2026-10-20 | `dailymirrorlk-7d14dd17` | Mission blasts off for Mars to grab a piece of its moon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-7d14dd17)
+- 2026-10-20 | `dailymirrorlk-af11ba1c` | Tea production hits decade low as September output slides | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-af11ba1c)
+- 2026-10-20 | `dailymirrorlk-c6ed681d` | Sri Lanka targets to increase industrial land allocation to 1% by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-c6ed681d)
+- 2026-10-20 | `dailymirrorlk-341f57ce` | SLPA plans new logistics hub at Colombo Port under PPP model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-341f57ce)
+- 2026-10-20 | `dailymirrorlk-93f4fce8` | Direct yuan settlement to ease Sri Lanka-China trade payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-93f4fce8)
 
 ---
 

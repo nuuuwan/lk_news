@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-20 12:05:31",
-  "n_docs": 133459,
+  "time_updated": "2026-10-20 14:00:29",
+  "n_docs": 133476,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133459,
+  "n_docs_with_text": 133476,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-20",
-  "dataset_size": 2066691630,
+  "dataset_size": 2066854661,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-20-dailymirrorlk-d37886e4",
-    "num": "dailymirrorlk-d37886e4",
+    "doc_id": "2026-10-20-dailymirrorlk-102f56fa",
+    "num": "dailymirrorlk-102f56fa",
     "date_str": "2026-10-20",
-    "description": "Kawantissa died of gunshot injuries: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kawantissa-died-of-gunshot-injuries-Minister/108-352952",
+    "description": "Sajith proposes separate armed force to protect super tuskers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-proposes-separate-armed-force-to-protect-super-tuskers/108-352965",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792477158.0
+    "time_ut": 1792480233.0
   }
 }
