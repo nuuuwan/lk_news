@@ -82381,5 +82381,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792461408.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-09036f4b",
+    "num": "dailymirrorlk-09036f4b",
+    "date_str": "2026-10-20",
+    "description": "Iran threatens seven undersea internet cables in Strait of Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-threatens-seven-undersea-internet-cables-in-Strait-of-Hormuz/108-352899",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792463525.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-607691ea",
+    "num": "dailymirrorlk-607691ea",
+    "date_str": "2026-10-20",
+    "description": "Trump open to idea of joint meeting with Xi, Putin next month",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-open-to-idea-of-joint-meeting-with-Xi-Putin-next-month/108-352900",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792463982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-8d08b42b",
+    "num": "dailymirrorlk-8d08b42b",
+    "date_str": "2026-10-20",
+    "description": "Nestl\u00e9 NESTOMALT Wins Gold at the Dragons of Asia Awards 2026",
+    "url_metadata": "https://www.dailymirror.lk/business/Nestl\u00e9-NESTOMALT-Wins-Gold-at-the-Dragons-of-Asia-Awards-2026/215-352901",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792464475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-627689ce",
+    "num": "dailymirrorlk-627689ce",
+    "date_str": "2026-10-20",
+    "description": "Ajith P. Perera challenges Constitutionality of PSTA Bill before Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ajith-P-Perera-challenges-Constitutionality-of-PSTA-Bill-before-Supreme-Court/108-352903",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792467293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-a62f989d",
+    "num": "dailymirrorlk-a62f989d",
+    "date_str": "2026-10-20",
+    "description": "22 petitions against PSTA Bill to be heard today in Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/22-petitions-against-PSTA-Bill-to-be-heard-today-in-Supreme-Court/108-352904",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792467906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-20-dailymirrorlk-3f57a5cd",
+    "num": "dailymirrorlk-3f57a5cd",
+    "date_str": "2026-10-20",
+    "description": "G.L. Peiris arrives at Bribery Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/G-L-Peiris-arrives-at-Bribery-Commission/108-352905",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792469608.0
   }
 ]
