@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_06:18:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_08:03:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,519** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,529** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailyftlk-2ff421eb",
-    "num": "dailyftlk-2ff421eb",
+    "doc_id": "2026-10-21-dailymirrorlk-ebdbd8d1",
+    "num": "dailymirrorlk-ebdbd8d1",
     "date_str": "2026-10-21",
-    "description": "The role of economic science in an era of global power dynamics",
-    "url_metadata": "https://www.ft.lk/columns/The-role-of-economic-science-in-an-era-of-global-power-dynamics/4-798930",
+    "description": "Demerit points system to come into effect from April 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Demerit-points-system-to-come-into-effect-from-April-1/108-352998",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1792542785.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792545858.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-21 | `dailymirrorlk-ebdbd8d1` | Demerit points system to come into effect from April 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-ebdbd8d1)
+- 2026-10-21 | `dailyftlk-91545a28` | Connect to Care brings global expertise together to accelerate citizen-focused digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-91545a28)
+- 2026-10-21 | `dailyftlk-e801654f` | DIMO gets Rs. 957 m deal for 200 pickups for Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-e801654f)
+- 2026-10-21 | `dailyftlk-a233ec37` | World Bank Group launches first digital strategy to expand access and create jobs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-a233ec37)
+- 2026-10-21 | `dailyftlk-911f4bc4` | Sri Lanka needs IMF beyond 2027 to counter ‘debt overhang’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-911f4bc4)
+- 2026-10-21 | `dailyftlk-3ee7c48c` | IPS calls for targeted wealth taxation, says VAT cuts premature | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-3ee7c48c)
+- 2026-10-21 | `dailyftlk-656d2eca` | Nawaloka Hospitals PLC Colombo, CFO Theja De Silva named Best CFO of the Year 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-656d2eca)
+- 2026-10-21 | `dailyftlk-73a0776a` | “CNCI Achiever Awards 2026” celebrates 25th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-73a0776a)
+- 2026-10-21 | `dailyftlk-a552da1b` | From Sri Lankan village to Dubai doorstep: Lankan Cart opens Gulf route for small producers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-a552da1b)
+- 2026-10-21 | `dailyftlk-6db30b25` | David Pieris Group strengthens compliance and  good practices among product and services providers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-6db30b25)
 - 2026-10-21 | `dailyftlk-2ff421eb` | The role of economic science in an era of global power dynamics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-2ff421eb)
 - 2026-10-21 | `dailyftlk-49e27059` | Why power cuts again? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-49e27059)
 - 2026-10-21 | `dailyftlk-ad91afa8` | Why small faults are causing nationwide power failures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-ad91afa8)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-10-21 | `dailyftlk-953a239b` | 13-member Parliamentary committee to oversee anti-corruption drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-953a239b)
 - 2026-10-21 | `dailyftlk-eaaf8213` | Cabinet approves extension of Suraksha Student Insurance Scheme with expanded benefits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-eaaf8213)
 - 2026-10-20 | `dailymirrorlk-549c10e3` | Restaurant owner shot dead in Moratuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-549c10e3)
-- 2026-10-20 | `dailymirrorlk-3032b5d3` | Transport Authority timekeeper arrested over Rs. 100 bribe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-3032b5d3)
-- 2026-10-20 | `dailymirrorlk-ae1986b9` | Gnanasara Thera to be taken to court in robes on October 23 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-ae1986b9)
-- 2026-10-20 | `dailymirrorlk-566a4a89` | 13 killed, 34 injured after large truck crashes into tour bus in Egypt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-566a4a89)
-- 2026-10-20 | `dailymirrorlk-05d77b85` | CSE tests 20,000 as selective buying support emerges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-05d77b85)
-- 2026-10-20 | `dailymirrorlk-88f72d5e` | Two killed by lightning strike in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-88f72d5e)
-- 2026-10-20 | `dailymirrorlk-10ae0709` | France to impose new curfews where necessary: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-10ae0709)
-- 2026-10-20 | `dailymirrorlk-a9a193c7` | Landslide warnings issued for five districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-a9a193c7)
-- 2026-10-20 | `dailymirrorlk-eb10a4e7` | No-confidence motion against Speaker drags on | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-eb10a4e7)
-- 2026-10-20 | `dailymirrorlk-ef71434c` | State patronage for cremation of Ven. Keppetiyagoda Siriwimalabhidhana Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-ef71434c)
-- 2026-10-20 | `dailymirrorlk-95aee922` | SriLankan Airlines controlled by hackers: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-95aee922)
 
 ---
 
