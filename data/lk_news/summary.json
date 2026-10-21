@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-21 15:59:43",
-  "n_docs": 133603,
+  "time_updated": "2026-10-21 18:04:07",
+  "n_docs": 133607,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133603,
+  "n_docs_with_text": 133607,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-21",
-  "dataset_size": 2068119869,
+  "dataset_size": 2068459166,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailymirrorlk-6c473bc4",
-    "num": "dailymirrorlk-6c473bc4",
+    "doc_id": "2026-10-21-dailymirrorlk-e73f9191",
+    "num": "dailymirrorlk-e73f9191",
     "date_str": "2026-10-21",
-    "description": "As many as 455 wild elephants killed in 2025",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/As-many-as-455-wild-elephants-killed-in-2025/108-353070",
+    "description": "GPS Health, Ceylinco Life partner to introduce digital cashless hospitalisation service",
+    "url_metadata": "https://www.dailymirror.lk/business/GPS-Health-Ceylinco-Life-partner-to-introduce-digital-cashless-hospitalisation-service/215-353074",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792577218.0
+    "time_ut": 1792584924.0
   }
 }

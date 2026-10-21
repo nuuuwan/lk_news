@@ -84251,5 +84251,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792577218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-e323a9f6",
+    "num": "dailymirrorlk-e323a9f6",
+    "date_str": "2026-10-21",
+    "description": "Sri Lanka Police warn public of AI Deepfake scams",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-warn-public-of-AI-Deepfake-scams/108-353071",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792577674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-cc92d0db",
+    "num": "dailymirrorlk-cc92d0db",
+    "date_str": "2026-10-21",
+    "description": "Dutch prime minister expecting first child via surrogate mother",
+    "url_metadata": "https://www.dailymirror.lk/international/Dutch-prime-minister-expecting-first-child-via-surrogate-mother/107-353072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792577929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-c54329b0",
+    "num": "dailymirrorlk-c54329b0",
+    "date_str": "2026-10-21",
+    "description": "SriLankan Airlines denies claims of cyberattack on IT systems",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-denies-claims-of-cyberattack-on-IT-systems/108-353073",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792583389.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-e73f9191",
+    "num": "dailymirrorlk-e73f9191",
+    "date_str": "2026-10-21",
+    "description": "GPS Health, Ceylinco Life partner to introduce digital cashless hospitalisation service",
+    "url_metadata": "https://www.dailymirror.lk/business/GPS-Health-Ceylinco-Life-partner-to-introduce-digital-cashless-hospitalisation-service/215-353074",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792584924.0
   }
 ]
