@@ -83228,5 +83228,104 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792512452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-eaaf8213",
+    "num": "dailyftlk-eaaf8213",
+    "date_str": "2026-10-21",
+    "description": "Cabinet approves extension of Suraksha Student Insurance Scheme with expanded benefits",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-extension-of-Suraksha-Student-Insurance-Scheme-with-expanded-benefits/56-798919",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792536032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-953a239b",
+    "num": "dailyftlk-953a239b",
+    "date_str": "2026-10-21",
+    "description": "13-member Parliamentary committee to oversee anti-corruption drive",
+    "url_metadata": "https://www.ft.lk/news/13-member-Parliamentary-committee-to-oversee-anti-corruption-drive/56-798920",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792536060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-4ea2d9ea",
+    "num": "dailyftlk-4ea2d9ea",
+    "date_str": "2026-10-21",
+    "description": "Supreme Court hears petitions against anti-terror Bill",
+    "url_metadata": "https://www.ft.lk/news/Supreme-Court-hears-petitions-against-anti-terror-Bill/56-798921",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792536096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-16a5bf66",
+    "num": "dailyftlk-16a5bf66",
+    "date_str": "2026-10-21",
+    "description": "CII delegation visits EDB to explore opportunities at Sri Lanka Expo 2027",
+    "url_metadata": "https://www.ft.lk/business/CII-delegation-visits-EDB-to-explore-opportunities-at-Sri-Lanka-Expo-2027/34-798922",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792536181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-2c50f4e9",
+    "num": "dailyftlk-2c50f4e9",
+    "date_str": "2026-10-21",
+    "description": "Premium International Injectable advances pharmaceutical manufacturing ambitions in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Premium-International-Injectable-advances-pharmaceutical-manufacturing-ambitions-in-Sri-Lanka/56-798923",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792536291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-8ab4eea7",
+    "num": "dailyftlk-8ab4eea7",
+    "date_str": "2026-10-21",
+    "description": "Growth at 4.2%: Real test facing Sri Lanka\u2019s economy",
+    "url_metadata": "https://www.ft.lk/columns/Growth-at-4-2-Real-test-facing-Sri-Lanka-s-economy/4-798925",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792541675.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-ad91afa8",
+    "num": "dailyftlk-ad91afa8",
+    "date_str": "2026-10-21",
+    "description": "Why small faults are causing nationwide power failures",
+    "url_metadata": "https://www.ft.lk/columns/Why-small-faults-are-causing-nationwide-power-failures/4-798928",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792542201.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-49e27059",
+    "num": "dailyftlk-49e27059",
+    "date_str": "2026-10-21",
+    "description": "Why power cuts again?",
+    "url_metadata": "https://www.ft.lk/columns/Why-power-cuts-again/4-798929",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792542534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailyftlk-2ff421eb",
+    "num": "dailyftlk-2ff421eb",
+    "date_str": "2026-10-21",
+    "description": "The role of economic science in an era of global power dynamics",
+    "url_metadata": "https://www.ft.lk/columns/The-role-of-economic-science-in-an-era-of-global-power-dynamics/4-798930",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792542785.0
   }
 ]
