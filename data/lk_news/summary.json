@@ -2,21 +2,21 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-21 12:05:23",
-  "n_docs": 133547,
+  "time_updated": "2026-10-21 14:00:38",
+  "n_docs": 133569,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133547,
+  "n_docs_with_text": 133569,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-21",
-  "dataset_size": 2067578279,
+  "dataset_size": 2067762017,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
     "http://sinhala.adaderana.lk",
-    "https://www.ada.lk",
     "https://www.dailymirror.lk",
+    "https://www.ada.lk",
     "https://www.ft.lk",
     "https://www.adaderana.lk",
     "http://island.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailymirrorlk-c3a63a48",
-    "num": "dailymirrorlk-c3a63a48",
+    "doc_id": "2026-10-21-dailymirrorlk-8096987c",
+    "num": "dailymirrorlk-8096987c",
     "date_str": "2026-10-21",
-    "description": "Norochcholai power plant to resume operation by tomorrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Norochcholai-power-plant-to-resume-operation-by-tomorrow/108-353052",
+    "description": "Myanmar national arrested with Kush worth Rs. 46.4 million",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Myanmar-national-arrested-with-Kush-worth-Rs-46-4-million/108-353059",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792563646.0
+    "time_ut": 1792568387.0
   }
 }
