@@ -3,6 +3,7 @@
   "no_data": [
     "adaderanalk",
     "adaderanasinhalalk",
+    "adalk",
     "bbccomsinhala",
     "ceylontodaylk",
     "colombotelegraphcom",
@@ -10,7 +11,6 @@
     "dbsjeyarajcom",
     "divainalk",
     "economynextcom",
-    "islandlk",
     "lankadeepalk",
     "newsfirstlk",
     "tamilmirrorlk",
@@ -19,6 +19,6 @@
   "newspaper_to_n": {
     "dailymirrorlk": 422,
     "dailyftlk": 82,
-    "adalk": 7
+    "islandlk": 18
   }
 }
