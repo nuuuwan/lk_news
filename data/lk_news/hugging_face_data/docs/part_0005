@@ -83437,5 +83437,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792545858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-baf6142e",
+    "num": "dailymirrorlk-baf6142e",
+    "date_str": "2026-10-21",
+    "description": "Holiday resort owner murdered in Trincomalee",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Holiday-resort-owner-murdered-in-Trincomalee/108-353003",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792552337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-d6f42aff",
+    "num": "dailymirrorlk-d6f42aff",
+    "date_str": "2026-10-21",
+    "description": "\u2019Mahason Pideniya\u2019 ritual to ward off evil",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Mahason-Pideniya-ritual-to-ward-off-evil/110-353008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792553350.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-1549564d",
+    "num": "dailymirrorlk-1549564d",
+    "date_str": "2026-10-21",
+    "description": "Wheat flour price increased",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wheat-flour-price-increased/108-353011",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792553977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-ae310dbb",
+    "num": "dailymirrorlk-ae310dbb",
+    "date_str": "2026-10-21",
+    "description": "Trump administration says it has revoked over 300,000 visas",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-administration-says-it-has-revoked-over-300-000-visas/107-353013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792554453.0
   }
 ]

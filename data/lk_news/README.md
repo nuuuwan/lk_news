@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_08:03:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_09:58:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,529** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**133,533** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailymirrorlk-ebdbd8d1",
-    "num": "dailymirrorlk-ebdbd8d1",
+    "doc_id": "2026-10-21-dailymirrorlk-ae310dbb",
+    "num": "dailymirrorlk-ae310dbb",
     "date_str": "2026-10-21",
-    "description": "Demerit points system to come into effect from April 1",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Demerit-points-system-to-come-into-effect-from-April-1/108-352998",
+    "description": "Trump administration says it has revoked over 300,000 visas",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-administration-says-it-has-revoked-over-300-000-visas/107-353013",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792545858.0
+    "time_ut": 1792554453.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-21 | `dailymirrorlk-ae310dbb` | Trump administration says it has revoked over 300,000 visas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-ae310dbb)
+- 2026-10-21 | `dailymirrorlk-1549564d` | Wheat flour price increased | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-1549564d)
+- 2026-10-21 | `dailymirrorlk-d6f42aff` | ’Mahason Pideniya’ ritual to ward off evil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-d6f42aff)
+- 2026-10-21 | `dailymirrorlk-baf6142e` | Holiday resort owner murdered in Trincomalee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-baf6142e)
 - 2026-10-21 | `dailymirrorlk-ebdbd8d1` | Demerit points system to come into effect from April 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-ebdbd8d1)
 - 2026-10-21 | `dailyftlk-91545a28` | Connect to Care brings global expertise together to accelerate citizen-focused digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-91545a28)
 - 2026-10-21 | `dailyftlk-e801654f` | DIMO gets Rs. 957 m deal for 200 pickups for Police | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-e801654f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-21 | `dailyftlk-8ab4eea7` | Growth at 4.2%: Real test facing Sri Lanka’s economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-8ab4eea7)
 - 2026-10-21 | `dailyftlk-2c50f4e9` | Premium International Injectable advances pharmaceutical manufacturing ambitions in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-2c50f4e9)
 - 2026-10-21 | `dailyftlk-16a5bf66` | CII delegation visits EDB to explore opportunities at Sri Lanka Expo 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-16a5bf66)
-- 2026-10-21 | `dailyftlk-4ea2d9ea` | Supreme Court hears petitions against anti-terror Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-4ea2d9ea)
-- 2026-10-21 | `dailyftlk-953a239b` | 13-member Parliamentary committee to oversee anti-corruption drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-953a239b)
-- 2026-10-21 | `dailyftlk-eaaf8213` | Cabinet approves extension of Suraksha Student Insurance Scheme with expanded benefits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailyftlk-eaaf8213)
-- 2026-10-20 | `dailymirrorlk-549c10e3` | Restaurant owner shot dead in Moratuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-20-dailymirrorlk-549c10e3)
 
 ---
 
