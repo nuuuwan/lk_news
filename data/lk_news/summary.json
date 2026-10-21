@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-21 18:04:07",
-  "n_docs": 133607,
+  "time_updated": "2026-10-21 19:58:36",
+  "n_docs": 133612,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133607,
+  "n_docs_with_text": 133612,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-21",
-  "dataset_size": 2068459166,
+  "dataset_size": 2068495118,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailymirrorlk-e73f9191",
-    "num": "dailymirrorlk-e73f9191",
+    "doc_id": "2026-10-21-dailymirrorlk-81cf1e59",
+    "num": "dailymirrorlk-81cf1e59",
     "date_str": "2026-10-21",
-    "description": "GPS Health, Ceylinco Life partner to introduce digital cashless hospitalisation service",
-    "url_metadata": "https://www.dailymirror.lk/business/GPS-Health-Ceylinco-Life-partner-to-introduce-digital-cashless-hospitalisation-service/215-353074",
+    "description": "BASL calls for withdrawal of terrorism, organised crime bills",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-withdrawal-of-terrorism-organised-crime-bills/108-353080",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792584924.0
+    "time_ut": 1792591620.0
   }
 }

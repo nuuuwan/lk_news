@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_18:04:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--21_19:59:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,607** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,612** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-21-dailymirrorlk-e73f9191",
-    "num": "dailymirrorlk-e73f9191",
+    "doc_id": "2026-10-21-dailymirrorlk-81cf1e59",
+    "num": "dailymirrorlk-81cf1e59",
     "date_str": "2026-10-21",
-    "description": "GPS Health, Ceylinco Life partner to introduce digital cashless hospitalisation service",
-    "url_metadata": "https://www.dailymirror.lk/business/GPS-Health-Ceylinco-Life-partner-to-introduce-digital-cashless-hospitalisation-service/215-353074",
+    "description": "BASL calls for withdrawal of terrorism, organised crime bills",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-withdrawal-of-terrorism-organised-crime-bills/108-353080",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792584924.0
+    "time_ut": 1792591620.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-21 | `dailymirrorlk-81cf1e59` | BASL calls for withdrawal of terrorism, organised crime bills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-81cf1e59)
+- 2026-10-21 | `dailymirrorlk-d160de69` | Over 2,000 undelivered letters found under postman’s bed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-d160de69)
+- 2026-10-21 | `dailymirrorlk-3952dba6` | Two spillway gates opened at Upper Kotmale Reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-3952dba6)
+- 2026-10-21 | `dailymirrorlk-a3c501b0` | Kendu leaves smuggling attempt foiled off Udappuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-a3c501b0)
+- 2026-10-21 | `dailymirrorlk-1719238a` | No shortages of gas, fuel, fertiliser or medicine: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-1719238a)
 - 2026-10-21 | `dailymirrorlk-e73f9191` | GPS Health, Ceylinco Life partner to introduce digital cashless hospitalisation service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-e73f9191)
 - 2026-10-21 | `dailymirrorlk-c54329b0` | SriLankan Airlines denies claims of cyberattack on IT systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-c54329b0)
 - 2026-10-21 | `dailymirrorlk-cc92d0db` | Dutch prime minister expecting first child via surrogate mother | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-cc92d0db)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-10-21 | `dailymirrorlk-8096987c` | Myanmar national arrested with Kush worth Rs. 46.4 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-8096987c)
 - 2026-10-21 | `dailymirrorlk-08896d46` | Missing Sri Lankan cat ’Chuuti’ found at Dubai Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-08896d46)
 - 2026-10-21 | `dailymirrorlk-890b66de` | Billionaire Mukesh Ambani’s Jio launches India’s biggest share sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-890b66de)
-- 2026-10-21 | `dailymirrorlk-97331bfe` | 30 new Fisheries Inspectors appointed to modernise Sri Lanka’s fisheries sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-97331bfe)
-- 2026-10-21 | `dailymirrorlk-682ff34b` | Short eats to go up by Rs. 5 from midnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-682ff34b)
-- 2026-10-21 | `dailymirrorlk-c3a63a48` | Norochcholai power plant to resume operation by tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-c3a63a48)
-- 2026-10-21 | `dailymirrorlk-0e1af4d8` | Nigeria confirms Ebola case in patient who arrived from Uganda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-0e1af4d8)
-- 2026-10-21 | `dailymirrorlk-a9647bb9` | Open warrant issued for Premalal Jayasekara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-a9647bb9)
 
 ---
 
