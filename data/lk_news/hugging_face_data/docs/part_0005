@@ -84350,5 +84350,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792591620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-9af5f9bc",
+    "num": "dailymirrorlk-9af5f9bc",
+    "date_str": "2026-10-21",
+    "description": "Two spill gates opened at Deduru Oya Reservoir; public urged to remain vigilant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-spill-gates-opened-at-Deduru-Oya-Reservoir-public-urged-to-remain-vigilant/108-353081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792592786.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-6279c8a0",
+    "num": "dailymirrorlk-6279c8a0",
+    "date_str": "2026-10-21",
+    "description": "CSE holds near 20,000 as selective support emerges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-holds-near-20-000-as-selective-support-emerges/108-353082",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792592898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-9c63f89e",
+    "num": "dailymirrorlk-9c63f89e",
+    "date_str": "2026-10-21",
+    "description": "Tattoos, dress styles and military uniforms considered organised crime under proposed law",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tattoos-dress-styles-and-military-uniforms-considered-organised-crime-under-proposed-law/108-353084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792594022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-63a8ce7a",
+    "num": "dailymirrorlk-63a8ce7a",
+    "date_str": "2026-10-21",
+    "description": "Gampaha Magistrate seeks contempt action against IGP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gampaha-Magistrate-seeks-contempt-action-against-IGP/108-353085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792594488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-35df1446",
+    "num": "dailymirrorlk-35df1446",
+    "date_str": "2026-10-21",
+    "description": "Parents film reel on beach, ignore child battling waves until stranger rescues her",
+    "url_metadata": "https://www.dailymirror.lk/international/Parents-film-reel-on-beach-ignore-child-battling-waves-until-stranger-rescues-her/107-353086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792594687.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-7458f4fa",
+    "num": "dailymirrorlk-7458f4fa",
+    "date_str": "2026-10-21",
+    "description": "Tender criteria changed to favour Presidential Secretariat official: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tender-criteria-changed-to-favour-Presidential-Secretariat-official-MP/108-353087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792594882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-2661f024",
+    "num": "dailymirrorlk-2661f024",
+    "date_str": "2026-10-21",
+    "description": "CAA not informed of Rs. 13 wheat flour price hike: Chairman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-not-informed-of-Rs-13-wheat-flour-price-hike-Chairman/108-353088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792596085.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-21-dailymirrorlk-3f079356",
+    "num": "dailymirrorlk-3f079356",
+    "date_str": "2026-10-21",
+    "description": "AKD seeks advice from RW\u2019s economic advisor: Harsha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AKD-seeks-advice-from-RWs-economic-advisor-Harsha/108-353089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792597905.0
   }
 ]
