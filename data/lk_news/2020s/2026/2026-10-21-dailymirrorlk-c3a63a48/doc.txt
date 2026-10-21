@@ -1,0 +1,17 @@
+Norochcholai power plant to resume operation by tomorrow
+
+Colombo, Oct. 21 (Daily Mirror) - The National System Operator (Pvt.) Ltd. expects the Norochcholai coal power plant to resume power generation by tomorrow (Thursday), an official said yesterday.
+
+Its chairman, B. L. Pradeep Priyadarshan Perera, told the Daily Mirror over the phone that the plant's shutdown had resulted in a power shortfall of 250 megawatts, prompting the scheduling of power cuts.
+
+“These days, we need 2,800 megawatts of electricity to meet nighttime demand, but we are currently facing a shortfall. On Monday night, we were able to supply only 2,570 megawatts,” he said.
+
+He said furnace oil is used for additional power generation these days .
+
+A nationwide blackout can cause the Norochcholai Lakvijaya coal power plant to shut down because the plant itself relies on a continuous supply of electricity to operate safely.
+
+Although the plant generates electricity for the national grid, it also requires electricity to power its auxiliary systems, including coal-feeding systems that transport coal to the boilers, fans and pumps that maintain combustion and circulate water, cooling-water pumps that remove heat from the plant's equipment, and control and instrumentation systems that monitor and regulate operations.
+
+Under normal operating conditions, these auxiliary systems receive electricity from the plant's own generators or an external supply, depending on the plant's operating configuration.
+
+If a major grid disturbance causes the plant's generator to disconnect from the national grid, the plant must maintain or rapidly restore the electricity supply required by its auxiliary systems. If this supply is interrupted, protective systems may trip the generating unit to prevent equipment damage.
