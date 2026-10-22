@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-22 06:17:48",
-  "n_docs": 133629,
+  "time_updated": "2026-10-22 08:02:33",
+  "n_docs": 133638,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133629,
+  "n_docs_with_text": 133638,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-22",
-  "dataset_size": 2068631165,
+  "dataset_size": 2068800243,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailyftlk-b91b2dba",
-    "num": "dailyftlk-b91b2dba",
+    "doc_id": "2026-10-22-dailyftlk-b497641c",
+    "num": "dailyftlk-b497641c",
     "date_str": "2026-10-22",
-    "description": "Another IMF program in 2028?",
-    "url_metadata": "https://www.ft.lk/columns/Another-IMF-program-in-2028/4-798994",
+    "description": "Sri Lanka promotes Expo 2027 through business outreach program in UK",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-promotes-Expo-2027-through-business-outreach-program-in-UK/34-799009",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1792629200.0
+    "time_ut": 1792632987.0
   }
 }

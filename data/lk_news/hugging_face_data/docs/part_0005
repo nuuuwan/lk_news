@@ -84537,5 +84537,104 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792629200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-561e181c",
+    "num": "dailyftlk-561e181c",
+    "date_str": "2026-10-22",
+    "description": "Dileepa doctrine, Buddhist revivalism, Opposition predicaments, left prospects",
+    "url_metadata": "https://www.ft.lk/columns/Dileepa-doctrine-Buddhist-revivalism-Opposition-predicaments-left-prospects/4-798995",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792631443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-c0a2a0c9",
+    "num": "dailyftlk-c0a2a0c9",
+    "date_str": "2026-10-22",
+    "description": "Protecting Buddhism is a constitutional duty \u2014 but are we truly fostering the Buddha Sasana?",
+    "url_metadata": "https://www.ft.lk/columns/Protecting-Buddhism-is-a-constitutional-duty-but-are-we-truly-fostering-the-Buddha-Sasana/4-798996",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792631803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-eda7699f",
+    "num": "dailyftlk-eda7699f",
+    "date_str": "2026-10-22",
+    "description": "Feminist Collective for Economic Justice condemns NPP\u2019s oppressive laws amidst regressive economic policies",
+    "url_metadata": "https://www.ft.lk/opinion/Feminist-Collective-for-Economic-Justice-condemns-NPP-s-oppressive-laws-amidst-regressive-economic-policies/14-798997",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792631955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-e6b89dbb",
+    "num": "dailyftlk-e6b89dbb",
+    "date_str": "2026-10-22",
+    "description": "Chathuranga to attend NDTV World Summit 2026 on Sri Lanka\u2019s economic transformation",
+    "url_metadata": "https://www.ft.lk/business/Chathuranga-to-attend-NDTV-World-Summit-2026-on-Sri-Lanka-s-economic-transformation/34-798998",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-d63e41f3",
+    "num": "dailyftlk-d63e41f3",
+    "date_str": "2026-10-22",
+    "description": "Sri Lanka strengthens trade and investment engagement with Western Sweden",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-strengthens-trade-and-investment-engagement-with-Western-Sweden/34-798999",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-fcf39e8f",
+    "num": "dailyftlk-fcf39e8f",
+    "date_str": "2026-10-22",
+    "description": "Bimal\u2019s visit to Nordic countries strengthen cooperation in transport, highways and urban development",
+    "url_metadata": "https://www.ft.lk/business/Bimal-s-visit-to-Nordic-countries-strengthen-cooperation-in-transport-highways-and-urban-development/34-799000",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-ae3f4406",
+    "num": "dailyftlk-ae3f4406",
+    "date_str": "2026-10-22",
+    "description": "Unemployment decline masks deeper labour market damage: IPS",
+    "url_metadata": "https://www.ft.lk/business/Unemployment-decline-masks-deeper-labour-market-damage-IPS/34-799007",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632867.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-0254c4e2",
+    "num": "dailyftlk-0254c4e2",
+    "date_str": "2026-10-22",
+    "description": "Graduate growth falls short of economy\u2019s skill needs: IPS",
+    "url_metadata": "https://www.ft.lk/business/Graduate-growth-falls-short-of-economy-s-skill-needs-IPS/34-799008",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-b497641c",
+    "num": "dailyftlk-b497641c",
+    "date_str": "2026-10-22",
+    "description": "Sri Lanka promotes Expo 2027 through business outreach program in UK",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-promotes-Expo-2027-through-business-outreach-program-in-UK/34-799009",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792632987.0
   }
 ]
