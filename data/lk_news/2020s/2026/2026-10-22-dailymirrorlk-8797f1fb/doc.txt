@@ -1,0 +1,87 @@
+What is PHP and why did it spark a global cyber-security scramble?
+
+BBC - For more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet.
+
+It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert.
+
+The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.
+
+Governments and cyber-security agencies around the world are scrambling to contain the fallout of the discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.
+
+Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the "most severe" ever detected by AI.
+
+OpenAI, whose technology was used to find the flaws, called the discovery "one of the most impactful security issues in recent memory".
+
+Most people may not have heard of PHP - short for PHP: Hypertext Preprocessor - but they most certainly interact with it daily.
+
+PHP powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content management system behind many websites like blogs.
+
+When you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.
+
+But due to a flaw that could allow attackers to take control of affected web servers without authentication and steal sensitive data, everything built on PHP was left exposed.
+
+AI could make such attacks easier and faster, Spain said, estimating that the flaw could affect "millions and millions" of websites.
+
+It would be "disastrous" if hackers or countries weaponised the flaw and seized private data from websites, said cyber-security researcher Jill Slay from the University of Adelaide.
+
+The alert has disrupted services globally, from gaming platforms to government portals and online forums.
+
+That includes Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.
+
+Sites and pages have been taken offline by the Finnish government, Edinburgh council and the BBC, with the Netherlands' cyber-security agency also pulling its website.
+
+A number of Scotland's public organisations, including councils and health boards, have also taken their websites offline.
+
+Some experts warn the vulnerability could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.
+
+More attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, cyber-security researcher Salil Kanhere from UNSW Sydney said.
+
+Developers of the PHP platform on Wednesday rolled out patches to fix the vulnerabilities that had been lurking in their software for years.
+
+"All PHP users are strongly encouraged to update immediately," the company said.
+
+Authorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.
+
+The US National Security Agency told all organisations that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a "direct path" to exploit a system's database.
+
+"These risks are serious enough to require immediate patching across United States Government departments and agencies," the agency said.
+
+The UK's National Cyber Security Centre gave similar advice and told organisations to check for "backdoors installed by an attacker".
+
+Its counterparts in the EU, Singapore and Australia have also issued similar alerts.
+
+Japanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+
+"We have an urgent request for everyone to take action tonight," Takaichi wrote on X.
+
+"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk," she said.
+
+E-commerce giant Amazon said it was targeted in multiple attempts days before the public disclosure of the PHP issue. It is unknown how the potential attackers knew about the vulnerability.
+
+The vulnerabilities were found by researchers at the security firms Calif and Wiz.
+
+The researchers used advanced AI tools that are able to analyse code and find flaws much faster than humans or older systems can.
+
+"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years," Kanhere said.
+
+"The underlying bugs weren't new; what changed was our ability to find them," Kanhere said.
+
+Details of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.
+
+The incident "highlights how AI can uncover security flaws" but also how it can "help attackers rapidly develop offensive tools and exploits," OpenAI said in a blog post.
+
+The ChatGPT-maker said it had released a program to check if the PHP platform is secure.
+
+"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind," said Ryan Ko, at the University of Queensland's Cyber Research Centre.
+
+Website owners are being urged to secure their websites with the latest version of PHP.
+
+The PHP software patch is a small, routine fix for most tech teams, Spain said.
+
+The US National Security Agency has urged "heightened awareness" in the coming weeks and to closely monitor updates from software vendors.
+
+"Vigilance in applying patches related to those systems is paramount," it said.
+
+The onus lies mainly on website operators, but users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.
+
+He warned people to be alert to any phishing messages exploiting the publicity around the incident too.

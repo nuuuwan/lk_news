@@ -1,0 +1,11 @@
+Sri Lanka CERT warns of critical PHP security vulnerabilities
+
+Colombo, Oct. 22 (Daily Mirror) -  Sri Lanka CERT has issued a critical cybersecurity alert urging public and private sector organisations and website developers to address security vulnerabilities affecting systems built using PHP.
+
+In a statement issued, CERT warned that the vulnerabilities could expose affected systems to unauthorised access, data theft and operational disruptions.
+
+PHP is a widely used programming language for developing websites and web applications.
+
+CERT urged organisations to identify all systems running PHP, check the software versions in use and promptly install the relevant security updates in accordance with instructions published on the official PHP website.
+
+The alert highlights the need for organisations and website developers to keep their systems updated to reduce the risk of cyberattacks and protect sensitive data.
