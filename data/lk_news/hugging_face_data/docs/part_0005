@@ -84661,6 +84661,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-c91e0409",
+    "num": "dailymirrorlk-c91e0409",
+    "date_str": "2026-10-22",
+    "description": "New Media Solutions breaks regional barriers with dual Dragons of Asia wins",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-Media-Solutions-breaks-regional-barriers-with-dual-Dragons-of-Asia-wins/273-353091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792640798.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-22-dailymirrorlk-160cc725",
     "num": "dailymirrorlk-160cc725",
     "date_str": "2026-10-22",
@@ -85197,5 +85208,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792655667.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-6ccd115e",
+    "num": "dailymirrorlk-6ccd115e",
+    "date_str": "2026-10-22",
+    "description": "Foreign doctors perform complex heart surgeries on 15 Sri Lankan children",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Foreign-doctors-perform-complex-heart-surgeries-on-15-Sri-Lankan-children/108-353161",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792658455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-a04fb1ee",
+    "num": "dailymirrorlk-a04fb1ee",
+    "date_str": "2026-10-22",
+    "description": "Uninterrupted electricity supply to resume from today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Uninterrupted-electricity-supply-to-resume-from-today/108-353163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792658974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-300b2a05",
+    "num": "dailymirrorlk-300b2a05",
+    "date_str": "2026-10-22",
+    "description": "SriLankan Airlines extends Saudi flight suspension until November 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-extends-Saudi-flight-suspension-until-November-1/108-353164",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792659361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-42d821d0",
+    "num": "dailymirrorlk-42d821d0",
+    "date_str": "2026-10-22",
+    "description": "Namal warns against arresting drug addicts to meet targets",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-warns-against-arresting-drug-addicts-to-meet-targets/108-353165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792660145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-a5ce8338",
+    "num": "dailymirrorlk-a5ce8338",
+    "date_str": "2026-10-22",
+    "description": "Low-pressure system over Bay of Bengal may intensify into cyclone",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-over-Bay-of-Bengal-may-intensify-into-cyclone/108-353166",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792660830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-0c019adf",
+    "num": "dailymirrorlk-0c019adf",
+    "date_str": "2026-10-22",
+    "description": "Take Heart Mission saves young lives",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Take-Heart-Mission-saves-young-lives/110-353168",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792663071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-04b01e97",
+    "num": "dailymirrorlk-04b01e97",
+    "date_str": "2026-10-22",
+    "description": "Motorcycles below 50cc must be registered: DMT",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Motorcycles-below-50cc-must-be-registered-DMT/108-353169",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792663122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-aecd2de5",
+    "num": "dailymirrorlk-aecd2de5",
+    "date_str": "2026-10-22",
+    "description": "NMCRP alleges bid to mislead President over palm oil imports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NMCRP-alleges-bid-to-mislead-President-over-palm-oil-imports/108-353170",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792663673.0
   }
 ]
