@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-22 09:57:23",
-  "n_docs": 133643,
+  "time_updated": "2026-10-22 12:06:02",
+  "n_docs": 133655,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133643,
+  "n_docs_with_text": 133655,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-22",
-  "dataset_size": 2068990352,
+  "dataset_size": 2069089425,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailymirrorlk-ed12359a",
-    "num": "dailymirrorlk-ed12359a",
+    "doc_id": "2026-10-22-dailymirrorlk-f70b435f",
+    "num": "dailymirrorlk-f70b435f",
     "date_str": "2026-10-22",
-    "description": "Seylan Bank partners Colombo Motor Show 2026 as Official Banking & Leasing Partner",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-partners-Colombo-Motor-Show-2026-as-Official-Banking-Leasing-Partner/273-353105",
+    "description": "Sri Lankan woman stranded in Cook Islands since 2023 seeks way home",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-woman-stranded-in-Cook-Islands-since-2023-seeks-way-home/108-353147",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792641643.0
+    "time_ut": 1792650300.0
   }
 }

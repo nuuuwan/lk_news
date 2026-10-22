@@ -1,0 +1,53 @@
+Government websites go dark after AI-discovered flaw sparks security scramble
+
+Reuters - Government websites in Europe and elsewhere went offline on Wednesday after the disclosure of ​critical vulnerabilities in a widely used programming language sent website operators around the world scrambling to protect their systems.
+
+Developers of the PHP programming language on Wednesday released urgent new fixes to vulnerabilities that had been lurking ‌in their software for years until they were uncovered using AI, saying all users were "encouraged to update immediately."
+
+With tech firms warning that some hackers were already exploiting the flaws, government agencies across Europe were among those that took sites offline as a precaution.
+
+Because a fix is now public and artificial intelligence tools are able to reverse engineer the bug with little effort, experts said they were bracing for a wave of intrusions as hackers jumped to get ahead of the updates.
+
+AI was powering a "race to exploit," said Costin Raiu, co-founder of cybersecurity research and incident response firm TLP:Black. He ​said the next step was the "mass compromise of every vulnerable web server on the internet."
+
+PHP — a language that dates back to the early 1990s and initially stood for "Personal Home Page" — underpins huge parts of the public-facing web and ​is baked into WordPress, Drupal, Joomla and Magento sites, meaning any critical vulnerability potentially has enormous knock-on consequences.
+
+"All servers using any version of PHP released in the last 20 years will ⁠be vulnerable," said Tiffany Farriss, the interim chief executive of the Drupal Association. "This issue impacts the majority of the internet."
+
+Cybersecurity agencies around the world have urged PHP users to update immediately or take websites offline until patches can be applied.
+
+According to data from ​Censys, the internet intelligence firm, about 1.5 million out of 2.6 million hosts report running a version of PHP for which there is no fix.
+
+The Dutch cybersecurity agency itself went offline, saying it had done so as a precaution because of the vulnerabilities. ​The operator of the online encyclopedia Wikipedia also said it had taken down an unspecified number of systems until they could be safely patched, while the Internet Archive, the sprawling online library, said it also briefly went offline to deal with the issue.
+
+Even some world leaders weighed in. The Dutch prime minister said he was closely monitoring the situation. Japanese Prime Minister Sanae Takaichi in a post on X said website owners should "check whether your live site uses PHP and prepare to apply the new fix."
+
+The flaw in PHP was discovered using artificial intelligence, ​two cybersecurity companies said in independent reports. Calif said in a blog post it found the flaws with the help of a large language model on August 1 and had been working on a fix ever since. Alphabet-owned (GOOGL.O) cybersecurity company Wiz said in a ​blog post that it too had discovered it with the help of Wiz Atlas, its autonomous AI vulnerability research tool, as well as Google's Gemini 4 Argon and OpenAI's GPT-5.6 Sol.
+
+The vulnerabilities remained hidden in the PHP codebase for more than a decade and would have ‌been extraordinarily complicated ⁠for a human hacker to take advantage of, Wiz's post said.
+
+"Pre-AI, this manual work would be difficult to implement and even harder to scale," it said. "With AI, this is no longer a barrier." Calif and Wiz said they coordinated with one another and the PHP team and OpenAI on the discovery.
+
+In a statement, the White House said it was made aware of the flaw on Friday.
+
+In a blog post late on Wednesday, Amazon (AMZN.O) security chief CJ Moses said the tech giant's security team detected an attempt to exploit the vulnerabilities against one of its decoy "honeypot" systems on October 17, four days before public disclosure.
+
+The attempt on the system came from an anonymous internet address, suggesting the activity was conducted by a threat actor, Moses said, adding it was unclear how ​the actor learned of the flaws while they were under ​embargo.
+
+More attempts followed on Wednesday by multiple actors before the ⁠embargo lifted. Amazon said it was still unclear whether any of the attempts would have worked against real websites, adding the flaws were "now being broadly exploited in the wild."
+
+PHP is a programming language used to run websites. When a visitor loads a page, a server running PHP assembles the content and sends it to the browser. It is free, open-source software maintained by volunteers.
+
+Its ​ubiquity — PHP runs roughly 75% of websites whose programming language can be identified, according to web technology tracker W3Techs — has made experts anxious. AI-assisted hacking campaigns, which have proliferated in ​recent weeks, could wreak havoc on unpatched ⁠servers, said Lukasz Olejnik, a visiting senior research fellow at King's College London.
+
+"The scale is huge, and with AI, exploitation may happen instantly," Olejnik said.
+
+WordPress.com operator Automattic said users of its hosted solutions and Tumblr were safe from the bug. Risks were higher for small PHP-powered websites run by individuals or organizations with limited technical resources, often on shared hosting services where customers do not directly manage the underlying servers.
+
+In the Netherlands, several organizations followed the example of the National Cyber Security Centre and took public-facing websites offline, including the Port of Rotterdam, government ⁠portal Overheid.nl, the national ​soccer association KNVB, the websites for the country's five largest political parties and several hospital websites.
+
+Danish municipal IT company Kombit said it had shut down ​several services, including the national school communication platform.
+
+Disruption was even more widespread in Finland, where state IT services provider Valtori said government public network services had been taken offline "as a precautionary measure."
+
+France's Interior Ministry said it had placed all of its websites into preventive maintenance.
