@@ -85222,6 +85222,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-070531ac",
+    "num": "dailymirrorlk-070531ac",
+    "date_str": "2026-10-22",
+    "description": "Young Eye on Nature",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Young-Eye-on-Nature/110-353162",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792658530.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-22-dailymirrorlk-a04fb1ee",
     "num": "dailymirrorlk-a04fb1ee",
     "date_str": "2026-10-22",
@@ -85296,5 +85307,82 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792663673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-8e5414f2",
+    "num": "dailymirrorlk-8e5414f2",
+    "date_str": "2026-10-22",
+    "description": "Over 580,000 arrested in drug raids over past two years: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-580-000-arrested-in-drug-raids-over-past-two-years-Minister/108-353171",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792664344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-89060f60",
+    "num": "dailymirrorlk-89060f60",
+    "date_str": "2026-10-22",
+    "description": "Security forces deployed to assist wildlife officers in rescuing distressed elephants",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Security-forces-deployed-to-assist-wildlife-officers-in-rescuing-distressed-elephants/108-353172",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792664424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-77449808",
+    "num": "dailymirrorlk-77449808",
+    "date_str": "2026-10-22",
+    "description": "\u2018We must drive systemic change ourselves\u2019: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/We-must-drive-systemic-change-ourselves-Minister/108-353177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792668608.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-afc64423",
+    "num": "dailymirrorlk-afc64423",
+    "date_str": "2026-10-22",
+    "description": "Heavy showers above 100mm expected in several provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-above-100mm-expected-in-several-provinces/108-353178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792669838.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-244d8333",
+    "num": "dailymirrorlk-244d8333",
+    "date_str": "2026-10-22",
+    "description": "First human case of Shamonda virus detected in France, officials say",
+    "url_metadata": "https://www.dailymirror.lk/international/First-human-case-of-Shamonda-virus-detected-in-France-officials-say/107-353179",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792671232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-ed36cbf7",
+    "num": "dailymirrorlk-ed36cbf7",
+    "date_str": "2026-10-22",
+    "description": "Brilliant Brook hits England\u2019s first 200 in an ODI",
+    "url_metadata": "https://www.dailymirror.lk/international/Brilliant-Brook-hits-Englands-first-200-in-an-ODI/107-353180",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792671482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-4e64f810",
+    "num": "dailymirrorlk-4e64f810",
+    "date_str": "2026-10-22",
+    "description": "Soil slippage at Kadigamuwa delays Upcountry trains again",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Soil-slippage-at-Kadigamuwa-delays-Upcountry-trains-again/108-353181",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792672034.0
   }
 ]
