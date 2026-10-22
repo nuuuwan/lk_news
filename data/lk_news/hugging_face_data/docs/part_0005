@@ -85538,5 +85538,49 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792686245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-87ecce2e",
+    "num": "dailyftlk-87ecce2e",
+    "date_str": "2026-10-23",
+    "description": "Kavantissa was not just another elephant: Why Sri Lanka must rethink its wildlife conservation priorities",
+    "url_metadata": "https://www.ft.lk/columns/Kavantissa-was-not-just-another-elephant-Why-Sri-Lanka-must-rethink-its-wildlife-conservation-priorities/4-799041",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792704933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-8bb0c2fc",
+    "num": "dailyftlk-8bb0c2fc",
+    "date_str": "2026-10-23",
+    "description": "Climate economics and Sri Lanka: From managing disasters to protecting national economy",
+    "url_metadata": "https://www.ft.lk/columns/Climate-economics-and-Sri-Lanka-From-managing-disasters-to-protecting-national-economy/4-799042",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792706013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-31f3442b",
+    "num": "dailyftlk-31f3442b",
+    "date_str": "2026-10-23",
+    "description": "Gnanasara\u2019s pardon and re-imprisonment: Who is accountable when the State gets justice wrong?",
+    "url_metadata": "https://www.ft.lk/columns/Gnanasara-s-pardon-and-re-imprisonment-Who-is-accountable-when-the-State-gets-justice-wrong/4-799043",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792706911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-1e3056d2",
+    "num": "dailyftlk-1e3056d2",
+    "date_str": "2026-10-23",
+    "description": "Could pragmatism prevail over politics?",
+    "url_metadata": "https://www.ft.lk/opinion/Could-pragmatism-prevail-over-politics/14-799045",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792707174.0
   }
 ]

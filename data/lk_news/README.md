@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_01:57:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_03:56:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,724** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailymirrorlk-20ca3368",
-    "num": "dailymirrorlk-20ca3368",
-    "date_str": "2026-10-22",
-    "description": "Sri Lanka pull off record-breaking 430-run chase to beat England",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-pull-off-record-breaking-430-run-chase-to-beat-England/108-353195",
+    "doc_id": "2026-10-23-dailyftlk-1e3056d2",
+    "num": "dailyftlk-1e3056d2",
+    "date_str": "2026-10-23",
+    "description": "Could pragmatism prevail over politics?",
+    "url_metadata": "https://www.ft.lk/opinion/Could-pragmatism-prevail-over-politics/14-799045",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792686245.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792707174.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-23 | `dailyftlk-1e3056d2` | Could pragmatism prevail over politics? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-1e3056d2)
+- 2026-10-23 | `dailyftlk-31f3442b` | Gnanasara’s pardon and re-imprisonment: Who is accountable when the State gets justice wrong? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-31f3442b)
+- 2026-10-23 | `dailyftlk-8bb0c2fc` | Climate economics and Sri Lanka: From managing disasters to protecting national economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-8bb0c2fc)
+- 2026-10-23 | `dailyftlk-87ecce2e` | Kavantissa was not just another elephant: Why Sri Lanka must rethink its wildlife conservation priorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-87ecce2e)
 - 2026-10-22 | `dailymirrorlk-20ca3368` | Sri Lanka pull off record-breaking 430-run chase to beat England | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-20ca3368)
 - 2026-10-22 | `dailymirrorlk-6b5ef40c` | Earthquake of magnitude 7 strikes China’s Tibet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-6b5ef40c)
 - 2026-10-22 | `dailymirrorlk-906969c6` | A09 road near Alawathugoda to close temporarily tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-906969c6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-22 | `dailymirrorlk-4e64f810` | Soil slippage at Kadigamuwa delays Upcountry trains again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-4e64f810)
 - 2026-10-22 | `dailymirrorlk-ed36cbf7` | Brilliant Brook hits England’s first 200 in an ODI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-ed36cbf7)
 - 2026-10-22 | `dailymirrorlk-244d8333` | First human case of Shamonda virus detected in France, officials say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-244d8333)
-- 2026-10-22 | `dailymirrorlk-afc64423` | Heavy showers above 100mm expected in several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-afc64423)
-- 2026-10-22 | `dailymirrorlk-77449808` | ‘We must drive systemic change ourselves’: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-77449808)
-- 2026-10-22 | `dailymirrorlk-babcf2e4` | WCIC extends women entrepreneur awards deadline to October 31 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-babcf2e4)
-- 2026-10-22 | `dailymirrorlk-89060f60` | Security forces deployed to assist wildlife officers in rescuing distressed elephants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-89060f60)
 
 ---
 
