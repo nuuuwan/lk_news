@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--22_08:03:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--22_09:58:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,638** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,643** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailyftlk-b497641c",
-    "num": "dailyftlk-b497641c",
+    "doc_id": "2026-10-22-dailymirrorlk-ed12359a",
+    "num": "dailymirrorlk-ed12359a",
     "date_str": "2026-10-22",
-    "description": "Sri Lanka promotes Expo 2027 through business outreach program in UK",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-promotes-Expo-2027-through-business-outreach-program-in-UK/34-799009",
+    "description": "Seylan Bank partners Colombo Motor Show 2026 as Official Banking & Leasing Partner",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-partners-Colombo-Motor-Show-2026-as-Official-Banking-Leasing-Partner/273-353105",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1792632987.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792641643.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-22 | `dailymirrorlk-ed12359a` | Seylan Bank partners Colombo Motor Show 2026 as Official Banking & Leasing Partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-ed12359a)
+- 2026-10-22 | `dailymirrorlk-4bdf37f3` | US orders diplomats to depart Saudi Arabia amid Houthi strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-4bdf37f3)
+- 2026-10-22 | `dailymirrorlk-ca61c4f5` | Meta fined $25bn for ’lies’ over user data privacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-ca61c4f5)
+- 2026-10-22 | `dailymirrorlk-32717ff2` | Agbo among 13 elephants needing urgent protection, says Wild Tuskers of Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-32717ff2)
+- 2026-10-22 | `dailyftlk-a34ca708` | FinTech Forum to connect fintechs, build trust and open doors abroad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-a34ca708)
 - 2026-10-22 | `dailyftlk-b497641c` | Sri Lanka promotes Expo 2027 through business outreach program in UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-b497641c)
 - 2026-10-22 | `dailyftlk-0254c4e2` | Graduate growth falls short of economy’s skill needs: IPS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-0254c4e2)
 - 2026-10-22 | `dailyftlk-ae3f4406` | Unemployment decline masks deeper labour market damage: IPS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-ae3f4406)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-10-22 | `dailyftlk-f8b00bca` | BASL calls for withdrawal of terror, organised crime Bills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-f8b00bca)
 - 2026-10-22 | `dailyftlk-28ff958e` | Pakistani podcast Kaisay signs knowledge partnership MoU with Marga Institute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-28ff958e)
 - 2026-10-22 | `dailyftlk-725df5bd` | HRCSL calls for organised crime Bill to be withdrawn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-725df5bd)
-- 2026-10-22 | `dailyftlk-c7e82010` | Petitions on terror, cricket Bills mount at Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-c7e82010)
-- 2026-10-22 | `dailyftlk-7ecdd1ca` | No-confidence motion against Speaker referred to AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailyftlk-7ecdd1ca)
-- 2026-10-21 | `dailymirrorlk-3f079356` | AKD seeks advice from RW’s economic advisor: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-3f079356)
-- 2026-10-21 | `dailymirrorlk-2661f024` | CAA not informed of Rs. 13 wheat flour price hike: Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-2661f024)
-- 2026-10-21 | `dailymirrorlk-7458f4fa` | Tender criteria changed to favour Presidential Secretariat official: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-21-dailymirrorlk-7458f4fa)
 
 ---
 

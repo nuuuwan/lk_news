@@ -84636,5 +84636,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792632987.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-a34ca708",
+    "num": "dailyftlk-a34ca708",
+    "date_str": "2026-10-22",
+    "description": "FinTech Forum to connect fintechs, build trust and open doors abroad",
+    "url_metadata": "https://www.ft.lk/business/FinTech-Forum-to-connect-fintechs-build-trust-and-open-doors-abroad/34-799010",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792636594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-32717ff2",
+    "num": "dailymirrorlk-32717ff2",
+    "date_str": "2026-10-22",
+    "description": "Agbo among 13 elephants needing urgent protection, says Wild Tuskers of Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Agbo-among-13-elephants-needing-urgent-protection-says-Wild-Tuskers-of-Sri-Lanka/108-353090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792638134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-ca61c4f5",
+    "num": "dailymirrorlk-ca61c4f5",
+    "date_str": "2026-10-22",
+    "description": "Meta fined $25bn for \u2019lies\u2019 over user data privacy",
+    "url_metadata": "https://www.dailymirror.lk/international/Meta-fined-25bn-for-lies-over-user-data-privacy/107-353097",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792641100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-4bdf37f3",
+    "num": "dailymirrorlk-4bdf37f3",
+    "date_str": "2026-10-22",
+    "description": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+    "url_metadata": "https://www.dailymirror.lk/international/US-orders-diplomats-to-depart-Saudi-Arabia-amid-Houthi-strikes/107-353100",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792641258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-ed12359a",
+    "num": "dailymirrorlk-ed12359a",
+    "date_str": "2026-10-22",
+    "description": "Seylan Bank partners Colombo Motor Show 2026 as Official Banking & Leasing Partner",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-partners-Colombo-Motor-Show-2026-as-Official-Banking-Leasing-Partner/273-353105",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792641643.0
   }
 ]
