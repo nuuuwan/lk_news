@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--22_22:00:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_00:02:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,718** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailymirrorlk-6b5ef40c",
-    "num": "dailymirrorlk-6b5ef40c",
+    "doc_id": "2026-10-22-dailymirrorlk-20ca3368",
+    "num": "dailymirrorlk-20ca3368",
     "date_str": "2026-10-22",
-    "description": "Earthquake of magnitude 7 strikes China\u2019s Tibet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Earthquake-of-magnitude-7-strikes-Chinas-Tibet/108-353194",
+    "description": "Sri Lanka pull off record-breaking 430-run chase to beat England",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-pull-off-record-breaking-430-run-chase-to-beat-England/108-353195",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792685014.0
+    "time_ut": 1792686245.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-22 | `dailymirrorlk-20ca3368` | Sri Lanka pull off record-breaking 430-run chase to beat England | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-20ca3368)
 - 2026-10-22 | `dailymirrorlk-6b5ef40c` | Earthquake of magnitude 7 strikes China’s Tibet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-6b5ef40c)
 - 2026-10-22 | `dailymirrorlk-906969c6` | A09 road near Alawathugoda to close temporarily tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-906969c6)
 - 2026-10-22 | `dailymirrorlk-35451eb3` | Public urged to reconsider planned excursions due to heavy rains, landslide warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-35451eb3)
 - 2026-10-22 | `dailymirrorlk-e4b41f0a` | Roadworthiness tests proposed every 5,000km or three months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-e4b41f0a)
 - 2026-10-22 | `dailymirrorlk-cf9b0ce6` | Sri Lanka, Romania discuss protection of 26,000 workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-cf9b0ce6)
+- 2026-10-22 | `dailymirrorlk-f7ef4525` | 45 wild animals released into natural habitats after treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-f7ef4525)
 - 2026-10-22 | `dailymirrorlk-d87d30e3` | Ukraine returns body of Sri Lankan national who fought for Russia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-d87d30e3)
 - 2026-10-22 | `dailymirrorlk-81488faa` | Tense situation at Viharamahadevi Park over court order to evict protesting monks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-81488faa)
 - 2026-10-22 | `dailymirrorlk-b624a313` | Gnanasara Thera convicted, what about the IGP? Namal questions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-b624a313)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-22 | `dailymirrorlk-77449808` | ‘We must drive systemic change ourselves’: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-77449808)
 - 2026-10-22 | `dailymirrorlk-babcf2e4` | WCIC extends women entrepreneur awards deadline to October 31 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-babcf2e4)
 - 2026-10-22 | `dailymirrorlk-89060f60` | Security forces deployed to assist wildlife officers in rescuing distressed elephants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-89060f60)
-- 2026-10-22 | `dailymirrorlk-8e5414f2` | Over 580,000 arrested in drug raids over past two years: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-8e5414f2)
-- 2026-10-22 | `dailymirrorlk-aecd2de5` | NMCRP alleges bid to mislead President over palm oil imports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-aecd2de5)
 
 ---
 

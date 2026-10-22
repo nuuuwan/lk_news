@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-22 21:59:49",
-  "n_docs": 133718,
+  "time_updated": "2026-10-23 00:01:09",
+  "n_docs": 133720,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133718,
+  "n_docs_with_text": 133720,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-22",
-  "dataset_size": 2069854152,
+  "dataset_size": 2069882538,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailymirrorlk-6b5ef40c",
-    "num": "dailymirrorlk-6b5ef40c",
+    "doc_id": "2026-10-22-dailymirrorlk-20ca3368",
+    "num": "dailymirrorlk-20ca3368",
     "date_str": "2026-10-22",
-    "description": "Earthquake of magnitude 7 strikes China\u2019s Tibet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Earthquake-of-magnitude-7-strikes-Chinas-Tibet/108-353194",
+    "description": "Sri Lanka pull off record-breaking 430-run chase to beat England",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-pull-off-record-breaking-430-run-chase-to-beat-England/108-353195",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792685014.0
+    "time_ut": 1792686245.0
   }
 }
