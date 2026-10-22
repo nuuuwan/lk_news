@@ -85461,5 +85461,60 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792678588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-cf9b0ce6",
+    "num": "dailymirrorlk-cf9b0ce6",
+    "date_str": "2026-10-22",
+    "description": "Sri Lanka, Romania discuss protection of 26,000 workers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Romania-discuss-protection-of-26-000-workers/108-353190",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792681058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-e4b41f0a",
+    "num": "dailymirrorlk-e4b41f0a",
+    "date_str": "2026-10-22",
+    "description": "Roadworthiness tests proposed every 5,000km or three months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Roadworthiness-tests-proposed-every-5-000km-or-three-months/108-353191",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792681396.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-35451eb3",
+    "num": "dailymirrorlk-35451eb3",
+    "date_str": "2026-10-22",
+    "description": "Public urged to reconsider planned excursions due to heavy rains, landslide warnings",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-urged-to-reconsider-planned-excursions-due-to-heavy-rains-landslide-warnings/108-353192",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792683731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-906969c6",
+    "num": "dailymirrorlk-906969c6",
+    "date_str": "2026-10-22",
+    "description": "A09 road near Alawathugoda to close temporarily tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/A09-road-near-Alawathugoda-to-close-temporarily-tonight/108-353193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792684311.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-6b5ef40c",
+    "num": "dailymirrorlk-6b5ef40c",
+    "date_str": "2026-10-22",
+    "description": "Earthquake of magnitude 7 strikes China\u2019s Tibet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Earthquake-of-magnitude-7-strikes-Chinas-Tibet/108-353194",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792685014.0
   }
 ]
