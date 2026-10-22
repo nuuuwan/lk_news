@@ -84449,5 +84449,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792597905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-7ecdd1ca",
+    "num": "dailyftlk-7ecdd1ca",
+    "date_str": "2026-10-22",
+    "description": "No-confidence motion against Speaker referred to AG",
+    "url_metadata": "https://www.ft.lk/news/No-confidence-motion-against-Speaker-referred-to-AG/56-798986",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792627914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-c7e82010",
+    "num": "dailyftlk-c7e82010",
+    "date_str": "2026-10-22",
+    "description": "Petitions on terror, cricket Bills mount at Supreme Court",
+    "url_metadata": "https://www.ft.lk/news/Petitions-on-terror-cricket-Bills-mount-at-Supreme-Court/56-798987",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792627957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-725df5bd",
+    "num": "dailyftlk-725df5bd",
+    "date_str": "2026-10-22",
+    "description": "HRCSL calls for organised crime Bill to be withdrawn",
+    "url_metadata": "https://www.ft.lk/news/HRCSL-calls-for-organised-crime-Bill-to-be-withdrawn/56-798988",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792627989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-28ff958e",
+    "num": "dailyftlk-28ff958e",
+    "date_str": "2026-10-22",
+    "description": "Pakistani podcast Kaisay signs knowledge partnership MoU with Marga Institute",
+    "url_metadata": "https://www.ft.lk/news/Pakistani-podcast-Kaisay-signs-knowledge-partnership-MoU-with-Marga-Institute/56-798989",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792628058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-f8b00bca",
+    "num": "dailyftlk-f8b00bca",
+    "date_str": "2026-10-22",
+    "description": "BASL calls for withdrawal of terror, organised crime Bills",
+    "url_metadata": "https://www.ft.lk/news/BASL-calls-for-withdrawal-of-terror-organised-crime-Bills/56-798990",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792628145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-a70056b8",
+    "num": "dailyftlk-a70056b8",
+    "date_str": "2026-10-22",
+    "description": "Sri Lanka\u2019s new compliance era: Why MSMEs should consider incorporation",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-new-compliance-era-Why-MSMEs-should-consider-incorporation/4-798991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792628680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-e622a2a1",
+    "num": "dailyftlk-e622a2a1",
+    "date_str": "2026-10-22",
+    "description": "Why I\u2019m going back to the newspaper",
+    "url_metadata": "https://www.ft.lk/columns/Why-I-m-going-back-to-the-newspaper/4-798992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792628933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailyftlk-b91b2dba",
+    "num": "dailyftlk-b91b2dba",
+    "date_str": "2026-10-22",
+    "description": "Another IMF program in 2028?",
+    "url_metadata": "https://www.ft.lk/columns/Another-IMF-program-in-2028/4-798994",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792629200.0
   }
 ]
