@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-22 18:05:18",
-  "n_docs": 133706,
+  "time_updated": "2026-10-22 19:58:20",
+  "n_docs": 133713,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133706,
+  "n_docs_with_text": 133713,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-22",
-  "dataset_size": 2069759117,
+  "dataset_size": 2069808354,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-22-dailymirrorlk-4e64f810",
-    "num": "dailymirrorlk-4e64f810",
+    "doc_id": "2026-10-22-dailymirrorlk-d87d30e3",
+    "num": "dailymirrorlk-d87d30e3",
     "date_str": "2026-10-22",
-    "description": "Soil slippage at Kadigamuwa delays Upcountry trains again",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Soil-slippage-at-Kadigamuwa-delays-Upcountry-trains-again/108-353181",
+    "description": "Ukraine returns body of Sri Lankan national who fought for Russia",
+    "url_metadata": "https://www.dailymirror.lk/international/Ukraine-returns-body-of-Sri-Lankan-national-who-fought-for-Russia/107-353188",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792672034.0
+    "time_ut": 1792678588.0
   }
 }

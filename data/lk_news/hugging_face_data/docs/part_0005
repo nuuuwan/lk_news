@@ -85332,6 +85332,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-babcf2e4",
+    "num": "dailymirrorlk-babcf2e4",
+    "date_str": "2026-10-22",
+    "description": "WCIC extends women entrepreneur awards deadline to October 31",
+    "url_metadata": "https://www.dailymirror.lk/business-news/WCIC-extends-women-entrepreneur-awards-deadline-to-October-31/273-353174",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792665939.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-22-dailymirrorlk-77449808",
     "num": "dailymirrorlk-77449808",
     "date_str": "2026-10-22",
@@ -85384,5 +85395,71 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792672034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-01fc5f81",
+    "num": "dailymirrorlk-01fc5f81",
+    "date_str": "2026-10-22",
+    "description": "Fishing, naval communities warned of developing low-pressure system in Bay of Bengal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishing-naval-communities-warned-of-developing-low-pressure-system-in-Bay-of-Bengal/108-353182",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792672148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-089181af",
+    "num": "dailymirrorlk-089181af",
+    "date_str": "2026-10-22",
+    "description": "CSE tests 19,700 as ASPI reaches new YTD low",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-tests-19-700-as-ASPI-reaches-new-YTD-low/108-353184",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792672457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-8fbb4770",
+    "num": "dailymirrorlk-8fbb4770",
+    "date_str": "2026-10-22",
+    "description": "Why does it take days to restart Norochcholai power plant?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-does-it-take-days-to-restart-Norochcholai-power-plant/108-353185",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792673560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-b624a313",
+    "num": "dailymirrorlk-b624a313",
+    "date_str": "2026-10-22",
+    "description": "Gnanasara Thera convicted, what about the IGP? Namal questions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-convicted-what-about-the-IGP-Namal-questions/108-353186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792673733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-81488faa",
+    "num": "dailymirrorlk-81488faa",
+    "date_str": "2026-10-22",
+    "description": "Tense situation at Viharamahadevi Park over court order to evict protesting monks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tense-situation-at-Viharamahadevi-Park-over-court-order-to-evict-protesting-monks/108-353187",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792678355.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-d87d30e3",
+    "num": "dailymirrorlk-d87d30e3",
+    "date_str": "2026-10-22",
+    "description": "Ukraine returns body of Sri Lankan national who fought for Russia",
+    "url_metadata": "https://www.dailymirror.lk/international/Ukraine-returns-body-of-Sri-Lankan-national-who-fought-for-Russia/107-353188",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792678588.0
   }
 ]
