@@ -86544,5 +86544,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792770059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-ba469bb4",
+    "num": "dailyftlk-ba469bb4",
+    "date_str": "2026-10-23",
+    "description": "Sri Lankan companies take hospitality products and services to Maldives",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-companies-take-hospitality-products-and-services-to-Maldives/34-799087",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792776092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-d475517e",
+    "num": "dailyftlk-d475517e",
+    "date_str": "2026-10-23",
+    "description": "EDB selects University of Kelaniya for language support at Sri Lanka Expo 2027",
+    "url_metadata": "https://www.ft.lk/business/EDB-selects-University-of-Kelaniya-for-language-support-at-Sri-Lanka-Expo-2027/34-799088",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792776130.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-a4d31f8d",
+    "num": "dailyftlk-a4d31f8d",
+    "date_str": "2026-10-23",
+    "description": "Prof. Sarath Kodithuwakku: Legacy beyond lecture hall",
+    "url_metadata": "https://www.ft.lk/business/Prof-Sarath-Kodithuwakku-Legacy-beyond-lecture-hall/34-799089",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792776245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-10cbc19d",
+    "num": "dailyftlk-10cbc19d",
+    "date_str": "2026-10-23",
+    "description": "Monkish Black Magic",
+    "url_metadata": "https://www.ft.lk/columns/Monkish-Black-Magic/4-799091",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792776483.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-a1d36301",
+    "num": "dailyftlk-a1d36301",
+    "date_str": "2026-10-23",
+    "description": "Democracy, monkhood and economy",
+    "url_metadata": "https://www.ft.lk/columns/Democracy-monkhood-and-economy/4-799097",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792777116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-db35ae20",
+    "num": "dailyftlk-db35ae20",
+    "date_str": "2026-10-23",
+    "description": "Proposed laws risk entrenching State power and enabling repression",
+    "url_metadata": "https://www.ft.lk/opinion/Proposed-laws-risk-entrenching-State-power-and-enabling-repression/14-799098",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792777246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-55b4498c",
+    "num": "dailyftlk-55b4498c",
+    "date_str": "2026-10-23",
+    "description": "The Gnanasara Thera pardon",
+    "url_metadata": "https://www.ft.lk/columns/The-Gnanasara-Thera-pardon/4-799099",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792777363.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-64f062ec",
+    "num": "dailyftlk-64f062ec",
+    "date_str": "2026-10-23",
+    "description": "Beyond the robe: Sangha, rule of law and monastic accountability",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-robe-Sangha-rule-of-law-and-monastic-accountability/4-799100",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792777515.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-0614eb63",
+    "num": "dailyftlk-0614eb63",
+    "date_str": "2026-10-23",
+    "description": "From SL to NY Times Square: Infinite Grace Foundation launches in the US",
+    "url_metadata": "https://www.ft.lk/opinion/From-SL-to-NY-Times-Square-Infinite-Grace-Foundation-launches-in-the-US/14-799107",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792777923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-c131ed41",
+    "num": "dailyftlk-c131ed41",
+    "date_str": "2026-10-23",
+    "description": "How did Sri Lanka get to war?  \u2018Teardrop Nation\u2019 traces road to 2009",
+    "url_metadata": "https://www.ft.lk/opinion/How-did-Sri-Lanka-get-to-war-Teardrop-Nation-traces-road-to-2009/14-799108",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792778041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-3b6b00cb",
+    "num": "dailyftlk-3b6b00cb",
+    "date_str": "2026-10-23",
+    "description": "Bay of Bengal system to become cyclone by Monday; no direct impact on Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Bay-of-Bengal-system-to-become-cyclone-by-Monday-no-direct-impact-on-Sri-Lanka/56-799109",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792778107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-a17a5b46",
+    "num": "dailyftlk-a17a5b46",
+    "date_str": "2026-10-23",
+    "description": "Court has no authority to order reinstatement of Gnanasara Thera\u2019s robe: HC",
+    "url_metadata": "https://www.ft.lk/news/Court-has-no-authority-to-order-reinstatement-of-Gnanasara-Thera-s-robe-HC/56-799110",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792778139.0
   }
 ]
