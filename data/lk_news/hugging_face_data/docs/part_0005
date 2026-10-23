@@ -1,4 +1,9 @@
-u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-380811",
+_type": "lk_news",
+    "doc_id": "2026-08-03-tamilmirrorlk-36c94c3d",
+    "num": "tamilmirrorlk-36c94c3d",
+    "date_str": "2026-08-03",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-380811",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1785737422.0
@@ -85618,6 +85623,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-e52f932c",
+    "num": "dailymirrorlk-e52f932c",
+    "date_str": "2026-10-22",
+    "description": "Everest Industrial Lanka ruling shows minority remedies no lever for buyouts: top legal expert",
+    "url_metadata": "https://www.dailymirror.lk/business/Everest-Industrial-Lanka-ruling-shows-minority-remedies-no-lever-for-buyouts-top-legal-expert/215-353202",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792690256.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-22-dailymirrorlk-f65c6680",
     "num": "dailymirrorlk-f65c6680",
     "date_str": "2026-10-22",
@@ -85725,6 +85741,17 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792692125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-22-dailymirrorlk-8c15c581",
+    "num": "dailymirrorlk-8c15c581",
+    "date_str": "2026-10-22",
+    "description": "Remembering Colombo\u2019s Golden Era of Video Rentals",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Remembering-Colombos-Golden-Era-of-Video-Rentals/131-353214",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792692448.0
   },
   {
     "doc_type": "lk_news",
@@ -86231,5 +86258,93 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792742606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-d48abf9c",
+    "num": "dailymirrorlk-d48abf9c",
+    "date_str": "2026-10-23",
+    "description": "Fake bank giveaway uses Vap Poya as bait",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fake-bank-giveaway-uses-Vap-Poya-as-bait/108-353258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792744027.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-d64f18e3",
+    "num": "dailymirrorlk-d64f18e3",
+    "date_str": "2026-10-23",
+    "description": "NMRA Act to be amended to regulate cosmetics: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NMRA-Act-to-be-amended-to-regulate-cosmetics-Minister/108-353259",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792744164.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-ef75fd42",
+    "num": "dailymirrorlk-ef75fd42",
+    "date_str": "2026-10-23",
+    "description": "Palmyrah Seeds Planted Along Valukkai Aru",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Palmyrah-Seeds-Planted-Along-Valukkai-Aru/110-353260",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792745117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-1eba886c",
+    "num": "dailymirrorlk-1eba886c",
+    "date_str": "2026-10-23",
+    "description": "Ven. Gallelle Sumanasiri Thera appointed Chancellor of Sabaragamuwa University",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ven-Gallelle-Sumanasiri-Thera-appointed-Chancellor-of-Sabaragamuwa-University/108-353261",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792745597.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-0f1d52a9",
+    "num": "dailymirrorlk-0f1d52a9",
+    "date_str": "2026-10-23",
+    "description": "Greece passes social media ban for children under 15",
+    "url_metadata": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792746973.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-593f2a41",
+    "num": "dailymirrorlk-593f2a41",
+    "date_str": "2026-10-23",
+    "description": "500kg Christmas cake mixture at Gregory Lake",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/500kg-Christmas-cake-mixture-at-Gregory-Lake/110-353266",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792748191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-8154d06f",
+    "num": "dailymirrorlk-8154d06f",
+    "date_str": "2026-10-23",
+    "description": "Govt. to close 34 state institutions to cut public expenditure: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-close-34-state-institutions-to-cut-public-expenditure-President/108-353268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792749555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-a24fd532",
+    "num": "dailymirrorlk-a24fd532",
+    "date_str": "2026-10-23",
+    "description": "Court rejects monks\u2019 motion to challenge Viharamahadevi Park eviction order",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-monks-motion-to-challenge-Viharamahadevi-Park-eviction-order/108-353269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792749753.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_14:01:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_15:58:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-746de1a5",
-    "num": "dailymirrorlk-746de1a5",
+    "doc_id": "2026-10-23-dailymirrorlk-a24fd532",
+    "num": "dailymirrorlk-a24fd532",
     "date_str": "2026-10-23",
-    "description": "Russian diesel heads to US after Putin-Trump deal, data shows",
-    "url_metadata": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal-data-shows/107-353255",
+    "description": "Court rejects monks\u2019 motion to challenge Viharamahadevi Park eviction order",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-monks-motion-to-challenge-Viharamahadevi-Park-eviction-order/108-353269",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792742606.0
+    "time_ut": 1792749753.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-23 | `dailymirrorlk-a24fd532` | Court rejects monks’ motion to challenge Viharamahadevi Park eviction order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-a24fd532)
+- 2026-10-23 | `dailymirrorlk-8154d06f` | Govt. to close 34 state institutions to cut public expenditure: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-8154d06f)
+- 2026-10-23 | `dailymirrorlk-593f2a41` | 500kg Christmas cake mixture at Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-593f2a41)
+- 2026-10-23 | `dailymirrorlk-0f1d52a9` | Greece passes social media ban for children under 15 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-0f1d52a9)
+- 2026-10-23 | `dailymirrorlk-1eba886c` | Ven. Gallelle Sumanasiri Thera appointed Chancellor of Sabaragamuwa University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-1eba886c)
+- 2026-10-23 | `dailymirrorlk-ef75fd42` | Palmyrah Seeds Planted Along Valukkai Aru | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ef75fd42)
+- 2026-10-23 | `dailymirrorlk-d64f18e3` | NMRA Act to be amended to regulate cosmetics: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d64f18e3)
+- 2026-10-23 | `dailymirrorlk-d48abf9c` | Fake bank giveaway uses Vap Poya as bait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d48abf9c)
 - 2026-10-23 | `dailymirrorlk-746de1a5` | Russian diesel heads to US after Putin-Trump deal, data shows | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-746de1a5)
 - 2026-10-23 | `dailymirrorlk-c3f54989` | 500kg Christmas cake mixture prepared at Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-c3f54989)
 - 2026-10-23 | `dailymirrorlk-d44f3802` | Schools to receive smart classrooms and digital facilities under education reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d44f3802)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-10-23 | `dailymirrorlk-207ff253` | Foreign companies cut supplies amid price surge, CPC hard pressed for distribution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-207ff253)
 - 2026-10-23 | `dailymirrorlk-19164d21` | Shiranthi Rajapaksa’s first heart surgery successful | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-19164d21)
 - 2026-10-23 | `dailymirrorlk-ae4b82ef` | 13 wild elephants need protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ae4b82ef)
-- 2026-10-23 | `dailymirrorlk-356274f0` | Mahasen missing for three months, it may still be roaming in the wild: Wildlife official | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-356274f0)
-- 2026-10-23 | `dailymirrorlk-623e8b73` | Chamara Sampath remanded until November 6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-623e8b73)
-- 2026-10-23 | `dailymirrorlk-ada023fa` | Former MP Tissa Kuttiarachchi arrives at PCID | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ada023fa)
-- 2026-10-23 | `dailymirrorlk-2e03811c` | Krrish case: Namal Rajapaksa further remanded till November 6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-2e03811c)
-- 2026-10-23 | `dailymirrorlk-f9ad3ee9` | Spill gates opened at 15 major and medium reservoirs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-f9ad3ee9)
-- 2026-10-23 | `dailymirrorlk-f6da4efc` | Passenger drone trial flight planned for Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-f6da4efc)
-- 2026-10-23 | `dailymirrorlk-d50bf9ea` | Colombo’s high population density contributes to TB spread: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d50bf9ea)
-- 2026-10-23 | `dailymirrorlk-e9e547d7` | Gnanasara Thero satyagraha enters 8th day amid court order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-e9e547d7)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-23 14:00:24",
-  "n_docs": 133783,
+  "time_updated": "2026-10-23 15:57:07",
+  "n_docs": 133794,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133783,
+  "n_docs_with_text": 133794,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-23",
-  "dataset_size": 2070482390,
+  "dataset_size": 2070751567,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-746de1a5",
-    "num": "dailymirrorlk-746de1a5",
+    "doc_id": "2026-10-23-dailymirrorlk-a24fd532",
+    "num": "dailymirrorlk-a24fd532",
     "date_str": "2026-10-23",
-    "description": "Russian diesel heads to US after Putin-Trump deal, data shows",
-    "url_metadata": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal-data-shows/107-353255",
+    "description": "Court rejects monks\u2019 motion to challenge Viharamahadevi Park eviction order",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-monks-motion-to-challenge-Viharamahadevi-Park-eviction-order/108-353269",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792742606.0
+    "time_ut": 1792749753.0
   }
 }
