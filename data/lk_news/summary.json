@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-23 12:06:49",
-  "n_docs": 133754,
+  "time_updated": "2026-10-23 14:00:24",
+  "n_docs": 133783,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133754,
+  "n_docs_with_text": 133783,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-23",
-  "dataset_size": 2070315589,
+  "dataset_size": 2070482390,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-9daa2298",
-    "num": "dailymirrorlk-9daa2298",
+    "doc_id": "2026-10-23-dailymirrorlk-746de1a5",
+    "num": "dailymirrorlk-746de1a5",
     "date_str": "2026-10-23",
-    "description": "Complaint lodged over Sri Lanka Police Facebook post",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Sri-Lanka-Police-Facebook-post/108-353248",
+    "description": "Russian diesel heads to US after Putin-Trump deal, data shows",
+    "url_metadata": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal-data-shows/107-353255",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792736869.0
+    "time_ut": 1792742606.0
   }
 }
