@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_20:02:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_22:00:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,809** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,812** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-ac4f08c6",
-    "num": "dailymirrorlk-ac4f08c6",
+    "doc_id": "2026-10-23-dailymirrorlk-b21df91d",
+    "num": "dailymirrorlk-b21df91d",
     "date_str": "2026-10-23",
-    "description": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-    "url_metadata": "https://www.dailymirror.lk/international/Hundreds-of-flights-cancelled-as-Typhoon-Champi-shuts-Taiwan/107-353281",
+    "description": "Six killed in attack at church in Jordan, authorities say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-killed-in-attack-at-church-in-Jordan-authorities-say/108-353288",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792762550.0
+    "time_ut": 1792770059.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-23 | `dailymirrorlk-b21df91d` | Six killed in attack at church in Jordan, authorities say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-b21df91d)
+- 2026-10-23 | `dailymirrorlk-6175b158` | Fire erupts at machinery store in Nittambuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-6175b158)
+- 2026-10-23 | `dailymirrorlk-445fca38` | Three Sri Lankans detained near Indo-Nepal border | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-445fca38)
 - 2026-10-23 | `dailymirrorlk-ac4f08c6` | Hundreds of flights cancelled as Typhoon Champi shuts Taiwan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ac4f08c6)
 - 2026-10-23 | `dailymirrorlk-16ea229b` | Why question alleged bribe-givers overseas without bringing them back? - SJB MP Chaminda Wijesiri | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-16ea229b)
 - 2026-10-23 | `dailymirrorlk-8b350f3b` | Dayasiri sings Vas Kavi in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-8b350f3b)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-23 | `dailymirrorlk-593f2a41` | 500kg Christmas cake mixture at Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-593f2a41)
 - 2026-10-23 | `dailymirrorlk-543c7d50` | ‘Wisdom of Hands’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-543c7d50)
 - 2026-10-23 | `dailymirrorlk-0f1d52a9` | Greece passes social media ban for children under 15 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-0f1d52a9)
-- 2026-10-23 | `dailymirrorlk-311313da` | Two new GWM models launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-311313da)
-- 2026-10-23 | `dailymirrorlk-1eba886c` | Ven. Gallelle Sumanasiri Thera appointed Chancellor of Sabaragamuwa University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-1eba886c)
-- 2026-10-23 | `dailymirrorlk-ef75fd42` | Palmyrah Seeds Planted Along Valukkai Aru | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ef75fd42)
 
 ---
 
