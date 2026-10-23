@@ -86250,6 +86250,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-4935a36b",
+    "num": "dailymirrorlk-4935a36b",
+    "date_str": "2026-10-23",
+    "description": "First iPhone 18 Pro sold in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/First-iPhone-18-Pro-sold-in-Sri-Lanka/110-353254",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792742174.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-23-dailymirrorlk-746de1a5",
     "num": "dailymirrorlk-746de1a5",
     "date_str": "2026-10-23",
@@ -86305,6 +86316,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-311313da",
+    "num": "dailymirrorlk-311313da",
+    "date_str": "2026-10-23",
+    "description": "Two new GWM models launched",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Two-new-GWM-models-launched/110-353262",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792746040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-23-dailymirrorlk-0f1d52a9",
     "num": "dailymirrorlk-0f1d52a9",
     "date_str": "2026-10-23",
@@ -86313,6 +86335,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792746973.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-543c7d50",
+    "num": "dailymirrorlk-543c7d50",
+    "date_str": "2026-10-23",
+    "description": "\u2018Wisdom of Hands\u2019",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Wisdom-of-Hands/110-353265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792747478.0
   },
   {
     "doc_type": "lk_news",
@@ -86346,6 +86379,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792749753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-97c1ff8b",
+    "num": "dailymirrorlk-97c1ff8b",
+    "date_str": "2026-10-23",
+    "description": "Lankapak 2026 exhibition",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Lankapak-2026-exhibition/110-353270",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792750446.0
   },
   {
     "doc_type": "lk_news",
@@ -86393,6 +86437,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-001abc0b",
+    "num": "dailymirrorlk-001abc0b",
+    "date_str": "2026-10-23",
+    "description": "Train services between Rambukkana, Peradeniya and Gampola suspended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-services-between-Rambukkana-Peradeniya-and-Gampola-suspended/108-353275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792753114.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-23-dailymirrorlk-0e101097",
     "num": "dailymirrorlk-0e101097",
     "date_str": "2026-10-23",
@@ -86423,5 +86478,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792757588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-8b350f3b",
+    "num": "dailymirrorlk-8b350f3b",
+    "date_str": "2026-10-23",
+    "description": "Dayasiri sings Vas Kavi in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dayasiri-sings-Vas-Kavi-in-Parliament/108-353279",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792758271.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-16ea229b",
+    "num": "dailymirrorlk-16ea229b",
+    "date_str": "2026-10-23",
+    "description": "Why question alleged bribe-givers overseas without bringing them back? - SJB MP Chaminda Wijesiri",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-question-alleged-bribe-givers-overseas-without-bringing-them-back-SJB-MP-Chaminda-Wijesiri/108-353280",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792761563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-ac4f08c6",
+    "num": "dailymirrorlk-ac4f08c6",
+    "date_str": "2026-10-23",
+    "description": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "url_metadata": "https://www.dailymirror.lk/international/Hundreds-of-flights-cancelled-as-Typhoon-Champi-shuts-Taiwan/107-353281",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792762550.0
   }
 ]

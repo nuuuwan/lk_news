@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-23 18:01:58",
-  "n_docs": 133801,
+  "time_updated": "2026-10-23 20:01:17",
+  "n_docs": 133809,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133801,
+  "n_docs_with_text": 133809,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-23",
-  "dataset_size": 2070472732,
+  "dataset_size": 2070530602,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-7aabe13c",
-    "num": "dailymirrorlk-7aabe13c",
+    "doc_id": "2026-10-23-dailymirrorlk-ac4f08c6",
+    "num": "dailymirrorlk-ac4f08c6",
     "date_str": "2026-10-23",
-    "description": "Fishermen warned over possible cyclone in Bay of Bengal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishermen-warned-over-possible-cyclone-in-Bay-of-Bengal/108-353278",
+    "description": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "url_metadata": "https://www.dailymirror.lk/international/Hundreds-of-flights-cancelled-as-Typhoon-Champi-shuts-Taiwan/107-353281",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792757588.0
+    "time_ut": 1792762550.0
   }
 }
