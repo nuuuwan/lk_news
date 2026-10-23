@@ -86346,5 +86346,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792749753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-a2a66b01",
+    "num": "dailymirrorlk-a2a66b01",
+    "date_str": "2026-10-23",
+    "description": "Wildlife teams race to save sick elephant in Samanthurai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wildlife-teams-race-to-save-sick-elephant-in-Samanthurai/108-353271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792751413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-c47df25d",
+    "num": "dailymirrorlk-c47df25d",
+    "date_str": "2026-10-23",
+    "description": "Gnanasara thera\u2019s robe issue: Judge points to limits of court\u2019s authority",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-theras-robe-issue-Judge-points-to-limits-of-courts-authority/108-353272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792752613.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-6da28da6",
+    "num": "dailymirrorlk-6da28da6",
+    "date_str": "2026-10-23",
+    "description": "Childhood cancer treatment and access to medicines discussed at international congress",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Childhood-cancer-treatment-and-access-to-medicines-discussed-at-international-congress/108-353273",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792752789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-931c539a",
+    "num": "dailymirrorlk-931c539a",
+    "date_str": "2026-10-23",
+    "description": "Military personnel to receive special training in elephant protection",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Military-personnel-to-receive-special-training-in-elephant-protection/108-353274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792752929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-0e101097",
+    "num": "dailymirrorlk-0e101097",
+    "date_str": "2026-10-23",
+    "description": "Joint raids planned to curb elephant killings and wildlife crimes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-raids-planned-to-curb-elephant-killings-and-wildlife-crimes/108-353276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792753212.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-f804cdcc",
+    "num": "dailymirrorlk-f804cdcc",
+    "date_str": "2026-10-23",
+    "description": "Magnitude 7.0 earthquake kills 16 in Tibet, forces 12,489 evacuations",
+    "url_metadata": "https://www.dailymirror.lk/international/Magnitude-7-0-earthquake-kills-16-in-Tibet-forces-12-489-evacuations/107-353277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792754567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-7aabe13c",
+    "num": "dailymirrorlk-7aabe13c",
+    "date_str": "2026-10-23",
+    "description": "Fishermen warned over possible cyclone in Bay of Bengal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishermen-warned-over-possible-cyclone-in-Bay-of-Bengal/108-353278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792757588.0
   }
 ]

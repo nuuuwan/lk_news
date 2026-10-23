@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_15:58:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_18:02:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,801** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailymirrorlk-a24fd532",
-    "num": "dailymirrorlk-a24fd532",
+    "doc_id": "2026-10-23-dailymirrorlk-7aabe13c",
+    "num": "dailymirrorlk-7aabe13c",
     "date_str": "2026-10-23",
-    "description": "Court rejects monks\u2019 motion to challenge Viharamahadevi Park eviction order",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-monks-motion-to-challenge-Viharamahadevi-Park-eviction-order/108-353269",
+    "description": "Fishermen warned over possible cyclone in Bay of Bengal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishermen-warned-over-possible-cyclone-in-Bay-of-Bengal/108-353278",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792749753.0
+    "time_ut": 1792757588.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-23 | `dailymirrorlk-7aabe13c` | Fishermen warned over possible cyclone in Bay of Bengal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-7aabe13c)
+- 2026-10-23 | `dailymirrorlk-f804cdcc` | Magnitude 7.0 earthquake kills 16 in Tibet, forces 12,489 evacuations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-f804cdcc)
+- 2026-10-23 | `dailymirrorlk-0e101097` | Joint raids planned to curb elephant killings and wildlife crimes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-0e101097)
+- 2026-10-23 | `dailymirrorlk-931c539a` | Military personnel to receive special training in elephant protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-931c539a)
+- 2026-10-23 | `dailymirrorlk-6da28da6` | Childhood cancer treatment and access to medicines discussed at international congress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-6da28da6)
+- 2026-10-23 | `dailymirrorlk-c47df25d` | Gnanasara thera’s robe issue: Judge points to limits of court’s authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-c47df25d)
+- 2026-10-23 | `dailymirrorlk-a2a66b01` | Wildlife teams race to save sick elephant in Samanthurai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-a2a66b01)
 - 2026-10-23 | `dailymirrorlk-a24fd532` | Court rejects monks’ motion to challenge Viharamahadevi Park eviction order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-a24fd532)
 - 2026-10-23 | `dailymirrorlk-8154d06f` | Govt. to close 34 state institutions to cut public expenditure: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-8154d06f)
 - 2026-10-23 | `dailymirrorlk-593f2a41` | 500kg Christmas cake mixture at Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-593f2a41)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-23 | `dailymirrorlk-d44f3802` | Schools to receive smart classrooms and digital facilities under education reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d44f3802)
 - 2026-10-23 | `dailymirrorlk-0030045f` | Gangaramaya, Indian centre join hands to digitise Buddhist manuscripts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-0030045f)
 - 2026-10-23 | `dailymirrorlk-b2d91201` | Preserving Buddhist heritage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-b2d91201)
-- 2026-10-23 | `dailymirrorlk-9daa2298` | Complaint lodged over Sri Lanka Police Facebook post | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-9daa2298)
-- 2026-10-23 | `dailymirrorlk-1452d247` | Bimal says Hulangamuwa never served as Ranil’s economic adviser | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-1452d247)
-- 2026-10-23 | `dailymirrorlk-c35835b7` | Ailing elephant calf transferred to Udawalawe for further treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-c35835b7)
-- 2026-10-23 | `dailymirrorlk-2c23db12` | Adverse weather conditions to continue during the coming days: Met Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-2c23db12)
-- 2026-10-23 | `dailymirrorlk-207ff253` | Foreign companies cut supplies amid price surge, CPC hard pressed for distribution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-207ff253)
-- 2026-10-23 | `dailymirrorlk-19164d21` | Shiranthi Rajapaksa’s first heart surgery successful | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-19164d21)
-- 2026-10-23 | `dailymirrorlk-ae4b82ef` | 13 wild elephants need protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ae4b82ef)
 
 ---
 
