@@ -85714,5 +85714,38 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792711589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-d4f58231",
+    "num": "dailymirrorlk-d4f58231",
+    "date_str": "2026-10-23",
+    "description": "Did Dematagoda Police question a youth over \u2018Vas Kavi\u2019?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Did-Dematagoda-Police-question-a-youth-over-Vas-Kavi/108-353224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792726403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-1ea74187",
+    "num": "dailymirrorlk-1ea74187",
+    "date_str": "2026-10-23",
+    "description": "Injuries in China\u2019s Tibet rise to 65 after earthquake, death toll remains at 16",
+    "url_metadata": "https://www.dailymirror.lk/international/Injuries-in-Chinas-Tibet-rise-to-65-after-earthquake-death-toll-remains-at-16/107-353225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792727359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-23a5c6e7",
+    "num": "dailymirrorlk-23a5c6e7",
+    "date_str": "2026-10-23",
+    "description": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+    "url_metadata": "https://www.dailymirror.lk/international/Taiwan-shuts-down-ahead-of-Typhoon-Champi-hundreds-of-flights-cancelled/107-353226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792727624.0
   }
 ]

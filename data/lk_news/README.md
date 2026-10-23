@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_08:03:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--23_10:00:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,736** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,739** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-23-dailyftlk-21cf3e46",
-    "num": "dailyftlk-21cf3e46",
+    "doc_id": "2026-10-23-dailymirrorlk-23a5c6e7",
+    "num": "dailymirrorlk-23a5c6e7",
     "date_str": "2026-10-23",
-    "description": "Court orders eviction of protesting monks from Viharamahadevi Park",
-    "url_metadata": "https://www.ft.lk/news/Court-orders-eviction-of-protesting-monks-from-Viharamahadevi-Park/56-799075",
+    "description": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+    "url_metadata": "https://www.dailymirror.lk/international/Taiwan-shuts-down-ahead-of-Typhoon-Champi-hundreds-of-flights-cancelled/107-353226",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1792711589.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792727624.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-23 | `dailymirrorlk-23a5c6e7` | Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-23a5c6e7)
+- 2026-10-23 | `dailymirrorlk-1ea74187` | Injuries in China’s Tibet rise to 65 after earthquake, death toll remains at 16 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-1ea74187)
+- 2026-10-23 | `dailymirrorlk-d4f58231` | Did Dematagoda Police question a youth over ‘Vas Kavi’? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-d4f58231)
 - 2026-10-23 | `dailyftlk-21cf3e46` | Court orders eviction of protesting monks from Viharamahadevi Park | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-21cf3e46)
 - 2026-10-23 | `dailyftlk-ff686b5d` | Prison population falls 12%; Govt. moves to speed up Analyst’s reports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-ff686b5d)
 - 2026-10-23 | `dailyftlk-7cc12a27` | Nearly 12,000 under-21s among 586,824 drug arrests in two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-7cc12a27)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-23 | `dailyftlk-8bb0c2fc` | Climate economics and Sri Lanka: From managing disasters to protecting national economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-8bb0c2fc)
 - 2026-10-23 | `dailyftlk-87ecce2e` | Kavantissa was not just another elephant: Why Sri Lanka must rethink its wildlife conservation priorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-87ecce2e)
 - 2026-10-22 | `dailymirrorlk-20ca3368` | Sri Lanka pull off record-breaking 430-run chase to beat England | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-20ca3368)
-- 2026-10-22 | `dailymirrorlk-6b5ef40c` | Earthquake of magnitude 7 strikes China’s Tibet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-6b5ef40c)
-- 2026-10-22 | `dailymirrorlk-906969c6` | A09 road near Alawathugoda to close temporarily tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-906969c6)
-- 2026-10-22 | `dailymirrorlk-35451eb3` | Public urged to reconsider planned excursions due to heavy rains, landslide warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-22-dailymirrorlk-35451eb3)
 
 ---
 
