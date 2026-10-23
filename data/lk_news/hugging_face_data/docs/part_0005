@@ -85582,5 +85582,137 @@ u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bc8-\u0b95\
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1792707174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-7fad51e8",
+    "num": "dailyftlk-7fad51e8",
+    "date_str": "2026-10-23",
+    "description": "Sri Lanka\u2019s HIV wake-up call: Lessons from Asia\u2019s HIV experience",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-HIV-wake-up-call-Lessons-from-Asia-s-HIV-experience/14-799050",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792708156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-46e4e26c",
+    "num": "dailyftlk-46e4e26c",
+    "date_str": "2026-10-23",
+    "description": "The new currency of leadership",
+    "url_metadata": "https://www.ft.lk/columns/The-new-currency-of-leadership/4-799055",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792709192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-4eda0aad",
+    "num": "dailyftlk-4eda0aad",
+    "date_str": "2026-10-23",
+    "description": "Industrial Asphalts disputes auditor\u2019s disclaimer that led to Watch List move",
+    "url_metadata": "https://www.ft.lk/business/Industrial-Asphalts-disputes-auditor-s-disclaimer-that-led-to-Watch-List-move/34-799066",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792710960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-ec388df5",
+    "num": "dailyftlk-ec388df5",
+    "date_str": "2026-10-23",
+    "description": "Haldanduwana resident takes environmental complaint against Taprobane to several bodies",
+    "url_metadata": "https://www.ft.lk/business/Haldanduwana-resident-takes-environmental-complaint-against-Taprobane-to-several-bodies/34-799067",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792710985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-e2efb69e",
+    "num": "dailyftlk-e2efb69e",
+    "date_str": "2026-10-23",
+    "description": "CoPF reviews procurement delays, new Procurement Act and $ 4.5 m digitalisation grant",
+    "url_metadata": "https://www.ft.lk/business/CoPF-reviews-procurement-delays-new-Procurement-Act-and-4-5-m-digitalisation-grant/34-799068",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-e311c39f",
+    "num": "dailyftlk-e311c39f",
+    "date_str": "2026-10-23",
+    "description": "Leema Creations retains CNCI Industrial Excellence (Large Category) Award",
+    "url_metadata": "https://www.ft.lk/business/Leema-Creations-retains-CNCI-Industrial-Excellence-Large-Category-Award/34-799069",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-8b327c24",
+    "num": "dailyftlk-8b327c24",
+    "date_str": "2026-10-23",
+    "description": "Cabinet backs mandatory Sri Lanka Standards for imported car and three-wheeler tyres",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-backs-mandatory-Sri-Lanka-Standards-for-imported-car-and-three-wheeler-tyres/34-799070",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-faf0b3f5",
+    "num": "dailyftlk-faf0b3f5",
+    "date_str": "2026-10-23",
+    "description": "Heavy rain above 100mm forecast as low-pressure system lingers",
+    "url_metadata": "https://www.ft.lk/news/Heavy-rain-above-100mm-forecast-as-low-pressure-system-lingers/56-799071",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-cd1e30ea",
+    "num": "dailyftlk-cd1e30ea",
+    "date_str": "2026-10-23",
+    "description": "Arrest targets won\u2019t end drug menace: Namal",
+    "url_metadata": "https://www.ft.lk/news/Arrest-targets-won-t-end-drug-menace-Namal/56-799072",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711308.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-7cc12a27",
+    "num": "dailyftlk-7cc12a27",
+    "date_str": "2026-10-23",
+    "description": "Nearly 12,000 under-21s among 586,824 drug arrests in two years",
+    "url_metadata": "https://www.ft.lk/news/Nearly-12-000-under-21s-among-586-824-drug-arrests-in-two-years/56-799073",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-ff686b5d",
+    "num": "dailyftlk-ff686b5d",
+    "date_str": "2026-10-23",
+    "description": "Prison population falls 12%; Govt. moves to speed up Analyst\u2019s reports",
+    "url_metadata": "https://www.ft.lk/news/Prison-population-falls-12-Govt-moves-to-speed-up-Analyst-s-reports/56-799074",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711477.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailyftlk-21cf3e46",
+    "num": "dailyftlk-21cf3e46",
+    "date_str": "2026-10-23",
+    "description": "Court orders eviction of protesting monks from Viharamahadevi Park",
+    "url_metadata": "https://www.ft.lk/news/Court-orders-eviction-of-protesting-monks-from-Viharamahadevi-Park/56-799075",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792711589.0
   }
 ]
