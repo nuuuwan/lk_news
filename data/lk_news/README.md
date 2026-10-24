@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_14:01:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_15:56:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,849** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,859** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -58,9 +58,9 @@ A collection of lk_news documents.
 - 2026-10-24 | `dailymirrorlk-755e535d` | Lanka IOC profit slides despite 38% revenue growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-755e535d)
 - 2026-10-24 | `dailymirrorlk-276635ed` | Secondary market ends the week on quiet footing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-276635ed)
 - 2026-10-24 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-421ed8bb)
+- 2026-10-24 | `dailymirrorlk-bf6941b1` | Serendib launches ‘Future Her’ to build financial confidence among schoolgirls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-bf6941b1)
 - 2026-10-24 | `dailymirrorlk-f95a2a6c` | ComBank empowers next generation with milestone 200th STEM Classroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f95a2a6c)
-- 2026-10-24 | `dailymirrorlk-88cd6508` | Emirates Skywards brings back popular ‘Mile-A-Minute’ offer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-88cd6508)
-- 2026-10-24 | `dailymirrorlk-fc3bdbc4` | Yellow House Productions launches ‘Whose’ free online game | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-fc3bdbc4)
+- 2026-10-24 | `dailymirrorlk-1b76241f` | ‘Ride for the Rosette’ reaches Wilpattu as fifth stop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-1b76241f)
 
 ---
 
