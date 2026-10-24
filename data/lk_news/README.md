@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_09:59:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_12:04:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,826** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,831** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-2f274dde",
-    "num": "dailymirrorlk-2f274dde",
+    "doc_id": "2026-10-24-dailymirrorlk-bf0bdb9e",
+    "num": "dailymirrorlk-bf0bdb9e",
     "date_str": "2026-10-24",
-    "description": "Four Thai women arrested in Wellawatte brothel raid",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-Thai-women-arrested-in-Wellawatte-brothel-raid/108-353290",
+    "description": "Kuwait investigates suspected foul play in deaths of two Sri Lankan women",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-investigates-suspected-foul-play-in-deaths-of-two-Sri-Lankan-women/108-353311",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792812254.0
+    "time_ut": 1792820772.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-24 | `dailymirrorlk-bf0bdb9e` | Kuwait investigates suspected foul play in deaths of two Sri Lankan women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-bf0bdb9e)
+- 2026-10-24 | `dailymirrorlk-f9c833e9` | Suspected narcotics found in sacks and travel bags on Naotunna beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f9c833e9)
+- 2026-10-24 | `dailymirrorlk-d2b8234d` | Magnitude 7.2 earthquake strikes waters near Vanuatu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d2b8234d)
 - 2026-10-24 | `dailymirrorlk-2f274dde` | Four Thai women arrested in Wellawatte brothel raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-2f274dde)
 - 2026-10-24 | `dailymirrorlk-db8e77cd` | Rainfall to increase as Bay of Bengal system intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-db8e77cd)
 - 2026-10-23 | `dailyftlk-a17a5b46` | Court has no authority to order reinstatement of Gnanasara Thera’s robe: HC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-a17a5b46)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-23 | `dailymirrorlk-b21df91d` | Six killed in attack at church in Jordan, authorities say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-b21df91d)
 - 2026-10-23 | `dailymirrorlk-6175b158` | Fire erupts at machinery store in Nittambuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-6175b158)
 - 2026-10-23 | `dailymirrorlk-445fca38` | Three Sri Lankans detained near Indo-Nepal border | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-445fca38)
-- 2026-10-23 | `dailymirrorlk-ac4f08c6` | Hundreds of flights cancelled as Typhoon Champi shuts Taiwan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-ac4f08c6)
-- 2026-10-23 | `dailymirrorlk-16ea229b` | Why question alleged bribe-givers overseas without bringing them back? - SJB MP Chaminda Wijesiri | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-16ea229b)
-- 2026-10-23 | `dailymirrorlk-8b350f3b` | Dayasiri sings Vas Kavi in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-8b350f3b)
 
 ---
 

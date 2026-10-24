@@ -86514,6 +86514,28 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-96a82546",
+    "num": "dailymirrorlk-96a82546",
+    "date_str": "2026-10-23",
+    "description": "Rs. 450,000 Spent on Air Travel for Witness in Patali Champika Ranawaka Case?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-450-000-Spent-on-Air-Travel-for-Witness-in-Patali-Champika-Ranawaka-Case/108-353282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792763956.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-23-dailymirrorlk-47ec000d",
+    "num": "dailymirrorlk-47ec000d",
+    "date_str": "2026-10-23",
+    "description": "Police step up hunt for criminals hiding overseas: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-step-up-hunt-for-criminals-hiding-overseas-Minister/108-353283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792764565.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-23-dailymirrorlk-445fca38",
     "num": "dailymirrorlk-445fca38",
     "date_str": "2026-10-23",
@@ -86698,5 +86720,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792812254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-d2b8234d",
+    "num": "dailymirrorlk-d2b8234d",
+    "date_str": "2026-10-24",
+    "description": "Magnitude 7.2 earthquake strikes waters near Vanuatu",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Magnitude-7-2-earthquake-strikes-waters-near-Vanuatu/108-353307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792819104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-f9c833e9",
+    "num": "dailymirrorlk-f9c833e9",
+    "date_str": "2026-10-24",
+    "description": "Suspected narcotics found in sacks and travel bags on Naotunna beach",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspected-narcotics-found-in-sacks-and-travel-bags-on-Naotunna-beach/108-353309",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792820124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-bf0bdb9e",
+    "num": "dailymirrorlk-bf0bdb9e",
+    "date_str": "2026-10-24",
+    "description": "Kuwait investigates suspected foul play in deaths of two Sri Lankan women",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-investigates-suspected-foul-play-in-deaths-of-two-Sri-Lankan-women/108-353311",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792820772.0
   }
 ]
