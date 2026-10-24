@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-24 18:00:06",
-  "n_docs": 133866,
+  "time_updated": "2026-10-24 19:55:26",
+  "n_docs": 133867,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133866,
+  "n_docs_with_text": 133867,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-24",
-  "dataset_size": 2071251228,
+  "dataset_size": 2071295851,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-afccd3d3",
-    "num": "dailymirrorlk-afccd3d3",
+    "doc_id": "2026-10-24-dailymirrorlk-d5b8062b",
+    "num": "dailymirrorlk-d5b8062b",
     "date_str": "2026-10-24",
-    "description": "Naval, fishing communities cautioned not to venture into deep sea",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Naval-fishing-communities-cautioned-not-to-venture-into-deep-sea/108-353340",
+    "description": "President\u2019s Office denies reports of President\u2019s hospitalisation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-Office-denies-reports-of-Presidents-hospitalisation/108-353341",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792843651.0
+    "time_ut": 1792847656.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_18:01:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_19:56:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,866** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,867** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-afccd3d3",
-    "num": "dailymirrorlk-afccd3d3",
+    "doc_id": "2026-10-24-dailymirrorlk-d5b8062b",
+    "num": "dailymirrorlk-d5b8062b",
     "date_str": "2026-10-24",
-    "description": "Naval, fishing communities cautioned not to venture into deep sea",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Naval-fishing-communities-cautioned-not-to-venture-into-deep-sea/108-353340",
+    "description": "President\u2019s Office denies reports of President\u2019s hospitalisation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-Office-denies-reports-of-Presidents-hospitalisation/108-353341",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792843651.0
+    "time_ut": 1792847656.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-24 | `dailymirrorlk-d5b8062b` | President’s Office denies reports of President’s hospitalisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d5b8062b)
 - 2026-10-24 | `dailymirrorlk-afccd3d3` | Naval, fishing communities cautioned not to venture into deep sea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-afccd3d3)
 - 2026-10-24 | `dailymirrorlk-94f4f1a3` | 12-year-old schoolboy killed in crocodile attack in Galkiriyagama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-94f4f1a3)
 - 2026-10-24 | `dailymirrorlk-53c7a7b2` | Navy, Coast Guard seize over 475kg of Ice and heroin in Matara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-53c7a7b2)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-24 | `dailymirrorlk-8154d06f` | Govt. to close 34 state institutions to cut public expenditure: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-8154d06f)
 - 2026-10-24 | `dailymirrorlk-f9c833e9` | Suspected narcotics found in sacks and travel bags on Naotunna beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f9c833e9)
 - 2026-10-24 | `dailymirrorlk-d48abf9c` | Fake bank giveaway uses Vap Poya as bait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d48abf9c)
-- 2026-10-24 | `dailymirrorlk-d2b8234d` | Magnitude 7.2 earthquake strikes waters near Vanuatu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d2b8234d)
 
 ---
 
