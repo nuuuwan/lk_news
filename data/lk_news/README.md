@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_12:04:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--24_14:01:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,831** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,849** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-bf0bdb9e",
-    "num": "dailymirrorlk-bf0bdb9e",
+    "doc_id": "2026-10-24-dailymirrorlk-77405bfc",
+    "num": "dailymirrorlk-77405bfc",
     "date_str": "2026-10-24",
-    "description": "Kuwait investigates suspected foul play in deaths of two Sri Lankan women",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-investigates-suspected-foul-play-in-deaths-of-two-Sri-Lankan-women/108-353311",
+    "description": "Man arrested with two pistols, ammunition in Mawanella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-with-two-pistols-ammunition-in-Mawanella/108-353332",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792820772.0
+    "time_ut": 1792830206.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-24 | `dailymirrorlk-77405bfc` | Man arrested with two pistols, ammunition in Mawanella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-77405bfc)
+- 2026-10-24 | `dailymirrorlk-3a9bf0e2` | Police warn public of financial scams using fake dating Apps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-3a9bf0e2)
+- 2026-10-24 | `dailymirrorlk-b6f6764f` | Thilina Weerasinghe and the Dark Side  of Sri Lanka’s Smiling Face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-b6f6764f)
+- 2026-10-24 | `dailymirrorlk-081d6a32` | The Gnanasara affair, ethno-religious divisions and political opportunism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-081d6a32)
+- 2026-10-24 | `dailymirrorlk-3bf2504b` | Are Our Awards About Music or Marketing? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-3bf2504b)
+- 2026-10-24 | `dailymirrorlk-a27c73ad` | PVR looks beyond Colombo with six-to-nine cinema targets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-a27c73ad)
+- 2026-10-24 | `dailymirrorlk-a7150419` | Eight-hour bus ride for blockbuster puts Jaffna on PVR’s map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-a7150419)
+- 2026-10-24 | `dailymirrorlk-e09dd3de` | Grand Hyatt heads to bidders; plans Colombo-first entry and four or five more destinations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-e09dd3de)
 - 2026-10-24 | `dailymirrorlk-bf0bdb9e` | Kuwait investigates suspected foul play in deaths of two Sri Lankan women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-bf0bdb9e)
+- 2026-10-24 | `dailymirrorlk-8154d06f` | Govt. to close 34 state institutions to cut public expenditure: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-8154d06f)
 - 2026-10-24 | `dailymirrorlk-f9c833e9` | Suspected narcotics found in sacks and travel bags on Naotunna beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f9c833e9)
+- 2026-10-24 | `dailymirrorlk-d48abf9c` | Fake bank giveaway uses Vap Poya as bait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d48abf9c)
 - 2026-10-24 | `dailymirrorlk-d2b8234d` | Magnitude 7.2 earthquake strikes waters near Vanuatu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-d2b8234d)
-- 2026-10-24 | `dailymirrorlk-2f274dde` | Four Thai women arrested in Wellawatte brothel raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-2f274dde)
-- 2026-10-24 | `dailymirrorlk-db8e77cd` | Rainfall to increase as Bay of Bengal system intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-db8e77cd)
-- 2026-10-23 | `dailyftlk-a17a5b46` | Court has no authority to order reinstatement of Gnanasara Thera’s robe: HC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-a17a5b46)
-- 2026-10-23 | `dailyftlk-3b6b00cb` | Bay of Bengal system to become cyclone by Monday; no direct impact on Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-3b6b00cb)
-- 2026-10-23 | `dailyftlk-c131ed41` | How did Sri Lanka get to war?  ‘Teardrop Nation’ traces road to 2009 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-c131ed41)
-- 2026-10-23 | `dailyftlk-0614eb63` | From SL to NY Times Square: Infinite Grace Foundation launches in the US | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-0614eb63)
-- 2026-10-23 | `dailyftlk-64f062ec` | Beyond the robe: Sangha, rule of law and monastic accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-64f062ec)
-- 2026-10-23 | `dailyftlk-55b4498c` | The Gnanasara Thera pardon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-55b4498c)
-- 2026-10-23 | `dailyftlk-db35ae20` | Proposed laws risk entrenching State power and enabling repression | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-db35ae20)
-- 2026-10-23 | `dailyftlk-a1d36301` | Democracy, monkhood and economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-a1d36301)
-- 2026-10-23 | `dailyftlk-10cbc19d` | Monkish Black Magic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-10cbc19d)
-- 2026-10-23 | `dailyftlk-a4d31f8d` | Prof. Sarath Kodithuwakku: Legacy beyond lecture hall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-a4d31f8d)
-- 2026-10-23 | `dailyftlk-d475517e` | EDB selects University of Kelaniya for language support at Sri Lanka Expo 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-d475517e)
-- 2026-10-23 | `dailyftlk-ba469bb4` | Sri Lankan companies take hospitality products and services to Maldives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailyftlk-ba469bb4)
-- 2026-10-23 | `dailymirrorlk-b21df91d` | Six killed in attack at church in Jordan, authorities say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-b21df91d)
-- 2026-10-23 | `dailymirrorlk-6175b158` | Fire erupts at machinery store in Nittambuwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-6175b158)
-- 2026-10-23 | `dailymirrorlk-445fca38` | Three Sri Lankans detained near Indo-Nepal border | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-23-dailymirrorlk-445fca38)
+- 2026-10-24 | `dailymirrorlk-e6c7f17e` | Tea auction sees mixed demand as offerings edge above 5mnkg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-e6c7f17e)
+- 2026-10-24 | `dailymirrorlk-755e535d` | Lanka IOC profit slides despite 38% revenue growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-755e535d)
+- 2026-10-24 | `dailymirrorlk-276635ed` | Secondary market ends the week on quiet footing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-276635ed)
+- 2026-10-24 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-421ed8bb)
+- 2026-10-24 | `dailymirrorlk-f95a2a6c` | ComBank empowers next generation with milestone 200th STEM Classroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f95a2a6c)
+- 2026-10-24 | `dailymirrorlk-88cd6508` | Emirates Skywards brings back popular ‘Mile-A-Minute’ offer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-88cd6508)
+- 2026-10-24 | `dailymirrorlk-fc3bdbc4` | Yellow House Productions launches ‘Whose’ free online game | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-fc3bdbc4)
 
 ---
 

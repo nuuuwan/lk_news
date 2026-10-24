@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-24 12:03:18",
-  "n_docs": 133831,
+  "time_updated": "2026-10-24 14:00:25",
+  "n_docs": 133849,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133831,
+  "n_docs_with_text": 133849,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-24",
-  "dataset_size": 2070919065,
+  "dataset_size": 2071003301,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-bf0bdb9e",
-    "num": "dailymirrorlk-bf0bdb9e",
+    "doc_id": "2026-10-24-dailymirrorlk-77405bfc",
+    "num": "dailymirrorlk-77405bfc",
     "date_str": "2026-10-24",
-    "description": "Kuwait investigates suspected foul play in deaths of two Sri Lankan women",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-investigates-suspected-foul-play-in-deaths-of-two-Sri-Lankan-women/108-353311",
+    "description": "Man arrested with two pistols, ammunition in Mawanella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-with-two-pistols-ammunition-in-Mawanella/108-353332",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792820772.0
+    "time_ut": 1792830206.0
   }
 }
