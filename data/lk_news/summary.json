@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-24 15:55:06",
-  "n_docs": 133859,
+  "time_updated": "2026-10-24 18:00:06",
+  "n_docs": 133866,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133859,
+  "n_docs_with_text": 133866,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-24",
-  "dataset_size": 2071169902,
+  "dataset_size": 2071251228,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-77405bfc",
-    "num": "dailymirrorlk-77405bfc",
+    "doc_id": "2026-10-24-dailymirrorlk-afccd3d3",
+    "num": "dailymirrorlk-afccd3d3",
     "date_str": "2026-10-24",
-    "description": "Man arrested with two pistols, ammunition in Mawanella",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-with-two-pistols-ammunition-in-Mawanella/108-353332",
+    "description": "Naval, fishing communities cautioned not to venture into deep sea",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Naval-fishing-communities-cautioned-not-to-venture-into-deep-sea/108-353340",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792830206.0
+    "time_ut": 1792843651.0
   }
 }

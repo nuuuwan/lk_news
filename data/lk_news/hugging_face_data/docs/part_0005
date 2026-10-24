@@ -87061,5 +87061,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792830206.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-4369270a",
+    "num": "dailymirrorlk-4369270a",
+    "date_str": "2026-10-24",
+    "description": "New regulations gazetted on imprisoned Buddhist monks\u2019 attire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-regulations-gazetted-on-imprisoned-Buddhist-monks-attire/108-353333",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792832618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-f2809af3",
+    "num": "dailymirrorlk-f2809af3",
+    "date_str": "2026-10-24",
+    "description": "Namal says imprisonment will not silence people\u2019s aspirations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-says-imprisonment-will-not-silence-peoples-aspirations/108-353335",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792837851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-b1bcf690",
+    "num": "dailymirrorlk-b1bcf690",
+    "date_str": "2026-10-24",
+    "description": "PTA for national security, section 149 for Anti-Corruption: Are both being applied fairly? \u2013 Cassilingam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PTA-for-national-security-section-149-for-Anti-Corruption-Are-both-being-applied-fairly-Cassilingam/108-353336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792838387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-284d48bb",
+    "num": "dailymirrorlk-284d48bb",
+    "date_str": "2026-10-24",
+    "description": "Diplomatic corps marks International Diplomat Day in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Diplomatic-corps-marks-International-Diplomat-Day-in-Colombo/108-353337",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792840156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-53c7a7b2",
+    "num": "dailymirrorlk-53c7a7b2",
+    "date_str": "2026-10-24",
+    "description": "Navy, Coast Guard seize over 475kg of Ice and heroin in Matara",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-Coast-Guard-seize-over-475kg-of-Ice-and-heroin-in-Matara/108-353338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792840368.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-94f4f1a3",
+    "num": "dailymirrorlk-94f4f1a3",
+    "date_str": "2026-10-24",
+    "description": "12-year-old schoolboy killed in crocodile attack in Galkiriyagama",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/12-year-old-schoolboy-killed-in-crocodile-attack-in-Galkiriyagama/108-353339",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792840504.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-24-dailymirrorlk-afccd3d3",
+    "num": "dailymirrorlk-afccd3d3",
+    "date_str": "2026-10-24",
+    "description": "Naval, fishing communities cautioned not to venture into deep sea",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Naval-fishing-communities-cautioned-not-to-venture-into-deep-sea/108-353340",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792843651.0
   }
 ]
