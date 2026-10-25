@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-25 08:00:54",
-  "n_docs": 133869,
+  "time_updated": "2026-10-25 09:56:36",
+  "n_docs": 133871,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133869,
+  "n_docs_with_text": 133871,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-24",
-  "dataset_size": 2071314325,
+  "date_str_max": "2026-10-25",
+  "dataset_size": 2071318030,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-24-dailymirrorlk-29893c1c",
-    "num": "dailymirrorlk-29893c1c",
-    "date_str": "2026-10-24",
-    "description": "Soldier killed, 11 injured in Army defender crash in Mannar",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Soldier-killed-11-injured-in-Army-defender-crash-in-Mannar/108-353344",
+    "doc_id": "2026-10-25-dailymirrorlk-9a0b6da1",
+    "num": "dailymirrorlk-9a0b6da1",
+    "date_str": "2026-10-25",
+    "description": "27 crew members fall ill aboard Iranian tankers off Galle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/27-crew-members-fall-ill-aboard-Iranian-tankers-off-Galle/108-353346",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792859048.0
+    "time_ut": 1792900683.0
   }
 }
