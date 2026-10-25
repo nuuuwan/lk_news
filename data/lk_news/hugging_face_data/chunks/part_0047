@@ -115939,5 +115939,39 @@ cships exited the strait, one carrying fertiliser and the other sailing in balla
     "md5": "39c9f6ece006b69034507cb9092801a0",
     "chunk_size_bytes": 646,
     "chunk_text": "27 crew members fall ill aboard Iranian tankers off Galle\n\nGalle, Oct 25 (Daily Mirror):\u00a0Twenty-seven crew members aboard Iranian crude oil tankers anchored off the southern coast of Sri Lanka were brought ashore yesterday afternoon after falling ill, according to the Southern Province Senior Deputy Inspector General (DIG) Office.\n\nThe evacuation was carried out following the intervention of the Ministry of Foreign Affairs, with the Sri Lanka Navy deploying two craft to transport the sick crew members from the vessels to the Galle Port.\n\nThe crew member reportedly transfered to a private hospital in Colombo for further medical treatment."
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-f1b96b05",
+    "num": "dailymirrorlk-f1b96b05",
+    "date_str": "2026-10-25",
+    "description": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "url_metadata": "https://www.dailymirror.lk/international/Almost-1-000-arrested-as-clashes-follow-another-day-of-mass-protests-across-France/107-353348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792905526.0,
+    "chunk_id": "2026-10-25-dailymirrorlk-f1b96b05-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "b034a8e2a2be814b5bafdba910507a6f",
+    "chunk_size_bytes": 1859,
+    "chunk_text": "Almost 1,000 arrested as clashes follow another day of mass protests across France\n\nBBC:\u00a0Nearly 1,000 arrests were made as hundreds of thousands of people took part in another day of protests across France which were followed by some clashes late on Saturday, officials have said.\n\nAfter a day of largely peaceful demonstrations, police fired tear gas and water cannon to disperse protesters in a number of cities including Paris, while barricades were set alight in Marseille and people ripped boards from a shop in Bordeaux.\n\nBut officials have so far managed to avoid rioting and looting on the scale seen last weekend, which resulted in some of the worst scenes of disorder in France's modern history.\n\nThe interior ministry said an estimated 410,000 people protested on Saturday, while the unions put the number at about 800,000.\n\nSome 70,000 police officers were deployed and restrictions imposed in several cities to prevent the latest protests over the cost of living and poor school conditions from descending into the kind of chaos which saw officers outnumbered, hundreds of businesses looted and buildings torched.\n\nPresident Emmanuel Macron had decreed earlier this week that only demonstrations organised by a recognised trade unions would be permitted. Hundreds of people have been jailed for vandalism, arson and looting after fast-track court hearings in recent days.\n\nClashes between protesters and riot police in Paris erupted at the end of a peaceful march from the city's Porte d'Italie towards Porte de Vincennes on Saturday, where the police operation included an elite unit that usually deals with organised crime and counter-terrorism.\n\nSome protesters were seen erecting makeshift barricades and pelting officers with projectiles, while police baton-charged groups of masked youths who were smashing the windows of a car dealership."
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-f1b96b05",
+    "num": "dailymirrorlk-f1b96b05",
+    "date_str": "2026-10-25",
+    "description": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "url_metadata": "https://www.dailymirror.lk/international/Almost-1-000-arrested-as-clashes-follow-another-day-of-mass-protests-across-France/107-353348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792905526.0,
+    "chunk_id": "2026-10-25-dailymirrorlk-f1b96b05-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "08b0c4224dd788bc8a6a5eb6443f4f58",
+    "chunk_size_bytes": 741,
+    "chunk_text": "Clashes between protesters and riot police in Paris erupted at the end of a peaceful march from the city's Porte d'Italie towards Porte de Vincennes on Saturday, where the police operation included an elite unit that usually deals with organised crime and counter-terrorism.\n\nSome protesters were seen erecting makeshift barricades and pelting officers with projectiles, while police baton-charged groups of masked youths who were smashing the windows of a car dealership.\n\nA law enforcement vehicle was seen driving through a burning barricade in France's second-largest city.\n\nMeanwhile, some protesters in dark clothing and face coverings were seen taking boards off a building to build a street barricade in the southern city of Bordeaux"
   }
 ]

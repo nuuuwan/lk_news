@@ -87193,5 +87193,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792900683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-f1b96b05",
+    "num": "dailymirrorlk-f1b96b05",
+    "date_str": "2026-10-25",
+    "description": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "url_metadata": "https://www.dailymirror.lk/international/Almost-1-000-arrested-as-clashes-follow-another-day-of-mass-protests-across-France/107-353348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792905526.0
   }
 ]
