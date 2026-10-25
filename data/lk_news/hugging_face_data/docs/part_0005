@@ -87196,6 +87196,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-13106328",
+    "num": "dailymirrorlk-13106328",
+    "date_str": "2026-10-25",
+    "description": "Devotees observe Vap Poya Day",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Devotees-observe-Vap-Poya-Day/110-353347",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792904013.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-25-dailymirrorlk-f1b96b05",
     "num": "dailymirrorlk-f1b96b05",
     "date_str": "2026-10-25",
@@ -87270,5 +87281,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792921564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-65500a3b",
+    "num": "dailymirrorlk-65500a3b",
+    "date_str": "2026-10-25",
+    "description": "Sri Lanka repatriates 40 Iranian sailors after humanitarian rescue off Galle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-repatriates-40-Iranian-sailors-after-humanitarian-rescue-off-Galle/108-353356",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792932618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-c3d2997e",
+    "num": "dailymirrorlk-c3d2997e",
+    "date_str": "2026-10-25",
+    "description": "Disaster response teams deployed as Bay of Bengal depression intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Disaster-response-teams-deployed-as-Bay-of-Bengal-depression-intensifies/108-353357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792932682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-b0d3e89f",
+    "num": "dailymirrorlk-b0d3e89f",
+    "date_str": "2026-10-25",
+    "description": "Train services between Rambukkana, Gampola suspended until further notice",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-services-between-Rambukkana-Gampola-suspended-until-further-notice/108-353358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792932993.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-5252013a",
+    "num": "dailymirrorlk-5252013a",
+    "date_str": "2026-10-25",
+    "description": "Indian Navy training squadron to visit Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-Navy-training-squadron-to-visit-Colombo/108-353360",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792934026.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-a9aa4e58",
+    "num": "dailymirrorlk-a9aa4e58",
+    "date_str": "2026-10-25",
+    "description": "Update: 12 children injured in Koggala bus-train collision",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-12-children-injured-in-Koggala-bus-train-collision/108-353361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792934140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-0d66f267",
+    "num": "dailymirrorlk-0d66f267",
+    "date_str": "2026-10-25",
+    "description": "Satyagraha campaign demanding Gnanasara Thero\u2019s release temporarily suspended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Satyagraha-campaign-demanding-Gnanasara-Theros-release-temporarily-suspended/108-353362",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792934286.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-136c480d",
+    "num": "dailymirrorlk-136c480d",
+    "date_str": "2026-10-25",
+    "description": "What advice have Mahanayake Theros given to satyagraha monks?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-advice-have-Mahanayake-Theros-given-to-satyagraha-monks/108-353363",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792936678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-d71a5228",
+    "num": "dailymirrorlk-d71a5228",
+    "date_str": "2026-10-25",
+    "description": "Who is Gadi Eisenkot, Netanyahu\u2019s main challenger in Israel\u2019s elections?",
+    "url_metadata": "https://www.dailymirror.lk/international/Who-is-Gadi-Eisenkot-Netanyahus-main-challenger-in-Israels-elections/107-353364",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792937210.0
   }
 ]
