@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--25_13:59:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--25_15:56:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,876** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,878** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-25-dailymirrorlk-f748bfd4",
-    "num": "dailymirrorlk-f748bfd4",
+    "doc_id": "2026-10-25-dailymirrorlk-ac58dd1a",
+    "num": "dailymirrorlk-ac58dd1a",
     "date_str": "2026-10-25",
-    "description": "Middle East war serves no one, says PM Harini",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Middle-East-war-serves-no-one-says-PM-Harini/108-353352",
+    "description": "Ten injured as train collides with bus carrying students in Habaraduwa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ten-injured-as-train-collides-with-bus-carrying-students-in-Habaraduwa/108-353354",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792916000.0
+    "time_ut": 1792921564.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-25 | `dailymirrorlk-ac58dd1a` | Ten injured as train collides with bus carrying students in Habaraduwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-25-dailymirrorlk-ac58dd1a)
+- 2026-10-25 | `dailymirrorlk-3b769399` | Heavy rainfall exceeding 100 mm forecast in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-25-dailymirrorlk-3b769399)
 - 2026-10-25 | `dailymirrorlk-f748bfd4` | Middle East war serves no one, says PM Harini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-25-dailymirrorlk-f748bfd4)
 - 2026-10-25 | `dailymirrorlk-3a674085` | England under pressure after record-breaking collapse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-25-dailymirrorlk-3a674085)
 - 2026-10-25 | `dailymirrorlk-40ab1f22` | At least 12 people injured in shooting near a football stadium in Florida | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-25-dailymirrorlk-40ab1f22)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-24 | `dailymirrorlk-f2809af3` | Namal says imprisonment will not silence people’s aspirations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-f2809af3)
 - 2026-10-24 | `dailymirrorlk-4369270a` | New regulations gazetted on imprisoned Buddhist monks’ attire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-4369270a)
 - 2026-10-24 | `dailymirrorlk-77405bfc` | Man arrested with two pistols, ammunition in Mawanella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-77405bfc)
-- 2026-10-24 | `dailymirrorlk-3a9bf0e2` | Police warn public of financial scams using fake dating Apps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-3a9bf0e2)
-- 2026-10-24 | `dailymirrorlk-b6f6764f` | Thilina Weerasinghe and the Dark Side  of Sri Lanka’s Smiling Face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-24-dailymirrorlk-b6f6764f)
 
 ---
 

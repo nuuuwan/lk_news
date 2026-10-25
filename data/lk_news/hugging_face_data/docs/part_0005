@@ -87248,5 +87248,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792916000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-3b769399",
+    "num": "dailymirrorlk-3b769399",
+    "date_str": "2026-10-25",
+    "description": "Heavy rainfall exceeding 100 mm forecast in several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rainfall-exceeding-100-mm-forecast-in-several-areas/108-353353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792920135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-25-dailymirrorlk-ac58dd1a",
+    "num": "dailymirrorlk-ac58dd1a",
+    "date_str": "2026-10-25",
+    "description": "Ten injured as train collides with bus carrying students in Habaraduwa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ten-injured-as-train-collides-with-bus-carrying-students-in-Habaraduwa/108-353354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792921564.0
   }
 ]
