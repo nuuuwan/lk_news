@@ -88109,6 +88109,28 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-e3a6f066",
+    "num": "dailymirrorlk-e3a6f066",
+    "date_str": "2026-10-26",
+    "description": "Japan provides Rs. 600 million for Kelani River water quality project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Japan-provides-Rs-600-million-for-Kelani-River-water-quality-project/108-353429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793010991.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-b01b102b",
+    "num": "dailymirrorlk-b01b102b",
+    "date_str": "2026-10-26",
+    "description": "SLPP establishes 60% of electorate-level branch committees",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-establishes-60-of-electorate-level-branch-committees/108-353431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793011242.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-26-dailymirrorlk-3461a636",
     "num": "dailymirrorlk-3461a636",
     "date_str": "2026-10-26",
@@ -88128,6 +88150,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793013392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-eef83184",
+    "num": "dailymirrorlk-eef83184",
+    "date_str": "2026-10-26",
+    "description": "Lawyer summoned over viral video alleging assault at Dematagoda Police Station",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lawyer-summoned-over-viral-video-alleging-assault-at-Dematagoda-Police-Station/108-353434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793013521.0
   },
   {
     "doc_type": "lk_news",
@@ -88172,5 +88205,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793018210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-210972f9",
+    "num": "dailymirrorlk-210972f9",
+    "date_str": "2026-10-26",
+    "description": "Three Homagama Police officers suspended over suspect\u2019s death in custody",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-Homagama-Police-officers-suspended-over-suspects-death-in-custody/108-353442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793022830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-73ed081b",
+    "num": "dailymirrorlk-73ed081b",
+    "date_str": "2026-10-26",
+    "description": "Flood warnings issued for Kelani, Attanagalu Oya basins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-warnings-issued-for-Kelani-Attanagalu-Oya-basins/108-353444",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793023600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-5c0b2cf3",
+    "num": "dailymirrorlk-5c0b2cf3",
+    "date_str": "2026-10-26",
+    "description": "Cyclone Arnab: Over 10,500 affected, one dead as severe weather hits 12 districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyclone-Arnab-Over-10-500-affected-one-dead-as-severe-weather-hits-12-districts/108-353445",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793023709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-c86d255d",
+    "num": "dailymirrorlk-c86d255d",
+    "date_str": "2026-10-26",
+    "description": "Motorists urged to reduce speed due to rising accidents during rainy weather",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Motorists-urged-to-reduce-speed-due-to-rising-accidents-during-rainy-weather/108-353446",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793025555.0
   }
 ]
