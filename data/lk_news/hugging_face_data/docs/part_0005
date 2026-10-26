@@ -87996,5 +87996,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793001423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-288f8693",
+    "num": "dailymirrorlk-288f8693",
+    "date_str": "2026-10-26",
+    "description": "Democracy in Parliament being destroyed: SJB MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Democracy-in-Parliament-being-destroyed-SJB-MP/108-353415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793003571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-bcee6489",
+    "num": "dailymirrorlk-bcee6489",
+    "date_str": "2026-10-26",
+    "description": "Provincial heads empowered to decide on school closures",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Provincial-heads-empowered-to-decide-on-school-closures/108-353416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793003866.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-f4d69406",
+    "num": "dailymirrorlk-f4d69406",
+    "date_str": "2026-10-26",
+    "description": "Serbia\u2019s Vucic concedes election defeat to student-led movement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Serbias-Vucic-concedes-election-defeat-to-student-led-movement/108-353418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793005254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-f455de65",
+    "num": "dailymirrorlk-f455de65",
+    "date_str": "2026-10-26",
+    "description": "India helped Sri Lanka survive the crisis \u2014 now Indian investment can transform its future",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-helped-Sri-Lanka-survive-the-crisis-now-Indian-investment-can-transform-its-future/108-353419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793005392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-767961f6",
+    "num": "dailymirrorlk-767961f6",
+    "date_str": "2026-10-26",
+    "description": "Bus driver to face criminal action over Habaraduwa train collision",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-driver-to-face-criminal-action-over-Habaraduwa-train-collision/108-353420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793005744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-e452e572",
+    "num": "dailymirrorlk-e452e572",
+    "date_str": "2026-10-26",
+    "description": "Audit exposes regulatory gaps in Sri Lanka\u2019s electric vehicle sector",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Audit-exposes-regulatory-gaps-in-Sri-Lankas-electric-vehicle-sector/108-353421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793009230.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-8520df5b",
+    "num": "dailymirrorlk-8520df5b",
+    "date_str": "2026-10-26",
+    "description": "Thabbowa Reservoir releases 2,640 cusecs into Mee Oya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thabbowa-Reservoir-releases-2-640-cusecs-into-Mee-Oya/108-353422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793009630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-e18288de",
+    "num": "dailymirrorlk-e18288de",
+    "date_str": "2026-10-26",
+    "description": "SC nullifies Ranil Wickremesinghe\u2019s remission of maintenance defaulter\u2019s prison sentence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SC-nullifies-Ranil-Wickremesinghes-remission-of-maintenance-defaulters-prison-sentence/108-353423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793010042.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-f0c38971",
+    "num": "dailymirrorlk-f0c38971",
+    "date_str": "2026-10-26",
+    "description": "Rajinikanth\u2019s \u2019Jailer 2\u2019 becomes highest-grossing Tamil film ever",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajinikanths-Jailer-2-becomes-highest-grossing-Tamil-film-ever/108-353424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793010152.0
   }
 ]
