@@ -1,0 +1,65 @@
+Cleaner, but not yet cheaper to invest in: Sri Lanka’s anti-corruption gains and investment question
+
+Perception scores have turned and prosecutions have risen. But investment has recovered only in step with the region, and nearly a decade of data shows corruption ratings alone do not drive it
+
+Sri Lanka has spent two years trying to convince the world that it is serious about corruption. There is progress to show on that front. There is less evidence that it has yet changed the country’s standing with foreign investors.
+
+Transparency International’s Corruption Perceptions Index scores countries from 0 (highly corrupt) to 100 (very clean). Sri Lanka’s score fluctuated between 36 and 38 from 2013 to 2019 and stood at 37 in 2021. Then it began to slide: 36 in 2022, 34 in 2023, with a rank of 115, and 32 in 2024. The 2024 rank of 121 was the worst on record. In 2025 the trend reversed. The score rose to 35, and the rank improved to 107.
+
+Transparency International Sri Lanka cautioned against over-reading this. It said the 14-place jump overstates the improvement, since the underlying score rose by only three points. Perception indices also lag events, so the 2024 figure partly reflects the period before the change of Government.
+
+The sharpest change is in how the system treats powerful people. A retired High Court judge was appointed to head the Commission to Investigate Allegations of Bribery or Corruption in January 2025, and investigations and charges involving former ministers and senior officials followed. Parliament was told that 226 people were arrested between October 2024 and October 2026, including 55 politicians. The August 2025 arrest of former president Ranil Wickremasinghe was the first of a former head of state. Arrests are not convictions, and every case remains subject to due process.
+
+Institutional reform is also moving. A beneficial ownership register was launched on 31 March 2026. The legal groundwork came earlier: the 2023 Anti-Corruption Act created the pathway the current Government is using. Assessments of that period were cautious about enforcement. The International Crisis Group argued that the Government’s reliance on the largest party in Parliament inhibited investigations into the powerful.
+
+Questions remain on both sides. The Government’s opposition to a no-confidence motion against its energy minister damaged its reform credentials. Commentators have also warned that accountability for past wrongdoing must be matched by safeguards against abuse of state power.
+
+Sri Lanka’s FDI figures are quoted on two different bases, which is why headlines differ. The international standard, used by the Central Bank, the World Bank, the IMF and UNCTAD, is net FDI on a balance-of-payments basis. It counts equity, reinvested earnings and inter-company debt, minus disinvestment. The Board of Investment instead reports gross inflows into its approved companies, including their foreign loans. This article uses the international measure.
+
+On that measure, UNCTAD’s World Investment Report 2026 puts inflows at $1.044 billion in 2025, up from $759 million in 2024, an increase of about 38%. The Board of Investment’s own basis showed a 72% rise, because its 2024 base was lower. Inflows then settled at close to $200 million a quarter in the first half of 2026, on preliminary Central Bank figures.
+
+That recovery is real but still below the pre-crisis peak. Net inflows reached about $1.6 billion in 2018, helped by one-off port deals, or about 1.7% of GDP. In 2025 they were about 1% of GDP. The inward FDI stock rose to $18.23 billion from $16.6 billion.
+
+The rebound also looks modest beside the region. FDI into South Asia as a whole rose from $34.1 billion to $46.1 billion, a gain of about 35%, so Sri Lanka roughly kept pace with its neighbours rather than outpacing them. Bangladesh’s inflows rose 45% to $1.78 billion, while Pakistan received $1.85 billion, down from $2.67 billion in 2024. India’s inflows rose 44% to $39 billion. Sri Lanka accounts for only about 2% of the regional total. On World Bank data for 2024, Sri Lanka ranked 139th among 182 countries on net FDI as a share of GDP, against a global average of 4.25%.
+
+A first-pass statistical analysis of Transparency International scores and Central Bank net FDI for 2016–2024 found only a weak link. The correlation was about 0.28 and statistically insignificant. Using the previous year’s score gave a result near zero. The score explained under 8% of the variation in FDI.
+
+The explanation is visible in the series. The score moved by a few points over the decade, while FDI swung between about $430 million and $1.6 billion on its own schedule. The 2018 peak came from port-related deals. The 2019 fall followed the Easter attacks, and the 2020 low came with the pandemic. Inflows then recovered only partly after the 2022 sovereign default. The analysis cautions that nine annual observations make this indicative rather than a causal test.
+
+Investors’ stated concerns go beyond corruption. The US State Department’s 2025 Investment Climate Statement says FDI remains constrained, with most transactions in the $3 million to $5 million range. Despite the Government’s $5 billion FDI target for 2025, experienced investors say policy stability, regulatory reform and improved transparency must come first. The same assessment cites project reversals, regulatory shifts and slow decision-making. Adani Green’s February 2025 withdrawal from a $400 million wind project over contract renegotiation is often cited as an example.
+
+The analysis adds that approval authority is spread across several agencies, so the Board of Investment struggles to act as a true one-stop shop. The Ease of Doing Business rank improved from 113th in 2014 to 99th in 2019. That fell short of the Government’s target of 70th, and the World Bank has since discontinued the index.
+
+Sri Lanka’s score of 35 is below the Asia-Pacific average of 45, but above Pakistan (28) and Bangladesh (24). It is also above the Sub-Saharan African average of 32, though behind Ghana’s 43.
+
+Yet Bangladesh, with the weaker score, drew more FDI in 2025. The analysis attributes this to design rather than governance scores. Bangladesh runs export zones with ring-fenced customs and tax administration, and Vietnam courts investors through sector-targeted promotion and single-window licensing. Sri Lanka’s pitch, by contrast, has been generic and has shifted with each Government.
+
+The analysis proposes four steps. Each is a proposal, not a Government commitment.
+
+Give the Board of Investment binding approval authority, with statutory decision deadlines of perhaps 30 to 45 days and a public dashboard of pending approvals.
+
+Concentrate incentives and promotion on three or four sectors where the country has a real advantage, such as apparel, IT services, logistics and tourism-linked manufacturing.
+
+Publish enforcement results and procurement and land-allocation scorecards for large investment projects.
+
+Protect signed investment agreements in statute, so that a change of Government cannot reopen them.
+
+Sri Lanka has made real but early gains: a stronger law, visible enforcement, and a rebound in its score. Whether they are substantial will depend on court outcomes. The investment dividend has not yet arrived. FDI has recovered about as fast as the region’s, from a low base and still below its 2018 peak. The evidence suggests that faster approvals, targeted promotion and stable policy would matter at least as much as the score itself.
+
+Transparency International, Corruption Perceptions Index 2023 (Sri Lanka country page) and CPI 2025: transparency.org/country/LKA; transparency.org/en/cpi/2025
+
+Daily FT, “Sri Lanka climbs to 107th in 2025 Corruption Index”: ft.lk/front-page/Sri-Lanka-climbs-to-107th-in-2025-Corruption-Index/44-788341
+
+Daily FT, CPI 2019 report (ft.lk/Front-Page/Sri-Lanka-stagnates-on-Corruption-Perceptions-Index/44-694229); Daily Mirror, CPI 2021 report (dailymirror.lk/front-page/SL-slips-to-104-in-the-latest-Corruption-Index/238-229805); Fact Crescendo, CPI 2024 score (srilanka.factcrescendo.com/english/?p=17057)
+
+UNCTAD, World Investment Report 2026, as reported by News 1st (newsfirst.lk/2026/07/08/un-report-shows-sri-lanka-rebounding-in-global-investment-race), The Daily Star (thedailystar.net/business/news/bangladesh-fdi-rose-45-2025-unctad-4217996) and UNCTAD (unctad.org/news/developing-asia-leads-investment-among-developing-regions-patterns-shift-within-region)
+
+Central Bank of Sri Lanka, Annual Report 2016 (cbsl.gov.lk) and quarterly balance-of-payments data; World Bank net FDI ranking via TheGlobalEconomy (theglobaleconomy.com/rankings/Foreign_Direct_Investment)
+
+US Department of State, 2025 Investment Climate Statement: Sri Lanka (state.gov/reports/2025-investment-climate-statements/sri-lanka)
+
+Daily Mirror, Deputy Minister’s statement to Parliament on arrests (dailymirror.lk, October 2026); ABC News, 1 September 2025, on the arrest of the former president (abc.net.au/news/2025-09-01/sri-lanka-anti-corruption-crackdown-ranil-wickremesinghe/105711702)
+
+The Diplomat, “Sri Lanka and the NPP’s First Year in Government”; Global Anti-Corruption Blog, April 2026, on the beneficial ownership register (globalanticorruptionblog.com/2026/04/14/from-diagnostic-to-implementation-an-update-from-sri-lanka); International Crisis Group, Report 341; The Morning, on Transparency International Sri Lanka’s comments; Colombo Telegraph, “Accountability Without Abuse of Power”
+
+Statistical analysis: Kiwi Consulting, Corruption Control and FDI in Sri Lanka, Step 2 (revised), nine annual observations, 2016–2024.

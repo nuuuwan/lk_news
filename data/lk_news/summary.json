@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-26 03:55:08",
-  "n_docs": 133887,
+  "time_updated": "2026-10-26 06:19:21",
+  "n_docs": 133894,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133887,
+  "n_docs_with_text": 133894,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-25",
-  "dataset_size": 2071475851,
+  "date_str_max": "2026-10-26",
+  "dataset_size": 2071559157,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-25-dailymirrorlk-d71a5228",
-    "num": "dailymirrorlk-d71a5228",
-    "date_str": "2026-10-25",
-    "description": "Who is Gadi Eisenkot, Netanyahu\u2019s main challenger in Israel\u2019s elections?",
-    "url_metadata": "https://www.dailymirror.lk/international/Who-is-Gadi-Eisenkot-Netanyahus-main-challenger-in-Israels-elections/107-353364",
+    "doc_id": "2026-10-26-dailyftlk-2ef28a77",
+    "num": "dailyftlk-2ef28a77",
+    "date_str": "2026-10-26",
+    "description": "Port Unions appeal to President to allow ECT to be operated by SLPA",
+    "url_metadata": "https://www.ft.lk/opinion/Port-Unions-appeal-to-President-to-allow-ECT-to-be-operated-by-SLPA/14-799153",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792937210.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792973321.0
   }
 }

@@ -87369,5 +87369,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792937210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-d61854e3",
+    "num": "dailyftlk-d61854e3",
+    "date_str": "2026-10-26",
+    "description": "Cleaner, but not yet cheaper to invest in: Sri Lanka\u2019s anti-corruption gains and investment question",
+    "url_metadata": "https://www.ft.lk/columns/Cleaner-but-not-yet-cheaper-to-invest-in-Sri-Lanka-s-anti-corruption-gains-and-investment-question/4-799142",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792969955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-18ff79ee",
+    "num": "dailyftlk-18ff79ee",
+    "date_str": "2026-10-26",
+    "description": "Vas Kavi menace in world of screenagers and sodcasters",
+    "url_metadata": "https://www.ft.lk/columns/Vas-Kavi-menace-in-world-of-screenagers-and-sodcasters/4-799143",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792970343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-6947a2c7",
+    "num": "dailyftlk-6947a2c7",
+    "date_str": "2026-10-26",
+    "description": "Economic transformation in Asian countries and lessons for  Sri Lanka on new ways of earning",
+    "url_metadata": "https://www.ft.lk/columns/Economic-transformation-in-Asian-countries-and-lessons-for-Sri-Lanka-on-new-ways-of-earning/4-799144",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792970811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-c70ee4a0",
+    "num": "dailyftlk-c70ee4a0",
+    "date_str": "2026-10-26",
+    "description": "Agentic AI: People and organisations at the crossroads",
+    "url_metadata": "https://www.ft.lk/columns/Agentic-AI-People-and-organisations-at-the-crossroads/4-799145",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792971256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-cad3dcdb",
+    "num": "dailyftlk-cad3dcdb",
+    "date_str": "2026-10-26",
+    "description": "Reflections from IMF and World Bank Annuals in Bangkok",
+    "url_metadata": "https://www.ft.lk/columns/Reflections-from-IMF-and-World-Bank-Annuals-in-Bangkok/4-799146",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792971696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-c28d82e0",
+    "num": "dailyftlk-c28d82e0",
+    "date_str": "2026-10-26",
+    "description": "A one-way strait: The equity anomaly sabotaging Indian investments into logistics",
+    "url_metadata": "https://www.ft.lk/opinion/A-one-way-strait-The-equity-anomaly-sabotaging-Indian-investments-into-logistics/14-799152",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792972516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailyftlk-2ef28a77",
+    "num": "dailyftlk-2ef28a77",
+    "date_str": "2026-10-26",
+    "description": "Port Unions appeal to President to allow ECT to be operated by SLPA",
+    "url_metadata": "https://www.ft.lk/opinion/Port-Unions-appeal-to-President-to-allow-ECT-to-be-operated-by-SLPA/14-799153",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1792973321.0
   }
 ]
