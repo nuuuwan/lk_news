@@ -87592,6 +87592,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-cf3c55f4",
+    "num": "dailymirrorlk-cf3c55f4",
+    "date_str": "2026-10-26",
+    "description": "Police open fire on fleeing three-wheeler in Kalutara",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-open-fire-on-fleeing-three-wheeler-in-Kalutara/108-353367",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792980148.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-26-dailymirrorlk-389c3568",
     "num": "dailymirrorlk-389c3568",
     "date_str": "2026-10-26",
@@ -87600,5 +87611,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792980407.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-48ba4663",
+    "num": "dailymirrorlk-48ba4663",
+    "date_str": "2026-10-26",
+    "description": "Shadab\u2019s heroics seal thrilling Pakistan win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shadabs-heroics-seal-thrilling-Pakistan-win/108-353373",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792982173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-0ad1b57e",
+    "num": "dailymirrorlk-0ad1b57e",
+    "date_str": "2026-10-26",
+    "description": "Rainy weather drives vegetable prices higher",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainy-weather-drives-vegetable-prices-higher/108-353392",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792988296.0
   }
 ]
