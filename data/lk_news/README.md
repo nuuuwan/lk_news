@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_02:00:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_03:57:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,019** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,022** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailyftlk-9d0bd6b1",
-    "num": "dailyftlk-9d0bd6b1",
+    "doc_id": "2026-10-27-dailyftlk-a65cab49",
+    "num": "dailyftlk-a65cab49",
     "date_str": "2026-10-27",
-    "description": "Sumathi Holdings celebrates 70 years of success",
-    "url_metadata": "https://www.ft.lk/business/Sumathi-Holdings-celebrates-70-years-of-success/34-799217",
+    "description": "Sajith discusses proposed  anti-terrorism, organised  crime laws with diplomatic corps",
+    "url_metadata": "https://www.ft.lk/news/Sajith-discusses-proposed-anti-terrorism-organised-crime-laws-with-diplomatic-corps/56-799220",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1793046351.0
+    "time_ut": 1793046591.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-27 | `dailyftlk-a65cab49` | Sajith discusses proposed  anti-terrorism, organised  crime laws with diplomatic corps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-a65cab49)
+- 2026-10-27 | `dailyftlk-290841e6` | UNP demands immediate presidential pardon for Gnanasara Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-290841e6)
+- 2026-10-27 | `dailyftlk-e7af3ddc` | Supreme Court enters decisive judgement in relation to jurisdiction of Commercial High Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-e7af3ddc)
 - 2026-10-27 | `dailyftlk-9d0bd6b1` | Sumathi Holdings celebrates 70 years of success | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-9d0bd6b1)
 - 2026-10-27 | `dailyftlk-62113aa0` | OPA presents collective professional proposals for Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-62113aa0)
 - 2026-10-27 | `dailyftlk-b12df073` | Digital VAT in Sri Lanka: Why platform liability and reverse charge are essential to avoid costing households and Treasury | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-b12df073)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-26 | `dailymirrorlk-5c0b2cf3` | Cyclone Arnab: Over 10,500 affected, one dead as severe weather hits 12 districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-5c0b2cf3)
 - 2026-10-26 | `dailymirrorlk-73ed081b` | Flood warnings issued for Kelani, Attanagalu Oya basins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-73ed081b)
 - 2026-10-26 | `dailymirrorlk-210972f9` | Three Homagama Police officers suspended over suspect’s death in custody | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-210972f9)
-- 2026-10-26 | `economynextcom-07dad614` | Sri Lanka’s Bank of Ceylon to raise upto Rs30bn in debenture sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-economynextcom-07dad614)
-- 2026-10-26 | `dailymirrorlk-c81e3356` | CSE tests lower levels as buyers emerge selectively | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-c81e3356)
-- 2026-10-26 | `dailymirrorlk-9ac7cc3a` | Tour guide killed in elephant attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-9ac7cc3a)
 
 ---
 
