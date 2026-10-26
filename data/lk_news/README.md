@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--26_10:00:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--26_12:13:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**133,911** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**133,917** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-26-dailymirrorlk-0ad1b57e",
-    "num": "dailymirrorlk-0ad1b57e",
+    "doc_id": "2026-10-26-dailymirrorlk-c941b6dc",
+    "num": "dailymirrorlk-c941b6dc",
     "date_str": "2026-10-26",
-    "description": "Rainy weather drives vegetable prices higher",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainy-weather-drives-vegetable-prices-higher/108-353392",
+    "description": "\u2018People cannot be fooled by political dynasties\u2019: President Dissanayake on Lula\u2019s victory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/People-cannot-be-fooled-by-political-dynasties-President-Dissanayake-on-Lulas-victory/108-353404",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792988296.0
+    "time_ut": 1792994629.0
 }
 ```
 
@@ -41,8 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-26 | `dailymirrorlk-c941b6dc` | ‘People cannot be fooled by political dynasties’: President Dissanayake on Lula’s victory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-c941b6dc)
+- 2026-10-26 | `dailymirrorlk-9510b7fe` | US warship USS Canberra arrives in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-9510b7fe)
+- 2026-10-26 | `dailymirrorlk-44cd30b0` | Supreme Court delivers decisive judgment over jurisdiction of Commercial High Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-44cd30b0)
+- 2026-10-26 | `dailymirrorlk-acf06d2d` | Second Norochcholai generator shut down for maintenance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-acf06d2d)
 - 2026-10-26 | `dailymirrorlk-0ad1b57e` | Rainy weather drives vegetable prices higher | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-0ad1b57e)
+- 2026-10-26 | `dailymirrorlk-d5758d29` | When would railway accidents come to an end? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-d5758d29)
 - 2026-10-26 | `dailymirrorlk-48ba4663` | Shadab’s heroics seal thrilling Pakistan win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-48ba4663)
+- 2026-10-26 | `dailymirrorlk-a993d4f2` | Pine Labs and WEBXPAY bring Indian payment experience to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-a993d4f2)
 - 2026-10-26 | `dailymirrorlk-389c3568` | Lula wins fourth term in Brazil but faces hostile Congress and divided country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-389c3568)
 - 2026-10-26 | `dailymirrorlk-cf3c55f4` | Police open fire on fleeing three-wheeler in Kalutara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-cf3c55f4)
 - 2026-10-26 | `dailymirrorlk-9c30b0cc` | Family alleges police brutality after suspect dies in Homagama Police custody | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-9c30b0cc)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-26 | `dailyftlk-1d4f79c9` | Cabinet clears drafting of Bill to amend Ayurveda Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-1d4f79c9)
 - 2026-10-26 | `dailyftlk-247182b9` | Cabinet awards Rs. 562 m wastewater plant contract for Welipenna Expressway Service Area to Water Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-247182b9)
 - 2026-10-26 | `dailyftlk-8bcb64ab` | National forum to strengthen dialogue in public service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-8bcb64ab)
-- 2026-10-26 | `dailyftlk-acf481df` | Gamani Corea Foundation Memorial Lecture on Sri Lanka’s foreign policy on 4 Nov. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-acf481df)
-- 2026-10-26 | `dailyftlk-81194fec` | Sri Lanka, Romania hold sixth round of political consultations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-81194fec)
-- 2026-10-26 | `dailyftlk-1db26cb0` | Monks pause protest seeking Gnanasara release | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-1db26cb0)
-- 2026-10-26 | `dailyftlk-2ef28a77` | Port Unions appeal to President to allow ECT to be operated by SLPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-2ef28a77)
-- 2026-10-26 | `dailyftlk-c28d82e0` | A one-way strait: The equity anomaly sabotaging Indian investments into logistics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-c28d82e0)
-- 2026-10-26 | `dailyftlk-cad3dcdb` | Reflections from IMF and World Bank Annuals in Bangkok | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailyftlk-cad3dcdb)
 
 ---
 

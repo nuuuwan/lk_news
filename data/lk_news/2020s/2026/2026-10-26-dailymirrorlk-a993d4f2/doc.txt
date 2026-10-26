@@ -1,0 +1,15 @@
+Pine Labs and WEBXPAY bring Indian payment experience to Sri Lanka
+
+Pine Labs and WEBXPAY have entered into a strategic cross-border payments partnership, the first Payment Aggregator-to-Payment Aggregator (PA-on-PA) collaboration of its kind in Sri Lanka under India’s RBI-authorised PA-CB framework.
+
+The PA-CB structure allows licensed Indian payment aggregators to partner directly with international aggregators, enabling Indian payment methods to be accepted abroad within a regulated, compliant framework.
+
+Through this partnership, WEBXPAY’s merchant network spanning hospitality, travel, retail and online commerce across Sri Lanka, can now accept UPI, UPI AutoPay, cards across major Indian issuers, net banking across 100+ banks, EMI conversions, and Credit on UPI, with T+1 settlement, embedded natively within existing integrations and available at scale from day one.
+
+For Sri Lankan merchants this is a meaningful commercial unlock. Indian travellers are already walking through their doors, now they can pay the way they do at home, on rails they trust, without any changes to their existing payment infrastructure.
+
+“India’s payment stack is one of the most sophisticated in the world and Indian consumers carry that expectation with them when they travel. At Pine Labs, we believe the next frontier of cross-border commerce is making that experience portable. Sri Lanka is our first activation under the PA-CB framework, and we intend to replicate this model across Southeast Asia and every market where Indian travellers and consumers are a meaningful commercial force,” said Tanya Naik, Sr. EVP & Head of Online Business, Pine Labs. Commenting on the partnership, Thilak Piyadigama, Executive Chairman of WEBXPAY said, “India is Sri Lanka’s largest tourism market and one of our most important economic partners. Indian customers already know and trust payment methods such as UPI, cards and net banking. Bringing that familiarity into the online checkout experience of Sri Lankan merchants can remove a significant point of friction and help businesses convert more Indian demand into revenue.”
+
+“We selected Pine Labs because of the strength of its Indian payment infrastructure, breadth of payment options and ability to support a regulated cross-border model at scale. Together, we are creating a practical digital payment bridge that gives Sri Lankan businesses greater access to one of the world’s largest and most dynamic consumer markets.”
+
+The partnership establishes a scalable model through which Pine Labs and WEBXPAY can support the growth of cross-border commerce between India and Sri Lanka, with the potential for similar collaborations across other international markets.

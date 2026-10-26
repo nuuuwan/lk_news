@@ -87614,6 +87614,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-a993d4f2",
+    "num": "dailymirrorlk-a993d4f2",
+    "date_str": "2026-10-26",
+    "description": "Pine Labs and WEBXPAY bring Indian payment experience to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business/Pine-Labs-and-WEBXPAY-bring-Indian-payment-experience-to-Sri-Lanka/215-353369",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792981024.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-26-dailymirrorlk-48ba4663",
     "num": "dailymirrorlk-48ba4663",
     "date_str": "2026-10-26",
@@ -87625,6 +87636,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-d5758d29",
+    "num": "dailymirrorlk-d5758d29",
+    "date_str": "2026-10-26",
+    "description": "When would railway accidents come to an end?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/When-would-railway-accidents-come-to-an-end/172-353389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792986327.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-26-dailymirrorlk-0ad1b57e",
     "num": "dailymirrorlk-0ad1b57e",
     "date_str": "2026-10-26",
@@ -87633,5 +87655,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1792988296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-acf06d2d",
+    "num": "dailymirrorlk-acf06d2d",
+    "date_str": "2026-10-26",
+    "description": "Second Norochcholai generator shut down for maintenance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Second-Norochcholai-generator-shut-down-for-maintenance/108-353393",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792988891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-44cd30b0",
+    "num": "dailymirrorlk-44cd30b0",
+    "date_str": "2026-10-26",
+    "description": "Supreme Court delivers decisive judgment over jurisdiction of Commercial High Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-delivers-decisive-judgment-over-jurisdiction-of-Commercial-High-Court/108-353401",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792993089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-9510b7fe",
+    "num": "dailymirrorlk-9510b7fe",
+    "date_str": "2026-10-26",
+    "description": "US warship USS Canberra arrives in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-warship-USS-Canberra-arrives-in-Colombo/108-353403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792994292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-26-dailymirrorlk-c941b6dc",
+    "num": "dailymirrorlk-c941b6dc",
+    "date_str": "2026-10-26",
+    "description": "\u2018People cannot be fooled by political dynasties\u2019: President Dissanayake on Lula\u2019s victory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/People-cannot-be-fooled-by-political-dynasties-President-Dissanayake-on-Lulas-victory/108-353404",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1792994629.0
   }
 ]
