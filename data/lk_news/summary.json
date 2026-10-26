@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-26 20:45:29",
-  "n_docs": 133967,
+  "time_updated": "2026-10-26 22:02:03",
+  "n_docs": 134011,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133967,
+  "n_docs_with_text": 134011,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-26",
-  "dataset_size": 2072419063,
+  "dataset_size": 2072584867,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-26-dailymirrorlk-c86d255d",
-    "num": "dailymirrorlk-c86d255d",
+    "doc_id": "2026-10-26-dailymirrorlk-51cee7a5",
+    "num": "dailymirrorlk-51cee7a5",
     "date_str": "2026-10-26",
-    "description": "Motorists urged to reduce speed due to rising accidents during rainy weather",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Motorists-urged-to-reduce-speed-due-to-rising-accidents-during-rainy-weather/108-353446",
+    "description": "Two reservoirs release 7,400 cusecs into Mee Oya, residents warned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-reservoirs-release-7-400-cusecs-into-Mee-Oya-residents-warned/108-353450",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793025555.0
+    "time_ut": 1793031783.0
   }
 }
