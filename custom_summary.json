@@ -10,15 +10,15 @@
     "dailynewslk",
     "dbsjeyarajcom",
     "divainalk",
-    "economynextcom",
     "lankadeepalk",
     "newsfirstlk",
     "tamilmirrorlk",
     "virakesarilk"
   ],
   "newspaper_to_n": {
-    "dailymirrorlk": 435,
+    "dailymirrorlk": 434,
     "dailyftlk": 94,
+    "economynextcom": 23,
     "islandlk": 9
   }
 }
