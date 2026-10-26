@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-26 12:12:25",
-  "n_docs": 133917,
+  "time_updated": "2026-10-26 14:07:46",
+  "n_docs": 133944,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 133917,
+  "n_docs_with_text": 133944,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-26",
-  "dataset_size": 2071890594,
+  "dataset_size": 2072023297,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-26-dailymirrorlk-c941b6dc",
-    "num": "dailymirrorlk-c941b6dc",
+    "doc_id": "2026-10-26-dailymirrorlk-f1f56d7d",
+    "num": "dailymirrorlk-f1f56d7d",
     "date_str": "2026-10-26",
-    "description": "\u2018People cannot be fooled by political dynasties\u2019: President Dissanayake on Lula\u2019s victory",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/People-cannot-be-fooled-by-political-dynasties-President-Dissanayake-on-Lulas-victory/108-353404",
+    "description": "Rising waters...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Rising-waters/110-353414",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1792994629.0
+    "time_ut": 1793001423.0
   }
 }
