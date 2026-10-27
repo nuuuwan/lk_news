@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-27 15:56:53",
-  "n_docs": 134088,
+  "time_updated": "2026-10-27 18:05:27",
+  "n_docs": 134104,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134088,
+  "n_docs_with_text": 134104,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-27",
-  "dataset_size": 2073779885,
+  "dataset_size": 2073899107,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailymirrorlk-28c6e4d0",
-    "num": "dailymirrorlk-28c6e4d0",
+    "doc_id": "2026-10-27-dailymirrorlk-2bd45f98",
+    "num": "dailymirrorlk-2bd45f98",
     "date_str": "2026-10-27",
-    "description": "Pawtopia owner, suspect arrested over dog\u2019s death in Negombo",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pawtopia-owner-suspect-arrested-over-dogs-death-in-Negombo/108-353530",
+    "description": "Sri Lanka thrash Pakistan to storm into tri-series final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-thrash-Pakistan-to-storm-into-tri-series-final/108-353544",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793095585.0
+    "time_ut": 1793103659.0
   }
 }
