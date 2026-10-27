@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_12:07:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_14:02:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,038** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,073** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailymirrorlk-e726e2d2",
-    "num": "dailymirrorlk-e726e2d2",
+    "doc_id": "2026-10-27-dailymirrorlk-f256d73e",
+    "num": "dailymirrorlk-f256d73e",
     "date_str": "2026-10-27",
-    "description": "FIFA plans US$25 million support package to boost Sri Lankan football",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/FIFA-plans-US-25-million-support-package-to-boost-Sri-Lankan-football/108-353472",
+    "description": "\u2019Maxxing\u2019 selected as Dictionary.com word of the year",
+    "url_metadata": "https://www.dailymirror.lk/international/Maxxing-selected-as-Dictionary-com-word-of-the-year/107-353516",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793081792.0
+    "time_ut": 1793088104.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-10-27 | `dailymirrorlk-e726e2d2` | FIFA plans US$25 million support package to boost Sri Lankan football | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-e726e2d2)
-- 2026-10-27 | `dailymirrorlk-cbfd09bd` | Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-cbfd09bd)
-- 2026-10-27 | `dailymirrorlk-9d480c3a` | Edelweiss Resumes Winter Flights to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-9d480c3a)
-- 2026-10-27 | `dailymirrorlk-77ed8fa7` | India opens safe harbour to 25 Sri Lankan fishing boats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-77ed8fa7)
-- 2026-10-27 | `dailymirrorlk-b49a92b0` | Police can examine mobile phones during criminal investigations, Says Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-b49a92b0)
-- 2026-10-27 | `dailymirrorlk-86fcb7d4` | Sri Lanka’s exports rise 5% to US$13.6 billion in first nine months of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-86fcb7d4)
-- 2026-10-27 | `dailymirrorlk-216d1ed8` | Sri Lanka drenched: over 10,000 people affected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-216d1ed8)
-- 2026-10-27 | `dailymirrorlk-8aacdb97` | Flood-hit O/L students allowed to arrange alternative practical exam dates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-8aacdb97)
-- 2026-10-27 | `dailymirrorlk-10c57d06` | Sri Lanka ranks 53rd in 2026 Global Hunger Index | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-10c57d06)
-- 2026-10-27 | `dailymirrorlk-06afef25` | Sri Lankan Ambassador visits Anojan Sivarasa in Saudi Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-06afef25)
-- 2026-10-27 | `dailymirrorlk-9e1aa605` | Sri Lankan Navy officer earns US Master’s with honours, wins two awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-9e1aa605)
-- 2026-10-27 | `dailymirrorlk-ed11501f` | Kane ends England’s 25-year Ballon d’Or wait - how he bucked the trend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-ed11501f)
-- 2026-10-27 | `dailymirrorlk-ac505935` | Red Notice suspect ‘Achini’ arrested in UAE, brought to Sri Lanka over Middeniya triple murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-ac505935)
-- 2026-10-27 | `dailymirrorlk-74f32e6e` | Microsoft offers nearly 60,000 employees ‘voluntary exit’ offers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-74f32e6e)
-- 2026-10-27 | `dailymirrorlk-34e9ca9b` | Arnab intensifies; Heavy rain, strong winds to hit several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-34e9ca9b)
-- 2026-10-27 | `dailyftlk-a65cab49` | Sajith discusses proposed  anti-terrorism, organised  crime laws with diplomatic corps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-a65cab49)
-- 2026-10-27 | `dailyftlk-290841e6` | UNP demands immediate presidential pardon for Gnanasara Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-290841e6)
-- 2026-10-27 | `dailyftlk-e7af3ddc` | Supreme Court enters decisive judgement in relation to jurisdiction of Commercial High Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-e7af3ddc)
-- 2026-10-27 | `dailyftlk-9d0bd6b1` | Sumathi Holdings celebrates 70 years of success | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-9d0bd6b1)
-- 2026-10-27 | `dailyftlk-62113aa0` | OPA presents collective professional proposals for Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailyftlk-62113aa0)
+- 2026-10-27 | `dailymirrorlk-f256d73e` | ’Maxxing’ selected as Dictionary.com word of the year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-f256d73e)
+- 2026-10-27 | `dailymirrorlk-bdeda8e3` | Illegal electric fence kills two young female elephants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-bdeda8e3)
+- 2026-10-27 | `dailymirrorlk-bee985da` | Sri Lanka’s seafood exports fall 2% in nine months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-bee985da)
+- 2026-10-27 | `dailymirrorlk-701676a0` | The politics of anti-terrorism laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-701676a0)
+- 2026-10-27 | `dailymirrorlk-6e59276a` | Trump backs Netanyahu: Israel’s Likud party trails Eisenkot’s Yashar in  pre-poll surveys | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-6e59276a)
+- 2026-10-27 | `dailymirrorlk-8e4e73f4` | Oil slips 1% as Iran diplomacy eases supply fears | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-8e4e73f4)
+- 2026-10-27 | `dailymirrorlk-53d95285` | Compassion is the Essence of Buddhism -- A Reply to ‘Citizen’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-53d95285)
+- 2026-10-27 | `dailymirrorlk-d45d8e09` | Watawala railway station hit by landslide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-d45d8e09)
+- 2026-10-27 | `dailymirrorlk-371692e9` | Exports jump 17% in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-371692e9)
+- 2026-10-27 | `dailymirrorlk-582e2dbc` | BOC plans debenture issue of up to Rs.30 billion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-582e2dbc)
+- 2026-10-27 | `dailymirrorlk-1fb2d40c` | Fitch assigns Asia Asset Finance’s proposed subordinated debt ‘A-(EXP)(lka)’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-1fb2d40c)
+- 2026-10-27 | `dailymirrorlk-bd0d6a0f` | Laugfs Gas explores partial or full exit from terminal subsidiary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-bd0d6a0f)
+- 2026-10-27 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-2831aeed)
+- 2026-10-27 | `dailymirrorlk-a767493d` | Mixed tones mark week’s start | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-a767493d)
+- 2026-10-27 | `dailymirrorlk-a6ca1342` | SLID and ACCA announce second National Director Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-a6ca1342)
+- 2026-10-27 | `dailymirrorlk-15de581c` | Severe lightning advisory issued for Ampara and Batticaloa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-15de581c)
+- 2026-10-27 | `dailymirrorlk-f2ad7cb2` | Ceylon Cold Stores wins Gold at SLITAD People Development Awards 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-f2ad7cb2)
+- 2026-10-27 | `dailymirrorlk-c9bef426` | BBDO Sri Lanka’s Wajinie among Campaign Asia-Pacific’s Women to Watch ‘26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-c9bef426)
+- 2026-10-27 | `dailymirrorlk-f5514162` | Ceybank marks first year of partnership with CAMS in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-f5514162)
+- 2026-10-27 | `dailymirrorlk-ca0adc5c` | MRIA welcomes first Winter Flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-ca0adc5c)
 
 ---
 
