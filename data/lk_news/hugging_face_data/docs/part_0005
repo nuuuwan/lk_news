@@ -88956,6 +88956,28 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-767100e1",
+    "num": "economynextcom-767100e1",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka rupee at 332.25/35 to US dollar spot, bond yields steady",
+    "url_metadata": "https://economynext.com/sri-lanka-rupee-at-332-25-35-to-us-dollar-spot-bond-yields-steady-287938/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793075040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-a87e672b",
+    "num": "economynextcom-a87e672b",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka\u2019s Standard Capital triggers mandatory offer after majority stake acquisition",
+    "url_metadata": "https://economynext.com/sri-lankas-standard-capital-triggers-mandatory-offer-after-majority-stake-acquisition-287951/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793075460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-06afef25",
     "num": "dailymirrorlk-06afef25",
     "date_str": "2026-10-27",
@@ -89022,6 +89044,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-ecf84c60",
+    "num": "economynextcom-ecf84c60",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka stocks open up; Capital goods lead turnover",
+    "url_metadata": "https://economynext.com/sri-lanka-stocks-open-up-capital-goods-lead-turnover-287970/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793078880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-77ed8fa7",
     "num": "dailymirrorlk-77ed8fa7",
     "date_str": "2026-10-27",
@@ -89030,6 +89063,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793079174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-31ac408b",
+    "num": "economynextcom-31ac408b",
+    "date_str": "2026-10-27",
+    "description": "British Airways returns to Sri Lanka after 11 years with special fares",
+    "url_metadata": "https://economynext.com/british-airways-returns-to-sri-lanka-after-11-years-with-special-fares-287974/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793080440.0
   },
   {
     "doc_type": "lk_news",
@@ -89063,6 +89107,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793081792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-5d0d7222",
+    "num": "economynextcom-5d0d7222",
+    "date_str": "2026-10-27",
+    "description": "Hilton partners with SampathCards and Visa for Oktoberfest in Sri Lanka",
+    "url_metadata": "https://economynext.com/hilton-partners-with-sampathcards-and-visa-for-oktoberfest-in-sri-lanka-287984/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793084160.0
   },
   {
     "doc_type": "lk_news",
@@ -89385,6 +89440,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-ed094615",
+    "num": "economynextcom-ed094615",
+    "date_str": "2026-10-27",
+    "description": "Rising inflation and narrowing buffers demand policy action now: IMF",
+    "url_metadata": "https://economynext.com/rising-inflation-and-narrowing-buffers-demand-policy-action-now-imf-287996/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793086560.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-371692e9",
     "num": "dailymirrorlk-371692e9",
     "date_str": "2026-10-27",
@@ -89495,6 +89561,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-b6c920e3",
+    "num": "economynextcom-b6c920e3",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka, FIFA discuss $25mn football development plan",
+    "url_metadata": "https://economynext.com/sri-lanka-fifa-discuss-25mn-football-development-plan-287997/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793091300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-af2df9b4",
     "num": "dailymirrorlk-af2df9b4",
     "date_str": "2026-10-27",
@@ -89517,6 +89594,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-81334355",
+    "num": "economynextcom-81334355",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka Cabinet clears $100mn ADB loan for economic recovery",
+    "url_metadata": "https://economynext.com/sri-lanka-cabinet-clears-100mn-adb-loan-for-economic-recovery-288007/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793091900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-6a4ce1c9",
     "num": "dailymirrorlk-6a4ce1c9",
     "date_str": "2026-10-27",
@@ -89536,6 +89624,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793092581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-bf282523",
+    "num": "economynextcom-bf282523",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka to lease 15 plantation properties to investors",
+    "url_metadata": "https://economynext.com/sri-lanka-to-lease-15-plantation-properties-to-investors-288012/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793092740.0
   },
   {
     "doc_type": "lk_news",
@@ -89580,6 +89679,28 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793093449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-9a186761",
+    "num": "economynextcom-9a186761",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka awards Rs756.9mn road project to Asset Engineering",
+    "url_metadata": "https://economynext.com/sri-lanka-awards-rs756-9mn-road-project-to-asset-engineering-288025/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793093700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-ad11233c",
+    "num": "economynextcom-ad11233c",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka approves performance-based framework for SOE collective agreements",
+    "url_metadata": "https://economynext.com/sri-lanka-approves-performance-based-framework-for-soe-collective-agreements-288024/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793093880.0
   },
   {
     "doc_type": "lk_news",
@@ -89701,6 +89822,39 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793099773.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-603df7f1",
+    "num": "economynextcom-603df7f1",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka rupee closes at 332.40/50 to US dollar spot, bond yields edge up",
+    "url_metadata": "https://economynext.com/sri-lanka-rupee-closes-at-332-40-50-to-us-dollar-spot-bond-yields-edge-up-288057/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793100000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-7114d3c1",
+    "num": "economynextcom-7114d3c1",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka stocks close up, ASPI gains 0.27-pct",
+    "url_metadata": "https://economynext.com/sri-lanka-stocks-close-up-aspi-gains-0-27-pct-288048/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793100000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-efaecf21",
+    "num": "economynextcom-efaecf21",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka Cabinet approves $60mn OPEC Fund loan for Mahaweli project Phase 2",
+    "url_metadata": "https://economynext.com/sri-lanka-cabinet-approves-60mn-opec-fund-loan-for-mahaweli-project-phase-2-288044/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793100060.0
   },
   {
     "doc_type": "lk_news",
@@ -89833,5 +89987,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793111043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-8678abe1",
+    "num": "dailymirrorlk-8678abe1",
+    "date_str": "2026-10-27",
+    "description": "\u2018Withdraw it in its entirety\u2019: Amnesty slams Organised Crime Bill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Withdraw-it-in-its-entirety-Amnesty-slams-Organised-Crime-Bill/108-353551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793113839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-economynextcom-a862d75e",
+    "num": "economynextcom-a862d75e",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka CenBank chief says reserve building is done carefully without pressurizing rupee",
+    "url_metadata": "https://economynext.com/sri-lanka-cenbank-chief-says-reserve-building-is-done-carefully-without-pressurizing-rupee-288066/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793115240.0
   }
 ]
