@@ -1,0 +1,39 @@
+International Monetary Fund sees Sri Lanka primed for AI leapfrog
+
+Sri Lanka has won praise from the International Monetary Fund’s (IMF) technology chief for building the digital foundations to leapfrog into the artificial intelligence (AI) era, with a call to match the technological ambition with investment in people, sound judgment and accountability.
+
+“I think you are closer to this future than you think,” visiting IMF Chief Information Officer Shirin Hamid told the Central Bank of Sri Lanka’s (CBSL) 76th anniversary oration.
+
+Speaking on ‘The Intelligent Central Bank: Building Trust in the Age of AI’, Hamid highlighted Sri Lanka’s expanding digital payments, digital identity preparations and plans for secure data sharing as foundations for the next stage of transformation.
+
+She opined Sri Lanka’s size need not constrain its ambitions as the smaller and newer institutions could have an advantage as AI tools become more accessible, allowing them to move ahead without the burden of decades-old technology.
+
+“You’re not dragging 50 years of legacy systems behind you,” Hamid said, highlighting cloud-native technology, open-source models and frugal AI as capabilities available to institutions of every size.
+
+“So, leapfrogging is not a slogan here; it is an option and it is yours to exercise but with judgment.”
+
+Hamid’s assessment placed Sri Lanka’s digital push within the broader effort to turn economic recovery into lasting institutional progress.
+
+She noted that the digital economy blueprint sought to make transformation a core pillar of recovery, through modernised public services, deeper financial innovation and greater private sector innovation.
+
+The deployment of digital public infrastructure, preparations for the national digital identity and development of a national data exchange platform to share information securely across the public and private institutions were among the initiatives she highlighted.
+
+Investment in the supporting foundations, including connectivity, skills and legal and policy frameworks, was also an investment in Sri Lanka’s AI preparedness, she said.
+
+“For every AI-influenced decision, we need a named human who is answerable,” she said.
+
+Hamid advocated giving institutions AI assistance before introducing autonomous agents, with greater independence granted only as systems proved themselves.
+
+“In other words, we should aim to augment judgment first and grant autonomy only where it has been earned.”
+
+She also urged the institutions to prepare for failure from the outset, maintaining backups, testing how AI systems could be manipulated and setting limits on the actions they could take.
+
+Such safeguards would help contain damage when the systems behaved incorrectly, particularly where their decisions could affect the market integrity or financial stability.
+
+Hamid said the challenge extended beyond any single technology. AI’s speed, the concentration of capabilities among a handful of model and cloud providers, uneven security capacity and governance that lagged behind technological progress together presented a formidable test.
+
+For the CBSL, the next task was to become an AI-augmented institution while protecting against those risks and preserving the trust restored through Sri Lanka’s recent difficulties.
+
+Hamid credited the CBSL with restoring trust under extraordinarily difficult circumstances, suggesting that achievement could now underpin its technological transition.
+
+“Sri Lanka has already shown that trust can be rebuilt,” she said. “We can now use AI to make trust stronger.”
