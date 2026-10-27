@@ -88626,6 +88626,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-26-economynextcom-aa23dcc4",
+    "num": "economynextcom-aa23dcc4",
+    "date_str": "2026-10-26",
+    "description": "Sri Lanka rupee closes at 332.25/35 to US dollar spot, bond yields steady",
+    "url_metadata": "https://economynext.com/sri-lanka-rupee-closes-at-332-25-35-to-us-dollar-spot-bond-yields-steady-287878/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793021160.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-26-economynextcom-07dad614",
     "num": "economynextcom-07dad614",
     "date_str": "2026-10-26",
@@ -88887,5 +88898,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793067933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-ed11501f",
+    "num": "dailymirrorlk-ed11501f",
+    "date_str": "2026-10-27",
+    "description": "Kane ends England\u2019s 25-year Ballon d\u2019Or wait - how he bucked the trend",
+    "url_metadata": "https://www.dailymirror.lk/international/Kane-ends-Englands-25-year-Ballon-dOr-wait-how-he-bucked-the-trend/107-353454",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793068405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-9e1aa605",
+    "num": "dailymirrorlk-9e1aa605",
+    "date_str": "2026-10-27",
+    "description": "Sri Lankan Navy officer earns US Master\u2019s with honours, wins two awards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Navy-officer-earns-US-Masters-with-honours-wins-two-awards/108-353455",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793069733.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_08:04:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_10:00:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,025** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,028** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailymirrorlk-ac505935",
-    "num": "dailymirrorlk-ac505935",
+    "doc_id": "2026-10-27-dailymirrorlk-9e1aa605",
+    "num": "dailymirrorlk-9e1aa605",
     "date_str": "2026-10-27",
-    "description": "Red Notice suspect \u2018Achini\u2019 arrested in UAE, brought to Sri Lanka over Middeniya triple murder",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Red-Notice-suspect-Achini-arrested-in-UAE-brought-to-Sri-Lanka-over-Middeniya-triple-murder/108-353453",
+    "description": "Sri Lankan Navy officer earns US Master\u2019s with honours, wins two awards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Navy-officer-earns-US-Masters-with-honours-wins-two-awards/108-353455",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793067933.0
+    "time_ut": 1793069733.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-27 | `dailymirrorlk-9e1aa605` | Sri Lankan Navy officer earns US Master’s with honours, wins two awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-9e1aa605)
+- 2026-10-27 | `dailymirrorlk-ed11501f` | Kane ends England’s 25-year Ballon d’Or wait - how he bucked the trend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-ed11501f)
 - 2026-10-27 | `dailymirrorlk-ac505935` | Red Notice suspect ‘Achini’ arrested in UAE, brought to Sri Lanka over Middeniya triple murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-ac505935)
 - 2026-10-27 | `dailymirrorlk-74f32e6e` | Microsoft offers nearly 60,000 employees ‘voluntary exit’ offers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-74f32e6e)
 - 2026-10-27 | `dailymirrorlk-34e9ca9b` | Arnab intensifies; Heavy rain, strong winds to hit several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-34e9ca9b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-26 | `dailymirrorlk-4818ad37` | Pathum Nissanka ruled out of Pakistan Test series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-4818ad37)
 - 2026-10-26 | `dailymirrorlk-65eb54b4` | Red warning issued as Cyclonic Storm Arnab threatens rough seas around Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-65eb54b4)
 - 2026-10-26 | `dailymirrorlk-2b93ded9` | Sri Lankan monk sends Dhamma message to Modi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-2b93ded9)
-- 2026-10-26 | `dailymirrorlk-c86d255d` | Motorists urged to reduce speed due to rising accidents during rainy weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-dailymirrorlk-c86d255d)
-- 2026-10-26 | `economynextcom-fe23d59f` | Sri Lanka’s LAUGFS Gas explores sale, investment options for Hambantota terminal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-26-economynextcom-fe23d59f)
 
 ---
 
