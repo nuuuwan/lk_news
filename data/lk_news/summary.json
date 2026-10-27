@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-27 18:05:27",
-  "n_docs": 134104,
+  "time_updated": "2026-10-27 19:59:56",
+  "n_docs": 134111,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134104,
+  "n_docs_with_text": 134111,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-27",
-  "dataset_size": 2073899107,
+  "dataset_size": 2074005490,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailymirrorlk-2bd45f98",
-    "num": "dailymirrorlk-2bd45f98",
+    "doc_id": "2026-10-27-dailymirrorlk-d80ef31b",
+    "num": "dailymirrorlk-d80ef31b",
     "date_str": "2026-10-27",
-    "description": "Sri Lanka thrash Pakistan to storm into tri-series final",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-thrash-Pakistan-to-storm-into-tri-series-final/108-353544",
+    "description": "Ranil congratulates Brazilian President on electoral victory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-congratulates-Brazilian-President-on-electoral-victory/108-353549",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793103659.0
+    "time_ut": 1793111043.0
   }
 }

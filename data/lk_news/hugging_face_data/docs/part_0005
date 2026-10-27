@@ -89649,6 +89649,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-7ed19220",
+    "num": "dailymirrorlk-7ed19220",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka loses 40% of fish production to post-harvest waste",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-loses-40-of-fish-production-to-post-harvest-waste/108-353533",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793098900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-c99a0f9a",
     "num": "dailymirrorlk-c99a0f9a",
     "date_str": "2026-10-27",
@@ -89748,6 +89759,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-29deee22",
+    "num": "dailymirrorlk-29deee22",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka storm into tri-series final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-storm-into-tri-series-final/108-353544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793103659.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-27-dailymirrorlk-2bd45f98",
     "num": "dailymirrorlk-2bd45f98",
     "date_str": "2026-10-27",
@@ -89756,5 +89778,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793103659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-cb085df5",
+    "num": "dailymirrorlk-cb085df5",
+    "date_str": "2026-10-27",
+    "description": "Polonnaruwa records highest temperature of 33.1\u00b0C",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Polonnaruwa-records-highest-temperature-of-33-1C/108-353545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793108569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-827b2394",
+    "num": "dailymirrorlk-827b2394",
+    "date_str": "2026-10-27",
+    "description": "New Anunayake appointed to Amarapura Sangha Sabha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Anunayake-appointed-to-Amarapura-Sangha-Sabha/108-353546",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793109326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-f1dfc250",
+    "num": "dailymirrorlk-f1dfc250",
+    "date_str": "2026-10-27",
+    "description": "SLC introduces random alcohol and drug tests for players",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLC-introduces-random-alcohol-and-drug-tests-for-players/108-353547",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793110398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-c75fb366",
+    "num": "dailymirrorlk-c75fb366",
+    "date_str": "2026-10-27",
+    "description": "Former LTTE member detained for 72 hours after deportation from India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-LTTE-member-detained-for-72-hours-after-deportation-from-India/108-353548",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793110779.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-d80ef31b",
+    "num": "dailymirrorlk-d80ef31b",
+    "date_str": "2026-10-27",
+    "description": "Ranil congratulates Brazilian President on electoral victory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ranil-congratulates-Brazilian-President-on-electoral-victory/108-353549",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793111043.0
   }
 ]
