@@ -88920,5 +88920,115 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793069733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-06afef25",
+    "num": "dailymirrorlk-06afef25",
+    "date_str": "2026-10-27",
+    "description": "Sri Lankan Ambassador visits Anojan Sivarasa in Saudi Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Ambassador-visits-Anojan-Sivarasa-in-Saudi-Prison/108-353456",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793075471.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-10c57d06",
+    "num": "dailymirrorlk-10c57d06",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka ranks 53rd in 2026 Global Hunger Index",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ranks-53rd-in-2026-Global-Hunger-Index/108-353457",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793075809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-8aacdb97",
+    "num": "dailymirrorlk-8aacdb97",
+    "date_str": "2026-10-27",
+    "description": "Flood-hit O/L students allowed to arrange alternative practical exam dates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Flood-hit-OL-students-allowed-to-arrange-alternative-practical-exam-dates/108-353458",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793076006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-216d1ed8",
+    "num": "dailymirrorlk-216d1ed8",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka drenched: over 10,000 people affected",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-drenched-over-10-000-people-affected/108-353459",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793076606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-86fcb7d4",
+    "num": "dailymirrorlk-86fcb7d4",
+    "date_str": "2026-10-27",
+    "description": "Sri Lanka\u2019s exports rise 5% to US$13.6 billion in first nine months of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-exports-rise-5-to-US-13-6-billion-in-first-nine-months-of-2026/108-353460",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793076960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-b49a92b0",
+    "num": "dailymirrorlk-b49a92b0",
+    "date_str": "2026-10-27",
+    "description": "Police can examine mobile phones during criminal investigations, Says Spokesman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-can-examine-mobile-phones-during-criminal-investigations-Says-Spokesman/108-353462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793077778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-77ed8fa7",
+    "num": "dailymirrorlk-77ed8fa7",
+    "date_str": "2026-10-27",
+    "description": "India opens safe harbour to 25 Sri Lankan fishing boats",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-opens-safe-harbour-to-25-Sri-Lankan-fishing-boats/108-353463",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793079174.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-9d480c3a",
+    "num": "dailymirrorlk-9d480c3a",
+    "date_str": "2026-10-27",
+    "description": "Edelweiss Resumes Winter Flights to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Edelweiss-Resumes-Winter-Flights-to-Sri-Lanka/108-353468",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793080621.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-cbfd09bd",
+    "num": "dailymirrorlk-cbfd09bd",
+    "date_str": "2026-10-27",
+    "description": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-Saudi-Turkiye-and-Pakistan-agree-to-more-talks-amid-Houthi-attacks/107-353471",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793081519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-e726e2d2",
+    "num": "dailymirrorlk-e726e2d2",
+    "date_str": "2026-10-27",
+    "description": "FIFA plans US$25 million support package to boost Sri Lankan football",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FIFA-plans-US-25-million-support-package-to-boost-Sri-Lankan-football/108-353472",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793081792.0
   }
 ]
