@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-27 21:56:32",
-  "n_docs": 134127,
+  "time_updated": "2026-10-27 23:57:57",
+  "n_docs": 134129,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134127,
+  "n_docs_with_text": 134129,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-27",
-  "dataset_size": 2074071335,
+  "dataset_size": 2074162571,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-economynextcom-a862d75e",
-    "num": "economynextcom-a862d75e",
+    "doc_id": "2026-10-27-dailymirrorlk-d35c8913",
+    "num": "dailymirrorlk-d35c8913",
     "date_str": "2026-10-27",
-    "description": "Sri Lanka CenBank chief says reserve building is done carefully without pressurizing rupee",
-    "url_metadata": "https://economynext.com/sri-lanka-cenbank-chief-says-reserve-building-is-done-carefully-without-pressurizing-rupee-288066/",
+    "description": "Sri Lanka, T\u00fcrkiye sign protocol to amend bilateral air transport agreement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-T\u00fcrkiye-sign-protocol-to-amend-bilateral-air-transport-agreement/108-353553",
     "lang": "en",
-    "newspaper_id": "economynextcom",
-    "time_ut": 1793115240.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793118677.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_21:57:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--27_23:59:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,127** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,129** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-economynextcom-a862d75e",
-    "num": "economynextcom-a862d75e",
+    "doc_id": "2026-10-27-dailymirrorlk-d35c8913",
+    "num": "dailymirrorlk-d35c8913",
     "date_str": "2026-10-27",
-    "description": "Sri Lanka CenBank chief says reserve building is done carefully without pressurizing rupee",
-    "url_metadata": "https://economynext.com/sri-lanka-cenbank-chief-says-reserve-building-is-done-carefully-without-pressurizing-rupee-288066/",
+    "description": "Sri Lanka, T\u00fcrkiye sign protocol to amend bilateral air transport agreement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-T\u00fcrkiye-sign-protocol-to-amend-bilateral-air-transport-agreement/108-353553",
     "lang": "en",
-    "newspaper_id": "economynextcom",
-    "time_ut": 1793115240.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793118677.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-27 | `dailymirrorlk-d35c8913` | Sri Lanka, Türkiye sign protocol to amend bilateral air transport agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-d35c8913)
+- 2026-10-27 | `dailymirrorlk-fc175057` | Air Force to assist Navy in search for missing fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-fc175057)
 - 2026-10-27 | `economynextcom-a862d75e` | Sri Lanka CenBank chief says reserve building is done carefully without pressurizing rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-a862d75e)
 - 2026-10-27 | `dailymirrorlk-8678abe1` | ‘Withdraw it in its entirety’: Amnesty slams Organised Crime Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-8678abe1)
 - 2026-10-27 | `dailymirrorlk-d80ef31b` | Ranil congratulates Brazilian President on electoral victory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-d80ef31b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-27 | `economynextcom-7114d3c1` | Sri Lanka stocks close up, ASPI gains 0.27-pct | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-7114d3c1)
 - 2026-10-27 | `economynextcom-603df7f1` | Sri Lanka rupee closes at 332.40/50 to US dollar spot, bond yields edge up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-603df7f1)
 - 2026-10-27 | `dailymirrorlk-b67da82a` | SJB urges speaker to resign or allow no-confidence debate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-b67da82a)
-- 2026-10-27 | `dailymirrorlk-b9538e62` | Sri Lanka’s sexual health and HIV experts forum to begin on October 29 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-b9538e62)
-- 2026-10-27 | `dailymirrorlk-0c52c526` | Court orders charges against Jaya Sri Maha Bodhi custodian priest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-0c52c526)
 
 ---
 
