@@ -88854,5 +88854,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793046591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-34e9ca9b",
+    "num": "dailymirrorlk-34e9ca9b",
+    "date_str": "2026-10-27",
+    "description": "Arnab intensifies; Heavy rain, strong winds to hit several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Arnab-intensifies-Heavy-rain-strong-winds-to-hit-several-areas/108-353451",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793062208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-74f32e6e",
+    "num": "dailymirrorlk-74f32e6e",
+    "date_str": "2026-10-27",
+    "description": "Microsoft offers nearly 60,000 employees \u2018voluntary exit\u2019 offers",
+    "url_metadata": "https://www.dailymirror.lk/international/Microsoft-offers-nearly-60-000-employees-voluntary-exit-offers/107-353452",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793067459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-27-dailymirrorlk-ac505935",
+    "num": "dailymirrorlk-ac505935",
+    "date_str": "2026-10-27",
+    "description": "Red Notice suspect \u2018Achini\u2019 arrested in UAE, brought to Sri Lanka over Middeniya triple murder",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Red-Notice-suspect-Achini-arrested-in-UAE-brought-to-Sri-Lanka-over-Middeniya-triple-murder/108-353453",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793067933.0
   }
 ]
