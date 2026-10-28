@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-28 06:10:47",
-  "n_docs": 134136,
+  "time_updated": "2026-10-28 07:56:29",
+  "n_docs": 134145,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134136,
+  "n_docs_with_text": 134145,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-28",
-  "dataset_size": 2074193572,
+  "dataset_size": 2074327126,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-28-dailyftlk-b884d151",
-    "num": "dailyftlk-b884d151",
+    "doc_id": "2026-10-28-dailyftlk-aefff2f3",
+    "num": "dailyftlk-aefff2f3",
     "date_str": "2026-10-28",
-    "description": "Cabinet clears $ 60 m OPEC Fund Loan",
-    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-60-m-OPEC-Fund-Loan/56-799245",
+    "description": "Sri Lanka aims to be South Asia\u2019s Fintech Hub",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-aims-to-be-South-Asia-s-Fintech-Hub/34-799255",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1793147499.0
+    "time_ut": 1793153973.0
   }
 }
