@@ -90207,5 +90207,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793153973.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-8079ebf5",
+    "num": "dailyftlk-8079ebf5",
+    "date_str": "2026-10-28",
+    "description": "CRIB expands credit information ecosystem",
+    "url_metadata": "https://www.ft.lk/business/CRIB-expands-credit-information-ecosystem/34-799259",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793154380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-10678dfb",
+    "num": "dailyftlk-10678dfb",
+    "date_str": "2026-10-28",
+    "description": "Fairway Holdings appoints Ashean Karthelis as Group Managing Director",
+    "url_metadata": "https://www.ft.lk/business/Fairway-Holdings-appoints-Ashean-Karthelis-as-Group-Managing-Director/34-799260",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793154485.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-0c804ed8",
+    "num": "dailyftlk-0c804ed8",
+    "date_str": "2026-10-28",
+    "description": "EDB business clinics target export readiness of North Western SMEs",
+    "url_metadata": "https://www.ft.lk/business/EDB-business-clinics-target-export-readiness-of-North-Western-SMEs/34-799261",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793154556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-9273b407",
+    "num": "dailyftlk-9273b407",
+    "date_str": "2026-10-28",
+    "description": "PickMe\u2019s growing network drives operating leverage and value  for earners and shareholders",
+    "url_metadata": "https://www.ft.lk/business/PickMe-s-growing-network-drives-operating-leverage-and-value-for-earners-and-shareholders/34-799262",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793154671.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-0bf7a61f",
+    "num": "dailyftlk-0bf7a61f",
+    "date_str": "2026-10-28",
+    "description": "Ceylon Chamber leads mission to Indonesia to strengthen bilateral trade, investment",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-leads-mission-to-Indonesia-to-strengthen-bilateral-trade-investment/34-799263",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793154742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-5382bb44",
+    "num": "dailymirrorlk-5382bb44",
+    "date_str": "2026-10-28",
+    "description": "APEX Global Talent to expand study, employment opportunities in Japan and Korea",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/APEX-Global-Talent-to-expand-study-employment-opportunities-in-Japan-and-Korea/108-353555",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793155097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-2f305d04",
+    "num": "dailyftlk-2f305d04",
+    "date_str": "2026-10-28",
+    "description": "Inextricable Group delivers SAP Go-Live for Browns Engineering and Construction",
+    "url_metadata": "https://www.ft.lk/business/Inextricable-Group-delivers-SAP-Go-Live-for-Browns-Engineering-and-Construction/34-799266",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793155150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-7adf228a",
+    "num": "dailymirrorlk-7adf228a",
+    "date_str": "2026-10-28",
+    "description": "Protection of State from Terrorism Bill will suppress media freedom: Joint Opposition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protection-of-State-from-Terrorism-Bill-will-suppress-media-freedom-Joint-Opposition/108-353561",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793156634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-5c76da54",
+    "num": "dailymirrorlk-5c76da54",
+    "date_str": "2026-10-28",
+    "description": "Arnab makes landfall in India; Sri Lanka\u2019s weather improves",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Arnab-makes-landfall-in-India-Sri-Lankas-weather-improves/108-353562",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793156915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-ef28a89a",
+    "num": "dailymirrorlk-ef28a89a",
+    "date_str": "2026-10-28",
+    "description": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote",
+    "url_metadata": "https://www.dailymirror.lk/international/Netanyahu-Eisenkot-stake-rival-claims-to-lead-Israel-after-deadlocked-vote/107-353571",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793158721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-7006e8f6",
+    "num": "dailymirrorlk-7006e8f6",
+    "date_str": "2026-10-28",
+    "description": "Suspect arrested over deaths of two wild elephants",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-deaths-of-two-wild-elephants/108-353573",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793159413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-597d3955",
+    "num": "dailymirrorlk-597d3955",
+    "date_str": "2026-10-28",
+    "description": "Sri Lankan refugee gets seven years jail for sexual assault case",
+    "url_metadata": "https://www.dailymirror.lk/international/Sri-Lankan-refugee-gets-seven-years-jail-for-sexual-assault-case/107-353577",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793159679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-3d3fb069",
+    "num": "dailymirrorlk-3d3fb069",
+    "date_str": "2026-10-28",
+    "description": "Lubricant traders warned to check Government agreement numbers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lubricant-traders-warned-to-check-Government-agreement-numbers/108-353579",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793160131.0
   }
 ]
