@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_09:55:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_12:01:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-28-dailymirrorlk-3d3fb069",
-    "num": "dailymirrorlk-3d3fb069",
+    "doc_id": "2026-10-28-dailymirrorlk-943e8d1a",
+    "num": "dailymirrorlk-943e8d1a",
     "date_str": "2026-10-28",
-    "description": "Lubricant traders warned to check Government agreement numbers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lubricant-traders-warned-to-check-Government-agreement-numbers/108-353579",
+    "description": "Ex-Sri Lanka skipper\u2019s newfound passion in Melbourne\u2019s north",
+    "url_metadata": "https://www.dailymirror.lk/international/Ex-Sri-Lanka-skippers-newfound-passion-in-Melbournes-north/107-353595",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793160131.0
+    "time_ut": 1793167749.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-28 | `dailymirrorlk-943e8d1a` | Ex-Sri Lanka skipper’s newfound passion in Melbourne’s north | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-943e8d1a)
+- 2026-10-28 | `dailymirrorlk-60f42513` | Over 5,000 tonnes of battery acid dumped annually in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-60f42513)
+- 2026-10-28 | `economynextcom-ceaa0bf3` | Sri Lanka stocks trend up; Alliance Finance to raise up to Rs1bn in bond issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-ceaa0bf3)
+- 2026-10-28 | `economynextcom-c7906d6d` | Sri Lanka rupee at 332.52/60 to US dollar spot, bond yields flat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-c7906d6d)
+- 2026-10-28 | `dailymirrorlk-483b97e6` | Girl, 15, dies after falling from three-storey house | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-483b97e6)
+- 2026-10-28 | `dailymirrorlk-69527606` | Sri Lanka’s indirect taxes are among the highest in the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-69527606)
+- 2026-10-28 | `dailymirrorlk-d50b4dc8` | UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-d50b4dc8)
+- 2026-10-28 | `dailymirrorlk-ef27f5c8` | Court orders Namal to be produced on November 19 in Airbus case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-ef27f5c8)
+- 2026-10-28 | `dailymirrorlk-4ad37e2b` | Luxury cruise passengers stranded in Cambodia due to soaring fuel costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-4ad37e2b)
+- 2026-10-28 | `dailymirrorlk-fb6fd709` | Motorbike rides on water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fb6fd709)
+- 2026-10-28 | `economynextcom-2b1be424` | Sri Lanka’s Alliance Finance to raise up to Rs1bn in orange bond issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-2b1be424)
+- 2026-10-28 | `dailymirrorlk-7e078023` | Road blocked, bus crew attacked by motorcycle gang | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-7e078023)
+- 2026-10-28 | `economynextcom-8afc2de3` | Sri Lanka to revamp SOEs via divestments and holding company | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-8afc2de3)
+- 2026-10-28 | `dailymirrorlk-296887a5` | Nuwara Eliya records lowest temperature of 15°C | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-296887a5)
+- 2026-10-28 | `economynextcom-de1468c6` | Sri Lanka bourse targets 150,000 new investors with branch rollout | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-de1468c6)
+- 2026-10-28 | `dailymirrorlk-02634606` | Government to explore land allocation for young families in Thenuwara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-02634606)
 - 2026-10-28 | `dailymirrorlk-3d3fb069` | Lubricant traders warned to check Government agreement numbers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3d3fb069)
 - 2026-10-28 | `dailymirrorlk-597d3955` | Sri Lankan refugee gets seven years jail for sexual assault case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-597d3955)
+- 2026-10-28 | `dailymirrorlk-819925b4` | China’s families are now supporting more old people than kids | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-819925b4)
 - 2026-10-28 | `dailymirrorlk-7006e8f6` | Suspect arrested over deaths of two wild elephants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-7006e8f6)
-- 2026-10-28 | `dailymirrorlk-ef28a89a` | Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-ef28a89a)
-- 2026-10-28 | `dailymirrorlk-5c76da54` | Arnab makes landfall in India; Sri Lanka’s weather improves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-5c76da54)
-- 2026-10-28 | `dailymirrorlk-7adf228a` | Protection of State from Terrorism Bill will suppress media freedom: Joint Opposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-7adf228a)
-- 2026-10-28 | `dailyftlk-2f305d04` | Inextricable Group delivers SAP Go-Live for Browns Engineering and Construction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-2f305d04)
-- 2026-10-28 | `dailymirrorlk-5382bb44` | APEX Global Talent to expand study, employment opportunities in Japan and Korea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-5382bb44)
-- 2026-10-28 | `dailyftlk-0bf7a61f` | Ceylon Chamber leads mission to Indonesia to strengthen bilateral trade, investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-0bf7a61f)
-- 2026-10-28 | `dailyftlk-9273b407` | PickMe’s growing network drives operating leverage and value  for earners and shareholders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-9273b407)
-- 2026-10-28 | `dailyftlk-0c804ed8` | EDB business clinics target export readiness of North Western SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-0c804ed8)
-- 2026-10-28 | `dailyftlk-10678dfb` | Fairway Holdings appoints Ashean Karthelis as Group Managing Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-10678dfb)
-- 2026-10-28 | `dailyftlk-8079ebf5` | CRIB expands credit information ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-8079ebf5)
-- 2026-10-28 | `dailyftlk-aefff2f3` | Sri Lanka aims to be South Asia’s Fintech Hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-aefff2f3)
-- 2026-10-28 | `dailyftlk-f297e896` | FASL outlines contributions since 2018; seeks clarity on AFA membership selection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-f297e896)
-- 2026-10-28 | `dailyftlk-0279383d` | CanCham Sri Lanka leads business delegation to Canada to connect investors and unlock new markets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-0279383d)
-- 2026-10-28 | `dailyftlk-93e64645` | Standard Capital mandatory offer awaits SEC nod | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-93e64645)
-- 2026-10-28 | `dailyftlk-353b9a7a` | From consumption to capacity: Taxing those who can pay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-353b9a7a)
-- 2026-10-28 | `dailyftlk-55443d09` | Beyond promises on paper: Sri Lanka must deliver on investments it wins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-55443d09)
-- 2026-10-28 | `dailyftlk-987d6365` | Why Sri Lanka needs Singapore Temasek-style holding model for SOEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-987d6365)
 
 ---
 

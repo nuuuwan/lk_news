@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-28 09:54:22",
-  "n_docs": 134158,
+  "time_updated": "2026-10-28 12:00:40",
+  "n_docs": 134175,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134158,
+  "n_docs_with_text": 134175,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-28",
-  "dataset_size": 2074541030,
+  "dataset_size": 2074764068,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-28-dailymirrorlk-3d3fb069",
-    "num": "dailymirrorlk-3d3fb069",
+    "doc_id": "2026-10-28-dailymirrorlk-943e8d1a",
+    "num": "dailymirrorlk-943e8d1a",
     "date_str": "2026-10-28",
-    "description": "Lubricant traders warned to check Government agreement numbers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lubricant-traders-warned-to-check-Government-agreement-numbers/108-353579",
+    "description": "Ex-Sri Lanka skipper\u2019s newfound passion in Melbourne\u2019s north",
+    "url_metadata": "https://www.dailymirror.lk/international/Ex-Sri-Lanka-skippers-newfound-passion-in-Melbournes-north/107-353595",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793160131.0
+    "time_ut": 1793167749.0
   }
 }
