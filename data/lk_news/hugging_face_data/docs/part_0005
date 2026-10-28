@@ -90031,5 +90031,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793118677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-6bf70161",
+    "num": "dailyftlk-6bf70161",
+    "date_str": "2026-10-28",
+    "description": "BASL calls for independent probe into Police custodial death",
+    "url_metadata": "https://www.ft.lk/news/BASL-calls-for-independent-probe-into-Police-custodial-death/56-799239",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-10811526",
+    "num": "dailyftlk-10811526",
+    "date_str": "2026-10-28",
+    "description": "Cabinet approves special compensation and reforms following Negombo prison clashes",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-special-compensation-and-reforms-following-Negombo-prison-clashes/56-799240",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-865f6731",
+    "num": "dailyftlk-865f6731",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka to host World Buddhist Sangha Council\u2019s 60th anniversary",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-to-host-World-Buddhist-Sangha-Council-s-60th-anniversary/56-799241",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-36ed0a59",
+    "num": "dailyftlk-36ed0a59",
+    "date_str": "2026-10-28",
+    "description": "Asset Engineering gets Rs. 756 m road contract",
+    "url_metadata": "https://www.ft.lk/news/Asset-Engineering-gets-Rs-756-m-road-contract/56-799242",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-19f637a2",
+    "num": "dailyftlk-19f637a2",
+    "date_str": "2026-10-28",
+    "description": "Following TISL\u2019s contempt application, SC sets deadline for Rs. 275 m payment in medical procurement case",
+    "url_metadata": "https://www.ft.lk/news/Following-TISL-s-contempt-application-SC-sets-deadline-for-Rs-275-m-payment-in-medical-procurement-case/56-799243",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-11339575",
+    "num": "dailyftlk-11339575",
+    "date_str": "2026-10-28",
+    "description": "WNPS goes to Court over guns for civilians as elephant killings rise",
+    "url_metadata": "https://www.ft.lk/news/WNPS-goes-to-Court-over-guns-for-civilians-as-elephant-killings-rise/56-799244",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailyftlk-b884d151",
+    "num": "dailyftlk-b884d151",
+    "date_str": "2026-10-28",
+    "description": "Cabinet clears $ 60 m OPEC Fund Loan",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-60-m-OPEC-Fund-Loan/56-799245",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147499.0
   }
 ]

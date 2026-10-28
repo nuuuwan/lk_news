@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_03:55:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_06:11:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,129** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,136** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-27-dailymirrorlk-d35c8913",
-    "num": "dailymirrorlk-d35c8913",
-    "date_str": "2026-10-27",
-    "description": "Sri Lanka, T\u00fcrkiye sign protocol to amend bilateral air transport agreement",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-T\u00fcrkiye-sign-protocol-to-amend-bilateral-air-transport-agreement/108-353553",
+    "doc_id": "2026-10-28-dailyftlk-b884d151",
+    "num": "dailyftlk-b884d151",
+    "date_str": "2026-10-28",
+    "description": "Cabinet clears $ 60 m OPEC Fund Loan",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-60-m-OPEC-Fund-Loan/56-799245",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793118677.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793147499.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-28 | `dailyftlk-b884d151` | Cabinet clears $ 60 m OPEC Fund Loan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-b884d151)
+- 2026-10-28 | `dailyftlk-11339575` | WNPS goes to Court over guns for civilians as elephant killings rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-11339575)
+- 2026-10-28 | `dailyftlk-19f637a2` | Following TISL’s contempt application, SC sets deadline for Rs. 275 m payment in medical procurement case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-19f637a2)
+- 2026-10-28 | `dailyftlk-36ed0a59` | Asset Engineering gets Rs. 756 m road contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-36ed0a59)
+- 2026-10-28 | `dailyftlk-865f6731` | Sri Lanka to host World Buddhist Sangha Council’s 60th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-865f6731)
+- 2026-10-28 | `dailyftlk-10811526` | Cabinet approves special compensation and reforms following Negombo prison clashes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-10811526)
+- 2026-10-28 | `dailyftlk-6bf70161` | BASL calls for independent probe into Police custodial death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailyftlk-6bf70161)
 - 2026-10-27 | `dailymirrorlk-d35c8913` | Sri Lanka, Türkiye sign protocol to amend bilateral air transport agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-d35c8913)
 - 2026-10-27 | `dailymirrorlk-fc175057` | Air Force to assist Navy in search for missing fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-fc175057)
 - 2026-10-27 | `economynextcom-a862d75e` | Sri Lanka CenBank chief says reserve building is done carefully without pressurizing rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-a862d75e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-27 | `dailymirrorlk-29deee22` | Sri Lanka storm into tri-series final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-29deee22)
 - 2026-10-27 | `dailymirrorlk-6db13dd1` | Debate on no-confidence motion against Speaker scheduled for November 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-6db13dd1)
 - 2026-10-27 | `dailymirrorlk-7c458150` | CSE rebounds as buying interest returns after six-session slide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-7c458150)
-- 2026-10-27 | `dailymirrorlk-f00afd02` | Impact of Cyclone Arnab on Sri Lanka to ease from tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-f00afd02)
-- 2026-10-27 | `dailymirrorlk-db967050` | Litro increases daily gas distribution to 100,000 cylinders due to shortage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-db967050)
-- 2026-10-27 | `dailymirrorlk-d572fbc9` | Chief Prelates have not sought Gnanasara Thero’s release: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-d572fbc9)
-- 2026-10-27 | `economynextcom-efaecf21` | Sri Lanka Cabinet approves $60mn OPEC Fund loan for Mahaweli project Phase 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-efaecf21)
-- 2026-10-27 | `economynextcom-7114d3c1` | Sri Lanka stocks close up, ASPI gains 0.27-pct | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-7114d3c1)
-- 2026-10-27 | `economynextcom-603df7f1` | Sri Lanka rupee closes at 332.40/50 to US dollar spot, bond yields edge up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-economynextcom-603df7f1)
-- 2026-10-27 | `dailymirrorlk-b67da82a` | SJB urges speaker to resign or allow no-confidence debate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-27-dailymirrorlk-b67da82a)
 
 ---
 
