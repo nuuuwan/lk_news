@@ -91087,5 +91087,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793191701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-2c3b80b1",
+    "num": "dailymirrorlk-2c3b80b1",
+    "date_str": "2026-10-28",
+    "description": "Homagama Crimes OIC arrested over suspect\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Homagama-Crimes-OIC-arrested-over-suspects-death/108-353645",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793198246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-fb66e446",
+    "num": "dailymirrorlk-fb66e446",
+    "date_str": "2026-10-28",
+    "description": "Death toll rises to 64 after train disaster in Spain",
+    "url_metadata": "https://www.dailymirror.lk/international/Death-toll-rises-to-64-after-train-disaster-in-Spain/107-353646",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793201068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-fe43a964",
+    "num": "dailymirrorlk-fe43a964",
+    "date_str": "2026-10-28",
+    "description": "Johnston says he was not charged with vehicle import tax fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Johnston-says-he-was-not-charged-with-vehicle-import-tax-fraud/108-353647",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793201874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-865532cd",
+    "num": "dailymirrorlk-865532cd",
+    "date_str": "2026-10-28",
+    "description": "Cancer drug shortages could be labelled terrorism under new laws, doctor warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-drug-shortages-could-be-labelled-terrorism-under-new-laws-doctor-warns/108-353648",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793202685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-cad6bd02",
+    "num": "dailymirrorlk-cad6bd02",
+    "date_str": "2026-10-28",
+    "description": "Arab parties on course for 17 seats in Israel election, early results show",
+    "url_metadata": "https://www.dailymirror.lk/international/Arab-parties-on-course-for-17-seats-in-Israel-election-early-results-show/107-353649",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793202907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-09c8438b",
+    "num": "dailymirrorlk-09c8438b",
+    "date_str": "2026-10-28",
+    "description": "GMOA accuses Health Ministry of failing to tackle dengue threat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-accuses-Health-Ministry-of-failing-to-tackle-dengue-threat/108-353650",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793203051.0
   }
 ]

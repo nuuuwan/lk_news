@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_19:56:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_21:59:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,225** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,231** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-28-dailymirrorlk-8dc19e12",
-    "num": "dailymirrorlk-8dc19e12",
+    "doc_id": "2026-10-28-dailymirrorlk-09c8438b",
+    "num": "dailymirrorlk-09c8438b",
     "date_str": "2026-10-28",
-    "description": "Indian actor Gagan Malik meets Tilvin Silva",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-actor-Gagan-Malik-meets-Tilvin-Silva/108-353644",
+    "description": "GMOA accuses Health Ministry of failing to tackle dengue threat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-accuses-Health-Ministry-of-failing-to-tackle-dengue-threat/108-353650",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793191701.0
+    "time_ut": 1793203051.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-28 | `dailymirrorlk-09c8438b` | GMOA accuses Health Ministry of failing to tackle dengue threat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-09c8438b)
+- 2026-10-28 | `dailymirrorlk-cad6bd02` | Arab parties on course for 17 seats in Israel election, early results show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-cad6bd02)
+- 2026-10-28 | `dailymirrorlk-865532cd` | Cancer drug shortages could be labelled terrorism under new laws, doctor warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-865532cd)
+- 2026-10-28 | `dailymirrorlk-fe43a964` | Johnston says he was not charged with vehicle import tax fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fe43a964)
+- 2026-10-28 | `dailymirrorlk-fb66e446` | Death toll rises to 64 after train disaster in Spain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fb66e446)
+- 2026-10-28 | `dailymirrorlk-2c3b80b1` | Homagama Crimes OIC arrested over suspect’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-2c3b80b1)
 - 2026-10-28 | `dailymirrorlk-8dc19e12` | Indian actor Gagan Malik meets Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-8dc19e12)
 - 2026-10-28 | `dailymirrorlk-3e78e7cd` | Sri Lanka prepares guidelines to curb ‘Kidfluencing’ and protect children online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3e78e7cd)
 - 2026-10-28 | `dailymirrorlk-82055e4a` | Government focuses on tourism development while protecting national parks and forests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-82055e4a)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-28 | `dailymirrorlk-90ed04bf` | Two high-speed trains collide in Spain, at least 10 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-90ed04bf)
 - 2026-10-28 | `dailymirrorlk-cbad2304` | Israel election: What happens next? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-cbad2304)
 - 2026-10-28 | `dailymirrorlk-226ac5e5` | Prosecution’s absence delays Namal’s Airbus case bail hearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-226ac5e5)
-- 2026-10-28 | `dailymirrorlk-fdf42846` | Central Bank declares 27 companies and apps prohibited schemes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fdf42846)
-- 2026-10-28 | `dailymirrorlk-aeac865a` | Johnston admits guilt in luxury vehicle tax case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-aeac865a)
-- 2026-10-28 | `dailymirrorlk-3f03ed20` | ‘Ghafoor Mama’ sentenced to 12 years in Wanathawilluwa explosives case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3f03ed20)
-- 2026-10-28 | `dailymirrorlk-e9bc1096` | Health Minister calls for AI use to improve healthcare | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-e9bc1096)
-- 2026-10-28 | `dailymirrorlk-35e2952d` | Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-35e2952d)
-- 2026-10-28 | `dailymirrorlk-3c1f3619` | HRCSL summons three police officers over suspect’s death in Homagama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3c1f3619)
 
 ---
 
