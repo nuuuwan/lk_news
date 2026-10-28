@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_21:59:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_23:59:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,231** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,236** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,14 +53,14 @@ A collection of lk_news documents.
 - 2026-10-28 | `dailymirrorlk-499d05d3` | Smart classrooms with remote learning facilities introduced at teacher colleges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-499d05d3)
 - 2026-10-28 | `dailymirrorlk-c0221f08` | CSE extends recovery as ASPI approaches 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-c0221f08)
 - 2026-10-28 | `dailymirrorlk-ef9bf073` | Illegal drugs worth over Rs.60 million seized at Central Mail Exchange | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-ef9bf073)
+- 2026-10-28 | `economynextcom-0e748a4b` | Sri Lanka rupee 332.52/60 to US dollar spot 1 week, bond yields steady | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-0e748a4b)
 - 2026-10-28 | `dailymirrorlk-d94340a1` | Minister calls for boosting coconut industry productivity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-d94340a1)
 - 2026-10-28 | `dailymirrorlk-8a104aeb` | SriLankan flight to London returns after bird strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-8a104aeb)
 - 2026-10-28 | `dailymirrorlk-099b23eb` | China’s former Vice Premier Liu Yandong has died | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-099b23eb)
 - 2026-10-28 | `dailymirrorlk-b3770bc8` | Gammanpila challenge court order suspending Viharamahadevi Sathyagraha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-b3770bc8)
 - 2026-10-28 | `dailymirrorlk-9cab98d5` | Bribery Commission arrests former Youth Services chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-9cab98d5)
-- 2026-10-28 | `dailymirrorlk-90ed04bf` | Two high-speed trains collide in Spain, at least 10 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-90ed04bf)
-- 2026-10-28 | `dailymirrorlk-cbad2304` | Israel election: What happens next? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-cbad2304)
-- 2026-10-28 | `dailymirrorlk-226ac5e5` | Prosecution’s absence delays Namal’s Airbus case bail hearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-226ac5e5)
+- 2026-10-28 | `economynextcom-1e7a2729` | Sri Lanka Treasury bill yields rise on shorter term, less bills sold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-1e7a2729)
+- 2026-10-28 | `economynextcom-6f42312d` | Sri Lanka stocks close up; ASPI gains 1.41-pct, turnover at Rs2.17bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-economynextcom-6f42312d)
 
 ---
 

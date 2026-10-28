@@ -90859,6 +90859,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-28-economynextcom-afa382fd",
+    "num": "economynextcom-afa382fd",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka trade body signs MoU with KADIN Indonesia to boost bilateral trade",
+    "url_metadata": "https://economynext.com/sri-lanka-trade-body-signs-mou-with-kadin-indonesia-to-boost-bilateral-trade-288137/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793170740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-28-dailymirrorlk-b6f71fec",
     "num": "dailymirrorlk-b6f71fec",
     "date_str": "2026-10-28",
@@ -90936,6 +90947,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-28-economynextcom-b3ce12fb",
+    "num": "economynextcom-b3ce12fb",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka removes 331,653 unqualified recipients from welfare list",
+    "url_metadata": "https://economynext.com/sri-lanka-removes-331653-unqualified-recipients-from-welfare-list-288145/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793178960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-28-dailymirrorlk-226ac5e5",
     "num": "dailymirrorlk-226ac5e5",
     "date_str": "2026-10-28",
@@ -90966,6 +90988,28 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793181643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-economynextcom-6f42312d",
+    "num": "economynextcom-6f42312d",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka stocks close up; ASPI gains 1.41-pct, turnover at Rs2.17bn",
+    "url_metadata": "https://economynext.com/sri-lanka-stocks-close-up-aspi-gains-1-41-pct-turnover-at-rs2-17bn-288151/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793181840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-economynextcom-1e7a2729",
+    "num": "economynextcom-1e7a2729",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka Treasury bill yields rise on shorter term, less bills sold",
+    "url_metadata": "https://economynext.com/sri-lanka-treasury-bill-yields-rise-on-shorter-term-less-bills-sold-288160/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793182560.0
   },
   {
     "doc_type": "lk_news",
@@ -91021,6 +91065,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793187449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-economynextcom-0e748a4b",
+    "num": "economynextcom-0e748a4b",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka rupee 332.52/60 to US dollar spot 1 week, bond yields steady",
+    "url_metadata": "https://economynext.com/sri-lanka-rupee-332-52-60-to-us-dollar-spot-1-week-bond-yields-steady-288167/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1793187840.0
   },
   {
     "doc_type": "lk_news",
