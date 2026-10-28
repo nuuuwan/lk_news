@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_18:00:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--28_19:56:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,221** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,225** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-28-dailymirrorlk-c0221f08",
-    "num": "dailymirrorlk-c0221f08",
+    "doc_id": "2026-10-28-dailymirrorlk-8dc19e12",
+    "num": "dailymirrorlk-8dc19e12",
     "date_str": "2026-10-28",
-    "description": "CSE extends recovery as ASPI approaches 20,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-recovery-as-ASPI-approaches-20-000/108-353640",
+    "description": "Indian actor Gagan Malik meets Tilvin Silva",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-actor-Gagan-Malik-meets-Tilvin-Silva/108-353644",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793189291.0
+    "time_ut": 1793191701.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-28 | `dailymirrorlk-8dc19e12` | Indian actor Gagan Malik meets Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-8dc19e12)
+- 2026-10-28 | `dailymirrorlk-3e78e7cd` | Sri Lanka prepares guidelines to curb ‘Kidfluencing’ and protect children online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3e78e7cd)
+- 2026-10-28 | `dailymirrorlk-82055e4a` | Government focuses on tourism development while protecting national parks and forests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-82055e4a)
+- 2026-10-28 | `dailymirrorlk-499d05d3` | Smart classrooms with remote learning facilities introduced at teacher colleges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-499d05d3)
 - 2026-10-28 | `dailymirrorlk-c0221f08` | CSE extends recovery as ASPI approaches 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-c0221f08)
 - 2026-10-28 | `dailymirrorlk-ef9bf073` | Illegal drugs worth over Rs.60 million seized at Central Mail Exchange | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-ef9bf073)
 - 2026-10-28 | `dailymirrorlk-d94340a1` | Minister calls for boosting coconut industry productivity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-d94340a1)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-28 | `dailymirrorlk-e9bc1096` | Health Minister calls for AI use to improve healthcare | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-e9bc1096)
 - 2026-10-28 | `dailymirrorlk-35e2952d` | Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-35e2952d)
 - 2026-10-28 | `dailymirrorlk-3c1f3619` | HRCSL summons three police officers over suspect’s death in Homagama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-3c1f3619)
-- 2026-10-28 | `dailymirrorlk-b6f71fec` | Krrish deal case: Namal Rajapaksa’s bail order on November 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-b6f71fec)
-- 2026-10-28 | `dailymirrorlk-13251e2d` | NPP parliamentary group divided over No-Confidence Motion against Speaker: Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-13251e2d)
-- 2026-10-28 | `dailymirrorlk-4ca6d4f2` | Sri Lanka’s Toxic Car Battery Crisis:  A Million Tonnes of Lead Waste Threaten Lives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-4ca6d4f2)
-- 2026-10-28 | `dailymirrorlk-69b5dab1` | President orders faster development of Katunayake airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-69b5dab1)
 
 ---
 

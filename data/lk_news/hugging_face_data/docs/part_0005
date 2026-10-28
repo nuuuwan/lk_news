@@ -91043,5 +91043,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793189291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-499d05d3",
+    "num": "dailymirrorlk-499d05d3",
+    "date_str": "2026-10-28",
+    "description": "Smart classrooms with remote learning facilities introduced at teacher colleges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Smart-classrooms-with-remote-learning-facilities-introduced-at-teacher-colleges/108-353641",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793189647.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-82055e4a",
+    "num": "dailymirrorlk-82055e4a",
+    "date_str": "2026-10-28",
+    "description": "Government focuses on tourism development while protecting national parks and forests",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-focuses-on-tourism-development-while-protecting-national-parks-and-forests/108-353642",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793189813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-3e78e7cd",
+    "num": "dailymirrorlk-3e78e7cd",
+    "date_str": "2026-10-28",
+    "description": "Sri Lanka prepares guidelines to curb \u2018Kidfluencing\u2019 and protect children online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-prepares-guidelines-to-curb-Kidfluencing-and-protect-children-online/108-353643",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793190102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-28-dailymirrorlk-8dc19e12",
+    "num": "dailymirrorlk-8dc19e12",
+    "date_str": "2026-10-28",
+    "description": "Indian actor Gagan Malik meets Tilvin Silva",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-actor-Gagan-Malik-meets-Tilvin-Silva/108-353644",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793191701.0
   }
 ]
