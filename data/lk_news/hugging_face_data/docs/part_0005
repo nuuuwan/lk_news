@@ -92187,5 +92187,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793282386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-191d3004",
+    "num": "dailymirrorlk-191d3004",
+    "date_str": "2026-10-29",
+    "description": "CSE extends recovery as ASPI climbs above 20,250",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-recovery-as-ASPI-climbs-above-20-250/108-353739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793283808.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-993d9c68",
+    "num": "dailymirrorlk-993d9c68",
+    "date_str": "2026-10-29",
+    "description": "Government to ensure equal school facilities: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-to-ensure-equal-school-facilities-PM/108-353740",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793284423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-30515a05",
+    "num": "dailymirrorlk-30515a05",
+    "date_str": "2026-10-29",
+    "description": "Shortage of plastic cards disrupts NIC printing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shortage-of-plastic-cards-disrupts-NIC-printing/108-353741",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793284859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-b12699f6",
+    "num": "dailymirrorlk-b12699f6",
+    "date_str": "2026-10-29",
+    "description": "Over 6.5 million driving licences await printing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-6-5-million-driving-licences-await-printing/108-353742",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793285166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-ff4b8bfe",
+    "num": "dailymirrorlk-ff4b8bfe",
+    "date_str": "2026-10-29",
+    "description": "International Handicrafts Fair opens in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/International-Handicrafts-Fair-opens-in-Colombo/110-353743",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793288722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-a7ca2c27",
+    "num": "dailymirrorlk-a7ca2c27",
+    "date_str": "2026-10-29",
+    "description": "Station Masters express condolences over Spain train accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Station-Masters-express-condolences-over-Spain-train-accident/108-353744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793288825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-b13247dd",
+    "num": "dailymirrorlk-b13247dd",
+    "date_str": "2026-10-29",
+    "description": "Israel to recruit Sri Lankan workers only through G-to-G scheme from 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-to-recruit-Sri-Lankan-workers-only-through-G-to-G-scheme-from-2027/108-353745",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793289163.0
   }
 ]

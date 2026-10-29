@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-29 19:57:11",
-  "n_docs": 134325,
+  "time_updated": "2026-10-29 21:56:59",
+  "n_docs": 134332,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134325,
+  "n_docs_with_text": 134332,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-29",
-  "dataset_size": 2076437973,
+  "dataset_size": 2076467420,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-2ccdbb7b",
-    "num": "dailymirrorlk-2ccdbb7b",
+    "doc_id": "2026-10-29-dailymirrorlk-b13247dd",
+    "num": "dailymirrorlk-b13247dd",
     "date_str": "2026-10-29",
-    "description": "Three broken ribs, brain bleeding in Homagama police custody death",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-broken-ribs-brain-bleeding-in-Homagama-police-custody-death/108-353738",
+    "description": "Israel to recruit Sri Lankan workers only through G-to-G scheme from 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-to-recruit-Sri-Lankan-workers-only-through-G-to-G-scheme-from-2027/108-353745",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793282386.0
+    "time_ut": 1793289163.0
   }
 }

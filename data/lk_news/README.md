@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_19:58:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_21:58:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,325** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,332** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-2ccdbb7b",
-    "num": "dailymirrorlk-2ccdbb7b",
+    "doc_id": "2026-10-29-dailymirrorlk-b13247dd",
+    "num": "dailymirrorlk-b13247dd",
     "date_str": "2026-10-29",
-    "description": "Three broken ribs, brain bleeding in Homagama police custody death",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-broken-ribs-brain-bleeding-in-Homagama-police-custody-death/108-353738",
+    "description": "Israel to recruit Sri Lankan workers only through G-to-G scheme from 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-to-recruit-Sri-Lankan-workers-only-through-G-to-G-scheme-from-2027/108-353745",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793282386.0
+    "time_ut": 1793289163.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-29 | `dailymirrorlk-b13247dd` | Israel to recruit Sri Lankan workers only through G-to-G scheme from 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b13247dd)
+- 2026-10-29 | `dailymirrorlk-a7ca2c27` | Station Masters express condolences over Spain train accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-a7ca2c27)
+- 2026-10-29 | `dailymirrorlk-ff4b8bfe` | International Handicrafts Fair opens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-ff4b8bfe)
+- 2026-10-29 | `dailymirrorlk-b12699f6` | Over 6.5 million driving licences await printing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b12699f6)
+- 2026-10-29 | `dailymirrorlk-30515a05` | Shortage of plastic cards disrupts NIC printing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-30515a05)
+- 2026-10-29 | `dailymirrorlk-993d9c68` | Government to ensure equal school facilities: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-993d9c68)
+- 2026-10-29 | `dailymirrorlk-191d3004` | CSE extends recovery as ASPI climbs above 20,250 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-191d3004)
 - 2026-10-29 | `dailymirrorlk-2ccdbb7b` | Three broken ribs, brain bleeding in Homagama police custody death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-2ccdbb7b)
 - 2026-10-29 | `dailymirrorlk-0c472da6` | Labour reforms aim to strengthen workers’ rights, says Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-0c472da6)
 - 2026-10-29 | `dailymirrorlk-9c90f256` | Sajith urges government to abolish executive presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-9c90f256)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-29 | `dailymirrorlk-ce9b22fd` | Rs. 677 mn cigarettes destroyed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-ce9b22fd)
 - 2026-10-29 | `dailymirrorlk-e9daf8b8` | Oil prices fall as peace hopes offset fears of growing Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-e9daf8b8)
 - 2026-10-29 | `dailymirrorlk-5d12e4da` | Six arrested over attack on luxury bus crew in Kalutara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-5d12e4da)
-- 2026-10-29 | `economynextcom-362d79ad` | Sri Lanka may see higher inflation if higher oil prices prolong: CB governor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-economynextcom-362d79ad)
-- 2026-10-29 | `dailymirrorlk-e3a140aa` | Indian High Commissioner meets Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-e3a140aa)
-- 2026-10-29 | `dailymirrorlk-dc9a1742` | People’s Bank adds share trading to People’s Pay app | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-dc9a1742)
-- 2026-10-29 | `dailymirrorlk-b170f913` | Six killed in cyclone off India’s eastern coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b170f913)
-- 2026-10-29 | `economynextcom-fa0e65a7` | Sri Lanka trade body warns new laws could risk EU GSP+ benefits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-economynextcom-fa0e65a7)
-- 2026-10-29 | `dailymirrorlk-280f50ab` | Spain begins three days of mourning after train crash kills dozens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-280f50ab)
-- 2026-10-29 | `dailymirrorlk-394625a4` | Low-level atmospheric disturbance likely near southern Andaman Sea: Met Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-394625a4)
 
 ---
 
