@@ -92154,5 +92154,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793270053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-9c90f256",
+    "num": "dailymirrorlk-9c90f256",
+    "date_str": "2026-10-29",
+    "description": "Sajith urges government to abolish executive presidency",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-urges-government-to-abolish-executive-presidency/108-353736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793275959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-0c472da6",
+    "num": "dailymirrorlk-0c472da6",
+    "date_str": "2026-10-29",
+    "description": "Labour reforms aim to strengthen workers\u2019 rights, says Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Labour-reforms-aim-to-strengthen-workers-rights-says-Deputy-Minister/108-353737",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793277280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-2ccdbb7b",
+    "num": "dailymirrorlk-2ccdbb7b",
+    "date_str": "2026-10-29",
+    "description": "Three broken ribs, brain bleeding in Homagama police custody death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-broken-ribs-brain-bleeding-in-Homagama-police-custody-death/108-353738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793282386.0
   }
 ]
