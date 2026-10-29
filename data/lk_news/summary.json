@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-29 15:53:15",
-  "n_docs": 134319,
+  "time_updated": "2026-10-29 17:59:21",
+  "n_docs": 134322,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134319,
+  "n_docs_with_text": 134322,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-29",
-  "dataset_size": 2076318348,
+  "dataset_size": 2076413026,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-5cda0b67",
-    "num": "dailymirrorlk-5cda0b67",
+    "doc_id": "2026-10-29-dailymirrorlk-a91345ed",
+    "num": "dailymirrorlk-a91345ed",
     "date_str": "2026-10-29",
-    "description": "Mumbai Indians part ways with bowling coach Lasith Malinga",
-    "url_metadata": "https://www.dailymirror.lk/international/Mumbai-Indians-part-ways-with-bowling-coach-Lasith-Malinga/107-353733",
+    "description": "Rakitha Rajapakshe\u2019s bank accounts suspended amid bribery probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rakitha-Rajapakshes-bank-accounts-suspended-amid-bribery-probe/108-353735",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793269040.0
+    "time_ut": 1793270053.0
   }
 }

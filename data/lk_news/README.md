@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_15:53:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_18:00:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,322** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-5cda0b67",
-    "num": "dailymirrorlk-5cda0b67",
+    "doc_id": "2026-10-29-dailymirrorlk-a91345ed",
+    "num": "dailymirrorlk-a91345ed",
     "date_str": "2026-10-29",
-    "description": "Mumbai Indians part ways with bowling coach Lasith Malinga",
-    "url_metadata": "https://www.dailymirror.lk/international/Mumbai-Indians-part-ways-with-bowling-coach-Lasith-Malinga/107-353733",
+    "description": "Rakitha Rajapakshe\u2019s bank accounts suspended amid bribery probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rakitha-Rajapakshes-bank-accounts-suspended-amid-bribery-probe/108-353735",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793269040.0
+    "time_ut": 1793270053.0
 }
 ```
 
@@ -41,10 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-29 | `dailymirrorlk-a91345ed` | Rakitha Rajapakshe’s bank accounts suspended amid bribery probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-a91345ed)
 - 2026-10-29 | `dailymirrorlk-5cda0b67` | Mumbai Indians part ways with bowling coach Lasith Malinga | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-5cda0b67)
 - 2026-10-29 | `dailymirrorlk-70b54d2e` | University teachers to launch strike tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-70b54d2e)
 - 2026-10-29 | `dailymirrorlk-00339326` | NPP’s Medagama Pradeshiya Sabha budget defeated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-00339326)
 - 2026-10-29 | `dailymirrorlk-9fa2ad38` | Dried chilli prices surge to Rs. 1,300 a kilo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-9fa2ad38)
+- 2026-10-29 | `dailymirrorlk-dce5ae16` | Ailing elephant calf ‘Thal-etaya’ to be transferred to Udawalawe for treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-dce5ae16)
 - 2026-10-29 | `dailymirrorlk-fdb84c23` | Rupee weakens further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-fdb84c23)
 - 2026-10-29 | `dailymirrorlk-ce9b22fd` | Rs. 677 mn cigarettes destroyed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-ce9b22fd)
 - 2026-10-29 | `dailymirrorlk-e9daf8b8` | Oil prices fall as peace hopes offset fears of growing Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-e9daf8b8)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-29 | `dailymirrorlk-9ad10731` | JVP and Presidential Pardons - A Chequered History | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-9ad10731)
 - 2026-10-29 | `dailymirrorlk-8e74bee1` | Today is the International Day of Care and Support Who Cares? Why  Sri Lanka Cannot Leave Care to Families Alone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-8e74bee1)
 - 2026-10-29 | `dailymirrorlk-353dc337` | Medawachchiya elephant calf shows signs of recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-353dc337)
-- 2026-10-29 | `economynextcom-de70bb99` | Advancing human capital for durable growth: Policy priorities for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-economynextcom-de70bb99)
-- 2026-10-29 | `dailymirrorlk-f9b45765` | Women Parliamentarians’ Caucus to launch islandwide breast cancer detection programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-f9b45765)
 
 ---
 
