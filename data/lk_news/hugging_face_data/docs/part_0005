@@ -91208,5 +91208,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793203051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-9193a61f",
+    "num": "dailyftlk-9193a61f",
+    "date_str": "2026-10-29",
+    "description": "UNP, SJB: Longest defeat, shortest road to resurgence",
+    "url_metadata": "https://www.ft.lk/columns/UNP-SJB-Longest-defeat-shortest-road-to-resurgence/4-799295",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793227334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-65b070c4",
+    "num": "dailyftlk-65b070c4",
+    "date_str": "2026-10-29",
+    "description": "Buddy Racketeers: A response",
+    "url_metadata": "https://www.ft.lk/opinion/Buddy-Racketeers-A-response/14-799297",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793228064.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-6ec47ef5",
+    "num": "dailyftlk-6ec47ef5",
+    "date_str": "2026-10-29",
+    "description": "Future of Sri Lanka\u2019s transport: 3 priorities for national progress",
+    "url_metadata": "https://www.ft.lk/columns/Future-of-Sri-Lanka-s-transport-3-priorities-for-national-progress/4-799298",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793228323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-a2d61bfb",
+    "num": "dailyftlk-a2d61bfb",
+    "date_str": "2026-10-29",
+    "description": "Sri Lanka wants to fight organised crime. Will it weaken justice in the process?",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-wants-to-fight-organised-crime-Will-it-weaken-justice-in-the-process/4-799299",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793228676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-46108c9f",
+    "num": "dailyftlk-46108c9f",
+    "date_str": "2026-10-29",
+    "description": "Cabinet backs regulations to widen eligibility for patent associates",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-backs-regulations-to-widen-eligibility-for-patent-associates/34-799310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793229727.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-c0c86e41",
+    "num": "dailyftlk-c0c86e41",
+    "date_str": "2026-10-29",
+    "description": "Inaugural Sri Lanka FinTech Festival 2026 to spotlight digital finance and regional growth",
+    "url_metadata": "https://www.ft.lk/business/Inaugural-Sri-Lanka-FinTech-Festival-2026-to-spotlight-digital-finance-and-regional-growth/34-799311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793229762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-c4cf2872",
+    "num": "dailyftlk-c4cf2872",
+    "date_str": "2026-10-29",
+    "description": "Sri Lanka invites Indian businesses to partner for next phase of economic growth",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-invites-Indian-businesses-to-partner-for-next-phase-of-economic-growth/34-799312",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793230004.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-28778ca2",
+    "num": "dailyftlk-28778ca2",
+    "date_str": "2026-10-29",
+    "description": "Flexiprint: A Top Ten triumph, a silver standard of excellence and a legacy that inspires",
+    "url_metadata": "https://www.ft.lk/business/Flexiprint-A-Top-Ten-triumph-a-silver-standard-of-excellence-and-a-legacy-that-inspires/34-799321",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793231022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-cf2bec11",
+    "num": "dailyftlk-cf2bec11",
+    "date_str": "2026-10-29",
+    "description": "Rasith Wickramasingha joins Convenience Foods\u2019 Board",
+    "url_metadata": "https://www.ft.lk/business/Rasith-Wickramasingha-joins-Convenience-Foods-Board/34-799322",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793231151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-98abe4dc",
+    "num": "dailyftlk-98abe4dc",
+    "date_str": "2026-10-29",
+    "description": "28th Presidential Export Awards on 8 December",
+    "url_metadata": "https://www.ft.lk/business/28th-Presidential-Export-Awards-on-8-December/34-799323",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793231218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-cd30c382",
+    "num": "dailyftlk-cd30c382",
+    "date_str": "2026-10-29",
+    "description": "Aswesuma re-certification removes 331,653, adds 153,511",
+    "url_metadata": "https://www.ft.lk/news/Aswesuma-re-certification-removes-331-653-adds-153-511/56-799330",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793232054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-868cc144",
+    "num": "dailyftlk-868cc144",
+    "date_str": "2026-10-29",
+    "description": "Customs seizes Rs. 60.2 m in drugs sent by airmail",
+    "url_metadata": "https://www.ft.lk/news/Customs-seizes-Rs-60-2-m-in-drugs-sent-by-airmail/56-799331",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793232089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailyftlk-bc03c219",
+    "num": "dailyftlk-bc03c219",
+    "date_str": "2026-10-29",
+    "description": "Sajith asks if Homagama custodial death signals drift towards police State",
+    "url_metadata": "https://www.ft.lk/news/Sajith-asks-if-Homagama-custodial-death-signals-drift-towards-police-State/56-799332",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793232171.0
   }
 ]
