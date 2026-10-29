@@ -91365,6 +91365,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-33e381e3",
+    "num": "dailymirrorlk-33e381e3",
+    "date_str": "2026-10-29",
+    "description": "Netanyahu\u2019s bloc leading Israel election but short of majority, partial results show",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Netanyahus-bloc-leading-Israel-election-but-short-of-majority-partial-results-show/108-353652",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793236715.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-29-dailymirrorlk-baaf96e9",
     "num": "dailymirrorlk-baaf96e9",
     "date_str": "2026-10-29",
@@ -91384,5 +91395,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793239114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-2748772d",
+    "num": "dailymirrorlk-2748772d",
+    "date_str": "2026-10-29",
+    "description": "Indian national arrested at BIA with cocaine and ecstasy worth Rs. 454 million",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-national-arrested-at-BIA-with-cocaine-and-ecstasy-worth-Rs-454-million/108-353655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793240095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-fb9bced2",
+    "num": "dailymirrorlk-fb9bced2",
+    "date_str": "2026-10-29",
+    "description": "Senior journalist Siri Heenpella dies in New York at 77",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-journalist-Siri-Heenpella-dies-in-New-York-at-77/108-353656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793243895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-c13b6458",
+    "num": "dailymirrorlk-c13b6458",
+    "date_str": "2026-10-29",
+    "description": "Ambani\u2019s Jio reaches $137 billion valuation, becoming India\u2019s second-most valuable firm",
+    "url_metadata": "https://www.dailymirror.lk/international/Ambanis-Jio-reaches-137-billion-valuation-becoming-Indias-second-most-valuable-firm/107-353657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793245858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-d9a790f5",
+    "num": "dailymirrorlk-d9a790f5",
+    "date_str": "2026-10-29",
+    "description": "Centrum Air launches Tashkent\u2013Mattala flights",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Centrum-Air-launches-TashkentMattala-flights/110-353658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793246578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-fdc25bec",
+    "num": "dailymirrorlk-fdc25bec",
+    "date_str": "2026-10-29",
+    "description": "SLBFE warns Korean language test applicants of SMS scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLBFE-warns-Korean-language-test-applicants-of-SMS-scam/108-353659",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793247028.0
   }
 ]

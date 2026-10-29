@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_07:58:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_09:56:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,252** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,258** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-b44229fe",
-    "num": "dailymirrorlk-b44229fe",
+    "doc_id": "2026-10-29-dailymirrorlk-fdc25bec",
+    "num": "dailymirrorlk-fdc25bec",
     "date_str": "2026-10-29",
-    "description": "Over 300 to receive ACSM Marketing Diplomas",
-    "url_metadata": "https://www.dailymirror.lk/business/Over-300-to-receive-ACSM-Marketing-Diplomas/215-353654",
+    "description": "SLBFE warns Korean language test applicants of SMS scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLBFE-warns-Korean-language-test-applicants-of-SMS-scam/108-353659",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793239114.0
+    "time_ut": 1793247028.0
 }
 ```
 
@@ -41,8 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-29 | `dailymirrorlk-fdc25bec` | SLBFE warns Korean language test applicants of SMS scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-fdc25bec)
+- 2026-10-29 | `dailymirrorlk-d9a790f5` | Centrum Air launches Tashkent–Mattala flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-d9a790f5)
+- 2026-10-29 | `dailymirrorlk-c13b6458` | Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-c13b6458)
+- 2026-10-29 | `dailymirrorlk-fb9bced2` | Senior journalist Siri Heenpella dies in New York at 77 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-fb9bced2)
+- 2026-10-29 | `dailymirrorlk-2748772d` | Indian national arrested at BIA with cocaine and ecstasy worth Rs. 454 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-2748772d)
 - 2026-10-29 | `dailymirrorlk-b44229fe` | Over 300 to receive ACSM Marketing Diplomas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b44229fe)
 - 2026-10-29 | `dailymirrorlk-baaf96e9` | Fair weather elsewhere, showers after 1 p.m. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-baaf96e9)
+- 2026-10-29 | `dailymirrorlk-33e381e3` | Netanyahu’s bloc leading Israel election but short of majority, partial results show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-33e381e3)
 - 2026-10-29 | `dailymirrorlk-2e2f86fd` | Human Rights Watch warns Sri Lanka’s organised crime bill risks rights abuses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-2e2f86fd)
 - 2026-10-29 | `dailyftlk-bc03c219` | Sajith asks if Homagama custodial death signals drift towards police State | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-bc03c219)
 - 2026-10-29 | `dailyftlk-868cc144` | Customs seizes Rs. 60.2 m in drugs sent by airmail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-868cc144)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-29 | `dailyftlk-46108c9f` | Cabinet backs regulations to widen eligibility for patent associates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-46108c9f)
 - 2026-10-29 | `dailyftlk-a2d61bfb` | Sri Lanka wants to fight organised crime. Will it weaken justice in the process? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-a2d61bfb)
 - 2026-10-29 | `dailyftlk-6ec47ef5` | Future of Sri Lanka’s transport: 3 priorities for national progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-6ec47ef5)
-- 2026-10-29 | `dailyftlk-65b070c4` | Buddy Racketeers: A response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-65b070c4)
-- 2026-10-29 | `dailyftlk-9193a61f` | UNP, SJB: Longest defeat, shortest road to resurgence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-9193a61f)
-- 2026-10-28 | `dailymirrorlk-09c8438b` | GMOA accuses Health Ministry of failing to tackle dengue threat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-09c8438b)
-- 2026-10-28 | `dailymirrorlk-cad6bd02` | Arab parties on course for 17 seats in Israel election, early results show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-cad6bd02)
-- 2026-10-28 | `dailymirrorlk-865532cd` | Cancer drug shortages could be labelled terrorism under new laws, doctor warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-865532cd)
-- 2026-10-28 | `dailymirrorlk-fe43a964` | Johnston says he was not charged with vehicle import tax fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fe43a964)
 
 ---
 
