@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-29 06:10:59",
-  "n_docs": 134249,
+  "time_updated": "2026-10-29 07:57:39",
+  "n_docs": 134252,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134249,
+  "n_docs_with_text": 134252,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-29",
-  "dataset_size": 2075571759,
+  "dataset_size": 2075760077,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailyftlk-bc03c219",
-    "num": "dailyftlk-bc03c219",
+    "doc_id": "2026-10-29-dailymirrorlk-b44229fe",
+    "num": "dailymirrorlk-b44229fe",
     "date_str": "2026-10-29",
-    "description": "Sajith asks if Homagama custodial death signals drift towards police State",
-    "url_metadata": "https://www.ft.lk/news/Sajith-asks-if-Homagama-custodial-death-signals-drift-towards-police-State/56-799332",
+    "description": "Over 300 to receive ACSM Marketing Diplomas",
+    "url_metadata": "https://www.dailymirror.lk/business/Over-300-to-receive-ACSM-Marketing-Diplomas/215-353654",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793232171.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793239114.0
   }
 }

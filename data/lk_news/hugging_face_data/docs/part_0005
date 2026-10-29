@@ -91351,5 +91351,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793232171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-2e2f86fd",
+    "num": "dailymirrorlk-2e2f86fd",
+    "date_str": "2026-10-29",
+    "description": "Human Rights Watch warns Sri Lanka\u2019s organised crime bill risks rights abuses",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Human-Rights-Watch-warns-Sri-Lankas-organised-crime-bill-risks-rights-abuses/108-353651",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793234291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-baaf96e9",
+    "num": "dailymirrorlk-baaf96e9",
+    "date_str": "2026-10-29",
+    "description": "Fair weather elsewhere, showers after 1 p.m.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fair-weather-elsewhere-showers-after-1-p-m/108-353653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793238594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-29-dailymirrorlk-b44229fe",
+    "num": "dailymirrorlk-b44229fe",
+    "date_str": "2026-10-29",
+    "description": "Over 300 to receive ACSM Marketing Diplomas",
+    "url_metadata": "https://www.dailymirror.lk/business/Over-300-to-receive-ACSM-Marketing-Diplomas/215-353654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793239114.0
   }
 ]

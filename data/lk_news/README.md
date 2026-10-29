@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_06:12:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--29_07:58:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,249** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,252** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailyftlk-bc03c219",
-    "num": "dailyftlk-bc03c219",
+    "doc_id": "2026-10-29-dailymirrorlk-b44229fe",
+    "num": "dailymirrorlk-b44229fe",
     "date_str": "2026-10-29",
-    "description": "Sajith asks if Homagama custodial death signals drift towards police State",
-    "url_metadata": "https://www.ft.lk/news/Sajith-asks-if-Homagama-custodial-death-signals-drift-towards-police-State/56-799332",
+    "description": "Over 300 to receive ACSM Marketing Diplomas",
+    "url_metadata": "https://www.dailymirror.lk/business/Over-300-to-receive-ACSM-Marketing-Diplomas/215-353654",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793232171.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793239114.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-29 | `dailymirrorlk-b44229fe` | Over 300 to receive ACSM Marketing Diplomas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b44229fe)
+- 2026-10-29 | `dailymirrorlk-baaf96e9` | Fair weather elsewhere, showers after 1 p.m. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-baaf96e9)
+- 2026-10-29 | `dailymirrorlk-2e2f86fd` | Human Rights Watch warns Sri Lanka’s organised crime bill risks rights abuses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-2e2f86fd)
 - 2026-10-29 | `dailyftlk-bc03c219` | Sajith asks if Homagama custodial death signals drift towards police State | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-bc03c219)
 - 2026-10-29 | `dailyftlk-868cc144` | Customs seizes Rs. 60.2 m in drugs sent by airmail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-868cc144)
 - 2026-10-29 | `dailyftlk-cd30c382` | Aswesuma re-certification removes 331,653, adds 153,511 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailyftlk-cd30c382)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-28 | `dailymirrorlk-cad6bd02` | Arab parties on course for 17 seats in Israel election, early results show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-cad6bd02)
 - 2026-10-28 | `dailymirrorlk-865532cd` | Cancer drug shortages could be labelled terrorism under new laws, doctor warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-865532cd)
 - 2026-10-28 | `dailymirrorlk-fe43a964` | Johnston says he was not charged with vehicle import tax fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fe43a964)
-- 2026-10-28 | `dailymirrorlk-fb66e446` | Death toll rises to 64 after train disaster in Spain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-fb66e446)
-- 2026-10-28 | `dailymirrorlk-2c3b80b1` | Homagama Crimes OIC arrested over suspect’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-2c3b80b1)
-- 2026-10-28 | `dailymirrorlk-8dc19e12` | Indian actor Gagan Malik meets Tilvin Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-28-dailymirrorlk-8dc19e12)
 
 ---
 
