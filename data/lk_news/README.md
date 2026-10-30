@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--30_15:54:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--30_18:00:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,406** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,411** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-30-dailymirrorlk-98b3cb7a",
-    "num": "dailymirrorlk-98b3cb7a",
+    "doc_id": "2026-10-30-dailymirrorlk-39984517",
+    "num": "dailymirrorlk-39984517",
     "date_str": "2026-10-30",
-    "description": "Three injured in factory explosion in Padukka",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-injured-in-factory-explosion-in-Padukka/108-353810",
+    "description": "Human Rights Commission gets new chairman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Human-Rights-Commission-gets-new-chairman/108-353817",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793354368.0
+    "time_ut": 1793360933.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-30 | `dailymirrorlk-39984517` | Human Rights Commission gets new chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-39984517)
+- 2026-10-30 | `dailymirrorlk-964f5c2a` | With no majority, what options remain for Israel’s Netanyahu, Eisenkot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-964f5c2a)
+- 2026-10-30 | `dailymirrorlk-2b510728` | Sri Lanka’s inflation climbs to 8.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-2b510728)
+- 2026-10-30 | `dailymirrorlk-62314bf7` | Minister denies suspension of Aswesuma benefits for 1.4 million people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-62314bf7)
+- 2026-10-30 | `dailymirrorlk-de417696` | TIN certificate mandatory for eight transactions from November 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-de417696)
 - 2026-10-30 | `dailymirrorlk-98b3cb7a` | Three injured in factory explosion in Padukka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-98b3cb7a)
 - 2026-10-30 | `dailymirrorlk-e0b4d88a` | PAFFREL questions new bills in letter to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-e0b4d88a)
 - 2026-10-30 | `dailymirrorlk-8b7e9638` | No-confidence motion against Speaker not to be debated on November 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-8b7e9638)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-10-30 | `dailymirrorlk-99c4eb09` | DCSL brings beer operations under parent company | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-99c4eb09)
 - 2026-10-30 | `dailymirrorlk-f56e585a` | Jetwing acquires Mermaid Hotel, eyes Negombo-style revival of Kalutara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-f56e585a)
 - 2026-10-30 | `dailymirrorlk-557457bc` | Overseas Realty records Rs 6.9bn PBT for 9 months ending September 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-557457bc)
-- 2026-10-30 | `economynextcom-b9ad61ff` | Sri Lanka rupee at 332.60/70 to US dollar spot, bond yields steady | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-economynextcom-b9ad61ff)
-- 2026-10-30 | `dailymirrorlk-ab998f80` | Moderate market activity amidst fully subscribed T-bond auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-ab998f80)
-- 2026-10-30 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-821a32a1)
-- 2026-10-30 | `dailymirrorlk-636a4023` | Inaugural Sri Lanka FinTech Festival to spotlight digital finance and regional growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-636a4023)
-- 2026-10-30 | `dailymirrorlk-5fdd18aa` | AirAsia restores Colombo–Bangkok and Colombo–Kuala Lumpur route frequencies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-5fdd18aa)
 
 ---
 
