@@ -92575,6 +92575,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-778a37fe",
+    "num": "dailymirrorlk-778a37fe",
+    "date_str": "2026-10-30",
+    "description": "Bread and bakery product prices increased by Rs. 5",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bread-and-bakery-product-prices-increased-by-Rs-5/108-353761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793333695.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-30-dailymirrorlk-d9604d0b",
     "num": "dailymirrorlk-d9604d0b",
     "date_str": "2026-10-30",
@@ -92583,5 +92594,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793333695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-e1d2ccc2",
+    "num": "dailymirrorlk-e1d2ccc2",
+    "date_str": "2026-10-30",
+    "description": "Jaffna man arrested after returning from India released by court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-man-arrested-after-returning-from-India-released-by-court/108-353762",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793335520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-d93d1521",
+    "num": "dailymirrorlk-d93d1521",
+    "date_str": "2026-10-30",
+    "description": "Rising temperatures could cost Sri Lanka 145,000 jobs by 2040, ILO warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rising-temperatures-could-cost-Sri-Lanka-145-000-jobs-by-2040-ILO-warns/108-353763",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793336045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-47e4d5fd",
+    "num": "dailymirrorlk-47e4d5fd",
+    "date_str": "2026-10-30",
+    "description": "Walana team leads investigation into DMT irregularities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Walana-team-leads-investigation-into-DMT-irregularities/108-353764",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793338318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-b8f6787e",
+    "num": "dailymirrorlk-b8f6787e",
+    "date_str": "2026-10-30",
+    "description": "48 children murdered in Sri Lanka in three years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/48-children-murdered-in-Sri-Lanka-in-three-years/108-353765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793338755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-8ef220cb",
+    "num": "dailymirrorlk-8ef220cb",
+    "date_str": "2026-10-30",
+    "description": "PSTA places media in jeopardy: UN raises concern",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PSTA-places-media-in-jeopardy-UN-raises-concern/108-353766",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793339478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-267ed3bc",
+    "num": "dailymirrorlk-267ed3bc",
+    "date_str": "2026-10-30",
+    "description": "Three Kobeigane Police officers suspended over suspect\u2019s death in custody",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-Kobeigane-Police-officers-suspended-over-suspects-death-in-custody/108-353767",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793339669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-d5371a21",
+    "num": "dailymirrorlk-d5371a21",
+    "date_str": "2026-10-30",
+    "description": "Air quality in several areas turns \u2018unhealthy for sensitive groups\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Air-quality-in-several-areas-turns-unhealthy-for-sensitive-groups/108-353768",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793340953.0
   }
 ]
