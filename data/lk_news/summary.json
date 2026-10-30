@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-30 21:55:00",
-  "n_docs": 134415,
+  "time_updated": "2026-10-30 23:54:46",
+  "n_docs": 134416,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134415,
+  "n_docs_with_text": 134416,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-30",
-  "dataset_size": 2077455467,
+  "dataset_size": 2077460358,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-30-dailymirrorlk-1745467b",
-    "num": "dailymirrorlk-1745467b",
+    "doc_id": "2026-10-30-dailymirrorlk-5c44464b",
+    "num": "dailymirrorlk-5c44464b",
     "date_str": "2026-10-30",
-    "description": "NBRO extends landslide warning for four districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/NBRO-extends-landslide-warning-for-four-districts/108-353820",
+    "description": "They are trying to kill him\u2019: Imran Khan\u2019s son issues urgent warning over father\u2019s life",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/They-are-trying-to-kill-him-Imran-Khans-son-issues-urgent-warning-over-fathers-life/108-353821",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793375932.0
+    "time_ut": 1793377660.0
   }
 }
