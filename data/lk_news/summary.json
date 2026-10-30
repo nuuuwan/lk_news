@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-30 06:10:39",
-  "n_docs": 134342,
+  "time_updated": "2026-10-30 07:57:27",
+  "n_docs": 134357,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134342,
+  "n_docs_with_text": 134357,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-30",
-  "dataset_size": 2076535536,
+  "dataset_size": 2076675436,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-30-dailyftlk-7c58b7b7",
-    "num": "dailyftlk-7c58b7b7",
+    "doc_id": "2026-10-30-dailyftlk-d2c62e4a",
+    "num": "dailyftlk-d2c62e4a",
     "date_str": "2026-10-30",
-    "description": "COPE presses for urgent decision on KDU Hospital\u2019s operating model",
-    "url_metadata": "https://www.ft.lk/news/COPE-presses-for-urgent-decision-on-KDU-Hospital-s-operating-model/56-799372",
+    "description": "Clarity, confidence and courage: Helping Sri Lanka\u2019s graduates into work",
+    "url_metadata": "https://www.ft.lk/columns/Clarity-confidence-and-courage-Helping-Sri-Lanka-s-graduates-into-work/4-799396",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1793320563.0
+    "time_ut": 1793326648.0
   }
 }
