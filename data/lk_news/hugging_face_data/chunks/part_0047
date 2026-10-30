@@ -133908,5 +133908,22 @@ cships exited the strait, one carrying fertiliser and the other sailing in balla
     "md5": "d9c2a95fec7d62cbe7f5e56ee5a613ca",
     "chunk_size_bytes": 264,
     "chunk_text": "Dhami also said he had ordered that anyone seriously injured be airlifted for treatment.\n\nIn June 2025, seven people were killed when a helicopter carrying pilgrims crashed near Kedarnath. Another seven died in a crash on the same pilgrimage route in October 2022."
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-1745467b",
+    "num": "dailymirrorlk-1745467b",
+    "date_str": "2026-10-30",
+    "description": "NBRO extends landslide warning for four districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NBRO-extends-landslide-warning-for-four-districts/108-353820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793375932.0,
+    "chunk_id": "2026-10-30-dailymirrorlk-1745467b-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "1b0c0ae3d1aef8064da6252137986d51",
+    "chunk_size_bytes": 429,
+    "chunk_text": "NBRO extends landslide warning for four districts\n\nThe National Building Research Organisation (NBRO) has extended the Level 1 landslide warning (Yellow \u2013 Be Vigilant) issued for four districts due to prevailing rainy weather conditions.\n\nAccordingly, the warning will remain in effect until 4:00 p.m. tomorrow (October 31), the NBRO said.\n\n* Ratnapura District: Ayagama, Opanayake, Elapatha, Kuruwita, Pelmadulla and Ratnapura"
   }
 ]

@@ -93166,5 +93166,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793367938.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-1745467b",
+    "num": "dailymirrorlk-1745467b",
+    "date_str": "2026-10-30",
+    "description": "NBRO extends landslide warning for four districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NBRO-extends-landslide-warning-for-four-districts/108-353820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793375932.0
   }
 ]
