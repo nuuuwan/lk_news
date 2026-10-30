@@ -92539,5 +92539,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793326648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-a68c48d4",
+    "num": "dailymirrorlk-a68c48d4",
+    "date_str": "2026-10-30",
+    "description": "Israel election ends in deadlock as rival blocs fall short of majority",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-election-ends-in-deadlock-as-rival-blocs-fall-short-of-majority/108-353758",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793329195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-6f2da514",
+    "num": "dailymirrorlk-6f2da514",
+    "date_str": "2026-10-30",
+    "description": "Man posing as female medical student cheats 71-year-old",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-posing-as-female-medical-student-cheats-71-year-old/108-353759",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793330660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-e8a30dbe",
+    "num": "dailymirrorlk-e8a30dbe",
+    "date_str": "2026-10-30",
+    "description": "LAUGFS consumers gasping for gas for months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-consumers-gasping-for-gas-for-months/108-353760",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793333394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-d9604d0b",
+    "num": "dailymirrorlk-d9604d0b",
+    "date_str": "2026-10-30",
+    "description": "Bread price increased by Rs. 5 from midnight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bread-price-increased-by-Rs-5-from-midnight/108-353761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793333695.0
   }
 ]
