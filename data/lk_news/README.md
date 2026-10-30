@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--30_23:55:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_01:54:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,416** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,429** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-30-dailymirrorlk-5c44464b",
-    "num": "dailymirrorlk-5c44464b",
-    "date_str": "2026-10-30",
-    "description": "They are trying to kill him\u2019: Imran Khan\u2019s son issues urgent warning over father\u2019s life",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/They-are-trying-to-kill-him-Imran-Khans-son-issues-urgent-warning-over-fathers-life/108-353821",
+    "doc_id": "2026-10-31-dailyftlk-5092601c",
+    "num": "dailyftlk-5092601c",
+    "date_str": "2026-10-31",
+    "description": "PAFFREL warns new security, organised crime Bills threaten rights",
+    "url_metadata": "https://www.ft.lk/news/PAFFREL-warns-new-security-organised-crime-Bills-threaten-rights/56-799442",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793377660.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385268.0
 }
 ```
 
@@ -41,6 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-31 | `dailyftlk-5092601c` | PAFFREL warns new security, organised crime Bills threaten rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-5092601c)
+- 2026-10-31 | `dailyftlk-34bc1a24` | RS Rock Holdings brings Lankan delegation and UK business leaders together | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-34bc1a24)
+- 2026-10-31 | `dailyftlk-49a3ef0d` | EDB conducts AI workshop for SME exporters in Kandy with support of Habib Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-49a3ef0d)
+- 2026-10-31 | `dailyftlk-48e0a0e6` | Mayor of Colombo joins British High Commission and delegation of European Union to launch joint solar initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-48e0a0e6)
+- 2026-10-31 | `dailyftlk-0380daab` | Prasakti Energy launches 3.5 MW  Wilachchiya Biomass Dendro Power Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-0380daab)
+- 2026-10-30 | `dailyftlk-cbd5dc82` | Bank of Ceylon celebrates World Thrift Day 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-cbd5dc82)
+- 2026-10-30 | `dailyftlk-9bbe290f` | ‘Saving a Tomorrow’: National responsibility beyond saving money | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-9bbe290f)
+- 2026-10-30 | `dailyftlk-ee54dd96` | Tourism development for dummies? Not quite | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-ee54dd96)
+- 2026-10-30 | `dailyftlk-a4dd86e9` | Sri Lanka could turn Maldives’ dollar dilemma into investment opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-a4dd86e9)
+- 2026-10-30 | `dailyftlk-8aa8d94e` | Sri Lanka needs to get more value from its trade relationships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-8aa8d94e)
+- 2026-10-30 | `dailyftlk-1642939d` | Beyond the killing of Kawanthissa: Political economy and institutional accountability of wildlife conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-1642939d)
+- 2026-10-30 | `dailyftlk-9b828bd7` | Palihakkara calls for trust-based connectivity and variable geometry in regional cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-9b828bd7)
+- 2026-10-30 | `dailyftlk-8eeaf093` | Israel’s electoral post-mortem: Caretaker’s paradox and rigid coalition matrix | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-8eeaf093)
 - 2026-10-30 | `dailymirrorlk-5c44464b` | They are trying to kill him’: Imran Khan’s son issues urgent warning over father’s life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-5c44464b)
 - 2026-10-30 | `dailymirrorlk-1745467b` | NBRO extends landslide warning for four districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-1745467b)
 - 2026-10-30 | `dailymirrorlk-82733ccd` | Helicopter carrying six people crashes in northern Indian state | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-82733ccd)
@@ -48,19 +61,6 @@ A collection of lk_news documents.
 - 2026-10-30 | `dailymirrorlk-39984517` | Human Rights Commission gets new chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-39984517)
 - 2026-10-30 | `dailymirrorlk-964f5c2a` | With no majority, what options remain for Israel’s Netanyahu, Eisenkot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-964f5c2a)
 - 2026-10-30 | `dailymirrorlk-2b510728` | Sri Lanka’s inflation climbs to 8.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-2b510728)
-- 2026-10-30 | `dailymirrorlk-62314bf7` | Minister denies suspension of Aswesuma benefits for 1.4 million people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-62314bf7)
-- 2026-10-30 | `dailymirrorlk-de417696` | TIN certificate mandatory for eight transactions from November 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-de417696)
-- 2026-10-30 | `dailymirrorlk-98b3cb7a` | Three injured in factory explosion in Padukka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-98b3cb7a)
-- 2026-10-30 | `dailymirrorlk-e0b4d88a` | PAFFREL questions new bills in letter to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-e0b4d88a)
-- 2026-10-30 | `dailymirrorlk-8b7e9638` | No-confidence motion against Speaker not to be debated on November 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-8b7e9638)
-- 2026-10-30 | `dailymirrorlk-344818a9` | Ryanair responds to Kumar Sangakkara’s allegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-344818a9)
-- 2026-10-30 | `dailymirrorlk-32144687` | North Korean hackers suspected in $6.3 billion Binance heist | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-32144687)
-- 2026-10-30 | `dailymirrorlk-5b7855b1` | Parliamentary Caucus proposes separate budget line for persons with disabilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-5b7855b1)
-- 2026-10-30 | `dailymirrorlk-e5be554b` | “My Wedding 2026” at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-e5be554b)
-- 2026-10-30 | `economynextcom-0b4bdfad` | Sri Lanka trade body pushes AI adoption to boost regional SME exports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-economynextcom-0b4bdfad)
-- 2026-10-30 | `dailymirrorlk-5b818f09` | CIABOC moves High Court to cancel bail granted to Rakitha Rajapaksa, two others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-5b818f09)
-- 2026-10-30 | `dailymirrorlk-0033175e` | Capital markets underused in Sri Lanka’s growth drive: SEC chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-0033175e)
-- 2026-10-30 | `dailymirrorlk-895f9c36` | CCC presses for legal safeguards as GSP Plus stakes rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-895f9c36)
 
 ---
 

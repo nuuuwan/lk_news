@@ -93188,5 +93188,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793377660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-8eeaf093",
+    "num": "dailyftlk-8eeaf093",
+    "date_str": "2026-10-30",
+    "description": "Israel\u2019s electoral post-mortem: Caretaker\u2019s paradox and rigid coalition matrix",
+    "url_metadata": "https://www.ft.lk/columns/Israel-s-electoral-post-mortem-Caretaker-s-paradox-and-rigid-coalition-matrix/4-799422",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793382940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-9b828bd7",
+    "num": "dailyftlk-9b828bd7",
+    "date_str": "2026-10-30",
+    "description": "Palihakkara calls for trust-based connectivity and variable geometry in regional cooperation",
+    "url_metadata": "https://www.ft.lk/opinion/Palihakkara-calls-for-trust-based-connectivity-and-variable-geometry-in-regional-cooperation/14-799423",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793383072.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-1642939d",
+    "num": "dailyftlk-1642939d",
+    "date_str": "2026-10-30",
+    "description": "Beyond the killing of Kawanthissa: Political economy and institutional accountability of wildlife conservation",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-killing-of-Kawanthissa-Political-economy-and-institutional-accountability-of-wildlife-conservation/4-799424",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793383190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-8aa8d94e",
+    "num": "dailyftlk-8aa8d94e",
+    "date_str": "2026-10-30",
+    "description": "Sri Lanka needs to get more value from its trade relationships",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-needs-to-get-more-value-from-its-trade-relationships/4-799425",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793383349.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-a4dd86e9",
+    "num": "dailyftlk-a4dd86e9",
+    "date_str": "2026-10-30",
+    "description": "Sri Lanka could turn Maldives\u2019 dollar dilemma into investment opportunity",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-could-turn-Maldives-dollar-dilemma-into-investment-opportunity/4-799426",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793383548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-ee54dd96",
+    "num": "dailyftlk-ee54dd96",
+    "date_str": "2026-10-30",
+    "description": "Tourism development for dummies? Not quite",
+    "url_metadata": "https://www.ft.lk/columns/Tourism-development-for-dummies-Not-quite/4-799427",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793383978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-9bbe290f",
+    "num": "dailyftlk-9bbe290f",
+    "date_str": "2026-10-30",
+    "description": "\u2018Saving a Tomorrow\u2019: National responsibility beyond saving money",
+    "url_metadata": "https://www.ft.lk/columns/Saving-a-Tomorrow-National-responsibility-beyond-saving-money/4-799436",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793384788.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-cbd5dc82",
+    "num": "dailyftlk-cbd5dc82",
+    "date_str": "2026-10-30",
+    "description": "Bank of Ceylon celebrates World Thrift Day 2026",
+    "url_metadata": "https://www.ft.lk/business/Bank-of-Ceylon-celebrates-World-Thrift-Day-2026/34-799437",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793384906.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailyftlk-0380daab",
+    "num": "dailyftlk-0380daab",
+    "date_str": "2026-10-31",
+    "description": "Prasakti Energy launches 3.5 MW  Wilachchiya Biomass Dendro Power Project",
+    "url_metadata": "https://www.ft.lk/business/Prasakti-Energy-launches-3-5-MW-Wilachchiya-Biomass-Dendro-Power-Project/34-799438",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailyftlk-48e0a0e6",
+    "num": "dailyftlk-48e0a0e6",
+    "date_str": "2026-10-31",
+    "description": "Mayor of Colombo joins British High Commission and delegation of European Union to launch joint solar initiative",
+    "url_metadata": "https://www.ft.lk/business/Mayor-of-Colombo-joins-British-High-Commission-and-delegation-of-European-Union-to-launch-joint-solar-initiative/34-799439",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailyftlk-49a3ef0d",
+    "num": "dailyftlk-49a3ef0d",
+    "date_str": "2026-10-31",
+    "description": "EDB conducts AI workshop for SME exporters in Kandy with support of Habib Bank",
+    "url_metadata": "https://www.ft.lk/business/EDB-conducts-AI-workshop-for-SME-exporters-in-Kandy-with-support-of-Habib-Bank/34-799440",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailyftlk-34bc1a24",
+    "num": "dailyftlk-34bc1a24",
+    "date_str": "2026-10-31",
+    "description": "RS Rock Holdings brings Lankan delegation and UK business leaders together",
+    "url_metadata": "https://www.ft.lk/business/RS-Rock-Holdings-brings-Lankan-delegation-and-UK-business-leaders-together/34-799441",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385185.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailyftlk-5092601c",
+    "num": "dailyftlk-5092601c",
+    "date_str": "2026-10-31",
+    "description": "PAFFREL warns new security, organised crime Bills threaten rights",
+    "url_metadata": "https://www.ft.lk/news/PAFFREL-warns-new-security-organised-crime-Bills-threaten-rights/56-799442",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793385268.0
   }
 ]
