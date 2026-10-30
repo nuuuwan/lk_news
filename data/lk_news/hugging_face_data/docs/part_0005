@@ -92498,6 +92498,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-58c1d4d0",
+    "num": "dailymirrorlk-58c1d4d0",
+    "date_str": "2026-10-30",
+    "description": "Patrick Stewart, Shakespearean actor turned \u2019Star Trek\u2019 star, dies at 86",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Patrick-Stewart-Shakespearean-actor-turned-Star-Trek-star-dies-at-86/108-353757",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793325823.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-30-dailyftlk-3d01da2e",
     "num": "dailyftlk-3d01da2e",
     "date_str": "2026-10-30",
@@ -93133,5 +93144,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793360933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-18874fa3",
+    "num": "dailymirrorlk-18874fa3",
+    "date_str": "2026-10-30",
+    "description": "UNP introduces new membership structures",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-introduces-new-membership-structures/108-353818",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793365293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-82733ccd",
+    "num": "dailymirrorlk-82733ccd",
+    "date_str": "2026-10-30",
+    "description": "Helicopter carrying six people crashes in northern Indian state",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Helicopter-carrying-six-people-crashes-in-northern-Indian-state/108-353819",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793367938.0
   }
 ]
