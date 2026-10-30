@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--30_03:53:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--30_06:11:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-f772c30d",
-    "num": "dailymirrorlk-f772c30d",
-    "date_str": "2026-10-29",
-    "description": "Rathnayake lights up Lahore but England have the last word",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rathnayake-lights-up-Lahore-but-England-have-the-last-word/108-353746",
+    "doc_id": "2026-10-30-dailyftlk-7c58b7b7",
+    "num": "dailyftlk-7c58b7b7",
+    "date_str": "2026-10-30",
+    "description": "COPE presses for urgent decision on KDU Hospital\u2019s operating model",
+    "url_metadata": "https://www.ft.lk/news/COPE-presses-for-urgent-decision-on-KDU-Hospital-s-operating-model/56-799372",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793292098.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320563.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-30 | `dailyftlk-7c58b7b7` | COPE presses for urgent decision on KDU Hospital’s operating model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-7c58b7b7)
+- 2026-10-30 | `dailyftlk-d12ccb27` | Cabinet approves National Committee to manage wildlife hazards in civil aviation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-d12ccb27)
+- 2026-10-30 | `dailyftlk-5a339075` | Namal money laundering case put off to Feb., pending AG’s advice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-5a339075)
+- 2026-10-30 | `dailyftlk-1beb5d21` | Women MPs to lead islandwide breast cancer early detection drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-1beb5d21)
+- 2026-10-30 | `dailyftlk-8f87fc26` | Bribery Commission freezes Rakitha Rajapakshe’s bank accounts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-8f87fc26)
+- 2026-10-30 | `dailyftlk-c01eb0be` | SOEs to get new performance-based framework for collective agreements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-c01eb0be)
+- 2026-10-30 | `dailyftlk-045d96ce` | Online booking made mandatory for passports at regional offices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-045d96ce)
 - 2026-10-29 | `dailymirrorlk-f772c30d` | Rathnayake lights up Lahore but England have the last word | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-f772c30d)
 - 2026-10-29 | `dailymirrorlk-b13247dd` | Israel to recruit Sri Lankan workers only through G-to-G scheme from 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-b13247dd)
 - 2026-10-29 | `dailymirrorlk-a7ca2c27` | Station Masters express condolences over Spain train accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-a7ca2c27)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-10-29 | `dailymirrorlk-9c90f256` | Sajith urges government to abolish executive presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-9c90f256)
 - 2026-10-29 | `economynextcom-22dffc7e` | Sri Lanka rupee closes at 332.55/65 to US dollar spot 1 week, bond yields steady | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-economynextcom-22dffc7e)
 - 2026-10-29 | `dailymirrorlk-a91345ed` | Rakitha Rajapakshe’s bank accounts suspended amid bribery probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-a91345ed)
-- 2026-10-29 | `dailymirrorlk-5cda0b67` | Mumbai Indians part ways with bowling coach Lasith Malinga | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-5cda0b67)
-- 2026-10-29 | `economynextcom-78f7886f` | Sri Lanka stocks close up 1.5-pct, banks lead turnover | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-economynextcom-78f7886f)
-- 2026-10-29 | `dailymirrorlk-70b54d2e` | University teachers to launch strike tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-70b54d2e)
-- 2026-10-29 | `dailymirrorlk-00339326` | NPP’s Medagama Pradeshiya Sabha budget defeated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-00339326)
-- 2026-10-29 | `dailymirrorlk-9fa2ad38` | Dried chilli prices surge to Rs. 1,300 a kilo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-9fa2ad38)
-- 2026-10-29 | `dailymirrorlk-dce5ae16` | Ailing elephant calf ‘Thal-etaya’ to be transferred to Udawalawe for treatment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-dce5ae16)
-- 2026-10-29 | `dailymirrorlk-fdb84c23` | Rupee weakens further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-29-dailymirrorlk-fdb84c23)
 
 ---
 

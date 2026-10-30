@@ -92297,5 +92297,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793292098.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-045d96ce",
+    "num": "dailyftlk-045d96ce",
+    "date_str": "2026-10-30",
+    "description": "Online booking made mandatory for passports at regional offices",
+    "url_metadata": "https://www.ft.lk/news/Online-booking-made-mandatory-for-passports-at-regional-offices/56-799366",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320330.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-c01eb0be",
+    "num": "dailyftlk-c01eb0be",
+    "date_str": "2026-10-30",
+    "description": "SOEs to get new performance-based framework for collective agreements",
+    "url_metadata": "https://www.ft.lk/news/SOEs-to-get-new-performance-based-framework-for-collective-agreements/56-799367",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-8f87fc26",
+    "num": "dailyftlk-8f87fc26",
+    "date_str": "2026-10-30",
+    "description": "Bribery Commission freezes Rakitha Rajapakshe\u2019s bank accounts",
+    "url_metadata": "https://www.ft.lk/news/Bribery-Commission-freezes-Rakitha-Rajapakshe-s-bank-accounts/56-799368",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320379.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-1beb5d21",
+    "num": "dailyftlk-1beb5d21",
+    "date_str": "2026-10-30",
+    "description": "Women MPs to lead islandwide breast cancer early detection drive",
+    "url_metadata": "https://www.ft.lk/news/Women-MPs-to-lead-islandwide-breast-cancer-early-detection-drive/56-799369",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320437.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-5a339075",
+    "num": "dailyftlk-5a339075",
+    "date_str": "2026-10-30",
+    "description": "Namal money laundering case put off to Feb., pending AG\u2019s advice",
+    "url_metadata": "https://www.ft.lk/news/Namal-money-laundering-case-put-off-to-Feb-pending-AG-s-advice/56-799370",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-d12ccb27",
+    "num": "dailyftlk-d12ccb27",
+    "date_str": "2026-10-30",
+    "description": "Cabinet approves National Committee to manage wildlife hazards in civil aviation",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-National-Committee-to-manage-wildlife-hazards-in-civil-aviation/56-799371",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailyftlk-7c58b7b7",
+    "num": "dailyftlk-7c58b7b7",
+    "date_str": "2026-10-30",
+    "description": "COPE presses for urgent decision on KDU Hospital\u2019s operating model",
+    "url_metadata": "https://www.ft.lk/news/COPE-presses-for-urgent-decision-on-KDU-Hospital-s-operating-model/56-799372",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320563.0
   }
 ]

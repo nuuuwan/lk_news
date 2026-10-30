@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-30 03:53:04",
-  "n_docs": 134335,
+  "time_updated": "2026-10-30 06:10:39",
+  "n_docs": 134342,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134335,
+  "n_docs_with_text": 134342,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-10-29",
-  "dataset_size": 2076513534,
+  "date_str_max": "2026-10-30",
+  "dataset_size": 2076535536,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-29-dailymirrorlk-f772c30d",
-    "num": "dailymirrorlk-f772c30d",
-    "date_str": "2026-10-29",
-    "description": "Rathnayake lights up Lahore but England have the last word",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rathnayake-lights-up-Lahore-but-England-have-the-last-word/108-353746",
+    "doc_id": "2026-10-30-dailyftlk-7c58b7b7",
+    "num": "dailyftlk-7c58b7b7",
+    "date_str": "2026-10-30",
+    "description": "COPE presses for urgent decision on KDU Hospital\u2019s operating model",
+    "url_metadata": "https://www.ft.lk/news/COPE-presses-for-urgent-decision-on-KDU-Hospital-s-operating-model/56-799372",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793292098.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793320563.0
   }
 }
