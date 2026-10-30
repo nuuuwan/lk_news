@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-30 11:59:28",
-  "n_docs": 134369,
+  "time_updated": "2026-10-30 13:59:30",
+  "n_docs": 134387,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134369,
+  "n_docs_with_text": 134387,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-30",
-  "dataset_size": 2076970023,
+  "dataset_size": 2077069328,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-30-dailymirrorlk-d5371a21",
-    "num": "dailymirrorlk-d5371a21",
+    "doc_id": "2026-10-30-dailymirrorlk-5b818f09",
+    "num": "dailymirrorlk-5b818f09",
     "date_str": "2026-10-30",
-    "description": "Air quality in several areas turns \u2018unhealthy for sensitive groups\u2019",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Air-quality-in-several-areas-turns-unhealthy-for-sensitive-groups/108-353768",
+    "description": "CIABOC moves High Court to cancel bail granted to Rakitha Rajapaksa, two others",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CIABOC-moves-High-Court-to-cancel-bail-granted-to-Rakitha-Rajapaksa-two-others/108-353798",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793340953.0
+    "time_ut": 1793347302.0
   }
 }
