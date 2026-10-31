@@ -93628,5 +93628,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793432295.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-aa1e9013",
+    "num": "dailymirrorlk-aa1e9013",
+    "date_str": "2026-10-31",
+    "description": "DMT reintroduces online appointment system from November 2",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DMT-reintroduces-online-appointment-system-from-November-2/108-353867",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793435813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-c9072c2c",
+    "num": "dailymirrorlk-c9072c2c",
+    "date_str": "2026-10-31",
+    "description": "Gold prices plunge to one-year low",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-prices-plunge-to-one-year-low/108-353868",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793441685.0
   }
 ]

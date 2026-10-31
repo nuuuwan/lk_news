@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_13:53:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_15:52:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,456** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailymirrorlk-68c4ecd2",
-    "num": "dailymirrorlk-68c4ecd2",
+    "doc_id": "2026-10-31-dailymirrorlk-c9072c2c",
+    "num": "dailymirrorlk-c9072c2c",
     "date_str": "2026-10-31",
-    "description": "Man fined Rs. 310,000 for setting up trap gun to harm elephant",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-fined-Rs-310-000-for-setting-up-trap-gun-to-harm-elephant/108-353865",
+    "description": "Gold prices plunge to one-year low",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-prices-plunge-to-one-year-low/108-353868",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793432295.0
+    "time_ut": 1793441685.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-31 | `dailymirrorlk-c9072c2c` | Gold prices plunge to one-year low | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-c9072c2c)
+- 2026-10-31 | `dailymirrorlk-aa1e9013` | DMT reintroduces online appointment system from November 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-aa1e9013)
 - 2026-10-31 | `dailymirrorlk-68c4ecd2` | Man fined Rs. 310,000 for setting up trap gun to harm elephant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-68c4ecd2)
 - 2026-10-31 | `dailymirrorlk-f2cc7b35` | Government to reduce taxes further, says President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-f2cc7b35)
 - 2026-10-31 | `dailymirrorlk-2e084e74` | Oil prices rise as Middle East, Ukraine-Russia conflict fuel supply worries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-2e084e74)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-10-31 | `dailymirrorlk-e5542085` | Eva Pink & Strong Health Run 2026 brings Colombo together for breast cancer awareness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-e5542085)
 - 2026-10-31 | `dailymirrorlk-1adb2751` | SDB bank supports Project BLUE to strengthen marine conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-1adb2751)
 - 2026-10-31 | `dailymirrorlk-9c36cde5` | MAS marks 20 years of Eco Go Beyond sustainable schools programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-9c36cde5)
-- 2026-10-31 | `dailymirrorlk-824b11d2` | Two decades on, Aditya’s quiet blueprint still shapes Sri Lanka’s boutique luxury | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-824b11d2)
-- 2026-10-31 | `dailymirrorlk-b058125d` | Ceylinco Life sales team sharpens leadership skills in Malaysia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-b058125d)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-31 13:52:51",
-  "n_docs": 134456,
+  "time_updated": "2026-10-31 15:51:09",
+  "n_docs": 134458,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134456,
+  "n_docs_with_text": 134458,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-31",
-  "dataset_size": 2077938124,
+  "dataset_size": 2078132345,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailymirrorlk-68c4ecd2",
-    "num": "dailymirrorlk-68c4ecd2",
+    "doc_id": "2026-10-31-dailymirrorlk-c9072c2c",
+    "num": "dailymirrorlk-c9072c2c",
     "date_str": "2026-10-31",
-    "description": "Man fined Rs. 310,000 for setting up trap gun to harm elephant",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-fined-Rs-310-000-for-setting-up-trap-gun-to-harm-elephant/108-353865",
+    "description": "Gold prices plunge to one-year low",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-prices-plunge-to-one-year-low/108-353868",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793432295.0
+    "time_ut": 1793441685.0
   }
 }
