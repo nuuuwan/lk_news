@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-31 19:51:34",
-  "n_docs": 134463,
+  "time_updated": "2026-10-31 21:51:32",
+  "n_docs": 134464,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134463,
+  "n_docs_with_text": 134464,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-31",
-  "dataset_size": 2078165309,
+  "dataset_size": 2078172298,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailymirrorlk-6dfa2b2d",
-    "num": "dailymirrorlk-6dfa2b2d",
+    "doc_id": "2026-10-31-dailymirrorlk-1ceb31c5",
+    "num": "dailymirrorlk-1ceb31c5",
     "date_str": "2026-10-31",
-    "description": "Prime Minister leaves for 2026 Commonwealth Heads of Government meeting",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-2026-Commonwealth-Heads-of-Government-meeting/108-353873",
+    "description": "16-year-old injured as police open fire on three-wheeler in Kadawatha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/16-year-old-injured-as-police-open-fire-on-three-wheeler-in-Kadawatha/108-353874",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793447337.0
+    "time_ut": 1793457288.0
   }
 }

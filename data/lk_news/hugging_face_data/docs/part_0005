@@ -93705,5 +93705,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793447337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-1ceb31c5",
+    "num": "dailymirrorlk-1ceb31c5",
+    "date_str": "2026-10-31",
+    "description": "16-year-old injured as police open fire on three-wheeler in Kadawatha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/16-year-old-injured-as-police-open-fire-on-three-wheeler-in-Kadawatha/108-353874",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793457288.0
   }
 ]
