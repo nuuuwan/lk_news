@@ -93686,6 +93686,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-4fa9496d",
+    "num": "dailymirrorlk-4fa9496d",
+    "date_str": "2026-10-31",
+    "description": "Microchips to help monitor stray dog health and location",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Microchips-to-help-monitor-stray-dog-health-and-location/108-353872",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793447115.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-31-dailymirrorlk-6dfa2b2d",
     "num": "dailymirrorlk-6dfa2b2d",
     "date_str": "2026-10-31",
