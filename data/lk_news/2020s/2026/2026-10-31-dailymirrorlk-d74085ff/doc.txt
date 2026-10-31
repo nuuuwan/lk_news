@@ -1,0 +1,27 @@
+What triggered Sri Lanka’s islandwide power failure on October 17?
+
+Colombo, Oct 31 (Daily Mirror) - Sri Lanka’s islandwide power failure on October 17 was triggered by the sudden disconnection of 187 megawatts of electricity from the first generating unit of the Norochcholai Lakvijaya Power Plant, according to a preliminary investigation report submitted by the National System Operator (NSO) to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+The NSO has submitted its preliminary investigation report to the Public Utilities Commission of Sri Lanka (PUCSL), identifying the loss of 187 megawatts of electricity from the Norochcholai plant as the immediate trigger for the blackout.
+
+According to the report, the generating unit disconnected at around 11.43 a.m. within 450 milliseconds, causing the national power system frequency to drop to 48.75 hertz.
+
+The entire power system collapsed within 4.1 seconds of the incident, the report stated.
+
+All five stages of the Under Frequency Load Shedding (UFLS) mechanism were activated in an attempt to stabilise the system. However, the protection measures failed to prevent the collapse.
+
+Consequently, 449.2 megawatts of electricity, equivalent to 39.6% of the 1,135 megawatts being generated immediately before the outage, were disconnected.
+
+Several hydropower generating units, including those at Victoria, Kotmale, Randenigala, Samanalawewa and Laxapana, also shut down following the activation of their respective protection systems.
+
+The NSO commenced restoration operations immediately after the incident, using four separate systems — Mahaweli, Laxapana, Samanalawewa/Southern and Colombo.
+
+Electricity supplies were gradually restored through several hydropower plants and the Kelanitissa Power Plant.
+
+The report stated that all main substations had been restored by 4.58 p.m., while the complete restoration of the national transmission system took five hours and 15 minutes.
+
+However, the restoration process encountered technical difficulties and operational delays at certain generating units.
+
+A technical issue in an auxiliary system delayed the restarting of a generating unit at the Yugadanavi Power Plant.
+
+Despite identifying the immediate trigger of the blackout, the preliminary investigation has not yet established the root cause of the sudden disconnection of the Norochcholai generating unit.

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-31 09:52:44",
-  "n_docs": 134430,
+  "time_updated": "2026-10-31 11:55:12",
+  "n_docs": 134433,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134430,
+  "n_docs_with_text": 134433,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-31",
-  "dataset_size": 2077814096,
+  "dataset_size": 2077834277,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailyftlk-5092601c",
-    "num": "dailyftlk-5092601c",
+    "doc_id": "2026-10-31-dailymirrorlk-d74085ff",
+    "num": "dailymirrorlk-d74085ff",
     "date_str": "2026-10-31",
-    "description": "PAFFREL warns new security, organised crime Bills threaten rights",
-    "url_metadata": "https://www.ft.lk/news/PAFFREL-warns-new-security-organised-crime-Bills-threaten-rights/56-799442",
+    "description": "What triggered Sri Lanka\u2019s islandwide power failure on October 17?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-triggered-Sri-Lankas-islandwide-power-failure-on-October-17/108-353826",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793385268.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793426982.0
   }
 }

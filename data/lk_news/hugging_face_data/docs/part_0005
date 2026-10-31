@@ -93342,5 +93342,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793385268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-8f63dd8f",
+    "num": "dailymirrorlk-8f63dd8f",
+    "date_str": "2026-10-31",
+    "description": "Junior Open Squash Championship concludes with 176 players from nine countries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Junior-Open-Squash-Championship-concludes-with-176-players-from-nine-countries/108-353823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793424128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-8370a9ff",
+    "num": "dailymirrorlk-8370a9ff",
+    "date_str": "2026-10-31",
+    "description": "Cardinal meets President\u2019s Secretary over environmental issues",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cardinal-meets-Presidents-Secretary-over-environmental-issues/108-353824",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793426480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-d74085ff",
+    "num": "dailymirrorlk-d74085ff",
+    "date_str": "2026-10-31",
+    "description": "What triggered Sri Lanka\u2019s islandwide power failure on October 17?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-triggered-Sri-Lankas-islandwide-power-failure-on-October-17/108-353826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793426982.0
   }
 ]
