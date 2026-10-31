@@ -93650,5 +93650,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793441685.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-5b979340",
+    "num": "dailymirrorlk-5b979340",
+    "date_str": "2026-10-31",
+    "description": "Jaffna Deputy DIG urges Municipal Council to remove Thileepan memorial",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-Deputy-DIG-urges-Municipal-Council-to-remove-Thileepan-memorial/108-353869",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793445571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-363d500f",
+    "num": "dailymirrorlk-363d500f",
+    "date_str": "2026-10-31",
+    "description": "\u2018What kind of thinking is this?\u2019 President questions pin-sticking protests",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-kind-of-thinking-is-this-President-questions-pin-sticking-protests/108-353870",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793446068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-7d9cb142",
+    "num": "dailymirrorlk-7d9cb142",
+    "date_str": "2026-10-31",
+    "description": "Vijitha Herath meets DJ Snake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-meets-DJ-Snake/108-353871",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793446607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-10-31-dailymirrorlk-6dfa2b2d",
+    "num": "dailymirrorlk-6dfa2b2d",
+    "date_str": "2026-10-31",
+    "description": "Prime Minister leaves for 2026 Commonwealth Heads of Government meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-2026-Commonwealth-Heads-of-Government-meeting/108-353873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793447337.0
   }
 ]

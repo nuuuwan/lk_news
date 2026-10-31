@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_15:52:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_17:55:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,462** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailymirrorlk-c9072c2c",
-    "num": "dailymirrorlk-c9072c2c",
+    "doc_id": "2026-10-31-dailymirrorlk-6dfa2b2d",
+    "num": "dailymirrorlk-6dfa2b2d",
     "date_str": "2026-10-31",
-    "description": "Gold prices plunge to one-year low",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-prices-plunge-to-one-year-low/108-353868",
+    "description": "Prime Minister leaves for 2026 Commonwealth Heads of Government meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-2026-Commonwealth-Heads-of-Government-meeting/108-353873",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793441685.0
+    "time_ut": 1793447337.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-10-31 | `dailymirrorlk-6dfa2b2d` | Prime Minister leaves for 2026 Commonwealth Heads of Government meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-6dfa2b2d)
+- 2026-10-31 | `dailymirrorlk-7d9cb142` | Vijitha Herath meets DJ Snake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-7d9cb142)
+- 2026-10-31 | `dailymirrorlk-363d500f` | ‘What kind of thinking is this?’ President questions pin-sticking protests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-363d500f)
+- 2026-10-31 | `dailymirrorlk-5b979340` | Jaffna Deputy DIG urges Municipal Council to remove Thileepan memorial | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-5b979340)
 - 2026-10-31 | `dailymirrorlk-c9072c2c` | Gold prices plunge to one-year low | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-c9072c2c)
 - 2026-10-31 | `dailymirrorlk-aa1e9013` | DMT reintroduces online appointment system from November 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-aa1e9013)
 - 2026-10-31 | `dailymirrorlk-68c4ecd2` | Man fined Rs. 310,000 for setting up trap gun to harm elephant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-68c4ecd2)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-10-31 | `dailymirrorlk-5909da2e` | Perera & Sons opens 9th RO water plant at Ellagala Junior School | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-5909da2e)
 - 2026-10-31 | `dailymirrorlk-c3da1f21` | DPG strengthens compliance, good practices among product, services providers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-c3da1f21)
 - 2026-10-31 | `dailymirrorlk-e145a6e5` | PickMe Explore activates Momo naming initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-e145a6e5)
-- 2026-10-31 | `dailymirrorlk-ebce747c` | Union Assurance expands emotional well-being programme islandwide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-ebce747c)
-- 2026-10-31 | `dailymirrorlk-e5542085` | Eva Pink & Strong Health Run 2026 brings Colombo together for breast cancer awareness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-e5542085)
-- 2026-10-31 | `dailymirrorlk-1adb2751` | SDB bank supports Project BLUE to strengthen marine conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-1adb2751)
-- 2026-10-31 | `dailymirrorlk-9c36cde5` | MAS marks 20 years of Eco Go Beyond sustainable schools programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-9c36cde5)
 
 ---
 

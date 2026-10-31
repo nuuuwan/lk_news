@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-10-31 15:51:09",
-  "n_docs": 134458,
+  "time_updated": "2026-10-31 17:54:48",
+  "n_docs": 134462,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134458,
+  "n_docs_with_text": 134462,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-10-31",
-  "dataset_size": 2078132345,
+  "dataset_size": 2078146688,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-10-31-dailymirrorlk-c9072c2c",
-    "num": "dailymirrorlk-c9072c2c",
+    "doc_id": "2026-10-31-dailymirrorlk-6dfa2b2d",
+    "num": "dailymirrorlk-6dfa2b2d",
     "date_str": "2026-10-31",
-    "description": "Gold prices plunge to one-year low",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-prices-plunge-to-one-year-low/108-353868",
+    "description": "Prime Minister leaves for 2026 Commonwealth Heads of Government meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-2026-Commonwealth-Heads-of-Government-meeting/108-353873",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793441685.0
+    "time_ut": 1793447337.0
   }
 }
