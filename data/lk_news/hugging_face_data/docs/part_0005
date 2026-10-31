@@ -93268,6 +93268,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-10-30-dailymirrorlk-fffdd0dc",
+    "num": "dailymirrorlk-fffdd0dc",
+    "date_str": "2026-10-30",
+    "description": "Several petitions challenge constitutionality of Prevention of Organised Crime Bill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Several-petitions-challenge-constitutionality-of-Prevention-of-Organised-Crime-Bill/108-353822",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793384898.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-10-30-dailyftlk-cbd5dc82",
     "num": "dailyftlk-cbd5dc82",
     "date_str": "2026-10-30",

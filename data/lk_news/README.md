@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_07:55:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--31_09:53:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,429** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,430** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2026-10-31 | `dailyftlk-48e0a0e6` | Mayor of Colombo joins British High Commission and delegation of European Union to launch joint solar initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-48e0a0e6)
 - 2026-10-31 | `dailyftlk-0380daab` | Prasakti Energy launches 3.5 MW  Wilachchiya Biomass Dendro Power Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailyftlk-0380daab)
 - 2026-10-30 | `dailyftlk-cbd5dc82` | Bank of Ceylon celebrates World Thrift Day 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-cbd5dc82)
+- 2026-10-30 | `dailymirrorlk-fffdd0dc` | Several petitions challenge constitutionality of Prevention of Organised Crime Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-fffdd0dc)
 - 2026-10-30 | `dailyftlk-9bbe290f` | ‘Saving a Tomorrow’: National responsibility beyond saving money | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-9bbe290f)
 - 2026-10-30 | `dailyftlk-ee54dd96` | Tourism development for dummies? Not quite | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-ee54dd96)
 - 2026-10-30 | `dailyftlk-a4dd86e9` | Sri Lanka could turn Maldives’ dollar dilemma into investment opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailyftlk-a4dd86e9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-10-30 | `dailymirrorlk-18874fa3` | UNP introduces new membership structures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-18874fa3)
 - 2026-10-30 | `dailymirrorlk-39984517` | Human Rights Commission gets new chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-39984517)
 - 2026-10-30 | `dailymirrorlk-964f5c2a` | With no majority, what options remain for Israel’s Netanyahu, Eisenkot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-964f5c2a)
-- 2026-10-30 | `dailymirrorlk-2b510728` | Sri Lanka’s inflation climbs to 8.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-30-dailymirrorlk-2b510728)
 
 ---
 
