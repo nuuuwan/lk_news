@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-01 17:54:18",
-  "n_docs": 134549,
+  "time_updated": "2026-11-01 19:51:23",
+  "n_docs": 134555,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134549,
+  "n_docs_with_text": 134555,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-01",
-  "dataset_size": 2079503516,
+  "dataset_size": 2079577769,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-bb9923fe",
-    "num": "dailymirrorlk-bb9923fe",
+    "doc_id": "2026-11-01-dailymirrorlk-1c203c3b",
+    "num": "dailymirrorlk-1c203c3b",
     "date_str": "2026-11-01",
-    "description": "South Korean national arrested with cocaine worth Rs. 49.4 million at BIA",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Korean-national-arrested-with-cocaine-worth-Rs-49-4-million-at-BIA/108-353913",
+    "description": "President pays final respects to Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-pays-final-respects-to-Lal-Wijenayake/108-353917",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793534800.0
+    "time_ut": 1793541347.0
   }
 }

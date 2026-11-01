@@ -94555,6 +94555,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-7e935057",
+    "num": "dailymirrorlk-7e935057",
+    "date_str": "2026-11-01",
+    "description": "Naval, fishing communities warned against venturing into deep sea as cyclone Murasu intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Naval-fishing-communities-warned-against-venturing-into-deep-sea-as-cyclone-Murasu-intensifies/108-353903",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793528867.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-01-dailymirrorlk-8dadf109",
     "num": "dailymirrorlk-8dadf109",
     "date_str": "2026-11-01",
@@ -94632,6 +94643,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-05e02153",
+    "num": "dailymirrorlk-05e02153",
+    "date_str": "2026-11-01",
+    "description": "10-year-old boy drowns in Keselgamu Oya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-year-old-boy-drowns-in-Keselgamu-Oya/108-353911",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793533792.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-01-dailymirrorlk-e74242e2",
     "num": "dailymirrorlk-e74242e2",
     "date_str": "2026-11-01",
@@ -94651,5 +94673,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793534800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-dc0d6277",
+    "num": "dailymirrorlk-dc0d6277",
+    "date_str": "2026-11-01",
+    "description": "Lightning strike damages 11 vehicles at Hambantota Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lightning-strike-damages-11-vehicles-at-Hambantota-Port/108-353914",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793538635.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-b9b78dd5",
+    "num": "dailymirrorlk-b9b78dd5",
+    "date_str": "2026-11-01",
+    "description": "Was \u2018Lankeswara\u2019 shot dead? Elephant killed, tusk reportedly removed in Kahatagasdigiliya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Was-Lankeswara-shot-dead-Elephant-killed-tusk-reportedly-removed-in-Kahatagasdigiliya/108-353915",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793539554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-03d42614",
+    "num": "dailymirrorlk-03d42614",
+    "date_str": "2026-11-01",
+    "description": "TEDxColombo: Unlocking Fractured Paradox",
+    "url_metadata": "https://www.dailymirror.lk/business/TEDxColombo-Unlocking-Fractured-Paradox/215-353916",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793540321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-1c203c3b",
+    "num": "dailymirrorlk-1c203c3b",
+    "date_str": "2026-11-01",
+    "description": "President pays final respects to Lal Wijenayake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-pays-final-respects-to-Lal-Wijenayake/108-353917",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793541347.0
   }
 ]
