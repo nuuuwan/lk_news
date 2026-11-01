@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_19:52:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_21:51:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,555** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,557** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-1c203c3b",
-    "num": "dailymirrorlk-1c203c3b",
+    "doc_id": "2026-11-01-dailymirrorlk-91d50534",
+    "num": "dailymirrorlk-91d50534",
     "date_str": "2026-11-01",
-    "description": "President pays final respects to Lal Wijenayake",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-pays-final-respects-to-Lal-Wijenayake/108-353917",
+    "description": "Inmate shot dead during escape attempt at Dumbara Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmate-shot-dead-during-escape-attempt-at-Dumbara-Prison/108-353919",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793541347.0
+    "time_ut": 1793549034.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-01 | `dailymirrorlk-91d50534` | Inmate shot dead during escape attempt at Dumbara Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-91d50534)
+- 2026-11-01 | `dailymirrorlk-df7be9d7` | Lawyers Collective pays tribute to Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-df7be9d7)
 - 2026-11-01 | `dailymirrorlk-1c203c3b` | President pays final respects to Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-1c203c3b)
 - 2026-11-01 | `dailymirrorlk-03d42614` | TEDxColombo: Unlocking Fractured Paradox | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-03d42614)
 - 2026-11-01 | `dailymirrorlk-b9b78dd5` | Was ‘Lankeswara’ shot dead? Elephant killed, tusk reportedly removed in Kahatagasdigiliya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-b9b78dd5)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-01 | `dailymirrorlk-85e59c1f` | CCTV cameras to be installed at all police stations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-85e59c1f)
 - 2026-11-01 | `dailymirrorlk-6401c193` | Shops looted as German cost of living protests turn violent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-6401c193)
 - 2026-11-01 | `dailymirrorlk-a29e74b1` | Vijitha urges media to counter misinformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-a29e74b1)
-- 2026-11-01 | `dailymirrorlk-db63edec` | Kumar Sangakkara opens up on Ryanair ’race storm’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-db63edec)
-- 2026-11-01 | `dailymirrorlk-c2fbb4a5` | Indian opposition stage mega rally seeking election chief’s resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-c2fbb4a5)
 
 ---
 

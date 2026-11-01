@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-01 19:51:23",
-  "n_docs": 134555,
+  "time_updated": "2026-11-01 21:51:19",
+  "n_docs": 134557,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134555,
+  "n_docs_with_text": 134557,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-01",
-  "dataset_size": 2079577769,
+  "dataset_size": 2079608515,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-1c203c3b",
-    "num": "dailymirrorlk-1c203c3b",
+    "doc_id": "2026-11-01-dailymirrorlk-91d50534",
+    "num": "dailymirrorlk-91d50534",
     "date_str": "2026-11-01",
-    "description": "President pays final respects to Lal Wijenayake",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-pays-final-respects-to-Lal-Wijenayake/108-353917",
+    "description": "Inmate shot dead during escape attempt at Dumbara Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmate-shot-dead-during-escape-attempt-at-Dumbara-Prison/108-353919",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793541347.0
+    "time_ut": 1793549034.0
   }
 }
