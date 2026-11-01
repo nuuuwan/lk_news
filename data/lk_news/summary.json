@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-01 21:51:19",
-  "n_docs": 134557,
+  "time_updated": "2026-11-01 23:52:09",
+  "n_docs": 134558,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134557,
+  "n_docs_with_text": 134558,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-01",
-  "dataset_size": 2079608515,
+  "dataset_size": 2079616975,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-91d50534",
-    "num": "dailymirrorlk-91d50534",
+    "doc_id": "2026-11-01-dailymirrorlk-79246d58",
+    "num": "dailymirrorlk-79246d58",
     "date_str": "2026-11-01",
-    "description": "Inmate shot dead during escape attempt at Dumbara Prison",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmate-shot-dead-during-escape-attempt-at-Dumbara-Prison/108-353919",
+    "description": "CEYPETCO increases Petrol and Diesel prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEYPETCO-increases-Petrol-and-Diesel-prices/108-353921",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793549034.0
+    "time_ut": 1793552325.0
   }
 }

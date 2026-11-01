@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_21:51:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_23:52:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,557** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,558** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-91d50534",
-    "num": "dailymirrorlk-91d50534",
+    "doc_id": "2026-11-01-dailymirrorlk-79246d58",
+    "num": "dailymirrorlk-79246d58",
     "date_str": "2026-11-01",
-    "description": "Inmate shot dead during escape attempt at Dumbara Prison",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmate-shot-dead-during-escape-attempt-at-Dumbara-Prison/108-353919",
+    "description": "CEYPETCO increases Petrol and Diesel prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEYPETCO-increases-Petrol-and-Diesel-prices/108-353921",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793549034.0
+    "time_ut": 1793552325.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-01 | `dailymirrorlk-79246d58` | CEYPETCO increases Petrol and Diesel prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-79246d58)
 - 2026-11-01 | `dailymirrorlk-91d50534` | Inmate shot dead during escape attempt at Dumbara Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-91d50534)
 - 2026-11-01 | `dailymirrorlk-df7be9d7` | Lawyers Collective pays tribute to Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-df7be9d7)
 - 2026-11-01 | `dailymirrorlk-1c203c3b` | President pays final respects to Lal Wijenayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-1c203c3b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-01 | `dailymirrorlk-7e935057` | Naval, fishing communities warned against venturing into deep sea as cyclone Murasu intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-7e935057)
 - 2026-11-01 | `dailymirrorlk-85e59c1f` | CCTV cameras to be installed at all police stations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-85e59c1f)
 - 2026-11-01 | `dailymirrorlk-6401c193` | Shops looted as German cost of living protests turn violent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-6401c193)
-- 2026-11-01 | `dailymirrorlk-a29e74b1` | Vijitha urges media to counter misinformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-a29e74b1)
 
 ---
 

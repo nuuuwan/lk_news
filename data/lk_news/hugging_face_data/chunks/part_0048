@@ -2617,5 +2617,22 @@ guments and rhetoric,\u00a0 saw a whipping up of hysteria among sections of the 
     "md5": "d62f539fcd131115fa76bc666dd55ddd",
     "chunk_size_bytes": 332,
     "chunk_text": "Inmate shot dead during escape attempt at Dumbara Prison\n\nColombo, Nov. 1 (Daily Mirror) - A 27-year-old inmate was shot dead by prison security personnel after allegedly attempting to escape from Dumbara Prison.\n\nThe Prison Media Spokesperson confirmed the incident, stating that the deceased was a resident of Galagedara in Kandy."
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-79246d58",
+    "num": "dailymirrorlk-79246d58",
+    "date_str": "2026-11-01",
+    "description": "CEYPETCO increases Petrol and Diesel prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEYPETCO-increases-Petrol-and-Diesel-prices/108-353921",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793552325.0,
+    "chunk_id": "2026-11-01-dailymirrorlk-79246d58-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "0353bb22e0e513303eee37bdefe06348",
+    "chunk_size_bytes": 616,
+    "chunk_text": "CEYPETCO increases Petrol and Diesel prices\n\nColombo, Nov 01 (Daily MIrror) - The Ceylon Petroleum Corporation (CEYPETCO) has increased the prices of several fuel types with effect from midnight today (November 1).\n\nAccordingly, the price of Lanka Auto Diesel has been increased by Rs. 5 per litre to Rs. 397, while Lanka Super Diesel 4 Star Euro 4 has gone up by Rs. 15 to Rs. 543.\n\nThe price of Lanka Petrol 92 Octane has been increased by Rs. 10 to Rs. 424 per litre, while Lanka Petrol 95 Octane Euro 4 has risen by Rs. 15 to Rs. 490.\n\nHowever, the price of Lanka Kerosene remains unchanged at Rs. 285 per litre."
   }
 ]
