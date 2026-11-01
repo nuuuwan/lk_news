@@ -94522,6 +94522,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-a29e74b1",
+    "num": "dailymirrorlk-a29e74b1",
+    "date_str": "2026-11-01",
+    "description": "Vijitha urges media to counter misinformation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-urges-media-to-counter-misinformation/108-353899",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793525371.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-01-dailymirrorlk-6401c193",
     "num": "dailymirrorlk-6401c193",
     "date_str": "2026-11-01",
@@ -94541,5 +94552,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793527537.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-8dadf109",
+    "num": "dailymirrorlk-8dadf109",
+    "date_str": "2026-11-01",
+    "description": "Man crushed to death while hunting armadillo in Koslanda cave",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-crushed-to-death-while-hunting-armadillo-in-Koslanda-cave/108-353904",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793530075.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-ff03a615",
+    "num": "dailymirrorlk-ff03a615",
+    "date_str": "2026-11-01",
+    "description": "CAA detects 98 suspected violations in islandwide lubricant raids",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-detects-98-suspected-violations-in-islandwide-lubricant-raids/108-353905",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793531493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-8f70c8a0",
+    "num": "dailymirrorlk-8f70c8a0",
+    "date_str": "2026-11-01",
+    "description": "Litro gas for Laugfs cylinders under discussion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Litro-gas-for-Laugfs-cylinders-under-discussion/108-353906",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793532081.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-0f1222ab",
+    "num": "dailymirrorlk-0f1222ab",
+    "date_str": "2026-11-01",
+    "description": "SLPP to launch islandwide village-level meetings tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLPP-to-launch-islandwide-village-level-meetings-tomorrow/108-353907",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793532364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-72e72dcc",
+    "num": "dailymirrorlk-72e72dcc",
+    "date_str": "2026-11-01",
+    "description": "2,819 nurses appointed, 76 promoted; 13,000 more to be recruited",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2-819-nurses-appointed-76-promoted-13-000-more-to-be-recruited/108-353908",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793532526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-94a6a08e",
+    "num": "dailymirrorlk-94a6a08e",
+    "date_str": "2026-11-01",
+    "description": "Supreme Court rules police constable violated woman\u2019s fundamental rights through assault",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-police-constable-violated-womans-fundamental-rights-through-assault/108-353909",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793532706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-c8674e33",
+    "num": "dailymirrorlk-c8674e33",
+    "date_str": "2026-11-01",
+    "description": "One dead, 18 injured during stampede in Sialkot at TikTok star\u2019s wedding event",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-dead-18-injured-during-stampede-in-Sialkot-at-TikTok-stars-wedding-event/108-353910",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793532952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-e74242e2",
+    "num": "dailymirrorlk-e74242e2",
+    "date_str": "2026-11-01",
+    "description": "Two-time Olympian Mageean dies aged 34",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-time-Olympian-Mageean-dies-aged-34/108-353912",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793534496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-bb9923fe",
+    "num": "dailymirrorlk-bb9923fe",
+    "date_str": "2026-11-01",
+    "description": "South Korean national arrested with cocaine worth Rs. 49.4 million at BIA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Korean-national-arrested-with-cocaine-worth-Rs-49-4-million-at-BIA/108-353913",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793534800.0
   }
 ]
