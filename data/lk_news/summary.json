@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-02 01:51:20",
-  "n_docs": 134558,
+  "time_updated": "2026-11-02 03:50:22",
+  "n_docs": 134560,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134558,
+  "n_docs_with_text": 134560,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-01",
-  "dataset_size": 2079620673,
+  "date_str_max": "2026-11-02",
+  "dataset_size": 2079645581,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-79246d58",
-    "num": "dailymirrorlk-79246d58",
-    "date_str": "2026-11-01",
-    "description": "CEYPETCO increases Petrol and Diesel prices",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEYPETCO-increases-Petrol-and-Diesel-prices/108-353921",
+    "doc_id": "2026-11-02-dailyftlk-b89fbf4d",
+    "num": "dailyftlk-b89fbf4d",
+    "date_str": "2026-11-02",
+    "description": "Organised Crime Bill violates rights standards: HRW",
+    "url_metadata": "https://www.ft.lk/opinion/Organised-Crime-Bill-violates-rights-standards-HRW/14-799476",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793552325.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793570913.0
   }
 }

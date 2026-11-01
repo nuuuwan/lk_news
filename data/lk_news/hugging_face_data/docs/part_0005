@@ -94750,5 +94750,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793552325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailyftlk-b1e6aa93",
+    "num": "dailyftlk-b1e6aa93",
+    "date_str": "2026-11-02",
+    "description": "Bird\u2019s-eye view: Economy stable and growing. Worm\u2019s-eye view: Not so rosy",
+    "url_metadata": "https://www.ft.lk/columns/Bird-s-eye-view-Economy-stable-and-growing-Worm-s-eye-view-Not-so-rosy/4-799474",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793570343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailyftlk-b89fbf4d",
+    "num": "dailyftlk-b89fbf4d",
+    "date_str": "2026-11-02",
+    "description": "Organised Crime Bill violates rights standards: HRW",
+    "url_metadata": "https://www.ft.lk/opinion/Organised-Crime-Bill-violates-rights-standards-HRW/14-799476",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793570913.0
   }
 ]
