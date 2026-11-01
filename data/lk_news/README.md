@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_11:58:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_13:55:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,528** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-23102a43",
-    "num": "dailymirrorlk-23102a43",
+    "doc_id": "2026-11-01-dailymirrorlk-660885e8",
+    "num": "dailymirrorlk-660885e8",
     "date_str": "2026-11-01",
-    "description": "Rs. 13.5 million spent to reprint leaked Grade 3, 11 exam papers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-13-5-million-spent-to-reprint-leaked-Grade-3-11-exam-papers/108-353889",
+    "description": "Welimada deputy principal who assaulted grade 7 schoolgirl surrenders",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Welimada-deputy-principal-who-assaulted-grade-7-schoolgirl-surrenders/108-353895",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793514083.0
+    "time_ut": 1793516673.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-01 | `dailymirrorlk-660885e8` | Welimada deputy principal who assaulted grade 7 schoolgirl surrenders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-660885e8)
+- 2026-11-01 | `dailymirrorlk-ed59ba45` | Bay of Bengal depression set to become severe cyclonic storm by tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-ed59ba45)
+- 2026-11-01 | `dailymirrorlk-0ebb75c2` | Dengue cases rise in seven provinces; 79 deaths reported this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0ebb75c2)
+- 2026-11-01 | `dailymirrorlk-a6b5a0c0` | Navy evacuates injured crew member from foreign cargo ship off Galle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-a6b5a0c0)
+- 2026-11-01 | `dailymirrorlk-dfe6bbdc` | SLAF rescues three hostages in Central African Republic after 8 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-dfe6bbdc)
+- 2026-11-01 | `dailymirrorlk-25b63e9a` | Cyclone Arnab affects over 21,000 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-25b63e9a)
 - 2026-11-01 | `dailymirrorlk-23102a43` | Rs. 13.5 million spent to reprint leaked Grade 3, 11 exam papers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-23102a43)
 - 2026-11-01 | `dailymirrorlk-db2cd644` | Crypto firm Binance covers 90% of losses after $6.3bn hack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-db2cd644)
 - 2026-11-01 | `dailymirrorlk-3a388f07` | I’ve been stuck on a tiny Pacific island for years and can’t get a transit visa to fly home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-3a388f07)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-10-31 | `virakesarilk-07ddccde` | கமிந்துவின் கன்னிச் சதம் வீண் போனது; மின்ஹாஸ், நவாஸ் திருப்புமுனையை ஏற்படுத்தி பாகிஸ்தானை சம்பியனாக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-07ddccde)
 - 2026-10-31 | `dailymirrorlk-a95ff60c` | Pakistan win tri-series final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-a95ff60c)
 - 2026-10-31 | `dailymirrorlk-1ceb31c5` | 16-year-old injured as police open fire on three-wheeler in Kadawatha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-1ceb31c5)
-- 2026-10-31 | `virakesarilk-840cfa89` | முதலமைச்சர் விஜய் டைட்டில் கார்டால் அதிர்ந்த திரையரங்கம்! : ஜனநாயகன் 100ஆவது நாள் கொண்டாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-840cfa89)
-- 2026-10-31 | `virakesarilk-3128e08f` | பொதுவான கொள்கை இணக்கப்பாட்டின் அடிப்படையில் இடதுசாரிச் சக்திகள் ஒன்றிணைய வேண்டும் – லங்கா சமசமாஜக் கட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-3128e08f)
-- 2026-10-31 | `virakesarilk-1842fec0` | கடவத்தை மஹகடே சந்தியில் பொலிஸார் நடத்திய துப்பாக்கிச் சூடு: சிறுவன் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-1842fec0)
-- 2026-10-31 | `dailymirrorlk-6dfa2b2d` | Prime Minister leaves for 2026 Commonwealth Heads of Government meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-6dfa2b2d)
-- 2026-10-31 | `dailymirrorlk-4fa9496d` | Microchips to help monitor stray dog health and location | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-4fa9496d)
-- 2026-10-31 | `virakesarilk-c5b20ab0` | வரவு செலவுத் திட்டத்தில் மேலும் வரிச்சலுகைகள் வழங்கப்படும் ; அரச வருமான இலக்குகளைப் பாதிக்காத வகையில் வரிகளைக் குறைப்போம் ; தேசிய புத்திஜீவிகள் மாநாட்டில் ஜனாதிபதி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-c5b20ab0)
 
 ---
 

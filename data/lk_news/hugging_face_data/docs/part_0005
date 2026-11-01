@@ -94420,5 +94420,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793514083.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-25b63e9a",
+    "num": "dailymirrorlk-25b63e9a",
+    "date_str": "2026-11-01",
+    "description": "Cyclone Arnab affects over 21,000 people",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyclone-Arnab-affects-over-21-000-people/108-353890",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793514351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-dfe6bbdc",
+    "num": "dailymirrorlk-dfe6bbdc",
+    "date_str": "2026-11-01",
+    "description": "SLAF rescues three hostages in Central African Republic after 8 months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLAF-rescues-three-hostages-in-Central-African-Republic-after-8-months/108-353891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793514856.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-a6b5a0c0",
+    "num": "dailymirrorlk-a6b5a0c0",
+    "date_str": "2026-11-01",
+    "description": "Navy evacuates injured crew member from foreign cargo ship off Galle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-evacuates-injured-crew-member-from-foreign-cargo-ship-off-Galle/108-353892",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793515650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-0ebb75c2",
+    "num": "dailymirrorlk-0ebb75c2",
+    "date_str": "2026-11-01",
+    "description": "Dengue cases rise in seven provinces; 79 deaths reported this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-rise-in-seven-provinces-79-deaths-reported-this-year/108-353893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793515767.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-ed59ba45",
+    "num": "dailymirrorlk-ed59ba45",
+    "date_str": "2026-11-01",
+    "description": "Bay of Bengal depression set to become severe cyclonic storm by tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bay-of-Bengal-depression-set-to-become-severe-cyclonic-storm-by-tomorrow/108-353894",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793515922.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-660885e8",
+    "num": "dailymirrorlk-660885e8",
+    "date_str": "2026-11-01",
+    "description": "Welimada deputy principal who assaulted grade 7 schoolgirl surrenders",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Welimada-deputy-principal-who-assaulted-grade-7-schoolgirl-surrenders/108-353895",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793516673.0
   }
 ]

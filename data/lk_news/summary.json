@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-01 11:57:19",
-  "n_docs": 134528,
+  "time_updated": "2026-11-01 13:54:18",
+  "n_docs": 134534,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134528,
+  "n_docs_with_text": 134534,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-01",
-  "dataset_size": 2079338333,
+  "dataset_size": 2079398288,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-23102a43",
-    "num": "dailymirrorlk-23102a43",
+    "doc_id": "2026-11-01-dailymirrorlk-660885e8",
+    "num": "dailymirrorlk-660885e8",
     "date_str": "2026-11-01",
-    "description": "Rs. 13.5 million spent to reprint leaked Grade 3, 11 exam papers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-13-5-million-spent-to-reprint-leaked-Grade-3-11-exam-papers/108-353889",
+    "description": "Welimada deputy principal who assaulted grade 7 schoolgirl surrenders",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Welimada-deputy-principal-who-assaulted-grade-7-schoolgirl-surrenders/108-353895",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793514083.0
+    "time_ut": 1793516673.0
   }
 }
