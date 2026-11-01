@@ -94310,5 +94310,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793482244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-cd7b2c97",
+    "num": "dailymirrorlk-cd7b2c97",
+    "date_str": "2026-11-01",
+    "description": "17-year-old arrested over Kadawatha three-wheeler incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/17-year-old-arrested-over-Kadawatha-three-wheeler-incident/108-353878",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793499580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-1e6692db",
+    "num": "dailymirrorlk-1e6692db",
+    "date_str": "2026-11-01",
+    "description": "Sri Lanka fined for slow over-rate against England",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-fined-for-slow-over-rate-against-England/108-353879",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793502882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-0de5729c",
+    "num": "dailymirrorlk-0de5729c",
+    "date_str": "2026-11-01",
+    "description": "Graduate teacher recruitment interviews: Details published online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Graduate-teacher-recruitment-interviews-Details-published-online/108-353880",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793503343.0
   }
 ]

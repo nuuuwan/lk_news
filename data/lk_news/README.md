@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_07:55:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_09:53:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,518** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,521** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-2cdb5ebb",
-    "num": "dailymirrorlk-2cdb5ebb",
+    "doc_id": "2026-11-01-dailymirrorlk-0de5729c",
+    "num": "dailymirrorlk-0de5729c",
     "date_str": "2026-11-01",
-    "description": "NPP Executive Council member Lal Wijenayake passes away",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-Executive-Council-member-Lal-Wijenayake-passes-away/108-353877",
+    "description": "Graduate teacher recruitment interviews: Details published online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Graduate-teacher-recruitment-interviews-Details-published-online/108-353880",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793482244.0
+    "time_ut": 1793503343.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-01 | `dailymirrorlk-0de5729c` | Graduate teacher recruitment interviews: Details published online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0de5729c)
+- 2026-11-01 | `dailymirrorlk-1e6692db` | Sri Lanka fined for slow over-rate against England | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-1e6692db)
+- 2026-11-01 | `dailymirrorlk-cd7b2c97` | 17-year-old arrested over Kadawatha three-wheeler incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-cd7b2c97)
 - 2026-11-01 | `dailymirrorlk-2cdb5ebb` | NPP Executive Council member Lal Wijenayake passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-2cdb5ebb)
 - 2026-10-31 | `virakesarilk-07ddccde` | கமிந்துவின் கன்னிச் சதம் வீண் போனது; மின்ஹாஸ், நவாஸ் திருப்புமுனையை ஏற்படுத்தி பாகிஸ்தானை சம்பியனாக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-07ddccde)
 - 2026-10-31 | `dailymirrorlk-a95ff60c` | Pakistan win tri-series final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-a95ff60c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-10-31 | `virakesarilk-1c3751ca` | ‘அர்னாப்’ சூறாவளியின் தாக்கம்: இந்தியாவில் 7 பேர் உயிரிழப்பு – பலர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-1c3751ca)
 - 2026-10-31 | `virakesarilk-802bcba6` | ஆட்சியைத் தக்கவைக்க அடக்குமுறைச் சட்டங்களைக்  கொண்டுவர அரசாங்கம் முயற்சி : எதிர்க்கட்சித் தலைவர் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-802bcba6)
 - 2026-10-31 | `virakesarilk-4a708a1a` | பரந்துபட்ட அதிகாரங்கள் பொறுப்புணர்வுடன் கையாளப்படுவதை பொலிஸார் நிரூபிக்கவேண்டும் - முன்னாள் சபாநாயகர் கரு ஜயசூரிய தீவிர கரிசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-4a708a1a)
-- 2026-10-31 | `virakesarilk-341c3e30` | பொலிஸார்வசம் மட்டுமீறிய அதிகாரங்கள் சித்திரவதைக் கலாசாரத்துக்கே வழிகோலும் -ஜனாதிபதி சட்டத்தரணி சாலிய பீரிஸ் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-341c3e30)
-- 2026-10-31 | `dailymirrorlk-363d500f` | ‘What kind of thinking is this?’ President questions pin-sticking protests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-363d500f)
-- 2026-10-31 | `virakesarilk-b9c74c45` | அர்னாப் புயலின் இரவுநேர செயற்கைக்கோள் புகைப்படத்தை வெளியிட்ட நாசா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-b9c74c45)
 
 ---
 
