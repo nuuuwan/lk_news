@@ -94486,5 +94486,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793516673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-0d34efc8",
+    "num": "dailymirrorlk-0d34efc8",
+    "date_str": "2026-11-01",
+    "description": "JR remembered on 30th death anniversary",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/JR-remembered-on-30th-death-anniversary/110-353896",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793520970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-c2fbb4a5",
+    "num": "dailymirrorlk-c2fbb4a5",
+    "date_str": "2026-11-01",
+    "description": "Indian opposition stage mega rally seeking election chief\u2019s resignation",
+    "url_metadata": "https://www.dailymirror.lk/international/Indian-opposition-stage-mega-rally-seeking-election-chiefs-resignation/107-353897",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793522915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-db63edec",
+    "num": "dailymirrorlk-db63edec",
+    "date_str": "2026-11-01",
+    "description": "Kumar Sangakkara opens up on Ryanair \u2019race storm\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kumar-Sangakkara-opens-up-on-Ryanair-race-storm/108-353898",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793525000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-6401c193",
+    "num": "dailymirrorlk-6401c193",
+    "date_str": "2026-11-01",
+    "description": "Shops looted as German cost of living protests turn violent",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shops-looted-as-German-cost-of-living-protests-turn-violent/108-353901",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793527301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-85e59c1f",
+    "num": "dailymirrorlk-85e59c1f",
+    "date_str": "2026-11-01",
+    "description": "CCTV cameras to be installed at all police stations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCTV-cameras-to-be-installed-at-all-police-stations/108-353902",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793527537.0
   }
 ]

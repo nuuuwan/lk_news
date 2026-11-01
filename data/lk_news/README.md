@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_13:55:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_15:51:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,539** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-660885e8",
-    "num": "dailymirrorlk-660885e8",
+    "doc_id": "2026-11-01-dailymirrorlk-85e59c1f",
+    "num": "dailymirrorlk-85e59c1f",
     "date_str": "2026-11-01",
-    "description": "Welimada deputy principal who assaulted grade 7 schoolgirl surrenders",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Welimada-deputy-principal-who-assaulted-grade-7-schoolgirl-surrenders/108-353895",
+    "description": "CCTV cameras to be installed at all police stations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CCTV-cameras-to-be-installed-at-all-police-stations/108-353902",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793516673.0
+    "time_ut": 1793527537.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-01 | `dailymirrorlk-85e59c1f` | CCTV cameras to be installed at all police stations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-85e59c1f)
+- 2026-11-01 | `dailymirrorlk-6401c193` | Shops looted as German cost of living protests turn violent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-6401c193)
+- 2026-11-01 | `dailymirrorlk-db63edec` | Kumar Sangakkara opens up on Ryanair ’race storm’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-db63edec)
+- 2026-11-01 | `dailymirrorlk-c2fbb4a5` | Indian opposition stage mega rally seeking election chief’s resignation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-c2fbb4a5)
+- 2026-11-01 | `dailymirrorlk-0d34efc8` | JR remembered on 30th death anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0d34efc8)
 - 2026-11-01 | `dailymirrorlk-660885e8` | Welimada deputy principal who assaulted grade 7 schoolgirl surrenders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-660885e8)
 - 2026-11-01 | `dailymirrorlk-ed59ba45` | Bay of Bengal depression set to become severe cyclonic storm by tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-ed59ba45)
 - 2026-11-01 | `dailymirrorlk-0ebb75c2` | Dengue cases rise in seven provinces; 79 deaths reported this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0ebb75c2)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-01 | `dailymirrorlk-ac9cd4dd` | Navy seizes Indian fishing trawler with seven fishermen for illegal fishing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-ac9cd4dd)
 - 2026-11-01 | `dailymirrorlk-0de5729c` | Graduate teacher recruitment interviews: Details published online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0de5729c)
 - 2026-11-01 | `dailymirrorlk-1e6692db` | Sri Lanka fined for slow over-rate against England | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-1e6692db)
-- 2026-11-01 | `dailymirrorlk-cd7b2c97` | 17-year-old arrested over Kadawatha three-wheeler incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-cd7b2c97)
-- 2026-11-01 | `dailymirrorlk-2cdb5ebb` | NPP Executive Council member Lal Wijenayake passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-2cdb5ebb)
-- 2026-10-31 | `virakesarilk-07ddccde` | கமிந்துவின் கன்னிச் சதம் வீண் போனது; மின்ஹாஸ், நவாஸ் திருப்புமுனையை ஏற்படுத்தி பாகிஸ்தானை சம்பியனாக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-virakesarilk-07ddccde)
-- 2026-10-31 | `dailymirrorlk-a95ff60c` | Pakistan win tri-series final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-a95ff60c)
-- 2026-10-31 | `dailymirrorlk-1ceb31c5` | 16-year-old injured as police open fire on three-wheeler in Kadawatha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-10-31-dailymirrorlk-1ceb31c5)
 
 ---
 
