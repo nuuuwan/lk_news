@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-01 09:52:49",
-  "n_docs": 134521,
+  "time_updated": "2026-11-01 11:57:19",
+  "n_docs": 134528,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134521,
+  "n_docs_with_text": 134528,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-01",
-  "dataset_size": 2079308005,
+  "dataset_size": 2079338333,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-01-dailymirrorlk-0de5729c",
-    "num": "dailymirrorlk-0de5729c",
+    "doc_id": "2026-11-01-dailymirrorlk-23102a43",
+    "num": "dailymirrorlk-23102a43",
     "date_str": "2026-11-01",
-    "description": "Graduate teacher recruitment interviews: Details published online",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Graduate-teacher-recruitment-interviews-Details-published-online/108-353880",
+    "description": "Rs. 13.5 million spent to reprint leaked Grade 3, 11 exam papers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-13-5-million-spent-to-reprint-leaked-Grade-3-11-exam-papers/108-353889",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793503343.0
+    "time_ut": 1793514083.0
   }
 }

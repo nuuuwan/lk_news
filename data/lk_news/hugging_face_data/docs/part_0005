@@ -94343,5 +94343,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793503343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-ac9cd4dd",
+    "num": "dailymirrorlk-ac9cd4dd",
+    "date_str": "2026-11-01",
+    "description": "Navy seizes Indian fishing trawler with seven fishermen for illegal fishing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-Indian-fishing-trawler-with-seven-fishermen-for-illegal-fishing/108-353882",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793506871.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-f4d42a82",
+    "num": "dailymirrorlk-f4d42a82",
+    "date_str": "2026-11-01",
+    "description": "Litro Gas prices remain unchanged for November",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Litro-Gas-prices-remain-unchanged-for-November/108-353883",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793508232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-e0180278",
+    "num": "dailymirrorlk-e0180278",
+    "date_str": "2026-11-01",
+    "description": "Sajith plans life-size statue of tusker Kavantissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-plans-life-size-statue-of-tusker-Kavantissa/108-353884",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793510463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-5756f4cc",
+    "num": "dailymirrorlk-5756f4cc",
+    "date_str": "2026-11-01",
+    "description": "New online platform brings Sri Lanka\u2019s NGOs under one roof",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-online-platform-brings-Sri-Lankas-NGOs-under-one-roof/108-353886",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793511020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-3a388f07",
+    "num": "dailymirrorlk-3a388f07",
+    "date_str": "2026-11-01",
+    "description": "I\u2019ve been stuck on a tiny Pacific island for years and can\u2019t get a transit visa to fly home",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ive-been-stuck-on-a-tiny-Pacific-island-for-years-and-cant-get-a-transit-visa-to-fly-home/108-353887",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793512279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-db2cd644",
+    "num": "dailymirrorlk-db2cd644",
+    "date_str": "2026-11-01",
+    "description": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Crypto-firm-Binance-covers-90-of-losses-after-6-3bn-hack/108-353888",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793512519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-01-dailymirrorlk-23102a43",
+    "num": "dailymirrorlk-23102a43",
+    "date_str": "2026-11-01",
+    "description": "Rs. 13.5 million spent to reprint leaked Grade 3, 11 exam papers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-13-5-million-spent-to-reprint-leaked-Grade-3-11-exam-papers/108-353889",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793514083.0
   }
 ]
