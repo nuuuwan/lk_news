@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_13:58:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_15:54:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,610** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,618** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-614dc3ab",
-    "num": "dailymirrorlk-614dc3ab",
+    "doc_id": "2026-11-02-dailymirrorlk-67ca70bc",
+    "num": "dailymirrorlk-67ca70bc",
     "date_str": "2026-11-02",
-    "description": "Saudi  execution of Bangladeshi couple sparks global outrage",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Saudi-execution-of-Bangladeshi-couple-sparks-global-outrage/172-353977",
+    "description": "Heavy showers above 75mm on the cards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-above-75mm-on-the-cards/108-353984",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793606773.0
+    "time_ut": 1793614450.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-02 | `dailymirrorlk-67ca70bc` | Heavy showers above 75mm on the cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-67ca70bc)
+- 2026-11-02 | `dailymirrorlk-89986553` | Rajinikanth’s Jailer 2 becomes highest Tamil grosser in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-89986553)
+- 2026-11-02 | `dailymirrorlk-e51b3510` | Four arrested over murder of missing 24-year-old man in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-e51b3510)
+- 2026-11-02 | `dailymirrorlk-d6bc70c6` | Iran’s IRGC Navy says two tankers ’exploded’ after hitting mines in Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-d6bc70c6)
 - 2026-11-02 | `dailymirrorlk-614dc3ab` | Saudi  execution of Bangladeshi couple sparks global outrage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-614dc3ab)
 - 2026-11-02 | `dailymirrorlk-55e785ba` | Caste Oppression and Struggles in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-55e785ba)
 - 2026-11-02 | `dailymirrorlk-72f6662f` | Democracy: Bridge to power or commitment to values? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-72f6662f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-02 | `dailymirrorlk-51d128c0` | SLT-Mobitel reaffirms commitment to Sri Lanka-US business ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-51d128c0)
 - 2026-11-02 | `dailymirrorlk-82d8cc00` | Samsung expands easy payment facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-82d8cc00)
 - 2026-11-02 | `dailymirrorlk-d4441739` | ComBank launches dedicated loan scheme to revitalise tea industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-d4441739)
-- 2026-11-02 | `dailymirrorlk-d5e37feb` | UNP-SJB electoral alliance does not spell victory: Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-d5e37feb)
-- 2026-11-02 | `dailymirrorlk-aad32fcf` | HIV cases rise as Sri Lanka logs nearly 500 new infections in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-aad32fcf)
-- 2026-11-02 | `dailymirrorlk-e88c4484` | ‘Public likes it or not, necessary policies must go ahead’: CB Governor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-e88c4484)
-- 2026-11-02 | `dailymirrorlk-865b37a9` | Sri Lanka braces for possible food crisis due to El Niño | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-865b37a9)
 
 ---
 

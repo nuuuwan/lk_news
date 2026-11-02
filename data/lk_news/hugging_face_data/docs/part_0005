@@ -94940,6 +94940,39 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-20652ab3",
+    "num": "dailymirrorlk-20652ab3",
+    "date_str": "2026-11-02",
+    "description": "SLYCAN Trust and Rajarata University sign MoU to strengthen climate research and collaboration",
+    "url_metadata": "https://www.dailymirror.lk/business/SLYCAN-Trust-and-Rajarata-University-sign-MoU-to-strengthen-climate-research-and-collaboration/215-353925",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793591337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-b8ea6fe1",
+    "num": "dailymirrorlk-b8ea6fe1",
+    "date_str": "2026-11-02",
+    "description": "NDB and IFC expand partnership through new initiatives",
+    "url_metadata": "https://www.dailymirror.lk/business/NDB-and-IFC-expand-partnership-through-new-initiatives/215-353926",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793591439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-d2d6ef33",
+    "num": "dailymirrorlk-d2d6ef33",
+    "date_str": "2026-11-02",
+    "description": "SLASSCOM leads five-day business mission to Kenya",
+    "url_metadata": "https://www.dailymirror.lk/business/SLASSCOM-leads-five-day-business-mission-to-Kenya/215-353927",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793591531.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-02-dailymirrorlk-9ee7808c",
     "num": "dailymirrorlk-9ee7808c",
     "date_str": "2026-11-02",
@@ -95138,6 +95171,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-02b4a2e0",
+    "num": "dailymirrorlk-02b4a2e0",
+    "date_str": "2026-11-02",
+    "description": "Sri Lanka\u2019s fish stock dwindles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-fish-stock-dwindles/108-353946",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793601977.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-02-dailymirrorlk-d5e37feb",
     "num": "dailymirrorlk-d5e37feb",
     "date_str": "2026-11-02",
@@ -95322,5 +95366,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793606773.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-d6bc70c6",
+    "num": "dailymirrorlk-d6bc70c6",
+    "date_str": "2026-11-02",
+    "description": "Iran\u2019s IRGC Navy says two tankers \u2019exploded\u2019 after hitting mines in Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/international/Irans-IRGC-Navy-says-two-tankers-exploded-after-hitting-mines-in-Hormuz/107-353979",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793608341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-e51b3510",
+    "num": "dailymirrorlk-e51b3510",
+    "date_str": "2026-11-02",
+    "description": "Four arrested over murder of missing 24-year-old man in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-arrested-over-murder-of-missing-24-year-old-man-in-Colombo/108-353980",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793609447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-89986553",
+    "num": "dailymirrorlk-89986553",
+    "date_str": "2026-11-02",
+    "description": "Rajinikanth\u2019s Jailer 2 becomes highest Tamil grosser in India",
+    "url_metadata": "https://www.dailymirror.lk/international/Rajinikanths-Jailer-2-becomes-highest-Tamil-grosser-in-India/107-353981",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793610421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-67ca70bc",
+    "num": "dailymirrorlk-67ca70bc",
+    "date_str": "2026-11-02",
+    "description": "Heavy showers above 75mm on the cards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-above-75mm-on-the-cards/108-353984",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793614450.0
   }
 ]

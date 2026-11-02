@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-02 13:57:54",
-  "n_docs": 134610,
+  "time_updated": "2026-11-02 15:53:28",
+  "n_docs": 134618,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134610,
+  "n_docs_with_text": 134618,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-02",
-  "dataset_size": 2080029988,
+  "dataset_size": 2080253035,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-614dc3ab",
-    "num": "dailymirrorlk-614dc3ab",
+    "doc_id": "2026-11-02-dailymirrorlk-67ca70bc",
+    "num": "dailymirrorlk-67ca70bc",
     "date_str": "2026-11-02",
-    "description": "Saudi  execution of Bangladeshi couple sparks global outrage",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Saudi-execution-of-Bangladeshi-couple-sparks-global-outrage/172-353977",
+    "description": "Heavy showers above 75mm on the cards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-above-75mm-on-the-cards/108-353984",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793606773.0
+    "time_ut": 1793614450.0
   }
 }
