@@ -95531,5 +95531,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793619482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-b144053a",
+    "num": "dailymirrorlk-b144053a",
+    "date_str": "2026-11-02",
+    "description": "CSE holds near 20,000 as trading activity remains subdued",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-holds-near-20-000-as-trading-activity-remains-subdued/108-353999",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793622413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-3059304d",
+    "num": "dailymirrorlk-3059304d",
+    "date_str": "2026-11-02",
+    "description": "UN resolutions on women\u2019s rights available in Sinhala and Tamil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-resolutions-on-womens-rights-available-in-Sinhala-and-Tamil/108-354000",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793624432.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_17:57:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_19:56:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,629** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,631** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-17610f83",
-    "num": "dailymirrorlk-17610f83",
+    "doc_id": "2026-11-02-dailymirrorlk-3059304d",
+    "num": "dailymirrorlk-3059304d",
     "date_str": "2026-11-02",
-    "description": "World\u2019s energy supply buffers have been eroded, ADNOC CEO says",
-    "url_metadata": "https://www.dailymirror.lk/international/Worlds-energy-supply-buffers-have-been-eroded-ADNOC-CEO-says/107-353998",
+    "description": "UN resolutions on women\u2019s rights available in Sinhala and Tamil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-resolutions-on-womens-rights-available-in-Sinhala-and-Tamil/108-354000",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793619482.0
+    "time_ut": 1793624432.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-02 | `dailymirrorlk-3059304d` | UN resolutions on women’s rights available in Sinhala and Tamil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-3059304d)
+- 2026-11-02 | `dailymirrorlk-b144053a` | CSE holds near 20,000 as trading activity remains subdued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-b144053a)
 - 2026-11-02 | `dailymirrorlk-17610f83` | World’s energy supply buffers have been eroded, ADNOC CEO says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-17610f83)
 - 2026-11-02 | `dailymirrorlk-9be50b2f` | Patients’ lives at risk as private hospitals face medicine shortage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-9be50b2f)
 - 2026-11-02 | `dailymirrorlk-38a2aeb8` | Hambantota Port clarifies lightning damage to vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-38a2aeb8)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-02 | `dailymirrorlk-614dc3ab` | Saudi  execution of Bangladeshi couple sparks global outrage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-614dc3ab)
 - 2026-11-02 | `dailymirrorlk-55e785ba` | Caste Oppression and Struggles in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-55e785ba)
 - 2026-11-02 | `dailymirrorlk-72f6662f` | Democracy: Bridge to power or commitment to values? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-72f6662f)
-- 2026-11-02 | `dailymirrorlk-5984a69c` | Independent probes on police brutality a must! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-5984a69c)
-- 2026-11-02 | `dailymirrorlk-35830b16` | Rs. 2.1tn unpaid and up to  Rs. 1tn in yearly BOI and other tax breaks test SL’s 17% tax goal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-35830b16)
 
 ---
 

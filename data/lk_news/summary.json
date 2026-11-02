@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-02 17:56:30",
-  "n_docs": 134629,
+  "time_updated": "2026-11-02 19:55:07",
+  "n_docs": 134631,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134629,
+  "n_docs_with_text": 134631,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-02",
-  "dataset_size": 2080321420,
+  "dataset_size": 2080377907,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-17610f83",
-    "num": "dailymirrorlk-17610f83",
+    "doc_id": "2026-11-02-dailymirrorlk-3059304d",
+    "num": "dailymirrorlk-3059304d",
     "date_str": "2026-11-02",
-    "description": "World\u2019s energy supply buffers have been eroded, ADNOC CEO says",
-    "url_metadata": "https://www.dailymirror.lk/international/Worlds-energy-supply-buffers-have-been-eroded-ADNOC-CEO-says/107-353998",
+    "description": "UN resolutions on women\u2019s rights available in Sinhala and Tamil",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-resolutions-on-womens-rights-available-in-Sinhala-and-Tamil/108-354000",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793619482.0
+    "time_ut": 1793624432.0
   }
 }
