@@ -95553,5 +95553,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793624432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-c04c153b",
+    "num": "dailymirrorlk-c04c153b",
+    "date_str": "2026-11-02",
+    "description": "Gas shortage expected to ease within two days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gas-shortage-expected-to-ease-within-two-days/108-354001",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793631123.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-ef16e882",
+    "num": "dailymirrorlk-ef16e882",
+    "date_str": "2026-11-02",
+    "description": "\u2018Hasthi Sena\u2019 operation seizes illegal firearms, elephant traps",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hasthi-Sena-operation-seizes-illegal-firearms-elephant-traps/108-354002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793631356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-c651d8a3",
+    "num": "dailymirrorlk-c651d8a3",
+    "date_str": "2026-11-02",
+    "description": "Kandy trader fined for hiding 28 Litro gas cylinders",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kandy-trader-fined-for-hiding-28-Litro-gas-cylinders/108-354003",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793634659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-5cfbd379",
+    "num": "dailymirrorlk-5cfbd379",
+    "date_str": "2026-11-02",
+    "description": "Four spill gates opened at Deduru Oya Reservoir",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-spill-gates-opened-at-Deduru-Oya-Reservoir/108-354004",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793635285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-c136a9d9",
+    "num": "dailymirrorlk-c136a9d9",
+    "date_str": "2026-11-02",
+    "description": "New cyberattack on supermarket fridges sweeps across Europe",
+    "url_metadata": "https://www.dailymirror.lk/international/New-cyberattack-on-supermarket-fridges-sweeps-across-Europe/107-354005",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793635582.0
   }
 ]
