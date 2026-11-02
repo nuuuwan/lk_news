@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_03:51:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_06:09:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,560** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,570** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailyftlk-b89fbf4d",
-    "num": "dailyftlk-b89fbf4d",
+    "doc_id": "2026-11-02-dailyftlk-94c15c78",
+    "num": "dailyftlk-94c15c78",
     "date_str": "2026-11-02",
-    "description": "Organised Crime Bill violates rights standards: HRW",
-    "url_metadata": "https://www.ft.lk/opinion/Organised-Crime-Bill-violates-rights-standards-HRW/14-799476",
+    "description": "President appoints new Chairman and members to HRCSL",
+    "url_metadata": "https://www.ft.lk/news/President-appoints-new-Chairman-and-members-to-HRCSL/56-799507",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1793570913.0
+    "time_ut": 1793579647.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-02 | `dailyftlk-94c15c78` | President appoints new Chairman and members to HRCSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-94c15c78)
+- 2026-11-02 | `dailyftlk-1fd93724` | CIABOC challenges bail for Rakitha Rajapakshe, two others in Harak Kata case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-1fd93724)
+- 2026-11-02 | `dailyftlk-5760b285` | Tamil leaders take anti-terror law fears to UK envoy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-5760b285)
+- 2026-11-02 | `dailyftlk-076ce1f4` | Sunshine Holdings records strong growth in 1HFY27 with revenue up 24.4% and PAT rising 44.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-076ce1f4)
+- 2026-11-02 | `dailyftlk-3d4ac73a` | Supreme Court orders Dompe cop to pay Rs. 100,000 for assaulting woman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-3d4ac73a)
+- 2026-11-02 | `dailyftlk-0d911f37` | Police to install CCTV cameras at every station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-0d911f37)
+- 2026-11-02 | `dailyftlk-815f4ecd` | PM leaves for CHOGM in Antigua and Barbuda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-815f4ecd)
+- 2026-11-02 | `dailyftlk-fa92469c` | Bay of Bengal depression to intensify into severe cyclonic storm today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-fa92469c)
+- 2026-11-02 | `dailyftlk-ffd75b23` | COYLE’s “I AM” Leadership Forum 2026 concludes with a focus on stories that shape leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-ffd75b23)
+- 2026-11-02 | `dailyftlk-df8d72e1` | Tisara De Silva inducted as President of OPA for 2026/2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-df8d72e1)
 - 2026-11-02 | `dailyftlk-b89fbf4d` | Organised Crime Bill violates rights standards: HRW | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-b89fbf4d)
 - 2026-11-02 | `dailyftlk-b1e6aa93` | Bird’s-eye view: Economy stable and growing. Worm’s-eye view: Not so rosy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailyftlk-b1e6aa93)
 - 2026-11-01 | `dailymirrorlk-79246d58` | CEYPETCO increases Petrol and Diesel prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-79246d58)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-11-01 | `dailymirrorlk-b9b78dd5` | Was ‘Lankeswara’ shot dead? Elephant killed, tusk reportedly removed in Kahatagasdigiliya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-b9b78dd5)
 - 2026-11-01 | `dailymirrorlk-dc0d6277` | Lightning strike damages 11 vehicles at Hambantota Port | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-dc0d6277)
 - 2026-11-01 | `dailymirrorlk-bb9923fe` | South Korean national arrested with cocaine worth Rs. 49.4 million at BIA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-bb9923fe)
-- 2026-11-01 | `dailymirrorlk-e74242e2` | Two-time Olympian Mageean dies aged 34 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-e74242e2)
-- 2026-11-01 | `dailymirrorlk-05e02153` | 10-year-old boy drowns in Keselgamu Oya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-05e02153)
-- 2026-11-01 | `dailymirrorlk-c8674e33` | One dead, 18 injured during stampede in Sialkot at TikTok star’s wedding event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-c8674e33)
-- 2026-11-01 | `dailymirrorlk-94a6a08e` | Supreme Court rules police constable violated woman’s fundamental rights through assault | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-94a6a08e)
-- 2026-11-01 | `dailymirrorlk-72e72dcc` | 2,819 nurses appointed, 76 promoted; 13,000 more to be recruited | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-72e72dcc)
-- 2026-11-01 | `dailymirrorlk-0f1222ab` | SLPP to launch islandwide village-level meetings tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-0f1222ab)
-- 2026-11-01 | `dailymirrorlk-8f70c8a0` | Litro gas for Laugfs cylinders under discussion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-8f70c8a0)
-- 2026-11-01 | `dailymirrorlk-ff03a615` | CAA detects 98 suspected violations in islandwide lubricant raids | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-ff03a615)
-- 2026-11-01 | `dailymirrorlk-8dadf109` | Man crushed to death while hunting armadillo in Koslanda cave | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-8dadf109)
-- 2026-11-01 | `dailymirrorlk-7e935057` | Naval, fishing communities warned against venturing into deep sea as cyclone Murasu intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-01-dailymirrorlk-7e935057)
 
 ---
 
