@@ -5048,5 +5048,22 @@ guments and rhetoric,\u00a0 saw a whipping up of hysteria among sections of the 
     "md5": "d863b98ba3641da6ea7052f035b6064a",
     "chunk_size_bytes": 1699,
     "chunk_text": "Tom Hegel, a researcher at cybersecurity firm SentinelOne, said such attacks were typically linked to extortion, political motives or nation-state operations, with the absence of financial demands in recent cases pointing instead to sabotage.\n\n\"An attacker who logs into \u200ban exposed control panel leaves almost nothing behind ... A teenager \u200band an intelligence service would look much the \u2060same from the defender's side.\"\n\nCarrefour (CARR.PA), which was badly hit in last month's French attack, said 15 of its 700 stores in Belgium were affected. IKEA said one store in Belgium had been impacted and that it could not rule out disruptions at other locations.\n\nPrivately held Swedish grocery chain Coop said that 7 of its 800 stores were \u200baffected by a cyber incident involving unauthorised tampering with its refrigeration systems. It said Danfoss was among its suppliers.\n\nLuc De Laet, founder and owner of Belgian butchery \u200bchain De Laet & Van Haver, said \u2060he was woken at 3:30 a.m. by an employee telling him there was a problem. He rushed to his store south of Antwerp and found the fridges turned up as high as 18 C.\n\nHe estimated the incident ruined about \u20ac15,000 ($16,800) worth of meat.\n\n\"It's very scary. They are hacking the system that is doing the registration of the temperature, and they can program it at a distance,\" he told Reuters, adding that it was infuriating to throw away so much food.\n\nDe Laet said he believed \u2060the hackers were \u200btrying to destabilise European economies. He had contacted police but did not know whether an investigation had been launched.\n\n\"I only have two words \u200bfor them: wake up, please, because there's something going on,\" he said."
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-36db36b7",
+    "num": "dailymirrorlk-36db36b7",
+    "date_str": "2026-11-02",
+    "description": "Army Chief meets family of fallen war hero",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-Chief-meets-family-of-fallen-war-hero/110-354006",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793639015.0,
+    "chunk_id": "2026-11-02-dailymirrorlk-36db36b7-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "9c6d29c588b71f885808d3d368e4e4aa",
+    "chunk_size_bytes": 830,
+    "chunk_text": "Army Chief meets family of fallen war hero\n\nArmy Commander Lieutenant General Nilantha Premaratne and President of the Army Seva Vanitha Unit Mrs. Vindya Premaratne meet Mrs. Gayani Nandisiri, wife of late Captain U.G.A.S. Samaranayake of the 9th Battalion, Gemunu Watch, who was posthumously awarded the Parama Weera Vibhushana, the highest gallantry award of the Sri Lanka Armed Forces. The Army Commander inquired about the well-being of the family and assured them of the Army\u2019s continued support and assistance in recognition of the late officer\u2019s supreme sacrifice during the battles to liberate Pudukudiyiruppu on March 2, 2009.\n\nCaptain U.G.A.S. Samaranayake was a valiant officer who made the ultimate sacrifice of his life on March 2, 2009, during the battles to liberate Pudukudiyiruppu from LTTE terrorist control."
   }
 ]

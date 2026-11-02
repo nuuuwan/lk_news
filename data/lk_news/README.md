@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_21:55:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--02_23:56:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,636** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,637** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-c136a9d9",
-    "num": "dailymirrorlk-c136a9d9",
+    "doc_id": "2026-11-02-dailymirrorlk-36db36b7",
+    "num": "dailymirrorlk-36db36b7",
     "date_str": "2026-11-02",
-    "description": "New cyberattack on supermarket fridges sweeps across Europe",
-    "url_metadata": "https://www.dailymirror.lk/international/New-cyberattack-on-supermarket-fridges-sweeps-across-Europe/107-354005",
+    "description": "Army Chief meets family of fallen war hero",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-Chief-meets-family-of-fallen-war-hero/110-354006",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793635582.0
+    "time_ut": 1793639015.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-02 | `dailymirrorlk-36db36b7` | Army Chief meets family of fallen war hero | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-36db36b7)
 - 2026-11-02 | `dailymirrorlk-c136a9d9` | New cyberattack on supermarket fridges sweeps across Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-c136a9d9)
 - 2026-11-02 | `dailymirrorlk-5cfbd379` | Four spill gates opened at Deduru Oya Reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-5cfbd379)
 - 2026-11-02 | `dailymirrorlk-c651d8a3` | Kandy trader fined for hiding 28 Litro gas cylinders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-c651d8a3)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-02 | `dailymirrorlk-8eb8921c` | Former Ministry Secretary arrested Over Rs. 7.9 mn corruption allegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-8eb8921c)
 - 2026-11-02 | `dailymirrorlk-2771a1bd` | Crowds flock to IRD as TIN requirement takes effect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-2771a1bd)
 - 2026-11-02 | `dailymirrorlk-67ca70bc` | Heavy showers above 75mm on the cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-67ca70bc)
-- 2026-11-02 | `dailymirrorlk-89986553` | Rajinikanth’s Jailer 2 becomes highest Tamil grosser in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-89986553)
 
 ---
 

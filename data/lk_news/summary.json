@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-02 21:55:07",
-  "n_docs": 134636,
+  "time_updated": "2026-11-02 23:55:55",
+  "n_docs": 134637,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134636,
+  "n_docs_with_text": 134637,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-02",
-  "dataset_size": 2080403401,
+  "dataset_size": 2080436078,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-c136a9d9",
-    "num": "dailymirrorlk-c136a9d9",
+    "doc_id": "2026-11-02-dailymirrorlk-36db36b7",
+    "num": "dailymirrorlk-36db36b7",
     "date_str": "2026-11-02",
-    "description": "New cyberattack on supermarket fridges sweeps across Europe",
-    "url_metadata": "https://www.dailymirror.lk/international/New-cyberattack-on-supermarket-fridges-sweeps-across-Europe/107-354005",
+    "description": "Army Chief meets family of fallen war hero",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-Chief-meets-family-of-fallen-war-hero/110-354006",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793635582.0
+    "time_ut": 1793639015.0
   }
 }
