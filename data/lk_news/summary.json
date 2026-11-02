@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-02 15:53:28",
-  "n_docs": 134618,
+  "time_updated": "2026-11-02 17:56:30",
+  "n_docs": 134629,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134618,
+  "n_docs_with_text": 134629,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-02",
-  "dataset_size": 2080253035,
+  "dataset_size": 2080321420,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-67ca70bc",
-    "num": "dailymirrorlk-67ca70bc",
+    "doc_id": "2026-11-02-dailymirrorlk-17610f83",
+    "num": "dailymirrorlk-17610f83",
     "date_str": "2026-11-02",
-    "description": "Heavy showers above 75mm on the cards",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-above-75mm-on-the-cards/108-353984",
+    "description": "World\u2019s energy supply buffers have been eroded, ADNOC CEO says",
+    "url_metadata": "https://www.dailymirror.lk/international/Worlds-energy-supply-buffers-have-been-eroded-ADNOC-CEO-says/107-353998",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793614450.0
+    "time_ut": 1793619482.0
   }
 }

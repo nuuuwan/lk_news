@@ -95410,5 +95410,126 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793614450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-2771a1bd",
+    "num": "dailymirrorlk-2771a1bd",
+    "date_str": "2026-11-02",
+    "description": "Crowds flock to IRD as TIN requirement takes effect",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Crowds-flock-to-IRD-as-TIN-requirement-takes-effect/108-353985",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793615381.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-8eb8921c",
+    "num": "dailymirrorlk-8eb8921c",
+    "date_str": "2026-11-02",
+    "description": "Former Ministry Secretary arrested Over Rs. 7.9 mn corruption allegation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Ministry-Secretary-arrested-Over-Rs-7-9-mn-corruption-allegation/108-353986",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793615498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-d3bbd3a6",
+    "num": "dailymirrorlk-d3bbd3a6",
+    "date_str": "2026-11-02",
+    "description": "\u2018Hasthi Sena\u2019 launched to protect elephants, tackle human-elephant conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hasthi-Sena-launched-to-protect-elephants-tackle-human-elephant-conflict/108-353987",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793615664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-7cdf14bc",
+    "num": "dailymirrorlk-7cdf14bc",
+    "date_str": "2026-11-02",
+    "description": "Melbourne-Colombo SriLankan flight makes emergency landing at BIA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Melbourne-Colombo-SriLankan-flight-makes-emergency-landing-at-BIA/108-353988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793615865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-f27394a8",
+    "num": "dailymirrorlk-f27394a8",
+    "date_str": "2026-11-02",
+    "description": "Fishing, naval communities warned as Cyclone Murasu intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishing-naval-communities-warned-as-Cyclone-Murasu-intensifies/108-353989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793616083.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-860aa36d",
+    "num": "dailymirrorlk-860aa36d",
+    "date_str": "2026-11-02",
+    "description": "Who protects those behind bars? Namal asks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Who-protects-those-behind-bars-Namal-asks/108-353990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793616748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-760cde00",
+    "num": "dailymirrorlk-760cde00",
+    "date_str": "2026-11-02",
+    "description": "Cartoon of the Day 02 -11-2026",
+    "url_metadata": "https://www.dailymirror.lk/business/Cartoon-of-the-Day-02-11-2026/215-353993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793617360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-2bfc93cc",
+    "num": "dailymirrorlk-2bfc93cc",
+    "date_str": "2026-11-02",
+    "description": "Afghanistan overtake Sri Lanka in ODI rankings as Pakistan face fine",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Afghanistan-overtake-Sri-Lanka-in-ODI-rankings-as-Pakistan-face-fine/108-353995",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793618902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-38a2aeb8",
+    "num": "dailymirrorlk-38a2aeb8",
+    "date_str": "2026-11-02",
+    "description": "Hambantota Port clarifies lightning damage to vehicles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-clarifies-lightning-damage-to-vehicles/108-353996",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793619172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-9be50b2f",
+    "num": "dailymirrorlk-9be50b2f",
+    "date_str": "2026-11-02",
+    "description": "Patients\u2019 lives at risk as private hospitals face medicine shortage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Patients-lives-at-risk-as-private-hospitals-face-medicine-shortage/108-353997",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793619337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-02-dailymirrorlk-17610f83",
+    "num": "dailymirrorlk-17610f83",
+    "date_str": "2026-11-02",
+    "description": "World\u2019s energy supply buffers have been eroded, ADNOC CEO says",
+    "url_metadata": "https://www.dailymirror.lk/international/Worlds-energy-supply-buffers-have-been-eroded-ADNOC-CEO-says/107-353998",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793619482.0
   }
 ]
