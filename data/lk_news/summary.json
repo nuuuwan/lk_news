@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-03 17:57:49",
-  "n_docs": 134720,
+  "time_updated": "2026-11-03 19:53:12",
+  "n_docs": 134723,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134720,
+  "n_docs_with_text": 134723,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-03",
-  "dataset_size": 2081295453,
+  "dataset_size": 2081352881,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-03-dailymirrorlk-0a990467",
-    "num": "dailymirrorlk-0a990467",
+    "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
+    "num": "dailymirrorlk-b301e20d",
     "date_str": "2026-11-03",
-    "description": "CSE returns to positive territory as ASPI holds above 20,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-returns-to-positive-territory-as-ASPI-holds-above-20-000/108-354088",
+    "description": "Landslide warnings issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-several-areas/108-354093",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793707565.0
+    "time_ut": 1793714563.0
   }
 }

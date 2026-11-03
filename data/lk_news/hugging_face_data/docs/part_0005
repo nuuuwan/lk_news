@@ -96532,5 +96532,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793707565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-9f577b6c",
+    "num": "dailymirrorlk-9f577b6c",
+    "date_str": "2026-11-03",
+    "description": "GMOA plans islandwide hospital protests",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-plans-islandwide-hospital-protests/108-354089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793708367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-8862358a",
+    "num": "dailymirrorlk-8862358a",
+    "date_str": "2026-11-03",
+    "description": "South Asia Democracy Conference opens in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/South-Asia-Democracy-Conference-opens-in-Colombo/110-354090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793710373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
+    "num": "dailymirrorlk-b301e20d",
+    "date_str": "2026-11-03",
+    "description": "Landslide warnings issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-several-areas/108-354093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793714563.0
   }
 ]

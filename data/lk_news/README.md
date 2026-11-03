@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_17:58:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_19:53:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,723** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-03-dailymirrorlk-0a990467",
-    "num": "dailymirrorlk-0a990467",
+    "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
+    "num": "dailymirrorlk-b301e20d",
     "date_str": "2026-11-03",
-    "description": "CSE returns to positive territory as ASPI holds above 20,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-returns-to-positive-territory-as-ASPI-holds-above-20-000/108-354088",
+    "description": "Landslide warnings issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-several-areas/108-354093",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793707565.0
+    "time_ut": 1793714563.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-03 | `dailymirrorlk-b301e20d` | Landslide warnings issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-b301e20d)
+- 2026-11-03 | `dailymirrorlk-8862358a` | South Asia Democracy Conference opens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-8862358a)
+- 2026-11-03 | `dailymirrorlk-9f577b6c` | GMOA plans islandwide hospital protests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-9f577b6c)
 - 2026-11-03 | `dailymirrorlk-0a990467` | CSE returns to positive territory as ASPI holds above 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-0a990467)
 - 2026-11-03 | `dailymirrorlk-9da4cf37` | LAUGFS Gas expects three LPG shipments in November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-9da4cf37)
 - 2026-11-03 | `dailymirrorlk-187ea32a` | Namal granted bail in Krrish case but remains in prison pending Airbus case hearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-187ea32a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-03 | `dailymirrorlk-4befa721` | EU agrees to fund four-year project to promote sustainable trade with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-4befa721)
 - 2026-11-03 | `dailymirrorlk-625424b2` | Culinary skills vital to strengthening tourism industry: Herath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-625424b2)
 - 2026-11-03 | `dailymirrorlk-2af64068` | Krrish case: Namal released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-2af64068)
-- 2026-11-03 | `dailymirrorlk-144e07bf` | Government clarifies TIN requirement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-144e07bf)
-- 2026-11-03 | `dailymirrorlk-d49d72e8` | Supermarkets collecting polythene bag levies without environmental benefits, SC told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-d49d72e8)
-- 2026-11-03 | `dailymirrorlk-9f61f95c` | Blaze hits University of Kelaniya women’s hostel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-9f61f95c)
 
 ---
 
