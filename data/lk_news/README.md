@@ -1,6 +1,6 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_21:55:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_23:59:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
