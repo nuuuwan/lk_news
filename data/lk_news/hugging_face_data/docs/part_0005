@@ -95619,5 +95619,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793639015.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-5b8e0146",
+    "num": "dailyftlk-5b8e0146",
+    "date_str": "2026-11-03",
+    "description": "Surplus that starves",
+    "url_metadata": "https://www.ft.lk/columns/Surplus-that-starves/4-799545",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793658288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-0d55d41c",
+    "num": "dailyftlk-0d55d41c",
+    "date_str": "2026-11-03",
+    "description": "Tourism must focus on value, not volume",
+    "url_metadata": "https://www.ft.lk/opinion/Tourism-must-focus-on-value-not-volume/14-799546",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793658446.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-c1830997",
+    "num": "dailyftlk-c1830997",
+    "date_str": "2026-11-03",
+    "description": "Experienced graduates,  yes \u2014 but never at the cost of rigour",
+    "url_metadata": "https://www.ft.lk/columns/Experienced-graduates-yes-but-never-at-the-cost-of-rigour/4-799547",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793658527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-7688131f",
+    "num": "dailyftlk-7688131f",
+    "date_str": "2026-11-03",
+    "description": "Real relief is engineered, not announced",
+    "url_metadata": "https://www.ft.lk/columns/Real-relief-is-engineered-not-announced/4-799548",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793658811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-2acf56d7",
+    "num": "dailyftlk-2acf56d7",
+    "date_str": "2026-11-03",
+    "description": "Are Sri Lanka\u2019s corporates ready  to meet rising shareholder activism?",
+    "url_metadata": "https://www.ft.lk/columns/Are-Sri-Lanka-s-corporates-ready-to-meet-rising-shareholder-activism/4-799549",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793659086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-cdcc7934",
+    "num": "dailyftlk-cdcc7934",
+    "date_str": "2026-11-03",
+    "description": "Halal Council wins Gold again, secures double honours at CNCI Achiever Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/Halal-Council-wins-Gold-again-secures-double-honours-at-CNCI-Achiever-Awards-2026/34-799550",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793659258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-d51f7627",
+    "num": "dailyftlk-d51f7627",
+    "date_str": "2026-11-03",
+    "description": "Sri Lanka Connect 2026 positions Sri Lanka as a strategic partner for Indonesian investment",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Connect-2026-positions-Sri-Lanka-as-a-strategic-partner-for-Indonesian-investment/34-799551",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793659320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-35c2ad6d",
+    "num": "dailyftlk-35c2ad6d",
+    "date_str": "2026-11-03",
+    "description": "Cross River Bank partners Hatch as it expands internationally",
+    "url_metadata": "https://www.ft.lk/business/Cross-River-Bank-partners-Hatch-as-it-expands-internationally/34-799552",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793659374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-fcf24adb",
+    "num": "dailyftlk-fcf24adb",
+    "date_str": "2026-11-03",
+    "description": "Colombo Dockyard sustains turnaround with second consecutive profitable quarter",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Dockyard-sustains-turnaround-with-second-consecutive-profitable-quarter/34-799565",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793660902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-c8e89ff4",
+    "num": "dailyftlk-c8e89ff4",
+    "date_str": "2026-11-03",
+    "description": "Bond case fixed for pre-trial conference on 28 January",
+    "url_metadata": "https://www.ft.lk/news/Bond-case-fixed-for-pre-trial-conference-on-28-January/56-799566",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793661045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-6d818723",
+    "num": "dailyftlk-6d818723",
+    "date_str": "2026-11-03",
+    "description": "Sri Lanka strengthens UK business ties ahead of Expo 2027",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-strengthens-UK-business-ties-ahead-of-Expo-2027/34-799567",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793661265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailyftlk-68b79bf4",
+    "num": "dailyftlk-68b79bf4",
+    "date_str": "2026-11-03",
+    "description": "Investigation launched into tusker found dead with tusk removed",
+    "url_metadata": "https://www.ft.lk/news/Investigation-launched-into-tusker-found-dead-with-tusk-removed/56-799568",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793661417.0
   }
 ]

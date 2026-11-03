@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-03 03:53:40",
-  "n_docs": 134637,
+  "time_updated": "2026-11-03 06:06:20",
+  "n_docs": 134649,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134637,
+  "n_docs_with_text": 134649,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-02",
-  "dataset_size": 2080439829,
+  "date_str_max": "2026-11-03",
+  "dataset_size": 2080521773,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-02-dailymirrorlk-36db36b7",
-    "num": "dailymirrorlk-36db36b7",
-    "date_str": "2026-11-02",
-    "description": "Army Chief meets family of fallen war hero",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Army-Chief-meets-family-of-fallen-war-hero/110-354006",
+    "doc_id": "2026-11-03-dailyftlk-68b79bf4",
+    "num": "dailyftlk-68b79bf4",
+    "date_str": "2026-11-03",
+    "description": "Investigation launched into tusker found dead with tusk removed",
+    "url_metadata": "https://www.ft.lk/news/Investigation-launched-into-tusker-found-dead-with-tusk-removed/56-799568",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793639015.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793661417.0
   }
 }
