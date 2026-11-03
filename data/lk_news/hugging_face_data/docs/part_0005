@@ -96557,6 +96557,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-70bc1f23",
+    "num": "dailymirrorlk-70bc1f23",
+    "date_str": "2026-11-03",
+    "description": "Americans head to polls in midterm elections seen as referendum on Trump",
+    "url_metadata": "https://www.dailymirror.lk/international/Americans-head-to-polls-in-midterm-elections-seen-as-referendum-on-Trump/107-354092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793711125.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
     "num": "dailymirrorlk-b301e20d",
     "date_str": "2026-11-03",
@@ -96565,5 +96576,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793714563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-0a5d49eb",
+    "num": "dailymirrorlk-0a5d49eb",
+    "date_str": "2026-11-03",
+    "description": "Trump says US will stop providing aid to Israel after year-end",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-US-will-stop-providing-aid-to-Israel-after-year-end/108-354094",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793721885.0
   }
 ]

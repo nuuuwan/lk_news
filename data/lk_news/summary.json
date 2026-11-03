@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-03 19:53:12",
-  "n_docs": 134723,
+  "time_updated": "2026-11-03 21:54:34",
+  "n_docs": 134725,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134723,
+  "n_docs_with_text": 134725,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-03",
-  "dataset_size": 2081352881,
+  "dataset_size": 2081373891,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
-    "num": "dailymirrorlk-b301e20d",
+    "doc_id": "2026-11-03-dailymirrorlk-0a5d49eb",
+    "num": "dailymirrorlk-0a5d49eb",
     "date_str": "2026-11-03",
-    "description": "Landslide warnings issued for several areas",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-several-areas/108-354093",
+    "description": "Trump says US will stop providing aid to Israel after year-end",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-US-will-stop-providing-aid-to-Israel-after-year-end/108-354094",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793714563.0
+    "time_ut": 1793721885.0
   }
 }

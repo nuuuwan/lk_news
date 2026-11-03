@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_19:53:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_21:55:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,723** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,725** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-03-dailymirrorlk-b301e20d",
-    "num": "dailymirrorlk-b301e20d",
+    "doc_id": "2026-11-03-dailymirrorlk-0a5d49eb",
+    "num": "dailymirrorlk-0a5d49eb",
     "date_str": "2026-11-03",
-    "description": "Landslide warnings issued for several areas",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-several-areas/108-354093",
+    "description": "Trump says US will stop providing aid to Israel after year-end",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-US-will-stop-providing-aid-to-Israel-after-year-end/108-354094",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793714563.0
+    "time_ut": 1793721885.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-03 | `dailymirrorlk-0a5d49eb` | Trump says US will stop providing aid to Israel after year-end | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-0a5d49eb)
 - 2026-11-03 | `dailymirrorlk-b301e20d` | Landslide warnings issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-b301e20d)
+- 2026-11-03 | `dailymirrorlk-70bc1f23` | Americans head to polls in midterm elections seen as referendum on Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-70bc1f23)
 - 2026-11-03 | `dailymirrorlk-8862358a` | South Asia Democracy Conference opens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-8862358a)
 - 2026-11-03 | `dailymirrorlk-9f577b6c` | GMOA plans islandwide hospital protests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-9f577b6c)
 - 2026-11-03 | `dailymirrorlk-0a990467` | CSE returns to positive territory as ASPI holds above 20,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-0a990467)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-03 | `dailymirrorlk-9e2586cd` | Cabinet approves Rs. 700 million project to develop Hamilton Canal as tourist attraction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-9e2586cd)
 - 2026-11-03 | `dailymirrorlk-7deaf600` | DMT introduces appointment system for all same-day services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-7deaf600)
 - 2026-11-03 | `dailymirrorlk-4befa721` | EU agrees to fund four-year project to promote sustainable trade with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-4befa721)
-- 2026-11-03 | `dailymirrorlk-625424b2` | Culinary skills vital to strengthening tourism industry: Herath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-625424b2)
-- 2026-11-03 | `dailymirrorlk-2af64068` | Krrish case: Namal released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-2af64068)
 
 ---
 
