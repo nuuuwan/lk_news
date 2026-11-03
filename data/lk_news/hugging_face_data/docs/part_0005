@@ -95817,5 +95817,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793678007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-e3c3c0fe",
+    "num": "dailymirrorlk-e3c3c0fe",
+    "date_str": "2026-11-03",
+    "description": "Constituent parties unhappy with SJB leadership, but no decision to withdraw support: Mano",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Constituent-parties-unhappy-with-SJB-leadership-but-no-decision-to-withdraw-support-Mano/108-354013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793680054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-1e0ea780",
+    "num": "dailymirrorlk-1e0ea780",
+    "date_str": "2026-11-03",
+    "description": "Namal brought to court over Krrish deal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-brought-to-court-over-Krrish-deal/108-354015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793681349.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-62b16c90",
+    "num": "dailymirrorlk-62b16c90",
+    "date_str": "2026-11-03",
+    "description": "Road accidents claim 2,536 lives annually: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Road-accidents-claim-2-536-lives-annually-Deputy-Minister/108-354019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793681831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-1ffe7413",
+    "num": "dailymirrorlk-1ffe7413",
+    "date_str": "2026-11-03",
+    "description": "Women\u2019s leadership a condition for global survival, PM says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Womens-leadership-a-condition-for-global-survival-PM-says/108-354033",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793682933.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-0a745089",
+    "num": "dailymirrorlk-0a745089",
+    "date_str": "2026-11-03",
+    "description": "National programme planned to ensure children\u2019s online safety",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-programme-planned-to-ensure-childrens-online-safety/108-354040",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793684511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-e9c1792d",
+    "num": "dailymirrorlk-e9c1792d",
+    "date_str": "2026-11-03",
+    "description": "1983 communal riots back in political limelight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/1983-communal-riots-back-in-political-limelight/108-354041",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793684520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-5470d02e",
+    "num": "dailymirrorlk-5470d02e",
+    "date_str": "2026-11-03",
+    "description": "\u2018Please allow us to tell our stories\u2019:  Theepachelvan on the struggles of Tamil writers",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Please-allow-us-to-tell-our-stories-Theepachelvan-on-the-struggles-of-Tamil-writers/231-354042",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793684715.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-6f4f19d7",
+    "num": "dailymirrorlk-6f4f19d7",
+    "date_str": "2026-11-03",
+    "description": "Sri Lanka\u2019s assistance to 40 Iranian sailors raises U.S. sanctions concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-assistance-to-40-Iranian-sailors-raises-U-S-sanctions-concerns/108-354043",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793684840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-93799be9",
+    "num": "dailymirrorlk-93799be9",
+    "date_str": "2026-11-03",
+    "description": "Raid Amazones 2026 participants arrive in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Raid-Amazones-2026-participants-arrive-in-Sri-Lanka/110-354044",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793684996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-01bfee08",
+    "num": "dailymirrorlk-01bfee08",
+    "date_str": "2026-11-03",
+    "description": "Alleged misuse of NLB funds: CIABOC fails to appear in Ravi Karunanayake case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Alleged-misuse-of-NLB-funds-CIABOC-fails-to-appear-in-Ravi-Karunanayake-case/108-354045",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793685539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-2ff8c675",
+    "num": "dailymirrorlk-2ff8c675",
+    "date_str": "2026-11-03",
+    "description": "Daisy Forest discharged from Rs. 59 Mn money laundering case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Daisy-Forest-discharged-from-Rs-59-Mn-money-laundering-case/108-354046",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793686707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-b5388967",
+    "num": "dailymirrorlk-b5388967",
+    "date_str": "2026-11-03",
+    "description": "Daduru Oya Reservoir releases over 15,300 cusecs of water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Daduru-Oya-Reservoir-releases-over-15-300-cusecs-of-water/108-354047",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793686745.0
   }
 ]
