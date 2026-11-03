@@ -95751,5 +95751,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793661417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-46b9727a",
+    "num": "dailymirrorlk-46b9727a",
+    "date_str": "2026-11-03",
+    "description": "CEJ urges Wildlife Department to enforce court orders on Hakwatunawa reserve",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEJ-urges-Wildlife-Department-to-enforce-court-orders-on-Hakwatunawa-reserve/108-354007",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793674986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-95ff90e2",
+    "num": "dailymirrorlk-95ff90e2",
+    "date_str": "2026-11-03",
+    "description": "Who are the victims of the deadly Florida jet crash?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Who-are-the-victims-of-the-deadly-Florida-jet-crash/108-354008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793675277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-f02d4a26",
+    "num": "dailymirrorlk-f02d4a26",
+    "date_str": "2026-11-03",
+    "description": "Navy sailor killed in shooting in Trincomalee",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-sailor-killed-in-shooting-in-Trincomalee/108-354009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793676374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-42ffc6e4",
+    "num": "dailymirrorlk-42ffc6e4",
+    "date_str": "2026-11-03",
+    "description": "Govt. has increased several taxes despite President\u2019s claims, says Harsha de Silva",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-has-increased-several-taxes-despite-Presidents-claims-says-Harsha-de-Silva/108-354010",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793676593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-db53d425",
+    "num": "dailymirrorlk-db53d425",
+    "date_str": "2026-11-03",
+    "description": "21 foreign nationals arrested over online financial fraud in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/21-foreign-nationals-arrested-over-online-financial-fraud-in-Colombo/108-354011",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793676771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-c540f2d5",
+    "num": "dailymirrorlk-c540f2d5",
+    "date_str": "2026-11-03",
+    "description": "North Korea denies being behind record $6.3bn Binance hack",
+    "url_metadata": "https://www.dailymirror.lk/international/North-Korea-denies-being-behind-record-6-3bn-Binance-hack/107-354012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793678007.0
   }
 ]

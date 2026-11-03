@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_07:56:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_09:55:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,649** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,655** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-03-dailyftlk-68b79bf4",
-    "num": "dailyftlk-68b79bf4",
+    "doc_id": "2026-11-03-dailymirrorlk-c540f2d5",
+    "num": "dailymirrorlk-c540f2d5",
     "date_str": "2026-11-03",
-    "description": "Investigation launched into tusker found dead with tusk removed",
-    "url_metadata": "https://www.ft.lk/news/Investigation-launched-into-tusker-found-dead-with-tusk-removed/56-799568",
+    "description": "North Korea denies being behind record $6.3bn Binance hack",
+    "url_metadata": "https://www.dailymirror.lk/international/North-Korea-denies-being-behind-record-6-3bn-Binance-hack/107-354012",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793661417.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793678007.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-03 | `dailymirrorlk-c540f2d5` | North Korea denies being behind record $6.3bn Binance hack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-c540f2d5)
+- 2026-11-03 | `dailymirrorlk-db53d425` | 21 foreign nationals arrested over online financial fraud in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-db53d425)
+- 2026-11-03 | `dailymirrorlk-42ffc6e4` | Govt. has increased several taxes despite President’s claims, says Harsha de Silva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-42ffc6e4)
+- 2026-11-03 | `dailymirrorlk-f02d4a26` | Navy sailor killed in shooting in Trincomalee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-f02d4a26)
+- 2026-11-03 | `dailymirrorlk-95ff90e2` | Who are the victims of the deadly Florida jet crash? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-95ff90e2)
+- 2026-11-03 | `dailymirrorlk-46b9727a` | CEJ urges Wildlife Department to enforce court orders on Hakwatunawa reserve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-46b9727a)
 - 2026-11-03 | `dailyftlk-68b79bf4` | Investigation launched into tusker found dead with tusk removed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailyftlk-68b79bf4)
 - 2026-11-03 | `dailyftlk-6d818723` | Sri Lanka strengthens UK business ties ahead of Expo 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailyftlk-6d818723)
 - 2026-11-03 | `dailyftlk-c8e89ff4` | Bond case fixed for pre-trial conference on 28 January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailyftlk-c8e89ff4)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-03 | `dailyftlk-5b8e0146` | Surplus that starves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailyftlk-5b8e0146)
 - 2026-11-02 | `dailymirrorlk-36db36b7` | Army Chief meets family of fallen war hero | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-36db36b7)
 - 2026-11-02 | `dailymirrorlk-c136a9d9` | New cyberattack on supermarket fridges sweeps across Europe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-c136a9d9)
-- 2026-11-02 | `dailymirrorlk-5cfbd379` | Four spill gates opened at Deduru Oya Reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-5cfbd379)
-- 2026-11-02 | `dailymirrorlk-c651d8a3` | Kandy trader fined for hiding 28 Litro gas cylinders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-c651d8a3)
-- 2026-11-02 | `dailymirrorlk-ef16e882` | ‘Hasthi Sena’ operation seizes illegal firearms, elephant traps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-ef16e882)
-- 2026-11-02 | `dailymirrorlk-c04c153b` | Gas shortage expected to ease within two days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-c04c153b)
-- 2026-11-02 | `dailymirrorlk-3059304d` | UN resolutions on women’s rights available in Sinhala and Tamil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-3059304d)
-- 2026-11-02 | `dailymirrorlk-b144053a` | CSE holds near 20,000 as trading activity remains subdued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-02-dailymirrorlk-b144053a)
 
 ---
 
