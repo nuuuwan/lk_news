@@ -96216,6 +96216,28 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-de54d880",
+    "num": "dailymirrorlk-de54d880",
+    "date_str": "2026-11-03",
+    "description": "Protest demands justice for tusker Kawanthissa",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Protest-demands-justice-for-tusker-Kawanthissa/110-354052",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793690489.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-c15a8b93",
+    "num": "dailymirrorlk-c15a8b93",
+    "date_str": "2026-11-03",
+    "description": "Special dengue prevention week from November 9 to 14 in 74 high-risk areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-dengue-prevention-week-from-November-9-to-14-in-74-high-risk-areas/108-354053",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793690543.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-03-dailymirrorlk-e1759acf",
     "num": "dailymirrorlk-e1759acf",
     "date_str": "2026-11-03",
@@ -96433,5 +96455,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793699858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-3fd55805",
+    "num": "dailymirrorlk-3fd55805",
+    "date_str": "2026-11-03",
+    "description": "Navy rescues four fishermen stranded at sea amid Cyclone Arnab",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-rescues-four-fishermen-stranded-at-sea-amid-Cyclone-Arnab/108-354081",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793700398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-196135f2",
+    "num": "dailymirrorlk-196135f2",
+    "date_str": "2026-11-03",
+    "description": "Parliamentary Committee discusses legal reforms, alternatives to ease prison overcrowding",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-discusses-legal-reforms-alternatives-to-ease-prison-overcrowding/108-354083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793701155.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-61ada036",
+    "num": "dailymirrorlk-61ada036",
+    "date_str": "2026-11-03",
+    "description": "G.L. Peiris warns proposed Bills could put GSP+ concession at risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/G-L-Peiris-warns-proposed-Bills-could-put-GSP-concession-at-risk/108-354084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793701845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-d81bf3d2",
+    "num": "dailymirrorlk-d81bf3d2",
+    "date_str": "2026-11-03",
+    "description": "Explosions hit Iran\u2019s Qeshm Island as US media report US strikes in Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/international/Explosions-hit-Irans-Qeshm-Island-as-US-media-report-US-strikes-in-Hormuz/107-354085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793703743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-187ea32a",
+    "num": "dailymirrorlk-187ea32a",
+    "date_str": "2026-11-03",
+    "description": "Namal granted bail in Krrish case but remains in prison pending Airbus case hearing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-granted-bail-in-Krrish-case-but-remains-in-prison-pending-Airbus-case-hearing/108-354086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793705327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-9da4cf37",
+    "num": "dailymirrorlk-9da4cf37",
+    "date_str": "2026-11-03",
+    "description": "LAUGFS Gas expects three LPG shipments in November",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-Gas-expects-three-LPG-shipments-in-November/108-354087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793707322.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-03-dailymirrorlk-0a990467",
+    "num": "dailymirrorlk-0a990467",
+    "date_str": "2026-11-03",
+    "description": "CSE returns to positive territory as ASPI holds above 20,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-returns-to-positive-territory-as-ASPI-holds-above-20-000/108-354088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793707565.0
   }
 ]
