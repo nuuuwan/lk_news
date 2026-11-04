@@ -97467,5 +97467,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793800994.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-fb489061",
+    "num": "dailymirrorlk-fb489061",
+    "date_str": "2026-11-04",
+    "description": "We are now waiting to count how many lies the President tells in his third Budget \u2013 Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/We-are-now-waiting-to-count-how-many-lies-the-President-tells-in-his-third-Budget-Namal/108-354175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793801720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-eff222d0",
+    "num": "dailymirrorlk-eff222d0",
+    "date_str": "2026-11-04",
+    "description": "Navy intercepts trawler suspected of smuggling narcotics in southern waters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-intercepts-trawler-suspected-of-smuggling-narcotics-in-southern-waters/108-354176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793801989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-53d3bf3d",
+    "num": "dailymirrorlk-53d3bf3d",
+    "date_str": "2026-11-04",
+    "description": "Kellogg\u2019s admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+    "url_metadata": "https://www.dailymirror.lk/international/Kelloggs-admits-snap-crackle-and-pop-is-quieter-after-uproar-over-Rice-Krispies-recipe-change/107-354177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793806497.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-dc6e416c",
+    "num": "dailymirrorlk-dc6e416c",
+    "date_str": "2026-11-04",
+    "description": "French blood banks hit alongside cyberattack on European supermarkets",
+    "url_metadata": "https://www.dailymirror.lk/international/French-blood-banks-hit-alongside-cyberattack-on-European-supermarkets/107-354178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793807688.0
   }
 ]

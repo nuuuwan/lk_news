@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-04 19:55:24",
-  "n_docs": 134805,
+  "time_updated": "2026-11-04 21:53:10",
+  "n_docs": 134809,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134805,
+  "n_docs_with_text": 134809,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-04",
-  "dataset_size": 2082328574,
+  "dataset_size": 2082365734,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-04-dailymirrorlk-cc12967b",
-    "num": "dailymirrorlk-cc12967b",
+    "doc_id": "2026-11-04-dailymirrorlk-dc6e416c",
+    "num": "dailymirrorlk-dc6e416c",
     "date_str": "2026-11-04",
-    "description": "Harshitha takes charge as Pavan Rathnayake makes major ODI rankings leap",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Harshitha-takes-charge-as-Pavan-Rathnayake-makes-major-ODI-rankings-leap/108-354174",
+    "description": "French blood banks hit alongside cyberattack on European supermarkets",
+    "url_metadata": "https://www.dailymirror.lk/international/French-blood-banks-hit-alongside-cyberattack-on-European-supermarkets/107-354178",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793800994.0
+    "time_ut": 1793807688.0
   }
 }
