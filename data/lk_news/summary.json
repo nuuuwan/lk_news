@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-04 07:55:04",
-  "n_docs": 134743,
+  "time_updated": "2026-11-04 09:54:34",
+  "n_docs": 134746,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134743,
+  "n_docs_with_text": 134746,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-04",
-  "dataset_size": 2081706543,
+  "dataset_size": 2081719916,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-04-dailyftlk-645a987e",
-    "num": "dailyftlk-645a987e",
+    "doc_id": "2026-11-04-dailymirrorlk-900fc4cb",
+    "num": "dailymirrorlk-900fc4cb",
     "date_str": "2026-11-04",
-    "description": "Between NPP\u2019s authoritarian agenda and Opposition\u2019s racist battle-plans",
-    "url_metadata": "https://www.ft.lk/opinion/Between-NPP-s-authoritarian-agenda-and-Opposition-s-racist-battle-plans/14-799610",
+    "description": "Democrats close in on US House, make gains in Senate",
+    "url_metadata": "https://www.dailymirror.lk/international/Democrats-close-in-on-US-House-make-gains-in-Senate/107-354097",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793751366.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793766107.0
   }
 }

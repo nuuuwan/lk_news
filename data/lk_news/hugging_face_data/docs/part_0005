@@ -96785,5 +96785,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793751366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-8a00bea7",
+    "num": "dailymirrorlk-8a00bea7",
+    "date_str": "2026-11-04",
+    "description": "Seven flights across Europe targeted by suspected bomb threats",
+    "url_metadata": "https://www.dailymirror.lk/international/Seven-flights-across-Europe-targeted-by-suspected-bomb-threats/107-354095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793765519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-a01905dd",
+    "num": "dailymirrorlk-a01905dd",
+    "date_str": "2026-11-04",
+    "description": "Landslide blocks Up-Country railway line, train services disrupted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-blocks-Up-Country-railway-line-train-services-disrupted/108-354096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793765737.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-900fc4cb",
+    "num": "dailymirrorlk-900fc4cb",
+    "date_str": "2026-11-04",
+    "description": "Democrats close in on US House, make gains in Senate",
+    "url_metadata": "https://www.dailymirror.lk/international/Democrats-close-in-on-US-House-make-gains-in-Senate/107-354097",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793766107.0
   }
 ]

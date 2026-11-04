@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--04_07:56:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--04_09:55:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,743** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,746** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-04-dailyftlk-645a987e",
-    "num": "dailyftlk-645a987e",
+    "doc_id": "2026-11-04-dailymirrorlk-900fc4cb",
+    "num": "dailymirrorlk-900fc4cb",
     "date_str": "2026-11-04",
-    "description": "Between NPP\u2019s authoritarian agenda and Opposition\u2019s racist battle-plans",
-    "url_metadata": "https://www.ft.lk/opinion/Between-NPP-s-authoritarian-agenda-and-Opposition-s-racist-battle-plans/14-799610",
+    "description": "Democrats close in on US House, make gains in Senate",
+    "url_metadata": "https://www.dailymirror.lk/international/Democrats-close-in-on-US-House-make-gains-in-Senate/107-354097",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793751366.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793766107.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-04 | `dailymirrorlk-900fc4cb` | Democrats close in on US House, make gains in Senate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-900fc4cb)
+- 2026-11-04 | `dailymirrorlk-a01905dd` | Landslide blocks Up-Country railway line, train services disrupted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-a01905dd)
+- 2026-11-04 | `dailymirrorlk-8a00bea7` | Seven flights across Europe targeted by suspected bomb threats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-8a00bea7)
 - 2026-11-04 | `dailyftlk-645a987e` | Between NPP’s authoritarian agenda and Opposition’s racist battle-plans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-645a987e)
 - 2026-11-04 | `dailyftlk-ccde89d6` | Cost of living crisis: The system destroyer? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-ccde89d6)
 - 2026-11-04 | `dailyftlk-32f58961` | South Asia’s demographic shift is an opportunity—but only if the region acts now | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-32f58961)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-04 | `dailyftlk-1f4ef6b6` | Namal granted bail in Krrish case but stays in remand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-1f4ef6b6)
 - 2026-11-04 | `dailyftlk-17e60b1a` | Court releases Daisy Forrest from Yoshitha money laundering case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-17e60b1a)
 - 2026-11-04 | `dailyftlk-f1e569ae` | Cabinet approves Rs. 700 m project to develop Hamilton Canal for tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-f1e569ae)
-- 2026-11-04 | `dailyftlk-9ce12d6d` | Govt. defends SLTPB-funded Rs. 104 m sponsorship for ABU assembly | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailyftlk-9ce12d6d)
-- 2026-11-03 | `dailymirrorlk-0a5d49eb` | Trump says US will stop providing aid to Israel after year-end | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-0a5d49eb)
-- 2026-11-03 | `dailymirrorlk-b301e20d` | Landslide warnings issued for several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-03-dailymirrorlk-b301e20d)
 
 ---
 
