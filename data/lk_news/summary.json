@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 15:53:52",
-  "n_docs": 134878,
+  "time_updated": "2026-11-05 17:57:14",
+  "n_docs": 134887,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134878,
+  "n_docs_with_text": 134887,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2083243883,
+  "dataset_size": 2083324192,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-bb7fb8f4",
-    "num": "dailymirrorlk-bb7fb8f4",
+    "doc_id": "2026-11-05-dailymirrorlk-20615aac",
+    "num": "dailymirrorlk-20615aac",
     "date_str": "2026-11-05",
-    "description": "Court orders police not to arrest suspect pending AG\u2019s instructions",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-police-not-to-arrest-suspect-pending-AGs-instructions/108-354258",
+    "description": "President says proposed organised crime detention period to be reduced to 48 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-says-proposed-organised-crime-detention-period-to-be-reduced-to-48-hours/108-354271",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793873190.0
+    "time_ut": 1793877888.0
   }
 }

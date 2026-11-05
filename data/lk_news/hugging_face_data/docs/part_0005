@@ -98185,6 +98185,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-4a80608d",
+    "num": "dailymirrorlk-4a80608d",
+    "date_str": "2026-11-05",
+    "description": "Rupee strengthens slightly against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-strengthens-slightly-against-US-Dollar/108-354241",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793867239.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-05-dailymirrorlk-1aa89c88",
     "num": "dailymirrorlk-1aa89c88",
     "date_str": "2026-11-05",
@@ -98270,5 +98281,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793873190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-1b955787",
+    "num": "dailymirrorlk-1b955787",
+    "date_str": "2026-11-05",
+    "description": "Bad food? Colombo residents can now complain with a QR scan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bad-food-Colombo-residents-can-now-complain-with-a-QR-scan/108-354262",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793873780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-dba56c3d",
+    "num": "dailymirrorlk-dba56c3d",
+    "date_str": "2026-11-05",
+    "description": "Bomb alerts force flights to land in France, Bulgaria, Belgium",
+    "url_metadata": "https://www.dailymirror.lk/international/Bomb-alerts-force-flights-to-land-in-France-Bulgaria-Belgium/107-354263",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793874222.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-8cdf5390",
+    "num": "dailymirrorlk-8cdf5390",
+    "date_str": "2026-11-05",
+    "description": "Customs seize illicit cigarettes worth Rs. 792 million at Thotalanga",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-illicit-cigarettes-worth-Rs-792-million-at-Thotalanga/108-354264",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793874828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-59bbfa9e",
+    "num": "dailymirrorlk-59bbfa9e",
+    "date_str": "2026-11-05",
+    "description": "Cristiano Ronaldo announces retirement from Portuguese national team",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cristiano-Ronaldo-announces-retirement-from-Portuguese-national-team/108-354267",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793875810.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-517eadc4",
+    "num": "dailymirrorlk-517eadc4",
+    "date_str": "2026-11-05",
+    "description": "Vegetable supplies to Katugastota Economic Centre drop by 50%",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vegetable-supplies-to-Katugastota-Economic-Centre-drop-by-50/108-354268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793876668.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-9bff2a47",
+    "num": "dailymirrorlk-9bff2a47",
+    "date_str": "2026-11-05",
+    "description": "People\u2019s Struggle Alliance warns Government against introducing \u2018repressive\u2019 laws under new names",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Peoples-Struggle-Alliance-warns-Government-against-introducing-repressive-laws-under-new-names/108-354269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793877316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-daf81639",
+    "num": "dailymirrorlk-daf81639",
+    "date_str": "2026-11-05",
+    "description": "Government focuses on special needs preschool education",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-focuses-on-special-needs-preschool-education/108-354270",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793877749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-20615aac",
+    "num": "dailymirrorlk-20615aac",
+    "date_str": "2026-11-05",
+    "description": "President says proposed organised crime detention period to be reduced to 48 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-says-proposed-organised-crime-detention-period-to-be-reduced-to-48-hours/108-354271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793877888.0
   }
 ]
