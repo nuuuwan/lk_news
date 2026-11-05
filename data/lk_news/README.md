@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_07:57:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_09:55:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,823** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailyftlk-457d2dc0",
-    "num": "dailyftlk-457d2dc0",
+    "doc_id": "2026-11-05-dailymirrorlk-051c37b7",
+    "num": "dailymirrorlk-051c37b7",
     "date_str": "2026-11-05",
-    "description": "Court to rule on Gota travel ban on 25 Nov.",
-    "url_metadata": "https://www.ft.lk/news/Court-to-rule-on-Gota-travel-ban-on-25-Nov/56-799676",
+    "description": "Elon Musk\u2019s business empire braces for Democratic wave as Texas flips blue",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elon-Musks-business-empire-braces-for-Democratic-wave-as-Texas-flips-blue/108-354180",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793842244.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793846626.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-05 | `dailymirrorlk-051c37b7` | Elon Musk’s business empire braces for Democratic wave as Texas flips blue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-051c37b7)
 - 2026-11-05 | `dailyftlk-457d2dc0` | Court to rule on Gota travel ban on 25 Nov. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-457d2dc0)
 - 2026-11-05 | `dailyftlk-e18bce99` | CHOGM 2026 opens with drive to unlock prosperity for Commonwealth’s 2.7 billion people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-e18bce99)
 - 2026-11-05 | `dailyftlk-010284a0` | Meta and Roar AdX launch growth academy for Sri Lankan SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-010284a0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-04 | `dailymirrorlk-eff222d0` | Navy intercepts trawler suspected of smuggling narcotics in southern waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-eff222d0)
 - 2026-11-04 | `dailymirrorlk-fb489061` | We are now waiting to count how many lies the President tells in his third Budget – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-fb489061)
 - 2026-11-04 | `dailymirrorlk-cc12967b` | Harshitha takes charge as Pavan Rathnayake makes major ODI rankings leap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-cc12967b)
-- 2026-11-04 | `dailymirrorlk-afedd8cf` | ‘Hasthi Sena’ Operation - Weapons and wildlife remains seized in Kala Wewa raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-afedd8cf)
 
 ---
 
