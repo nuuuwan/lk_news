@@ -98284,6 +98284,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-d8080ae9",
+    "num": "dailymirrorlk-d8080ae9",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka aims to become regional digital financial hub: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-aims-to-become-regional-digital-financial-hub-Deputy-Minister/108-354261",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793873699.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-05-dailymirrorlk-1b955787",
     "num": "dailymirrorlk-1b955787",
     "date_str": "2026-11-05",
@@ -98314,6 +98325,28 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793874828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-cda833b5",
+    "num": "dailymirrorlk-cda833b5",
+    "date_str": "2026-11-05",
+    "description": "17 major reservoirs and seven medium tanks spilling or releasing water",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/17-major-reservoirs-and-seven-medium-tanks-spilling-or-releasing-water/108-354265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793875580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-1cd31711",
+    "num": "dailymirrorlk-1cd31711",
+    "date_str": "2026-11-05",
+    "description": "Mirissa harbour to get fisheries-tourism upgrade",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mirissa-harbour-to-get-fisheries-tourism-upgrade/108-354266",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793875744.0
   },
   {
     "doc_type": "lk_news",
@@ -98369,5 +98402,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793877888.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-f687b586",
+    "num": "dailymirrorlk-f687b586",
+    "date_str": "2026-11-05",
+    "description": "Sri Lankan High Commissioner presents credentials to Botswana President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-High-Commissioner-presents-credentials-to-Botswana-President/108-354272",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793880799.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-efa3a9cf",
+    "num": "dailymirrorlk-efa3a9cf",
+    "date_str": "2026-11-05",
+    "description": "TikTok removes over 430,000 videos in Sri Lanka during Q2 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TikTok-removes-over-430-000-videos-in-Sri-Lanka-during-Q2-2026/108-354273",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793882955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-66ec750e",
+    "num": "dailymirrorlk-66ec750e",
+    "date_str": "2026-11-05",
+    "description": "FCID objects to bail for two suspects in Rs. 190 Bn case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FCID-objects-to-bail-for-two-suspects-in-Rs-190-Bn-case/108-354274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793883333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-587b1b57",
+    "num": "dailymirrorlk-587b1b57",
+    "date_str": "2026-11-05",
+    "description": "Court orders three-month suspension of Rakhitha Rajapaksa\u2019s bank accounts, vehicles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-three-month-suspension-of-Rakhitha-Rajapaksas-bank-accounts-vehicles/108-354275",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793883633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-bccc079b",
+    "num": "dailymirrorlk-bccc079b",
+    "date_str": "2026-11-05",
+    "description": "CSE rally accelerates as ASPI breaks above 21,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rally-accelerates-as-ASPI-breaks-above-21-000/108-354276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793883834.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-99f5c212",
+    "num": "dailymirrorlk-99f5c212",
+    "date_str": "2026-11-05",
+    "description": "Ministry urges media to stop sharing videos identifying student protesters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ministry-urges-media-to-stop-sharing-videos-identifying-student-protesters/108-354277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793885663.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-740e9db1",
+    "num": "dailymirrorlk-740e9db1",
+    "date_str": "2026-11-05",
+    "description": "Sri Lankan Embassy staff safe after attack in Amman",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Embassy-staff-safe-after-attack-in-Amman/108-354278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793885816.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-506bc0ea",
+    "num": "dailymirrorlk-506bc0ea",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka eyes comprehensive trade agreement with EU",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-comprehensive-trade-agreement-with-EU/108-354279",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793887385.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 17:57:14",
-  "n_docs": 134887,
+  "time_updated": "2026-11-05 19:54:01",
+  "n_docs": 134898,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134887,
+  "n_docs_with_text": 134898,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2083324192,
+  "dataset_size": 2083401474,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-20615aac",
-    "num": "dailymirrorlk-20615aac",
+    "doc_id": "2026-11-05-dailymirrorlk-506bc0ea",
+    "num": "dailymirrorlk-506bc0ea",
     "date_str": "2026-11-05",
-    "description": "President says proposed organised crime detention period to be reduced to 48 hours",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-says-proposed-organised-crime-detention-period-to-be-reduced-to-48-hours/108-354271",
+    "description": "Sri Lanka eyes comprehensive trade agreement with EU",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-comprehensive-trade-agreement-with-EU/108-354279",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793877888.0
+    "time_ut": 1793887385.0
   }
 }
