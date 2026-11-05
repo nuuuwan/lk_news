@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 11:58:04",
-  "n_docs": 134831,
+  "time_updated": "2026-11-05 13:56:23",
+  "n_docs": 134869,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134831,
+  "n_docs_with_text": 134869,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2082748522,
+  "dataset_size": 2082929186,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-16a8b978",
-    "num": "dailymirrorlk-16a8b978",
+    "doc_id": "2026-11-05-dailymirrorlk-1eb99c08",
+    "num": "dailymirrorlk-1eb99c08",
     "date_str": "2026-11-05",
-    "description": "Over half of Sri Lankans cannot independently use a computer",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-half-of-Sri-Lankans-cannot-independently-use-a-computer/108-354219",
+    "description": "Italian chef fired after refusing to put pineapple on pizza",
+    "url_metadata": "https://www.dailymirror.lk/international/Italian-chef-fired-after-refusing-to-put-pineapple-on-pizza/107-354238",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793859351.0
+    "time_ut": 1793866897.0
   }
 }

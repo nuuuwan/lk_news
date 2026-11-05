@@ -1,0 +1,21 @@
+MiHCM launches skills-based LMS, evolving Ziksa into personalised learning platform
+
+MiHCM has launched a new skills-based Learning Management System (LMS) that personalises learning for each employee while giving organisations stronger governance and clearer insight into learning effectiveness. The platform is now available to customers across all MiHCM regions.
+
+The launch marks the evolution of its former Ziksa learning platform into a more connected learning and development experience.
+
+A new onboarding journey captures each learner’s goals, preferences, strengths, interests, and preferred pace. Learning archetypesthen shape the experience, while a personalised dashboard recommends learning based on the learner’s strengths and future growth directions.
+
+“With the new MiHCM LMS, we are connecting learning to each employee’s goals, strengths, and career direction, while giving organisations the governance and insight to manage it at scale. The result is a learning experience that is simpler for employees, more manageable for organisations, and designed to become increasingly intelligent over time,” said MiHCM Group CEO Harsha Purasinghe.
+
+From their personalised dashboard, learners can browse the course catalogue, track their progress, and resume learning already underway. Video, audio, and text content are brought together in a unified course player. Learners can view transcripts and jump to the corresponding moment in video or audio.
+
+Assessments are built into the learning journey rather than sitting outside it. Supported question types are evaluated automatically, and configurable feedback and explanations help learners understand their results. Learners can access every certificate they have earned, and certificate verification details can be shared so that their achievements can be confirmed.
+
+A structured course builder guides creators through defining course information, modules, lessons, assessments, instructors, and completion requirements. Courses can remain as drafts before moving through controlled review and publishing workflows.
+
+Dashboards surface measures including course enrolment and completion, time to completion, engagement trends, and learner drop-off. Individual learner views show progress, completion status, scores, certificates, and learning history.
+
+The platform also introduces a skills-based foundation, connecting skills with courses, learning pathways, and learner profiles to support more relevant development opportunities.
+
+MiHCM has already moved its own workforce onto the new platform. “The best proof of a learning platform is using it to develop your own team and that experience has shaped what we are now bringing to our customers,” stressed Purasinghe.
