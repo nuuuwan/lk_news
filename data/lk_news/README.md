@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_09:55:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_11:58:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,831** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-051c37b7",
-    "num": "dailymirrorlk-051c37b7",
+    "doc_id": "2026-11-05-dailymirrorlk-16a8b978",
+    "num": "dailymirrorlk-16a8b978",
     "date_str": "2026-11-05",
-    "description": "Elon Musk\u2019s business empire braces for Democratic wave as Texas flips blue",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elon-Musks-business-empire-braces-for-Democratic-wave-as-Texas-flips-blue/108-354180",
+    "description": "Over half of Sri Lankans cannot independently use a computer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-half-of-Sri-Lankans-cannot-independently-use-a-computer/108-354219",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793846626.0
+    "time_ut": 1793859351.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-05 | `dailymirrorlk-16a8b978` | Over half of Sri Lankans cannot independently use a computer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-16a8b978)
+- 2026-11-05 | `dailymirrorlk-229c437f` | How did Govt pay Rs.101 m to private channel while suing Basil for similar offence ? MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-229c437f)
+- 2026-11-05 | `dailymirrorlk-67639048` | UL 503 incident triggers fresh measures against bird strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-67639048)
+- 2026-11-05 | `dailymirrorlk-3e1889f3` | Concession for home solar battery system from budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-3e1889f3)
+- 2026-11-05 | `dailymirrorlk-4b53e482` | Navy seizes trawler carrying narcotics worth over Rs. 4.2bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-4b53e482)
+- 2026-11-05 | `dailymirrorlk-b6f2c32b` | Democrats win control of the House of Representatives with a vow to combat Trump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-b6f2c32b)
+- 2026-11-05 | `dailymirrorlk-4257aa38` | NSO withdraws request for electricity tariff hike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-4257aa38)
 - 2026-11-05 | `dailymirrorlk-051c37b7` | Elon Musk’s business empire braces for Democratic wave as Texas flips blue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-051c37b7)
 - 2026-11-05 | `dailyftlk-457d2dc0` | Court to rule on Gota travel ban on 25 Nov. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-457d2dc0)
 - 2026-11-05 | `dailyftlk-e18bce99` | CHOGM 2026 opens with drive to unlock prosperity for Commonwealth’s 2.7 billion people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-e18bce99)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-05 | `dailyftlk-39ee5439` | Northern Exporters Forum 2027: Connecting local production with global markets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-39ee5439)
 - 2026-11-05 | `dailyftlk-bcb756e7` | Sri Lanka’s THC dispute: Regulating charges or regulating contracts? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-bcb756e7)
 - 2026-11-05 | `dailyftlk-9b5ba88f` | Sri Lanka’s Rs. 2.1 trillion tax arrears: Collect, resolve or remove | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-9b5ba88f)
-- 2026-11-05 | `dailyftlk-fbec5331` | Proletarian, virtuous Bonapartism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-fbec5331)
-- 2026-11-05 | `dailyftlk-6ddc0c53` | Tragedy of SLFP tradition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailyftlk-6ddc0c53)
-- 2026-11-04 | `dailymirrorlk-dc6e416c` | French blood banks hit alongside cyberattack on European supermarkets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-dc6e416c)
-- 2026-11-04 | `dailymirrorlk-53d3bf3d` | Kellogg’s admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-53d3bf3d)
-- 2026-11-04 | `dailymirrorlk-eff222d0` | Navy intercepts trawler suspected of smuggling narcotics in southern waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-eff222d0)
-- 2026-11-04 | `dailymirrorlk-fb489061` | We are now waiting to count how many lies the President tells in his third Budget – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-fb489061)
-- 2026-11-04 | `dailymirrorlk-cc12967b` | Harshitha takes charge as Pavan Rathnayake makes major ODI rankings leap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-04-dailymirrorlk-cc12967b)
 
 ---
 

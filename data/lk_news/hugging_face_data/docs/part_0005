@@ -97676,5 +97676,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793846626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-4257aa38",
+    "num": "dailymirrorlk-4257aa38",
+    "date_str": "2026-11-05",
+    "description": "NSO withdraws request for electricity tariff hike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NSO-withdraws-request-for-electricity-tariff-hike/108-354186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793856908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-b6f2c32b",
+    "num": "dailymirrorlk-b6f2c32b",
+    "date_str": "2026-11-05",
+    "description": "Democrats win control of the House of Representatives with a vow to combat Trump",
+    "url_metadata": "https://www.dailymirror.lk/international/Democrats-win-control-of-the-House-of-Representatives-with-a-vow-to-combat-Trump/107-354193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793857227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-4b53e482",
+    "num": "dailymirrorlk-4b53e482",
+    "date_str": "2026-11-05",
+    "description": "Navy seizes trawler carrying narcotics worth over Rs. 4.2bn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-trawler-carrying-narcotics-worth-over-Rs-4-2bn/108-354198",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793857546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-3e1889f3",
+    "num": "dailymirrorlk-3e1889f3",
+    "date_str": "2026-11-05",
+    "description": "Concession for home solar battery system from budget 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Concession-for-home-solar-battery-system-from-budget-2027/108-354203",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793857891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-67639048",
+    "num": "dailymirrorlk-67639048",
+    "date_str": "2026-11-05",
+    "description": "UL 503 incident triggers fresh measures against bird strikes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UL-503-incident-triggers-fresh-measures-against-bird-strikes/108-354211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793858458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-229c437f",
+    "num": "dailymirrorlk-229c437f",
+    "date_str": "2026-11-05",
+    "description": "How did Govt pay Rs.101 m to private channel while suing Basil for similar offence ? MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/How-did-Govt-pay-Rs-101-m-to-private-channel-while-suing-Basil-for-similar-offence-MP/108-354217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793859180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-16a8b978",
+    "num": "dailymirrorlk-16a8b978",
+    "date_str": "2026-11-05",
+    "description": "Over half of Sri Lankans cannot independently use a computer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-half-of-Sri-Lankans-cannot-independently-use-a-computer/108-354219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793859351.0
   }
 ]

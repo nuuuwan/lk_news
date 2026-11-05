@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 09:54:45",
-  "n_docs": 134824,
+  "time_updated": "2026-11-05 11:58:04",
+  "n_docs": 134831,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134824,
+  "n_docs_with_text": 134831,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2082710716,
+  "dataset_size": 2082748522,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-051c37b7",
-    "num": "dailymirrorlk-051c37b7",
+    "doc_id": "2026-11-05-dailymirrorlk-16a8b978",
+    "num": "dailymirrorlk-16a8b978",
     "date_str": "2026-11-05",
-    "description": "Elon Musk\u2019s business empire braces for Democratic wave as Texas flips blue",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elon-Musks-business-empire-braces-for-Democratic-wave-as-Texas-flips-blue/108-354180",
+    "description": "Over half of Sri Lankans cannot independently use a computer",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-half-of-Sri-Lankans-cannot-independently-use-a-computer/108-354219",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793846626.0
+    "time_ut": 1793859351.0
   }
 }
