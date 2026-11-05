@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 06:07:31",
-  "n_docs": 134815,
+  "time_updated": "2026-11-05 07:56:53",
+  "n_docs": 134823,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134815,
+  "n_docs_with_text": 134823,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2082472989,
+  "dataset_size": 2082647755,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailyftlk-44035c03",
-    "num": "dailyftlk-44035c03",
+    "doc_id": "2026-11-05-dailyftlk-457d2dc0",
+    "num": "dailyftlk-457d2dc0",
     "date_str": "2026-11-05",
-    "description": "Sri Lanka FinTech Festival 2026 signals startup capital, virtual asset regulation and digital expansion",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-FinTech-Festival-2026-signals-startup-capital-virtual-asset-regulation-and-digital-expansion/34-799651",
+    "description": "Court to rule on Gota travel ban on 25 Nov.",
+    "url_metadata": "https://www.ft.lk/news/Court-to-rule-on-Gota-travel-ban-on-25-Nov/56-799676",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1793838200.0
+    "time_ut": 1793842244.0
   }
 }
