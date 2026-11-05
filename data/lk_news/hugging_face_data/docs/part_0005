@@ -98490,5 +98490,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793887385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-0516fe5e",
+    "num": "dailymirrorlk-0516fe5e",
+    "date_str": "2026-11-05",
+    "description": "Musk has little to show for his record spending on Republican campaigns in US midterms",
+    "url_metadata": "https://www.dailymirror.lk/international/Musk-has-little-to-show-for-his-record-spending-on-Republican-campaigns-in-US-midterms/107-354280",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793887871.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-ef2015b3",
+    "num": "dailymirrorlk-ef2015b3",
+    "date_str": "2026-11-05",
+    "description": "New wave of bomb threats hits at least 25 passenger flights across Europe",
+    "url_metadata": "https://www.dailymirror.lk/international/New-wave-of-bomb-threats-hits-at-least-25-passenger-flights-across-Europe/107-354281",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793888078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-8ee6056a",
+    "num": "dailymirrorlk-8ee6056a",
+    "date_str": "2026-11-05",
+    "description": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+    "url_metadata": "https://www.dailymirror.lk/international/Comedian-Russell-Brand-found-guilty-by-UK-court-of-rape-and-sexual-assaults/107-354282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793890627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-af214960",
+    "num": "dailymirrorlk-af214960",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka wins Luxury Food Destination award in UK",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-wins-Luxury-Food-Destination-award-in-UK/108-354283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793891001.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-47d4e042",
+    "num": "dailymirrorlk-47d4e042",
+    "date_str": "2026-11-05",
+    "description": "Drug-related arrests among children raise alarm as under-18 arrests reach 1,874",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-related-arrests-among-children-raise-alarm-as-under-18-arrests-reach-1-874/108-354284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793891467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-d7f9862f",
+    "num": "dailymirrorlk-d7f9862f",
+    "date_str": "2026-11-05",
+    "description": "Pregnant women beyond 36 weeks from Jaffna\u2019s islands advised to stay in urban areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pregnant-women-beyond-36-weeks-from-Jaffnas-islands-advised-to-stay-in-urban-areas/108-354286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793893164.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-c03d4c1c",
+    "num": "dailymirrorlk-c03d4c1c",
+    "date_str": "2026-11-05",
+    "description": "Rs. 2.2 bn. hydropower cost missing from coal loss calculation: Ranawaka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-2-2-bn-hydropower-cost-missing-from-coal-loss-calculation-Ranawaka/108-354287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793893296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-bba4a253",
+    "num": "dailymirrorlk-bba4a253",
+    "date_str": "2026-11-05",
+    "description": "Putin not invited to G20 summit in Manchester, says Burnham",
+    "url_metadata": "https://www.dailymirror.lk/international/Putin-not-invited-to-G20-summit-in-Manchester-says-Burnham/107-354288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793893417.0
   }
 ]
