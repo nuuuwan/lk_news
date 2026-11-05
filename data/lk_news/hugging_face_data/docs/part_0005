@@ -98171,5 +98171,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793866897.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-71126b86",
+    "num": "dailymirrorlk-71126b86",
+    "date_str": "2026-11-05",
+    "description": "Three arrested with firearms, hunting gear in \u2018Operation Hasthi Sena\u2019 raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-arrested-with-firearms-hunting-gear-in-Operation-Hasthi-Sena-raid/108-354239",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793867125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-1aa89c88",
+    "num": "dailymirrorlk-1aa89c88",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka to procure four advanced drones from Israel for Air Force",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-procure-four-advanced-drones-from-Israel-for-Air-Force/108-354242",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793867418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-bb43cdf5",
+    "num": "dailymirrorlk-bb43cdf5",
+    "date_str": "2026-11-05",
+    "description": "Police tear gas stocks expired as they remain unused: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-tear-gas-stocks-expired-as-they-remain-unused-Minister/108-354244",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793867628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-d2f313a2",
+    "num": "dailymirrorlk-d2f313a2",
+    "date_str": "2026-11-05",
+    "description": "289 elephants die in Sri Lanka in 10 months; cause of 95 deaths unidentified",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/289-elephants-die-in-Sri-Lanka-in-10-months-cause-of-95-deaths-unidentified/108-354249",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793869828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-daf71f99",
+    "num": "dailymirrorlk-daf71f99",
+    "date_str": "2026-11-05",
+    "description": "Cancer radiation machine tender faces conflict of interest allegations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-radiation-machine-tender-faces-conflict-of-interest-allegations/108-354250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793869930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-5a41b6da",
+    "num": "dailymirrorlk-5a41b6da",
+    "date_str": "2026-11-05",
+    "description": "Why oil prices plunged 8%: US midterm setback fuels bets on Trump ending Iran war",
+    "url_metadata": "https://www.dailymirror.lk/international/Why-oil-prices-plunged-8-US-midterm-setback-fuels-bets-on-Trump-ending-Iran-war/107-354251",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793870106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-b1043021",
+    "num": "dailymirrorlk-b1043021",
+    "date_str": "2026-11-05",
+    "description": "Burning plastic with firewood releases harmful chemicals, warns NCCP chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Burning-plastic-with-firewood-releases-harmful-chemicals-warns-NCCP-chief/108-354256",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793872501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-01b88d2b",
+    "num": "dailymirrorlk-01b88d2b",
+    "date_str": "2026-11-05",
+    "description": "Prominent German politician found dead in Berlin hotel room hours before speech",
+    "url_metadata": "https://www.dailymirror.lk/international/Prominent-German-politician-found-dead-in-Berlin-hotel-room-hours-before-speech/107-354257",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793872850.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-bb7fb8f4",
+    "num": "dailymirrorlk-bb7fb8f4",
+    "date_str": "2026-11-05",
+    "description": "Court orders police not to arrest suspect pending AG\u2019s instructions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-police-not-to-arrest-suspect-pending-AGs-instructions/108-354258",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793873190.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 13:56:23",
-  "n_docs": 134869,
+  "time_updated": "2026-11-05 15:53:52",
+  "n_docs": 134878,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134869,
+  "n_docs_with_text": 134878,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-05",
-  "dataset_size": 2082929186,
+  "dataset_size": 2083243883,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-1eb99c08",
-    "num": "dailymirrorlk-1eb99c08",
+    "doc_id": "2026-11-05-dailymirrorlk-bb7fb8f4",
+    "num": "dailymirrorlk-bb7fb8f4",
     "date_str": "2026-11-05",
-    "description": "Italian chef fired after refusing to put pineapple on pizza",
-    "url_metadata": "https://www.dailymirror.lk/international/Italian-chef-fired-after-refusing-to-put-pineapple-on-pizza/107-354238",
+    "description": "Court orders police not to arrest suspect pending AG\u2019s instructions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-police-not-to-arrest-suspect-pending-AGs-instructions/108-354258",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793866897.0
+    "time_ut": 1793873190.0
   }
 }

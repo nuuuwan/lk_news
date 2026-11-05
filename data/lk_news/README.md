@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_13:57:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_15:54:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,869** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,878** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-05-dailymirrorlk-1eb99c08",
-    "num": "dailymirrorlk-1eb99c08",
+    "doc_id": "2026-11-05-dailymirrorlk-bb7fb8f4",
+    "num": "dailymirrorlk-bb7fb8f4",
     "date_str": "2026-11-05",
-    "description": "Italian chef fired after refusing to put pineapple on pizza",
-    "url_metadata": "https://www.dailymirror.lk/international/Italian-chef-fired-after-refusing-to-put-pineapple-on-pizza/107-354238",
+    "description": "Court orders police not to arrest suspect pending AG\u2019s instructions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-police-not-to-arrest-suspect-pending-AGs-instructions/108-354258",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793866897.0
+    "time_ut": 1793873190.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-05 | `dailymirrorlk-bb7fb8f4` | Court orders police not to arrest suspect pending AG’s instructions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-bb7fb8f4)
+- 2026-11-05 | `dailymirrorlk-01b88d2b` | Prominent German politician found dead in Berlin hotel room hours before speech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-01b88d2b)
+- 2026-11-05 | `dailymirrorlk-b1043021` | Burning plastic with firewood releases harmful chemicals, warns NCCP chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-b1043021)
+- 2026-11-05 | `dailymirrorlk-5a41b6da` | Why oil prices plunged 8%: US midterm setback fuels bets on Trump ending Iran war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-5a41b6da)
+- 2026-11-05 | `dailymirrorlk-daf71f99` | Cancer radiation machine tender faces conflict of interest allegations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-daf71f99)
+- 2026-11-05 | `dailymirrorlk-d2f313a2` | 289 elephants die in Sri Lanka in 10 months; cause of 95 deaths unidentified | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-d2f313a2)
+- 2026-11-05 | `dailymirrorlk-bb43cdf5` | Police tear gas stocks expired as they remain unused: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-bb43cdf5)
+- 2026-11-05 | `dailymirrorlk-1aa89c88` | Sri Lanka to procure four advanced drones from Israel for Air Force | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-1aa89c88)
+- 2026-11-05 | `dailymirrorlk-71126b86` | Three arrested with firearms, hunting gear in ‘Operation Hasthi Sena’ raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-71126b86)
 - 2026-11-05 | `dailymirrorlk-1eb99c08` | Italian chef fired after refusing to put pineapple on pizza | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-1eb99c08)
 - 2026-11-05 | `dailymirrorlk-c919598c` | Namal accuses government of failing to remove VAT on school supplies, healthcare | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-c919598c)
 - 2026-11-05 | `dailymirrorlk-3f282827` | Two German tourists, local guide arrested over alleged wildlife smuggling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-3f282827)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-11-05 | `dailymirrorlk-6873ab2d` | Woman hacked to death, man found hanging behind house in Pussellawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-6873ab2d)
 - 2026-11-05 | `dailymirrorlk-4bb713b9` | Organised Crimes Bill erodes judicial powers - Romesh de Silva PC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-4bb713b9)
 - 2026-11-05 | `dailymirrorlk-1f34cb56` | UN reports no accountability in 90% of journalist deaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-1f34cb56)
-- 2026-11-05 | `dailymirrorlk-16a8b978` | Over half of Sri Lankans cannot independently use a computer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-16a8b978)
-- 2026-11-05 | `dailymirrorlk-8910c136` | From discovery to the patient Role of a Pharmacist in the journey of a medicine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-8910c136)
-- 2026-11-05 | `dailymirrorlk-229c437f` | How did Govt pay Rs.101 m to private channel while suing Basil for similar offence ? MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-229c437f)
-- 2026-11-05 | `dailymirrorlk-8c60b220` | UNP-SJB coalition efforts – going nowhere? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-8c60b220)
-- 2026-11-05 | `dailymirrorlk-60c7bde0` | ECT delay - a textbook case of stranded capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-60c7bde0)
-- 2026-11-05 | `dailymirrorlk-6f613c90` | US Midterm Polls: From historic firsts to meaningful governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-6f613c90)
-- 2026-11-05 | `dailymirrorlk-67639048` | UL 503 incident triggers fresh measures against bird strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-67639048)
-- 2026-11-05 | `dailymirrorlk-baf31530` | IMF flags unequal liquor taxes as local duties nearly double while import excise stays frozen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-baf31530)
-- 2026-11-05 | `dailymirrorlk-3470771f` | Liquor excise jumps 27% to Rs.137.5bn in 1H as production rises 13% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-3470771f)
 
 ---
 
