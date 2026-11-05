@@ -97511,5 +97511,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793807688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-6ddc0c53",
+    "num": "dailyftlk-6ddc0c53",
+    "date_str": "2026-11-05",
+    "description": "Tragedy of SLFP tradition",
+    "url_metadata": "https://www.ft.lk/columns/Tragedy-of-SLFP-tradition/4-799645",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793835736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-fbec5331",
+    "num": "dailyftlk-fbec5331",
+    "date_str": "2026-11-05",
+    "description": "Proletarian, virtuous Bonapartism",
+    "url_metadata": "https://www.ft.lk/columns/Proletarian-virtuous-Bonapartism/4-799647",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793836580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-9b5ba88f",
+    "num": "dailyftlk-9b5ba88f",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka\u2019s Rs. 2.1 trillion tax arrears: Collect, resolve or remove",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-Rs-2-1-trillion-tax-arrears-Collect-resolve-or-remove/4-799648",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793836859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-bcb756e7",
+    "num": "dailyftlk-bcb756e7",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka\u2019s THC dispute: Regulating charges or regulating contracts?",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-THC-dispute-Regulating-charges-or-regulating-contracts/14-799649",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793837538.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-39ee5439",
+    "num": "dailyftlk-39ee5439",
+    "date_str": "2026-11-05",
+    "description": "Northern Exporters Forum 2027: Connecting local production with global markets",
+    "url_metadata": "https://www.ft.lk/business/Northern-Exporters-Forum-2027-Connecting-local-production-with-global-markets/34-799650",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793838051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailyftlk-44035c03",
+    "num": "dailyftlk-44035c03",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka FinTech Festival 2026 signals startup capital, virtual asset regulation and digital expansion",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-FinTech-Festival-2026-signals-startup-capital-virtual-asset-regulation-and-digital-expansion/34-799651",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793838200.0
   }
 ]

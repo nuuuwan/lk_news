@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-05 03:52:58",
-  "n_docs": 134809,
+  "time_updated": "2026-11-05 06:07:31",
+  "n_docs": 134815,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134809,
+  "n_docs_with_text": 134815,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-04",
-  "dataset_size": 2082406083,
+  "date_str_max": "2026-11-05",
+  "dataset_size": 2082472989,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-04-dailymirrorlk-dc6e416c",
-    "num": "dailymirrorlk-dc6e416c",
-    "date_str": "2026-11-04",
-    "description": "French blood banks hit alongside cyberattack on European supermarkets",
-    "url_metadata": "https://www.dailymirror.lk/international/French-blood-banks-hit-alongside-cyberattack-on-European-supermarkets/107-354178",
+    "doc_id": "2026-11-05-dailyftlk-44035c03",
+    "num": "dailyftlk-44035c03",
+    "date_str": "2026-11-05",
+    "description": "Sri Lanka FinTech Festival 2026 signals startup capital, virtual asset regulation and digital expansion",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-FinTech-Festival-2026-signals-startup-capital-virtual-asset-regulation-and-digital-expansion/34-799651",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793807688.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1793838200.0
   }
 }

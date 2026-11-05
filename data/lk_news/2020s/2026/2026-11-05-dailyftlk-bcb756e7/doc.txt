@@ -1,0 +1,85 @@
+Sri Lanka’s THC dispute: Regulating charges or regulating contracts?
+
+A transparent charging framework should protect cargo owners without weakening Colombo’s shipping connectivity
+
+Sri Lanka’s recurring dispute over terminal handling charges (THC) has again set maritime service providers against the trading community, and each side claims to speak for the national interest. The Sri Lanka Association of NVOCC Agents (SLANA) told its 9th AGM that THC is treated as a separate land-based cost in international markets and asked the Government to expedite a committee on the issue (Daily FT, 14 September 2026). The National Chamber of Exporters (NCE) has urged that Gazette No. 2334/26 be retained, warning that a separate THC would reopen the fragmented system of “nearly 50” charges that existed before 2013 (Hiru News, 16 October 2026). The Ceylon Freight & Logistics Association (CEYFFA) has since said at a press conference that Sri Lanka “could be losing” more than $ 50 million a year in foreign exchange under the current framework (press report, 31 October 2026).
+
+The task for Government is not to choose between shipping lines and cargo owners. It is to distinguish legitimate cost recovery from uncontracted charging, and commercial freedom from regulatory privilege.
+
+The service providers’ case deserves a hearing. Shipping lines, NVOCCs, consolidators and feeder operators argue that terminal handling is a land-side cost, distinct from sea carriage, and that in many markets it is quoted and invoiced separately. They point to rising terminal costs, the expense of repositioning empty containers and the thin margins of NVOCC and LCL operators. CEYFFA adds a foreign-exchange argument: that dollar payments abroad and dollar billing by terminals strain local logistics firms and the country’s reserves.
+
+The trading community’s case is equally legitimate. Exporters, importers and the Shippers’ Council do not dispute that port handling has a cost. They fear that intermediaries could invoice a charge to a cargo owner who never negotiated it, which is particularly harmful to SMEs with little bargaining power. The Sri Lanka Apparel Exporters’ Association made the same point when it warned in July 2025 against reintroducing THC not found in SLPA’s approved tariff.
+
+The two arguments answer different questions. The first asks whether the cost can be recovered at all. The second asks from whom it may be recovered, and with what disclosure. A rise in operating cost shows that a cost exists. It does not show that the cost must be billed separately to a Sri Lankan importer or exporter. Separating the questions makes the dispute far easier to resolve.
+
+The all-inclusive freight regime began with Gazette Extraordinary No. 1842/16 of 27 December 2013, effective 6 January 2014, and was developed through Gazette No. 2041/10 of 17 October 2017. The 2022 amendments under Gazette No. 2302/24 proved controversial, and Gazette No. 2321/62 rescinded the 2017 regulations and the 2022 amendment in March 2023. The Minister then issued Gazette Extraordinary No. 2334/26 on 31 May 2023, under section 10 of the Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators Act, No. 10 of 1972. Its key provisions are these:
+
+Regulation 3: charges covering carriage “from the origin to destination” are included in the all-inclusive freight and recovered “only from the party who is contractually bound to pay” it.
+
+Regulation 11: “all inclusive freight” includes full-container-load charges, terminal handling charges, bill of lading or forwarder’s cargo receipt charges and, where applicable, less-than-container-load charges. “Origin to destination” means carriage between container yard and container yard, container freight station and container freight station, or one to the other.
+
+Regulations 5 and 7: no charge other than the all-inclusive freight may be made to importers or exporters, save a delivery order fee for importers, payable in Sri Lankan rupees.
+
+The Gazette does not abolish THC as an economic cost. It regulates how that cost is recovered and identifies the party contractually liable for it. A service provider remains free to negotiate the total freight price. The primary question is therefore whether a charge forms part of the agreed carriage contract, not whether its cost arose at sea or on land.
+
+Two layers of rules decide who pays. The first is the sale contract. Incoterms 2020, published by the International Chamber of Commerce, decide which of buyer or seller must arrange and pay for carriage: under FOB the buyer, under CIF the seller. They are contractual terms and do not govern the contract of carriage itself (Maersk summary of Incoterms 2020). The second layer is the contract of carriage. The party that contracts with the line or NVOCC pays the freight, and in Sri Lanka the Gazette requires that freight to be all-inclusive and recoverable only from that party.
+
+THC is the terminal’s charge for physically handling the container: at origin, gate-in, yard move and loading onto the vessel; at destination, discharge, yard move and gate-out. In common practice it is “levied by the terminal, invoiced by the ocean carrier to the paying party” (GoFreight glossary). At Colombo, therefore, the handling element of the freight finishes with the terminal operator, paid by the carrier or its agent. SLPA announced in April 2022 that from 1 June 2022 it would collect navigation, stevedoring and terminal income from shipping lines in US dollars (Daily Mirror, 27 April 2022; the report cites no legal instrument).
+
+One area needs care. Under FCA, commonly cited practice places origin handling on the seller as part of delivering the goods on board. For a Sri Lankan exporter selling FCA, the foreign buyer is the carriage contracting party, so on my reading of Regulations 3 and 7 a licensed provider may not invoice the exporter anything beyond the all-inclusive freight. The Gazette therefore governs whom a licensed provider may invoice. It does not stop buyer and seller from agreeing between themselves how the cost is shared. DGMS should confirm this reading in writing, because exporters and providers currently argue past each other on exactly this point.
+
+Port-to-port freight is more than the vessel. Basic ocean freight “covers the basic cost of transporting a container … from origin to destination”, derived from vessel cost, voyage distance and fixed costs, with fuel risk passed through a bunker adjustment factor and currency risk through a currency adjustment factor (Marine Insight). Behind every loaded box lies an empty one. Trade imbalances leave surplus empties in some places and shortages in others, and lines reposition them. Lines “typically absorb direct repositioning expenses as operational costs” and recover them “indirectly” through freight rates and surcharges (Docshipper).
+
+The regulated scope is container yard to container yard. Inland haulage, including empty pick-up from the depot and return, depends on whether the carrier or the merchant arranges it (Hapag-Lloyd). It falls outside the carriage described in Regulation 11 unless the carrier is separately hired for it. Demurrage and detention beyond free time are also billed separately.
+
+This explains why a label proves little. An illustrative quote of $ 500 ocean freight plus $ 150 in terminal charges is not inherently cheaper or dearer than an all-inclusive $650. The distinction matters only when a charge is added after the freight contract is concluded, or when the structure stops customers comparing quotations.
+
+5. The feeder layer: SOC containers, FIFO and direct billing
+
+Colombo is mainly a transhipment hub: about 80 per cent of its January to October 2025 volume was transhipment (Maritime Gateway). Regional feeders connect it to neighbouring ports and carry many NVOCC and shipper-owned containers (SOC). Freight terms in that trade vary. Under Free In/Free Out (FIFO) terms, loading and discharging handling charges are not included in the rate; under Liner In/Liner Out (LILO) they are (SeaRates glossary). The terms show there is no single universal way of quoting terminal handling.
+
+Reports from 2022 show how this works in Colombo. For over 25 years, feeder operators paid port handling and terminal handling charges to the terminals on NVOCCs’ behalf and were reimbursed (Daily FT, 12 February 2022). Feeders then required NVOCC agents to obtain direct billing facilities with the three terminals, a requirement that arose from a dispute that reached ministerial level (Daily FT, 20 June 2022). The terminals reportedly wanted a separate US dollar bank guarantee for each principal at each terminal (Logistics.lk, 29 December 2022). NVOCC lines were reported to carry about 23 per cent of Sri Lanka’s containerised import and export volume in 2021, which is why the arrangement matters to trade.
+
+The key point is the one Figure 3 makes: the same terminal cost can sit inside two different contracts. Between an NVOCC and a feeder, both are commercial parties and the freight term allocates the handling cost. Between an importer or exporter and a line or NVOCC, the Gazette requires one all-inclusive freight recoverable only from the party contractually bound. Treating the two as identical would be wrong in either direction.
+
+The Gazette’s treatment of business-to-business feeder and SOC contracts needs clarification. Regulation 3 is broadly drafted, while Regulation 11 defines the regulated carriage by container yard and freight station movements. As I read it, there is no express carve-out for feeder-to-SOC FIFO contracts, so it would be premature to say that every separate port handling invoice between a feeder and an SOC operator is exempt. DGMS should state how the Gazette applies to those contracts without weakening protection against uncontracted charges on importers and exporters.
+
+The industry is right that many lines list origin and destination THC as separate items. THC commonly appears as a separate line on quotes and invoices, and the Incoterm decides which party bears it. But the same sources note exceptions: under CFR and CIF, origin THC is included in the seller’s freight rate, and some door-to-door quotes bundle THC into a single price (GoFreight). There is therefore no universal international rule that THC must be separately invoiced, and no universal rule that it must be bundled. Colombo should be compared with competing ports on the total landed cost of moving a container, enforceable contractual terms and predictability of charges, not on the label attached to a fee.
+
+The CEYFFA figure is reported as “could be losing” more than $ 50 million a year. The report prints no calculation, period, container volumes or transaction data. Four points frame it. First, Figure 1 shows that the handling element of the freight ends with Sri Lankan terminal operators, which SLPA reportedly collects in dollars from shipping lines. What the carrier keeps is the ocean-freight element, earned abroad in every international shipment. Second, a complaint that terminals bill local firms in dollars concerns the currency of billing, a separate question that the all-inclusive freight rule does not address; Gazette 2334/26 names no terminal operators and its only currency provision is the rupee delivery order fee. Third, scale: Central Bank data reported by Maritime Gateway show about 1.10 million domestic TEU in January to October 2025, so $ 50 million spread across that volume is roughly $ 38 to $ 45 per TEU. That is a plausible order of magnitude, but a total divided by a volume is not a loss. Fourth, genuine leakage, when investigated, is quantified in accounts and transfers: Parliament was told in July 2026 of about $ 715 million remitted overseas through 105 shell companies and some 24,300 transfers (Daily FT). The claimants should publish their workings so regulators can reconcile them.
+
+The debate is usually framed as service providers wanting freedom against exporters wanting protection. A better question is whether a proposed arrangement promotes or restricts competition. Would separate THC help NVOCCs and feeders offer competitive services and let cargo owners negotiate a lower overall price? Or would it let intermediaries impose non-negotiated charges on captive consignees? The terminal side raises the same test. NVOCC agents say the 2022 terminal conditions, including a dollar guarantee per principal per terminal and insurance comparable to a vessel operator’s, are harder than conditions at regional ports (the NVOCC side’s account, not independently verified). Competition policy should prevent exploitation of contractual dependence without restricting legitimate price negotiation, on both the cargo side and the terminal side.
+
+The Government should avoid blanket rescission of Gazette No. 2334/26 and instead:
+
+1. Review before reform. Have DGMS review the charging arrangements with shipping agents, vessel operators, NVOCCs, consolidators, feeders, SLPA, the terminal operators, exporters and importers, using anonymised freight contracts, port invoices and comparable regional tariffs.
+
+2. Publish a charge map. For each shipment type (import FCL, export FCL, LCL, feeder or SOC), set out in one page the contracting party, who invoices whom, in which currency and on what legal basis.
+
+3. Clarify the feeder and SOC position under Regulations 3 and 11, preserving the prohibition on uncontracted charges to importers and exporters.
+
+4. Settle the evidence on foreign exchange. Ask CEYFFA for its workings, and have the Central Bank, SLPA, Customs and DGMS reconcile them and publish the result.
+
+5. Review terminal billing conditions for NVOCC and feeder cargo, including direct billing and guarantee requirements, from a competition standpoint.
+
+6. Require any amendment to be precise. It should define its scope and safeguards, rest on the proper statutory authority and procedure, follow stakeholder consultation, and avoid creating a general right to recover charges from cargo owners merely because a provider can point to an underlying cost.
+
+The THC dispute is not about whether port handling has a cost. It does. Nor is it only about whether the cost is collected locally or folded into ocean freight. The questions that matter are who contracted for the service, who is legally liable for the cost, whether the charge was transparently disclosed and whether its collection complies with the law. Sri Lanka needs a framework that protects traders against uncontracted charges while letting providers recover legitimate costs from parties that have lawfully agreed to bear them.
+
+Colombo’s competitiveness will not be decided by whether a charge is called THC, PHC or all-inclusive ocean freight. It will be decided by the total cost of moving cargo, the predictability of commercial obligations and the integrity of the regulatory framework.
+
+Daily FT, SLANA calls for urgent fix to Colombo terminal charges (14 September 2026)
+
+Hiru News, NCE calls for all-inclusive freight framework to be upheld (16 October 2026)
+
+Daily FT, Apparel exporters warn against unregulated terminal handling charges (12 July 2025)
+
+Daily Mirror, SLPA to collect all payments from shipping lines in US dollars (27 April 2022)
+
+Daily FT via Lanka News Web, feeder operators and NVOCC direct billing (12 February 2022)
+
+Daily FT, Looming problems at Port of Colombo for NVOCC lines (20 June 2022)
+
+Logistics.lk, NVOCC shipping lines see bleak future at Port of Colombo (29 December 2022)
+
+Daily FT, criminal sanctions for FX violations (24 July 2026)
