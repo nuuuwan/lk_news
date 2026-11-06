@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_07:57:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_09:56:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,925** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,929** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailyftlk-ec0d3320",
-    "num": "dailyftlk-ec0d3320",
+    "doc_id": "2026-11-06-dailymirrorlk-d2f9358e",
+    "num": "dailymirrorlk-d2f9358e",
     "date_str": "2026-11-06",
-    "description": "JAT Holdings ups revenue by 36% to Rs. 7 b in 1H led by foreign operations",
-    "url_metadata": "https://www.ft.lk/business/JAT-Holdings-ups-revenue-by-36-to-Rs-7-b-in-1H-led-by-foreign-operations/34-799706",
+    "description": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paraguay-President-Santiago-Pe\u00f1a-resigns-after-bank-collapse/108-354300",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793931625.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793937329.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `dailymirrorlk-d2f9358e` | Paraguay President Santiago Peña resigns after bank collapse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-d2f9358e)
+- 2026-11-06 | `dailymirrorlk-fc3cfaeb` | Four UAVs to be procured from Israel aerospace Industries- Dy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-fc3cfaeb)
+- 2026-11-06 | `dailymirrorlk-926c3110` | Protest against PTA, proposed anti terrorism and organised crime Laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-926c3110)
+- 2026-11-06 | `dailymirrorlk-7dbd773a` | Two excise officials arrested in bribery probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-7dbd773a)
 - 2026-11-06 | `dailyftlk-ec0d3320` | JAT Holdings ups revenue by 36% to Rs. 7 b in 1H led by foreign operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-ec0d3320)
 - 2026-11-06 | `dailyftlk-f5a7b17d` | Sri Lanka’s CH17 takes proprietary SaaS technology beyond borders with Nepal expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-f5a7b17d)
 - 2026-11-06 | `dailyftlk-b28445eb` | Connect to Care strengthens platform for regional philanthropic partnerships and Global South impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-b28445eb)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-06 | `dailyftlk-ead76d41` | Air Force to acquire four Israeli drones for Rs. 4.2 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-ead76d41)
 - 2026-11-06 | `dailyftlk-4e2eb9a9` | Dialog Completes Restoration at Divisional Hospital, Kothmale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-4e2eb9a9)
 - 2026-11-06 | `dailyftlk-c49e9b4c` | President warns of ‘shadow State’ as narcotic seizures reach Rs. 224 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-c49e9b4c)
-- 2026-11-06 | `dailyftlk-5889a0d2` | Nuwara Eliya historic post office to be developed as tourism promotion centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-5889a0d2)
-- 2026-11-06 | `dailyftlk-94850a9e` | Two suspects further remanded over Rs. 190 b illegal fund transfers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-94850a9e)
-- 2026-11-06 | `dailyftlk-2b7cb1df` | Sri Lanka’s High Commissioner-designate to Kenya Dhammika Fernando assumes duties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-2b7cb1df)
-- 2026-11-05 | `dailymirrorlk-bba4a253` | Putin not invited to G20 summit in Manchester, says Burnham | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-05-dailymirrorlk-bba4a253)
 
 ---
 

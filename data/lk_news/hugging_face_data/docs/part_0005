@@ -98787,5 +98787,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793931625.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-7dbd773a",
+    "num": "dailymirrorlk-7dbd773a",
+    "date_str": "2026-11-06",
+    "description": "Two excise officials arrested in bribery probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-excise-officials-arrested-in-bribery-probe/108-354297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793935457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-926c3110",
+    "num": "dailymirrorlk-926c3110",
+    "date_str": "2026-11-06",
+    "description": "Protest against PTA, proposed anti terrorism and organised crime Laws",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Protest-against-PTA-proposed-anti-terrorism-and-organised-crime-Laws/108-354298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793936910.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-fc3cfaeb",
+    "num": "dailymirrorlk-fc3cfaeb",
+    "date_str": "2026-11-06",
+    "description": "Four UAVs to be procured from Israel aerospace Industries- Dy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-UAVs-to-be-procured-from-Israel-aerospace-Industries-Dy-Minister/108-354299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793937107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-d2f9358e",
+    "num": "dailymirrorlk-d2f9358e",
+    "date_str": "2026-11-06",
+    "description": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paraguay-President-Santiago-Pe\u00f1a-resigns-after-bank-collapse/108-354300",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793937329.0
   }
 ]
