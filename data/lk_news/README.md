@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_09:56:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_12:00:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,929** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,938** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-d2f9358e",
-    "num": "dailymirrorlk-d2f9358e",
+    "doc_id": "2026-11-06-dailymirrorlk-5611d7ad",
+    "num": "dailymirrorlk-5611d7ad",
     "date_str": "2026-11-06",
-    "description": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paraguay-President-Santiago-Pe\u00f1a-resigns-after-bank-collapse/108-354300",
+    "description": "Minister questions PUCSL public hearing despite no tariff hike proposal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-questions-PUCSL-public-hearing-despite-no-tariff-hike-proposal/108-354311",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793937329.0
+    "time_ut": 1793944101.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `dailymirrorlk-5611d7ad` | Minister questions PUCSL public hearing despite no tariff hike proposal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-5611d7ad)
+- 2026-11-06 | `dailymirrorlk-af02bc61` | Raid Amazones returns to Sri Lanka after two-year break | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-af02bc61)
+- 2026-11-06 | `dailymirrorlk-1bb27cea` | Namal Rajapaksa produced before Colombo Magistrate’s Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-1bb27cea)
+- 2026-11-06 | `dailymirrorlk-e186672e` | Fuel prices remain below cost-recovery levels despite November hikes – Verité Research | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-e186672e)
+- 2026-11-06 | `dailymirrorlk-05bce27b` | Compensation for hit-and-run victims doubled to Rs. 500,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-05bce27b)
+- 2026-11-06 | `dailymirrorlk-947f3b69` | Customers can now check transformer capacity for rooftop solar online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-947f3b69)
+- 2026-11-06 | `dailymirrorlk-139d84c4` | ‘Kaiwaru Muthu’ taken into CID custody following deportation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-139d84c4)
 - 2026-11-06 | `dailymirrorlk-d2f9358e` | Paraguay President Santiago Peña resigns after bank collapse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-d2f9358e)
 - 2026-11-06 | `dailymirrorlk-fc3cfaeb` | Four UAVs to be procured from Israel aerospace Industries- Dy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-fc3cfaeb)
 - 2026-11-06 | `dailymirrorlk-926c3110` | Protest against PTA, proposed anti terrorism and organised crime Laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-926c3110)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-06 | `dailyftlk-abc2df98` | Audits, research, and economic progress – Our audited nemesis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-abc2df98)
 - 2026-11-06 | `dailyftlk-7a09b8d0` | Why should people have to adapt to technology? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-7a09b8d0)
 - 2026-11-06 | `dailyftlk-4b8940e0` | 2027 Budget should strengthen external sector capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-4b8940e0)
-- 2026-11-06 | `dailyftlk-bff712a5` | The capital order and the political economy of PSTA and POCA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-bff712a5)
-- 2026-11-06 | `dailyftlk-0d8ad565` | 2027 Budget: From economic recovery to prosperity – what the nation should expect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-0d8ad565)
-- 2026-11-06 | `dailyftlk-bab74259` | Rasamanickam questions rooftop solar restrictions as Govt. targets 1,392 MW renewable capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-bab74259)
-- 2026-11-06 | `dailyftlk-a681aee5` | 4Q electricity tariff increase not needed: NSO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-a681aee5)
-- 2026-11-06 | `dailyftlk-ead76d41` | Air Force to acquire four Israeli drones for Rs. 4.2 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-ead76d41)
-- 2026-11-06 | `dailyftlk-4e2eb9a9` | Dialog Completes Restoration at Divisional Hospital, Kothmale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-4e2eb9a9)
-- 2026-11-06 | `dailyftlk-c49e9b4c` | President warns of ‘shadow State’ as narcotic seizures reach Rs. 224 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-c49e9b4c)
 
 ---
 

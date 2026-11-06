@@ -97118,6 +97118,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-04-dailymirrorlk-bf01f6be",
+    "num": "dailymirrorlk-bf01f6be",
+    "date_str": "2026-11-04",
+    "description": "\u201cCoexistence is the only way forward than control\u201d \u2013  Dr. Ruchira Somaweera",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Coexistence-is-the-only-way-forward-than-control-Dr-Ruchira-Somaweera/131-354132",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793776093.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-04-dailymirrorlk-540350af",
     "num": "dailymirrorlk-540350af",
     "date_str": "2026-11-04",
@@ -98042,6 +98053,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-05-dailymirrorlk-f655ce52",
+    "num": "dailymirrorlk-f655ce52",
+    "date_str": "2026-11-05",
+    "description": "From discovery to the patient, role of a Pharmacist in the journey of a medicine",
+    "url_metadata": "https://www.dailymirror.lk/opinion/From-discovery-to-the-patient-role-of-a-Pharmacist-in-the-journey-of-a-medicine/172-354218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793859322.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-05-dailymirrorlk-16a8b978",
     "num": "dailymirrorlk-16a8b978",
     "date_str": "2026-11-05",
@@ -98831,5 +98853,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793937329.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-139d84c4",
+    "num": "dailymirrorlk-139d84c4",
+    "date_str": "2026-11-06",
+    "description": "\u2018Kaiwaru Muthu\u2019 taken into CID custody following deportation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kaiwaru-Muthu-taken-into-CID-custody-following-deportation/108-354302",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793938194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-947f3b69",
+    "num": "dailymirrorlk-947f3b69",
+    "date_str": "2026-11-06",
+    "description": "Customers can now check transformer capacity for rooftop solar online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customers-can-now-check-transformer-capacity-for-rooftop-solar-online/108-354303",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793938240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-05bce27b",
+    "num": "dailymirrorlk-05bce27b",
+    "date_str": "2026-11-06",
+    "description": "Compensation for hit-and-run victims doubled to Rs. 500,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Compensation-for-hit-and-run-victims-doubled-to-Rs-500-000/108-354305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793938875.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-e186672e",
+    "num": "dailymirrorlk-e186672e",
+    "date_str": "2026-11-06",
+    "description": "Fuel prices remain below cost-recovery levels despite November hikes \u2013 Verit\u00e9 Research",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-remain-below-cost-recovery-levels-despite-November-hikes-Verit\u00e9-Research/108-354306",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793940801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-1bb27cea",
+    "num": "dailymirrorlk-1bb27cea",
+    "date_str": "2026-11-06",
+    "description": "Namal Rajapaksa produced before Colombo Magistrate\u2019s Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-Rajapaksa-produced-before-Colombo-Magistrates-Court/108-354307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793941273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-af02bc61",
+    "num": "dailymirrorlk-af02bc61",
+    "date_str": "2026-11-06",
+    "description": "Raid Amazones returns to Sri Lanka after two-year break",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Raid-Amazones-returns-to-Sri-Lanka-after-two-year-break/108-354309",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793943297.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-5611d7ad",
+    "num": "dailymirrorlk-5611d7ad",
+    "date_str": "2026-11-06",
+    "description": "Minister questions PUCSL public hearing despite no tariff hike proposal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-questions-PUCSL-public-hearing-despite-no-tariff-hike-proposal/108-354311",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793944101.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-06 09:55:28",
-  "n_docs": 134929,
+  "time_updated": "2026-11-06 11:59:46",
+  "n_docs": 134938,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134929,
+  "n_docs_with_text": 134938,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-06",
-  "dataset_size": 2083929245,
+  "dataset_size": 2083992635,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-d2f9358e",
-    "num": "dailymirrorlk-d2f9358e",
+    "doc_id": "2026-11-06-dailymirrorlk-5611d7ad",
+    "num": "dailymirrorlk-5611d7ad",
     "date_str": "2026-11-06",
-    "description": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paraguay-President-Santiago-Pe\u00f1a-resigns-after-bank-collapse/108-354300",
+    "description": "Minister questions PUCSL public hearing despite no tariff hike proposal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-questions-PUCSL-public-hearing-despite-no-tariff-hike-proposal/108-354311",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793937329.0
+    "time_ut": 1793944101.0
   }
 }
