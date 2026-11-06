@@ -99348,5 +99348,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793981047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-70bb3044",
+    "num": "dailymirrorlk-70bb3044",
+    "date_str": "2026-11-06",
+    "description": "Kenyan cult leader sentenced to 200 years in prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kenyan-cult-leader-sentenced-to-200-years-in-prison/108-354358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793981650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-64bbc2ff",
+    "num": "dailymirrorlk-64bbc2ff",
+    "date_str": "2026-11-06",
+    "description": "129mm of rain in a few hours: what it really means for Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/129mm-of-rain-in-a-few-hours-what-it-really-means-for-Colombo/108-354359",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793982649.0
   }
 ]

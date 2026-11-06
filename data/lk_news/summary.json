@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-06 21:54:27",
-  "n_docs": 134976,
+  "time_updated": "2026-11-06 23:57:26",
+  "n_docs": 134978,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134976,
+  "n_docs_with_text": 134978,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-06",
-  "dataset_size": 2084489990,
+  "dataset_size": 2084507478,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-cf8b9ba8",
-    "num": "dailymirrorlk-cf8b9ba8",
+    "doc_id": "2026-11-06-dailymirrorlk-64bbc2ff",
+    "num": "dailymirrorlk-64bbc2ff",
     "date_str": "2026-11-06",
-    "description": "Meghan Markle\u2019s father arrested by the FBI for possession of child pornography",
-    "url_metadata": "https://www.dailymirror.lk/international/Meghan-Markles-father-arrested-by-the-FBI-for-possession-of-child-pornography/107-354357",
+    "description": "129mm of rain in a few hours: what it really means for Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/129mm-of-rain-in-a-few-hours-what-it-really-means-for-Colombo/108-354359",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793981047.0
+    "time_ut": 1793982649.0
   }
 }

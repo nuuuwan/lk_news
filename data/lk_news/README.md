@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_21:55:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_23:58:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,976** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,978** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-cf8b9ba8",
-    "num": "dailymirrorlk-cf8b9ba8",
+    "doc_id": "2026-11-06-dailymirrorlk-64bbc2ff",
+    "num": "dailymirrorlk-64bbc2ff",
     "date_str": "2026-11-06",
-    "description": "Meghan Markle\u2019s father arrested by the FBI for possession of child pornography",
-    "url_metadata": "https://www.dailymirror.lk/international/Meghan-Markles-father-arrested-by-the-FBI-for-possession-of-child-pornography/107-354357",
+    "description": "129mm of rain in a few hours: what it really means for Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/129mm-of-rain-in-a-few-hours-what-it-really-means-for-Colombo/108-354359",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793981047.0
+    "time_ut": 1793982649.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `dailymirrorlk-64bbc2ff` | 129mm of rain in a few hours: what it really means for Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-64bbc2ff)
+- 2026-11-06 | `dailymirrorlk-70bb3044` | Kenyan cult leader sentenced to 200 years in prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-70bb3044)
 - 2026-11-06 | `dailymirrorlk-cf8b9ba8` | Meghan Markle’s father arrested by the FBI for possession of child pornography | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-cf8b9ba8)
 - 2026-11-06 | `dailymirrorlk-338b5206` | India amends visa rules for Pakistan, Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-338b5206)
 - 2026-11-06 | `dailymirrorlk-8e649e95` | Traffic congestion in Colombo as roads flood; more rain expected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-8e649e95)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-06 | `dailymirrorlk-89596b03` | Sri Lanka named ‘Luxury Food Destination of the Year’ at UK Travel & Taste Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-89596b03)
 - 2026-11-06 | `dailymirrorlk-eddaf8a6` | JAT Holdings lifts first half profit by 26.7% as overseas revenue more than doubles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-eddaf8a6)
 - 2026-11-06 | `dailymirrorlk-465a71ba` | Fitch lifts ratings of People’s Leasing, MBSL and CBC Finance on parent bank upgrades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-465a71ba)
-- 2026-11-06 | `dailymirrorlk-91be5672` | Fitch revises SLT to ‘AA+(lka)’ on national scale recalibration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-91be5672)
-- 2026-11-06 | `dailymirrorlk-c1654d68` | Broad-based rally drives yields lower across the curve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-c1654d68)
 
 ---
 
