@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-06 17:57:21",
-  "n_docs": 134970,
+  "time_updated": "2026-11-06 19:52:54",
+  "n_docs": 134974,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 134970,
+  "n_docs_with_text": 134974,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-06",
-  "dataset_size": 2084447463,
+  "dataset_size": 2084462510,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-91f31a98",
-    "num": "dailymirrorlk-91f31a98",
+    "doc_id": "2026-11-06-dailymirrorlk-8e649e95",
+    "num": "dailymirrorlk-8e649e95",
     "date_str": "2026-11-06",
-    "description": "Kosala Senadheera appointed new Gampaha Chief Magistrate",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kosala-Senadheera-appointed-new-Gampaha-Chief-Magistrate/108-354353",
+    "description": "Traffic congestion in Colombo as roads flood; more rain expected",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Traffic-congestion-in-Colombo-as-roads-flood-more-rain-expected/108-354355",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793967324.0
+    "time_ut": 1793972523.0
   }
 }

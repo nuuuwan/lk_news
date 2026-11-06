@@ -99274,6 +99274,28 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-313b72ff",
+    "num": "dailymirrorlk-313b72ff",
+    "date_str": "2026-11-06",
+    "description": "Gampaha Magistrate who ordered contempt action against IGP transferred",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gampaha-Magistrate-who-ordered-contempt-action-against-IGP-transferred/108-354350",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793960584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-0489a8a5",
+    "num": "dailymirrorlk-0489a8a5",
+    "date_str": "2026-11-06",
+    "description": "Israel president to announce Sunday who will form new government",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-president-to-announce-Sunday-who-will-form-new-government/108-354352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793964742.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-06-dailymirrorlk-91f31a98",
     "num": "dailymirrorlk-91f31a98",
     "date_str": "2026-11-06",
@@ -99282,5 +99304,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793967324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-0ef98561",
+    "num": "dailymirrorlk-0ef98561",
+    "date_str": "2026-11-06",
+    "description": "\u201cWe are studying proposed anti-terrorism law\u201d \u2013 Cardinal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/We-are-studying-proposed-anti-terrorism-law-Cardinal/108-354354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793972007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-8e649e95",
+    "num": "dailymirrorlk-8e649e95",
+    "date_str": "2026-11-06",
+    "description": "Traffic congestion in Colombo as roads flood; more rain expected",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Traffic-congestion-in-Colombo-as-roads-flood-more-rain-expected/108-354355",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793972523.0
   }
 ]

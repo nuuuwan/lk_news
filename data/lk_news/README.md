@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_17:58:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_19:53:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,970** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,974** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailymirrorlk-91f31a98",
-    "num": "dailymirrorlk-91f31a98",
+    "doc_id": "2026-11-06-dailymirrorlk-8e649e95",
+    "num": "dailymirrorlk-8e649e95",
     "date_str": "2026-11-06",
-    "description": "Kosala Senadheera appointed new Gampaha Chief Magistrate",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kosala-Senadheera-appointed-new-Gampaha-Chief-Magistrate/108-354353",
+    "description": "Traffic congestion in Colombo as roads flood; more rain expected",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Traffic-congestion-in-Colombo-as-roads-flood-more-rain-expected/108-354355",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1793967324.0
+    "time_ut": 1793972523.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `dailymirrorlk-8e649e95` | Traffic congestion in Colombo as roads flood; more rain expected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-8e649e95)
+- 2026-11-06 | `dailymirrorlk-0ef98561` | “We are studying proposed anti-terrorism law” – Cardinal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-0ef98561)
 - 2026-11-06 | `dailymirrorlk-91f31a98` | Kosala Senadheera appointed new Gampaha Chief Magistrate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-91f31a98)
+- 2026-11-06 | `dailymirrorlk-0489a8a5` | Israel president to announce Sunday who will form new government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-0489a8a5)
+- 2026-11-06 | `dailymirrorlk-313b72ff` | Gampaha Magistrate who ordered contempt action against IGP transferred | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-313b72ff)
 - 2026-11-06 | `dailymirrorlk-94c541c9` | Three special flights bring nearly 550 Polish tourists to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-94c541c9)
 - 2026-11-06 | `dailymirrorlk-eefe1b03` | Varuni Bogahawatta, four others remanded until November 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-eefe1b03)
 - 2026-11-06 | `dailymirrorlk-fff14dbc` | Sri Lanka Freedom Party no longer a recognised political party | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-fff14dbc)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-06 | `dailymirrorlk-c1654d68` | Broad-based rally drives yields lower across the curve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-c1654d68)
 - 2026-11-06 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-821a32a1)
 - 2026-11-06 | `dailymirrorlk-55f00072` | CMTA calls for budget action to plug Rs. 120bn revenue leakage linked to 15% depreciation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-55f00072)
-- 2026-11-06 | `dailymirrorlk-dd1225f1` | Raid Amazones returns to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-dd1225f1)
-- 2026-11-06 | `dailymirrorlk-85326ed3` | Muthoot-backed Asia Asset Finance delivers 110% growth in first-half profit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-85326ed3)
-- 2026-11-06 | `dailymirrorlk-4e2eb9a9` | Dialog Completes Restoration at Divisional Hospital, Kothmale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-4e2eb9a9)
-- 2026-11-06 | `dailymirrorlk-6696a8b9` | Sri Lankan-origin UAE off-roading figure dies in Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-6696a8b9)
 
 ---
 
