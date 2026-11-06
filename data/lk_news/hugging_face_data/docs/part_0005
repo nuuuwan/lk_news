@@ -99271,5 +99271,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793959268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-91f31a98",
+    "num": "dailymirrorlk-91f31a98",
+    "date_str": "2026-11-06",
+    "description": "Kosala Senadheera appointed new Gampaha Chief Magistrate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kosala-Senadheera-appointed-new-Gampaha-Chief-Magistrate/108-354353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793967324.0
   }
 ]
