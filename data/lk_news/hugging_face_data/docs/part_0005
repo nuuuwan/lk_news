@@ -98922,6 +98922,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-58900f9e",
+    "num": "dailymirrorlk-58900f9e",
+    "date_str": "2026-11-06",
+    "description": "Trump threatens more destruction in Iran: \u2019You\u2019ll know soon enough\u2019",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-threatens-more-destruction-in-Iran-Youll-know-soon-enough/107-354304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793938517.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-06-dailymirrorlk-05bce27b",
     "num": "dailymirrorlk-05bce27b",
     "date_str": "2026-11-06",
@@ -99018,6 +99029,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793947240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-e3664375",
+    "num": "dailymirrorlk-e3664375",
+    "date_str": "2026-11-06",
+    "description": "West Asian crisis lands cash strapped SriLankan Airlines in further turbulence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/West-Asian-crisis-lands-cash-strapped-SriLankan-Airlines-in-further-turbulence/108-354316",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793947241.0
   },
   {
     "doc_type": "lk_news",
@@ -99183,5 +99205,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1793949428.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-fbecb4d8",
+    "num": "dailymirrorlk-fbecb4d8",
+    "date_str": "2026-11-06",
+    "description": "Opposition claims no youth included in Sri Lankan delegation to BIMSTEC Youth Summit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-claims-no-youth-included-in-Sri-Lankan-delegation-to-BIMSTEC-Youth-Summit/108-354342",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793954539.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-899e0883",
+    "num": "dailymirrorlk-899e0883",
+    "date_str": "2026-11-06",
+    "description": "Trump discussing possible Hegseth replacements",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-discussing-possible-Hegseth-replacements/107-354343",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793955848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-b38bbef4",
+    "num": "dailymirrorlk-b38bbef4",
+    "date_str": "2026-11-06",
+    "description": "Janaki Siriwardena further remanded in Krrish case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Janaki-Siriwardena-further-remanded-in-Krrish-case/108-354344",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793956721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-fff14dbc",
+    "num": "dailymirrorlk-fff14dbc",
+    "date_str": "2026-11-06",
+    "description": "Sri Lanka Freedom Party no longer a recognised political party",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Freedom-Party-no-longer-a-recognised-political-party/108-354345",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793958433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-eefe1b03",
+    "num": "dailymirrorlk-eefe1b03",
+    "date_str": "2026-11-06",
+    "description": "Varuni Bogahawatta, four others remanded until November 20",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Varuni-Bogahawatta-four-others-remanded-until-November-20/108-354347",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793958819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-06-dailymirrorlk-94c541c9",
+    "num": "dailymirrorlk-94c541c9",
+    "date_str": "2026-11-06",
+    "description": "Three special flights bring nearly 550 Polish tourists to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-special-flights-bring-nearly-550-Polish-tourists-to-Sri-Lanka/108-354348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793959268.0
   }
 ]
