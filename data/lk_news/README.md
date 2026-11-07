@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_19:51:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_21:51:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,034** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,038** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-07-dailymirrorlk-5a3f2cca",
-    "num": "dailymirrorlk-5a3f2cca",
+    "doc_id": "2026-11-07-dailymirrorlk-d063798c",
+    "num": "dailymirrorlk-d063798c",
     "date_str": "2026-11-07",
-    "description": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "url_metadata": "https://www.dailymirror.lk/international/Elon-Musk-appears-to-signal-the-end-of-the-road-for-Cybertruck/107-354415",
+    "description": "Does the Govt. have a say in judicial transfers? Justice Minister responds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Does-the-Govt-have-a-say-in-judicial-transfers-Justice-Minister-responds/108-354419",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794060134.0
+    "time_ut": 1794063348.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-07 | `dailymirrorlk-d063798c` | Does the Govt. have a say in judicial transfers? Justice Minister responds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d063798c)
+- 2026-11-07 | `dailymirrorlk-18341b9c` | Special task force to be established to respond to Colombo floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-18341b9c)
+- 2026-11-07 | `dailymirrorlk-3568c6d4` | 129mm rainfall in one hour caused Colombo flash floods: CMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-3568c6d4)
+- 2026-11-07 | `dailymirrorlk-d334366c` | After midterm rout, Vance tries to build his own 2028 brand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d334366c)
 - 2026-11-07 | `dailymirrorlk-5a3f2cca` | Elon Musk appears to signal the end of the road for Cybertruck | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-5a3f2cca)
 - 2026-11-07 | `dailymirrorlk-0fd1976a` | Deduru Oya residents alerted as 4,100 cusecs released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-0fd1976a)
 - 2026-11-07 | `dailymirrorlk-74e3f229` | UNP urges government to recommence WB aided Colombo City Flood Mitigation Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-74e3f229)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-07 | `dailymirrorlk-f50fe49d` | First Capital bets on ‘Bunty Loves Chocolates’ to raise a money-smart generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-f50fe49d)
 - 2026-11-07 | `dailymirrorlk-e04d80b3` | Fairway sets sights beyond Colombo as Kandy, Habarana and Yala join 500-key push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-e04d80b3)
 - 2026-11-07 | `dailymirrorlk-3c0dca84` | Profit booking emerges following previous day’s yield compression | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-3c0dca84)
-- 2026-11-07 | `dailymirrorlk-dd76ffb4` | Week ends in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-dd76ffb4)
-- 2026-11-07 | `dailymirrorlk-f332086e` | Tension at Ruwanweli Maha Seya over attempted Satyagraha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-f332086e)
-- 2026-11-07 | `dailymirrorlk-4cdafb59` | Asia Foundation-Sri Lanka Police launch national cybersecurity awareness campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-4cdafb59)
-- 2026-11-07 | `dailymirrorlk-6677f485` | IRDCRP-KIST support passion fruit cultivation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-6677f485)
 
 ---
 

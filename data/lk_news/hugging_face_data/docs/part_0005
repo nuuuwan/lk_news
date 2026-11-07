@@ -99986,5 +99986,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794060134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-d334366c",
+    "num": "dailymirrorlk-d334366c",
+    "date_str": "2026-11-07",
+    "description": "After midterm rout, Vance tries to build his own 2028 brand",
+    "url_metadata": "https://www.dailymirror.lk/international/After-midterm-rout-Vance-tries-to-build-his-own-2028-brand/107-354416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794060859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-3568c6d4",
+    "num": "dailymirrorlk-3568c6d4",
+    "date_str": "2026-11-07",
+    "description": "129mm rainfall in one hour caused Colombo flash floods: CMC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/129mm-rainfall-in-one-hour-caused-Colombo-flash-floods-CMC/108-354417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794061521.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-18341b9c",
+    "num": "dailymirrorlk-18341b9c",
+    "date_str": "2026-11-07",
+    "description": "Special task force to be established to respond to Colombo floods",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-task-force-to-be-established-to-respond-to-Colombo-floods/108-354418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794061583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-d063798c",
+    "num": "dailymirrorlk-d063798c",
+    "date_str": "2026-11-07",
+    "description": "Does the Govt. have a say in judicial transfers? Justice Minister responds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Does-the-Govt-have-a-say-in-judicial-transfers-Justice-Minister-responds/108-354419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794063348.0
   }
 ]
