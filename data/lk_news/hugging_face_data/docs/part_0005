@@ -99557,5 +99557,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1793988590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-fefec171",
+    "num": "dailymirrorlk-fefec171",
+    "date_str": "2026-11-07",
+    "description": "Statutory rape: Young father gets ten-year rigorous imprisonment reduced to two years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Statutory-rape-Young-father-gets-ten-year-rigorous-imprisonment-reduced-to-two-years/108-354360",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793997972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-5b2bdfa3",
+    "num": "dailymirrorlk-5b2bdfa3",
+    "date_str": "2026-11-07",
+    "description": "Specialist surgeon dies in Minneriya accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Specialist-surgeon-dies-in-Minneriya-accident/108-354362",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794019713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-c1f85723",
+    "num": "dailymirrorlk-c1f85723",
+    "date_str": "2026-11-07",
+    "description": "Hosting of ABU conference an opportunity for SL: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hosting-of-ABU-conference-an-opportunity-for-SL-Minister/108-354363",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794021100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-cf6a1019",
+    "num": "dailymirrorlk-cf6a1019",
+    "date_str": "2026-11-07",
+    "description": "Paraguay\u2019s President Santiago Pe\u00f1a impeached and arrested",
+    "url_metadata": "https://www.dailymirror.lk/international/Paraguays-President-Santiago-Pe\u00f1a-impeached-and-arrested/107-354370",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794024581.0
   }
 ]

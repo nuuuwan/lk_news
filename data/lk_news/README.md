@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_07:54:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_09:54:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**134,995** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**134,999** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-06-dailyftlk-223d3c0f",
-    "num": "dailyftlk-223d3c0f",
-    "date_str": "2026-11-06",
-    "description": "Sajith accuses Government of blocking Speaker no-confidence motion",
-    "url_metadata": "https://www.ft.lk/news/Sajith-accuses-Government-of-blocking-Speaker-no-confidence-motion/56-799770",
+    "doc_id": "2026-11-07-dailymirrorlk-cf6a1019",
+    "num": "dailymirrorlk-cf6a1019",
+    "date_str": "2026-11-07",
+    "description": "Paraguay\u2019s President Santiago Pe\u00f1a impeached and arrested",
+    "url_metadata": "https://www.dailymirror.lk/international/Paraguays-President-Santiago-Pe\u00f1a-impeached-and-arrested/107-354370",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1793988590.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794024581.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-07 | `dailymirrorlk-cf6a1019` | Paraguay’s President Santiago Peña impeached and arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-cf6a1019)
+- 2026-11-07 | `dailymirrorlk-c1f85723` | Hosting of ABU conference an opportunity for SL: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-c1f85723)
+- 2026-11-07 | `dailymirrorlk-5b2bdfa3` | Specialist surgeon dies in Minneriya accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-5b2bdfa3)
+- 2026-11-07 | `dailymirrorlk-fefec171` | Statutory rape: Young father gets ten-year rigorous imprisonment reduced to two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-fefec171)
 - 2026-11-06 | `dailyftlk-223d3c0f` | Sajith accuses Government of blocking Speaker no-confidence motion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-223d3c0f)
 - 2026-11-06 | `dailyftlk-5718434c` | Magistrate seeking contempt action against IGP transferred | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-5718434c)
 - 2026-11-06 | `dailyftlk-65758d41` | Election Commission  withdraws SLFP recognition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-65758d41)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-06 | `dailyftlk-270cbdb4` | Daraz Sri Lanka introduces ‘11.11 Big Boss Sale’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-270cbdb4)
 - 2026-11-06 | `dailyftlk-c79920ef` | The Monk, UNP and Eightfold Path | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-c79920ef)
 - 2026-11-06 | `dailyftlk-992470f3` | The new age of ecologically empathetic design | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-992470f3)
-- 2026-11-06 | `dailyftlk-9c0f574c` | Is AKD running faster than the winds that buffet him? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailyftlk-9c0f574c)
-- 2026-11-06 | `dailymirrorlk-64bbc2ff` | 129mm of rain in a few hours: what it really means for Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-64bbc2ff)
-- 2026-11-06 | `dailymirrorlk-70bb3044` | Kenyan cult leader sentenced to 200 years in prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-70bb3044)
-- 2026-11-06 | `dailymirrorlk-cf8b9ba8` | Meghan Markle’s father arrested by the FBI for possession of child pornography | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-06-dailymirrorlk-cf8b9ba8)
 
 ---
 
