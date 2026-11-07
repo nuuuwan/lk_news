@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_17:56:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--07_19:51:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,031** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,034** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-07-dailymirrorlk-e303e507",
-    "num": "dailymirrorlk-e303e507",
+    "doc_id": "2026-11-07-dailymirrorlk-5a3f2cca",
+    "num": "dailymirrorlk-5a3f2cca",
     "date_str": "2026-11-07",
-    "description": "Govt. to consult public before proceeding with proposed anti-terrorism, organised crime Bills: President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-consult-public-before-proceeding-with-proposed-anti-terrorism-organised-crime-Bills-President/108-354412",
+    "description": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "url_metadata": "https://www.dailymirror.lk/international/Elon-Musk-appears-to-signal-the-end-of-the-road-for-Cybertruck/107-354415",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794051712.0
+    "time_ut": 1794060134.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-07 | `dailymirrorlk-5a3f2cca` | Elon Musk appears to signal the end of the road for Cybertruck | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-5a3f2cca)
+- 2026-11-07 | `dailymirrorlk-0fd1976a` | Deduru Oya residents alerted as 4,100 cusecs released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-0fd1976a)
+- 2026-11-07 | `dailymirrorlk-74e3f229` | UNP urges government to recommence WB aided Colombo City Flood Mitigation Project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-74e3f229)
 - 2026-11-07 | `dailymirrorlk-e303e507` | Govt. to consult public before proceeding with proposed anti-terrorism, organised crime Bills: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-e303e507)
 - 2026-11-07 | `dailymirrorlk-15ded5e6` | Independent foreign team sought for post-mortem on tusker Kawanthissa’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-15ded5e6)
 - 2026-11-07 | `dailymirrorlk-ff197c09` | Prime Minister returns after CHOGM 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-ff197c09)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-07 | `dailymirrorlk-f332086e` | Tension at Ruwanweli Maha Seya over attempted Satyagraha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-f332086e)
 - 2026-11-07 | `dailymirrorlk-4cdafb59` | Asia Foundation-Sri Lanka Police launch national cybersecurity awareness campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-4cdafb59)
 - 2026-11-07 | `dailymirrorlk-6677f485` | IRDCRP-KIST support passion fruit cultivation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-6677f485)
-- 2026-11-07 | `dailymirrorlk-c63977cd` | Wickramarachchi Hearing Care-WISH Foundation donate 50 hearing aids | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-c63977cd)
-- 2026-11-07 | `dailymirrorlk-23e99578` | Seylan Bank opens 3 more ‘Pahasara’ libraries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-23e99578)
-- 2026-11-07 | `dailymirrorlk-d4877008` | HNB invests Rs.3.2 million in vocational training | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d4877008)
 
 ---
 

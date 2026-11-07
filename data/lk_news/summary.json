@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-07 17:55:07",
-  "n_docs": 135031,
+  "time_updated": "2026-11-07 19:50:54",
+  "n_docs": 135034,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135031,
+  "n_docs_with_text": 135034,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-07",
-  "dataset_size": 2085250920,
+  "dataset_size": 2085263470,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-07-dailymirrorlk-e303e507",
-    "num": "dailymirrorlk-e303e507",
+    "doc_id": "2026-11-07-dailymirrorlk-5a3f2cca",
+    "num": "dailymirrorlk-5a3f2cca",
     "date_str": "2026-11-07",
-    "description": "Govt. to consult public before proceeding with proposed anti-terrorism, organised crime Bills: President",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-consult-public-before-proceeding-with-proposed-anti-terrorism-organised-crime-Bills-President/108-354412",
+    "description": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "url_metadata": "https://www.dailymirror.lk/international/Elon-Musk-appears-to-signal-the-end-of-the-road-for-Cybertruck/107-354415",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794051712.0
+    "time_ut": 1794060134.0
   }
 }

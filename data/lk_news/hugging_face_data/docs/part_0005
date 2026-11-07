@@ -99953,5 +99953,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794051712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-74e3f229",
+    "num": "dailymirrorlk-74e3f229",
+    "date_str": "2026-11-07",
+    "description": "UNP urges government to recommence WB aided Colombo City Flood Mitigation Project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNP-urges-government-to-recommence-WB-aided-Colombo-City-Flood-Mitigation-Project/108-354413",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794059133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-0fd1976a",
+    "num": "dailymirrorlk-0fd1976a",
+    "date_str": "2026-11-07",
+    "description": "Deduru Oya residents alerted as 4,100 cusecs released",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deduru-Oya-residents-alerted-as-4-100-cusecs-released/108-354414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794059522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-5a3f2cca",
+    "num": "dailymirrorlk-5a3f2cca",
+    "date_str": "2026-11-07",
+    "description": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "url_metadata": "https://www.dailymirror.lk/international/Elon-Musk-appears-to-signal-the-end-of-the-road-for-Cybertruck/107-354415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794060134.0
   }
 ]
