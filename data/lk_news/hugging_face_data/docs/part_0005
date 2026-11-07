@@ -99571,6 +99571,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-35b7ffb6",
+    "num": "dailymirrorlk-35b7ffb6",
+    "date_str": "2026-11-07",
+    "description": "Energy Ministry seeks legal advice on private fuel operators\u2019 pricing agreements",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Energy-Ministry-seeks-legal-advice-on-private-fuel-operators-pricing-agreements/108-354361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1793998198.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-07-dailymirrorlk-5b2bdfa3",
     "num": "dailymirrorlk-5b2bdfa3",
     "date_str": "2026-11-07",
@@ -99601,5 +99612,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794024581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-69005892",
+    "num": "dailymirrorlk-69005892",
+    "date_str": "2026-11-07",
+    "description": "Colombo Mayor holds urgent talks to address city flooding",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Mayor-holds-urgent-talks-to-address-city-flooding/108-354375",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794031344.0
   }
 ]
