@@ -99824,6 +99824,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-e04d80b3",
+    "num": "dailymirrorlk-e04d80b3",
+    "date_str": "2026-11-07",
+    "description": "Fairway sets sights beyond Colombo as Kandy, Habarana and Yala join 500-key push",
+    "url_metadata": "https://www.dailymirror.lk/business/Fairway-sets-sights-beyond-Colombo-as-Kandy-Habarana-and-Yala-join-500-key-push/215-354392",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794036015.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-07-dailymirrorlk-f50fe49d",
     "num": "dailymirrorlk-f50fe49d",
     "date_str": "2026-11-07",
@@ -99887,5 +99898,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794037157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-a8475720",
+    "num": "dailymirrorlk-a8475720",
+    "date_str": "2026-11-07",
+    "description": "President signals further PAYE tax relief in 2027 Budget",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-signals-further-PAYE-tax-relief-in-2027-Budget/108-354407",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794042209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-424190bf",
+    "num": "dailymirrorlk-424190bf",
+    "date_str": "2026-11-07",
+    "description": "US Navy MV-22B Osprey aircraft arrives at Katunayake Airport",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Navy-MV-22B-Osprey-aircraft-arrives-at-Katunayake-Airport/108-354409",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794043575.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-ff197c09",
+    "num": "dailymirrorlk-ff197c09",
+    "date_str": "2026-11-07",
+    "description": "Prime Minister returns after CHOGM 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-returns-after-CHOGM-2026/108-354410",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794044602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-07-dailymirrorlk-15ded5e6",
+    "num": "dailymirrorlk-15ded5e6",
+    "date_str": "2026-11-07",
+    "description": "Independent foreign team sought for post-mortem on tusker Kawanthissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Independent-foreign-team-sought-for-post-mortem-on-tusker-Kawanthissas-death/108-354411",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794044932.0
   }
 ]
