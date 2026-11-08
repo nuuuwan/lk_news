@@ -100063,5 +100063,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794108363.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-7ed05e5f",
+    "num": "dailymirrorlk-7ed05e5f",
+    "date_str": "2026-11-08",
+    "description": "President extends Deepavali greetings, calls for unity and compassion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-extends-Deepavali-greetings-calls-for-unity-and-compassion/108-354423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794111522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-c3ca06d2",
+    "num": "dailymirrorlk-c3ca06d2",
+    "date_str": "2026-11-08",
+    "description": "Deepavali an opportunity to overcome hatred, strengthen unity \u2013 PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deepavali-an-opportunity-to-overcome-hatred-strengthen-unity-PM/108-354424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794112234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-991c45bc",
+    "num": "dailymirrorlk-991c45bc",
+    "date_str": "2026-11-08",
+    "description": "Deepavali\u2019s message of light over darkness vital due to economic hardships: Sajith",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deepavalis-message-of-light-over-darkness-vital-due-to-economic-hardships-Sajith/108-354426",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794112676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-6eb9440e",
+    "num": "dailymirrorlk-6eb9440e",
+    "date_str": "2026-11-08",
+    "description": "Monks defy court order, continue Satyagraha near Ruwanweli Seya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Monks-defy-court-order-continue-Satyagraha-near-Ruwanweli-Seya/108-354427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794113126.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-81fc9a8b",
+    "num": "dailymirrorlk-81fc9a8b",
+    "date_str": "2026-11-08",
+    "description": "Varuni Bogahawatta suspended following remand over unexplained vehicle payments",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Varuni-Bogahawatta-suspended-following-remand-over-unexplained-vehicle-payments/108-354428",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794113524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-328086c0",
+    "num": "dailymirrorlk-328086c0",
+    "date_str": "2026-11-08",
+    "description": "Minor flood warning for Nilwala Ganga as several rivers remain on alert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-flood-warning-for-Nilwala-Ganga-as-several-rivers-remain-on-alert/108-354430",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794117811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-36d8a42c",
+    "num": "dailymirrorlk-36d8a42c",
+    "date_str": "2026-11-08",
+    "description": "Special dengue prevention week from tomorrow in 74 MOH divisions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-dengue-prevention-week-from-tomorrow-in-74-MOH-divisions/108-354431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794118187.0
   }
 ]
