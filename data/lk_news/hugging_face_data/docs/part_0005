@@ -100176,6 +100176,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-72162279",
+    "num": "dailymirrorlk-72162279",
+    "date_str": "2026-11-08",
+    "description": "Poppy Day commemorated in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Poppy-Day-commemorated-in-Colombo/110-354434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794124424.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-08-dailymirrorlk-b42cdebf",
     "num": "dailymirrorlk-b42cdebf",
     "date_str": "2026-11-08",
@@ -100184,5 +100195,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794124837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-dedcb88e",
+    "num": "dailymirrorlk-dedcb88e",
+    "date_str": "2026-11-08",
+    "description": "32 Chinese nationals found at Panadura hotel in suspected online fraud probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/32-Chinese-nationals-found-at-Panadura-hotel-in-suspected-online-fraud-probe/108-354436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794126199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-65918e5f",
+    "num": "dailymirrorlk-65918e5f",
+    "date_str": "2026-11-08",
+    "description": "Butterfly swarms across Sri Lanka linked to natural monsoon migration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Butterfly-swarms-across-Sri-Lanka-linked-to-natural-monsoon-migration/108-354438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794128478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-e144570b",
+    "num": "dailymirrorlk-e144570b",
+    "date_str": "2026-11-08",
+    "description": "Businessman dies after fall from Slave Island apartment complex",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Businessman-dies-after-fall-from-Slave-Island-apartment-complex/108-354439",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794128843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-416b5d3d",
+    "num": "dailymirrorlk-416b5d3d",
+    "date_str": "2026-11-08",
+    "description": "Deepavali celebrated",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Deepavali-celebrated/110-354440",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794129398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-ef2e371a",
+    "num": "dailymirrorlk-ef2e371a",
+    "date_str": "2026-11-08",
+    "description": "Cement prices increased by Rs. 100 per bag",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cement-prices-increased-by-Rs-100-per-bag/108-354441",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794130911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-2ef0f1d4",
+    "num": "dailymirrorlk-2ef0f1d4",
+    "date_str": "2026-11-08",
+    "description": "Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-to-protest-on-Nov-10-as-Development-Officers-launch-sick-note-campaign-tomorrow/108-354442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794131459.0
   }
 ]

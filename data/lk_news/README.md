@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_13:54:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_15:52:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,052** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,059** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-08-dailymirrorlk-b42cdebf",
-    "num": "dailymirrorlk-b42cdebf",
+    "doc_id": "2026-11-08-dailymirrorlk-2ef0f1d4",
+    "num": "dailymirrorlk-2ef0f1d4",
     "date_str": "2026-11-08",
-    "description": "Multiple explosions heard in Riyadh, Saudi Arabia",
-    "url_metadata": "https://www.dailymirror.lk/international/Multiple-explosions-heard-in-Riyadh-Saudi-Arabia/107-354435",
+    "description": "Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-to-protest-on-Nov-10-as-Development-Officers-launch-sick-note-campaign-tomorrow/108-354442",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794124837.0
+    "time_ut": 1794131459.0
 }
 ```
 
@@ -41,7 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-08 | `dailymirrorlk-2ef0f1d4` | Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-2ef0f1d4)
+- 2026-11-08 | `dailymirrorlk-ef2e371a` | Cement prices increased by Rs. 100 per bag | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-ef2e371a)
+- 2026-11-08 | `dailymirrorlk-416b5d3d` | Deepavali celebrated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-416b5d3d)
+- 2026-11-08 | `dailymirrorlk-e144570b` | Businessman dies after fall from Slave Island apartment complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-e144570b)
+- 2026-11-08 | `dailymirrorlk-65918e5f` | Butterfly swarms across Sri Lanka linked to natural monsoon migration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-65918e5f)
+- 2026-11-08 | `dailymirrorlk-dedcb88e` | 32 Chinese nationals found at Panadura hotel in suspected online fraud probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-dedcb88e)
 - 2026-11-08 | `dailymirrorlk-b42cdebf` | Multiple explosions heard in Riyadh, Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-b42cdebf)
+- 2026-11-08 | `dailymirrorlk-72162279` | Poppy Day commemorated in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-72162279)
 - 2026-11-08 | `dailymirrorlk-51f6dd08` | Namal accuses Govt. of raising fuel taxes beyond previous levels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-51f6dd08)
 - 2026-11-08 | `dailymirrorlk-3fd88340` | Vijitha Herath extends Deepavali wishes, highlights unity and hope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-3fd88340)
 - 2026-11-08 | `dailymirrorlk-36d8a42c` | Special dengue prevention week from tomorrow in 74 MOH divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-36d8a42c)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-08 | `dailymirrorlk-7ed05e5f` | President extends Deepavali greetings, calls for unity and compassion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-7ed05e5f)
 - 2026-11-08 | `dailymirrorlk-4cd638d9` | Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-4cd638d9)
 - 2026-11-08 | `dailymirrorlk-16b8e822` | Passenger drone trials underway at Port City | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-16b8e822)
-- 2026-11-08 | `dailymirrorlk-f5a90de1` | Israel’s president tasks opposition leader Eisenkot with forming government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-f5a90de1)
-- 2026-11-07 | `dailymirrorlk-d063798c` | Does the Govt. have a say in judicial transfers? Justice Minister responds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d063798c)
-- 2026-11-07 | `dailymirrorlk-18341b9c` | Special task force to be established to respond to Colombo floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-18341b9c)
-- 2026-11-07 | `dailymirrorlk-3568c6d4` | 129mm rainfall in one hour caused Colombo flash floods: CMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-3568c6d4)
-- 2026-11-07 | `dailymirrorlk-d334366c` | After midterm rout, Vance tries to build his own 2028 brand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d334366c)
-- 2026-11-07 | `dailymirrorlk-5a3f2cca` | Elon Musk appears to signal the end of the road for Cybertruck | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-5a3f2cca)
-- 2026-11-07 | `dailymirrorlk-0fd1976a` | Deduru Oya residents alerted as 4,100 cusecs released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-0fd1976a)
 
 ---
 
