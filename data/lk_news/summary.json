@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-08 19:50:12",
-  "n_docs": 135060,
+  "time_updated": "2026-11-08 21:51:44",
+  "n_docs": 135062,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135060,
+  "n_docs_with_text": 135062,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-08",
-  "dataset_size": 2085471541,
+  "dataset_size": 2085480080,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-08-dailymirrorlk-1683e0b7",
-    "num": "dailymirrorlk-1683e0b7",
+    "doc_id": "2026-11-08-dailymirrorlk-5887f79b",
+    "num": "dailymirrorlk-5887f79b",
     "date_str": "2026-11-08",
-    "description": "Customs seize 39 drones, 16 microphones from SJB MP",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-39-drones-16-microphones-from-SJB-MP/108-354443",
+    "description": "Hambantota Port, Al-Futtaim discuss expanding vehicle shipment operations to Gulf markets",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-Al-Futtaim-discuss-expanding-vehicle-shipment-operations-to-Gulf-markets/108-354446",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794146656.0
+    "time_ut": 1794148639.0
   }
 }
