@@ -100286,6 +100286,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-6c0b0e8d",
+    "num": "dailymirrorlk-6c0b0e8d",
+    "date_str": "2026-11-08",
+    "description": "Colombo launches joint operation to tackle flooding; 60 drainage blockages identified",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-launches-joint-operation-to-tackle-flooding-60-drainage-blockages-identified/108-354445",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794147880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-08-dailymirrorlk-5887f79b",
     "num": "dailymirrorlk-5887f79b",
     "date_str": "2026-11-08",
