@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_17:53:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_19:51:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,059** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,060** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-08-dailymirrorlk-2ef0f1d4",
-    "num": "dailymirrorlk-2ef0f1d4",
+    "doc_id": "2026-11-08-dailymirrorlk-1683e0b7",
+    "num": "dailymirrorlk-1683e0b7",
     "date_str": "2026-11-08",
-    "description": "Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-to-protest-on-Nov-10-as-Development-Officers-launch-sick-note-campaign-tomorrow/108-354442",
+    "description": "Customs seize 39 drones, 16 microphones from SJB MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-39-drones-16-microphones-from-SJB-MP/108-354443",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794131459.0
+    "time_ut": 1794146656.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-08 | `dailymirrorlk-1683e0b7` | Customs seize 39 drones, 16 microphones from SJB MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-1683e0b7)
 - 2026-11-08 | `dailymirrorlk-2ef0f1d4` | Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-2ef0f1d4)
 - 2026-11-08 | `dailymirrorlk-ef2e371a` | Cement prices increased by Rs. 100 per bag | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-ef2e371a)
 - 2026-11-08 | `dailymirrorlk-416b5d3d` | Deepavali celebrated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-416b5d3d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-08 | `dailymirrorlk-c3ca06d2` | Deepavali an opportunity to overcome hatred, strengthen unity – PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-c3ca06d2)
 - 2026-11-08 | `dailymirrorlk-7ed05e5f` | President extends Deepavali greetings, calls for unity and compassion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-7ed05e5f)
 - 2026-11-08 | `dailymirrorlk-4cd638d9` | Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-4cd638d9)
-- 2026-11-08 | `dailymirrorlk-16b8e822` | Passenger drone trials underway at Port City | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-16b8e822)
 
 ---
 

@@ -100261,5 +100261,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794131459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-1683e0b7",
+    "num": "dailymirrorlk-1683e0b7",
+    "date_str": "2026-11-08",
+    "description": "Customs seize 39 drones, 16 microphones from SJB MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-39-drones-16-microphones-from-SJB-MP/108-354443",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794146656.0
   }
 ]

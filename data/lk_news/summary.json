@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-08 17:53:17",
-  "n_docs": 135059,
+  "time_updated": "2026-11-08 19:50:12",
+  "n_docs": 135060,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135059,
+  "n_docs_with_text": 135060,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-08",
-  "dataset_size": 2085470020,
+  "dataset_size": 2085471541,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-08-dailymirrorlk-2ef0f1d4",
-    "num": "dailymirrorlk-2ef0f1d4",
+    "doc_id": "2026-11-08-dailymirrorlk-1683e0b7",
+    "num": "dailymirrorlk-1683e0b7",
     "date_str": "2026-11-08",
-    "description": "Doctors to protest on Nov. 10 as Development Officers launch sick-note campaign tomorrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-to-protest-on-Nov-10-as-Development-Officers-launch-sick-note-campaign-tomorrow/108-354442",
+    "description": "Customs seize 39 drones, 16 microphones from SJB MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Customs-seize-39-drones-16-microphones-from-SJB-MP/108-354443",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794131459.0
+    "time_ut": 1794146656.0
   }
 }
