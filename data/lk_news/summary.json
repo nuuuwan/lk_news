@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-08 11:56:56",
-  "n_docs": 135048,
+  "time_updated": "2026-11-08 13:53:35",
+  "n_docs": 135052,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135048,
+  "n_docs_with_text": 135052,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-08",
-  "dataset_size": 2085356984,
+  "dataset_size": 2085399854,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-08-dailymirrorlk-36d8a42c",
-    "num": "dailymirrorlk-36d8a42c",
+    "doc_id": "2026-11-08-dailymirrorlk-b42cdebf",
+    "num": "dailymirrorlk-b42cdebf",
     "date_str": "2026-11-08",
-    "description": "Special dengue prevention week from tomorrow in 74 MOH divisions",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-dengue-prevention-week-from-tomorrow-in-74-MOH-divisions/108-354431",
+    "description": "Multiple explosions heard in Riyadh, Saudi Arabia",
+    "url_metadata": "https://www.dailymirror.lk/international/Multiple-explosions-heard-in-Riyadh-Saudi-Arabia/107-354435",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794118187.0
+    "time_ut": 1794124837.0
   }
 }

@@ -100088,6 +100088,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-25d0d917",
+    "num": "dailymirrorlk-25d0d917",
+    "date_str": "2026-11-08",
+    "description": "Six killed in Krakow \u2019far-right\u2019 shooting, as three more bodies found in attacker\u2019s home",
+    "url_metadata": "https://www.dailymirror.lk/international/Six-killed-in-Krakow-far-right-shooting-as-three-more-bodies-found-in-attackers-home/107-354425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794112652.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-08-dailymirrorlk-991c45bc",
     "num": "dailymirrorlk-991c45bc",
     "date_str": "2026-11-08",
@@ -100140,5 +100151,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794118187.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-3fd88340",
+    "num": "dailymirrorlk-3fd88340",
+    "date_str": "2026-11-08",
+    "description": "Vijitha Herath extends Deepavali wishes, highlights unity and hope",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-extends-Deepavali-wishes-highlights-unity-and-hope/108-354432",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794118505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-51f6dd08",
+    "num": "dailymirrorlk-51f6dd08",
+    "date_str": "2026-11-08",
+    "description": "Namal accuses Govt. of raising fuel taxes beyond previous levels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-accuses-Govt-of-raising-fuel-taxes-beyond-previous-levels/108-354433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794118880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-b42cdebf",
+    "num": "dailymirrorlk-b42cdebf",
+    "date_str": "2026-11-08",
+    "description": "Multiple explosions heard in Riyadh, Saudi Arabia",
+    "url_metadata": "https://www.dailymirror.lk/international/Multiple-explosions-heard-in-Riyadh-Saudi-Arabia/107-354435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794124837.0
   }
 ]
