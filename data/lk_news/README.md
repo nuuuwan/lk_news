@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_07:55:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_09:55:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,038** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,041** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-07-dailymirrorlk-d063798c",
-    "num": "dailymirrorlk-d063798c",
-    "date_str": "2026-11-07",
-    "description": "Does the Govt. have a say in judicial transfers? Justice Minister responds",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Does-the-Govt-have-a-say-in-judicial-transfers-Justice-Minister-responds/108-354419",
+    "doc_id": "2026-11-08-dailymirrorlk-4cd638d9",
+    "num": "dailymirrorlk-4cd638d9",
+    "date_str": "2026-11-08",
+    "description": "Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rienzie-Arseculeratne-PC-to-come-forward-for-BASL-Presidency-202728/108-354422",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794063348.0
+    "time_ut": 1794108363.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-08 | `dailymirrorlk-4cd638d9` | Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-4cd638d9)
+- 2026-11-08 | `dailymirrorlk-16b8e822` | Passenger drone trials underway at Port City | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-16b8e822)
+- 2026-11-08 | `dailymirrorlk-f5a90de1` | Israel’s president tasks opposition leader Eisenkot with forming government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-08-dailymirrorlk-f5a90de1)
 - 2026-11-07 | `dailymirrorlk-d063798c` | Does the Govt. have a say in judicial transfers? Justice Minister responds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-d063798c)
 - 2026-11-07 | `dailymirrorlk-18341b9c` | Special task force to be established to respond to Colombo floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-18341b9c)
 - 2026-11-07 | `dailymirrorlk-3568c6d4` | 129mm rainfall in one hour caused Colombo flash floods: CMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-3568c6d4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-07 | `dailymirrorlk-cf6cf890` | A question  is part of  the care | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-cf6cf890)
 - 2026-11-07 | `dailymirrorlk-e48c2684` | Households left with just Rs.4,000 a month after spending, down from Rs.13,000 in 2019 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-e48c2684)
 - 2026-11-07 | `dailymirrorlk-c145ea13` | EPF builds 10% stakes in Tokyo Cement and ACL Cables; discloses months later | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-c145ea13)
-- 2026-11-07 | `dailymirrorlk-f50fe49d` | First Capital bets on ‘Bunty Loves Chocolates’ to raise a money-smart generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-f50fe49d)
-- 2026-11-07 | `dailymirrorlk-e04d80b3` | Fairway sets sights beyond Colombo as Kandy, Habarana and Yala join 500-key push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-e04d80b3)
-- 2026-11-07 | `dailymirrorlk-3c0dca84` | Profit booking emerges following previous day’s yield compression | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-07-dailymirrorlk-3c0dca84)
 
 ---
 

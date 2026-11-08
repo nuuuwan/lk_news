@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-08 07:54:54",
-  "n_docs": 135038,
+  "time_updated": "2026-11-08 09:54:12",
+  "n_docs": 135041,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135038,
+  "n_docs_with_text": 135041,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-07",
-  "dataset_size": 2085318930,
+  "date_str_max": "2026-11-08",
+  "dataset_size": 2085326232,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-07-dailymirrorlk-d063798c",
-    "num": "dailymirrorlk-d063798c",
-    "date_str": "2026-11-07",
-    "description": "Does the Govt. have a say in judicial transfers? Justice Minister responds",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Does-the-Govt-have-a-say-in-judicial-transfers-Justice-Minister-responds/108-354419",
+    "doc_id": "2026-11-08-dailymirrorlk-4cd638d9",
+    "num": "dailymirrorlk-4cd638d9",
+    "date_str": "2026-11-08",
+    "description": "Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rienzie-Arseculeratne-PC-to-come-forward-for-BASL-Presidency-202728/108-354422",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794063348.0
+    "time_ut": 1794108363.0
   }
 }

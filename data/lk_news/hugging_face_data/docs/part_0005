@@ -100030,5 +100030,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794063348.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-f5a90de1",
+    "num": "dailymirrorlk-f5a90de1",
+    "date_str": "2026-11-08",
+    "description": "Israel\u2019s president tasks opposition leader Eisenkot with forming government",
+    "url_metadata": "https://www.dailymirror.lk/international/Israels-president-tasks-opposition-leader-Eisenkot-with-forming-government/107-354420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794105224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-16b8e822",
+    "num": "dailymirrorlk-16b8e822",
+    "date_str": "2026-11-08",
+    "description": "Passenger drone trials underway at Port City",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Passenger-drone-trials-underway-at-Port-City/108-354421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794107678.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-08-dailymirrorlk-4cd638d9",
+    "num": "dailymirrorlk-4cd638d9",
+    "date_str": "2026-11-08",
+    "description": "Rienzie Arseculeratne PC to come forward for BASL Presidency - 2027/28",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rienzie-Arseculeratne-PC-to-come-forward-for-BASL-Presidency-202728/108-354422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794108363.0
   }
 ]
