@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_17:58:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_19:56:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,136** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,138** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-3d7355c6",
-    "num": "dailymirrorlk-3d7355c6",
+    "doc_id": "2026-11-09-dailymirrorlk-92a2203b",
+    "num": "dailymirrorlk-92a2203b",
     "date_str": "2026-11-09",
-    "description": "Hasthi Sena operation to be formalised under new policy framework",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hasthi-Sena-operation-to-be-formalised-under-new-policy-framework/108-354512",
+    "description": "CSE extends rally as ASPI climbs above 21,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-rally-as-ASPI-climbs-above-21-500/108-354517",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794219590.0
+    "time_ut": 1794233532.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-09 | `dailymirrorlk-92a2203b` | CSE extends rally as ASPI climbs above 21,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-92a2203b)
+- 2026-11-09 | `dailymirrorlk-869c87c4` | Carefully planned system was put in place to avoid floods in Colombo by my Ministry: Patali | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-869c87c4)
 - 2026-11-09 | `dailymirrorlk-3d7355c6` | Hasthi Sena operation to be formalised under new policy framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-3d7355c6)
 - 2026-11-09 | `dailymirrorlk-1528679f` | Rs. 32.5 billion Kandy transport terminal 55% complete | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-1528679f)
 - 2026-11-09 | `dailymirrorlk-ad41d321` | Patients face days of delays as MRI services restricted at National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-ad41d321)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailymirrorlk-41595930` | Gotabaya gives nearly two-hour statement over Sugeeshwara’s probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-41595930)
 - 2026-11-09 | `dailymirrorlk-6cf8e069` | Stray animals are innocent souls that deserve love understanding and compassion : Dr. Janey Lowes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-6cf8e069)
 - 2026-11-09 | `dailymirrorlk-5025d21a` | What America’s Midterms Can Teach Us | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5025d21a)
-- 2026-11-09 | `dailymirrorlk-87987970` | Rupee weakens slightly against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-87987970)
-- 2026-11-09 | `dailymirrorlk-5cbf8840` | Crisis Monitoring Is Not a Back Office Function | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5cbf8840)
 
 ---
 
