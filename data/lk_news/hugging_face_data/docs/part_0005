@@ -100525,5 +100525,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794182733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-6cb9ee91",
+    "num": "dailymirrorlk-6cb9ee91",
+    "date_str": "2026-11-09",
+    "description": "Inmate dies after being gored by deer at Weerawila Open Prison Camp",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmate-dies-after-being-gored-by-deer-at-Weerawila-Open-Prison-Camp/108-354449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794196774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-4eb0b159",
+    "num": "dailymirrorlk-4eb0b159",
+    "date_str": "2026-11-09",
+    "description": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "url_metadata": "https://www.dailymirror.lk/international/Seven-dead-and-more-than-100-injured-after-trains-collide-in-Egypt/107-354450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794196915.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_07:57:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_09:55:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,083** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,085** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailyftlk-9a0d33de",
-    "num": "dailyftlk-9a0d33de",
+    "doc_id": "2026-11-09-dailymirrorlk-4eb0b159",
+    "num": "dailymirrorlk-4eb0b159",
     "date_str": "2026-11-09",
-    "description": "Blue Yonder\u2019s cognitive solutions to power future of Sri Lankan retail",
-    "url_metadata": "https://www.ft.lk/business/Blue-Yonder-s-cognitive-solutions-to-power-future-of-Sri-Lankan-retail/34-799825",
+    "description": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "url_metadata": "https://www.dailymirror.lk/international/Seven-dead-and-more-than-100-injured-after-trains-collide-in-Egypt/107-354450",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794182733.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794196915.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-09 | `dailymirrorlk-4eb0b159` | Seven dead and more than 100 injured after trains collide in Egypt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-4eb0b159)
+- 2026-11-09 | `dailymirrorlk-6cb9ee91` | Inmate dies after being gored by deer at Weerawila Open Prison Camp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-6cb9ee91)
 - 2026-11-09 | `dailyftlk-9a0d33de` | Blue Yonder’s cognitive solutions to power future of Sri Lankan retail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-9a0d33de)
 - 2026-11-09 | `dailyftlk-9f03a3b3` | SENOK celebrates 47 years of enterprise, innovation and nation building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-9f03a3b3)
 - 2026-11-09 | `dailyftlk-7790d8f7` | Global Brands Awards and ‘Global Business Forum’ at Temple Trees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-7790d8f7)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailyftlk-130a8a47` | State and your hard-earned money: Moral contract  AKD cannot afford to ignore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-130a8a47)
 - 2026-11-09 | `dailyftlk-c109b5a2` | Rooftop solar: A national asset or a burden on national electricity grid? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-c109b5a2)
 - 2026-11-09 | `dailyftlk-4087d0d0` | Sri Lankan University Rankings: The free fall (Part 1) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-4087d0d0)
-- 2026-11-09 | `dailyftlk-a2a629e8` | One voice, million hearts: Myriad reflections  of a maestro | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-a2a629e8)
-- 2026-11-09 | `dailyftlk-e008b622` | David C. Sanders: Master educator, visionary leader, and true friend of Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-e008b622)
 
 ---
 
