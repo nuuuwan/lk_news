@@ -100547,5 +100547,115 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794196915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-9958796d",
+    "num": "dailymirrorlk-9958796d",
+    "date_str": "2026-11-09",
+    "description": "Special Dengue prevention week begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-Dengue-prevention-week-begins/108-354452",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794199760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-86d4f29c",
+    "num": "dailymirrorlk-86d4f29c",
+    "date_str": "2026-11-09",
+    "description": "NASA is officially hiring people to live on the moon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NASA-is-officially-hiring-people-to-live-on-the-moon/108-354453",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794200416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-c2c3389c",
+    "num": "dailymirrorlk-c2c3389c",
+    "date_str": "2026-11-09",
+    "description": "Nvidia launches investigation into CEO\u2019s affair with suspected Chinese spy",
+    "url_metadata": "https://www.dailymirror.lk/international/Nvidia-launches-investigation-into-CEOs-affair-with-suspected-Chinese-spy/107-354454",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794200952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-b2d2033b",
+    "num": "dailymirrorlk-b2d2033b",
+    "date_str": "2026-11-09",
+    "description": "Public warned against fake GovPay traffic fine SMS scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-warned-against-fake-GovPay-traffic-fine-SMS-scam/108-354455",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794201413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-3c72cc5a",
+    "num": "dailymirrorlk-3c72cc5a",
+    "date_str": "2026-11-09",
+    "description": "Former President Gotabaya Rajapaksa arrives at CCIB",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-President-Gotabaya-Rajapaksa-arrives-at-CCIB/108-354456",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794201756.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-424b95c6",
+    "num": "dailymirrorlk-424b95c6",
+    "date_str": "2026-11-09",
+    "description": "Excise offences to be removed from Organised Crimes Bill, AG tells Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Excise-offences-to-be-removed-from-Organised-Crimes-Bill-AG-tells-Supreme-Court/108-354457",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794201915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-7089014d",
+    "num": "dailymirrorlk-7089014d",
+    "date_str": "2026-11-09",
+    "description": "Fire in China\u2019s Shanxi province apartment building kills 14",
+    "url_metadata": "https://www.dailymirror.lk/international/Fire-in-Chinas-Shanxi-province-apartment-building-kills-14/107-354458",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794203330.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-c0f7a164",
+    "num": "dailymirrorlk-c0f7a164",
+    "date_str": "2026-11-09",
+    "description": "Construction industry in limbo over rise in material cost",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Construction-industry-in-limbo-over-rise-in-material-cost/108-354459",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794204086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-f1ee5b38",
+    "num": "dailymirrorlk-f1ee5b38",
+    "date_str": "2026-11-09",
+    "description": "Another atmospheric disturbance developing \u201c Met. Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Another-atmospheric-disturbance-developing-Met-Dept/108-354460",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794204376.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-5e0bc2c5",
+    "num": "dailymirrorlk-5e0bc2c5",
+    "date_str": "2026-11-09",
+    "description": "Vraie Balthazar should resign or should be removed : Marikkar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vraie-Balthazar-should-resign-or-should-be-removed-Marikkar/108-354461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794204532.0
   }
 ]

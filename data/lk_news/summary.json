@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-09 09:54:25",
-  "n_docs": 135085,
+  "time_updated": "2026-11-09 12:03:14",
+  "n_docs": 135095,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135085,
+  "n_docs_with_text": 135095,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-09",
-  "dataset_size": 2085903093,
+  "dataset_size": 2085938178,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-4eb0b159",
-    "num": "dailymirrorlk-4eb0b159",
+    "doc_id": "2026-11-09-dailymirrorlk-5e0bc2c5",
+    "num": "dailymirrorlk-5e0bc2c5",
     "date_str": "2026-11-09",
-    "description": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "url_metadata": "https://www.dailymirror.lk/international/Seven-dead-and-more-than-100-injured-after-trains-collide-in-Egypt/107-354450",
+    "description": "Vraie Balthazar should resign or should be removed : Marikkar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vraie-Balthazar-should-resign-or-should-be-removed-Marikkar/108-354461",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794196915.0
+    "time_ut": 1794204532.0
   }
 }

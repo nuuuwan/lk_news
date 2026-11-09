@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_09:55:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_12:04:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,085** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,095** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-4eb0b159",
-    "num": "dailymirrorlk-4eb0b159",
+    "doc_id": "2026-11-09-dailymirrorlk-5e0bc2c5",
+    "num": "dailymirrorlk-5e0bc2c5",
     "date_str": "2026-11-09",
-    "description": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "url_metadata": "https://www.dailymirror.lk/international/Seven-dead-and-more-than-100-injured-after-trains-collide-in-Egypt/107-354450",
+    "description": "Vraie Balthazar should resign or should be removed : Marikkar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vraie-Balthazar-should-resign-or-should-be-removed-Marikkar/108-354461",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794196915.0
+    "time_ut": 1794204532.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-09 | `dailymirrorlk-5e0bc2c5` | Vraie Balthazar should resign or should be removed : Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5e0bc2c5)
+- 2026-11-09 | `dailymirrorlk-f1ee5b38` | Another atmospheric disturbance developing “ Met. Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-f1ee5b38)
+- 2026-11-09 | `dailymirrorlk-c0f7a164` | Construction industry in limbo over rise in material cost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-c0f7a164)
+- 2026-11-09 | `dailymirrorlk-7089014d` | Fire in China’s Shanxi province apartment building kills 14 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-7089014d)
+- 2026-11-09 | `dailymirrorlk-424b95c6` | Excise offences to be removed from Organised Crimes Bill, AG tells Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-424b95c6)
+- 2026-11-09 | `dailymirrorlk-3c72cc5a` | Former President Gotabaya Rajapaksa arrives at CCIB | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-3c72cc5a)
+- 2026-11-09 | `dailymirrorlk-b2d2033b` | Public warned against fake GovPay traffic fine SMS scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-b2d2033b)
+- 2026-11-09 | `dailymirrorlk-c2c3389c` | Nvidia launches investigation into CEO’s affair with suspected Chinese spy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-c2c3389c)
+- 2026-11-09 | `dailymirrorlk-86d4f29c` | NASA is officially hiring people to live on the moon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-86d4f29c)
+- 2026-11-09 | `dailymirrorlk-9958796d` | Special Dengue prevention week begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-9958796d)
 - 2026-11-09 | `dailymirrorlk-4eb0b159` | Seven dead and more than 100 injured after trains collide in Egypt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-4eb0b159)
 - 2026-11-09 | `dailymirrorlk-6cb9ee91` | Inmate dies after being gored by deer at Weerawila Open Prison Camp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-6cb9ee91)
 - 2026-11-09 | `dailyftlk-9a0d33de` | Blue Yonder’s cognitive solutions to power future of Sri Lankan retail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-9a0d33de)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailyftlk-87cf4a23` | UNP calls for explanation over CMC’s lack of preparedness for flooding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-87cf4a23)
 - 2026-11-09 | `dailyftlk-afad6a86` | Doctors, Development Officers escalate trade union action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-afad6a86)
 - 2026-11-09 | `dailyftlk-52abcfb9` | Shared responsibility key to protecting elections from disinformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-52abcfb9)
-- 2026-11-09 | `dailyftlk-a6553755` | Journalism Awards for Excellence 2025: Lifetime Achievement Award winners | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-a6553755)
-- 2026-11-09 | `dailyftlk-20c47fd5` | Significant Court victory for Friends of Manipay Hospital in Ride For Ceylon dispute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-20c47fd5)
-- 2026-11-09 | `dailyftlk-9717f54f` | Venkadeshwara Agro unveils Board to drive next phase of growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-9717f54f)
-- 2026-11-09 | `dailyftlk-8e2c6c5e` | Dialog Pay wins Gold for Best Digital Payments Innovation at Sri Lanka FinTech Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-8e2c6c5e)
-- 2026-11-09 | `dailyftlk-ea237a0b` | FTZ Toastmasters Club presents Moulding the Mindset to Mastery on 12 November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-ea237a0b)
-- 2026-11-09 | `dailyftlk-9d0280f7` | Anura Weerakoon new CEO of Kahawatte Plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-9d0280f7)
-- 2026-11-09 | `dailyftlk-39113184` | Are tax concessions really best way to attract investment to Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-39113184)
-- 2026-11-09 | `dailyftlk-130a8a47` | State and your hard-earned money: Moral contract  AKD cannot afford to ignore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-130a8a47)
-- 2026-11-09 | `dailyftlk-c109b5a2` | Rooftop solar: A national asset or a burden on national electricity grid? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-c109b5a2)
-- 2026-11-09 | `dailyftlk-4087d0d0` | Sri Lankan University Rankings: The free fall (Part 1) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-4087d0d0)
 
 ---
 
