@@ -100957,6 +100957,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-352250d7",
+    "num": "dailymirrorlk-352250d7",
+    "date_str": "2026-11-09",
+    "description": "Measles scare suspends inmate transfers to courts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Measles-scare-suspends-inmate-transfers-to-courts/108-354496",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794213235.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-09-dailymirrorlk-ca1a10f3",
     "num": "dailymirrorlk-ca1a10f3",
     "date_str": "2026-11-09",
@@ -101086,5 +101097,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794219335.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-3d7355c6",
+    "num": "dailymirrorlk-3d7355c6",
+    "date_str": "2026-11-09",
+    "description": "Hasthi Sena operation to be formalised under new policy framework",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hasthi-Sena-operation-to-be-formalised-under-new-policy-framework/108-354512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794219590.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_15:54:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_17:58:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,134** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,136** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-1528679f",
-    "num": "dailymirrorlk-1528679f",
+    "doc_id": "2026-11-09-dailymirrorlk-3d7355c6",
+    "num": "dailymirrorlk-3d7355c6",
     "date_str": "2026-11-09",
-    "description": "Rs. 32.5 billion Kandy transport terminal 55% complete",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-32-5-billion-Kandy-transport-terminal-55-complete/108-354511",
+    "description": "Hasthi Sena operation to be formalised under new policy framework",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hasthi-Sena-operation-to-be-formalised-under-new-policy-framework/108-354512",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794219335.0
+    "time_ut": 1794219590.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-09 | `dailymirrorlk-3d7355c6` | Hasthi Sena operation to be formalised under new policy framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-3d7355c6)
 - 2026-11-09 | `dailymirrorlk-1528679f` | Rs. 32.5 billion Kandy transport terminal 55% complete | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-1528679f)
 - 2026-11-09 | `dailymirrorlk-ad41d321` | Patients face days of delays as MRI services restricted at National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-ad41d321)
 - 2026-11-09 | `dailymirrorlk-3b430ba7` | National Productivity Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-3b430ba7)
@@ -53,14 +54,13 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailymirrorlk-2f14e072` | Scientists predict 2026 hottest year on record as climate talks begin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-2f14e072)
 - 2026-11-09 | `dailymirrorlk-38b310c2` | THE $6.3 BILLION REPUTATION TEST | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-38b310c2)
 - 2026-11-09 | `dailymirrorlk-ca1a10f3` | What the 2026 US Midterm Elections mean for Sri Lanka’s Economic Recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-ca1a10f3)
+- 2026-11-09 | `dailymirrorlk-352250d7` | Measles scare suspends inmate transfers to courts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-352250d7)
 - 2026-11-09 | `dailymirrorlk-832f0eda` | Floods in Colombo: CMC to take legal action against illegal constructions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-832f0eda)
 - 2026-11-09 | `dailymirrorlk-41595930` | Gotabaya gives nearly two-hour statement over Sugeeshwara’s probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-41595930)
 - 2026-11-09 | `dailymirrorlk-6cf8e069` | Stray animals are innocent souls that deserve love understanding and compassion : Dr. Janey Lowes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-6cf8e069)
 - 2026-11-09 | `dailymirrorlk-5025d21a` | What America’s Midterms Can Teach Us | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5025d21a)
 - 2026-11-09 | `dailymirrorlk-87987970` | Rupee weakens slightly against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-87987970)
 - 2026-11-09 | `dailymirrorlk-5cbf8840` | Crisis Monitoring Is Not a Back Office Function | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5cbf8840)
-- 2026-11-09 | `dailymirrorlk-fe8cf534` | JKH awaits govt. direction on SAGT beyond 2029 as Colombo Port nears capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-fe8cf534)
-- 2026-11-09 | `dailymirrorlk-a3599e3d` | Fraud outpacing digital payments growth in Sri Lanka, warns Novus COO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-a3599e3d)
 
 ---
 
