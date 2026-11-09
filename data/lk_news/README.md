@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_19:56:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--09_21:57:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,138** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,142** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-92a2203b",
-    "num": "dailymirrorlk-92a2203b",
+    "doc_id": "2026-11-09-dailymirrorlk-022c5119",
+    "num": "dailymirrorlk-022c5119",
     "date_str": "2026-11-09",
-    "description": "CSE extends rally as ASPI climbs above 21,500",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-rally-as-ASPI-climbs-above-21-500/108-354517",
+    "description": "Professionals seek fairer tax policy ahead of Budget",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Professionals-seek-fairer-tax-policy-ahead-of-Budget/108-354522",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794233532.0
+    "time_ut": 1794238618.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-09 | `dailymirrorlk-022c5119` | Professionals seek fairer tax policy ahead of Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-022c5119)
+- 2026-11-09 | `dailymirrorlk-9bca2319` | Sri Lankan-born New Yorker completes 50th anniversary NYC Marathon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-9bca2319)
+- 2026-11-09 | `dailymirrorlk-bba4a51f` | French judo legend and Olympic medallist Teddy Riner announces presidential bid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-bba4a51f)
+- 2026-11-09 | `dailymirrorlk-37205dda` | Votes from workers, land for investors: TPA’s Barath questions Govt. ahead of Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-37205dda)
 - 2026-11-09 | `dailymirrorlk-92a2203b` | CSE extends rally as ASPI climbs above 21,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-92a2203b)
 - 2026-11-09 | `dailymirrorlk-869c87c4` | Carefully planned system was put in place to avoid floods in Colombo by my Ministry: Patali | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-869c87c4)
 - 2026-11-09 | `dailymirrorlk-3d7355c6` | Hasthi Sena operation to be formalised under new policy framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-3d7355c6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailymirrorlk-38b310c2` | THE $6.3 BILLION REPUTATION TEST | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-38b310c2)
 - 2026-11-09 | `dailymirrorlk-ca1a10f3` | What the 2026 US Midterm Elections mean for Sri Lanka’s Economic Recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-ca1a10f3)
 - 2026-11-09 | `dailymirrorlk-352250d7` | Measles scare suspends inmate transfers to courts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-352250d7)
-- 2026-11-09 | `dailymirrorlk-832f0eda` | Floods in Colombo: CMC to take legal action against illegal constructions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-832f0eda)
-- 2026-11-09 | `dailymirrorlk-41595930` | Gotabaya gives nearly two-hour statement over Sugeeshwara’s probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-41595930)
-- 2026-11-09 | `dailymirrorlk-6cf8e069` | Stray animals are innocent souls that deserve love understanding and compassion : Dr. Janey Lowes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-6cf8e069)
-- 2026-11-09 | `dailymirrorlk-5025d21a` | What America’s Midterms Can Teach Us | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-5025d21a)
 
 ---
 
