@@ -100943,5 +100943,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794209252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-832f0eda",
+    "num": "dailymirrorlk-832f0eda",
+    "date_str": "2026-11-09",
+    "description": "Floods in Colombo: CMC to take legal action against illegal constructions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Floods-in-Colombo-CMC-to-take-legal-action-against-illegal-constructions/108-354495",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794212800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-ca1a10f3",
+    "num": "dailymirrorlk-ca1a10f3",
+    "date_str": "2026-11-09",
+    "description": "What the 2026 US Midterm Elections mean for Sri Lanka\u2019s Economic Recovery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/What-the-2026-US-Midterm-Elections-mean-for-Sri-Lankas-Economic-Recovery/108-354497",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794213675.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-38b310c2",
+    "num": "dailymirrorlk-38b310c2",
+    "date_str": "2026-11-09",
+    "description": "THE $6.3 BILLION REPUTATION TEST",
+    "url_metadata": "https://www.dailymirror.lk/opinion/THE-6-3-BILLION-REPUTATION-TEST/231-354498",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794215899.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-2f14e072",
+    "num": "dailymirrorlk-2f14e072",
+    "date_str": "2026-11-09",
+    "description": "Scientists predict 2026 hottest year on record as climate talks begin",
+    "url_metadata": "https://www.dailymirror.lk/international/Scientists-predict-2026-hottest-year-on-record-as-climate-talks-begin/107-354499",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794216032.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-0a9888a1",
+    "num": "dailymirrorlk-0a9888a1",
+    "date_str": "2026-11-09",
+    "description": "Four million Sri Lankan adults yet to obtain TIN numbers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-million-Sri-Lankan-adults-yet-to-obtain-TIN-numbers/108-354500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794216411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-aabc0f29",
+    "num": "dailymirrorlk-aabc0f29",
+    "date_str": "2026-11-09",
+    "description": "Dengue cases surpass 107,000 as Western Province accounts for more than half of infections",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-surpass-107-000-as-Western-Province-accounts-for-more-than-half-of-infections/108-354501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794216615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-dc647e31",
+    "num": "dailymirrorlk-dc647e31",
+    "date_str": "2026-11-09",
+    "description": "Colombo - A city that should not drown",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-A-city-that-should-not-drown/108-354502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794216880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-7ec8f804",
+    "num": "dailymirrorlk-7ec8f804",
+    "date_str": "2026-11-09",
+    "description": "No revenue for water board for one - fourth of supplies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-revenue-for-water-board-for-one-fourth-of-supplies/108-354503",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794217179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-786403b4",
+    "num": "dailymirrorlk-786403b4",
+    "date_str": "2026-11-09",
+    "description": "Motor Traffic Department expands one-day and general services",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Motor-Traffic-Department-expands-one-day-and-general-services/108-354504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794217487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-9457ad9a",
+    "num": "dailymirrorlk-9457ad9a",
+    "date_str": "2026-11-09",
+    "description": "Trump says deportation crackdown was \u2019too tough\u2019 after midterm setback",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-deportation-crackdown-was-too-tough-after-midterm-setback/107-354505",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794217669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-3b430ba7",
+    "num": "dailymirrorlk-3b430ba7",
+    "date_str": "2026-11-09",
+    "description": "National Productivity Awards",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/National-Productivity-Awards/110-354506",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794218395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-ad41d321",
+    "num": "dailymirrorlk-ad41d321",
+    "date_str": "2026-11-09",
+    "description": "Patients face days of delays as MRI services restricted at National Hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Patients-face-days-of-delays-as-MRI-services-restricted-at-National-Hospital/108-354508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794218555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-09-dailymirrorlk-1528679f",
+    "num": "dailymirrorlk-1528679f",
+    "date_str": "2026-11-09",
+    "description": "Rs. 32.5 billion Kandy transport terminal 55% complete",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-32-5-billion-Kandy-transport-terminal-55-complete/108-354511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794219335.0
   }
 ]
