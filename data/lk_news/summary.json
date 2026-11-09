@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-09 21:56:43",
-  "n_docs": 135142,
+  "time_updated": "2026-11-10 01:54:03",
+  "n_docs": 135156,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135142,
+  "n_docs_with_text": 135156,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-09",
-  "dataset_size": 2086554200,
+  "date_str_max": "2026-11-10",
+  "dataset_size": 2086681273,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-09-dailymirrorlk-022c5119",
-    "num": "dailymirrorlk-022c5119",
-    "date_str": "2026-11-09",
-    "description": "Professionals seek fairer tax policy ahead of Budget",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Professionals-seek-fairer-tax-policy-ahead-of-Budget/108-354522",
+    "doc_id": "2026-11-10-dailyftlk-feaf92d5",
+    "num": "dailyftlk-feaf92d5",
+    "date_str": "2026-11-10",
+    "description": "Budget 2027: Beyond promises to real progress",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-Beyond-promises-to-real-progress/4-799867",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794238618.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794251542.0
   }
 }
