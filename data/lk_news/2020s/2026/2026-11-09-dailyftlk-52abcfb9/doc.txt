@@ -1,0 +1,35 @@
+Shared responsibility key to protecting elections from disinformation
+
+Representatives of the Election Commission of Sri Lanka (ECSL), the media, and civil society met in Colombo on 30 October to discuss how to protect the integrity of election information. Democracy Reporting International (DRI) organised the event, Beyond the Algorithm, under the project Strengthening Resilience Against Disinformation in Sri Lanka. The European Union co-funds the project.
+
+Opening the event, DRI Executive Director Nicola Schmidt said that disinformation is a worldwide phenomenon.
+
+“Generative Artificial Intelligence (AI) is a big issue. Deepfakes and disinformation are being spread through different channels. Social media and different platforms are contributing to the speed of the spread of disinformation. We as DRI are looking into this globally, looking at what algorithms do. That’s why the title of this conference is Beyond the Algorithm. It’s not just the algorithms but their contributions to disinformation is very important when promoting digital rights and trying to hold tech platforms accountable for what they are doing,” she said.
+
+Addressing the gathering, ECSL Member A.M. Faaiz said that algorithms decide what appears on our screen, but algorithms do not vote.
+
+“Behind every screen sits a citizen and behind every ballot lies a judgement that citizen has formed from what he or she has read, heard, and come to believe. Our concern is with the quality of the judgement and with the conditions with which it was formed. Democracy rests on a simple promise; that citizens are free to choose and that their choice is an informed one,” he said.
+
+Faaiz further said that with the support of DRI and Factum, the ECSL is formulating a strategic action plan on disinformation and harmful content and mapping digital capacities to shape a roadmap for the Commission’s digital presence.
+
+“What began as a project is becoming part of the institution. Our purpose is to protect the voters, not to police opinion. Every measure we take must remain consistent with freedom of expression and media freedom. Protecting electoral integrity must never become a justification for suppressing legitimate political debate or criticism, including criticism of the Commission itself,” he added.
+
+One of the key components of the event included research-driven lessons on three recently concluded elections in Sri Lanka.
+
+The results presented by Digital Democracy Research Officer Camila Weinmann and Digital Research Analyst Prihesh Ratnayake revealed that 66 accounts impersonated political parties and candidates on TikTok. 45.5% of accounts had been active during the 2024 Presidential Election and 21.2% of them remained active till the 2025 Local Council Election. In terms of action, following reports of these accounts made to TikTok and the ECSL, 51 of these accounts were removed.
+
+The research also revealed that women politicians faced higher levels of technology facilitated gender-based violence (TFGBV) during the 2024-2025 election cycle. The findings also revealed how chatbots spread inaccurate electoral information and how political advertisements kept running through the silence period during the Parliamentary Elections campaign. The research also shed light on Generative AI and risks to electoral integrity.
+
+The event also featured two panel discussions with panellists representing the media, ECSL, advocacy groups, and civil society. The first panel discussion, titled ‘The Election Information Ecosystem,’ discussed disinformation, accountability, and challenges to electoral integrity.
+
+The first panel spoke about protocols that traditional newsrooms could follow when public figures make unverified claims and the effectiveness of counter-narratives in the form of drama, podcasts, and interviews. Panellists also discussed whether voluntary codes of conduct and Memorandums of Understanding between the ECSL and tech platforms are effective in countering disinformation, the legislative backing such institutions require, and rising polarisation as a main threat to information integrity.
+
+The second panel discussion, titled ‘Resilience in Practice,’ drew experiences from fact-checking, advocacy, and media literacy work. The discussion navigated challenges when it comes to verifying information, type of responses received from social media companies during the fact-checking processes, how local journalists have been capacitated to counter disinformation, and lack of interest towards funding fact-checking initiatives.
+
+Closing the event, DRI Project Manager Aingkaran Kugathasan thanked participants and partners for their contribution to the project.
+
+The event was held as part of the ‘Strengthening Resilience Against Disinformation in Sri Lanka’ project, co-funded by the European Union, and brought together representatives from international partner organisations, stakeholder institutions, the media, and civil society groups.
+
+DRI and Factum produced eight research reports under the project. The reports are available at https://democracy-reporting.org/en/office/sri-lanka.
+
+66 accounts impersonated political parties and candidates on TikTok. 45.5% of accounts had been active during the 2024 Presidential Election and 21.2% of them remained active till the 2025 Local Council Election. In terms of action, following reports of these accounts made to TikTok and the ECSL, 51 of these accounts were removed
