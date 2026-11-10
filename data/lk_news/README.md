@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_19:55:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_21:57:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,233** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-79eee9fd",
-    "num": "dailymirrorlk-79eee9fd",
+    "doc_id": "2026-11-10-dailymirrorlk-b89b403e",
+    "num": "dailymirrorlk-b89b403e",
     "date_str": "2026-11-10",
-    "description": "Colombo-Kandy main road closed following earth and rock slide",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Kandy-main-road-closed-following-earth-and-rock-slide/108-354621",
+    "description": "Sri Lanka\u2019s Rumesh Tharanga among world\u2019s top 10 athletes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rumesh-Tharanga-among-worlds-top-10-athletes/108-354622",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794318745.0
+    "time_ut": 1794322113.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-10 | `dailymirrorlk-b89b403e` | Sri Lanka’s Rumesh Tharanga among world’s top 10 athletes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b89b403e)
 - 2026-11-10 | `dailymirrorlk-79eee9fd` | Colombo-Kandy main road closed following earth and rock slide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-79eee9fd)
 - 2026-11-10 | `dailymirrorlk-da1effb3` | Fishermen warned of developing low-pressure system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-da1effb3)
 - 2026-11-10 | `dailymirrorlk-4a9a6a86` | Where did your 100rs go? Budget 2026 explained | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4a9a6a86)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-10 | `dailymirrorlk-74c941eb` | New railway bridge over Mahaweli River approved | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-74c941eb)
 - 2026-11-10 | `dailymirrorlk-aa72dd39` | Public officers to receive training in Azerbaijan under new MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-aa72dd39)
 - 2026-11-10 | `dailymirrorlk-b0e3f7dd` | Appeal Court delivers divided judgment on Hirunika’s appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b0e3f7dd)
-- 2026-11-10 | `dailymirrorlk-e700e629` | Former Water Board Chairman Nishantha Ranatunga arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-e700e629)
 
 ---
 
