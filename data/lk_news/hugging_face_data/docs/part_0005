@@ -101298,6 +101298,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailyftlk-5351cae6",
+    "num": "dailyftlk-5351cae6",
+    "date_str": "2026-11-10",
+    "description": "WCIC IGNITE 2026 empowers 100 young women to lead Sri Lanka\u2019s next wave of entrepreneurship",
+    "url_metadata": "https://www.ft.lk/business/WCIC-IGNITE-2026-empowers-100-young-women-to-lead-Sri-Lanka-s-next-wave-of-entrepreneurship/34-799862",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794250918.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-10-dailyftlk-778e0413",
     "num": "dailyftlk-778e0413",
     "date_str": "2026-11-10",
@@ -101625,6 +101636,17 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794291082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-6827d0db",
+    "num": "dailymirrorlk-6827d0db",
+    "date_str": "2026-11-10",
+    "description": "\u2018FiNAC HROptimizer\u2019 leads as most effective remote workforce mgt. software",
+    "url_metadata": "https://www.dailymirror.lk/business-news/FiNAC-HROptimizer-leads-as-most-effective-remote-workforce-mgt-software/273-354553",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794291151.0
   },
   {
     "doc_type": "lk_news",
@@ -102021,5 +102043,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794304257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-4d7e44a0",
+    "num": "dailymirrorlk-4d7e44a0",
+    "date_str": "2026-11-10",
+    "description": "Russia and Ukraine hold first peace talks for nine months, Trump envoy says gaps have narrowed",
+    "url_metadata": "https://www.dailymirror.lk/international/Russia-and-Ukraine-hold-first-peace-talks-for-nine-months-Trump-envoy-says-gaps-have-narrowed/107-354605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794306022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-0e899011",
+    "num": "dailymirrorlk-0e899011",
+    "date_str": "2026-11-10",
+    "description": "Indian actress Pooja Hegde arrives in Sri Lanka for Colombo event",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-actress-Pooja-Hegde-arrives-in-Sri-Lanka-for-Colombo-event/108-354606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794306677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-8160953c",
+    "num": "dailymirrorlk-8160953c",
+    "date_str": "2026-11-10",
+    "description": "ADB approves $300 million for Sri Lanka\u2019s water and sanitation sector",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ADB-approves-300-million-for-Sri-Lankas-water-and-sanitation-sector/108-354608",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794308518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-73c47542",
+    "num": "dailymirrorlk-73c47542",
+    "date_str": "2026-11-10",
+    "description": "Up to 1.49 million Sri Lankans may need food assistance until May 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Up-to-1-49-million-Sri-Lankans-may-need-food-assistance-until-May-2027/108-354609",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794309700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-c48fa4ca",
+    "num": "dailymirrorlk-c48fa4ca",
+    "date_str": "2026-11-10",
+    "description": "Government aims to make SriLankan Airlines profitable",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-aims-to-make-SriLankan-Airlines-profitable/108-354610",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794310511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-55fffdf6",
+    "num": "dailymirrorlk-55fffdf6",
+    "date_str": "2026-11-10",
+    "description": "CEJ demands AG implement Supreme Court directives on X-Press Pearl disaster",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEJ-demands-AG-implement-Supreme-Court-directives-on-X-Press-Pearl-disaster/108-354611",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794310937.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-c6b5ad44",
+    "num": "dailymirrorlk-c6b5ad44",
+    "date_str": "2026-11-10",
+    "description": "Refueling tankers moved from UK to Germany due to unspecified Iran threat, source says",
+    "url_metadata": "https://www.dailymirror.lk/international/Refueling-tankers-moved-from-UK-to-Germany-due-to-unspecified-Iran-threat-source-says/107-354613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794311502.0
   }
 ]

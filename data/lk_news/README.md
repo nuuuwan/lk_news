@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_15:55:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_17:56:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,219** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,228** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-bb4cccd9",
-    "num": "dailymirrorlk-bb4cccd9",
+    "doc_id": "2026-11-10-dailymirrorlk-c6b5ad44",
+    "num": "dailymirrorlk-c6b5ad44",
     "date_str": "2026-11-10",
-    "description": "Ravi K urges HSBC to reconsider closure of Sri Lanka operations",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ravi-K-urges-HSBC-to-reconsider-closure-of-Sri-Lanka-operations/108-354604",
+    "description": "Refueling tankers moved from UK to Germany due to unspecified Iran threat, source says",
+    "url_metadata": "https://www.dailymirror.lk/international/Refueling-tankers-moved-from-UK-to-Germany-due-to-unspecified-Iran-threat-source-says/107-354613",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794304257.0
+    "time_ut": 1794311502.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-10 | `dailymirrorlk-c6b5ad44` | Refueling tankers moved from UK to Germany due to unspecified Iran threat, source says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-c6b5ad44)
+- 2026-11-10 | `dailymirrorlk-55fffdf6` | CEJ demands AG implement Supreme Court directives on X-Press Pearl disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-55fffdf6)
+- 2026-11-10 | `dailymirrorlk-c48fa4ca` | Government aims to make SriLankan Airlines profitable | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-c48fa4ca)
+- 2026-11-10 | `dailymirrorlk-73c47542` | Up to 1.49 million Sri Lankans may need food assistance until May 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-73c47542)
+- 2026-11-10 | `dailymirrorlk-8160953c` | ADB approves $300 million for Sri Lanka’s water and sanitation sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-8160953c)
+- 2026-11-10 | `dailymirrorlk-0e899011` | Indian actress Pooja Hegde arrives in Sri Lanka for Colombo event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-0e899011)
+- 2026-11-10 | `dailymirrorlk-4d7e44a0` | Russia and Ukraine hold first peace talks for nine months, Trump envoy says gaps have narrowed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4d7e44a0)
 - 2026-11-10 | `dailymirrorlk-bb4cccd9` | Ravi K urges HSBC to reconsider closure of Sri Lanka operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-bb4cccd9)
 - 2026-11-10 | `dailymirrorlk-b27cc15c` | Japan grants Rs. 2.08 Bn to Sri Lanka Navy for 25 patrol boats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b27cc15c)
 - 2026-11-10 | `dailymirrorlk-02e78825` | University of Jaffna to sign five-year MoU with US university | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-02e78825)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-10 | `dailymirrorlk-dbc5caad` | Chennai hosts Port City’s first Indian investor forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-dbc5caad)
 - 2026-11-10 | `dailymirrorlk-5d51e471` | Let’s learn from past disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-5d51e471)
 - 2026-11-10 | `dailymirrorlk-006ec26b` | Formation of Israeli government held up by thorny political issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-006ec26b)
-- 2026-11-10 | `dailymirrorlk-4e727388` | Parliament is Debating the Wrong Emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4e727388)
-- 2026-11-10 | `dailymirrorlk-8949439e` | Shangri-La’s Sri Lankan hotels more than triple profit as occupancy defies arrival dip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-8949439e)
-- 2026-11-10 | `dailymirrorlk-039354a4` | Sri Lanka’s poorest fifth lose 16% of real household income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-039354a4)
-- 2026-11-10 | `dailymirrorlk-a2cb8034` | Commercial Bank tops Fitch’s local ratings for Sri Lankan private banks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-a2cb8034)
-- 2026-11-10 | `dailymirrorlk-6b438f65` | HNB and IFC partner to advance supply chain finance and strengthen risk management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-6b438f65)
-- 2026-11-10 | `dailymirrorlk-dd7df9b8` | CIC quarterly profit rises 20% as tax charge falls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-dd7df9b8)
-- 2026-11-10 | `dailymirrorlk-4fff4e50` | October inflows lift Sri Lanka’s remittances to US $ 7.6bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4fff4e50)
 
 ---
 
