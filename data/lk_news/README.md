@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_13:57:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_15:55:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,201** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,219** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-e700e629",
-    "num": "dailymirrorlk-e700e629",
+    "doc_id": "2026-11-10-dailymirrorlk-bb4cccd9",
+    "num": "dailymirrorlk-bb4cccd9",
     "date_str": "2026-11-10",
-    "description": "Former Water Board Chairman Nishantha Ranatunga arrested",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Water-Board-Chairman-Nishantha-Ranatunga-arrested/108-354595",
+    "description": "Ravi K urges HSBC to reconsider closure of Sri Lanka operations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ravi-K-urges-HSBC-to-reconsider-closure-of-Sri-Lanka-operations/108-354604",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794298225.0
+    "time_ut": 1794304257.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-10 | `dailymirrorlk-bb4cccd9` | Ravi K urges HSBC to reconsider closure of Sri Lanka operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-bb4cccd9)
+- 2026-11-10 | `dailymirrorlk-b27cc15c` | Japan grants Rs. 2.08 Bn to Sri Lanka Navy for 25 patrol boats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b27cc15c)
+- 2026-11-10 | `dailymirrorlk-02e78825` | University of Jaffna to sign five-year MoU with US university | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-02e78825)
+- 2026-11-10 | `dailymirrorlk-1d045ea6` | Cabinet approves MoU with India for 100 new Suwa Seriya ambulances | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-1d045ea6)
+- 2026-11-10 | `dailymirrorlk-74c941eb` | New railway bridge over Mahaweli River approved | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-74c941eb)
+- 2026-11-10 | `dailymirrorlk-aa72dd39` | Public officers to receive training in Azerbaijan under new MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-aa72dd39)
+- 2026-11-10 | `dailymirrorlk-b0e3f7dd` | Appeal Court delivers divided judgment on Hirunika’s appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b0e3f7dd)
 - 2026-11-10 | `dailymirrorlk-e700e629` | Former Water Board Chairman Nishantha Ranatunga arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-e700e629)
+- 2026-11-10 | `dailymirrorlk-c21e8d6e` | Private plane carrying six foreign nationals crashes in Philippines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-c21e8d6e)
 - 2026-11-10 | `dailymirrorlk-37c4d64b` | Turkey steel factory blast kills at least 17 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-37c4d64b)
 - 2026-11-10 | `dailymirrorlk-dbc5caad` | Chennai hosts Port City’s first Indian investor forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-dbc5caad)
 - 2026-11-10 | `dailymirrorlk-5d51e471` | Let’s learn from past disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-5d51e471)
 - 2026-11-10 | `dailymirrorlk-006ec26b` | Formation of Israeli government held up by thorny political issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-006ec26b)
 - 2026-11-10 | `dailymirrorlk-4e727388` | Parliament is Debating the Wrong Emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4e727388)
+- 2026-11-10 | `dailymirrorlk-8949439e` | Shangri-La’s Sri Lankan hotels more than triple profit as occupancy defies arrival dip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-8949439e)
 - 2026-11-10 | `dailymirrorlk-039354a4` | Sri Lanka’s poorest fifth lose 16% of real household income | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-039354a4)
 - 2026-11-10 | `dailymirrorlk-a2cb8034` | Commercial Bank tops Fitch’s local ratings for Sri Lankan private banks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-a2cb8034)
 - 2026-11-10 | `dailymirrorlk-6b438f65` | HNB and IFC partner to advance supply chain finance and strengthen risk management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-6b438f65)
 - 2026-11-10 | `dailymirrorlk-dd7df9b8` | CIC quarterly profit rises 20% as tax charge falls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-dd7df9b8)
 - 2026-11-10 | `dailymirrorlk-4fff4e50` | October inflows lift Sri Lanka’s remittances to US $ 7.6bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4fff4e50)
-- 2026-11-10 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-821a32a1)
-- 2026-11-10 | `dailymirrorlk-04e5de37` | Deadly bus crash on A9 road | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-04e5de37)
-- 2026-11-10 | `dailymirrorlk-7719c305` | Ceylon Chamber facilitates new trade opportunities through Yunnan biz delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-7719c305)
-- 2026-11-10 | `dailymirrorlk-15983f74` | Seylan Bank partners Kedalla Construction Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-15983f74)
-- 2026-11-10 | `dailymirrorlk-6a256320` | INSEE forum unites stakeholders to advance SL’s construction sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-6a256320)
-- 2026-11-10 | `dailymirrorlk-17ae5ed8` | Nawaloka Hospital Negombo opens Sreeni Dharmadasa Heart Care Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-17ae5ed8)
-- 2026-11-10 | `dailymirrorlk-c41a9f77` | DFCC Bank relocates Peradeniya branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-c41a9f77)
-- 2026-11-10 | `dailymirrorlk-a85deec3` | Sampath Bank introduces one-stop housing loan hub with 10-day processing target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-a85deec3)
-- 2026-11-10 | `dailymirrorlk-547ad2ad` | CT Holdings reaffirms long-term confidence in the Group and Sri Lankan economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-547ad2ad)
 
 ---
 
