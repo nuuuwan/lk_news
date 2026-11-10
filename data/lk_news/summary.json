@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-10 11:58:27",
-  "n_docs": 135179,
+  "time_updated": "2026-11-10 13:56:30",
+  "n_docs": 135201,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135179,
+  "n_docs_with_text": 135201,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-10",
-  "dataset_size": 2087000974,
+  "dataset_size": 2087184559,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-50945976",
-    "num": "dailymirrorlk-50945976",
+    "doc_id": "2026-11-10-dailymirrorlk-e700e629",
+    "num": "dailymirrorlk-e700e629",
     "date_str": "2026-11-10",
-    "description": "Parties\u2019 views sought on Provincial Council polls",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parties-views-sought-on-Provincial-Council-polls/108-354548",
+    "description": "Former Water Board Chairman Nishantha Ranatunga arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Water-Board-Chairman-Nishantha-Ranatunga-arrested/108-354595",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794290857.0
+    "time_ut": 1794298225.0
   }
 }
