@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-10 09:54:12",
-  "n_docs": 135161,
+  "time_updated": "2026-11-10 11:58:27",
+  "n_docs": 135179,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135161,
+  "n_docs_with_text": 135179,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-10",
-  "dataset_size": 2086913321,
+  "dataset_size": 2087000974,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-2c270cea",
-    "num": "dailymirrorlk-2c270cea",
+    "doc_id": "2026-11-10-dailymirrorlk-50945976",
+    "num": "dailymirrorlk-50945976",
     "date_str": "2026-11-10",
-    "description": "Egg prices may rise to Rs. 47 by December: Producers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Egg-prices-may-rise-to-Rs-47-by-December-Producers/108-354530",
+    "description": "Parties\u2019 views sought on Provincial Council polls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parties-views-sought-on-Provincial-Council-polls/108-354548",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794283909.0
+    "time_ut": 1794290857.0
   }
 }
