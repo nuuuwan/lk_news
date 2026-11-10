@@ -102120,5 +102120,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794311502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-19355d0f",
+    "num": "dailymirrorlk-19355d0f",
+    "date_str": "2026-11-10",
+    "description": "DMT warns public: Beware of brokers near its premises",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DMT-warns-public-Beware-of-brokers-near-its-premises/108-354614",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794315132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-32ca7f63",
+    "num": "dailymirrorlk-32ca7f63",
+    "date_str": "2026-11-10",
+    "description": "CSE rally accelerates as ASPI breaks above 22,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rally-accelerates-as-ASPI-breaks-above-22-000/108-354615",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794317061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-4a9a6a86",
+    "num": "dailymirrorlk-4a9a6a86",
+    "date_str": "2026-11-10",
+    "description": "Where did your 100rs go? Budget 2026 explained",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Where-did-your-100rs-go-Budget-2026-explained/108-354616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794317672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-da1effb3",
+    "num": "dailymirrorlk-da1effb3",
+    "date_str": "2026-11-10",
+    "description": "Fishermen warned of developing low-pressure system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishermen-warned-of-developing-low-pressure-system/108-354620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794318677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-79eee9fd",
+    "num": "dailymirrorlk-79eee9fd",
+    "date_str": "2026-11-10",
+    "description": "Colombo-Kandy main road closed following earth and rock slide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Kandy-main-road-closed-following-earth-and-rock-slide/108-354621",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794318745.0
   }
 ]
