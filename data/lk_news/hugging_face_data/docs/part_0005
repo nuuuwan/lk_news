@@ -101328,5 +101328,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794251542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-cd6d14b1",
+    "num": "dailymirrorlk-cd6d14b1",
+    "date_str": "2026-11-10",
+    "description": "Cancer care at five hospitals at risk over stalled tender",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cancer-care-at-five-hospitals-at-risk-over-stalled-tender/108-354525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-e27da80a",
+    "num": "dailymirrorlk-e27da80a",
+    "date_str": "2026-11-10",
+    "description": "UN experts: Sri Lanka\u2019s proposed terrorism law must respect human rights",
+    "url_metadata": "https://www.dailymirror.lk/international/UN-experts-Sri-Lankas-proposed-terrorism-law-must-respect-human-rights/107-354526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-d760248d",
+    "num": "dailymirrorlk-d760248d",
+    "date_str": "2026-11-10",
+    "description": "Four Chinese nationals arrested for collecting wildlife species in Sinharaja",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-Chinese-nationals-arrested-for-collecting-wildlife-species-in-Sinharaja/108-354527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283345.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-8223bcc8",
+    "num": "dailymirrorlk-8223bcc8",
+    "date_str": "2026-11-10",
+    "description": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-Trump-signals-restraint-on-Iran/107-354529",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-10-dailymirrorlk-2c270cea",
+    "num": "dailymirrorlk-2c270cea",
+    "date_str": "2026-11-10",
+    "description": "Egg prices may rise to Rs. 47 by December: Producers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Egg-prices-may-rise-to-Rs-47-by-December-Producers/108-354530",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283909.0
   }
 ]

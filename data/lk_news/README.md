@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_07:56:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--10_09:55:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,156** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,161** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailyftlk-feaf92d5",
-    "num": "dailyftlk-feaf92d5",
+    "doc_id": "2026-11-10-dailymirrorlk-2c270cea",
+    "num": "dailymirrorlk-2c270cea",
     "date_str": "2026-11-10",
-    "description": "Budget 2027: Beyond promises to real progress",
-    "url_metadata": "https://www.ft.lk/columns/Budget-2027-Beyond-promises-to-real-progress/4-799867",
+    "description": "Egg prices may rise to Rs. 47 by December: Producers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Egg-prices-may-rise-to-Rs-47-by-December-Producers/108-354530",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794251542.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794283909.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-10 | `dailymirrorlk-2c270cea` | Egg prices may rise to Rs. 47 by December: Producers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-2c270cea)
+- 2026-11-10 | `dailymirrorlk-8223bcc8` | Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-8223bcc8)
+- 2026-11-10 | `dailymirrorlk-d760248d` | Four Chinese nationals arrested for collecting wildlife species in Sinharaja | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-d760248d)
+- 2026-11-10 | `dailymirrorlk-e27da80a` | UN experts: Sri Lanka’s proposed terrorism law must respect human rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-e27da80a)
+- 2026-11-10 | `dailymirrorlk-cd6d14b1` | Cancer care at five hospitals at risk over stalled tender | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-cd6d14b1)
 - 2026-11-10 | `dailyftlk-feaf92d5` | Budget 2027: Beyond promises to real progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailyftlk-feaf92d5)
 - 2026-11-10 | `dailyftlk-80c0f165` | India–Sri Lanka economic ties spotlights inaugural Colombo Port City Investor Forum in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailyftlk-80c0f165)
 - 2026-11-10 | `dailyftlk-778e0413` | Sri Lanka Business Forum in Gaziantep highlights trade and investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailyftlk-778e0413)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-09 | `dailyftlk-1187c276` | Chinese Embassy upbeat about passenger drone flights in SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-1187c276)
 - 2026-11-09 | `dailyftlk-51d3b228` | Sri Lankan University Rankings: The free fall (Part 2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailyftlk-51d3b228)
 - 2026-11-09 | `dailymirrorlk-022c5119` | Professionals seek fairer tax policy ahead of Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-022c5119)
-- 2026-11-09 | `dailymirrorlk-9bca2319` | Sri Lankan-born New Yorker completes 50th anniversary NYC Marathon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-9bca2319)
-- 2026-11-09 | `dailymirrorlk-bba4a51f` | French judo legend and Olympic medallist Teddy Riner announces presidential bid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-bba4a51f)
-- 2026-11-09 | `dailymirrorlk-37205dda` | Votes from workers, land for investors: TPA’s Barath questions Govt. ahead of Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-37205dda)
-- 2026-11-09 | `dailymirrorlk-92a2203b` | CSE extends rally as ASPI climbs above 21,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-92a2203b)
-- 2026-11-09 | `dailymirrorlk-869c87c4` | Carefully planned system was put in place to avoid floods in Colombo by my Ministry: Patali | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-09-dailymirrorlk-869c87c4)
 
 ---
 
