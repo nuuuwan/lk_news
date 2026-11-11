@@ -102186,5 +102186,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794322113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-71f9890d",
+    "num": "dailyftlk-71f9890d",
+    "date_str": "2026-11-11",
+    "description": "New Digital Economy Ministry Secretary appointed",
+    "url_metadata": "https://www.ft.lk/news/New-Digital-Economy-Ministry-Secretary-appointed/56-799892",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794356497.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-d744d82d",
+    "num": "dailyftlk-d744d82d",
+    "date_str": "2026-11-11",
+    "description": "Japan grants Rs. 2 b to boost Sri Lanka Navy capabilities",
+    "url_metadata": "https://www.ft.lk/news/Japan-grants-Rs-2-b-to-boost-Sri-Lanka-Navy-capabilities/56-799893",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794356682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-cdd67be8",
+    "num": "dailyftlk-cdd67be8",
+    "date_str": "2026-11-11",
+    "description": "Cabinet approves MoU between University of Jaffna and Southern Illinois University",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-MoU-between-University-of-Jaffna-and-Southern-Illinois-University/56-799894",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794356701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-9737529d",
+    "num": "dailyftlk-9737529d",
+    "date_str": "2026-11-11",
+    "description": "Court of Appeal delivers split verdict on Hirunika\u2019s appeal against prison sentence",
+    "url_metadata": "https://www.ft.lk/news/Court-of-Appeal-delivers-split-verdict-on-Hirunika-s-appeal-against-prison-sentence/56-799895",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794356757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-bb287e0b",
+    "num": "dailyftlk-bb287e0b",
+    "date_str": "2026-11-11",
+    "description": "Budgeting for a better Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Budgeting-for-a-better-Sri-Lanka/4-799896",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794357019.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_03:54:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_06:06:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,239** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-b89b403e",
-    "num": "dailymirrorlk-b89b403e",
-    "date_str": "2026-11-10",
-    "description": "Sri Lanka\u2019s Rumesh Tharanga among world\u2019s top 10 athletes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rumesh-Tharanga-among-worlds-top-10-athletes/108-354622",
+    "doc_id": "2026-11-11-dailyftlk-bb287e0b",
+    "num": "dailyftlk-bb287e0b",
+    "date_str": "2026-11-11",
+    "description": "Budgeting for a better Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Budgeting-for-a-better-Sri-Lanka/4-799896",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794322113.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794357019.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-11 | `dailyftlk-bb287e0b` | Budgeting for a better Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-bb287e0b)
+- 2026-11-11 | `dailyftlk-9737529d` | Court of Appeal delivers split verdict on Hirunika’s appeal against prison sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-9737529d)
+- 2026-11-11 | `dailyftlk-cdd67be8` | Cabinet approves MoU between University of Jaffna and Southern Illinois University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-cdd67be8)
+- 2026-11-11 | `dailyftlk-d744d82d` | Japan grants Rs. 2 b to boost Sri Lanka Navy capabilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-d744d82d)
+- 2026-11-11 | `dailyftlk-71f9890d` | New Digital Economy Ministry Secretary appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-71f9890d)
 - 2026-11-10 | `dailymirrorlk-b89b403e` | Sri Lanka’s Rumesh Tharanga among world’s top 10 athletes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b89b403e)
 - 2026-11-10 | `dailymirrorlk-79eee9fd` | Colombo-Kandy main road closed following earth and rock slide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-79eee9fd)
 - 2026-11-10 | `dailymirrorlk-da1effb3` | Fishermen warned of developing low-pressure system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-da1effb3)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-10 | `dailymirrorlk-4d7e44a0` | Russia and Ukraine hold first peace talks for nine months, Trump envoy says gaps have narrowed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-4d7e44a0)
 - 2026-11-10 | `dailymirrorlk-bb4cccd9` | Ravi K urges HSBC to reconsider closure of Sri Lanka operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-bb4cccd9)
 - 2026-11-10 | `dailymirrorlk-b27cc15c` | Japan grants Rs. 2.08 Bn to Sri Lanka Navy for 25 patrol boats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b27cc15c)
-- 2026-11-10 | `dailymirrorlk-02e78825` | University of Jaffna to sign five-year MoU with US university | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-02e78825)
-- 2026-11-10 | `dailymirrorlk-1d045ea6` | Cabinet approves MoU with India for 100 new Suwa Seriya ambulances | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-1d045ea6)
-- 2026-11-10 | `dailymirrorlk-74c941eb` | New railway bridge over Mahaweli River approved | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-74c941eb)
-- 2026-11-10 | `dailymirrorlk-aa72dd39` | Public officers to receive training in Azerbaijan under new MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-aa72dd39)
-- 2026-11-10 | `dailymirrorlk-b0e3f7dd` | Appeal Court delivers divided judgment on Hirunika’s appeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-10-dailymirrorlk-b0e3f7dd)
 
 ---
 

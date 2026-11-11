@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 03:53:54",
-  "n_docs": 135234,
+  "time_updated": "2026-11-11 06:06:13",
+  "n_docs": 135239,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135234,
+  "n_docs_with_text": 135239,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-10",
-  "dataset_size": 2087642843,
+  "date_str_max": "2026-11-11",
+  "dataset_size": 2087664875,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-10-dailymirrorlk-b89b403e",
-    "num": "dailymirrorlk-b89b403e",
-    "date_str": "2026-11-10",
-    "description": "Sri Lanka\u2019s Rumesh Tharanga among world\u2019s top 10 athletes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rumesh-Tharanga-among-worlds-top-10-athletes/108-354622",
+    "doc_id": "2026-11-11-dailyftlk-bb287e0b",
+    "num": "dailyftlk-bb287e0b",
+    "date_str": "2026-11-11",
+    "description": "Budgeting for a better Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Budgeting-for-a-better-Sri-Lanka/4-799896",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794322113.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794357019.0
   }
 }
