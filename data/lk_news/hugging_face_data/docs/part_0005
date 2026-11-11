@@ -102956,5 +102956,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794398147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-4cf6a918",
+    "num": "dailymirrorlk-4cf6a918",
+    "date_str": "2026-11-11",
+    "description": "Public warned against travelling abroad for employment on visit visas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-warned-against-travelling-abroad-for-employment-on-visit-visas/108-354700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794406621.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-379f812a",
+    "num": "dailymirrorlk-379f812a",
+    "date_str": "2026-11-11",
+    "description": "CSE consolidates above 22,000 after six-session rally",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-consolidates-above-22-000-after-six-session-rally/108-354701",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794406777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-40455957",
+    "num": "dailymirrorlk-40455957",
+    "date_str": "2026-11-11",
+    "description": "India to provide 100 more ambulances to Sri Lanka under Rs. 1.7 billion grant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-to-provide-100-more-ambulances-to-Sri-Lanka-under-Rs-1-7-billion-grant/108-354702",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794407755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-96fe90a7",
+    "num": "dailymirrorlk-96fe90a7",
+    "date_str": "2026-11-11",
+    "description": "Opposition launches budget tracking website",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-launches-budget-tracking-website/108-354703",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794408241.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-0320f43f",
+    "num": "dailymirrorlk-0320f43f",
+    "date_str": "2026-11-11",
+    "description": "Anojan Sivarasa completely freed; return arranged",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anojan-Sivarasa-completely-freed-return-arranged/108-354705",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794410985.0
   }
 ]
