@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 11:58:06",
-  "n_docs": 135270,
+  "time_updated": "2026-11-11 13:56:00",
+  "n_docs": 135297,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135270,
+  "n_docs_with_text": 135297,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-11",
-  "dataset_size": 2088111590,
+  "dataset_size": 2088278310,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailymirrorlk-41ef2ec8",
-    "num": "dailymirrorlk-41ef2ec8",
+    "doc_id": "2026-11-11-dailymirrorlk-031a1669",
+    "num": "dailymirrorlk-031a1669",
     "date_str": "2026-11-11",
-    "description": "Sri Lanka tests passenger drones for first time",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-tests-passenger-drones-for-first-time/110-354642",
+    "description": "ADB urges Sri Lanka to put natural assets on the investment map",
+    "url_metadata": "https://www.dailymirror.lk/business/ADB-urges-Sri-Lanka-to-put-natural-assets-on-the-investment-map/215-354687",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794376273.0
+    "time_ut": 1794384796.0
   }
 }

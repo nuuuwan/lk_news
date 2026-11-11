@@ -1,0 +1,59 @@
+Good data required  when modelling  forecasts into the future - Dr. Thomas Adams -
+
+Dr. Adams at the workshop titled ‘Flood forecasting on a shoestring budget’
+
+People will pay attention to things that they feel are important to them. People are used to seeing the world in a certain way. When you provide them with more information,  it just opens up a world of possibilities to them
+
+There’s one professor at a university in Thailand who has taken charge of this system from one river base,  and it’s very important in the region. He has developed the system and has it fully operational right now
+
+Timely and accurate flood forecasting minimises economic and humanitarian costs. Recently, American flood forecasting expert Dr. Thomas Adams visited Sri Lanka to share U.S. expertise and introduce innovative forecasting technology.
+
+Dr. Adams holds a Ph.D. in Civil Engineering from Virginia Tech, specialising in water resources and hydrologic prediction. His extensive career includes previous positions with National Oceanic and Atmospheric Administration’s (NOAA) National Weather Service, including its Hydrologic Research Laboratory and Ohio River Forecast Centre, as well as a previous appointment as a visiting scientist at NOAA’s National Water Centre. He has also worked internationally on flood forecasting and water resources projects in China, Pakistan, Vietnam, Panama, and Romania, including consulting assignments with the World Bank.
+
+During his visit, he conducted a country specific training on ‘Flood Forecasting on a Shoestring Budget’ for officials at the Ministry of Agriculture, Livestock, Land and Irrigation. In addition, engineers, directors, senior lecturers, hydrologists, geologists and scientists from Sri Lanka Land Development Corporation (SLLDC), National Building Research Organisation (NBRO), Regional Integrated Multi-Hazard Early Warning System (RIMES), Open University of Sri Lanka (OUSL) and Mahaweli Authority participated at the technical workshop.
+
+In an exclusive interview with the Daily Mirror, Dr. Adams explained the concept of flood forecasting on a shoestring budget and its objectives, why flood forecasting is important for a country like Sri Lanka and the use of open source data and computer models in flood forecasting.
+
+Q Could you tell us about the training you conducted here in Sri Lanka?
+
+I’m working on a project called ‘Flood forecasting on a shoestring budget.’ Most countries in the world do not have any kind of flood forecasting capability whatsoever. It’s especially bad for instance in Africa and there just isn’t the data infrastructure to do flood forecasting. Even in some modern countries the process is fairly rudimentary.
+
+In the past,  a lot of countries that had been in that kind of position or had some measure of flood forecasting capability wanted to modernise what they had. But they are relatively poor and entities like the World Bank or Asian Development Bank would offer loans for developing and installing a very modernised system. That would cost tens of millions of dollars that would have to be paid in time. A couple of years ago,  we came up with the idea of using freely available data, computer models and other resources to bring flood forecasting capabilities to low and middle income countries at no cost to them. The catch is that the way we had structured it now is to help the countries use these existing models and data to develop the system, but they have to do the work.
+
+An advantage to doing it that way is they develop not only the knowledge but the technical capacity to sustain the system and not be dependent on outside people. At the same time,  it helps to develop the community knowledge as more and more countries develop with this kind of system. So there could be a collaboration between countries to share ideas in any kind of developments. All of the models and resources are freely available and can be downloaded on the internet.
+
+I have a similar project going on in Pakistan and I have a colleague in Romania. We had a training workshop in Bangkok in June this year which kick-started this initiative. That’s what got Sri Lanka involved because there were Sri Lanka representatives who attended this workshop. So it’s in a number of places. There’s one professor at a university in Thailand who has taken charge of this system from one river base,  and  it’s very important in the region.
+
+He has developed the system and has it fully operational right now. A major advantage of this system is that right now in countries like Sri Lanka and many others, they basically can only provide a one-day lead time forecast in a qualitative sense about the possibility of flooding. What this system does is that it gives you at least 10 days lead time. All of this is done through the irrigation department which is responsible for flood forecasting here in Sri Lanka.
+
+Q   Was it the first time that this kind of  training was done here?
+
+Almost everything that I’m presented was completely new to them. It’s a totally new approach and there’s a lot of learning that has to be done. They are working through this regional entity called Regional Integrated Multi-Hazard Early Warning System (RIMES). They started following the tsunami and the lack of preparedness in the Indian Ocean region and was later extended other areas.
+
+But they have a footprint in South Asia and into Africa. They have been an integral part of this initiative. In fact, RIMES hosted the workshop that took place in Bangkok back in June. Hats off to the irrigation department for their involvement in doing this. Not all countries have been willing to entertain the possibility of taking this kind of work on. It’s a big step.
+
+The training is to help them understand this concept of flood forecasting on a shoestring budget system. A lot of documentation goes into this,  and it’s to help them understand all the various components. How they work together and what’s needed to be done to implement it. There were people outside of the irrigation department who attended the training as well. One person for instance was interested in applying the system to forecast and identify potential landslide areas and the effects. That’s outside the original intent but the system is fully capable to aid him in that capacity.
+
+Q  How important is flood forecasting for an island nation like Sri Lanka?
+
+Very important. There was a bad storm last year that created significant problems,  and my understanding is that there wasn’t sufficient warning to the public about the storm. This system gives you a long lead time of up to 10 days of the likelihood of a weather event. It would have greatly assisted with that event. Another major component of the system is that not only does it give a long lead time,  but it captures the uncertainty in the forecast,  too. In any kind of forecast,  there is a level of uncertainty. This system explicitly captures forecast uncertainty which is critical.
+
+It’s very accurate but the issue is when you’re forecasting today out into the future there’s a lot of uncertainty. When you say accuracy,  it kind of takes on a different meaning. You have to look at it probabilistically. For instance, if I told you that your house was going to flood tomorrow and water would get one meter deep, I would be lying. Because I don’t have that level of information. But what I can do is say that there’s a 30% chance that water could get to one meter deep in your house. There’s a big difference and that would be a true statement.
+
+Q   How important is the communication aspect when it comes to natural disasters?
+
+It’s very important. I could have a perfect system giving a perfect forecast. But if you don’t understand it, you don’t know what’s going to happen. You also need to get it in a timely way. It’s not only about the quality of the forecast, but there are other components that are very critical.
+
+Q   Sri Lankans mainly speak Sinhala and Tamil. Could this software be used in other languages as well?
+
+It is adaptable to other languages. This individual in Thailand runs the system automatically and it’s in Thai language. If it can be done in Thai, it could be done in Sinhala too. There’s plenty of technical capacity here in Sri Lanka. What I have learned is that there are two keys steps that are needed – one there has to be a leadership that’s willing to advance. Secondly, you have to have basically what I like to say a champion - somebody who would move the process forward. From what I have seen in Sri Lanka, I’m very confident that it exists and will happen. I spoke with the director of the Irrigation Department and he was at the training in Bangkok. He is fully behind this whole process and I believe that this guarantees success.
+
+Q   Is open source data one way of getting accurate forecasts in future?
+
+When modeling forecasts into the future,  the models have to know the correct information. For instance, the state of a river basin; are they wet, dry or somewhere in between. The models can only know that with good input data that’s been observed. Right now there are multiple rain gauge networks in Sri Lanka. They need to be integrated. I think this project would help bring them into an integrated system to prove the overall depiction of rainfall patterns across Sri Lanka. There is software that can help bring in satellite estimates of rainfall, rain gauge networks,  and in the future I know that there are radar systems that are going to be used for rainfall estimation. When that data is available,  it could be brought in to create a detailed, high resolution hourly mapping of rainfall over Sri Lanka. That would benefit everybody.
+
+I mentioned that there was at least one person attending the meeting who’s trying to predict and identify areas at risk for landslides. We had a brainstorming session about how we could collaborate to make improvements in that area. We also discussed about improvements in modelling in coastal areas where erosion and deposition of sediment could create problems. People could collaborate to make improvements in a wide range of things including agriculture. One of the things that the modelling system can do is estimate soil moisture. We can make predictions out into the future about soil moisture changes on a seasonal time scale.
+
+Q  Why should people be more updated about the weather forecasts?
+
+People will pay attention to things that they feel are important to them. People are used to seeing the world in a certain way. When you provide them with more information,  it just opens up a world of possibilities to them. The head of RIMES has worked in Sri Lanka with farmers to help them to understand this probabilistic forecast. With a probabilistic forecast,  the question is to what extent would you take action. For every person it’s probably going to be different because it’s a measure of how risk adverse or risk tolerant they are.
