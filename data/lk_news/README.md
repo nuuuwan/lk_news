@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_07:55:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_09:55:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,255** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,261** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailyftlk-3fdc5378",
-    "num": "dailyftlk-3fdc5378",
+    "doc_id": "2026-11-11-dailymirrorlk-182f7a2f",
+    "num": "dailymirrorlk-182f7a2f",
     "date_str": "2026-11-11",
-    "description": "EFC launches publication on \u2018Collective Bargaining and Agreements in Sri Lanka\u2019",
-    "url_metadata": "https://www.ft.lk/business/EFC-launches-publication-on-Collective-Bargaining-and-Agreements-in-Sri-Lanka/34-799910",
+    "description": "Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-Anchor-Rabia-Ahsan-found-dead-at-home-husband-confesses-to-murder/107-354628",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794360811.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794369619.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-11 | `dailymirrorlk-182f7a2f` | Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-182f7a2f)
+- 2026-11-11 | `dailyftlk-127cef5e` | EDB recognises partners of ‘Sri Lanka Expo 2027’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-127cef5e)
+- 2026-11-11 | `dailyftlk-2f60c63b` | Frontier Research appoints Thilina Panduwawala Executive Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-2f60c63b)
+- 2026-11-11 | `dailyftlk-4a4951ae` | Lanka Ashok Leyland reports strong 6M performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-4a4951ae)
+- 2026-11-11 | `dailyftlk-5b0f0391` | BOI presents Sri Lanka’s investment proposition to British investors at Sri Lanka–UK Trade and Investment Forum in London | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-5b0f0391)
+- 2026-11-11 | `dailymirrorlk-ec348921` | Sri Lanka to conduct first passenger drone trial at Port City today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-ec348921)
 - 2026-11-11 | `dailyftlk-3fdc5378` | EFC launches publication on ‘Collective Bargaining and Agreements in Sri Lanka’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-3fdc5378)
 - 2026-11-11 | `dailyftlk-ac903421` | Neil Marine Sports and Leisure launches Hidea outboard motors in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-ac903421)
 - 2026-11-11 | `dailyftlk-d99e88e0` | Ravi K appeals to HSBC to consider winding down HDPL in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-d99e88e0)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-11 | `dailyftlk-9ebaef7f` | Sri Lanka’s lost decade: A decade of diverging household incomes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-9ebaef7f)
 - 2026-11-11 | `dailymirrorlk-6b2735be` | No electricity tariff revision for final quarter of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-6b2735be)
 - 2026-11-11 | `dailymirrorlk-11c66bbb` | Frequent eye rubbing could damage cornea; keratoconus detected in children as young as seven | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-11c66bbb)
-- 2026-11-11 | `dailyftlk-2887e3ab` | Taxed at the till: why the Government must keep its word | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-2887e3ab)
-- 2026-11-11 | `dailyftlk-9d6ba0af` | Colombo under water: Is drainage system ready for challenges of a changing climate? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-9d6ba0af)
-- 2026-11-11 | `dailyftlk-bb287e0b` | Budgeting for a better Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-bb287e0b)
-- 2026-11-11 | `dailyftlk-9737529d` | Court of Appeal delivers split verdict on Hirunika’s appeal against prison sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-9737529d)
-- 2026-11-11 | `dailyftlk-cdd67be8` | Cabinet approves MoU between University of Jaffna and Southern Illinois University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-cdd67be8)
-- 2026-11-11 | `dailyftlk-d744d82d` | Japan grants Rs. 2 b to boost Sri Lanka Navy capabilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-d744d82d)
 
 ---
 

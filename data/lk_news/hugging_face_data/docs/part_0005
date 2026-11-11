@@ -102417,5 +102417,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794360811.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-ec348921",
+    "num": "dailymirrorlk-ec348921",
+    "date_str": "2026-11-11",
+    "description": "Sri Lanka to conduct first passenger drone trial at Port City today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-conduct-first-passenger-drone-trial-at-Port-City-today/108-354627",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794364108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-5b0f0391",
+    "num": "dailyftlk-5b0f0391",
+    "date_str": "2026-11-11",
+    "description": "BOI presents Sri Lanka\u2019s investment proposition to British investors at Sri Lanka\u2013UK Trade and Investment Forum in London",
+    "url_metadata": "https://www.ft.lk/business/BOI-presents-Sri-Lanka-s-investment-proposition-to-British-investors-at-Sri-LankaUK-Trade-and-Investment-Forum-in-London/34-799942",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794368113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-4a4951ae",
+    "num": "dailyftlk-4a4951ae",
+    "date_str": "2026-11-11",
+    "description": "Lanka Ashok Leyland reports strong 6M performance",
+    "url_metadata": "https://www.ft.lk/business/Lanka-Ashok-Leyland-reports-strong-6M-performance/34-799943",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794368231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-2f60c63b",
+    "num": "dailyftlk-2f60c63b",
+    "date_str": "2026-11-11",
+    "description": "Frontier Research appoints Thilina Panduwawala Executive Director",
+    "url_metadata": "https://www.ft.lk/business/Frontier-Research-appoints-Thilina-Panduwawala-Executive-Director/34-799944",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794368279.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailyftlk-127cef5e",
+    "num": "dailyftlk-127cef5e",
+    "date_str": "2026-11-11",
+    "description": "EDB recognises partners of \u2018Sri Lanka Expo 2027\u2019",
+    "url_metadata": "https://www.ft.lk/business/EDB-recognises-partners-of-Sri-Lanka-Expo-2027/34-799945",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794368336.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-182f7a2f",
+    "num": "dailymirrorlk-182f7a2f",
+    "date_str": "2026-11-11",
+    "description": "Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-Anchor-Rabia-Ahsan-found-dead-at-home-husband-confesses-to-murder/107-354628",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794369619.0
   }
 ]

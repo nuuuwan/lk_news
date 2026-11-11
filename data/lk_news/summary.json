@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 07:54:36",
-  "n_docs": 135255,
+  "time_updated": "2026-11-11 09:54:31",
+  "n_docs": 135261,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135255,
+  "n_docs_with_text": 135261,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-11",
-  "dataset_size": 2087805057,
+  "dataset_size": 2088025632,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailyftlk-3fdc5378",
-    "num": "dailyftlk-3fdc5378",
+    "doc_id": "2026-11-11-dailymirrorlk-182f7a2f",
+    "num": "dailymirrorlk-182f7a2f",
     "date_str": "2026-11-11",
-    "description": "EFC launches publication on \u2018Collective Bargaining and Agreements in Sri Lanka\u2019",
-    "url_metadata": "https://www.ft.lk/business/EFC-launches-publication-on-Collective-Bargaining-and-Agreements-in-Sri-Lanka/34-799910",
+    "description": "Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-Anchor-Rabia-Ahsan-found-dead-at-home-husband-confesses-to-murder/107-354628",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794360811.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794369619.0
   }
 }
