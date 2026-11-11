@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 06:06:13",
-  "n_docs": 135239,
+  "time_updated": "2026-11-11 07:54:36",
+  "n_docs": 135255,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135239,
+  "n_docs_with_text": 135255,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-11",
-  "dataset_size": 2087664875,
+  "dataset_size": 2087805057,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailyftlk-bb287e0b",
-    "num": "dailyftlk-bb287e0b",
+    "doc_id": "2026-11-11-dailyftlk-3fdc5378",
+    "num": "dailyftlk-3fdc5378",
     "date_str": "2026-11-11",
-    "description": "Budgeting for a better Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Budgeting-for-a-better-Sri-Lanka/4-799896",
+    "description": "EFC launches publication on \u2018Collective Bargaining and Agreements in Sri Lanka\u2019",
+    "url_metadata": "https://www.ft.lk/business/EFC-launches-publication-on-Collective-Bargaining-and-Agreements-in-Sri-Lanka/34-799910",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1794357019.0
+    "time_ut": 1794360811.0
   }
 }
