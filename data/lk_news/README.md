@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_21:54:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_23:55:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,309** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,311** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,10 +42,12 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-11-11 | `dailymirrorlk-0320f43f` | Anojan Sivarasa completely freed; return arranged | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-0320f43f)
+- 2026-11-11 | `dailymirrorlk-7fe36384` | Traffic disrupted on Badulla–Colombo road due to earth slip at Uduwara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-7fe36384)
 - 2026-11-11 | `dailymirrorlk-96fe90a7` | Opposition launches budget tracking website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-96fe90a7)
 - 2026-11-11 | `dailymirrorlk-40455957` | India to provide 100 more ambulances to Sri Lanka under Rs. 1.7 billion grant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-40455957)
 - 2026-11-11 | `dailymirrorlk-379f812a` | CSE consolidates above 22,000 after six-session rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-379f812a)
 - 2026-11-11 | `dailymirrorlk-4cf6a918` | Public warned against travelling abroad for employment on visit visas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-4cf6a918)
+- 2026-11-11 | `dailymirrorlk-c6e11c9f` | Sri Lanka reach 404/4 as De Silva and Kusal Mendis hit centuries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-c6e11c9f)
 - 2026-11-11 | `dailymirrorlk-7e0b656f` | Container carrying Rs. 600 million worth of illegal cigarettes seized in Sedawatta | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-7e0b656f)
 - 2026-11-11 | `dailymirrorlk-264413b0` | ’She used her voice for women’: Minister pays tribute to Nayomi Chan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-264413b0)
 - 2026-11-11 | `dailymirrorlk-2c9ae3d9` | COPF questions banks’ lending priorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-2c9ae3d9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-11 | `dailymirrorlk-b03781db` | President puts final touches to 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-b03781db)
 - 2026-11-11 | `dailymirrorlk-b00d3d07` | Sri Lanka’s GDP growth can mask loss of natural wealth: Statistics Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-b00d3d07)
 - 2026-11-11 | `dailymirrorlk-9704c65c` | Approves US$ 98mn loan to advance digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-9704c65c)
-- 2026-11-11 | `dailymirrorlk-3ab674d2` | Yield curve dips marginally on the back of modest buying | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-3ab674d2)
-- 2026-11-11 | `dailymirrorlk-ee6dcb39` | Authorities plan climate adaptation measures; families obstructing drainage to be relocated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-ee6dcb39)
 
 ---
 
