@@ -102915,6 +102915,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-0cf2d7de",
+    "num": "dailymirrorlk-0cf2d7de",
+    "date_str": "2026-11-11",
+    "description": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay",
+    "url_metadata": "https://www.dailymirror.lk/international/Hijack-scare-on-Kolkata-Mumbai-Air-India-flight-plane-moved-to-isolation-bay/107-354692",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794388071.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-11-dailymirrorlk-2c9ae3d9",
     "num": "dailymirrorlk-2c9ae3d9",
     "date_str": "2026-11-11",
