@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_09:55:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_11:59:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,261** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailymirrorlk-182f7a2f",
-    "num": "dailymirrorlk-182f7a2f",
+    "doc_id": "2026-11-11-dailymirrorlk-41ef2ec8",
+    "num": "dailymirrorlk-41ef2ec8",
     "date_str": "2026-11-11",
-    "description": "Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder",
-    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-Anchor-Rabia-Ahsan-found-dead-at-home-husband-confesses-to-murder/107-354628",
+    "description": "Sri Lanka tests passenger drones for first time",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-tests-passenger-drones-for-first-time/110-354642",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794369619.0
+    "time_ut": 1794376273.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-11 | `dailymirrorlk-41ef2ec8` | Sri Lanka tests passenger drones for first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-41ef2ec8)
+- 2026-11-11 | `dailymirrorlk-07ab5c84` | Entrepreneurship, financial literacy to enter Grade 6 curriculum in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-07ab5c84)
+- 2026-11-11 | `dailymirrorlk-854cadab` | Child dies after kidney surgery; both kidneys reportedly missing, Ministry faces questions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-854cadab)
+- 2026-11-11 | `dailymirrorlk-1a7ff324` | Five-day business registration pilot launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-1a7ff324)
+- 2026-11-11 | `dailymirrorlk-0f6ccc04` | Colombo-Kandy road reopens after landslide risk assessment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-0f6ccc04)
+- 2026-11-11 | `dailymirrorlk-3a36052c` | High-Value Tourism - High Value for Whom? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-3a36052c)
+- 2026-11-11 | `dailymirrorlk-3af8e604` | US House blocks bid to impeach Defense Secretary Hegseth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-3af8e604)
+- 2026-11-11 | `dailymirrorlk-6ac6a781` | ‘Bus Lalith’ reveals hidden weapons in Hanwella | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-6ac6a781)
+- 2026-11-11 | `dailymirrorlk-7862cbfd` | Violence erupts in Bangladesh as ousted PM’s supporters stage protest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-7862cbfd)
 - 2026-11-11 | `dailymirrorlk-182f7a2f` | Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-182f7a2f)
 - 2026-11-11 | `dailyftlk-127cef5e` | EDB recognises partners of ‘Sri Lanka Expo 2027’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-127cef5e)
 - 2026-11-11 | `dailyftlk-2f60c63b` | Frontier Research appoints Thilina Panduwawala Executive Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-2f60c63b)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-11-11 | `dailyftlk-d99e88e0` | Ravi K appeals to HSBC to consider winding down HDPL in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-d99e88e0)
 - 2026-11-11 | `dailyftlk-7cce583e` | New railway bridge across Mahaweli river with Indian loan grant scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-7cce583e)
 - 2026-11-11 | `dailymirrorlk-39ead101` | Daily Mirror wins top honours at Journalism Awards for Excellence 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-39ead101)
-- 2026-11-11 | `dailymirrorlk-48a3d8ed` | Health Ministry sets up new dengue control centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-48a3d8ed)
-- 2026-11-11 | `dailyftlk-26f53778` | Govt. to sign MoU with India to secure 100 new 1990 Suwa Seriya Ambulances | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-26f53778)
-- 2026-11-11 | `dailyftlk-3696801a` | Veteran banker Bhanu Wijayaratne becomes OPA President-Elect for 2026/27 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-3696801a)
-- 2026-11-11 | `dailyftlk-bb5e4e48` | Sathuta Builders’ gets Rs. 1.73 b contract for Kelaniya University building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-bb5e4e48)
-- 2026-11-11 | `dailyftlk-f56ec16d` | Budget 2027 must turn fiscal discipline into long term growth path | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-f56ec16d)
-- 2026-11-11 | `dailyftlk-abc0edc1` | The money goes around: Does the Budget bring it back to the people? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-abc0edc1)
-- 2026-11-11 | `dailyftlk-9ebaef7f` | Sri Lanka’s lost decade: A decade of diverging household incomes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailyftlk-9ebaef7f)
-- 2026-11-11 | `dailymirrorlk-6b2735be` | No electricity tariff revision for final quarter of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-6b2735be)
-- 2026-11-11 | `dailymirrorlk-11c66bbb` | Frequent eye rubbing could damage cornea; keratoconus detected in children as young as seven | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-11c66bbb)
 
 ---
 

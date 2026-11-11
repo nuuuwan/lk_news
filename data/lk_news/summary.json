@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 09:54:31",
-  "n_docs": 135261,
+  "time_updated": "2026-11-11 11:58:06",
+  "n_docs": 135270,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135261,
+  "n_docs_with_text": 135270,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-11",
-  "dataset_size": 2088025632,
+  "dataset_size": 2088111590,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailymirrorlk-182f7a2f",
-    "num": "dailymirrorlk-182f7a2f",
+    "doc_id": "2026-11-11-dailymirrorlk-41ef2ec8",
+    "num": "dailymirrorlk-41ef2ec8",
     "date_str": "2026-11-11",
-    "description": "Pakistan Anchor Rabia Ahsan found dead at home, husband confesses to murder",
-    "url_metadata": "https://www.dailymirror.lk/international/Pakistan-Anchor-Rabia-Ahsan-found-dead-at-home-husband-confesses-to-murder/107-354628",
+    "description": "Sri Lanka tests passenger drones for first time",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-tests-passenger-drones-for-first-time/110-354642",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794369619.0
+    "time_ut": 1794376273.0
   }
 }

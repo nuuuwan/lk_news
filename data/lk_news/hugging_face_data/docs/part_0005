@@ -102483,5 +102483,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794369619.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-7862cbfd",
+    "num": "dailymirrorlk-7862cbfd",
+    "date_str": "2026-11-11",
+    "description": "Violence erupts in Bangladesh as ousted PM\u2019s supporters stage protest",
+    "url_metadata": "https://www.dailymirror.lk/international/Violence-erupts-in-Bangladesh-as-ousted-PMs-supporters-stage-protest/107-354629",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794370831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-6ac6a781",
+    "num": "dailymirrorlk-6ac6a781",
+    "date_str": "2026-11-11",
+    "description": "\u2018Bus Lalith\u2019 reveals hidden weapons in Hanwella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-Lalith-reveals-hidden-weapons-in-Hanwella/108-354630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794371707.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-3af8e604",
+    "num": "dailymirrorlk-3af8e604",
+    "date_str": "2026-11-11",
+    "description": "US House blocks bid to impeach Defense Secretary Hegseth",
+    "url_metadata": "https://www.dailymirror.lk/international/US-House-blocks-bid-to-impeach-Defense-Secretary-Hegseth/107-354631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794371890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-3a36052c",
+    "num": "dailymirrorlk-3a36052c",
+    "date_str": "2026-11-11",
+    "description": "High-Value Tourism - High Value for Whom?",
+    "url_metadata": "https://www.dailymirror.lk/features/High-Value-Tourism-High-Value-for-Whom/185-354633",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794372925.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-0f6ccc04",
+    "num": "dailymirrorlk-0f6ccc04",
+    "date_str": "2026-11-11",
+    "description": "Colombo-Kandy road reopens after landslide risk assessment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Kandy-road-reopens-after-landslide-risk-assessment/108-354634",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794373027.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-1a7ff324",
+    "num": "dailymirrorlk-1a7ff324",
+    "date_str": "2026-11-11",
+    "description": "Five-day business registration pilot launched",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-day-business-registration-pilot-launched/108-354637",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794374456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-854cadab",
+    "num": "dailymirrorlk-854cadab",
+    "date_str": "2026-11-11",
+    "description": "Child dies after kidney surgery; both kidneys reportedly missing, Ministry faces questions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Child-dies-after-kidney-surgery-both-kidneys-reportedly-missing-Ministry-faces-questions/108-354638",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794374641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-07ab5c84",
+    "num": "dailymirrorlk-07ab5c84",
+    "date_str": "2026-11-11",
+    "description": "Entrepreneurship, financial literacy to enter Grade 6 curriculum in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Entrepreneurship-financial-literacy-to-enter-Grade-6-curriculum-in-2027/108-354640",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794375035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-41ef2ec8",
+    "num": "dailymirrorlk-41ef2ec8",
+    "date_str": "2026-11-11",
+    "description": "Sri Lanka tests passenger drones for first time",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sri-Lanka-tests-passenger-drones-for-first-time/110-354642",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794376273.0
   }
 ]
