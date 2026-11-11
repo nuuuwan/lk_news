@@ -102879,5 +102879,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794384796.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-7503c193",
+    "num": "dailymirrorlk-7503c193",
+    "date_str": "2026-11-11",
+    "description": "Kotmale Reservoir spill gates opened, residents warned to remain vigilant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kotmale-Reservoir-spill-gates-opened-residents-warned-to-remain-vigilant/108-354688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794385095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-701b36e9",
+    "num": "dailymirrorlk-701b36e9",
+    "date_str": "2026-11-11",
+    "description": "CPC records Rs. 29.2bn profit in first half of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CPC-records-Rs-29-2bn-profit-in-first-half-of-2026/108-354690",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794386078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-11-dailymirrorlk-70016cb3",
+    "num": "dailymirrorlk-70016cb3",
+    "date_str": "2026-11-11",
+    "description": "Why did Colombo go underwater in just two hours?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-did-Colombo-go-underwater-in-just-two-hours/108-354691",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794388023.0
   }
 ]

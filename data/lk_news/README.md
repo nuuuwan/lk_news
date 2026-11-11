@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_13:56:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_15:52:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,297** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,300** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailymirrorlk-031a1669",
-    "num": "dailymirrorlk-031a1669",
+    "doc_id": "2026-11-11-dailymirrorlk-70016cb3",
+    "num": "dailymirrorlk-70016cb3",
     "date_str": "2026-11-11",
-    "description": "ADB urges Sri Lanka to put natural assets on the investment map",
-    "url_metadata": "https://www.dailymirror.lk/business/ADB-urges-Sri-Lanka-to-put-natural-assets-on-the-investment-map/215-354687",
+    "description": "Why did Colombo go underwater in just two hours?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-did-Colombo-go-underwater-in-just-two-hours/108-354691",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794384796.0
+    "time_ut": 1794388023.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-11 | `dailymirrorlk-70016cb3` | Why did Colombo go underwater in just two hours? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-70016cb3)
+- 2026-11-11 | `dailymirrorlk-701b36e9` | CPC records Rs. 29.2bn profit in first half of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-701b36e9)
+- 2026-11-11 | `dailymirrorlk-7503c193` | Kotmale Reservoir spill gates opened, residents warned to remain vigilant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-7503c193)
 - 2026-11-11 | `dailymirrorlk-031a1669` | ADB urges Sri Lanka to put natural assets on the investment map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-031a1669)
 - 2026-11-11 | `dailymirrorlk-184f0f49` | Singer’s quarterly profit falls 4% as finance costs more than double | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-184f0f49)
 - 2026-11-11 | `dailymirrorlk-162e4d91` | EY remains eligible for bank audits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-162e4d91)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-11 | `dailymirrorlk-c0f3f3ef` | Sri Lankan talent helps power SAGE as Sysco earns Gartner recognition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-c0f3f3ef)
 - 2026-11-11 | `dailymirrorlk-749b14cc` | ComBank partners with Daraz 11.11 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-749b14cc)
 - 2026-11-11 | `dailymirrorlk-5b4c2132` | Nutriline introduces Corn Flakes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-5b4c2132)
-- 2026-11-11 | `dailymirrorlk-8934e868` | Atmospheric disturbance in Bay of Bengal could severely affect Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-8934e868)
-- 2026-11-11 | `dailymirrorlk-d4196fc1` | Softlogic-Thyaga expand choice of gifting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-d4196fc1)
-- 2026-11-11 | `dailymirrorlk-befdbab6` | HNB FINANCE takes financial inclusion drive to 26 towns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-befdbab6)
 
 ---
 

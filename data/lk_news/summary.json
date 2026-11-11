@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-11 13:56:00",
-  "n_docs": 135297,
+  "time_updated": "2026-11-11 15:52:08",
+  "n_docs": 135300,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135297,
+  "n_docs_with_text": 135300,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-11",
-  "dataset_size": 2088278310,
+  "dataset_size": 2088479109,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-11-dailymirrorlk-031a1669",
-    "num": "dailymirrorlk-031a1669",
+    "doc_id": "2026-11-11-dailymirrorlk-70016cb3",
+    "num": "dailymirrorlk-70016cb3",
     "date_str": "2026-11-11",
-    "description": "ADB urges Sri Lanka to put natural assets on the investment map",
-    "url_metadata": "https://www.dailymirror.lk/business/ADB-urges-Sri-Lanka-to-put-natural-assets-on-the-investment-map/215-354687",
+    "description": "Why did Colombo go underwater in just two hours?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-did-Colombo-go-underwater-in-just-two-hours/108-354691",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794384796.0
+    "time_ut": 1794388023.0
   }
 }
