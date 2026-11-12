@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-12 06:07:07",
-  "n_docs": 135323,
+  "time_updated": "2026-11-12 07:54:52",
+  "n_docs": 135326,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135323,
+  "n_docs_with_text": 135326,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-12",
-  "dataset_size": 2088640646,
+  "dataset_size": 2088825961,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailyftlk-c06441ef",
-    "num": "dailyftlk-c06441ef",
+    "doc_id": "2026-11-12-dailyftlk-fe033735",
+    "num": "dailyftlk-fe033735",
     "date_str": "2026-11-12",
-    "description": "Twice promised, never delivered: Tax Ombudsman Sri Lanka still needs",
-    "url_metadata": "https://www.ft.lk/columns/Twice-promised-never-delivered-Tax-Ombudsman-Sri-Lanka-still-needs/4-799996",
+    "description": "Blue tsunami: American reformist revolution and new progressivism",
+    "url_metadata": "https://www.ft.lk/columns/Blue-tsunami-American-reformist-revolution-and-new-progressivism/4-799999",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1794443257.0
+    "time_ut": 1794443939.0
   }
 }

@@ -103165,5 +103165,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794443257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-d6222db8",
+    "num": "dailyftlk-d6222db8",
+    "date_str": "2026-11-12",
+    "description": "The unethical Customs rewards system",
+    "url_metadata": "https://www.ft.lk/columns/The-unethical-Customs-rewards-system/4-799997",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794443616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-c240053b",
+    "num": "dailymirrorlk-c240053b",
+    "date_str": "2026-11-12",
+    "description": "Hope returns for Anojan\u2019s family",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Hope-returns-for-Anojans-family/110-354706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794443623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-fe033735",
+    "num": "dailyftlk-fe033735",
+    "date_str": "2026-11-12",
+    "description": "Blue tsunami: American reformist revolution and new progressivism",
+    "url_metadata": "https://www.ft.lk/columns/Blue-tsunami-American-reformist-revolution-and-new-progressivism/4-799999",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794443939.0
   }
 ]
