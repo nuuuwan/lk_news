@@ -103674,6 +103674,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-ee94fe6a",
+    "num": "dailymirrorlk-ee94fe6a",
+    "date_str": "2026-11-12",
+    "description": "Sri Lanka calls for greater global investment in children at Paris Peace Forum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-calls-for-greater-global-investment-in-children-at-Paris-Peace-Forum/108-354774",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794473301.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-12-dailymirrorlk-a5ad9317",
     "num": "dailymirrorlk-a5ad9317",
     "date_str": "2026-11-12",
@@ -103737,5 +103748,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794475825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-d1009633",
+    "num": "dailymirrorlk-d1009633",
+    "date_str": "2026-11-12",
+    "description": "13-hour water cut in several Gampaha and Kelaniya areas on Saturday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/13-hour-water-cut-in-several-Gampaha-and-Kelaniya-areas-on-Saturday/108-354782",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794478217.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-5a6c93cc",
+    "num": "dailymirrorlk-5a6c93cc",
+    "date_str": "2026-11-12",
+    "description": "Sri Lanka to expand bunkering capacity, develop three ports as energy hubs \u2013 President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-expand-bunkering-capacity-develop-three-ports-as-energy-hubs-President/108-354783",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794479184.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-c818666d",
+    "num": "dailymirrorlk-c818666d",
+    "date_str": "2026-11-12",
+    "description": "Government plans major overhaul of international airports",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-plans-major-overhaul-of-international-airports/108-354784",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794479285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-1267f147",
+    "num": "dailymirrorlk-1267f147",
+    "date_str": "2026-11-12",
+    "description": "Rs. 100 million allocated to upgrade Sigiriya Domestic Airport",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-100-million-allocated-to-upgrade-Sigiriya-Domestic-Airport/108-354785",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794479394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-ceb9bf4e",
+    "num": "dailymirrorlk-ceb9bf4e",
+    "date_str": "2026-11-12",
+    "description": "Rs. 4 billion allocated for industrial estate development",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-4-billion-allocated-for-industrial-estate-development/108-354786",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794479573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-507a9f79",
+    "num": "dailymirrorlk-507a9f79",
+    "date_str": "2026-11-12",
+    "description": "Government moves to tap mineral resources for industrial development",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-moves-to-tap-mineral-resources-for-industrial-development/108-354787",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794479893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-ed4c9f01",
+    "num": "dailymirrorlk-ed4c9f01",
+    "date_str": "2026-11-12",
+    "description": "Manchester United sack Michael Carrick as manager",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Manchester-United-sack-Michael-Carrick-as-manager/108-354789",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794484902.0
   }
 ]
