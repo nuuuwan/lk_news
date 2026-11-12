@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_17:58:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_19:56:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,401** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-ed4c9f01",
-    "num": "dailymirrorlk-ed4c9f01",
+    "doc_id": "2026-11-12-dailymirrorlk-805c574a",
+    "num": "dailymirrorlk-805c574a",
     "date_str": "2026-11-12",
-    "description": "Manchester United sack Michael Carrick as manager",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Manchester-United-sack-Michael-Carrick-as-manager/108-354789",
+    "description": "CSE rebounds as ASPI holds firmly above 22,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-holds-firmly-above-22-000/108-354809",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794484902.0
+    "time_ut": 1794492673.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-12 | `dailymirrorlk-805c574a` | CSE rebounds as ASPI holds firmly above 22,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-805c574a)
+- 2026-11-12 | `dailymirrorlk-4622b345` | Dutch Embassy warns of fake job scams targeting Sri Lankans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-4622b345)
+- 2026-11-12 | `dailymirrorlk-a76ef1e5` | All smiles after a long budget speech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a76ef1e5)
+- 2026-11-12 | `dailymirrorlk-682cb7c0` | Budget 2027 spending: where Sri Lanka’s money goes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-682cb7c0)
+- 2026-11-12 | `dailymirrorlk-be60e0dd` | Budget 2027: Key proposals on growth, welfare and development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-be60e0dd)
+- 2026-11-12 | `dailymirrorlk-f70577cb` | CESS rates on 800 import categories to be reduced by 25% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f70577cb)
+- 2026-11-12 | `dailymirrorlk-1f079d89` | SCL on imported sugar increased by Rs. 10 per kilo to protect local industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1f079d89)
+- 2026-11-12 | `dailymirrorlk-f729c3cc` | SCL on imported sprats and Maldive fish slashed to Rs. 10 per kilo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f729c3cc)
+- 2026-11-12 | `dailymirrorlk-bf1d080b` | Tourism Development Levy to be abolished from April 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-bf1d080b)
+- 2026-11-12 | `dailymirrorlk-504746c4` | PAL to be removed on newsprint and solar storage batteries from January 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-504746c4)
+- 2026-11-12 | `dailymirrorlk-ecb23399` | Special Commodity Levy revised on essential food imports from November 13 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ecb23399)
+- 2026-11-12 | `dailymirrorlk-e88aad6d` | VAT calculation on film tickets to be revised under 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-e88aad6d)
+- 2026-11-12 | `dailymirrorlk-58a4aa2a` | Books and printed material to be exempted from VAT under 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-58a4aa2a)
+- 2026-11-12 | `dailymirrorlk-30a7db08` | Rs. 2,500 monthly allowance for pensioners retiring between 2020 and 2024 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-30a7db08)
+- 2026-11-12 | `dailymirrorlk-952e04f1` | Budget 2027: President Anura Kumara Dissanayake’s Full Budget Speech (Download) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-952e04f1)
+- 2026-11-12 | `dailymirrorlk-a4fd2b2c` | Budget 2027: Rs. 77 billion allocated for drinking water and sanitation projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a4fd2b2c)
+- 2026-11-12 | `dailymirrorlk-3951bca9` | Rs. 3.2 billion allocated for flood mitigation projects in Colombo and suburbs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-3951bca9)
+- 2026-11-12 | `dailymirrorlk-f55336cb` | Budget 2027: Salary increases and allowance hikes for public sector employees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f55336cb)
 - 2026-11-12 | `dailymirrorlk-ed4c9f01` | Manchester United sack Michael Carrick as manager | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ed4c9f01)
 - 2026-11-12 | `dailymirrorlk-507a9f79` | Government moves to tap mineral resources for industrial development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-507a9f79)
-- 2026-11-12 | `dailymirrorlk-ceb9bf4e` | Rs. 4 billion allocated for industrial estate development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ceb9bf4e)
-- 2026-11-12 | `dailymirrorlk-1267f147` | Rs. 100 million allocated to upgrade Sigiriya Domestic Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1267f147)
-- 2026-11-12 | `dailymirrorlk-c818666d` | Government plans major overhaul of international airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-c818666d)
-- 2026-11-12 | `dailymirrorlk-5a6c93cc` | Sri Lanka to expand bunkering capacity, develop three ports as energy hubs – President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-5a6c93cc)
-- 2026-11-12 | `dailymirrorlk-d1009633` | 13-hour water cut in several Gampaha and Kelaniya areas on Saturday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-d1009633)
-- 2026-11-12 | `dailymirrorlk-fa5f7fb2` | 10% levy on imported solar batteries to be removed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-fa5f7fb2)
-- 2026-11-12 | `dailymirrorlk-fa014b33` | Showers expected in several provinces tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-fa014b33)
-- 2026-11-12 | `dailymirrorlk-d334d307` | LAUGFS Gas to resume cylinder deliveries after arrival of 3,000+ MT LPG shipment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-d334d307)
-- 2026-11-12 | `dailymirrorlk-eb0dfa0b` | State research institutions face shortage of skilled staff, Committee told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-eb0dfa0b)
-- 2026-11-12 | `dailymirrorlk-71f5e963` | Sri Lanka considers mandatory standards for imported electric vehicles and batteries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-71f5e963)
-- 2026-11-12 | `dailymirrorlk-a5ad9317` | Two clauses of Sri Lanka Cricket Bill inconsistent with Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a5ad9317)
-- 2026-11-12 | `dailymirrorlk-ee94fe6a` | Sri Lanka calls for greater global investment in children at Paris Peace Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ee94fe6a)
-- 2026-11-12 | `dailymirrorlk-f0cff64a` | Three monks arrested following tensions over Sacred City Plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f0cff64a)
-- 2026-11-12 | `dailymirrorlk-cbcf5b14` | Terrorism Bill clauses inconsistent with Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-cbcf5b14)
-- 2026-11-12 | `dailymirrorlk-160a8020` | Middle East crisis puts pressure on Sri Lanka’s economy: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-160a8020)
-- 2026-11-12 | `dailymirrorlk-5d31bdc5` | CEA recruits 17 management assistants to strengthen administration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-5d31bdc5)
-- 2026-11-12 | `dailymirrorlk-af16e4fc` | Clash erupts at Ruwanweli Maha Seya satyagraha site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-af16e4fc)
-- 2026-11-12 | `dailymirrorlk-2fbd743c` | Sivarasa’s family thanks President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-2fbd743c)
 
 ---
 
