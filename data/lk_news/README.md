@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_09:52:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_12:01:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,336** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailyftlk-fe033735",
-    "num": "dailyftlk-fe033735",
+    "doc_id": "2026-11-12-dailymirrorlk-90fd78c2",
+    "num": "dailymirrorlk-90fd78c2",
     "date_str": "2026-11-12",
-    "description": "Blue tsunami: American reformist revolution and new progressivism",
-    "url_metadata": "https://www.ft.lk/columns/Blue-tsunami-American-reformist-revolution-and-new-progressivism/4-799999",
+    "description": "Yoshitha Rajapaksa\u2019s case postponed till November 26 for further evidence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksas-case-postponed-till-November-26-for-further-evidence/108-354724",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794443939.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794462842.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-12 | `dailymirrorlk-90fd78c2` | Yoshitha Rajapaksa’s case postponed till November 26 for further evidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-90fd78c2)
+- 2026-11-12 | `dailymirrorlk-37cd97b4` | Navy intercepts fishing trawler smuggling suspected narcotics in Southern waters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-37cd97b4)
+- 2026-11-12 | `dailymirrorlk-6e1f2a99` | ‘Government fails to manage economy’ – Johnston | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-6e1f2a99)
+- 2026-11-12 | `dailymirrorlk-f0bd6e73` | Cabinet clears 2027 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f0bd6e73)
+- 2026-11-12 | `dailymirrorlk-ae9b08b1` | Three bullet fragments found in tusker Kavantissa’s abdomen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ae9b08b1)
+- 2026-11-12 | `dailymirrorlk-11b5d370` | Ditwah triggered landslides a possibility during the coming days : NBRO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-11b5d370)
+- 2026-11-12 | `dailymirrorlk-1ad0fb9b` | Bikini photoshoots in national parks spark controversy; Environment Ministry launches probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1ad0fb9b)
+- 2026-11-12 | `dailymirrorlk-e5287f53` | Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-e5287f53)
+- 2026-11-12 | `dailymirrorlk-7140ac55` | Rs. 2 trillion capital spending in focus as government presents third Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-7140ac55)
+- 2026-11-12 | `dailymirrorlk-ecaca4a0` | Rat fever cases near 7,000; health alert issued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ecaca4a0)
 - 2026-11-12 | `dailyftlk-fe033735` | Blue tsunami: American reformist revolution and new progressivism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-fe033735)
 - 2026-11-12 | `dailymirrorlk-c240053b` | Hope returns for Anojan’s family | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-c240053b)
 - 2026-11-12 | `dailyftlk-d6222db8` | The unethical Customs rewards system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-d6222db8)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-11-12 | `dailyftlk-0439e347` | We opened the door to trade first. Then we stood still | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-0439e347)
 - 2026-11-12 | `dailyftlk-01e9e5a4` | Five initiatives, eight capitals, one vision for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-01e9e5a4)
 - 2026-11-12 | `dailyftlk-5e0cd529` | Haycarb posts Rs. 40.6 b 1H revenue, PBT up 75% to Rs. 4 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-5e0cd529)
-- 2026-11-12 | `dailyftlk-32535ebd` | WindForce posts strong 1H growth, accelerates renewable energy expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-32535ebd)
-- 2026-11-12 | `dailyftlk-71cc8085` | Aberdeen Group announces leadership transition at Ex-pack Corrugated Cartons PLC: Sattar Kassim retires as Chairman, Thulci Aluwihare appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-71cc8085)
-- 2026-11-12 | `dailyftlk-69697974` | TWC Holdings appoints Harin de Saram CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-69697974)
-- 2026-11-12 | `dailyftlk-edf4dd6f` | Saudi Arabia drops case against Anojan Sivarasa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-edf4dd6f)
-- 2026-11-12 | `dailyftlk-a719df1f` | Indian Health Minister in town | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailyftlk-a719df1f)
-- 2026-11-11 | `dailymirrorlk-0320f43f` | Anojan Sivarasa completely freed; return arranged | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-0320f43f)
-- 2026-11-11 | `dailymirrorlk-7fe36384` | Traffic disrupted on Badulla–Colombo road due to earth slip at Uduwara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-7fe36384)
-- 2026-11-11 | `dailymirrorlk-96fe90a7` | Opposition launches budget tracking website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-96fe90a7)
-- 2026-11-11 | `dailymirrorlk-40455957` | India to provide 100 more ambulances to Sri Lanka under Rs. 1.7 billion grant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-40455957)
-- 2026-11-11 | `dailymirrorlk-379f812a` | CSE consolidates above 22,000 after six-session rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-11-dailymirrorlk-379f812a)
 
 ---
 
