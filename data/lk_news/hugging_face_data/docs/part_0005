@@ -103033,5 +103033,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794410985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-a719df1f",
+    "num": "dailyftlk-a719df1f",
+    "date_str": "2026-11-12",
+    "description": "Indian Health Minister in town",
+    "url_metadata": "https://www.ft.lk/news/Indian-Health-Minister-in-town/56-799961",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439587.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-edf4dd6f",
+    "num": "dailyftlk-edf4dd6f",
+    "date_str": "2026-11-12",
+    "description": "Saudi Arabia drops case against Anojan Sivarasa",
+    "url_metadata": "https://www.ft.lk/news/Saudi-Arabia-drops-case-against-Anojan-Sivarasa/56-799963",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-69697974",
+    "num": "dailyftlk-69697974",
+    "date_str": "2026-11-12",
+    "description": "TWC Holdings appoints Harin de Saram CEO",
+    "url_metadata": "https://www.ft.lk/business/TWC-Holdings-appoints-Harin-de-Saram-CEO/34-799964",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439786.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-71cc8085",
+    "num": "dailyftlk-71cc8085",
+    "date_str": "2026-11-12",
+    "description": "Aberdeen Group announces leadership transition at Ex-pack Corrugated Cartons PLC: Sattar Kassim retires as Chairman, Thulci Aluwihare appointed",
+    "url_metadata": "https://www.ft.lk/business/Aberdeen-Group-announces-leadership-transition-at-Ex-pack-Corrugated-Cartons-PLC-Sattar-Kassim-retires-as-Chairman-Thulci-Aluwihare-appointed/34-799965",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-32535ebd",
+    "num": "dailyftlk-32535ebd",
+    "date_str": "2026-11-12",
+    "description": "WindForce posts strong 1H growth, accelerates renewable energy expansion",
+    "url_metadata": "https://www.ft.lk/business/WindForce-posts-strong-1H-growth-accelerates-renewable-energy-expansion/34-799966",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439867.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-5e0cd529",
+    "num": "dailyftlk-5e0cd529",
+    "date_str": "2026-11-12",
+    "description": "Haycarb posts Rs. 40.6 b 1H revenue, PBT up 75% to Rs. 4 b",
+    "url_metadata": "https://www.ft.lk/business/Haycarb-posts-Rs-40-6-b-1H-revenue-PBT-up-75-to-Rs-4-b/34-799967",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794439950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-01e9e5a4",
+    "num": "dailyftlk-01e9e5a4",
+    "date_str": "2026-11-12",
+    "description": "Five initiatives, eight capitals, one vision for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Five-initiatives-eight-capitals-one-vision-for-Sri-Lanka/4-799991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794442106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-0439e347",
+    "num": "dailyftlk-0439e347",
+    "date_str": "2026-11-12",
+    "description": "We opened the door to trade first. Then we stood still",
+    "url_metadata": "https://www.ft.lk/columns/We-opened-the-door-to-trade-first-Then-we-stood-still/4-799992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794442383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-128497f7",
+    "num": "dailyftlk-128497f7",
+    "date_str": "2026-11-12",
+    "description": "2027 Budget: Need to revisit APIT",
+    "url_metadata": "https://www.ft.lk/columns/2027-Budget-Need-to-revisit-APIT/4-799993",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794442620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-2591fea6",
+    "num": "dailyftlk-2591fea6",
+    "date_str": "2026-11-12",
+    "description": "Budget 2027: Prayer for better life from nation that has endured much",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-Prayer-for-better-life-from-nation-that-has-endured-much/4-799994",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794442850.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-aebb3f88",
+    "num": "dailyftlk-aebb3f88",
+    "date_str": "2026-11-12",
+    "description": "ENCARE SECURES NATIONAL BRONZE AT CNCI ACHIEVER AWARDS 2026",
+    "url_metadata": "https://www.ft.lk/opinion/ENCARE-SECURES-NATIONAL-BRONZE-AT-CNCI-ACHIEVER-AWARDS-2026/14-799995",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794443036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailyftlk-c06441ef",
+    "num": "dailyftlk-c06441ef",
+    "date_str": "2026-11-12",
+    "description": "Twice promised, never delivered: Tax Ombudsman Sri Lanka still needs",
+    "url_metadata": "https://www.ft.lk/columns/Twice-promised-never-delivered-Tax-Ombudsman-Sri-Lanka-still-needs/4-799996",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794443257.0
   }
 ]
