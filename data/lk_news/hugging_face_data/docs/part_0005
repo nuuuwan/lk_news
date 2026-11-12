@@ -103971,6 +103971,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-1dd563e8",
+    "num": "dailymirrorlk-1dd563e8",
+    "date_str": "2026-11-12",
+    "description": "Sri Lanka Budget 2027 explained: the key numbers at a glance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Budget-2027-explained-the-key-numbers-at-a-glance/108-354804",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794490098.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-12-dailymirrorlk-be60e0dd",
     "num": "dailymirrorlk-be60e0dd",
     "date_str": "2026-11-12",
@@ -104023,5 +104034,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794492673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-24111002",
+    "num": "dailymirrorlk-24111002",
+    "date_str": "2026-11-12",
+    "description": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+    "url_metadata": "https://www.dailymirror.lk/international/Nvidia-CEO-Jensen-Huang-resigns-in-big-blow-to-AI-boom/107-354810",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794498540.0
   }
 ]

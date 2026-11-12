@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-12 19:55:04",
-  "n_docs": 135401,
+  "time_updated": "2026-11-12 21:54:20",
+  "n_docs": 135403,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135401,
+  "n_docs_with_text": 135403,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-12",
-  "dataset_size": 2089500235,
+  "dataset_size": 2089623790,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-805c574a",
-    "num": "dailymirrorlk-805c574a",
+    "doc_id": "2026-11-12-dailymirrorlk-24111002",
+    "num": "dailymirrorlk-24111002",
     "date_str": "2026-11-12",
-    "description": "CSE rebounds as ASPI holds firmly above 22,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-holds-firmly-above-22-000/108-354809",
+    "description": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+    "url_metadata": "https://www.dailymirror.lk/international/Nvidia-CEO-Jensen-Huang-resigns-in-big-blow-to-AI-boom/107-354810",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794492673.0
+    "time_ut": 1794498540.0
   }
 }

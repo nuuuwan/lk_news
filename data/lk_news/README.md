@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_19:56:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_21:55:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,401** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,403** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-805c574a",
-    "num": "dailymirrorlk-805c574a",
+    "doc_id": "2026-11-12-dailymirrorlk-24111002",
+    "num": "dailymirrorlk-24111002",
     "date_str": "2026-11-12",
-    "description": "CSE rebounds as ASPI holds firmly above 22,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-holds-firmly-above-22-000/108-354809",
+    "description": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+    "url_metadata": "https://www.dailymirror.lk/international/Nvidia-CEO-Jensen-Huang-resigns-in-big-blow-to-AI-boom/107-354810",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794492673.0
+    "time_ut": 1794498540.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-12 | `dailymirrorlk-24111002` | Nvidia CEO Jensen Huang resigns in big blow to AI boom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-24111002)
 - 2026-11-12 | `dailymirrorlk-805c574a` | CSE rebounds as ASPI holds firmly above 22,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-805c574a)
 - 2026-11-12 | `dailymirrorlk-4622b345` | Dutch Embassy warns of fake job scams targeting Sri Lankans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-4622b345)
 - 2026-11-12 | `dailymirrorlk-a76ef1e5` | All smiles after a long budget speech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a76ef1e5)
 - 2026-11-12 | `dailymirrorlk-682cb7c0` | Budget 2027 spending: where Sri Lanka’s money goes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-682cb7c0)
 - 2026-11-12 | `dailymirrorlk-be60e0dd` | Budget 2027: Key proposals on growth, welfare and development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-be60e0dd)
+- 2026-11-12 | `dailymirrorlk-1dd563e8` | Sri Lanka Budget 2027 explained: the key numbers at a glance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1dd563e8)
 - 2026-11-12 | `dailymirrorlk-f70577cb` | CESS rates on 800 import categories to be reduced by 25% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f70577cb)
 - 2026-11-12 | `dailymirrorlk-1f079d89` | SCL on imported sugar increased by Rs. 10 per kilo to protect local industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1f079d89)
 - 2026-11-12 | `dailymirrorlk-f729c3cc` | SCL on imported sprats and Maldive fish slashed to Rs. 10 per kilo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f729c3cc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-12 | `dailymirrorlk-a4fd2b2c` | Budget 2027: Rs. 77 billion allocated for drinking water and sanitation projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a4fd2b2c)
 - 2026-11-12 | `dailymirrorlk-3951bca9` | Rs. 3.2 billion allocated for flood mitigation projects in Colombo and suburbs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-3951bca9)
 - 2026-11-12 | `dailymirrorlk-f55336cb` | Budget 2027: Salary increases and allowance hikes for public sector employees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f55336cb)
-- 2026-11-12 | `dailymirrorlk-ed4c9f01` | Manchester United sack Michael Carrick as manager | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ed4c9f01)
-- 2026-11-12 | `dailymirrorlk-507a9f79` | Government moves to tap mineral resources for industrial development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-507a9f79)
 
 ---
 
