@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_13:55:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_15:54:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,366** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,375** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-5d31bdc5",
-    "num": "dailymirrorlk-5d31bdc5",
+    "doc_id": "2026-11-12-dailymirrorlk-fa5f7fb2",
+    "num": "dailymirrorlk-fa5f7fb2",
     "date_str": "2026-11-12",
-    "description": "CEA recruits 17 management assistants to strengthen administration",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-recruits-17-management-assistants-to-strengthen-administration/108-354768",
+    "description": "10% levy on imported solar batteries to be removed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-levy-on-imported-solar-batteries-to-be-removed/108-354781",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794470278.0
+    "time_ut": 1794475825.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-12 | `dailymirrorlk-fa5f7fb2` | 10% levy on imported solar batteries to be removed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-fa5f7fb2)
+- 2026-11-12 | `dailymirrorlk-fa014b33` | Showers expected in several provinces tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-fa014b33)
+- 2026-11-12 | `dailymirrorlk-d334d307` | LAUGFS Gas to resume cylinder deliveries after arrival of 3,000+ MT LPG shipment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-d334d307)
+- 2026-11-12 | `dailymirrorlk-eb0dfa0b` | State research institutions face shortage of skilled staff, Committee told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-eb0dfa0b)
+- 2026-11-12 | `dailymirrorlk-71f5e963` | Sri Lanka considers mandatory standards for imported electric vehicles and batteries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-71f5e963)
+- 2026-11-12 | `dailymirrorlk-a5ad9317` | Two clauses of Sri Lanka Cricket Bill inconsistent with Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-a5ad9317)
+- 2026-11-12 | `dailymirrorlk-f0cff64a` | Three monks arrested following tensions over Sacred City Plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-f0cff64a)
+- 2026-11-12 | `dailymirrorlk-cbcf5b14` | Terrorism Bill clauses inconsistent with Constitution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-cbcf5b14)
+- 2026-11-12 | `dailymirrorlk-160a8020` | Middle East crisis puts pressure on Sri Lanka’s economy: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-160a8020)
 - 2026-11-12 | `dailymirrorlk-5d31bdc5` | CEA recruits 17 management assistants to strengthen administration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-5d31bdc5)
 - 2026-11-12 | `dailymirrorlk-af16e4fc` | Clash erupts at Ruwanweli Maha Seya satyagraha site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-af16e4fc)
 - 2026-11-12 | `dailymirrorlk-2fbd743c` | Sivarasa’s family thanks President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-2fbd743c)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-11-12 | `dailymirrorlk-4eeef221` | Short-term loans take bigger share as private credit hits Rs.2.1tn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-4eeef221)
 - 2026-11-12 | `dailymirrorlk-72b9bd18` | WindForce September-quarter profit rises 5% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-72b9bd18)
 - 2026-11-12 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-2831aeed)
-- 2026-11-12 | `dailymirrorlk-422e6c29` | Long-end yields see a modest pullback | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-422e6c29)
-- 2026-11-12 | `dailymirrorlk-1171b16f` | CMA Sri Lanka to host Budget Highlights 2027 Forum on Monday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-1171b16f)
-- 2026-11-12 | `dailymirrorlk-e699d7cd` | AIA Insurance Lanka recognised among Asia’s best workplaces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-e699d7cd)
-- 2026-11-12 | `dailymirrorlk-ac6d0aec` | SPTDE signs contract to expand Sri Lanka’s power transmission network | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-ac6d0aec)
-- 2026-11-12 | `dailymirrorlk-cd85540b` | Peugeot and TotalEnergies extend 30-year global partnership to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-cd85540b)
-- 2026-11-12 | `dailymirrorlk-12d67be6` | Hayleys Solar introduces SL’s 24/7 Renewable Energy Operations Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-12d67be6)
-- 2026-11-12 | `dailymirrorlk-d29b9935` | Pelwatte Dairy earns special commendation at National Supply Chain Excellence Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-d29b9935)
-- 2026-11-12 | `dailymirrorlk-0e64f45c` | Aberdeen Group announces leadership transition at Ex-pack Corrugated Cartons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-0e64f45c)
-- 2026-11-12 | `dailymirrorlk-8ed44fab` | JXG together with CCC launches ‘BREAKTHROUGH’ to advance national entrepreneur development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-8ed44fab)
 
 ---
 

@@ -103638,5 +103638,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794470278.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-160a8020",
+    "num": "dailymirrorlk-160a8020",
+    "date_str": "2026-11-12",
+    "description": "Middle East crisis puts pressure on Sri Lanka\u2019s economy: President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Middle-East-crisis-puts-pressure-on-Sri-Lankas-economy-President/108-354770",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794471749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-cbcf5b14",
+    "num": "dailymirrorlk-cbcf5b14",
+    "date_str": "2026-11-12",
+    "description": "Terrorism Bill clauses inconsistent with Constitution",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Terrorism-Bill-clauses-inconsistent-with-Constitution/108-354772",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794471898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-f0cff64a",
+    "num": "dailymirrorlk-f0cff64a",
+    "date_str": "2026-11-12",
+    "description": "Three monks arrested following tensions over Sacred City Plan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-monks-arrested-following-tensions-over-Sacred-City-Plan/108-354773",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794471980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-a5ad9317",
+    "num": "dailymirrorlk-a5ad9317",
+    "date_str": "2026-11-12",
+    "description": "Two clauses of Sri Lanka Cricket Bill inconsistent with Constitution",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-clauses-of-Sri-Lanka-Cricket-Bill-inconsistent-with-Constitution/108-354775",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794473865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-71f5e963",
+    "num": "dailymirrorlk-71f5e963",
+    "date_str": "2026-11-12",
+    "description": "Sri Lanka considers mandatory standards for imported electric vehicles and batteries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-considers-mandatory-standards-for-imported-electric-vehicles-and-batteries/108-354776",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794474011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-eb0dfa0b",
+    "num": "dailymirrorlk-eb0dfa0b",
+    "date_str": "2026-11-12",
+    "description": "State research institutions face shortage of skilled staff, Committee told",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/State-research-institutions-face-shortage-of-skilled-staff-Committee-told/108-354777",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794474109.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-d334d307",
+    "num": "dailymirrorlk-d334d307",
+    "date_str": "2026-11-12",
+    "description": "LAUGFS Gas to resume cylinder deliveries after arrival of 3,000+ MT LPG shipment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-Gas-to-resume-cylinder-deliveries-after-arrival-of-3-000-MT-LPG-shipment/108-354778",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794474870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-fa014b33",
+    "num": "dailymirrorlk-fa014b33",
+    "date_str": "2026-11-12",
+    "description": "Showers expected in several provinces tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-expected-in-several-provinces-tomorrow/108-354779",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794475359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-12-dailymirrorlk-fa5f7fb2",
+    "num": "dailymirrorlk-fa5f7fb2",
+    "date_str": "2026-11-12",
+    "description": "10% levy on imported solar batteries to be removed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-levy-on-imported-solar-batteries-to-be-removed/108-354781",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794475825.0
   }
 ]

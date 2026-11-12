@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-12 13:54:48",
-  "n_docs": 135366,
+  "time_updated": "2026-11-12 15:53:57",
+  "n_docs": 135375,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135366,
+  "n_docs_with_text": 135375,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-12",
-  "dataset_size": 2089082014,
+  "dataset_size": 2089349283,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-5d31bdc5",
-    "num": "dailymirrorlk-5d31bdc5",
+    "doc_id": "2026-11-12-dailymirrorlk-fa5f7fb2",
+    "num": "dailymirrorlk-fa5f7fb2",
     "date_str": "2026-11-12",
-    "description": "CEA recruits 17 management assistants to strengthen administration",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-recruits-17-management-assistants-to-strengthen-administration/108-354768",
+    "description": "10% levy on imported solar batteries to be removed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-levy-on-imported-solar-batteries-to-be-removed/108-354781",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794470278.0
+    "time_ut": 1794475825.0
   }
 }
