@@ -14,11 +14,11 @@
     "islandlk",
     "lankadeepalk",
     "newsfirstlk",
-    "tamilmirrorlk",
-    "virakesarilk"
+    "tamilmirrorlk"
   ],
   "newspaper_to_n": {
-    "dailymirrorlk": 389,
-    "dailyftlk": 105
+    "dailymirrorlk": 390,
+    "dailyftlk": 105,
+    "virakesarilk": 41
   }
 }
