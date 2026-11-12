@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-12 12:00:10",
-  "n_docs": 135336,
+  "time_updated": "2026-11-12 13:54:48",
+  "n_docs": 135366,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135336,
+  "n_docs_with_text": 135366,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-12",
-  "dataset_size": 2088913820,
+  "dataset_size": 2089082014,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-12-dailymirrorlk-90fd78c2",
-    "num": "dailymirrorlk-90fd78c2",
+    "doc_id": "2026-11-12-dailymirrorlk-5d31bdc5",
+    "num": "dailymirrorlk-5d31bdc5",
     "date_str": "2026-11-12",
-    "description": "Yoshitha Rajapaksa\u2019s case postponed till November 26 for further evidence",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yoshitha-Rajapaksas-case-postponed-till-November-26-for-further-evidence/108-354724",
+    "description": "CEA recruits 17 management assistants to strengthen administration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-recruits-17-management-assistants-to-strengthen-administration/108-354768",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794462842.0
+    "time_ut": 1794470278.0
   }
 }
