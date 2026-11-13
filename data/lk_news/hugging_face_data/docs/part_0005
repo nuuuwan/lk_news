@@ -105508,5 +105508,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794590227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-a3d6357a",
+    "num": "dailyftlk-a3d6357a",
+    "date_str": "2026-11-13",
+    "description": "Republic and robe",
+    "url_metadata": "https://www.ft.lk/columns/Republic-and-robe/4-800072",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794593795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-cbc96ecb",
+    "num": "dailyftlk-cbc96ecb",
+    "date_str": "2026-11-13",
+    "description": "From monsoon to management: Colombo\u2019s heavy weather and building a flood-resilient Sri Lanka \u2013 Part I",
+    "url_metadata": "https://www.ft.lk/columns/From-monsoon-to-management-Colombo-s-heavy-weather-and-building-a-flood-resilient-Sri-Lanka-Part-I/4-800073",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794593977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-f0ac4d08",
+    "num": "dailyftlk-f0ac4d08",
+    "date_str": "2026-11-13",
+    "description": "Sri Lanka\u2019s foreign policy paradoxes: Geo-politics, development and human rights",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-foreign-policy-paradoxes-Geo-politics-development-and-human-rights/14-800076",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-56998622",
+    "num": "dailyftlk-56998622",
+    "date_str": "2026-11-13",
+    "description": "Building economy our grandchildren can depend on",
+    "url_metadata": "https://www.ft.lk/columns/Building-economy-our-grandchildren-can-depend-on/4-800077",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-7bdb4a50",
+    "num": "dailyftlk-7bdb4a50",
+    "date_str": "2026-11-14",
+    "description": "LifeServ celebrates 25 years of healthcare service in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/LifeServ-celebrates-25-years-of-healthcare-service-in-Sri-Lanka/34-800078",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-d86d3c36",
+    "num": "dailyftlk-d86d3c36",
+    "date_str": "2026-11-14",
+    "description": "Sri Lanka reaffirms renewable energy ambitions at 9th session of International Solar Alliance",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-reaffirms-renewable-energy-ambitions-at-9th-session-of-International-Solar-Alliance/34-800079",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-b9d7f06e",
+    "num": "dailyftlk-b9d7f06e",
+    "date_str": "2026-11-14",
+    "description": "Modern Pack Lanka wins Gold at CNCI Achiever Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/Modern-Pack-Lanka-wins-Gold-at-CNCI-Achiever-Awards-2026/34-800080",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-7c01ecec",
+    "num": "dailyftlk-7c01ecec",
+    "date_str": "2026-11-14",
+    "description": "India-Sri Lanka Innovation Forum",
+    "url_metadata": "https://www.ft.lk/business/India-Sri-Lanka-Innovation-Forum/34-800081",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794594885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-7ef620b8",
+    "num": "dailyftlk-7ef620b8",
+    "date_str": "2026-11-14",
+    "description": "Enduring resistance",
+    "url_metadata": "https://www.ft.lk/columns/Enduring-resistance/4-800082",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794595070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-7e15e76f",
+    "num": "dailyftlk-7e15e76f",
+    "date_str": "2026-11-14",
+    "description": "Why we must treat atmosphere as global common",
+    "url_metadata": "https://www.ft.lk/columns/Why-we-must-treat-atmosphere-as-global-common/4-800083",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794595263.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-be9ed311",
+    "num": "dailyftlk-be9ed311",
+    "date_str": "2026-11-14",
+    "description": "Assassination of Kavantissa: Coincidence, negligence, or an ideological message?",
+    "url_metadata": "https://www.ft.lk/columns/Assassination-of-Kavantissa-Coincidence-negligence-or-an-ideological-message/4-800084",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794595380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-c3eaa50e",
+    "num": "dailyftlk-c3eaa50e",
+    "date_str": "2026-11-14",
+    "description": "LAUGFS Gas hikes 12.5 kg refill by Rs. 1,775",
+    "url_metadata": "https://www.ft.lk/news/LAUGFS-Gas-hikes-12-5-kg-refill-by-Rs-1-775/56-800090",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794597482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailyftlk-d41d2b0d",
+    "num": "dailyftlk-d41d2b0d",
+    "date_str": "2026-11-14",
+    "description": "Kassapa Thera, six others remanded after Ruwanweli Maha Seya clash",
+    "url_metadata": "https://www.ft.lk/news/Kassapa-Thera-six-others-remanded-after-Ruwanweli-Maha-Seya-clash/56-800091",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794597534.0
   }
 ]
