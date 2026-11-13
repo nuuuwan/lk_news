@@ -104727,5 +104727,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794533567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-da96dce8",
+    "num": "dailymirrorlk-da96dce8",
+    "date_str": "2026-11-13",
+    "description": "Public Service Engineers strike today over Budget 2027 snub",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Service-Engineers-strike-today-over-Budget-2027-snub/108-354817",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794537779.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-3a9fb8d7",
+    "num": "dailymirrorlk-3a9fb8d7",
+    "date_str": "2026-11-13",
+    "description": "TVET CareerOne platform handed over",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/TVET-CareerOne-platform-handed-over/110-354818",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794542631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-4eebafd1",
+    "num": "dailymirrorlk-4eebafd1",
+    "date_str": "2026-11-13",
+    "description": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Massive-Microsoft-outage-disrupts-businesses-schools-and-governments-around-the-world/108-354821",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794543404.0
   }
 ]

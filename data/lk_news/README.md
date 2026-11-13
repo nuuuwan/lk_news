@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_07:55:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_09:56:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,465** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,468** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-dd23a1a6",
-    "num": "dailymirrorlk-dd23a1a6",
+    "doc_id": "2026-11-13-dailymirrorlk-4eebafd1",
+    "num": "dailymirrorlk-4eebafd1",
     "date_str": "2026-11-13",
-    "description": "British Airways plane suffers tail strike at heathrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-Airways-plane-suffers-tail-strike-at-heathrow/108-354816",
+    "description": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Massive-Microsoft-outage-disrupts-businesses-schools-and-governments-around-the-world/108-354821",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794533567.0
+    "time_ut": 1794543404.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-13 | `dailymirrorlk-4eebafd1` | Massive Microsoft outage disrupts businesses, schools and governments around the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-4eebafd1)
+- 2026-11-13 | `dailymirrorlk-3a9fb8d7` | TVET CareerOne platform handed over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-3a9fb8d7)
+- 2026-11-13 | `dailymirrorlk-da96dce8` | Public Service Engineers strike today over Budget 2027 snub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-da96dce8)
 - 2026-11-13 | `dailymirrorlk-dd23a1a6` | British Airways plane suffers tail strike at heathrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-dd23a1a6)
 - 2026-11-13 | `dailyftlk-60dd2325` | Personal tax relief in Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-60dd2325)
 - 2026-11-13 | `dailyftlk-ad276818` | A Budget of billions, but where is Sri Lanka heading? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-ad276818)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailyftlk-56f13451` | LAUGFS Gas to resume cylinder deliveries following arrival of more than 3,000 tons of LPG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-56f13451)
 - 2026-11-13 | `dailyftlk-b7006623` | Customs rejects MP Nalin Bandara’s documentation  over seized drone consignment as CID launches probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-b7006623)
 - 2026-11-12 | `dailymirrorlk-693382e4` | Sri Lanka women dominate Emerging Nations opener as Pakistan hold test advantage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-693382e4)
-- 2026-11-12 | `virakesarilk-32cb9054` | யோசித்த ராஜபக்ஷவுக்கு எதிரான வழக்கின் மேலதிக சாட்சிய விசாரணை 26ஆம் திகதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-virakesarilk-32cb9054)
-- 2026-11-12 | `virakesarilk-bbdd9ede` | வவுனியாவில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-virakesarilk-bbdd9ede)
-- 2026-11-12 | `virakesarilk-10b80aa6` | நாமல் ராஜபக்ஷவின் பிணை உத்தரவை இரத்து செய்யக் கோரி மனு கொழும்பு மேல் நீதிமன்றம் நாளை பரிசீலனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-virakesarilk-10b80aa6)
 
 ---
 
