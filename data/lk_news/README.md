@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_11:59:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_13:55:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,476** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,482** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-39a7e8b0",
-    "num": "dailymirrorlk-39a7e8b0",
+    "doc_id": "2026-11-13-dailymirrorlk-eb3ec072",
+    "num": "dailymirrorlk-eb3ec072",
     "date_str": "2026-11-13",
-    "description": "Some Opposition MPs keep away from tea party after the Budget",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Some-Opposition-MPs-keep-away-from-tea-party-after-the-Budget/108-354829",
+    "description": "Budget 2027 banks on goods and services taxes to lift revenue to Rs. 6.15 trn",
+    "url_metadata": "https://www.dailymirror.lk/business/Budget-2027-banks-on-goods-and-services-taxes-to-lift-revenue-to-Rs-6-15-trn/215-354835",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794547917.0
+    "time_ut": 1794556810.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-13 | `dailymirrorlk-eb3ec072` | Budget 2027 banks on goods and services taxes to lift revenue to Rs. 6.15 trn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-eb3ec072)
+- 2026-11-13 | `dailymirrorlk-ba94cf4a` | EDB and Digital Economy Ministry strengthen collaboration to achieve US$ 5bn ICT export target by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-ba94cf4a)
+- 2026-11-13 | `dailymirrorlk-6c826ffa` | Calculated buying stance pushes yields lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-6c826ffa)
+- 2026-11-13 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-821a32a1)
+- 2026-11-13 | `dailymirrorlk-427d2a3c` | Government allocates Rs. 749 Billion for education in 2027 Budget: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-427d2a3c)
+- 2026-11-13 | `dailymirrorlk-ec5ac8e3` | Budget Speech 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-ec5ac8e3)
 - 2026-11-13 | `dailymirrorlk-39a7e8b0` | Some Opposition MPs keep away from tea party after the Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-39a7e8b0)
 - 2026-11-13 | `dailymirrorlk-fb1cba7a` | Budget 2027 brings relief closer to home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-fb1cba7a)
 - 2026-11-13 | `dailymirrorlk-f7c9cd5f` | UAE says 14 killed, 30 injured in Fujairah traffic accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-f7c9cd5f)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailymirrorlk-dd23a1a6` | British Airways plane suffers tail strike at heathrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-dd23a1a6)
 - 2026-11-13 | `dailyftlk-60dd2325` | Personal tax relief in Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-60dd2325)
 - 2026-11-13 | `dailyftlk-ad276818` | A Budget of billions, but where is Sri Lanka heading? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-ad276818)
-- 2026-11-13 | `dailyftlk-3ab226e9` | Solutions to youth problems: The case of IT qualifications | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-3ab226e9)
-- 2026-11-13 | `dailyftlk-88d51f00` | What social media can, and cannot shape or predict around elections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-88d51f00)
-- 2026-11-13 | `dailyftlk-7825526c` | BIMSTEC offers more trade, investment and regional cooperation opportunities for SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-7825526c)
-- 2026-11-13 | `dailyftlk-b107bb11` | The IMF, World Bank and ADB must reinvent themselves for a new world order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-b107bb11)
-- 2026-11-13 | `dailyftlk-17c33545` | Aitken Spence records strong 1H performance with PBT up 71% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-17c33545)
-- 2026-11-13 | `dailyftlk-4836ff4b` | Sri Lanka’s $ 5 b ICT/BPM export target by 2030 under spotlight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-4836ff4b)
 
 ---
 

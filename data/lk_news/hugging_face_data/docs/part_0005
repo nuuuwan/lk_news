@@ -104848,5 +104848,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794547917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-ec5ac8e3",
+    "num": "dailymirrorlk-ec5ac8e3",
+    "date_str": "2026-11-13",
+    "description": "Budget Speech 2027",
+    "url_metadata": "https://www.dailymirror.lk/business/Budget-Speech-2027/215-354830",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794550173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-427d2a3c",
+    "num": "dailymirrorlk-427d2a3c",
+    "date_str": "2026-11-13",
+    "description": "Government allocates Rs. 749 Billion for education in 2027 Budget: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-allocates-Rs-749-Billion-for-education-in-2027-Budget-PM/108-354831",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794555803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-821a32a1",
+    "num": "dailymirrorlk-821a32a1",
+    "date_str": "2026-11-13",
+    "description": "Indices close in green",
+    "url_metadata": "https://www.dailymirror.lk/business/Indices-close-in-green/215-354832",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794556233.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-6c826ffa",
+    "num": "dailymirrorlk-6c826ffa",
+    "date_str": "2026-11-13",
+    "description": "Calculated buying stance pushes yields lower",
+    "url_metadata": "https://www.dailymirror.lk/business/Calculated-buying-stance-pushes-yields-lower/215-354833",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794556514.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-ba94cf4a",
+    "num": "dailymirrorlk-ba94cf4a",
+    "date_str": "2026-11-13",
+    "description": "EDB and Digital Economy Ministry strengthen collaboration to achieve US$ 5bn ICT export target by 2030",
+    "url_metadata": "https://www.dailymirror.lk/business/EDB-and-Digital-Economy-Ministry-strengthen-collaboration-to-achieve-US-5bn-ICT-export-target-by-2030/215-354834",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794556712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-eb3ec072",
+    "num": "dailymirrorlk-eb3ec072",
+    "date_str": "2026-11-13",
+    "description": "Budget 2027 banks on goods and services taxes to lift revenue to Rs. 6.15 trn",
+    "url_metadata": "https://www.dailymirror.lk/business/Budget-2027-banks-on-goods-and-services-taxes-to-lift-revenue-to-Rs-6-15-trn/215-354835",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794556810.0
   }
 ]
