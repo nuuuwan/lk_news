@@ -104694,5 +104694,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794529312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-ad276818",
+    "num": "dailyftlk-ad276818",
+    "date_str": "2026-11-13",
+    "description": "A Budget of billions, but where is Sri Lanka heading?",
+    "url_metadata": "https://www.ft.lk/columns/A-Budget-of-billions-but-where-is-Sri-Lanka-heading/4-800050",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794531439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-60dd2325",
+    "num": "dailyftlk-60dd2325",
+    "date_str": "2026-11-13",
+    "description": "Personal tax relief in Budget 2027",
+    "url_metadata": "https://www.ft.lk/columns/Personal-tax-relief-in-Budget-2027/4-800051",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794532188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-dd23a1a6",
+    "num": "dailymirrorlk-dd23a1a6",
+    "date_str": "2026-11-13",
+    "description": "British Airways plane suffers tail strike at heathrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/British-Airways-plane-suffers-tail-strike-at-heathrow/108-354816",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794533567.0
   }
 ]
