@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-13 15:51:54",
-  "n_docs": 135496,
+  "time_updated": "2026-11-13 17:56:17",
+  "n_docs": 135526,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135496,
+  "n_docs_with_text": 135526,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-13",
-  "dataset_size": 2091542416,
+  "dataset_size": 2091831267,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-148a18a9",
-    "num": "dailymirrorlk-148a18a9",
+    "doc_id": "2026-11-13-virakesarilk-baa2d80b",
+    "num": "virakesarilk-baa2d80b",
     "date_str": "2026-11-13",
-    "description": "SriLankan Airlines increases Melbourne flights to 10 per week",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-increases-Melbourne-flights-to-10-per-week/108-354853",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794564478.0
+    "description": "\u0bae\u0bc8\u0b95\u0bcd\u0bb0\u0bcb\u0b9a\u0bca\u0baa\u0bcd\u0b9f\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b95\u0bcb\u0bb3\u0bbe\u0bb1\u0bc1: \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/266750",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1794572040.0
   }
 }
