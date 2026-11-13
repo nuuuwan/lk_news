@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_09:56:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_11:59:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,468** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,476** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-4eebafd1",
-    "num": "dailymirrorlk-4eebafd1",
+    "doc_id": "2026-11-13-dailymirrorlk-39a7e8b0",
+    "num": "dailymirrorlk-39a7e8b0",
     "date_str": "2026-11-13",
-    "description": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Massive-Microsoft-outage-disrupts-businesses-schools-and-governments-around-the-world/108-354821",
+    "description": "Some Opposition MPs keep away from tea party after the Budget",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Some-Opposition-MPs-keep-away-from-tea-party-after-the-Budget/108-354829",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794543404.0
+    "time_ut": 1794547917.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-13 | `dailymirrorlk-39a7e8b0` | Some Opposition MPs keep away from tea party after the Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-39a7e8b0)
+- 2026-11-13 | `dailymirrorlk-fb1cba7a` | Budget 2027 brings relief closer to home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-fb1cba7a)
+- 2026-11-13 | `dailymirrorlk-f7c9cd5f` | UAE says 14 killed, 30 injured in Fujairah traffic accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-f7c9cd5f)
+- 2026-11-13 | `dailymirrorlk-26708560` | Balangoda Kassapa Thera and six others remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-26708560)
+- 2026-11-13 | `dailymirrorlk-b11bbfe8` | Flight ban above Parliamentary complex to be relaxed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-b11bbfe8)
+- 2026-11-13 | `dailymirrorlk-ad4dcb35` | Leopard rescued from snare in Norwood | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-ad4dcb35)
+- 2026-11-13 | `dailymirrorlk-ead06d5c` | Negligence in drain cleaning contributed to recent Colombo floods: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-ead06d5c)
+- 2026-11-13 | `dailymirrorlk-6301502a` | Budget 2027 may drive doctors overseas, warns medical alliance chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-6301502a)
 - 2026-11-13 | `dailymirrorlk-4eebafd1` | Massive Microsoft outage disrupts businesses, schools and governments around the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-4eebafd1)
 - 2026-11-13 | `dailymirrorlk-3a9fb8d7` | TVET CareerOne platform handed over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-3a9fb8d7)
 - 2026-11-13 | `dailymirrorlk-da96dce8` | Public Service Engineers strike today over Budget 2027 snub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-da96dce8)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailyftlk-b107bb11` | The IMF, World Bank and ADB must reinvent themselves for a new world order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-b107bb11)
 - 2026-11-13 | `dailyftlk-17c33545` | Aitken Spence records strong 1H performance with PBT up 71% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-17c33545)
 - 2026-11-13 | `dailyftlk-4836ff4b` | Sri Lanka’s $ 5 b ICT/BPM export target by 2030 under spotlight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-4836ff4b)
-- 2026-11-13 | `dailyftlk-16f348f5` | Liberty Lands and Developments unites diverse ventures under one vision | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-16f348f5)
-- 2026-11-13 | `dailyftlk-fa7b6f1f` | JXG, Ceylon Chamber launch new initiative to support entrepreneurs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-fa7b6f1f)
-- 2026-11-13 | `dailyftlk-88f8ec05` | Oversight committee presses for EV, battery standards and stronger State research bodies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-88f8ec05)
-- 2026-11-13 | `dailyftlk-5e951858` | Yoshitha trial adjourned to  26 Nov. as accused cites ill health | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-5e951858)
-- 2026-11-13 | `dailyftlk-f88f56ef` | Cabinet backs new regulations on veterinary professionals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-f88f56ef)
-- 2026-11-13 | `dailyftlk-56f13451` | LAUGFS Gas to resume cylinder deliveries following arrival of more than 3,000 tons of LPG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-56f13451)
-- 2026-11-13 | `dailyftlk-b7006623` | Customs rejects MP Nalin Bandara’s documentation  over seized drone consignment as CID launches probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-b7006623)
-- 2026-11-12 | `dailymirrorlk-693382e4` | Sri Lanka women dominate Emerging Nations opener as Pakistan hold test advantage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-12-dailymirrorlk-693382e4)
 
 ---
 
