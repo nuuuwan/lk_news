@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_17:56:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_19:53:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,526** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,530** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-virakesarilk-baa2d80b",
-    "num": "virakesarilk-baa2d80b",
+    "doc_id": "2026-11-13-dailymirrorlk-b20c94d3",
+    "num": "dailymirrorlk-b20c94d3",
     "date_str": "2026-11-13",
-    "description": "\u0bae\u0bc8\u0b95\u0bcd\u0bb0\u0bcb\u0b9a\u0bca\u0baa\u0bcd\u0b9f\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b95\u0bcb\u0bb3\u0bbe\u0bb1\u0bc1: \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/266750",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794572040.0
+    "description": "Microsoft reports \u2018encouraging recovery progress\u2019 in global outage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Microsoft-reports-encouraging-recovery-progress-in-global-outage/108-354861",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794576433.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-13 | `dailymirrorlk-b20c94d3` | Microsoft reports ‘encouraging recovery progress’ in global outage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-b20c94d3)
+- 2026-11-13 | `dailymirrorlk-245f558d` | Sri Lankan workers receive Rs. 56.9 Mn in recovered wages from Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-245f558d)
+- 2026-11-13 | `dailymirrorlk-afb03397` | Rs. 1 billion allocated to upgrade fishermen’s mobile app: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-afb03397)
 - 2026-11-13 | `virakesarilk-baa2d80b` | மைக்ரோசொப்ட் தொழில்நுட்ப கோளாறு: இந்தியாவில் விமான சேவைகள் பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-baa2d80b)
+- 2026-11-13 | `dailymirrorlk-5fe7a0fe` | Pakistan and Sri Lanka share points after Rawalpindi test draw as WTC race heats up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-5fe7a0fe)
 - 2026-11-13 | `dailymirrorlk-bfb75da7` | SLFP still a recognised political party, Election Commission clarifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-bfb75da7)
 - 2026-11-13 | `virakesarilk-96efd28f` | TIN சான்றிதழை சமர்ப்பிக்கும் கட்டாய  நடைமுறை ஒத்தி வைக்கப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-96efd28f)
 - 2026-11-13 | `virakesarilk-3bc885b5` | கடந்த ஒன்றறை மாத காலப்பகுதியில் 17 பில்லியன் ரூபா பெறுமதியான போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது -பாதுகாப்புப் பிரதி அமைச்சர்  அருண ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-3bc885b5)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `virakesarilk-5a5b9798` | இந்திய மக்களவை உறுப்பினர் தொல். திருமாவளவன் வெளியிட்ட 'மௌன மொழிகள்' படத்தின் இசை மற்றும் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-5a5b9798)
 - 2026-11-13 | `virakesarilk-dc766542` | பிளாக் கோல்டு - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-dc766542)
 - 2026-11-13 | `dailymirrorlk-a32e1101` | Anuradhapura crash: SLTB bus driver tested positive for cannabis and alcohol | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-a32e1101)
-- 2026-11-13 | `virakesarilk-6ea68369` | தனிநபரொருவரது குறைந்தபட்ச அடிப்படை  வாழ்க்கைச் செலவு 17,742 ரூபாவாக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-6ea68369)
-- 2026-11-13 | `dailymirrorlk-78021581` | Two accused acquitted, Manamperi, Perera called to present defence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-78021581)
-- 2026-11-13 | `virakesarilk-74f9c5b4` | கீர்த்தி சுரேஷ் நடிக்கும் 'சத்தியவான் சாவித்திரி' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-74f9c5b4)
-- 2026-11-13 | `virakesarilk-8cca6a72` | பிரசவத்தின்போது ஏற்பட்ட அரிய மருத்துவச் சிக்கல் : இலங்கை யூடியூப்பர் ஆஷா நயோமியின் இறுதிச் சடங்கு ஜப்பானில், குழந்தை நலமாகவுள்ளது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-8cca6a72)
 
 ---
 
