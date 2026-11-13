@@ -104551,5 +104551,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794505828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-b7006623",
+    "num": "dailyftlk-b7006623",
+    "date_str": "2026-11-13",
+    "description": "Customs rejects MP Nalin Bandara\u2019s documentation  over seized drone consignment as CID launches probe",
+    "url_metadata": "https://www.ft.lk/news/Customs-rejects-MP-Nalin-Bandara-s-documentation-over-seized-drone-consignment-as-CID-launches-probe/56-800034",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794523161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-56f13451",
+    "num": "dailyftlk-56f13451",
+    "date_str": "2026-11-13",
+    "description": "LAUGFS Gas to resume cylinder deliveries following arrival of more than 3,000 tons of LPG",
+    "url_metadata": "https://www.ft.lk/news/LAUGFS-Gas-to-resume-cylinder-deliveries-following-arrival-of-more-than-3-000-tons-of-LPG/56-800035",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794523195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-f88f56ef",
+    "num": "dailyftlk-f88f56ef",
+    "date_str": "2026-11-13",
+    "description": "Cabinet backs new regulations on veterinary professionals",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-backs-new-regulations-on-veterinary-professionals/56-800036",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794523834.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-5e951858",
+    "num": "dailyftlk-5e951858",
+    "date_str": "2026-11-13",
+    "description": "Yoshitha trial adjourned to  26 Nov. as accused cites ill health",
+    "url_metadata": "https://www.ft.lk/news/Yoshitha-trial-adjourned-to-26-Nov-as-accused-cites-ill-health/56-800037",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-88f8ec05",
+    "num": "dailyftlk-88f8ec05",
+    "date_str": "2026-11-13",
+    "description": "Oversight committee presses for EV, battery standards and stronger State research bodies",
+    "url_metadata": "https://www.ft.lk/news/Oversight-committee-presses-for-EV-battery-standards-and-stronger-State-research-bodies/56-800038",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-fa7b6f1f",
+    "num": "dailyftlk-fa7b6f1f",
+    "date_str": "2026-11-13",
+    "description": "JXG, Ceylon Chamber launch new initiative to support entrepreneurs",
+    "url_metadata": "https://www.ft.lk/business/JXG-Ceylon-Chamber-launch-new-initiative-to-support-entrepreneurs/34-800039",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-16f348f5",
+    "num": "dailyftlk-16f348f5",
+    "date_str": "2026-11-13",
+    "description": "Liberty Lands and Developments unites diverse ventures under one vision",
+    "url_metadata": "https://www.ft.lk/business/Liberty-Lands-and-Developments-unites-diverse-ventures-under-one-vision/34-800040",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524562.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-4836ff4b",
+    "num": "dailyftlk-4836ff4b",
+    "date_str": "2026-11-13",
+    "description": "Sri Lanka\u2019s $ 5 b ICT/BPM export target by 2030 under spotlight",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-5-b-ICT-BPM-export-target-by-2030-under-spotlight/34-800041",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-17c33545",
+    "num": "dailyftlk-17c33545",
+    "date_str": "2026-11-13",
+    "description": "Aitken Spence records strong 1H performance with PBT up 71%",
+    "url_metadata": "https://www.ft.lk/business/Aitken-Spence-records-strong-1H-performance-with-PBT-up-71/34-800042",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794524827.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-b107bb11",
+    "num": "dailyftlk-b107bb11",
+    "date_str": "2026-11-13",
+    "description": "The IMF, World Bank and ADB must reinvent themselves for a new world order",
+    "url_metadata": "https://www.ft.lk/columns/The-IMF-World-Bank-and-ADB-must-reinvent-themselves-for-a-new-world-order/4-800046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794525966.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-7825526c",
+    "num": "dailyftlk-7825526c",
+    "date_str": "2026-11-13",
+    "description": "BIMSTEC offers more trade, investment and regional cooperation opportunities for SL",
+    "url_metadata": "https://www.ft.lk/dinesh-weerakkody/BIMSTEC-offers-more-trade-investment-and-regional-cooperation-opportunities-for-SL/5-800047",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794528060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-88d51f00",
+    "num": "dailyftlk-88d51f00",
+    "date_str": "2026-11-13",
+    "description": "What social media can, and cannot shape or predict around elections",
+    "url_metadata": "https://www.ft.lk/columns/What-social-media-can-and-cannot-shape-or-predict-around-elections/4-800048",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794528945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailyftlk-3ab226e9",
+    "num": "dailyftlk-3ab226e9",
+    "date_str": "2026-11-13",
+    "description": "Solutions to youth problems: The case of IT qualifications",
+    "url_metadata": "https://www.ft.lk/columns/Solutions-to-youth-problems-The-case-of-IT-qualifications/4-800049",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794529312.0
   }
 ]
