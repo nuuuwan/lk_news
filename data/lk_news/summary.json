@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-13 19:52:58",
-  "n_docs": 135530,
+  "time_updated": "2026-11-13 21:54:17",
+  "n_docs": 135533,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135530,
+  "n_docs_with_text": 135533,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-13",
-  "dataset_size": 2092296525,
+  "dataset_size": 2092319284,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-b20c94d3",
-    "num": "dailymirrorlk-b20c94d3",
+    "doc_id": "2026-11-13-dailymirrorlk-e452a169",
+    "num": "dailymirrorlk-e452a169",
     "date_str": "2026-11-13",
-    "description": "Microsoft reports \u2018encouraging recovery progress\u2019 in global outage",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Microsoft-reports-encouraging-recovery-progress-in-global-outage/108-354861",
+    "description": "LAUGFS Gas hikes cylinder prices by up to Rs. 1,775",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-Gas-hikes-cylinder-prices-by-up-to-Rs-1-775/108-354870",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794576433.0
+    "time_ut": 1794585960.0
   }
 }

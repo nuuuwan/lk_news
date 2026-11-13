@@ -105423,6 +105423,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-6896481a",
+    "num": "dailymirrorlk-6896481a",
+    "date_str": "2026-11-13",
+    "description": "India to overhaul tourist visa rules with wider visitor access by year-end",
+    "url_metadata": "https://www.dailymirror.lk/international/India-to-overhaul-tourist-visa-rules-with-wider-visitor-access-by-year-end/107-354859",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794576104.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-13-dailymirrorlk-245f558d",
     "num": "dailymirrorlk-245f558d",
     "date_str": "2026-11-13",
@@ -105442,5 +105453,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794576433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-7d04c8e9",
+    "num": "dailymirrorlk-7d04c8e9",
+    "date_str": "2026-11-13",
+    "description": "Three Chinese food businesses fined Rs. 444,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-Chinese-food-businesses-fined-Rs-444-000/108-354863",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794579385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-e452a169",
+    "num": "dailymirrorlk-e452a169",
+    "date_str": "2026-11-13",
+    "description": "LAUGFS Gas hikes cylinder prices by up to Rs. 1,775",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-Gas-hikes-cylinder-prices-by-up-to-Rs-1-775/108-354870",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794585960.0
   }
 ]

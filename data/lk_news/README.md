@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_19:53:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_21:54:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,530** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,533** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-13-dailymirrorlk-b20c94d3",
-    "num": "dailymirrorlk-b20c94d3",
+    "doc_id": "2026-11-13-dailymirrorlk-e452a169",
+    "num": "dailymirrorlk-e452a169",
     "date_str": "2026-11-13",
-    "description": "Microsoft reports \u2018encouraging recovery progress\u2019 in global outage",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Microsoft-reports-encouraging-recovery-progress-in-global-outage/108-354861",
+    "description": "LAUGFS Gas hikes cylinder prices by up to Rs. 1,775",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-Gas-hikes-cylinder-prices-by-up-to-Rs-1-775/108-354870",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794576433.0
+    "time_ut": 1794585960.0
 }
 ```
 
@@ -41,8 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-13 | `dailymirrorlk-e452a169` | LAUGFS Gas hikes cylinder prices by up to Rs. 1,775 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-e452a169)
+- 2026-11-13 | `dailymirrorlk-7d04c8e9` | Three Chinese food businesses fined Rs. 444,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-7d04c8e9)
 - 2026-11-13 | `dailymirrorlk-b20c94d3` | Microsoft reports ‘encouraging recovery progress’ in global outage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-b20c94d3)
 - 2026-11-13 | `dailymirrorlk-245f558d` | Sri Lankan workers receive Rs. 56.9 Mn in recovered wages from Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-245f558d)
+- 2026-11-13 | `dailymirrorlk-6896481a` | India to overhaul tourist visa rules with wider visitor access by year-end | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-6896481a)
 - 2026-11-13 | `dailymirrorlk-afb03397` | Rs. 1 billion allocated to upgrade fishermen’s mobile app: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-afb03397)
 - 2026-11-13 | `virakesarilk-baa2d80b` | மைக்ரோசொப்ட் தொழில்நுட்ப கோளாறு: இந்தியாவில் விமான சேவைகள் பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-baa2d80b)
 - 2026-11-13 | `dailymirrorlk-5fe7a0fe` | Pakistan and Sri Lanka share points after Rawalpindi test draw as WTC race heats up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-5fe7a0fe)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailymirrorlk-f4f24022` | High Court to deliver order on CIABOC revision petition against Namal’s bail on Nov. 18 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-f4f24022)
 - 2026-11-13 | `dailymirrorlk-148a18a9` | SriLankan Airlines increases Melbourne flights to 10 per week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-148a18a9)
 - 2026-11-13 | `virakesarilk-c3ed2106` | ஆயிரம் கோடி ரூபாய் வசூலித்து சாதனை படைத்து வரும் 'ராமாயணம்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-c3ed2106)
-- 2026-11-13 | `virakesarilk-5a5b9798` | இந்திய மக்களவை உறுப்பினர் தொல். திருமாவளவன் வெளியிட்ட 'மௌன மொழிகள்' படத்தின் இசை மற்றும் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-5a5b9798)
-- 2026-11-13 | `virakesarilk-dc766542` | பிளாக் கோல்டு - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-dc766542)
-- 2026-11-13 | `dailymirrorlk-a32e1101` | Anuradhapura crash: SLTB bus driver tested positive for cannabis and alcohol | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-a32e1101)
 
 ---
 
