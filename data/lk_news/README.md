@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_01:53:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_03:50:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,549** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,565** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailyftlk-a3d6357a` | Republic and robe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-a3d6357a)
 - 2026-11-13 | `dailymirrorlk-af33f711` | Sri Lankan human trafficking suspect arrested in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-af33f711)
 - 2026-11-13 | `dailymirrorlk-d631fbb4` | Truck and bus crash in India’s Assam state kills at least 24 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-d631fbb4)
+- 2026-11-13 | `virakesarilk-df17c7a3` | வங்காள விரிகுடாவில் உருவான தாழமுக்கம் புயலாக வலுப்பெற வாய்ப்பு; மீனவர்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-df17c7a3)
+- 2026-11-13 | `virakesarilk-1701144d` | லாஃப்ஸ் எரிவாயு விலை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-1701144d)
 - 2026-11-13 | `dailymirrorlk-e452a169` | LAUGFS Gas hikes cylinder prices by up to Rs. 1,775 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-e452a169)
 - 2026-11-13 | `dailymirrorlk-1685c6dc` | Cyclonic storm threat looms over Sri Lanka as heavy rains forecast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-1685c6dc)
-- 2026-11-13 | `dailymirrorlk-7d04c8e9` | Three Chinese food businesses fined Rs. 444,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-7d04c8e9)
-- 2026-11-13 | `dailymirrorlk-b20c94d3` | Microsoft reports ‘encouraging recovery progress’ in global outage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-b20c94d3)
-- 2026-11-13 | `dailymirrorlk-245f558d` | Sri Lankan workers receive Rs. 56.9 Mn in recovered wages from Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-245f558d)
+- 2026-11-13 | `virakesarilk-249c3844` | உலகளாவிய மைக்ரோசொப்ட் சேவைத் தடை சீராகிறது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-249c3844)
 
 ---
 
