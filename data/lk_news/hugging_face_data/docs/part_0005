@@ -105467,6 +105467,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-1685c6dc",
+    "num": "dailymirrorlk-1685c6dc",
+    "date_str": "2026-11-13",
+    "description": "Cyclonic storm threat looms over Sri Lanka as heavy rains forecast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyclonic-storm-threat-looms-over-Sri-Lanka-as-heavy-rains-forecast/108-354869",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794584960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-13-dailymirrorlk-e452a169",
     "num": "dailymirrorlk-e452a169",
     "date_str": "2026-11-13",
@@ -105475,5 +105486,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794585960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-d631fbb4",
+    "num": "dailymirrorlk-d631fbb4",
+    "date_str": "2026-11-13",
+    "description": "Truck and bus crash in India\u2019s Assam state kills at least 24 people",
+    "url_metadata": "https://www.dailymirror.lk/international/Truck-and-bus-crash-in-Indias-Assam-state-kills-at-least-24-people/107-354873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794589680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-13-dailymirrorlk-af33f711",
+    "num": "dailymirrorlk-af33f711",
+    "date_str": "2026-11-13",
+    "description": "Sri Lankan human trafficking suspect arrested in India",
+    "url_metadata": "https://www.dailymirror.lk/international/Sri-Lankan-human-trafficking-suspect-arrested-in-India/107-354874",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794590227.0
   }
 ]
