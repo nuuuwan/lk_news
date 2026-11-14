@@ -106432,5 +106432,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794643000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailymirrorlk-f3d09ec8",
+    "num": "dailymirrorlk-f3d09ec8",
+    "date_str": "2026-11-14",
+    "description": "Public Health Inspectors left out of Budget 2027, union says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Health-Inspectors-left-out-of-Budget-2027-union-says/108-354921",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794655530.0
   }
 ]

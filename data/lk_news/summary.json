@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-14 15:50:00",
-  "n_docs": 135620,
+  "time_updated": "2026-11-14 17:56:33",
+  "n_docs": 135621,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135620,
+  "n_docs_with_text": 135621,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-14",
-  "dataset_size": 2094005659,
+  "dataset_size": 2094073447,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailymirrorlk-a929f359",
-    "num": "dailymirrorlk-a929f359",
+    "doc_id": "2026-11-14-dailymirrorlk-f3d09ec8",
+    "num": "dailymirrorlk-f3d09ec8",
     "date_str": "2026-11-14",
-    "description": "Balfour\u2019s shadow hangs over Gaza\u2019s biting winter",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Balfours-shadow-hangs-over-Gazas-biting-winter/172-354914",
+    "description": "Public Health Inspectors left out of Budget 2027, union says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Health-Inspectors-left-out-of-Budget-2027-union-says/108-354921",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794643000.0
+    "time_ut": 1794655530.0
   }
 }
