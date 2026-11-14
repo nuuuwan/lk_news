@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_03:50:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_06:03:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,565** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,573** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailyftlk-d41d2b0d",
-    "num": "dailyftlk-d41d2b0d",
+    "doc_id": "2026-11-14-virakesarilk-53a801bc",
+    "num": "virakesarilk-53a801bc",
     "date_str": "2026-11-14",
-    "description": "Kassapa Thera, six others remanded after Ruwanweli Maha Seya clash",
-    "url_metadata": "https://www.ft.lk/news/Kassapa-Thera-six-others-remanded-after-Ruwanweli-Maha-Seya-clash/56-800091",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794597534.0
+    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba3\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 18\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf - \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/266763",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1794615900.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-14 | `virakesarilk-53a801bc` | நாமல் ராஜபக்ஷவின் பிணை உத்தரவை இடைநிறுத்துவது தொடர்பான தீர்ப்பு 18ஆம் திகதி - கொழும்பு மேல் நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-53a801bc)
+- 2026-11-14 | `virakesarilk-d97c9a28` | ஒழுங்கமைக்கப்பட்ட போராட்டங்கள் நாட்டுக்கும் அரசாங்கத்துக்கும் நன்மை பயக்கும் – ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-d97c9a28)
+- 2026-11-14 | `virakesarilk-be1fd2e4` | பெருந்தோட்டக் காணி குத்தகை ஒப்பந்தத்தை கிழித்தெறிவேன் – ஜீவன் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-be1fd2e4)
+- 2026-11-14 | `virakesarilk-6a5ee839` | திலித் ஜயவீர உள்ளிட்ட ஆறு பேருக்கு எதிரான நீதிமன்ற அவமதிப்பு வழக்கில் தனித்தனி குற்றச்சாட்டுகள் – பிரதி சொலிசிட்டர் ஜெனரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-6a5ee839)
+- 2026-11-14 | `virakesarilk-b1aa712e` | 1988–1989 வன்முறைகளுக்கு ஐ.தே.க. அரசின் அடக்குமுறைகளே பின்னணி – ரில்வின் சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-b1aa712e)
+- 2026-11-14 | `virakesarilk-ab086255` | ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி ஆலயத்தில் கந்தசஷ்டி மஹோற்சவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-ab086255)
+- 2026-11-14 | `virakesarilk-eec1a2ee` | மகளிர் முன்னேறிவரும் நாடுகள் கிரிக்கெட: ஸ்கொட்லாந்தை வீழ்த்தி இரண்டாவது வெற்றியை ஈட்டியது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-eec1a2ee)
+- 2026-11-14 | `dailymirrorlk-f9900f2d` | Sri Lanka, Pakistan continue winning runs at Emerging Nations Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-f9900f2d)
 - 2026-11-14 | `dailyftlk-d41d2b0d` | Kassapa Thera, six others remanded after Ruwanweli Maha Seya clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailyftlk-d41d2b0d)
 - 2026-11-14 | `dailyftlk-c3eaa50e` | LAUGFS Gas hikes 12.5 kg refill by Rs. 1,775 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailyftlk-c3eaa50e)
 - 2026-11-14 | `dailyftlk-be9ed311` | Assassination of Kavantissa: Coincidence, negligence, or an ideological message? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailyftlk-be9ed311)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-11-13 | `dailyftlk-56998622` | Building economy our grandchildren can depend on | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-56998622)
 - 2026-11-13 | `dailyftlk-f0ac4d08` | Sri Lanka’s foreign policy paradoxes: Geo-politics, development and human rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-f0ac4d08)
 - 2026-11-13 | `dailyftlk-cbc96ecb` | From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part I | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-cbc96ecb)
-- 2026-11-13 | `dailyftlk-a3d6357a` | Republic and robe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-a3d6357a)
-- 2026-11-13 | `dailymirrorlk-af33f711` | Sri Lankan human trafficking suspect arrested in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-af33f711)
-- 2026-11-13 | `dailymirrorlk-d631fbb4` | Truck and bus crash in India’s Assam state kills at least 24 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-d631fbb4)
-- 2026-11-13 | `virakesarilk-df17c7a3` | வங்காள விரிகுடாவில் உருவான தாழமுக்கம் புயலாக வலுப்பெற வாய்ப்பு; மீனவர்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-df17c7a3)
-- 2026-11-13 | `virakesarilk-1701144d` | லாஃப்ஸ் எரிவாயு விலை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-1701144d)
-- 2026-11-13 | `dailymirrorlk-e452a169` | LAUGFS Gas hikes cylinder prices by up to Rs. 1,775 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-e452a169)
-- 2026-11-13 | `dailymirrorlk-1685c6dc` | Cyclonic storm threat looms over Sri Lanka as heavy rains forecast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailymirrorlk-1685c6dc)
-- 2026-11-13 | `virakesarilk-249c3844` | உலகளாவிய மைக்ரோசொப்ட் சேவைத் தடை சீராகிறது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-virakesarilk-249c3844)
 
 ---
 

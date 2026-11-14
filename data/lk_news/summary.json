@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-14 03:50:20",
-  "n_docs": 135565,
+  "time_updated": "2026-11-14 06:03:05",
+  "n_docs": 135573,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135565,
+  "n_docs_with_text": 135573,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-14",
-  "dataset_size": 2092834075,
+  "dataset_size": 2093289325,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailyftlk-d41d2b0d",
-    "num": "dailyftlk-d41d2b0d",
+    "doc_id": "2026-11-14-virakesarilk-53a801bc",
+    "num": "virakesarilk-53a801bc",
     "date_str": "2026-11-14",
-    "description": "Kassapa Thera, six others remanded after Ruwanweli Maha Seya clash",
-    "url_metadata": "https://www.ft.lk/news/Kassapa-Thera-six-others-remanded-after-Ruwanweli-Maha-Seya-clash/56-800091",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794597534.0
+    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba3\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 18\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf - \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/266763",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1794615900.0
   }
 }
