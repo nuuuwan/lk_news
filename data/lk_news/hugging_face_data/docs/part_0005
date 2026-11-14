@@ -105915,5 +105915,16 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794615900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-14-dailymirrorlk-fe3efeb7",
+    "num": "dailymirrorlk-fe3efeb7",
+    "date_str": "2026-11-14",
+    "description": "Sri Lanka to feature in exclusive Four Seasons private jet experience",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-feature-in-exclusive-Four-Seasons-private-jet-experience/108-354876",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794627419.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_07:55:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_09:53:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,573** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,574** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-virakesarilk-53a801bc",
-    "num": "virakesarilk-53a801bc",
+    "doc_id": "2026-11-14-dailymirrorlk-fe3efeb7",
+    "num": "dailymirrorlk-fe3efeb7",
     "date_str": "2026-11-14",
-    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba3\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 18\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf - \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/266763",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794615900.0
+    "description": "Sri Lanka to feature in exclusive Four Seasons private jet experience",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-feature-in-exclusive-Four-Seasons-private-jet-experience/108-354876",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794627419.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-14 | `dailymirrorlk-fe3efeb7` | Sri Lanka to feature in exclusive Four Seasons private jet experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-fe3efeb7)
 - 2026-11-14 | `virakesarilk-53a801bc` | நாமல் ராஜபக்ஷவின் பிணை உத்தரவை இடைநிறுத்துவது தொடர்பான தீர்ப்பு 18ஆம் திகதி - கொழும்பு மேல் நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-53a801bc)
 - 2026-11-14 | `virakesarilk-d97c9a28` | ஒழுங்கமைக்கப்பட்ட போராட்டங்கள் நாட்டுக்கும் அரசாங்கத்துக்கும் நன்மை பயக்கும் – ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-d97c9a28)
 - 2026-11-14 | `virakesarilk-be1fd2e4` | பெருந்தோட்டக் காணி குத்தகை ஒப்பந்தத்தை கிழித்தெறிவேன் – ஜீவன் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-be1fd2e4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-14 | `dailyftlk-7bdb4a50` | LifeServ celebrates 25 years of healthcare service in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailyftlk-7bdb4a50)
 - 2026-11-13 | `dailyftlk-56998622` | Building economy our grandchildren can depend on | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-56998622)
 - 2026-11-13 | `dailyftlk-f0ac4d08` | Sri Lanka’s foreign policy paradoxes: Geo-politics, development and human rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-f0ac4d08)
-- 2026-11-13 | `dailyftlk-cbc96ecb` | From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part I | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-13-dailyftlk-cbc96ecb)
 
 ---
 
