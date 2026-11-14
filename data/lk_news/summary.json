@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-14 17:56:33",
-  "n_docs": 135621,
+  "time_updated": "2026-11-14 19:50:07",
+  "n_docs": 135622,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135621,
+  "n_docs_with_text": 135622,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-14",
-  "dataset_size": 2094073447,
+  "dataset_size": 2094080213,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailymirrorlk-f3d09ec8",
-    "num": "dailymirrorlk-f3d09ec8",
+    "doc_id": "2026-11-14-dailymirrorlk-b8d8e6dc",
+    "num": "dailymirrorlk-b8d8e6dc",
     "date_str": "2026-11-14",
-    "description": "Public Health Inspectors left out of Budget 2027, union says",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Health-Inspectors-left-out-of-Budget-2027-union-says/108-354921",
+    "description": "LAUGFS justifies price hike, cites rupee depreciation and rising costs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-justifies-price-hike-cites-rupee-depreciation-and-rising-costs/108-354922",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794655530.0
+    "time_ut": 1794660307.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_17:57:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--14_19:50:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,622** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailymirrorlk-f3d09ec8",
-    "num": "dailymirrorlk-f3d09ec8",
+    "doc_id": "2026-11-14-dailymirrorlk-b8d8e6dc",
+    "num": "dailymirrorlk-b8d8e6dc",
     "date_str": "2026-11-14",
-    "description": "Public Health Inspectors left out of Budget 2027, union says",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Health-Inspectors-left-out-of-Budget-2027-union-says/108-354921",
+    "description": "LAUGFS justifies price hike, cites rupee depreciation and rising costs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-justifies-price-hike-cites-rupee-depreciation-and-rising-costs/108-354922",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794655530.0
+    "time_ut": 1794660307.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-14 | `dailymirrorlk-b8d8e6dc` | LAUGFS justifies price hike, cites rupee depreciation and rising costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b8d8e6dc)
 - 2026-11-14 | `dailymirrorlk-f3d09ec8` | Public Health Inspectors left out of Budget 2027, union says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-f3d09ec8)
 - 2026-11-14 | `dailymirrorlk-a929f359` | Balfour’s shadow hangs over Gaza’s biting winter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-a929f359)
 - 2026-11-14 | `dailymirrorlk-7d30bffa` | Draconian Bills meet the test of democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-7d30bffa)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-14 | `dailymirrorlk-b8984cd2` | Colombo Port City Rotaractors take Project Aloka to Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b8984cd2)
 - 2026-11-14 | `dailymirrorlk-afe26664` | Sunshine Holdings brings diabetes screening and awareness to 9 Healthguard outlets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-afe26664)
 - 2026-11-14 | `dailymirrorlk-b95b8917` | Seven SLIIT academics among world’s top 2% scientists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b95b8917)
-- 2026-11-14 | `dailymirrorlk-82163e6d` | Connect to Care strengthens platform for regional philanthropic partnerships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-82163e6d)
 
 ---
 
