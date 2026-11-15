@@ -107136,5 +107136,115 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794723480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-1de155da",
+    "num": "dailymirrorlk-1de155da",
+    "date_str": "2026-11-15",
+    "description": "Consumer Affairs Authority summons LAUGFS Gas officials over price increase",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Consumer-Affairs-Authority-summons-LAUGFS-Gas-officials-over-price-increase/108-354937",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794723970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-f7eaf18e",
+    "num": "dailymirrorlk-f7eaf18e",
+    "date_str": "2026-11-15",
+    "description": "Diabetics urged to undergo annual eye examinations to prevent blindness",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Diabetics-urged-to-undergo-annual-eye-examinations-to-prevent-blindness/108-354938",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794724118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-5887c947",
+    "num": "dailymirrorlk-5887c947",
+    "date_str": "2026-11-15",
+    "description": "Red warning issued over strong winds and rough seas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Red-warning-issued-over-strong-winds-and-rough-seas/108-354939",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794725014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-62d18426",
+    "num": "dailymirrorlk-62d18426",
+    "date_str": "2026-11-15",
+    "description": "Bay of Bengal system threatens heavy rain across Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bay-of-Bengal-system-threatens-heavy-rain-across-Sri-Lanka/108-354940",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794725814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-d547f959",
+    "num": "dailymirrorlk-d547f959",
+    "date_str": "2026-11-15",
+    "description": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+    "url_metadata": "https://www.dailymirror.lk/international/SpaceX-Starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-rockets/107-354941",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794725977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-183bdd37",
+    "num": "dailymirrorlk-183bdd37",
+    "date_str": "2026-11-15",
+    "description": "Budget is a story without benefits for people, Kavinda Jayawardena says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Budget-is-a-story-without-benefits-for-people-Kavinda-Jayawardena-says/108-354942",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794726100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-67047df6",
+    "num": "dailymirrorlk-67047df6",
+    "date_str": "2026-11-15",
+    "description": "Top scorer on South Korean tax exam confesses to cheating with AI",
+    "url_metadata": "https://www.dailymirror.lk/international/Top-scorer-on-South-Korean-tax-exam-confesses-to-cheating-with-AI/107-354943",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794726343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-b7a96cac",
+    "num": "dailymirrorlk-b7a96cac",
+    "date_str": "2026-11-15",
+    "description": "Veterinary officers to launch islandwide sick leave campaign on Nov 17",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Veterinary-officers-to-launch-islandwide-sick-leave-campaign-on-Nov-17/108-354944",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794728415.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-01179566",
+    "num": "dailymirrorlk-01179566",
+    "date_str": "2026-11-15",
+    "description": "Sri Lankan governmen to roll out \u2018Alternative Care Policy\u2019 in 2027 following Knuckles teenage childbirth incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-governmen-to-roll-out-Alternative-Care-Policy-in-2027-following-Knuckles-teenage-childbirth-incident/108-354945",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794728802.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-911582de",
+    "num": "dailymirrorlk-911582de",
+    "date_str": "2026-11-15",
+    "description": "Sajith Premadasa urges \u2018Red Notice\u2019 and rapid deployment force to protect tuskers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-urges-Red-Notice-and-rapid-deployment-force-to-protect-tuskers/108-354946",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794729077.0
   }
 ]
