@@ -107818,5 +107818,16 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794757740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-bd06e486",
+    "num": "dailymirrorlk-bd06e486",
+    "date_str": "2026-11-15",
+    "description": "Drug suspect Shiran Basik to be detained for another 90 days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Drug-suspect-Shiran-Basik-to-be-detained-for-another-90-days/108-354958",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794761908.0
   }
 ]
