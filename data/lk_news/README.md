@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_13:53:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_15:50:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,694** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,696** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-15-dailymirrorlk-911582de",
-    "num": "dailymirrorlk-911582de",
+    "doc_id": "2026-11-15-dailymirrorlk-9162fb4a",
+    "num": "dailymirrorlk-9162fb4a",
     "date_str": "2026-11-15",
-    "description": "Sajith Premadasa urges \u2018Red Notice\u2019 and rapid deployment force to protect tuskers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-urges-Red-Notice-and-rapid-deployment-force-to-protect-tuskers/108-354946",
+    "description": "UK ethics chief accused of groping former police colleague\u2019s breasts",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-ethics-chief-accused-of-groping-former-police-colleagues-breasts/107-354948",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794729077.0
+    "time_ut": 1794731965.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-15 | `dailymirrorlk-9162fb4a` | UK ethics chief accused of groping former police colleague’s breasts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-9162fb4a)
+- 2026-11-15 | `dailymirrorlk-5bfc6a05` | Illegal firearms, trap guns, and explosives seized in Tirappane during ‘Hasthi Sena’ operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-5bfc6a05)
 - 2026-11-15 | `dailymirrorlk-911582de` | Sajith Premadasa urges ‘Red Notice’ and rapid deployment force to protect tuskers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-911582de)
 - 2026-11-15 | `dailymirrorlk-01179566` | Sri Lankan governmen to roll out ‘Alternative Care Policy’ in 2027 following Knuckles teenage childbirth incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-01179566)
 - 2026-11-15 | `dailymirrorlk-b7a96cac` | Veterinary officers to launch islandwide sick leave campaign on Nov 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-b7a96cac)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-15 | `virakesarilk-a3c6c929` | அநுராதபுரத்தில் தேரர்கள் மீது நடத்தப்பட்ட தாக்குதல் அரசாங்கத்தின் வழிநடத்தலில் முன்னெடுக்கப்பட்டது - மிஹிந்தலை விகாராதிபதி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-virakesarilk-a3c6c929)
 - 2026-11-15 | `virakesarilk-2863db57` | அம்பலாங்கொடையில் போதைப்பொருளுடன் பாதாள உலகக் குழுத் தலைவனின் பிரதான உதவியாளர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-virakesarilk-2863db57)
 - 2026-11-15 | `dailymirrorlk-b596633e` | Chamara Sampath pooh-poohs President’s Mannar Basin oil and gas exploration plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-b596633e)
-- 2026-11-15 | `virakesarilk-a565f590` | காங்கேசன்துறை துறைமுக அபிவிருத்தி தாமதத்துக்கு நான் காரணமல்ல அமைச்சர் பிமல் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-virakesarilk-a565f590)
-- 2026-11-15 | `dailymirrorlk-d7672cab` | Bimal lost ports portfolio over opposition to KKS Port deal, alleges Rauff Hakeem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-d7672cab)
 
 ---
 

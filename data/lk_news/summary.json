@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-15 13:52:29",
-  "n_docs": 135694,
+  "time_updated": "2026-11-15 15:50:07",
+  "n_docs": 135696,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135694,
+  "n_docs_with_text": 135696,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-15",
-  "dataset_size": 2095339546,
+  "dataset_size": 2095404866,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-15-dailymirrorlk-911582de",
-    "num": "dailymirrorlk-911582de",
+    "doc_id": "2026-11-15-dailymirrorlk-9162fb4a",
+    "num": "dailymirrorlk-9162fb4a",
     "date_str": "2026-11-15",
-    "description": "Sajith Premadasa urges \u2018Red Notice\u2019 and rapid deployment force to protect tuskers",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-urges-Red-Notice-and-rapid-deployment-force-to-protect-tuskers/108-354946",
+    "description": "UK ethics chief accused of groping former police colleague\u2019s breasts",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-ethics-chief-accused-of-groping-former-police-colleagues-breasts/107-354948",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794729077.0
+    "time_ut": 1794731965.0
   }
 }

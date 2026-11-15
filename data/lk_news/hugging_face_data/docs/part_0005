@@ -107246,5 +107246,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794729077.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-5bfc6a05",
+    "num": "dailymirrorlk-5bfc6a05",
+    "date_str": "2026-11-15",
+    "description": "Illegal firearms, trap guns, and explosives seized in Tirappane during \u2018Hasthi Sena\u2019 operation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Illegal-firearms-trap-guns-and-explosives-seized-in-Tirappane-during-Hasthi-Sena-operation/108-354947",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794730650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-15-dailymirrorlk-9162fb4a",
+    "num": "dailymirrorlk-9162fb4a",
+    "date_str": "2026-11-15",
+    "description": "UK ethics chief accused of groping former police colleague\u2019s breasts",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-ethics-chief-accused-of-groping-former-police-colleagues-breasts/107-354948",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794731965.0
   }
 ]
