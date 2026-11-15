@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_07:55:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_09:52:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,646** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,648** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-15-virakesarilk-14e9b132",
-    "num": "virakesarilk-14e9b132",
+    "doc_id": "2026-11-15-dailymirrorlk-66c008b9",
+    "num": "dailymirrorlk-66c008b9",
     "date_str": "2026-11-15",
-    "description": "\u0b8e\u0bae\u0bcd.\u0b95\u0bc7. \u0b9a\u0bbf\u0bb5\u0bbe\u0b9c\u0bbf\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/266855",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794697500.0
+    "description": "Belarus waives on-arrival visa fees for first-time Sri Lankan students",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Belarus-waives-on-arrival-visa-fees-for-first-time-Sri-Lankan-students/108-354926",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794713123.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-15 | `dailymirrorlk-66c008b9` | Belarus waives on-arrival visa fees for first-time Sri Lankan students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-66c008b9)
+- 2026-11-15 | `dailymirrorlk-c976f3fc` | Former TNA MP M.K. Sivajilingam dies at 69 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-dailymirrorlk-c976f3fc)
 - 2026-11-15 | `virakesarilk-14e9b132` | எம்.கே. சிவாஜிலிங்கம் காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-virakesarilk-14e9b132)
 - 2026-11-14 | `dailymirrorlk-b8d8e6dc` | LAUGFS justifies price hike, cites rupee depreciation and rising costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b8d8e6dc)
 - 2026-11-14 | `virakesarilk-666cb454` | 80,000 வேலையில்லாப் பட்டதாரிகளை பயிலுநர்களாக அரச சேவையில் இணைத்துக்கொள்ளுங்கள் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-666cb454)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-14 | `virakesarilk-480bba23` | மாகாண அதிகாரங்களைப் பறித்தால் மீண்டும் தமிழீழத்தைக் கோருவோம் – எம்.பி. ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-480bba23)
 - 2026-11-14 | `virakesarilk-63e0e578` | கிளிப்பிள்ளை போல ஜனாதிபதி அறிவித்த வரவு செலவுத் திட்டம் வெறும் வெற்றுப் பேச்சு மக்களுக்கு எந்தத் திட்டமும் கிடைக்கப்போவதில்லை - சீலரத்ன தேரர் திட்டவட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-63e0e578)
 - 2026-11-14 | `virakesarilk-1c41d191` | சர்ச்சைக்குரிய இரு சட்டமூலங்களையும் முழுமையாக மீளப்பெற வலியுறுத்தி விசேட கலந்துரையாடலுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-1c41d191)
-- 2026-11-14 | `virakesarilk-0501737c` | அதிபர் சேவையில் காணப்படும் சம்பள முரண்பாடு துறைசார் மேற்பார்வைக் குழுவின் உபகுழுவில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-0501737c)
-- 2026-11-14 | `virakesarilk-1aa2eed7` | லாப்ஃப்ஸ்  நிறுவனத்தின் எரிவாயு விலை அதிகரிப்புக்கு நுகர்வோர் தேசிய இயக்கம் கடும் எதிர்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-1aa2eed7)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-15 07:54:32",
-  "n_docs": 135646,
+  "time_updated": "2026-11-15 09:51:58",
+  "n_docs": 135648,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135646,
+  "n_docs_with_text": 135648,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-15",
-  "dataset_size": 2094636071,
+  "dataset_size": 2094639331,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-15-virakesarilk-14e9b132",
-    "num": "virakesarilk-14e9b132",
+    "doc_id": "2026-11-15-dailymirrorlk-66c008b9",
+    "num": "dailymirrorlk-66c008b9",
     "date_str": "2026-11-15",
-    "description": "\u0b8e\u0bae\u0bcd.\u0b95\u0bc7. \u0b9a\u0bbf\u0bb5\u0bbe\u0b9c\u0bbf\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/266855",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794697500.0
+    "description": "Belarus waives on-arrival visa fees for first-time Sri Lankan students",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Belarus-waives-on-arrival-visa-fees-for-first-time-Sri-Lankan-students/108-354926",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794713123.0
   }
 }
