@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_03:51:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--15_06:06:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,622** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,646** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-14-dailymirrorlk-b8d8e6dc",
-    "num": "dailymirrorlk-b8d8e6dc",
-    "date_str": "2026-11-14",
-    "description": "LAUGFS justifies price hike, cites rupee depreciation and rising costs",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-justifies-price-hike-cites-rupee-depreciation-and-rising-costs/108-354922",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794660307.0
+    "doc_id": "2026-11-15-virakesarilk-14e9b132",
+    "num": "virakesarilk-14e9b132",
+    "date_str": "2026-11-15",
+    "description": "\u0b8e\u0bae\u0bcd.\u0b95\u0bc7. \u0b9a\u0bbf\u0bb5\u0bbe\u0b9c\u0bbf\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/266855",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1794697500.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-15 | `virakesarilk-14e9b132` | எம்.கே. சிவாஜிலிங்கம் காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-15-virakesarilk-14e9b132)
 - 2026-11-14 | `dailymirrorlk-b8d8e6dc` | LAUGFS justifies price hike, cites rupee depreciation and rising costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b8d8e6dc)
+- 2026-11-14 | `virakesarilk-666cb454` | 80,000 வேலையில்லாப் பட்டதாரிகளை பயிலுநர்களாக அரச சேவையில் இணைத்துக்கொள்ளுங்கள் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-666cb454)
+- 2026-11-14 | `virakesarilk-b5eaac9f` | வலுசக்தித் துறையில் நியாயமான சந்தைப் போட்டி மூலம் சிறிய மற்றும் நடுத்தர அளவிலான தொழில்முயற்சியாளர்களுக்கு புதிய வாய்ப்புகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-b5eaac9f)
+- 2026-11-14 | `virakesarilk-bd037eb1` | லியோ சிவக்குமார் நடிக்கும் 'டெலிவரி பாய்' படத்தின் புதிய பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-bd037eb1)
+- 2026-11-14 | `virakesarilk-6c2ec4ca` | கௌதம் ராம் கார்த்திக் நடிக்கும் 'செங்குலம்' படத்தின் அறிமுக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-6c2ec4ca)
+- 2026-11-14 | `virakesarilk-38eb0e0e` | மரண விளிம்பிலிருந்த நாட்டை மீட்டெடுத்து பொருளாதாரத்தை வலுப்படுத்தும் அடித்தளத்தை இட்டுள்ளோம்  – பாராளுமன்ற உறுப்பினர் தேவானந்த சுரவீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-38eb0e0e)
+- 2026-11-14 | `virakesarilk-2e0665da` | நஸ்லென் நடிக்கும் 'பேச்சுலர் பார்ட்டி டீயெக்ஸ்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-2e0665da)
+- 2026-11-14 | `virakesarilk-b4d31b87` | ஊழல் குற்றச்சாட்டுகள், 323 கொள்கலன் விவகாரம் : அஜித் பி. பெரேரா கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-b4d31b87)
+- 2026-11-14 | `virakesarilk-9283afc7` | தனுஷ்- மம்முட்டி நடிக்கும் 'ஓம்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-9283afc7)
+- 2026-11-14 | `virakesarilk-6e0ac4a1` | அடுத்த ஆண்டுக்கான வரவு, செலவுத்திட்டம்: தேசிய இனப்பிரச்சினை உண்டு என்பதற்கான அடையாளம் அற்ற அரசின் கொள்கைப்பிரகடனம் - இலங்கைத் தமிழரசுக்கட்சி கடும் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-6e0ac4a1)
 - 2026-11-14 | `dailymirrorlk-f3d09ec8` | Public Health Inspectors left out of Budget 2027, union says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-f3d09ec8)
-- 2026-11-14 | `dailymirrorlk-a929f359` | Balfour’s shadow hangs over Gaza’s biting winter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-a929f359)
-- 2026-11-14 | `dailymirrorlk-7d30bffa` | Draconian Bills meet the test of democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-7d30bffa)
-- 2026-11-14 | `dailymirrorlk-2fb6d945` | Another bag full of promises unveiled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-2fb6d945)
-- 2026-11-14 | `dailymirrorlk-10477c81` | Budget 2027 could do more to attract foreign capital: CCC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-10477c81)
-- 2026-11-14 | `dailymirrorlk-f9e25315` | Apparel exporters press for quick action on Budget 2027 pledges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-f9e25315)
-- 2026-11-14 | `dailymirrorlk-348c8be0` | Budget 2027 backs stock market listings for SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-348c8be0)
-- 2026-11-14 | `dailymirrorlk-86276513` | Tea auction offerings rise to 5.4 M/Kgs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-86276513)
-- 2026-11-14 | `dailymirrorlk-1c958130` | National Development Bank reshuffles audit, risk and two other committees as Mudalige exits board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-1c958130)
-- 2026-11-14 | `dailymirrorlk-63912913` | Secondary market yields inch higher on profit-taking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-63912913)
-- 2026-11-14 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-421ed8bb)
-- 2026-11-14 | `dailymirrorlk-3b2fa3c0` | Tokyo Cement invests Rs.100mn in Trincomalee housing project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-3b2fa3c0)
-- 2026-11-14 | `dailymirrorlk-790e22d1` | SLASSCOM TechKids holds online safety awareness session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-790e22d1)
-- 2026-11-14 | `dailymirrorlk-40cdfa17` | SLT-Mobitel empowers over 1,000 students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-40cdfa17)
-- 2026-11-14 | `dailymirrorlk-d13673ce` | Women entrepreneurs get fresh impetus through WCIC-PIM tie-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-d13673ce)
-- 2026-11-14 | `dailymirrorlk-986e838c` | Amana Bank invites children to ‘My Future, My Dream’ essay competition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-986e838c)
-- 2026-11-14 | `dailymirrorlk-b8984cd2` | Colombo Port City Rotaractors take Project Aloka to Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b8984cd2)
-- 2026-11-14 | `dailymirrorlk-afe26664` | Sunshine Holdings brings diabetes screening and awareness to 9 Healthguard outlets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-afe26664)
-- 2026-11-14 | `dailymirrorlk-b95b8917` | Seven SLIIT academics among world’s top 2% scientists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-dailymirrorlk-b95b8917)
+- 2026-11-14 | `virakesarilk-b81fc145` | வெளிநாட்டுப் பயங்கரவாதி   போராளிகளைத் தடுத்தல் சட்டமூலம் :  துறைசார் மேற்பார்வைக் குழு அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-b81fc145)
+- 2026-11-14 | `virakesarilk-b59494a6` | 80,000க்கும் அதிகமான வேலையில்லாப் பட்டதாரிகள் வீதியில் இருக்கும்போது தொடர்ச்சியான ஆட்சேர்ப்பு எங்கே? – சஜித் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-b59494a6)
+- 2026-11-14 | `virakesarilk-51db22db` | வரவு செலவுத் திட்டத்தில் 'வளமான நாடும் இல்லை அழகான வாழ்க்கையும் இல்லை ; தேர்தல் வாக்குறுதிகளுக்கும் வரவு செலவுத் திட்டத்துக்கும் தொடர்பில்லை - பசன் கஸ்தூரி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-51db22db)
+- 2026-11-14 | `virakesarilk-480bba23` | மாகாண அதிகாரங்களைப் பறித்தால் மீண்டும் தமிழீழத்தைக் கோருவோம் – எம்.பி. ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-480bba23)
+- 2026-11-14 | `virakesarilk-63e0e578` | கிளிப்பிள்ளை போல ஜனாதிபதி அறிவித்த வரவு செலவுத் திட்டம் வெறும் வெற்றுப் பேச்சு மக்களுக்கு எந்தத் திட்டமும் கிடைக்கப்போவதில்லை - சீலரத்ன தேரர் திட்டவட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-63e0e578)
+- 2026-11-14 | `virakesarilk-1c41d191` | சர்ச்சைக்குரிய இரு சட்டமூலங்களையும் முழுமையாக மீளப்பெற வலியுறுத்தி விசேட கலந்துரையாடலுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-1c41d191)
+- 2026-11-14 | `virakesarilk-0501737c` | அதிபர் சேவையில் காணப்படும் சம்பள முரண்பாடு துறைசார் மேற்பார்வைக் குழுவின் உபகுழுவில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-0501737c)
+- 2026-11-14 | `virakesarilk-1aa2eed7` | லாப்ஃப்ஸ்  நிறுவனத்தின் எரிவாயு விலை அதிகரிப்புக்கு நுகர்வோர் தேசிய இயக்கம் கடும் எதிர்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-14-virakesarilk-1aa2eed7)
 
 ---
 
