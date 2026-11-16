@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-16 07:57:38",
-  "n_docs": 135772,
+  "time_updated": "2026-11-16 09:51:55",
+  "n_docs": 135795,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135772,
+  "n_docs_with_text": 135795,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-16",
-  "dataset_size": 2096897979,
+  "dataset_size": 2097010467,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-47fbce66",
-    "num": "dailymirrorlk-47fbce66",
+    "doc_id": "2026-11-16-virakesarilk-765a3a72",
+    "num": "virakesarilk-765a3a72",
     "date_str": "2026-11-16",
-    "description": "Is the ADB loan allocated for health being used as a weapon?",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-the-ADB-loan-allocated-for-health-being-used-as-a-weapon/108-354959",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794795288.0
+    "description": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 4 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/266989",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1794802260.0
   }
 }
