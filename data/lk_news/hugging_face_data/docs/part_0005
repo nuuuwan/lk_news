@@ -109028,5 +109028,49 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794824160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-f4c62c8c",
+    "num": "dailymirrorlk-f4c62c8c",
+    "date_str": "2026-11-16",
+    "description": "Strict action against bribery and corruption, regardless of status: MP Asoka Ranwala",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strict-action-against-bribery-and-corruption-regardless-of-status-MP-Asoka-Ranwala/108-355009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794827656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-b8783c98",
+    "num": "dailymirrorlk-b8783c98",
+    "date_str": "2026-11-16",
+    "description": "Ananda Palitha arrested over CPC overtime payment fraud",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ananda-Palitha-arrested-over-CPC-overtime-payment-fraud/108-355012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794829395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-ec54e0a7",
+    "num": "dailymirrorlk-ec54e0a7",
+    "date_str": "2026-11-16",
+    "description": "Child singer among four injured in Hatton road accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Child-singer-among-four-injured-in-Hatton-road-accident/108-355013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794830734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-3a26a11b",
+    "num": "dailymirrorlk-3a26a11b",
+    "date_str": "2026-11-16",
+    "description": "President directs Met Department to assess social impact of extreme weather conditions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-directs-Met-Department-to-assess-social-impact-of-extreme-weather-conditions/108-355014",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794831408.0
   }
 ]
