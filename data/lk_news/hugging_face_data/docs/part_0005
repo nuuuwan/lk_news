@@ -108093,5 +108093,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794785571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-47fbce66",
+    "num": "dailymirrorlk-47fbce66",
+    "date_str": "2026-11-16",
+    "description": "Is the ADB loan allocated for health being used as a weapon?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-the-ADB-loan-allocated-for-health-being-used-as-a-weapon/108-354959",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794795288.0
   }
 ]
