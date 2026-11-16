@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_09:52:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_12:08:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,795** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,800** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-virakesarilk-765a3a72",
-    "num": "virakesarilk-765a3a72",
+    "doc_id": "2026-11-16-dailymirrorlk-84e5b47c",
+    "num": "dailymirrorlk-84e5b47c",
     "date_str": "2026-11-16",
-    "description": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 4 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/266989",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794802260.0
+    "description": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+    "url_metadata": "https://www.dailymirror.lk/international/Anti-Houthi-forces-retreat-in-Yemen-as-Iran-strikes-Bahrain/107-354974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794810840.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-16 | `dailymirrorlk-84e5b47c` | Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-84e5b47c)
+- 2026-11-16 | `dailymirrorlk-c01fa6ab` | Sajith questions delay in appointing Select Committee on tusker Kawantissa’s death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-c01fa6ab)
+- 2026-11-16 | `dailymirrorlk-a62f2afe` | Sri Lanka will not need an 18th IMF programme - Here is why | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-a62f2afe)
+- 2026-11-16 | `dailymirrorlk-c4996c45` | Heart attack rumours? Keerthi Pasqual responds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-c4996c45)
+- 2026-11-16 | `dailymirrorlk-177adf06` | Oil prices fall on expectations of coming supply surplus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-177adf06)
 - 2026-11-16 | `virakesarilk-765a3a72` | மூன்று பேருந்துகள் மோதி விபத்து: சிகிச்சை பெற்று வந்த 4 வயது சிறுமி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-765a3a72)
 - 2026-11-16 | `virakesarilk-6ae0806f` | காணாமல் ஆக்கப்பட்டவர்களை அல்கோரிதங்களிடம் விடமுடியாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-6ae0806f)
 - 2026-11-16 | `dailymirrorlk-6c439929` | German national dies after drowning at Hikkaduwa Beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-6c439929)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-16 | `dailymirrorlk-47fbce66` | Is the ADB loan allocated for health being used as a weapon? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-47fbce66)
 - 2026-11-16 | `virakesarilk-ddb80e75` | மன்னார் கீரி கடற்கரையில் பக்தி பூர்வமாக நடைபெற்ற கந்தசஷ்டி விழா மற்றும் சூரசம்ஹாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-ddb80e75)
 - 2026-11-16 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-3a015e4a)
-- 2026-11-16 | `virakesarilk-a26c158f` | கொழும்பு ஜிந்துப்பிட்டி ஆலயத்தில் கோலாகலமாக நடைபெற்ற சூரசம்ஹார நிகழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-a26c158f)
-- 2026-11-16 | `virakesarilk-6a00cd4a` | ஈழமண் விடுதலைக்காய் இறுதிவரை உழைத்தவர் அமரர் சிவாஜிலிங்கம் - ஜனாதிபதி சட்டத்தரணி கே.வி.தவராசா. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-6a00cd4a)
-- 2026-11-16 | `virakesarilk-caeeb7aa` | வவுனியா கந்தசுவாமி ஆலய சூரன் போர் நிகழ்வில் பொலிசாருக்கும் பொதுமக்களுக்கும் இடையில் குழப்பநிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-caeeb7aa)
-- 2026-11-16 | `virakesarilk-f06d1123` | இலங்கையில் ஐந்தில் ஒருவருக்கு நீரிழிவு நோய் – சுகாதார பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-f06d1123)
-- 2026-11-16 | `virakesarilk-7e60f0ef` | 1,600 ஆரம்ப நிலை வைத்தியர்களுக்கு நியமனம் - சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-7e60f0ef)
 
 ---
 

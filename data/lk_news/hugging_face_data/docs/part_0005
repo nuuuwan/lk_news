@@ -108357,5 +108357,60 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794802260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-177adf06",
+    "num": "dailymirrorlk-177adf06",
+    "date_str": "2026-11-16",
+    "description": "Oil prices fall on expectations of coming supply surplus",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-prices-fall-on-expectations-of-coming-supply-surplus/107-354966",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794804778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-c4996c45",
+    "num": "dailymirrorlk-c4996c45",
+    "date_str": "2026-11-16",
+    "description": "Heart attack rumours? Keerthi Pasqual responds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heart-attack-rumours-Keerthi-Pasqual-responds/108-354967",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794805960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-a62f2afe",
+    "num": "dailymirrorlk-a62f2afe",
+    "date_str": "2026-11-16",
+    "description": "Sri Lanka will not need an 18th IMF programme - Here is why",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-not-need-an-18th-IMF-programme-Here-is-why/108-354968",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794806478.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-c01fa6ab",
+    "num": "dailymirrorlk-c01fa6ab",
+    "date_str": "2026-11-16",
+    "description": "Sajith questions delay in appointing Select Committee on tusker Kawantissa\u2019s death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-questions-delay-in-appointing-Select-Committee-on-tusker-Kawantissas-death/108-354969",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794807850.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-84e5b47c",
+    "num": "dailymirrorlk-84e5b47c",
+    "date_str": "2026-11-16",
+    "description": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+    "url_metadata": "https://www.dailymirror.lk/international/Anti-Houthi-forces-retreat-in-Yemen-as-Iran-strikes-Bahrain/107-354974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794810840.0
   }
 ]
