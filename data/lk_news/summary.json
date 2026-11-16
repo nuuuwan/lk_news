@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-16 17:59:15",
-  "n_docs": 135860,
+  "time_updated": "2026-11-16 20:05:17",
+  "n_docs": 135865,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135860,
+  "n_docs_with_text": 135865,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-16",
-  "dataset_size": 2098136264,
+  "dataset_size": 2098163929,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-3a26a11b",
-    "num": "dailymirrorlk-3a26a11b",
+    "doc_id": "2026-11-16-dailymirrorlk-2e329b94",
+    "num": "dailymirrorlk-2e329b94",
     "date_str": "2026-11-16",
-    "description": "President directs Met Department to assess social impact of extreme weather conditions",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-directs-Met-Department-to-assess-social-impact-of-extreme-weather-conditions/108-355014",
+    "description": "Market momentum cools as ASPI tests 22,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Market-momentum-cools-as-ASPI-tests-22-000/108-355019",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794831408.0
+    "time_ut": 1794836784.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_17:59:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_20:06:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,865** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-3a26a11b",
-    "num": "dailymirrorlk-3a26a11b",
+    "doc_id": "2026-11-16-dailymirrorlk-2e329b94",
+    "num": "dailymirrorlk-2e329b94",
     "date_str": "2026-11-16",
-    "description": "President directs Met Department to assess social impact of extreme weather conditions",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-directs-Met-Department-to-assess-social-impact-of-extreme-weather-conditions/108-355014",
+    "description": "Market momentum cools as ASPI tests 22,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Market-momentum-cools-as-ASPI-tests-22-000/108-355019",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794831408.0
+    "time_ut": 1794836784.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-16 | `dailymirrorlk-2e329b94` | Market momentum cools as ASPI tests 22,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-2e329b94)
+- 2026-11-16 | `dailymirrorlk-094dff2f` | Namal questions timing of trade union leader’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-094dff2f)
+- 2026-11-16 | `dailymirrorlk-ff0fb621` | FBI team to visit Sri Lanka to assist probe into online scam centers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ff0fb621)
+- 2026-11-16 | `dailymirrorlk-e6657ed3` | Budget 2027 fails to address people’s nutritional needs: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-e6657ed3)
+- 2026-11-16 | `dailymirrorlk-84d3cd43` | Parliamentary Committee mulls GPS, satellite collar to curb human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-84d3cd43)
 - 2026-11-16 | `dailymirrorlk-3a26a11b` | President directs Met Department to assess social impact of extreme weather conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-3a26a11b)
 - 2026-11-16 | `dailymirrorlk-ec54e0a7` | Child singer among four injured in Hatton road accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ec54e0a7)
 - 2026-11-16 | `dailymirrorlk-b8783c98` | Ananda Palitha arrested over CPC overtime payment fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-b8783c98)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-16 | `virakesarilk-bc7f50c2` | இலங்கை ஆட்கடத்தல் வழக்கில் தலைமறைவாக இருந்த முக்கிய சந்தேகநபர் இந்தியாவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-bc7f50c2)
 - 2026-11-16 | `dailymirrorlk-b0fa6e22` | Water leakage disrupts surgeries at Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-b0fa6e22)
 - 2026-11-16 | `virakesarilk-68665759` | 'மொத ராத்திரி' பட நடிகர் டி கே கார்த்திகேயன் கதையின் நாயகனாக அறிமுகமாகும் 'லவ் லாக்' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-68665759)
-- 2026-11-16 | `virakesarilk-e5acb2f1` | இந்தியாவுக்கு விஜயம் செய்த பிரித்தானிய இளவரசர் வில்லியம், இளவரசி கேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-e5acb2f1)
-- 2026-11-16 | `virakesarilk-29ca166e` | ஓவியா நடிக்கும் 'கிளிக்' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-29ca166e)
-- 2026-11-16 | `virakesarilk-2c0c7e5f` | உண்மை சம்பவத்தை தழுவி தயாராகி இருக்கும் 'கூடு' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-2c0c7e5f)
-- 2026-11-16 | `virakesarilk-eff3d7ba` | திருகோணமலை புத்தர் சிலை விவகாரம்: பலாங்கொட கஸ்ஸப தேரருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-eff3d7ba)
-- 2026-11-16 | `dailymirrorlk-cf9837e4` | Balangoda Kassapa Thero remanded until tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-cf9837e4)
 
 ---
 

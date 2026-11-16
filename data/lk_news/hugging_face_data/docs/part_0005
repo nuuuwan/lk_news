@@ -109072,5 +109072,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794831408.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-84d3cd43",
+    "num": "dailymirrorlk-84d3cd43",
+    "date_str": "2026-11-16",
+    "description": "Parliamentary Committee mulls GPS, satellite collar to curb human-elephant conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-mulls-GPS-satellite-collar-to-curb-human-elephant-conflict/108-355015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794834029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-e6657ed3",
+    "num": "dailymirrorlk-e6657ed3",
+    "date_str": "2026-11-16",
+    "description": "Budget 2027 fails to address people\u2019s nutritional needs: Harsha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Budget-2027-fails-to-address-peoples-nutritional-needs-Harsha/108-355016",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794835580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-ff0fb621",
+    "num": "dailymirrorlk-ff0fb621",
+    "date_str": "2026-11-16",
+    "description": "FBI team to visit Sri Lanka to assist probe into online scam centers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-team-to-visit-Sri-Lanka-to-assist-probe-into-online-scam-centers/108-355017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794836357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-094dff2f",
+    "num": "dailymirrorlk-094dff2f",
+    "date_str": "2026-11-16",
+    "description": "Namal questions timing of trade union leader\u2019s arrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-questions-timing-of-trade-union-leaders-arrest/108-355018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794836695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-2e329b94",
+    "num": "dailymirrorlk-2e329b94",
+    "date_str": "2026-11-16",
+    "description": "Market momentum cools as ASPI tests 22,000",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Market-momentum-cools-as-ASPI-tests-22-000/108-355019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794836784.0
   }
 ]
