@@ -1,0 +1,37 @@
+Sungrow bets big on home and business storage as Sri Lanka’s solar hits night-time ceiling
+
+Sungrow will double its sales teams, marketing budget and service investment next year to drive its home and business storage push
+
+With Budget 2027 proposing subsidies for household solar batteries, the company’s systems could help Sri Lanka absorb surplus solar power now curtailed on Sundays and public holidays
+
+Chinese solar inverter and storage major Sungrow will double its sales and technical teams, marketing budget and service investment next year to capture distributed energy demand from homes and businesses, a market it expects to grow by 25 percent a year over the next four years, a top official said.
+
+Sungrow Distribution Sales and Marketing System President Simon Liu made the remarks on November 11 at the company’s Global Energy Pioneer Summit (GEPS) 2026 in Hefei. The event drew more than 1,200 guests from over 80 countries, among them delegates from Sri Lanka, with Mirror Business representing the Sri Lankan media. He noted that while residential demand would maintain steady growth, the commercial and industrial (C&I) segment was poised to expand far more rapidly. “Asia-Pacific and Europe remain our key anchors, while Latin America, the Middle East and Africa are showing extraordinary growth momentum,” he told delegates.
+
+Sungrow will also open 10 more local warehouses and 10 more service centres, while hosting over 300 events across more than 50 countries next year.
+
+Liu added that the company would deepen collaboration with select loyal partners to enter new territories and product categories such as small C&I and plug-in systems, while lifting its brand premium and partner margins.
+
+“Please remember Sungrow, we will never compete only with price,” he stressed.
+
+Sungrow’s revenue rose 14.55 percent to RMB 89.18 billion in 2025, while net profit attributable to shareholders climbed 21.97 percent to RMB 13.46 billion, as per its annual report. Overseas revenue grew 48.76 percent to account for 60.5 percent of the total, and energy storage revenue surged 49.39 percent to RMB 37.29 billion, overtaking inverters as its largest business. Its Asia-Pacific business, led by India and Australia, was reported to be expanding rapidly last year, and India hosts one of its four manufacturing bases.
+
+Founded in Hefei in 1997, Sungrow has a cumulative 1,100 GW of power electronic converters installed worldwide, up from over 1,000 GW at end-2025. S&P Global ranked Sungrow first in PV inverter shipments for 2025, while Wood Mackenzie placed it first in its inaugural global battery storage integrator ranking. Liu pointed out that the company’s products now power 5.51 million homes and businesses through nearly 100,000 installers. Speaking at the launch of the Sungrow Power Club, a four-tier installer rewards and training programme, Sungrow Distribution Business Partner Group Center Director Iris Xu observed that the installer base had grown more than 15-fold from about 6,000 in 2020.
+
+At the summit, Sungrow launched PowerStack 3.0, a C&I storage system built around a dock that accepts power conversion, solar, EV charging and microgrid modules. A single cabinet can therefore serve as standalone storage, a solar-plus-storage system without a separate inverter, a charging hub or a microgrid. The company claims it cuts a 5 MWh plant’s footprint by 43 percent from the previous generation, and says its AI assistant Bubbly can lift returns by more than 12 percent when compared to a conventional self-consumption mode. It also introduced PowerKeeper Lite, an indoor battery system for smaller commercial sites.
+
+On the residential front, Sungrow’s flagship PowerHarbor is an all-in-one system integrating a solar inverter, modular batteries, backup power and intelligent energy management, scaling from 5 kW to 30 kW with up to 120 kWh of storage. Sungrow PV and Storage Business Group Vice President Leo Li explained that its built-in AI, which schedules charging around weather, solar output, battery levels and electricity prices, had lifted returns by 5 to 35 percent. The range also includes the Minicube retrofit battery for homes with existing solar panels and a low-voltage series for weaker grids.
+
+Meanwhile, these systems arrive as Sri Lanka’s solar boom runs into a night-time ceiling. Sustainable Energy Authority Chairperson Dr. Wijendra J. Bandara stated in October that installed solar capacity had reached 3,053 MW, above the night-time peak demand of about 3,000 MW, leaving storage as the key to further growth.
+
+The strain peaks on Sundays and public holidays, when factories and offices close and demand falls while solar output keeps flowing. National System Operator (NSO) Chairman Dr. Pradeep Perera said in August that commercial and industrial buildings with solar installations above 200 kW were being asked to disconnect on Sundays to balance the grid. Rooftop owners were asked to switch off their systems from 8.00 a.m. to 3.00 p.m. over the Vesak long weekend in May. Earlier, an island-wide blackout on a sunny Sunday in February 2025 was attributed to low system stability amid high solar output and weak demand.
+
+For households, an all-in-one system could prove a game changer, allowing families to store midday solar for the evening peak and ride through outages. Budget 2027, presented on November 12, proposes Rs.3.5 billion to subsidise household rooftop solar with battery storage at Rs.25,000 per kW, capped at 10 kW or Rs.250,000 per household, enough to support at least 14,000 homes at the maximum subsidy. The Budget also proposes removing the Ports and Airports Development Levy (PAL) on solar storage batteries from January 1, 2027.
+
+For businesses, storage offers a way to bank Sunday and holiday solar rather than switch it off. Factories and hotels that rely on diesel generators during outages also stand to benefit, as Sungrow’s C&I systems share load with gensets to cut fuel bills. A demonstration at the summit showed storage units lifting their share of a charging station’s load to 70 percent while the diesel generator’s share fell to 30 percent. PowerStack 3.0’s microgrid module also offers a zero-millisecond switchover to off-grid operation to keep production lines running.
+
+Nationally, wider storage could ease the country’s reliance on costly imported fuel. Finance Ministry data released last week showed rooftop solar capacity standing at 2,529 MW by August, up 50.2 percent from a year earlier. However, a 42 percent rise in rooftop output in the first eight months was not enough to offset higher demand and a 22.6 percent fall in hydropower, pushing fuel-fired thermal generation up 89.6 percent to 2,543 GWh.
+
+The Budget targets 560 MW of new battery capacity in 2027, rising to 1,245 MW by 2029, and Dr. Perera told a parliamentary committee in June that curtailment could end once battery storage is in the system. Shifting surplus daytime solar into the night peak could displace part of that fuel burn, saving foreign exchange and supporting the Budget’s target of 69 percent renewable generation by 2029, up from about 61 percent in 2025.
+
+Sungrow already has a footprint in Sri Lanka, having supplied WKV Hydro Technics’ 10 MW/40 MWh battery storage system in Galle, commissioned in September and billed by Sungrow as the country’s largest utility-scale battery project.

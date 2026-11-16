@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-16 12:07:46",
-  "n_docs": 135800,
+  "time_updated": "2026-11-16 14:08:30",
+  "n_docs": 135822,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 135800,
+  "n_docs_with_text": 135822,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-16",
-  "dataset_size": 2097297850,
+  "dataset_size": 2097436781,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-84e5b47c",
-    "num": "dailymirrorlk-84e5b47c",
+    "doc_id": "2026-11-16-dailymirrorlk-27cbfc3d",
+    "num": "dailymirrorlk-27cbfc3d",
     "date_str": "2026-11-16",
-    "description": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
-    "url_metadata": "https://www.dailymirror.lk/international/Anti-Houthi-forces-retreat-in-Yemen-as-Iran-strikes-Bahrain/107-354974",
+    "description": "Welikanda visually impaired couple deprived of their Aswasuma",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Welikanda-visually-impaired-couple-deprived-of-their-Aswasuma/108-355002",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794810840.0
+    "time_ut": 1794817099.0
   }
 }
