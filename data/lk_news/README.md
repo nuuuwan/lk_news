@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_23:57:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_01:53:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,869** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,870** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-eccaecf3",
-    "num": "dailymirrorlk-eccaecf3",
-    "date_str": "2026-11-16",
-    "description": "Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
-    "url_metadata": "https://www.dailymirror.lk/international/Risk-of-nuclear-accident-in-Ukraine-increasing-this-winter-atomic-safety-regulators-say/107-355023",
+    "doc_id": "2026-11-17-dailymirrorlk-fd6a0878",
+    "num": "dailymirrorlk-fd6a0878",
+    "date_str": "2026-11-17",
+    "description": "Sri Lanka make it four wins in a row at Emerging Nations Trophy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-it-four-wins-in-a-row-at-Emerging-Nations-Trophy/108-355024",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794840819.0
+    "time_ut": 1794857962.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-17 | `dailymirrorlk-fd6a0878` | Sri Lanka make it four wins in a row at Emerging Nations Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fd6a0878)
 - 2026-11-16 | `dailymirrorlk-eccaecf3` | Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-eccaecf3)
 - 2026-11-16 | `dailymirrorlk-ee7e1c3a` | Deep Depression to intensify into Cyclonic Storm today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ee7e1c3a)
 - 2026-11-16 | `dailymirrorlk-324686bb` | Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-324686bb)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-16 | `dailymirrorlk-06a1ca42` | William and Kate play ‘gully’ cricket with Sachin Tendulkar to begin India trip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-06a1ca42)
 - 2026-11-16 | `virakesarilk-88393176` | அஜித் குமாருடன் இணைந்த கன்னட சுப்பர் ஸ்டார் சிவ ராஜ்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-88393176)
 - 2026-11-16 | `dailymirrorlk-3dbeb31e` | At least 11 killed in blaze on Thailand’s Phuket island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-3dbeb31e)
-- 2026-11-16 | `virakesarilk-b4cef960` | மாகாண சபைத்தேர்தலுக்கு தொடரும் முட்டுக்கட்டை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-b4cef960)
 
 ---
 

@@ -109171,5 +109171,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794840819.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-fd6a0878",
+    "num": "dailymirrorlk-fd6a0878",
+    "date_str": "2026-11-17",
+    "description": "Sri Lanka make it four wins in a row at Emerging Nations Trophy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-it-four-wins-in-a-row-at-Emerging-Nations-Trophy/108-355024",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794857962.0
   }
 ]
