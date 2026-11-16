@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_20:06:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--16_21:53:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,865** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,869** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-16-dailymirrorlk-2e329b94",
-    "num": "dailymirrorlk-2e329b94",
+    "doc_id": "2026-11-16-dailymirrorlk-eccaecf3",
+    "num": "dailymirrorlk-eccaecf3",
     "date_str": "2026-11-16",
-    "description": "Market momentum cools as ASPI tests 22,000",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Market-momentum-cools-as-ASPI-tests-22-000/108-355019",
+    "description": "Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
+    "url_metadata": "https://www.dailymirror.lk/international/Risk-of-nuclear-accident-in-Ukraine-increasing-this-winter-atomic-safety-regulators-say/107-355023",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794836784.0
+    "time_ut": 1794840819.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-16 | `dailymirrorlk-eccaecf3` | Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-eccaecf3)
+- 2026-11-16 | `dailymirrorlk-ee7e1c3a` | Deep Depression to intensify into Cyclonic Storm today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ee7e1c3a)
+- 2026-11-16 | `dailymirrorlk-324686bb` | Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-324686bb)
+- 2026-11-16 | `dailymirrorlk-39ade77b` | Over 2,000 cybersecurity incidents reported in Sri Lanka so far this year: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-39ade77b)
 - 2026-11-16 | `dailymirrorlk-2e329b94` | Market momentum cools as ASPI tests 22,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-2e329b94)
 - 2026-11-16 | `dailymirrorlk-094dff2f` | Namal questions timing of trade union leader’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-094dff2f)
 - 2026-11-16 | `dailymirrorlk-ff0fb621` | FBI team to visit Sri Lanka to assist probe into online scam centers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ff0fb621)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-16 | `virakesarilk-88393176` | அஜித் குமாருடன் இணைந்த கன்னட சுப்பர் ஸ்டார் சிவ ராஜ்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-88393176)
 - 2026-11-16 | `dailymirrorlk-3dbeb31e` | At least 11 killed in blaze on Thailand’s Phuket island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-3dbeb31e)
 - 2026-11-16 | `virakesarilk-b4cef960` | மாகாண சபைத்தேர்தலுக்கு தொடரும் முட்டுக்கட்டை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-b4cef960)
-- 2026-11-16 | `virakesarilk-a70840de` | இலங்கைப் பாராளுமன்ற பிரதி சபாநாயகருக்கும் கொரிய பாராளுமன்றத் தூதுக்குழுவினருக்கும் இடையில் விசேட சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-a70840de)
-- 2026-11-16 | `virakesarilk-bc7f50c2` | இலங்கை ஆட்கடத்தல் வழக்கில் தலைமறைவாக இருந்த முக்கிய சந்தேகநபர் இந்தியாவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-bc7f50c2)
-- 2026-11-16 | `dailymirrorlk-b0fa6e22` | Water leakage disrupts surgeries at Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-b0fa6e22)
-- 2026-11-16 | `virakesarilk-68665759` | 'மொத ராத்திரி' பட நடிகர் டி கே கார்த்திகேயன் கதையின் நாயகனாக அறிமுகமாகும் 'லவ் லாக்' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-68665759)
 
 ---
 

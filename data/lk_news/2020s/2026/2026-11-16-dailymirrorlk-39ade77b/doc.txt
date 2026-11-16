@@ -1,0 +1,17 @@
+Over 2,000 cybersecurity incidents reported in Sri Lanka so far this year: Deputy Minister
+
+Colombo, Nov. 16 (Daily Mirror) - A total of 2,035 cybersecurity incidents have been reported in Sri Lanka so far this year, Deputy Minister Eranga Weeraratne informed Parliament today.
+
+Responding to a question raised by MP Ravi Karunanayake, the Deputy Minister said that 3,284 cases were recorded in 2025, 4,337 in 2024, 405 in 2023, and 621 in 2022.
+
+He clarified that these figures encompass not only direct cyber-attacks, but also security alerts and identified threats.
+
+Deputy Minister Weeraratne further revealed that the Sri Lanka Computer Emergency Readiness Team (SLCERT) has issued 2,119 security alerts concerning 112 state institutions, which included incidents involving fake social media accounts impersonating government bodies.
+
+"The Cabinet has instructed 37 state institutions to obtain the services of the National Cyber Security Operations Centre—established under SLCERT—before December 31, 2026, and 17 institutions have complied so far," he said. "A threat map detailing vulnerabilities across government institutions has been compiled, though the government will not publicly disclose this data, in line with the practices of responsible governments."
+
+Addressing regulatory gaps, the Deputy Minister explained that while SLCERT continuously monitors state agencies for vulnerabilities, it currently lacks the legal mandate to issue binding directives. To resolve this, the government is moving to introduce the National Cyber Security Bill, which will establish an empowered National Cyber Security Authority.
+
+"The draft Bill has been reviewed three times, and the third draft has now been referred to the Attorney General. We expect to enact the legislation early next year," he added.
+
+Additionally, in response to MP Karunanayake’s query regarding the progress of investigations into a major $2.5 million cyber theft, the Deputy Minister confirmed that the Ministry of Finance is currently looking into the matter.

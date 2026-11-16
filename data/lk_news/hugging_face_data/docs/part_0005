@@ -109127,5 +109127,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794836784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-39ade77b",
+    "num": "dailymirrorlk-39ade77b",
+    "date_str": "2026-11-16",
+    "description": "Over 2,000 cybersecurity incidents reported in Sri Lanka so far this year: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-2-000-cybersecurity-incidents-reported-in-Sri-Lanka-so-far-this-year-Deputy-Minister/108-355020",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794840386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-324686bb",
+    "num": "dailymirrorlk-324686bb",
+    "date_str": "2026-11-16",
+    "description": "Iran\u2019s proxy in Iraq rakes in hundreds of millions through oil smuggling",
+    "url_metadata": "https://www.dailymirror.lk/international/Irans-proxy-in-Iraq-rakes-in-hundreds-of-millions-through-oil-smuggling/107-355021",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794840541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-ee7e1c3a",
+    "num": "dailymirrorlk-ee7e1c3a",
+    "date_str": "2026-11-16",
+    "description": "Deep Depression to intensify into Cyclonic Storm today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deep-Depression-to-intensify-into-Cyclonic-Storm-today/108-355022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794840673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-16-dailymirrorlk-eccaecf3",
+    "num": "dailymirrorlk-eccaecf3",
+    "date_str": "2026-11-16",
+    "description": "Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
+    "url_metadata": "https://www.dailymirror.lk/international/Risk-of-nuclear-accident-in-Ukraine-increasing-this-winter-atomic-safety-regulators-say/107-355023",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794840819.0
   }
 ]
