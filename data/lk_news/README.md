@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_17:56:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_19:53:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,027** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,029** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-17-virakesarilk-1365a07b",
-    "num": "virakesarilk-1365a07b",
+    "doc_id": "2026-11-17-dailymirrorlk-d0f52290",
+    "num": "dailymirrorlk-d0f52290",
     "date_str": "2026-11-17",
-    "description": "\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0ba4\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0b9a\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/267201",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1794917880.0
+    "description": "Israel set for new parliament speaker as Netanyahu grip loosens",
+    "url_metadata": "https://www.dailymirror.lk/international/Israel-set-for-new-parliament-speaker-as-Netanyahu-grip-loosens/107-355123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794922831.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-17 | `dailymirrorlk-d0f52290` | Israel set for new parliament speaker as Netanyahu grip loosens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-d0f52290)
+- 2026-11-17 | `dailymirrorlk-fa890fe2` | LAUGFS slashes 12.5kg gas price to Rs. 5,995 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fa890fe2)
 - 2026-11-17 | `virakesarilk-1365a07b` | லாஃப் எரிவாயுத் தட்டுப்பாடு மற்றும் விலை உயர்வு குறித்து அமைச்சர் வசந்த சமரசிங்க அவசரக் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-1365a07b)
 - 2026-11-17 | `virakesarilk-f7829fca` | 2026 ஒக்டோபரில் இலங்கையின் உற்பத்தி மற்றும் சேவைத் துறைகள் வலுவான வளர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-f7829fca)
 - 2026-11-17 | `virakesarilk-8fe69256` | அரச ஊழியர்களின் வாழ்க்கைச் செலவுப் படியை ரூபா 25,000 ஆல் அதிகரிக்காவிடின் தொழிற்சங்கப் போராட்டம்  :  சமன் ரத்னப்ரிய எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-8fe69256)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-17 | `dailymirrorlk-32d47aab` | Cartoon of the Day 16 -11-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-32d47aab)
 - 2026-11-17 | `virakesarilk-380415d9` | ஆனந்த பாலித்த சிறையில் அடைக்கப்பட்டமைக்கு சஜித் பிரேமதாச கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-380415d9)
 - 2026-11-17 | `dailymirrorlk-87412ce2` | Graduate teacher recruitment: School preference system opens today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-87412ce2)
-- 2026-11-17 | `virakesarilk-770806e7` | தனிமையில் வசிக்கும் வயோதிபர்களின் பாதுகாப்பை உறுதிப்படுத்துமாறு பொலிஸார் பொதுமக்களுக்கு அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-770806e7)
-- 2026-11-17 | `dailymirrorlk-7b8e7898` | Grade 6 school cut-off marks for 2027 released | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-7b8e7898)
 
 ---
 

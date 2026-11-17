@@ -110909,5 +110909,27 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1794917880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-fa890fe2",
+    "num": "dailymirrorlk-fa890fe2",
+    "date_str": "2026-11-17",
+    "description": "LAUGFS slashes 12.5kg gas price to Rs. 5,995",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-slashes-12-5kg-gas-price-to-Rs-5-995/108-355122",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794922125.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-d0f52290",
+    "num": "dailymirrorlk-d0f52290",
+    "date_str": "2026-11-17",
+    "description": "Israel set for new parliament speaker as Netanyahu grip loosens",
+    "url_metadata": "https://www.dailymirror.lk/international/Israel-set-for-new-parliament-speaker-as-Netanyahu-grip-loosens/107-355123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794922831.0
   }
 ]
