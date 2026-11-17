@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_07:56:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_09:54:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,902** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,910** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-17-dailyftlk-b97bd3d0",
-    "num": "dailyftlk-b97bd3d0",
+    "doc_id": "2026-11-17-dailymirrorlk-62dd94fb",
+    "num": "dailymirrorlk-62dd94fb",
     "date_str": "2026-11-17",
-    "description": "FBI team in Sri Lanka to help probe scam centres",
-    "url_metadata": "https://www.ft.lk/news/FBI-team-in-Sri-Lanka-to-help-probe-scam-centres/56-800197",
+    "description": "Road through Maduru Oya National Park to close at night from Nov. 20",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Road-through-Maduru-Oya-National-Park-to-close-at-night-from-Nov-20/108-355032",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794874409.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794888793.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-17 | `dailymirrorlk-62dd94fb` | Road through Maduru Oya National Park to close at night from Nov. 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-62dd94fb)
+- 2026-11-17 | `dailymirrorlk-f8aed2fa` | Bangladesh batter explains emotional century celebration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-f8aed2fa)
+- 2026-11-17 | `dailymirrorlk-33cfcfb6` | China flies 19-seater electric passenger plane for first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-33cfcfb6)
+- 2026-11-17 | `dailymirrorlk-dfbbcd0c` | Fire brigade rescues dog trapped in drain for over a day in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-dfbbcd0c)
+- 2026-11-17 | `dailymirrorlk-68c0be0e` | Sri Lanka records premature births in one in 10 deliveries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-68c0be0e)
+- 2026-11-17 | `dailymirrorlk-4bcbdef8` | Cyclonic Storm ‘Akvan’ intensifies over Bay of Bengal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-4bcbdef8)
+- 2026-11-17 | `dailymirrorlk-81c2870b` | No tsunami threat to Sri Lanka after 6.6 magnitude quake off Indonesia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-81c2870b)
+- 2026-11-17 | `dailymirrorlk-48ea3734` | Egg prices rise as festive season demand increases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-48ea3734)
 - 2026-11-17 | `dailyftlk-b97bd3d0` | FBI team in Sri Lanka to help probe scam centres | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-b97bd3d0)
 - 2026-11-17 | `dailyftlk-9e4c9d63` | DPL reports Rs. 50 b 1H revenue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-9e4c9d63)
 - 2026-11-17 | `dailyftlk-d2c50068` | Teejay Group posts strong recovery in 2Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-d2c50068)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-11-17 | `dailymirrorlk-fd6a0878` | Sri Lanka make it four wins in a row at Emerging Nations Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fd6a0878)
 - 2026-11-16 | `dailymirrorlk-eccaecf3` | Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-eccaecf3)
 - 2026-11-16 | `dailymirrorlk-ee7e1c3a` | Deep Depression to intensify into Cyclonic Storm today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ee7e1c3a)
-- 2026-11-16 | `dailymirrorlk-324686bb` | Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-324686bb)
-- 2026-11-16 | `dailymirrorlk-39ade77b` | Over 2,000 cybersecurity incidents reported in Sri Lanka so far this year: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-39ade77b)
-- 2026-11-16 | `dailymirrorlk-2e329b94` | Market momentum cools as ASPI tests 22,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-2e329b94)
-- 2026-11-16 | `dailymirrorlk-094dff2f` | Namal questions timing of trade union leader’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-094dff2f)
-- 2026-11-16 | `dailymirrorlk-ff0fb621` | FBI team to visit Sri Lanka to assist probe into online scam centers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ff0fb621)
-- 2026-11-16 | `dailymirrorlk-e6657ed3` | Budget 2027 fails to address people’s nutritional needs: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-e6657ed3)
-- 2026-11-16 | `dailymirrorlk-84d3cd43` | Parliamentary Committee mulls GPS, satellite collar to curb human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-84d3cd43)
-- 2026-11-16 | `virakesarilk-ed859214` | பொலிஸார் தாக்கியதாகக் கஸ்ஸப தேரர் தெரிவித்த கருத்து: வாக்குமூலம் பெற நீதிமன்றம் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-ed859214)
 
 ---
 

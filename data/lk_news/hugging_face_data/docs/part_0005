@@ -109534,5 +109534,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794874409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-48ea3734",
+    "num": "dailymirrorlk-48ea3734",
+    "date_str": "2026-11-17",
+    "description": "Egg prices rise as festive season demand increases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Egg-prices-rise-as-festive-season-demand-increases/108-355025",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794881932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-81c2870b",
+    "num": "dailymirrorlk-81c2870b",
+    "date_str": "2026-11-17",
+    "description": "No tsunami threat to Sri Lanka after 6.6 magnitude quake off Indonesia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka-after-6-6-magnitude-quake-off-Indonesia/108-355026",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794882395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-4bcbdef8",
+    "num": "dailymirrorlk-4bcbdef8",
+    "date_str": "2026-11-17",
+    "description": "Cyclonic Storm \u2018Akvan\u2019 intensifies over Bay of Bengal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cyclonic-Storm-Akvan-intensifies-over-Bay-of-Bengal/108-355027",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794882643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-68c0be0e",
+    "num": "dailymirrorlk-68c0be0e",
+    "date_str": "2026-11-17",
+    "description": "Sri Lanka records premature births in one in 10 deliveries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-records-premature-births-in-one-in-10-deliveries/108-355028",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794882942.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-dfbbcd0c",
+    "num": "dailymirrorlk-dfbbcd0c",
+    "date_str": "2026-11-17",
+    "description": "Fire brigade rescues dog trapped in drain for over a day in Kandy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-brigade-rescues-dog-trapped-in-drain-for-over-a-day-in-Kandy/108-355029",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794883732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-33cfcfb6",
+    "num": "dailymirrorlk-33cfcfb6",
+    "date_str": "2026-11-17",
+    "description": "China flies 19-seater electric passenger plane for first time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/China-flies-19-seater-electric-passenger-plane-for-first-time/108-355030",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794884692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-f8aed2fa",
+    "num": "dailymirrorlk-f8aed2fa",
+    "date_str": "2026-11-17",
+    "description": "Bangladesh batter explains emotional century celebration",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bangladesh-batter-explains-emotional-century-celebration/108-355031",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794887776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailymirrorlk-62dd94fb",
+    "num": "dailymirrorlk-62dd94fb",
+    "date_str": "2026-11-17",
+    "description": "Road through Maduru Oya National Park to close at night from Nov. 20",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Road-through-Maduru-Oya-National-Park-to-close-at-night-from-Nov-20/108-355032",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794888793.0
   }
 ]
