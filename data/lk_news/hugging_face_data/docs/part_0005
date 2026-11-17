@@ -109435,5 +109435,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794857962.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-cccea6ec",
+    "num": "dailyftlk-cccea6ec",
+    "date_str": "2026-11-17",
+    "description": "Seven decades of Budgets, one unbroken economic failure: Can Sri Lanka finally escape its past?",
+    "url_metadata": "https://www.ft.lk/columns/Seven-decades-of-Budgets-one-unbroken-economic-failure-Can-Sri-Lanka-finally-escape-its-past/4-800167",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794869970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-442e4518",
+    "num": "dailyftlk-442e4518",
+    "date_str": "2026-11-17",
+    "description": "PSTA: Still in violation of international norms",
+    "url_metadata": "https://www.ft.lk/columns/PSTA-Still-in-violation-of-international-norms/4-800172",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794870749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-fb27457b",
+    "num": "dailyftlk-fb27457b",
+    "date_str": "2026-11-17",
+    "description": "2027 Budget: AI audit that audited itself",
+    "url_metadata": "https://www.ft.lk/columns/2027-Budget-AI-audit-that-audited-itself/4-800176",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794871418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-7ecec116",
+    "num": "dailyftlk-7ecec116",
+    "date_str": "2026-11-17",
+    "description": "ISMM marks 54 years of excellence  with National Supply Chain Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/ISMM-marks-54-years-of-excellence-with-National-Supply-Chain-Awards-2026/34-800192",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794873803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-2d24da2b",
+    "num": "dailyftlk-2d24da2b",
+    "date_str": "2026-11-17",
+    "description": "Manufacturing, services PMI expand at faster pace in October",
+    "url_metadata": "https://www.ft.lk/business/Manufacturing-services-PMI-expand-at-faster-pace-in-October/34-800193",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-9fc52fd3",
+    "num": "dailyftlk-9fc52fd3",
+    "date_str": "2026-11-17",
+    "description": "Citrus Group CEO Nirekshe Perera appointed to related-party company Boards",
+    "url_metadata": "https://www.ft.lk/business/Citrus-Group-CEO-Nirekshe-Perera-appointed-to-related-party-company-Boards/34-800194",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-d2c50068",
+    "num": "dailyftlk-d2c50068",
+    "date_str": "2026-11-17",
+    "description": "Teejay Group posts strong recovery in 2Q",
+    "url_metadata": "https://www.ft.lk/business/Teejay-Group-posts-strong-recovery-in-2Q/34-800195",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-9e4c9d63",
+    "num": "dailyftlk-9e4c9d63",
+    "date_str": "2026-11-17",
+    "description": "DPL reports Rs. 50 b 1H revenue",
+    "url_metadata": "https://www.ft.lk/business/DPL-reports-Rs-50-b-1H-revenue/34-800196",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-17-dailyftlk-b97bd3d0",
+    "num": "dailyftlk-b97bd3d0",
+    "date_str": "2026-11-17",
+    "description": "FBI team in Sri Lanka to help probe scam centres",
+    "url_metadata": "https://www.ft.lk/news/FBI-team-in-Sri-Lanka-to-help-probe-scam-centres/56-800197",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874409.0
   }
 ]

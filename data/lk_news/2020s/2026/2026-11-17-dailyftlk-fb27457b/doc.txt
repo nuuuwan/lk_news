@@ -1,0 +1,43 @@
+2027 Budget: AI audit that audited itself
+
+Soon after the Budget Speech 2027 was tabled, a social media post landed in my feed claiming the document was full of arithmetic errors and other mistakes. I wanted to test that claim myself. So I uploaded the full English text to an AI tool and asked it a blunt question: find the mistakes.
+
+It took less than 30 seconds. The list read like the opening of a scandal. A Rs. 1.5 billion arithmetic error in the minor-irrigation allocations. MSME loan schemes worth Rs. 140 billion inflated to Rs. 174 billion. A nine-month primary surplus of Rs. 1,844 billion that the tool called mathematically impossible. A World Bank upgrade to upper-middle-income status that, it claimed, never happened. A primary expenditure projection of 13.6% of GDP that broke the 13% ceiling in the Public Financial Management Act.
+
+I had a social media post drafted within minutes. The angle wrote itself. A government that had just allocated Rs. 28,500 million for the digital economy, and announced a National Artificial Intelligence Centre of Excellence, had senior officials who couldn’t spend 30 seconds running their own document through basic AI.
+
+Then I checked each claim against the speech and public data. The draft went in the bin.
+
+The Rs. 1.5 billion error came first. The speech lists four minor-irrigation allocations: Rs. 2,000 million to the Department of Agrarian Development, Rs. 7,500 million for Provincial Council tanks, anicuts and canals, Rs. 2,500 million under the “Wari Mahimaya - Ape Urumaya” program, and Rs. 1,500 million for schemes damaged by Cyclone Ditwah. They add to Rs. 13,500 million. The next sentence reads: “Including these, around Rs. 15,000 million has been allocated directly for the maintenance and development of minor irrigation schemes.”
+
+Including these. The total covers the four named items plus other spending. The AI read a subset as a sum and manufactured a Rs. 1.5 billion hole.
+
+The MSME figure failed the same way. Rs. 174 billion is the volume of concessionary loans the Treasury expects State and private banks to issue, backed by Rs. 67,687 million in interest subsidies and refinancing. The speech says this total “includes the following loan schemes.” A partial list was again treated as the full bill.
+
+The primary surplus claim was weaker still. Central Bank data reported in June showed a primary surplus of Rs. 1.13 trillion in the first five months of 2026. Revenue and grants reached Rs. 5,485.6 billion in 2025. A Rs. 1,844 billion surplus by September is large, and the end-year target of Rs. 360 billion tells you spending is loaded into the final quarter. It is entirely possible.
+
+The World Bank claim was flatly false. On 1 July 2026 the Bank reclassified Sri Lanka as upper-middle-income, with Atlas GNI per capita of $4,670 against a threshold of $4,636. Dr. W.A. Wijewardena wrote about that narrow $34 margin in July. Every major Sri Lankan outlet carried the news.
+
+The fiscal law claim read only half the law. The PFM Act caps primary expenditure at 13% of GDP, and it also contains an escape clause for exceptional events. The Government activated that clause after Cyclone Ditwah, when the Rs. 500 billion supplementary estimate pushed 2026 primary expenditure to 13.7% of GDP. The 2027 speech projects 13.6% as a temporary increase and commits to returning to 13% from 2028.
+
+One finding survived. In the rural roads section, allocations of Rs. 55,000 million for rural roads and bridges, Rs. 5,500 million for rural bridges and Rs. 20,000 million for Provincial Council roads add to Rs. 80,500 million. The speech then refers to “the aforementioned Rs. 80,000 million.” That is a Rs. 500 million slip. It is real and worth correcting, and a long way from the Rs. 1.5 billion headline the tool handed me.
+
+A legitimate policy debate also sits behind the false “illegal” claim. Using the escape clause in two consecutive years tests the credibility of a ceiling that Verité Research has already described as the most extreme of its kind in the world. That debate deserves serious analysis, built on what the law actually says.
+
+Language models predict plausible text. Plausible and correct overlap most of the time, which is exactly why the gaps are dangerous. When the tool scanned the budget speech, it did what a pattern-matcher does: it found numbers near a total and assumed they should add up. It skipped the word “including.” It appears to have leaned on outdated information about Sri Lanka’s income status from before July 2026. Then it delivered every guess in the same confident tone as the one real error.
+
+Had I posted the original draft, I would have accused public servants of sloppiness using claims far sloppier than anything in the speech. A share-hungry audience would have carried it. The correction would have arrived days later and reached a fraction of those readers.
+
+The post that sent me looking may well have started the same way: an AI summary, read once, shared without a second check.
+
+The budget’s digital agenda now has to manage exactly this risk. The speech commits money to digital government transformation, a Cyber Security Authority and an AI Centre of Excellence at Wijerama. Those investments will put AI tools in the hands of thousands of officials drafting procurement papers, policy notes and, eventually, budget documents.
+
+Access to the tools is the easy part. Verification is the bottleneck. An official who pastes a document into an AI tool and forwards the output has gained speed and lost accountability. An official who uses the tool to generate a list of questions, then checks each one against the source, keeps both.
+
+The Treasury could set one simple standard before the first Presidential Digital Excellence Award is handed out: every AI-assisted finding in an official document carries a human-verified source reference. A page number, a table or a dataset. No reference, no inclusion.
+
+The same rule applies to the rest of us. Business owners, journalists and consultants, myself included, will use AI to read budgets, annual reports and contracts faster than ever. The 30 seconds I saved on the first read cost me an hour on the second, and that hour was the difference between an embarrassing post and an accurate one.
+
+AI found the questions in Budget 2027. People still have to find the answers.
+
+(The author is Founder and CEO of INOTREND Int., a neuromarketing and behavioural strategy consultancy, and CIM UK Brand Ambassador for Sri Lanka)

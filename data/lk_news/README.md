@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_03:53:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--17_06:06:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**135,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**135,902** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-17-dailymirrorlk-fd6a0878",
-    "num": "dailymirrorlk-fd6a0878",
+    "doc_id": "2026-11-17-dailyftlk-b97bd3d0",
+    "num": "dailyftlk-b97bd3d0",
     "date_str": "2026-11-17",
-    "description": "Sri Lanka make it four wins in a row at Emerging Nations Trophy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-it-four-wins-in-a-row-at-Emerging-Nations-Trophy/108-355024",
+    "description": "FBI team in Sri Lanka to help probe scam centres",
+    "url_metadata": "https://www.ft.lk/news/FBI-team-in-Sri-Lanka-to-help-probe-scam-centres/56-800197",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794857962.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794874409.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-17 | `dailyftlk-b97bd3d0` | FBI team in Sri Lanka to help probe scam centres | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-b97bd3d0)
+- 2026-11-17 | `dailyftlk-9e4c9d63` | DPL reports Rs. 50 b 1H revenue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-9e4c9d63)
+- 2026-11-17 | `dailyftlk-d2c50068` | Teejay Group posts strong recovery in 2Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-d2c50068)
+- 2026-11-17 | `dailyftlk-9fc52fd3` | Citrus Group CEO Nirekshe Perera appointed to related-party company Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-9fc52fd3)
+- 2026-11-17 | `dailyftlk-2d24da2b` | Manufacturing, services PMI expand at faster pace in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-2d24da2b)
+- 2026-11-17 | `dailyftlk-7ecec116` | ISMM marks 54 years of excellence  with National Supply Chain Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-7ecec116)
+- 2026-11-17 | `dailyftlk-fb27457b` | 2027 Budget: AI audit that audited itself | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-fb27457b)
+- 2026-11-17 | `dailyftlk-442e4518` | PSTA: Still in violation of international norms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-442e4518)
+- 2026-11-17 | `dailyftlk-cccea6ec` | Seven decades of Budgets, one unbroken economic failure: Can Sri Lanka finally escape its past? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailyftlk-cccea6ec)
 - 2026-11-17 | `dailymirrorlk-fd6a0878` | Sri Lanka make it four wins in a row at Emerging Nations Trophy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fd6a0878)
 - 2026-11-16 | `dailymirrorlk-eccaecf3` | Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-eccaecf3)
 - 2026-11-16 | `dailymirrorlk-ee7e1c3a` | Deep Depression to intensify into Cyclonic Storm today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ee7e1c3a)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-11-16 | `dailymirrorlk-e6657ed3` | Budget 2027 fails to address people’s nutritional needs: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-e6657ed3)
 - 2026-11-16 | `dailymirrorlk-84d3cd43` | Parliamentary Committee mulls GPS, satellite collar to curb human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-84d3cd43)
 - 2026-11-16 | `virakesarilk-ed859214` | பொலிஸார் தாக்கியதாகக் கஸ்ஸப தேரர் தெரிவித்த கருத்து: வாக்குமூலம் பெற நீதிமன்றம் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-ed859214)
-- 2026-11-16 | `dailymirrorlk-3a26a11b` | President directs Met Department to assess social impact of extreme weather conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-3a26a11b)
-- 2026-11-16 | `virakesarilk-a685f6e3` | நாட்டின் பொருளாதாரத்தை அபிவிருத்தி செய்யும் திறமையான தலைவர்கள் ஐக்கிய மக்கள் சக்தியிலேயே உள்ளனர் – சமிந்த விஜேசிறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-a685f6e3)
-- 2026-11-16 | `virakesarilk-d2458e11` | விமல் வீரவங்சவுக்கு மேன்முறையீட்டு நீதிமன்றம் மீண்டும் அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-d2458e11)
-- 2026-11-16 | `virakesarilk-3d1fbff7` | 2026 வரவு செலவுத் திட்ட முன்மொழிவுகளே 2027 வரவு செலவுத் திட்டத்திலும் இடம்பெற்றுள்ளன – ஹர்ஷன ராஜகருண | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-3d1fbff7)
-- 2026-11-16 | `virakesarilk-79e6411a` | பெற்றோலியக் கூட்டுத்தாபன மேலதிக நேரக் கொடுப்பனவு மோசடி குற்றச்சாட்டில் ஆனந்த பாலித கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-79e6411a)
-- 2026-11-16 | `virakesarilk-189dd5fc` | அம்பாறை மாவட்ட தமிழ் பிரதேச செயலகங்களுக்கு ஒதுக்கப்பட்ட நிதி விபரங்களை வெளியிட வேண்டும் – கவீந்திரன் கோடீஸ்வரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-189dd5fc)
-- 2026-11-16 | `virakesarilk-6d2154ab` | அபராதம், சொத்துப் பறிமுதல் மற்றும் சட்டவிரோத மதுபான வருமானத்தை நம்பியுள்ள வரவு செலவுத் திட்டம் – பிமல் தர்ஷன குருகோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-6d2154ab)
-- 2026-11-16 | `dailymirrorlk-ec54e0a7` | Child singer among four injured in Hatton road accident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-dailymirrorlk-ec54e0a7)
-- 2026-11-16 | `virakesarilk-70515a67` | 50க்கும் குறைவான மாணவர்களைக் கொண்ட பாடசாலைகளை மூடும் தீர்மானம் இல்லை – பிரதி அமைச்சர் மதுர செனவிரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-16-virakesarilk-70515a67)
 
 ---
 
