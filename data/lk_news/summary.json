@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-17 19:52:34",
-  "n_docs": 136029,
+  "time_updated": "2026-11-17 21:59:12",
+  "n_docs": 136045,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136029,
+  "n_docs_with_text": 136045,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-17",
-  "dataset_size": 2100721014,
+  "dataset_size": 2100878539,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-17-dailymirrorlk-d0f52290",
-    "num": "dailymirrorlk-d0f52290",
+    "doc_id": "2026-11-17-dailymirrorlk-031b761e",
+    "num": "dailymirrorlk-031b761e",
     "date_str": "2026-11-17",
-    "description": "Israel set for new parliament speaker as Netanyahu grip loosens",
-    "url_metadata": "https://www.dailymirror.lk/international/Israel-set-for-new-parliament-speaker-as-Netanyahu-grip-loosens/107-355123",
+    "description": "Jaffna Trade Fair 2027 media briefing held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Jaffna-Trade-Fair-2027-media-briefing-held/110-355124",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794922831.0
+    "time_ut": 1794927242.0
   }
 }
