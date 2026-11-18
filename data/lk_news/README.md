@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_15:53:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_17:57:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,162** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailymirrorlk-340ffb41",
-    "num": "dailymirrorlk-340ffb41",
+    "doc_id": "2026-11-18-dailymirrorlk-ba879c5f",
+    "num": "dailymirrorlk-ba879c5f",
     "date_str": "2026-11-18",
-    "description": "Akvan intensifies into severe cyclonic storm, fishermen warned",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Akvan-intensifies-into-severe-cyclonic-storm-fishermen-warned/108-355214",
+    "description": "US, Sri Lanka discuss expanding defense cooperation, digital economy ties",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Sri-Lanka-discuss-expanding-defense-cooperation-digital-economy-ties/108-355221",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794995464.0
+    "time_ut": 1795003264.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-18 | `dailymirrorlk-ba879c5f` | US, Sri Lanka discuss expanding defense cooperation, digital economy ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-ba879c5f)
+- 2026-11-18 | `dailymirrorlk-2e4b22fd` | eBird exhibit to introduce public to global citizen science | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2e4b22fd)
+- 2026-11-18 | `dailymirrorlk-129499fa` | IGP holds talks with Senior UAE security officials at World Police Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-129499fa)
+- 2026-11-18 | `dailymirrorlk-1b0e17f2` | Kazakhstan accelerates artificial intelligence drive with third supercomputer planned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-1b0e17f2)
 - 2026-11-18 | `dailymirrorlk-340ffb41` | Akvan intensifies into severe cyclonic storm, fishermen warned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-340ffb41)
 - 2026-11-18 | `dailymirrorlk-034b7a8d` | High Court suspends Namal’s bail in Krrish deal case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-034b7a8d)
 - 2026-11-18 | `dailymirrorlk-44309b3a` | Sri Lanka, Bangladesh move to strengthen bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-44309b3a)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-18 | `dailymirrorlk-baf1882b` | Factory orders pick up, services gain pace in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-baf1882b)
 - 2026-11-18 | `dailymirrorlk-b5dbc15e` | Tax credit lifts DFCC’s third-quarter shareholder profit by 23% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-b5dbc15e)
 - 2026-11-18 | `dailymirrorlk-8b7c7445` | IRD exceeds 2026 target with Rs. 2.44 trn collection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-8b7c7445)
-- 2026-11-18 | `dailymirrorlk-165d300d` | Cargills Deputy Chairman V. R. Page sells 7 mn shares for Rs. 4.46bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-165d300d)
-- 2026-11-18 | `dailymirrorlk-d85f606d` | Yields dip marginally on the back of modest buying | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-d85f606d)
-- 2026-11-18 | `virakesarilk-7fa4fa3d` | இராஜாங்கனை சத்தாரத்ன தேரர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-virakesarilk-7fa4fa3d)
-- 2026-11-18 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2831aeed)
 
 ---
 
