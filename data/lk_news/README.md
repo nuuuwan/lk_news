@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_07:58:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_09:53:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,066** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,070** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailyftlk-2ee16897",
-    "num": "dailyftlk-2ee16897",
+    "doc_id": "2026-11-18-dailymirrorlk-e5022b7b",
+    "num": "dailymirrorlk-e5022b7b",
     "date_str": "2026-11-18",
-    "description": "Cabinet green lights revised intellectual property fees",
-    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-revised-intellectual-property-fees/34-800223",
+    "description": "Licence renewal on hold? here\u2019s your penalty-free window",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Licence-renewal-on-hold-heres-your-penalty-free-window/108-355126",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794968455.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794973833.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-18 | `dailymirrorlk-e5022b7b` | Licence renewal on hold? here’s your penalty-free window | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-e5022b7b)
+- 2026-11-18 | `dailyftlk-968d9d62` | GEW Sri Lanka 2026 aims to expand opportunities for entrepreneurs nationwide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-968d9d62)
+- 2026-11-18 | `dailyftlk-1398b869` | WSO2 rebrands as Choreo Labs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-1398b869)
+- 2026-11-18 | `dailyftlk-efbfbed7` | LAUGFS cuts gas prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-efbfbed7)
 - 2026-11-18 | `dailyftlk-2ee16897` | Cabinet green lights revised intellectual property fees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2ee16897)
 - 2026-11-18 | `dailyftlk-849e1f03` | Hayleys backs Sri Lanka Expo 2027 as Gold sponsor, opening a path to global markets for Sri Lankan SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-849e1f03)
 - 2026-11-18 | `dailyftlk-cc9a9746` | Govt. says CESS cuts aim to boost manufacturing, export competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-cc9a9746)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-17 | `dailymirrorlk-031b761e` | Jaffna Trade Fair 2027 media briefing held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-031b761e)
 - 2026-11-17 | `virakesarilk-61e02e7d` | லாஃப்ஸ் 12.5 கிலோகிராம் எரிவாயு சிலிண்டர் விலை 745 ரூபாவால் குறைப்பு – புதிய விலை 5,995 ரூபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-61e02e7d)
 - 2026-11-17 | `virakesarilk-8f98b5bc` | நிந்தவூர் கலாசார நிலையத்துக்கு ஒதுக்கப்பட்ட 30 கோடி ரூபாவில் ஒரு கோடி ரூபாவைக்கூட அரசாங்கம் செலவிடவில்லை – எம்.ஏ.எம். தாஹிர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-8f98b5bc)
-- 2026-11-17 | `dailymirrorlk-d0f52290` | Israel set for new parliament speaker as Netanyahu grip loosens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-d0f52290)
-- 2026-11-17 | `dailymirrorlk-fa890fe2` | LAUGFS slashes 12.5kg gas price to Rs. 5,995 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fa890fe2)
-- 2026-11-17 | `virakesarilk-9177561a` | நாட்டை வங்குரோத்து நிலையிலிருந்து ரணில் மீட்டதாகக் கூறுவது பொய் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-9177561a)
-- 2026-11-17 | `virakesarilk-20d4751e` | வரவு செலவுத் திட்டத்திற்குப் பின்னர் தொழிற்சங்கங்களின் கோரிக்கைகள் குறித்து அரசாங்கம் கவனம் செலுத்தும் – நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-20d4751e)
 
 ---
 

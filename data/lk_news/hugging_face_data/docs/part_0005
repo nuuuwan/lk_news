@@ -111338,5 +111338,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1794968455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-efbfbed7",
+    "num": "dailyftlk-efbfbed7",
+    "date_str": "2026-11-18",
+    "description": "LAUGFS cuts gas prices",
+    "url_metadata": "https://www.ft.lk/business/LAUGFS-cuts-gas-prices/34-800224",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-1398b869",
+    "num": "dailyftlk-1398b869",
+    "date_str": "2026-11-18",
+    "description": "WSO2 rebrands as Choreo Labs",
+    "url_metadata": "https://www.ft.lk/business/WSO2-rebrands-as-Choreo-Labs/34-800225",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-968d9d62",
+    "num": "dailyftlk-968d9d62",
+    "date_str": "2026-11-18",
+    "description": "GEW Sri Lanka 2026 aims to expand opportunities for entrepreneurs nationwide",
+    "url_metadata": "https://www.ft.lk/business/GEW-Sri-Lanka-2026-aims-to-expand-opportunities-for-entrepreneurs-nationwide/34-800226",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968745.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-e5022b7b",
+    "num": "dailymirrorlk-e5022b7b",
+    "date_str": "2026-11-18",
+    "description": "Licence renewal on hold? here\u2019s your penalty-free window",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Licence-renewal-on-hold-heres-your-penalty-free-window/108-355126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794973833.0
   }
 ]

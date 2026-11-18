@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-18 07:57:36",
-  "n_docs": 136066,
+  "time_updated": "2026-11-18 09:53:06",
+  "n_docs": 136070,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136066,
+  "n_docs_with_text": 136070,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-18",
-  "dataset_size": 2101561549,
+  "dataset_size": 2101773228,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailyftlk-2ee16897",
-    "num": "dailyftlk-2ee16897",
+    "doc_id": "2026-11-18-dailymirrorlk-e5022b7b",
+    "num": "dailymirrorlk-e5022b7b",
     "date_str": "2026-11-18",
-    "description": "Cabinet green lights revised intellectual property fees",
-    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-revised-intellectual-property-fees/34-800223",
+    "description": "Licence renewal on hold? here\u2019s your penalty-free window",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Licence-renewal-on-hold-heres-your-penalty-free-window/108-355126",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1794968455.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794973833.0
   }
 }
