@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_17:57:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_19:55:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailymirrorlk-ba879c5f",
-    "num": "dailymirrorlk-ba879c5f",
+    "doc_id": "2026-11-18-dailymirrorlk-80bf334e",
+    "num": "dailymirrorlk-80bf334e",
     "date_str": "2026-11-18",
-    "description": "US, Sri Lanka discuss expanding defense cooperation, digital economy ties",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Sri-Lanka-discuss-expanding-defense-cooperation-digital-economy-ties/108-355221",
+    "description": "Rajangane Saddharathana remanded until November 26",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajangane-Saddharathana-remanded-until-November-26/108-355228",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795003264.0
+    "time_ut": 1795009386.0
 }
 ```
 
@@ -41,8 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-18 | `dailymirrorlk-80bf334e` | Rajangane Saddharathana remanded until November 26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-80bf334e)
+- 2026-11-18 | `dailymirrorlk-5ee668a6` | Trump shakes hands with Putin and Xi ahead of historic talks in China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-5ee668a6)
+- 2026-11-18 | `dailymirrorlk-2b37c14e` | Lahiru Kumara five-for fails to halt Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2b37c14e)
+- 2026-11-18 | `dailymirrorlk-ddb454ce` | Sri Lankan budget preserves debt reduction path - Fitch Ratings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-ddb454ce)
+- 2026-11-18 | `dailymirrorlk-fecd14da` | Minister seeks report on death of three-month-old infant at Welikada Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-fecd14da)
+- 2026-11-18 | `dailymirrorlk-3730ec01` | After $6.3 billion crypto heist, Binance plans Asia expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-3730ec01)
 - 2026-11-18 | `dailymirrorlk-ba879c5f` | US, Sri Lanka discuss expanding defense cooperation, digital economy ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-ba879c5f)
 - 2026-11-18 | `dailymirrorlk-2e4b22fd` | eBird exhibit to introduce public to global citizen science | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2e4b22fd)
+- 2026-11-18 | `dailymirrorlk-c8922049` | Bancroft sandpaper claims heap pressure on Cummins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-c8922049)
 - 2026-11-18 | `dailymirrorlk-129499fa` | IGP holds talks with Senior UAE security officials at World Police Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-129499fa)
 - 2026-11-18 | `dailymirrorlk-1b0e17f2` | Kazakhstan accelerates artificial intelligence drive with third supercomputer planned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-1b0e17f2)
 - 2026-11-18 | `dailymirrorlk-340ffb41` | Akvan intensifies into severe cyclonic storm, fishermen warned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-340ffb41)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-18 | `dailymirrorlk-c07a7eee` | Govt. begins first state institution amalgamation with gem sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-c07a7eee)
 - 2026-11-18 | `dailymirrorlk-77538b8f` | Iran attacks US bases in Gulf countries despite diplomatic efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-77538b8f)
 - 2026-11-18 | `dailymirrorlk-be2770b4` | Ananda Palitha arrested over complaint lodged by another trade union leader: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-be2770b4)
-- 2026-11-18 | `dailymirrorlk-a480f8cd` | Hotels, restaurants to benefit from Tourism Levy removal: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-a480f8cd)
-- 2026-11-18 | `dailymirrorlk-1b1e5e13` | Court of Appeal upholds four-year jail term for Gnanasara Thera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-1b1e5e13)
-- 2026-11-18 | `dailymirrorlk-9b9d215f` | Above-band inflation prompts call for Treasury-CBSL talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-9b9d215f)
-- 2026-11-18 | `dailymirrorlk-fda2f4c2` | Supreme Court upholds Shashi Weerawansa’s two-year prison sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-fda2f4c2)
-- 2026-11-18 | `dailymirrorlk-baf1882b` | Factory orders pick up, services gain pace in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-baf1882b)
-- 2026-11-18 | `dailymirrorlk-b5dbc15e` | Tax credit lifts DFCC’s third-quarter shareholder profit by 23% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-b5dbc15e)
-- 2026-11-18 | `dailymirrorlk-8b7c7445` | IRD exceeds 2026 target with Rs. 2.44 trn collection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-8b7c7445)
 
 ---
 

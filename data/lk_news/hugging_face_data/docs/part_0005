@@ -112419,6 +112419,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-c8922049",
+    "num": "dailymirrorlk-c8922049",
+    "date_str": "2026-11-18",
+    "description": "Bancroft sandpaper claims heap pressure on Cummins",
+    "url_metadata": "https://www.dailymirror.lk/international/Bancroft-sandpaper-claims-heap-pressure-on-Cummins/107-355217",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1794998847.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-18-dailymirrorlk-2e4b22fd",
     "num": "dailymirrorlk-2e4b22fd",
     "date_str": "2026-11-18",
@@ -112438,5 +112449,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795003264.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-3730ec01",
+    "num": "dailymirrorlk-3730ec01",
+    "date_str": "2026-11-18",
+    "description": "After $6.3 billion crypto heist, Binance plans Asia expansion",
+    "url_metadata": "https://www.dailymirror.lk/international/After-6-3-billion-crypto-heist-Binance-plans-Asia-expansion/107-355222",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795003950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-fecd14da",
+    "num": "dailymirrorlk-fecd14da",
+    "date_str": "2026-11-18",
+    "description": "Minister seeks report on death of three-month-old infant at Welikada Prison",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-seeks-report-on-death-of-three-month-old-infant-at-Welikada-Prison/108-355223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795004807.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-ddb454ce",
+    "num": "dailymirrorlk-ddb454ce",
+    "date_str": "2026-11-18",
+    "description": "Sri Lankan budget preserves debt reduction path - Fitch Ratings",
+    "url_metadata": "https://www.dailymirror.lk/international/Sri-Lankan-budget-preserves-debt-reduction-path-Fitch-Ratings/107-355225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795009043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-2b37c14e",
+    "num": "dailymirrorlk-2b37c14e",
+    "date_str": "2026-11-18",
+    "description": "Lahiru Kumara five-for fails to halt Pakistan",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lahiru-Kumara-five-for-fails-to-halt-Pakistan/108-355226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795009059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-5ee668a6",
+    "num": "dailymirrorlk-5ee668a6",
+    "date_str": "2026-11-18",
+    "description": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-shakes-hands-with-Putin-and-Xi-ahead-of-historic-talks-in-China/107-355227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795009256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailymirrorlk-80bf334e",
+    "num": "dailymirrorlk-80bf334e",
+    "date_str": "2026-11-18",
+    "description": "Rajangane Saddharathana remanded until November 26",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajangane-Saddharathana-remanded-until-November-26/108-355228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795009386.0
   }
 ]
