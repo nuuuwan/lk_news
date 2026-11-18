@@ -111195,5 +111195,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1794927242.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-7783efb8",
+    "num": "dailyftlk-7783efb8",
+    "date_str": "2026-11-18",
+    "description": "US Court strikes down Trump plan to cap stay of foreign students, journalists",
+    "url_metadata": "https://www.ft.lk/news/US-Court-strikes-down-Trump-plan-to-cap-stay-of-foreign-students-journalists/56-800210",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794963711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-2160a92d",
+    "num": "dailyftlk-2160a92d",
+    "date_str": "2026-11-18",
+    "description": "Cabinet raises Aswesuma empowerment grants to Rs. 200,000, expands beneficiaries by 525",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-raises-Aswesuma-empowerment-grants-to-Rs-200-000-expands-beneficiaries-by-525/56-800211",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794963735.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-f3d06d96",
+    "num": "dailyftlk-f3d06d96",
+    "date_str": "2026-11-18",
+    "description": "Met. Dept. warns of haze, poorer air quality as cyclonic storm Akvan shifts winds",
+    "url_metadata": "https://www.ft.lk/news/Met-Dept-warns-of-haze-poorer-air-quality-as-cyclonic-storm-Akvan-shifts-winds/56-800212",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794963754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-a2f99b96",
+    "num": "dailyftlk-a2f99b96",
+    "date_str": "2026-11-18",
+    "description": "Cabinet clears Rs. 5.96 b Oliyamulla pumping station to curb Kelani River flood risk",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-Rs-5-96-b-Oliyamulla-pumping-station-to-curb-Kelani-River-flood-risk/56-800213",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794963816.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-ae498395",
+    "num": "dailyftlk-ae498395",
+    "date_str": "2026-11-18",
+    "description": "2027 Budget: Can the financial sector turn policy ambitions into economic growth?",
+    "url_metadata": "https://www.ft.lk/columns/2027-Budget-Can-the-financial-sector-turn-policy-ambitions-into-economic-growth/4-800214",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794964055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-71105ac0",
+    "num": "dailyftlk-71105ac0",
+    "date_str": "2026-11-18",
+    "description": "Budget 2027 gives Sri Lanka\u2019s exporters room to grow: An exporters perspective",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-gives-Sri-Lanka-s-exporters-room-to-grow-An-exporters-perspective/4-800215",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794964235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-2e6a3e5f",
+    "num": "dailyftlk-2e6a3e5f",
+    "date_str": "2026-11-18",
+    "description": "Can new investment promotion agency boost FDI beyond $ 2 b?",
+    "url_metadata": "https://www.ft.lk/columns/Can-new-investment-promotion-agency-boost-FDI-beyond-2-b/4-800216",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794966902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-7d881eb3",
+    "num": "dailyftlk-7d881eb3",
+    "date_str": "2026-11-18",
+    "description": "2027 Budget: Navigating Sri Lanka\u2019s pivot from stabilisation to transformation",
+    "url_metadata": "https://www.ft.lk/columns/2027-Budget-Navigating-Sri-Lanka-s-pivot-from-stabilisation-to-transformation/4-800218",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794967273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-2add0d98",
+    "num": "dailyftlk-2add0d98",
+    "date_str": "2026-11-18",
+    "description": "Policy sets direction. Who takes responsibility for implementing?",
+    "url_metadata": "https://www.ft.lk/columns/Policy-sets-direction-Who-takes-responsibility-for-implementing/4-800219",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794967535.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-2853f001",
+    "num": "dailyftlk-2853f001",
+    "date_str": "2026-11-18",
+    "description": "FCCISL says Budget 2027 opens way for growth from districts and villages",
+    "url_metadata": "https://www.ft.lk/opinion/FCCISL-says-Budget-2027-opens-way-for-growth-from-districts-and-villages/14-800220",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968249.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-cc9a9746",
+    "num": "dailyftlk-cc9a9746",
+    "date_str": "2026-11-18",
+    "description": "Govt. says CESS cuts aim to boost manufacturing, export competitiveness",
+    "url_metadata": "https://www.ft.lk/business/Govt-says-CESS-cuts-aim-to-boost-manufacturing-export-competitiveness/34-800221",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-849e1f03",
+    "num": "dailyftlk-849e1f03",
+    "date_str": "2026-11-18",
+    "description": "Hayleys backs Sri Lanka Expo 2027 as Gold sponsor, opening a path to global markets for Sri Lankan SMEs",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-backs-Sri-Lanka-Expo-2027-as-Gold-sponsor-opening-a-path-to-global-markets-for-Sri-Lankan-SMEs/34-800222",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-18-dailyftlk-2ee16897",
+    "num": "dailyftlk-2ee16897",
+    "date_str": "2026-11-18",
+    "description": "Cabinet green lights revised intellectual property fees",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-revised-intellectual-property-fees/34-800223",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968455.0
   }
 ]

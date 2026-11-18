@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_06:06:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_07:58:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,053** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,066** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-17-dailymirrorlk-031b761e",
-    "num": "dailymirrorlk-031b761e",
-    "date_str": "2026-11-17",
-    "description": "Jaffna Trade Fair 2027 media briefing held",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Jaffna-Trade-Fair-2027-media-briefing-held/110-355124",
+    "doc_id": "2026-11-18-dailyftlk-2ee16897",
+    "num": "dailyftlk-2ee16897",
+    "date_str": "2026-11-18",
+    "description": "Cabinet green lights revised intellectual property fees",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-revised-intellectual-property-fees/34-800223",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1794927242.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1794968455.0
 }
 ```
 
@@ -41,6 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-18 | `dailyftlk-2ee16897` | Cabinet green lights revised intellectual property fees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2ee16897)
+- 2026-11-18 | `dailyftlk-849e1f03` | Hayleys backs Sri Lanka Expo 2027 as Gold sponsor, opening a path to global markets for Sri Lankan SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-849e1f03)
+- 2026-11-18 | `dailyftlk-cc9a9746` | Govt. says CESS cuts aim to boost manufacturing, export competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-cc9a9746)
+- 2026-11-18 | `dailyftlk-2853f001` | FCCISL says Budget 2027 opens way for growth from districts and villages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2853f001)
+- 2026-11-18 | `dailyftlk-2add0d98` | Policy sets direction. Who takes responsibility for implementing? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2add0d98)
+- 2026-11-18 | `dailyftlk-7d881eb3` | 2027 Budget: Navigating Sri Lanka’s pivot from stabilisation to transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-7d881eb3)
+- 2026-11-18 | `dailyftlk-2e6a3e5f` | Can new investment promotion agency boost FDI beyond $ 2 b? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2e6a3e5f)
+- 2026-11-18 | `dailyftlk-71105ac0` | Budget 2027 gives Sri Lanka’s exporters room to grow: An exporters perspective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-71105ac0)
+- 2026-11-18 | `dailyftlk-ae498395` | 2027 Budget: Can the financial sector turn policy ambitions into economic growth? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-ae498395)
+- 2026-11-18 | `dailyftlk-a2f99b96` | Cabinet clears Rs. 5.96 b Oliyamulla pumping station to curb Kelani River flood risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-a2f99b96)
+- 2026-11-18 | `dailyftlk-f3d06d96` | Met. Dept. warns of haze, poorer air quality as cyclonic storm Akvan shifts winds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-f3d06d96)
+- 2026-11-18 | `dailyftlk-2160a92d` | Cabinet raises Aswesuma empowerment grants to Rs. 200,000, expands beneficiaries by 525 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-2160a92d)
+- 2026-11-18 | `dailyftlk-7783efb8` | US Court strikes down Trump plan to cap stay of foreign students, journalists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailyftlk-7783efb8)
 - 2026-11-17 | `dailymirrorlk-031b761e` | Jaffna Trade Fair 2027 media briefing held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-031b761e)
 - 2026-11-17 | `virakesarilk-61e02e7d` | லாஃப்ஸ் 12.5 கிலோகிராம் எரிவாயு சிலிண்டர் விலை 745 ரூபாவால் குறைப்பு – புதிய விலை 5,995 ரூபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-61e02e7d)
 - 2026-11-17 | `virakesarilk-8f98b5bc` | நிந்தவூர் கலாசார நிலையத்துக்கு ஒதுக்கப்பட்ட 30 கோடி ரூபாவில் ஒரு கோடி ரூபாவைக்கூட அரசாங்கம் செலவிடவில்லை – எம்.ஏ.எம். தாஹிர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-8f98b5bc)
@@ -48,19 +61,6 @@ A collection of lk_news documents.
 - 2026-11-17 | `dailymirrorlk-fa890fe2` | LAUGFS slashes 12.5kg gas price to Rs. 5,995 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-fa890fe2)
 - 2026-11-17 | `virakesarilk-9177561a` | நாட்டை வங்குரோத்து நிலையிலிருந்து ரணில் மீட்டதாகக் கூறுவது பொய் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-9177561a)
 - 2026-11-17 | `virakesarilk-20d4751e` | வரவு செலவுத் திட்டத்திற்குப் பின்னர் தொழிற்சங்கங்களின் கோரிக்கைகள் குறித்து அரசாங்கம் கவனம் செலுத்தும் – நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-20d4751e)
-- 2026-11-17 | `virakesarilk-1365a07b` | லாஃப் எரிவாயுத் தட்டுப்பாடு மற்றும் விலை உயர்வு குறித்து அமைச்சர் வசந்த சமரசிங்க அவசரக் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-1365a07b)
-- 2026-11-17 | `virakesarilk-5d979623` | 31 இலட்சம் ரூபா நிதி மோசடி விவகாரத்தில் ஆனந்த பாலித கைது – அமைச்சர் அநுர கருணாதிலக | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-5d979623)
-- 2026-11-17 | `virakesarilk-ebd886e7` | பதிவுசெய்யப்படாத தொல்பொருள் முக்கியத்துவம் வாய்ந்த இடங்களைப் பாதுகாக்க அரசாங்கம் புதிய வேலைத்திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-ebd886e7)
-- 2026-11-17 | `virakesarilk-f7829fca` | 2026 ஒக்டோபரில் இலங்கையின் உற்பத்தி மற்றும் சேவைத் துறைகள் வலுவான வளர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-f7829fca)
-- 2026-11-17 | `virakesarilk-8fe69256` | அரச ஊழியர்களின் வாழ்க்கைச் செலவுப் படியை ரூபா 25,000 ஆல் அதிகரிக்காவிடின் தொழிற்சங்கப் போராட்டம்  :  சமன் ரத்னப்ரிய எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-8fe69256)
-- 2026-11-17 | `virakesarilk-8b9e66b1` | அரசாங்கம் புத்தசாசனத்துக்கு எதிராகச் செயற்படுகிறது - தயாசிறி ஜயசேகர குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-8b9e66b1)
-- 2026-11-17 | `virakesarilk-67041c22` | கடந்த கால மலையக ஒப்பந்தங்களுக்குப் பின்னால் பல டீல்கள் - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-67041c22)
-- 2026-11-17 | `virakesarilk-0f8dc518` | ஐந்து புதிய தூதுவர்களும் இரண்டு உயர்ஸ்தானிகர்களும் ஜனாதிபதியிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-0f8dc518)
-- 2026-11-17 | `virakesarilk-493ba08e` | ரஷ்யா - உக்ரைன் போர்ச் சூழலில் அமைதித் தூதராகக் களமிறங்கும் இந்தியா ; புதுடெல்லியின் இராஜதந்திர வியூகமும் சவால்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-493ba08e)
-- 2026-11-17 | `virakesarilk-16289b1e` | சாட்டி மாவீரர் நினைவிட வழக்கு ; சட்டப்பிரிவு குறிப்பிடப்படாததால் ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-16289b1e)
-- 2026-11-17 | `virakesarilk-0e6c7242` | விடுதலைப் புலிகளின் தலைவர் பிரபாகரனின் இல்லம் முன்பாக கட்டப்பட்டிருத்த பதாகை கிழிக்கப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-virakesarilk-0e6c7242)
-- 2026-11-17 | `dailymirrorlk-701ebf1d` | IRD exceeds 2026 target with Rs. 2.44 trillion collection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-701ebf1d)
-- 2026-11-17 | `dailymirrorlk-381ec208` | Seven new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-17-dailymirrorlk-381ec208)
 
 ---
 
