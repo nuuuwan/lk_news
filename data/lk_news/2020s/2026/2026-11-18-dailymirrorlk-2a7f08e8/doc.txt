@@ -1,0 +1,43 @@
+Rubio says US not ’under systemic attack’ after series of tech outages
+
+BBC - US Secretary of State Marco Rubio has dismissed widespread concerns online that the series of recent tech outages in the past week are connected, telling reporters there was "zero evidence" of any link.
+
+Rubio acknowledged that "people are fearful" the spate of outages, which included all flights being grounded in the US and widespread disruptions to banking, Apple and Microsoft services, could be linked or part of a plot.
+
+"We are not under systemic attack," he said. "These events, one has nothing to do with the other, they are not inter-related."
+
+Cyber-security experts have said there is no evidence connecting the outages, and many of the issues appear due to updates to old infrastructure.
+
+In the past week, there has been a massive Microsoft outage, an apparent tech glitch which grounded all US flights for hours, and issues for the National Security Agency, several US banks and Apple.
+
+Every affected company or agency has said this was not a cyber-related incident.
+
+Rubio's comments came hours after US Director of National Intelligence Jay Clayton also addressed the issue, telling Fox News the outages were not the product of a cyber-attack. He explained "lots of institutions" are patching or upgrading systems, which has caused some disruption.
+
+Rubio was asked whether the Trump administration was concerned public fears could lead to stockpiling or a run on the banks.
+
+Acknowledging those concerns, Rubio said the best way to deal with that is to share with the American people what the US government knows.
+
+"Every indicator we have is that every single one of these events has an explanation or a cause that has nothing to do with a cyber-criminal, has nothing to do with a hostile actor or another country," he said.
+
+Daily technology-related disruptions have happened since Thursday, when a Microsoft outage disrupted many of its services, including email.
+
+The next day, the Federal Aviation Administration called for a nationwide ground stop lasting more than four hours.
+
+On Monday a United Airlines technology failure delayed about 150 flights and a JPMorgan Chase software problem disrupted some banking services.
+
+Apple users were impacted by outages affecting iCloud and Apple Pay on Tuesday. The company said the cause was not a cyber-attack but the outage was triggered by an an internal update.
+
+A highly classified network used by the US National Security Agency (NSA) for internal communications also went offline for a period of time on Tuesday.
+
+Cybersecurity experts say there is no evidence connecting the Microsoft, airline, and bank disruptions from the last five days.
+
+Kris Beevers, CEO and co-founder of the network and infrastructure management company NetBox Labs, acknowledged the circulating theories on social media linking the barrage of outages.
+
+"There is something more ordinary, and more important to understand: the infrastructure that runs the world is changing faster than ever, and change is risk. Much of it is 30 to 40 years old, with decades of technical debt, and it's now being asked to change very quickly."
+
+"It's putting more strain on these legacy networks, and it's also creating real urgency around security," he said.
+
+"Our customers are the amazing teams behind these networks at airlines, banking, energy, and retail who are essentially doing heart surgery on a global scale to get these networks back up and running quickly."
+
+Vice President of Threat Intelligence for Palo Alto Networks Unit 42, Sherrod DeGrippo, said: "What this week really underscores is how tightly coupled, and fragile, our core digital infrastructure is, where a single software bug or router failure can cascade nationwide."
