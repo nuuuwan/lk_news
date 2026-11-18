@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_19:55:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--18_21:53:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,175** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailymirrorlk-80bf334e",
-    "num": "dailymirrorlk-80bf334e",
+    "doc_id": "2026-11-18-dailymirrorlk-53e46698",
+    "num": "dailymirrorlk-53e46698",
     "date_str": "2026-11-18",
-    "description": "Rajangane Saddharathana remanded until November 26",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajangane-Saddharathana-remanded-until-November-26/108-355228",
+    "description": "CMC hampered by severe staff shortage: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CMC-hampered-by-severe-staff-shortage-Deputy-Minister/108-355230",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795009386.0
+    "time_ut": 1795014808.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-18 | `dailymirrorlk-53e46698` | CMC hampered by severe staff shortage: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-53e46698)
+- 2026-11-18 | `dailymirrorlk-2038884c` | CSE holds near 21,700 as foreign buying strengthens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2038884c)
 - 2026-11-18 | `dailymirrorlk-80bf334e` | Rajangane Saddharathana remanded until November 26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-80bf334e)
 - 2026-11-18 | `dailymirrorlk-5ee668a6` | Trump shakes hands with Putin and Xi ahead of historic talks in China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-5ee668a6)
 - 2026-11-18 | `dailymirrorlk-2b37c14e` | Lahiru Kumara five-for fails to halt Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-2b37c14e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-18 | `dailymirrorlk-34285b18` | Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-34285b18)
 - 2026-11-18 | `dailymirrorlk-794f0049` | University staff protest over Budget demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-794f0049)
 - 2026-11-18 | `dailymirrorlk-c07a7eee` | Govt. begins first state institution amalgamation with gem sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-c07a7eee)
-- 2026-11-18 | `dailymirrorlk-77538b8f` | Iran attacks US bases in Gulf countries despite diplomatic efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-77538b8f)
-- 2026-11-18 | `dailymirrorlk-be2770b4` | Ananda Palitha arrested over complaint lodged by another trade union leader: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-18-dailymirrorlk-be2770b4)
 
 ---
 

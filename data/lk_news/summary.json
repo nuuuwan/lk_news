@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-18 19:55:05",
-  "n_docs": 136173,
+  "time_updated": "2026-11-18 21:52:52",
+  "n_docs": 136175,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136173,
+  "n_docs_with_text": 136175,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-18",
-  "dataset_size": 2103076712,
+  "dataset_size": 2103140922,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-18-dailymirrorlk-80bf334e",
-    "num": "dailymirrorlk-80bf334e",
+    "doc_id": "2026-11-18-dailymirrorlk-53e46698",
+    "num": "dailymirrorlk-53e46698",
     "date_str": "2026-11-18",
-    "description": "Rajangane Saddharathana remanded until November 26",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rajangane-Saddharathana-remanded-until-November-26/108-355228",
+    "description": "CMC hampered by severe staff shortage: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CMC-hampered-by-severe-staff-shortage-Deputy-Minister/108-355230",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795009386.0
+    "time_ut": 1795014808.0
   }
 }
