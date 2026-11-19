@@ -114198,5 +114198,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795088955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-ecb1f696",
+    "num": "dailymirrorlk-ecb1f696",
+    "date_str": "2026-11-19",
+    "description": "Graduate teacher recruitment interviews postponed in all nine provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Graduate-teacher-recruitment-interviews-postponed-in-all-nine-provinces/108-355320",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795090609.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-035bbac8",
+    "num": "dailymirrorlk-035bbac8",
+    "date_str": "2026-11-19",
+    "description": "Milan Rathnayake resists as Pakistan close in on victory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Milan-Rathnayake-resists-as-Pakistan-close-in-on-victory/108-355321",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795093035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-ed08e48c",
+    "num": "dailymirrorlk-ed08e48c",
+    "date_str": "2026-11-19",
+    "description": "Jaffna-Chennai flights cancelled over poor air quality",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-Chennai-flights-cancelled-over-poor-air-quality/108-355323",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795093923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-e2f7505b",
+    "num": "dailymirrorlk-e2f7505b",
+    "date_str": "2026-11-19",
+    "description": "GMOA warns of trade union action over failure to address doctors\u2019 demands",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-warns-of-trade-union-action-over-failure-to-address-doctors-demands/108-355324",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795094885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-6cd786eb",
+    "num": "dailymirrorlk-6cd786eb",
+    "date_str": "2026-11-19",
+    "description": "Teachers, principals to stage Black Day protest on Monday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Teachers-principals-to-stage-Black-Day-protest-on-Monday/108-355325",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795095246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-949438a8",
+    "num": "dailymirrorlk-949438a8",
+    "date_str": "2026-11-19",
+    "description": "\u2018Bus Lalith\u2019 remanded until December 4",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-Lalith-remanded-until-December-4/108-355326",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795095409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-82c9c3cd",
+    "num": "dailymirrorlk-82c9c3cd",
+    "date_str": "2026-11-19",
+    "description": "Government executive officers to launch strike tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-executive-officers-to-launch-strike-tomorrow/108-355327",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795095510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-5d23f486",
+    "num": "dailymirrorlk-5d23f486",
+    "date_str": "2026-11-19",
+    "description": "CSE rebounds as ASPI regains 21,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-500/108-355328",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795095601.0
   }
 ]

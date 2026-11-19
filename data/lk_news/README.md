@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_17:56:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_19:55:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,334** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-444b6361",
-    "num": "dailymirrorlk-444b6361",
+    "doc_id": "2026-11-19-dailymirrorlk-5d23f486",
+    "num": "dailymirrorlk-5d23f486",
     "date_str": "2026-11-19",
-    "description": "Namal remanded till December 2 over Airbus case",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319",
+    "description": "CSE rebounds as ASPI regains 21,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-500/108-355328",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795088955.0
+    "time_ut": 1795095601.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-19 | `dailymirrorlk-5d23f486` | CSE rebounds as ASPI regains 21,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-5d23f486)
+- 2026-11-19 | `dailymirrorlk-82c9c3cd` | Government executive officers to launch strike tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-82c9c3cd)
+- 2026-11-19 | `dailymirrorlk-949438a8` | ‘Bus Lalith’ remanded until December 4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-949438a8)
+- 2026-11-19 | `dailymirrorlk-6cd786eb` | Teachers, principals to stage Black Day protest on Monday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-6cd786eb)
+- 2026-11-19 | `dailymirrorlk-e2f7505b` | GMOA warns of trade union action over failure to address doctors’ demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-e2f7505b)
+- 2026-11-19 | `dailymirrorlk-ed08e48c` | Jaffna-Chennai flights cancelled over poor air quality | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-ed08e48c)
+- 2026-11-19 | `dailymirrorlk-035bbac8` | Milan Rathnayake resists as Pakistan close in on victory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-035bbac8)
+- 2026-11-19 | `dailymirrorlk-ecb1f696` | Graduate teacher recruitment interviews postponed in all nine provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-ecb1f696)
 - 2026-11-19 | `dailymirrorlk-444b6361` | Namal remanded till December 2 over Airbus case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-444b6361)
 - 2026-11-19 | `dailymirrorlk-a748a122` | Boats warned as Cyclone Akvan intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a748a122)
 - 2026-11-19 | `dailymirrorlk-57b0ea24` | Trump, Xi and Putin show different priorities for China summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-57b0ea24)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-11-19 | `virakesarilk-d0e70820` | ஷி ஜின்பிங் உரையாற்றும்போது தூக்கக் கலக்கத்தில் இருந்தாரா டொனால்ட் ட்ரம்ப்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-d0e70820)
 - 2026-11-19 | `dailymirrorlk-6029324c` | Sri Lankan Parliament to debate motion calling for release of Imran Khan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-6029324c)
 - 2026-11-19 | `dailymirrorlk-80911b85` | Man swallows gemstone stolen from Ratnapura mine, ends up in hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-80911b85)
-- 2026-11-19 | `dailymirrorlk-f0ba5a97` | Dozens missing after boat carrying 100 migrants sinks off Senegal’s coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-f0ba5a97)
-- 2026-11-19 | `dailymirrorlk-14f7e0dd` | Sri Lankan troops join major anti-gang operation in Haiti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-14f7e0dd)
-- 2026-11-19 | `dailymirrorlk-83bd7bfd` | Voyager 1 is now one light-day from Earth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-83bd7bfd)
-- 2026-11-19 | `dailymirrorlk-32cab11d` | Fire breaks out at IRD building in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-32cab11d)
-- 2026-11-19 | `virakesarilk-5fc37fc4` | உரிய விசாரணையின்றி வழங்கப்பட்ட ஆசிரியரின் இடமாற்றத்தை இரத்து செய்த மேல் நீதிமன்றத் தீர்ப்பை மேன்முறையீட்டு நீதிமன்றம் உறுதி செய்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-5fc37fc4)
-- 2026-11-19 | `dailymirrorlk-605b7fef` | Mahapola scholarship arrears to be paid in December | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-605b7fef)
-- 2026-11-19 | `virakesarilk-0bda0be5` | மோட்டார் போக்குவரத்துத் திணைக்களத்தின் தலைமை அலுவலக சேவைகளைப் பெற முன்பதிவு அவசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-0bda0be5)
-- 2026-11-19 | `virakesarilk-13409df5` | நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டார் நாமல் ராஜபக்‌ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-13409df5)
 
 ---
 

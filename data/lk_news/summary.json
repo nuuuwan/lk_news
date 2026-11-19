@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 17:55:43",
-  "n_docs": 136326,
+  "time_updated": "2026-11-19 19:54:41",
+  "n_docs": 136334,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136326,
+  "n_docs_with_text": 136334,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2105688984,
+  "dataset_size": 2105741212,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-444b6361",
-    "num": "dailymirrorlk-444b6361",
+    "doc_id": "2026-11-19-dailymirrorlk-5d23f486",
+    "num": "dailymirrorlk-5d23f486",
     "date_str": "2026-11-19",
-    "description": "Namal remanded till December 2 over Airbus case",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319",
+    "description": "CSE rebounds as ASPI regains 21,500",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-500/108-355328",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795088955.0
+    "time_ut": 1795095601.0
   }
 }
