@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 07:58:25",
-  "n_docs": 136218,
+  "time_updated": "2026-11-19 09:50:57",
+  "n_docs": 136234,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136218,
+  "n_docs_with_text": 136234,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2104071493,
+  "dataset_size": 2104345527,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailyftlk-33c3a41f",
-    "num": "dailyftlk-33c3a41f",
+    "doc_id": "2026-11-19-virakesarilk-3dbfb58a",
+    "num": "virakesarilk-3dbfb58a",
     "date_str": "2026-11-19",
-    "description": "SriLankan secures Cabinet approval for $ 13 m aviation fuel contracts at four airports",
-    "url_metadata": "https://www.ft.lk/business/SriLankan-secures-Cabinet-approval-for-13-m-aviation-fuel-contracts-at-four-airports/34-800293",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795052733.0
+    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/267351",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1795061760.0
   }
 }
