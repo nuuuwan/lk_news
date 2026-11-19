@@ -114223,6 +114223,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-b2737b65",
+    "num": "dailymirrorlk-b2737b65",
+    "date_str": "2026-11-19",
+    "description": "Riyadh\u2019s tallest skyscraper hit in Houthi strike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Riyadhs-tallest-skyscraper-hit-in-Houthi-strike/108-355322",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795093552.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-19-dailymirrorlk-ed08e48c",
     "num": "dailymirrorlk-ed08e48c",
     "date_str": "2026-11-19",
@@ -114286,5 +114297,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795095601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-111e81d7",
+    "num": "dailymirrorlk-111e81d7",
+    "date_str": "2026-11-19",
+    "description": "Urubokka to be developed as hub for traditional Southern food culture: Handunnetti",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Urubokka-to-be-developed-as-hub-for-traditional-Southern-food-culture-Handunnetti/108-355329",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795099479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-52ac9e17",
+    "num": "dailymirrorlk-52ac9e17",
+    "date_str": "2026-11-19",
+    "description": "Court told of threat to wildlife from 13,207 state-issued firearms",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-told-of-threat-to-wildlife-from-13-207-state-issued-firearms/108-355330",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795099742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-dae0223a",
+    "num": "dailymirrorlk-dae0223a",
+    "date_str": "2026-11-19",
+    "description": "CM Vijay\u2019s ally visits LTTE ex-chief Prabhakaran\u2019s home in Sri Lanka. BJP slams, Congress stays mum",
+    "url_metadata": "https://www.dailymirror.lk/international/CM-Vijays-ally-visits-LTTE-ex-chief-Prabhakarans-home-in-Sri-Lanka-BJP-slams-Congress-stays-mum/107-355331",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795101127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-7f1b4523",
+    "num": "dailymirrorlk-7f1b4523",
+    "date_str": "2026-11-19",
+    "description": "NPP-controlled Soranathota PS budget defeated",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NPP-controlled-Soranathota-PS-budget-defeated/108-355332",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795101626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-cc22f309",
+    "num": "dailymirrorlk-cc22f309",
+    "date_str": "2026-11-19",
+    "description": "UN\u2019s top court finds Myanmar guilty of genocide against Rohingya",
+    "url_metadata": "https://www.dailymirror.lk/international/UNs-top-court-finds-Myanmar-guilty-of-genocide-against-Rohingya/107-355333",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795101852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-e0ab822f",
+    "num": "dailymirrorlk-e0ab822f",
+    "date_str": "2026-11-19",
+    "description": "71 kg of heroin bound for Sri Lanka seized in Chennai, among 2026\u2019s biggest hauls",
+    "url_metadata": "https://www.dailymirror.lk/international/71-kg-of-heroin-bound-for-Sri-Lanka-seized-in-Chennai-among-2026s-biggest-hauls/107-355334",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795102901.0
   }
 ]

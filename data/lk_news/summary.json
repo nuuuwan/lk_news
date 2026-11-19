@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 19:54:41",
-  "n_docs": 136334,
+  "time_updated": "2026-11-19 21:53:23",
+  "n_docs": 136341,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136334,
+  "n_docs_with_text": 136341,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2105741212,
+  "dataset_size": 2105807391,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-5d23f486",
-    "num": "dailymirrorlk-5d23f486",
+    "doc_id": "2026-11-19-dailymirrorlk-e0ab822f",
+    "num": "dailymirrorlk-e0ab822f",
     "date_str": "2026-11-19",
-    "description": "CSE rebounds as ASPI regains 21,500",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-500/108-355328",
+    "description": "71 kg of heroin bound for Sri Lanka seized in Chennai, among 2026\u2019s biggest hauls",
+    "url_metadata": "https://www.dailymirror.lk/international/71-kg-of-heroin-bound-for-Sri-Lanka-seized-in-Chennai-among-2026s-biggest-hauls/107-355334",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795095601.0
+    "time_ut": 1795102901.0
   }
 }
