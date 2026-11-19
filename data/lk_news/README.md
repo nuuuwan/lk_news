@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_15:50:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_17:56:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,326** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-019385d3",
-    "num": "dailymirrorlk-019385d3",
+    "doc_id": "2026-11-19-dailymirrorlk-444b6361",
+    "num": "dailymirrorlk-444b6361",
     "date_str": "2026-11-19",
-    "description": "CEJ sends letter of demand to CEA over Divulapitiya e-waste facility fire",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEJ-sends-letter-of-demand-to-CEA-over-Divulapitiya-e-waste-facility-fire/108-355305",
+    "description": "Namal remanded till December 2 over Airbus case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795082752.0
+    "time_ut": 1795088955.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-19 | `dailymirrorlk-444b6361` | Namal remanded till December 2 over Airbus case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-444b6361)
+- 2026-11-19 | `dailymirrorlk-a748a122` | Boats warned as Cyclone Akvan intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a748a122)
+- 2026-11-19 | `dailymirrorlk-57b0ea24` | Trump, Xi and Putin show different priorities for China summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-57b0ea24)
+- 2026-11-19 | `dailymirrorlk-76a68e6b` | Historic US-China-Russia meeting held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-76a68e6b)
+- 2026-11-19 | `dailymirrorlk-ccb924da` | Fire set at home of former Bangladesh interim leader | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-ccb924da)
+- 2026-11-19 | `dailymirrorlk-235d392d` | 2008 murder case: Eight former EPDP members sentenced to death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-235d392d)
 - 2026-11-19 | `dailymirrorlk-019385d3` | CEJ sends letter of demand to CEA over Divulapitiya e-waste facility fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-019385d3)
 - 2026-11-19 | `dailymirrorlk-278de40f` | Three Mannar restaurants fined over health violations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-278de40f)
 - 2026-11-19 | `dailymirrorlk-93d164ad` | Minor fire at Inland Revenue Department contained | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-93d164ad)
@@ -52,15 +58,9 @@ A collection of lk_news documents.
 - 2026-11-19 | `dailymirrorlk-83bd7bfd` | Voyager 1 is now one light-day from Earth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-83bd7bfd)
 - 2026-11-19 | `dailymirrorlk-32cab11d` | Fire breaks out at IRD building in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-32cab11d)
 - 2026-11-19 | `virakesarilk-5fc37fc4` | உரிய விசாரணையின்றி வழங்கப்பட்ட ஆசிரியரின் இடமாற்றத்தை இரத்து செய்த மேல் நீதிமன்றத் தீர்ப்பை மேன்முறையீட்டு நீதிமன்றம் உறுதி செய்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-5fc37fc4)
+- 2026-11-19 | `dailymirrorlk-605b7fef` | Mahapola scholarship arrears to be paid in December | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-605b7fef)
 - 2026-11-19 | `virakesarilk-0bda0be5` | மோட்டார் போக்குவரத்துத் திணைக்களத்தின் தலைமை அலுவலக சேவைகளைப் பெற முன்பதிவு அவசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-0bda0be5)
 - 2026-11-19 | `virakesarilk-13409df5` | நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டார் நாமல் ராஜபக்‌ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-13409df5)
-- 2026-11-19 | `dailymirrorlk-ef78fb9e` | Two arrested over pangolin killing after video found on student’s phone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-ef78fb9e)
-- 2026-11-19 | `virakesarilk-6df9a53a` | தயாசிறி ஜயசேகரவை மீண்டும் இணைக்கப் பேச்சுவார்த்தை – சுரேன் ராகவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-6df9a53a)
-- 2026-11-19 | `dailymirrorlk-026dc251` | Golden canopy of Dalada Maligawa to be unveiled tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-026dc251)
-- 2026-11-19 | `dailymirrorlk-1366c184` | Sri Lanka Cricket rejects reports of no ICC men’s tournament hosting until 2035 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-1366c184)
-- 2026-11-19 | `dailymirrorlk-63b185fa` | Bus driver, passenger face legal action for feeding wild elephant in Yala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-63b185fa)
-- 2026-11-19 | `virakesarilk-65e60479` | சாதனை படைத்து வரும் நடிகர் 'உறியடி' விஜயகுமாரின் 'அறிவு' படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-65e60479)
-- 2026-11-19 | `virakesarilk-0737d550` | நடிகர் கே. மணிகண்டன் நடிக்கும் 'மக்கள் காவலன்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-0737d550)
 
 ---
 

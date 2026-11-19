@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 15:50:15",
-  "n_docs": 136319,
+  "time_updated": "2026-11-19 17:55:43",
+  "n_docs": 136326,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136319,
+  "n_docs_with_text": 136326,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2105218857,
+  "dataset_size": 2105688984,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-019385d3",
-    "num": "dailymirrorlk-019385d3",
+    "doc_id": "2026-11-19-dailymirrorlk-444b6361",
+    "num": "dailymirrorlk-444b6361",
     "date_str": "2026-11-19",
-    "description": "CEJ sends letter of demand to CEA over Divulapitiya e-waste facility fire",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEJ-sends-letter-of-demand-to-CEA-over-Divulapitiya-e-waste-facility-fire/108-355305",
+    "description": "Namal remanded till December 2 over Airbus case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795082752.0
+    "time_ut": 1795088955.0
   }
 }

@@ -114003,6 +114003,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-605b7fef",
+    "num": "dailymirrorlk-605b7fef",
+    "date_str": "2026-11-19",
+    "description": "Mahapola scholarship arrears to be paid in December",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahapola-scholarship-arrears-to-be-paid-in-December/108-355294",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795079823.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-19-virakesarilk-5fc37fc4",
     "num": "virakesarilk-5fc37fc4",
     "date_str": "2026-11-19",
@@ -114121,5 +114132,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795082752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-235d392d",
+    "num": "dailymirrorlk-235d392d",
+    "date_str": "2026-11-19",
+    "description": "2008 murder case: Eight former EPDP members sentenced to death",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2008-murder-case-Eight-former-EPDP-members-sentenced-to-death/108-355309",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795084230.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-ccb924da",
+    "num": "dailymirrorlk-ccb924da",
+    "date_str": "2026-11-19",
+    "description": "Fire set at home of former Bangladesh interim leader",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-set-at-home-of-former-Bangladesh-interim-leader/108-355310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795084398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-76a68e6b",
+    "num": "dailymirrorlk-76a68e6b",
+    "date_str": "2026-11-19",
+    "description": "Historic US-China-Russia meeting held",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Historic-US-China-Russia-meeting-held/110-355314",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795085610.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-57b0ea24",
+    "num": "dailymirrorlk-57b0ea24",
+    "date_str": "2026-11-19",
+    "description": "Trump, Xi and Putin show different priorities for China summit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-Xi-and-Putin-show-different-priorities-for-China-summit/108-355317",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795087133.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-a748a122",
+    "num": "dailymirrorlk-a748a122",
+    "date_str": "2026-11-19",
+    "description": "Boats warned as Cyclone Akvan intensifies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Boats-warned-as-Cyclone-Akvan-intensifies/108-355318",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795087518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-444b6361",
+    "num": "dailymirrorlk-444b6361",
+    "date_str": "2026-11-19",
+    "description": "Namal remanded till December 2 over Airbus case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795088955.0
   }
 ]
