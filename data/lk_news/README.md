@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_21:54:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_23:57:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,343** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-e0ab822f",
-    "num": "dailymirrorlk-e0ab822f",
+    "doc_id": "2026-11-19-dailymirrorlk-e7b2a4e7",
+    "num": "dailymirrorlk-e7b2a4e7",
     "date_str": "2026-11-19",
-    "description": "71 kg of heroin bound for Sri Lanka seized in Chennai, among 2026\u2019s biggest hauls",
-    "url_metadata": "https://www.dailymirror.lk/international/71-kg-of-heroin-bound-for-Sri-Lanka-seized-in-Chennai-among-2026s-biggest-hauls/107-355334",
+    "description": "2026 O/L admission card corrections open until November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2026-OL-admission-card-corrections-open-until-November-30/108-355336",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795102901.0
+    "time_ut": 1795106978.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-19 | `dailymirrorlk-e7b2a4e7` | 2026 O/L admission card corrections open until November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-e7b2a4e7)
+- 2026-11-19 | `dailymirrorlk-61b80455` | Naval personnel awarded lifesaving medals for Kala Oya bus rescue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-61b80455)
 - 2026-11-19 | `dailymirrorlk-e0ab822f` | 71 kg of heroin bound for Sri Lanka seized in Chennai, among 2026’s biggest hauls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-e0ab822f)
 - 2026-11-19 | `dailymirrorlk-cc22f309` | UN’s top court finds Myanmar guilty of genocide against Rohingya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-cc22f309)
 - 2026-11-19 | `dailymirrorlk-7f1b4523` | NPP-controlled Soranathota PS budget defeated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-7f1b4523)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-19 | `dailymirrorlk-444b6361` | Namal remanded till December 2 over Airbus case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-444b6361)
 - 2026-11-19 | `dailymirrorlk-a748a122` | Boats warned as Cyclone Akvan intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a748a122)
 - 2026-11-19 | `dailymirrorlk-57b0ea24` | Trump, Xi and Putin show different priorities for China summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-57b0ea24)
-- 2026-11-19 | `dailymirrorlk-76a68e6b` | Historic US-China-Russia meeting held | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-76a68e6b)
-- 2026-11-19 | `dailymirrorlk-ccb924da` | Fire set at home of former Bangladesh interim leader | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-ccb924da)
 
 ---
 
