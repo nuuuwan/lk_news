@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 06:05:59",
-  "n_docs": 136203,
+  "time_updated": "2026-11-19 07:58:25",
+  "n_docs": 136218,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136203,
+  "n_docs_with_text": 136218,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2103932636,
+  "dataset_size": 2104071493,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailyftlk-4041d36c",
-    "num": "dailyftlk-4041d36c",
+    "doc_id": "2026-11-19-dailyftlk-33c3a41f",
+    "num": "dailyftlk-33c3a41f",
     "date_str": "2026-11-19",
-    "description": "Debate behind Budget debate",
-    "url_metadata": "https://www.ft.lk/columns/Debate-behind-Budget-debate/4-800268",
+    "description": "SriLankan secures Cabinet approval for $ 13 m aviation fuel contracts at four airports",
+    "url_metadata": "https://www.ft.lk/business/SriLankan-secures-Cabinet-approval-for-13-m-aviation-fuel-contracts-at-four-airports/34-800293",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1795047109.0
+    "time_ut": 1795052733.0
   }
 }
