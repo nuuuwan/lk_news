@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-19 11:59:59",
-  "n_docs": 136240,
+  "time_updated": "2026-11-19 13:54:44",
+  "n_docs": 136276,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136240,
+  "n_docs_with_text": 136276,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-19",
-  "dataset_size": 2104603421,
+  "dataset_size": 2104759982,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-a0c8050b",
-    "num": "dailymirrorlk-a0c8050b",
+    "doc_id": "2026-11-19-dailymirrorlk-894a1e5d",
+    "num": "dailymirrorlk-894a1e5d",
     "date_str": "2026-11-19",
-    "description": "Trump, Putin and Xi to hold historic meeting in China",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-Putin-and-Xi-to-hold-historic-meeting-in-China/107-355271",
+    "description": "Colombo students introduced to tourism and digital opportunities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-students-introduced-to-tourism-and-digital-opportunities/108-355284",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795067377.0
+    "time_ut": 1795073257.0
   }
 }

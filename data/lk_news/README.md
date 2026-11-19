@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_12:01:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_13:55:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,240** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-dailymirrorlk-a0c8050b",
-    "num": "dailymirrorlk-a0c8050b",
+    "doc_id": "2026-11-19-dailymirrorlk-894a1e5d",
+    "num": "dailymirrorlk-894a1e5d",
     "date_str": "2026-11-19",
-    "description": "Trump, Putin and Xi to hold historic meeting in China",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-Putin-and-Xi-to-hold-historic-meeting-in-China/107-355271",
+    "description": "Colombo students introduced to tourism and digital opportunities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-students-introduced-to-tourism-and-digital-opportunities/108-355284",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795067377.0
+    "time_ut": 1795073257.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-19 | `dailymirrorlk-894a1e5d` | Colombo students introduced to tourism and digital opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-894a1e5d)
+- 2026-11-19 | `dailymirrorlk-1b54f20d` | Bank impersonation scams hit Kandy: Over 12 complaints | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-1b54f20d)
+- 2026-11-19 | `dailymirrorlk-6e80a349` | No entry to Nil Diya Pokuna without wildlife permit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-6e80a349)
+- 2026-11-19 | `dailymirrorlk-54b37a7e` | Solar-powered street lights planned for elephant-prone roads in Tantirimale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-54b37a7e)
+- 2026-11-19 | `dailymirrorlk-a00e1e34` | World Odyssey brings 524 students to Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a00e1e34)
+- 2026-11-19 | `dailymirrorlk-2a4e8a07` | Walk-in services suspended at DMT Head Office from Nov. 23 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-2a4e8a07)
+- 2026-11-19 | `dailymirrorlk-aafb7713` | 40,000 unqualified individuals dispensing medicines in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-aafb7713)
+- 2026-11-19 | `dailymirrorlk-f265b26c` | Foreign remittances projected to reach record US$ 9 Billion this year: Vijitha Herath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-f265b26c)
+- 2026-11-19 | `dailymirrorlk-44110704` | Sri Lanka tops global youth optimism survey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-44110704)
+- 2026-11-19 | `dailymirrorlk-f327c947` | Sri Lankan rupee weakens against USD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-f327c947)
 - 2026-11-19 | `dailymirrorlk-a0c8050b` | Trump, Putin and Xi to hold historic meeting in China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a0c8050b)
 - 2026-11-19 | `dailymirrorlk-954de555` | Litro Gas incurs Rs. 800 million monthly loss to keep domestic prices low: Trade Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-954de555)
 - 2026-11-19 | `dailymirrorlk-1e5471d4` | Influenza sweeps across Sri Lanka as doctors urge caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-1e5471d4)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-11-19 | `virakesarilk-c9f35d86` | புத்தளத்தில் 1.75 கோடி ரூபா பெறுமதியான போதைப்பொருளுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-c9f35d86)
 - 2026-11-19 | `dailymirrorlk-822be853` | Air quality deteriorates in several areas due to external wind currents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-822be853)
 - 2026-11-19 | `virakesarilk-c50fba7c` | நில்திய பொக்குன பகுதியைப் பார்வையிடத் தற்காலிகத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-c50fba7c)
-- 2026-11-19 | `virakesarilk-a4ecf962` | நாட்டின் வெவ்வேறு பகுதிகளில் போதைப்பொருட்களுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-a4ecf962)
-- 2026-11-19 | `virakesarilk-3605a62d` | தம்புத்தேகமவில் வெளிநாட்டு துப்பாக்கி, தோட்டாக்களை வீசிவிட்டுத் தப்பியோடிய இரு சந்தேகநபர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-3605a62d)
-- 2026-11-19 | `virakesarilk-9e058218` | கடுவலையில் தீ விபத்து;  ஒரே குடும்பத்தைச் சேர்ந்த நால்வர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-9e058218)
-- 2026-11-19 | `dailymirrorlk-f0ae70af` | Negligence, possible poisoning concerns raised in Kawanthissa death inquiry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-f0ae70af)
-- 2026-11-19 | `virakesarilk-a5f93320` | சோமரத்ன ராஜபக்‌ஷ செம்மணியை மனிதப்புதைகுழியை  அடையாளம் காணிபித்த போது நானும் அங்கிருந்தேன் ;  விசாரணைகளுக்கு அவசியமான தகவல்கள், ஆவணங்களை வழங்கத் தயாராக இருக்கிறேன் ; கனடாவில் வசிக்கும் அருட்தந்தை பேர்னாட் யாழ் நீதிவான் நீதிமன்றில் சத்தியக்கடதாசி தாக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-a5f93320)
-- 2026-11-19 | `dailymirrorlk-eefe0b2f` | Two children among four killed in Kaduwela blaze | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-eefe0b2f)
-- 2026-11-19 | `dailyftlk-33c3a41f` | SriLankan secures Cabinet approval for $ 13 m aviation fuel contracts at four airports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-33c3a41f)
-- 2026-11-19 | `dailyftlk-48665a1c` | China flies 19-seat electric passenger plane for first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-48665a1c)
-- 2026-11-19 | `dailyftlk-bc011c0f` | Sri Lanka’s young people most optimistic in world: Oxford Scholastica Academy study | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-bc011c0f)
-- 2026-11-19 | `dailyftlk-e94c02a0` | CanCham Sri Lanka builds bridges for economic partnerships through mission to Canada | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-e94c02a0)
 
 ---
 
