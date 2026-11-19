@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_09:51:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--19_12:01:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,240** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-19-virakesarilk-3dbfb58a",
-    "num": "virakesarilk-3dbfb58a",
+    "doc_id": "2026-11-19-dailymirrorlk-a0c8050b",
+    "num": "dailymirrorlk-a0c8050b",
     "date_str": "2026-11-19",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb5\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/267351",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795061760.0
+    "description": "Trump, Putin and Xi to hold historic meeting in China",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-Putin-and-Xi-to-hold-historic-meeting-in-China/107-355271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795067377.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-19 | `dailymirrorlk-a0c8050b` | Trump, Putin and Xi to hold historic meeting in China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-a0c8050b)
+- 2026-11-19 | `dailymirrorlk-954de555` | Litro Gas incurs Rs. 800 million monthly loss to keep domestic prices low: Trade Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-954de555)
+- 2026-11-19 | `dailymirrorlk-1e5471d4` | Influenza sweeps across Sri Lanka as doctors urge caution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-1e5471d4)
+- 2026-11-19 | `dailymirrorlk-7877e3cd` | Colombo to remove unauthorised structures obstructing drainage system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-7877e3cd)
+- 2026-11-19 | `dailymirrorlk-49ad38b8` | Govt. firm against releasing substandard chilli containers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-49ad38b8)
+- 2026-11-19 | `dailymirrorlk-db5a5016` | Rs. 3.5 billion Indian chilli imports held up at port; exporters seek diplomatic intervention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-db5a5016)
 - 2026-11-19 | `virakesarilk-3dbfb58a` | நாட்டின் வெவ்வேறு பகுதிகளில் அடையாளம் தெரியாத இரண்டு சடலங்கள் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-3dbfb58a)
 - 2026-11-19 | `virakesarilk-c9f35d86` | புத்தளத்தில் 1.75 கோடி ரூபா பெறுமதியான போதைப்பொருளுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-virakesarilk-c9f35d86)
 - 2026-11-19 | `dailymirrorlk-822be853` | Air quality deteriorates in several areas due to external wind currents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailymirrorlk-822be853)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-19 | `dailyftlk-48665a1c` | China flies 19-seat electric passenger plane for first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-48665a1c)
 - 2026-11-19 | `dailyftlk-bc011c0f` | Sri Lanka’s young people most optimistic in world: Oxford Scholastica Academy study | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-bc011c0f)
 - 2026-11-19 | `dailyftlk-e94c02a0` | CanCham Sri Lanka builds bridges for economic partnerships through mission to Canada | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-e94c02a0)
-- 2026-11-19 | `dailyftlk-ab1b2e2c` | Economists to focus on knowledge economy as Sri Lanka grapples with eroding return on capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-ab1b2e2c)
-- 2026-11-19 | `dailyftlk-75778b61` | Prime Lands Residencies delivers higher 1H revenue growth and profitability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-75778b61)
-- 2026-11-19 | `dailyftlk-381ec208` | Seven new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-381ec208)
-- 2026-11-19 | `dailyftlk-74daa7bb` | Court of Appeal upholds Gnanasara Thera’s sentence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-74daa7bb)
-- 2026-11-19 | `dailyftlk-dd3af75b` | High Court suspends Namal Rajapaksa’s bail in Krrish case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-dd3af75b)
-- 2026-11-19 | `dailyftlk-6c5c2f69` | Rajanganaya Saddharathana Thera remanded over Ruwanweliseya clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-19-dailyftlk-6c5c2f69)
 
 ---
 

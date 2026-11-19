@@ -113186,5 +113186,71 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795061760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-db5a5016",
+    "num": "dailymirrorlk-db5a5016",
+    "date_str": "2026-11-19",
+    "description": "Rs. 3.5 billion Indian chilli imports held up at port; exporters seek diplomatic intervention",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-3-5-billion-Indian-chilli-imports-held-up-at-port-exporters-seek-diplomatic-intervention/108-355265",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795065918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-49ad38b8",
+    "num": "dailymirrorlk-49ad38b8",
+    "date_str": "2026-11-19",
+    "description": "Govt. firm against releasing substandard chilli containers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-firm-against-releasing-substandard-chilli-containers/108-355266",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795066095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-7877e3cd",
+    "num": "dailymirrorlk-7877e3cd",
+    "date_str": "2026-11-19",
+    "description": "Colombo to remove unauthorised structures obstructing drainage system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-to-remove-unauthorised-structures-obstructing-drainage-system/108-355267",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795066342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-1e5471d4",
+    "num": "dailymirrorlk-1e5471d4",
+    "date_str": "2026-11-19",
+    "description": "Influenza sweeps across Sri Lanka as doctors urge caution",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Influenza-sweeps-across-Sri-Lanka-as-doctors-urge-caution/108-355268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795066561.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-954de555",
+    "num": "dailymirrorlk-954de555",
+    "date_str": "2026-11-19",
+    "description": "Litro Gas incurs Rs. 800 million monthly loss to keep domestic prices low: Trade Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Litro-Gas-incurs-Rs-800-million-monthly-loss-to-keep-domestic-prices-low-Trade-Minister/108-355269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795066847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailymirrorlk-a0c8050b",
+    "num": "dailymirrorlk-a0c8050b",
+    "date_str": "2026-11-19",
+    "description": "Trump, Putin and Xi to hold historic meeting in China",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-Putin-and-Xi-to-hold-historic-meeting-in-China/107-355271",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795067377.0
   }
 ]
