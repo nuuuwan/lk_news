@@ -112823,5 +112823,27 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795017060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailyftlk-e4ead3de",
+    "num": "dailyftlk-e4ead3de",
+    "date_str": "2026-11-19",
+    "description": "$ 500 m epic gambit: Can Ramayana globalise Indian cinema and redefine its most ancient story?",
+    "url_metadata": "https://www.ft.lk/columns/500-m-epic-gambit-Can-Ramayana-globalise-Indian-cinema-and-redefine-its-most-ancient-story/4-800267",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795046011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-19-dailyftlk-4041d36c",
+    "num": "dailyftlk-4041d36c",
+    "date_str": "2026-11-19",
+    "description": "Debate behind Budget debate",
+    "url_metadata": "https://www.ft.lk/columns/Debate-behind-Budget-debate/4-800268",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795047109.0
   }
 ]
