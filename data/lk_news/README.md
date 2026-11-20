@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_19:53:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_21:53:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,452** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-20-dailymirrorlk-b864884a",
-    "num": "dailymirrorlk-b864884a",
+    "doc_id": "2026-11-20-dailymirrorlk-ff35eba3",
+    "num": "dailymirrorlk-ff35eba3",
     "date_str": "2026-11-20",
-    "description": "Parliament approves second reading of Budget 2027",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-second-reading-of-Budget-2027/108-355417",
+    "description": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue",
+    "url_metadata": "https://www.dailymirror.lk/international/Over-314-000-older-Toyota-and-Lexus-vehicles-recalled-for-potentially-dangerous-airbag-issue/107-355421",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795181807.0
+    "time_ut": 1795184772.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-20 | `dailymirrorlk-ff35eba3` | Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-ff35eba3)
 - 2026-11-20 | `dailymirrorlk-b864884a` | Parliament approves second reading of Budget 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b864884a)
 - 2026-11-20 | `dailymirrorlk-b0292801` | CBSL introduces new rules on vehicle valuations for loans and leases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b0292801)
 - 2026-11-20 | `dailymirrorlk-fe9b1f03` | Afternoon thundershowers expected across several parts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-fe9b1f03)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-20 | `dailymirrorlk-13e90541` | GTA 6 breaks records as estimated sales top $2.3bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-13e90541)
 - 2026-11-20 | `dailymirrorlk-5e03fab2` | White House replaces cyber security chief after tech outages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-5e03fab2)
 - 2026-11-20 | `virakesarilk-d84de403` | கோவாவில் நடைபெறும் 57-வது இந்திய சர்வதேச திரைப்பட விழாவில் திரையிடத் தெரிவுச்செய்யப்பட்ட 'கூடு'' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-d84de403)
-- 2026-11-20 | `dailymirrorlk-4822d167` | Police seek public help to arrest Ahungalla shooting suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-4822d167)
 
 ---
 

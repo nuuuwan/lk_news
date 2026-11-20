@@ -115573,5 +115573,16 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795181807.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-ff35eba3",
+    "num": "dailymirrorlk-ff35eba3",
+    "date_str": "2026-11-20",
+    "description": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue",
+    "url_metadata": "https://www.dailymirror.lk/international/Over-314-000-older-Toyota-and-Lexus-vehicles-recalled-for-potentially-dangerous-airbag-issue/107-355421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795184772.0
   }
 ]
