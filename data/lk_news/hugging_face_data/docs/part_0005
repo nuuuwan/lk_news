@@ -115540,5 +115540,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795174268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-fe9b1f03",
+    "num": "dailymirrorlk-fe9b1f03",
+    "date_str": "2026-11-20",
+    "description": "Afternoon thundershowers expected across several parts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Afternoon-thundershowers-expected-across-several-parts/108-355415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795179058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-b0292801",
+    "num": "dailymirrorlk-b0292801",
+    "date_str": "2026-11-20",
+    "description": "CBSL introduces new rules on vehicle valuations for loans and leases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CBSL-introduces-new-rules-on-vehicle-valuations-for-loans-and-leases/108-355416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795181684.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-b864884a",
+    "num": "dailymirrorlk-b864884a",
+    "date_str": "2026-11-20",
+    "description": "Parliament approves second reading of Budget 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-second-reading-of-Budget-2027/108-355417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795181807.0
   }
 ]
