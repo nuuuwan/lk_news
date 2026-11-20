@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-20 15:50:45",
-  "n_docs": 136442,
+  "time_updated": "2026-11-20 17:55:27",
+  "n_docs": 136448,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136442,
+  "n_docs_with_text": 136448,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-20",
-  "dataset_size": 2106851252,
+  "dataset_size": 2107268696,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-20-dailymirrorlk-7fbac991",
-    "num": "dailymirrorlk-7fbac991",
+    "doc_id": "2026-11-20-dailymirrorlk-0ab016f4",
+    "num": "dailymirrorlk-0ab016f4",
     "date_str": "2026-11-20",
-    "description": "Sri Lanka welcomes two millionth tourist of 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-welcomes-two-millionth-tourist-of-2026/108-355407",
+    "description": "Poland says Russian missile hit its territory during attack on Ukraine",
+    "url_metadata": "https://www.dailymirror.lk/international/Poland-says-Russian-missile-hit-its-territory-during-attack-on-Ukraine/107-355414",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795169212.0
+    "time_ut": 1795174268.0
   }
 }

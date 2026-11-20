@@ -115474,5 +115474,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795169212.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-76beb95b",
+    "num": "dailymirrorlk-76beb95b",
+    "date_str": "2026-11-20",
+    "description": "Ayurvedic medical officers stage protest...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Ayurvedic-medical-officers-stage-protest/110-355408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795169334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-c0c413bf",
+    "num": "dailymirrorlk-c0c413bf",
+    "date_str": "2026-11-20",
+    "description": "Two millionth tourist arrives",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Two-millionth-tourist-arrives/110-355409",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795169484.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-2d47b50e",
+    "num": "dailymirrorlk-2d47b50e",
+    "date_str": "2026-11-20",
+    "description": "Seven new airlines enter Sri Lanka over past two years",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seven-new-airlines-enter-Sri-Lanka-over-past-two-years/108-355410",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795170116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-14620067",
+    "num": "dailymirrorlk-14620067",
+    "date_str": "2026-11-20",
+    "description": "CEA warns of deteriorating air quality in several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-warns-of-deteriorating-air-quality-in-several-areas/108-355412",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795172106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-123c85c9",
+    "num": "dailymirrorlk-123c85c9",
+    "date_str": "2026-11-20",
+    "description": "FBI team visits Sri Lanka for scam probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-team-visits-Sri-Lanka-for-scam-probe/108-355413",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795172454.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-0ab016f4",
+    "num": "dailymirrorlk-0ab016f4",
+    "date_str": "2026-11-20",
+    "description": "Poland says Russian missile hit its territory during attack on Ukraine",
+    "url_metadata": "https://www.dailymirror.lk/international/Poland-says-Russian-missile-hit-its-territory-during-attack-on-Ukraine/107-355414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795174268.0
   }
 ]

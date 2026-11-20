@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_15:51:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_17:56:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,442** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,448** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-20-dailymirrorlk-7fbac991",
-    "num": "dailymirrorlk-7fbac991",
+    "doc_id": "2026-11-20-dailymirrorlk-0ab016f4",
+    "num": "dailymirrorlk-0ab016f4",
     "date_str": "2026-11-20",
-    "description": "Sri Lanka welcomes two millionth tourist of 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-welcomes-two-millionth-tourist-of-2026/108-355407",
+    "description": "Poland says Russian missile hit its territory during attack on Ukraine",
+    "url_metadata": "https://www.dailymirror.lk/international/Poland-says-Russian-missile-hit-its-territory-during-attack-on-Ukraine/107-355414",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795169212.0
+    "time_ut": 1795174268.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-20 | `dailymirrorlk-0ab016f4` | Poland says Russian missile hit its territory during attack on Ukraine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-0ab016f4)
+- 2026-11-20 | `dailymirrorlk-123c85c9` | FBI team visits Sri Lanka for scam probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-123c85c9)
+- 2026-11-20 | `dailymirrorlk-14620067` | CEA warns of deteriorating air quality in several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-14620067)
+- 2026-11-20 | `dailymirrorlk-2d47b50e` | Seven new airlines enter Sri Lanka over past two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-2d47b50e)
+- 2026-11-20 | `dailymirrorlk-c0c413bf` | Two millionth tourist arrives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-c0c413bf)
+- 2026-11-20 | `dailymirrorlk-76beb95b` | Ayurvedic medical officers stage protest... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-76beb95b)
 - 2026-11-20 | `dailymirrorlk-7fbac991` | Sri Lanka welcomes two millionth tourist of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-7fbac991)
 - 2026-11-20 | `virakesarilk-bb58f617` | நடிகர் ஜீவா நடிக்கும் 'தகப்பன்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-bb58f617)
 - 2026-11-20 | `virakesarilk-400d1279` | தமிழில் அறிமுகமாகும் தெலுங்கு நடிகர் ராம் நிதின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-400d1279)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-20 | `virakesarilk-023dd831` | அபிவிருத்தி நிதி ஒதுக்கீடு குறித்து அரசாங்கம் முறையான விளக்கமளிக்க வேண்டும் – முன்னாள் எம்.பி. சஞ்சீவ எதிரிமான்ன வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-023dd831)
 - 2026-11-20 | `dailymirrorlk-a61f0f72` | ‘Builders Gateway’ opens at former residence of Hema Premadasa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-a61f0f72)
 - 2026-11-20 | `virakesarilk-8bb48325` | ஆண் குழந்தைக்கு தாயானார் சமந்தா! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-8bb48325)
-- 2026-11-20 | `dailymirrorlk-b37ec260` | IRGC warns US bases in Europe could be targeted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b37ec260)
-- 2026-11-20 | `dailymirrorlk-55318baf` | Opposition MP’s adjournment motion calling for release of Imran Khan rejected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-55318baf)
-- 2026-11-20 | `virakesarilk-73122704` | 'ரொட்டும்ப அமில' குற்றப் புலனாய்வுத் திணைக்களத்திற்கு அழைத்துச் செல்லப்பட்டார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-73122704)
-- 2026-11-20 | `virakesarilk-36666fba` | புத்தளம் மற்றும் மஹரகமவில் இடம்பெற்ற வெவ்வேறு விபத்துக்களில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-36666fba)
-- 2026-11-20 | `virakesarilk-bc85e5cc` | மஸ்கெலியா புனித சூசையப்பர் தேசிய பாடசாலையின் மாணவர்கள் திடீர் சுவாசக் கோளாறு காரணமாக வைத்தியசாலையில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-bc85e5cc)
-- 2026-11-20 | `dailymirrorlk-fd978802` | CBSL Governor warns inflation could rise to 9% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-fd978802)
 
 ---
 
