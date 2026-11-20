@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-20 23:53:32",
-  "n_docs": 136452,
+  "time_updated": "2026-11-21 01:51:49",
+  "n_docs": 136471,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136452,
+  "n_docs_with_text": 136471,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-20",
-  "dataset_size": 2107315145,
+  "date_str_max": "2026-11-21",
+  "dataset_size": 2107420695,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-20-dailymirrorlk-ff35eba3",
-    "num": "dailymirrorlk-ff35eba3",
-    "date_str": "2026-11-20",
-    "description": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue",
-    "url_metadata": "https://www.dailymirror.lk/international/Over-314-000-older-Toyota-and-Lexus-vehicles-recalled-for-potentially-dangerous-airbag-issue/107-355421",
+    "doc_id": "2026-11-21-dailyftlk-02b2ee2f",
+    "num": "dailyftlk-02b2ee2f",
+    "date_str": "2026-11-21",
+    "description": "Justice for All urges President to withdraw anti-terror, organised crime Bills",
+    "url_metadata": "https://www.ft.lk/news/Justice-for-All-urges-President-to-withdraw-anti-terror-organised-crime-Bills/56-800412",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795184772.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795199870.0
   }
 }
