@@ -114594,5 +114594,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795139382.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-7219c71c",
+    "num": "dailymirrorlk-7219c71c",
+    "date_str": "2026-11-20",
+    "description": "Central Bank hikes policy rate to 9% as inflation surges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Bank-hikes-policy-rate-to-9-as-inflation-surges/108-355337",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795147344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-9b28c0c1",
+    "num": "dailymirrorlk-9b28c0c1",
+    "date_str": "2026-11-20",
+    "description": "SriLankan Airlines reclaims top inflight Entertainment Award in Asia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-reclaims-top-inflight-Entertainment-Award-in-Asia/108-355338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795147413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-97b62fc7",
+    "num": "dailymirrorlk-97b62fc7",
+    "date_str": "2026-11-20",
+    "description": "Thai Deputy PM to visit Sri Lanka; visa-free travel deal on agenda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thai-Deputy-PM-to-visit-Sri-Lanka-visa-free-travel-deal-on-agenda/108-355340",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795147780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-7cf6c7c3",
+    "num": "dailymirrorlk-7cf6c7c3",
+    "date_str": "2026-11-20",
+    "description": "India to approve 60 smart classrooms within 10 days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-to-approve-60-smart-classrooms-within-10-days/108-355341",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795148173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-dda67331",
+    "num": "dailymirrorlk-dda67331",
+    "date_str": "2026-11-20",
+    "description": "Globally adored hippo Fiona dies after eating a visitor\u2019s hat at Cincinnati Zoo",
+    "url_metadata": "https://www.dailymirror.lk/international/Globally-adored-hippo-Fiona-dies-after-eating-a-visitors-hat-at-Cincinnati-Zoo/107-355342",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795148397.0
   }
 ]
