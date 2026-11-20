@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_13:55:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_15:51:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,406** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,442** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-20-dailymirrorlk-360f8939",
-    "num": "dailymirrorlk-360f8939",
+    "doc_id": "2026-11-20-dailymirrorlk-7fbac991",
+    "num": "dailymirrorlk-7fbac991",
     "date_str": "2026-11-20",
-    "description": "Fitch upgrades six Sri Lankan insurers after sovereign rating lift",
-    "url_metadata": "https://www.dailymirror.lk/business/Fitch-upgrades-six-Sri-Lankan-insurers-after-sovereign-rating-lift/215-355394",
+    "description": "Sri Lanka welcomes two millionth tourist of 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-welcomes-two-millionth-tourist-of-2026/108-355407",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795158822.0
+    "time_ut": 1795169212.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-11-20 | `dailymirrorlk-360f8939` | Fitch upgrades six Sri Lankan insurers after sovereign rating lift | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-360f8939)
-- 2026-11-20 | `dailymirrorlk-ee3485c3` | Colombo Port set to break 2025 record a month early as transshipment jumps 10% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-ee3485c3)
-- 2026-11-20 | `dailymirrorlk-f1baf138` | People’s Bank named Sri Lanka’s Best Digital Bank at Euromoney Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-f1baf138)
-- 2026-11-20 | `dailymirrorlk-35a7f10f` | SriLankan could break even by end 2026: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-35a7f10f)
-- 2026-11-20 | `dailymirrorlk-29e44671` | Breathing difficulties send 36 students to hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-29e44671)
-- 2026-11-20 | `dailymirrorlk-b042bb0b` | NPP only government to professionally conclude IMF Programme: Bimal Rathnayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b042bb0b)
-- 2026-11-20 | `dailymirrorlk-1a8dca4a` | Nigeria moves to end jail terms for attempted suicide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-1a8dca4a)
-- 2026-11-20 | `dailymirrorlk-b99ac19d` | Sungrow sees Galle battery plant as template for Sri Lanka’s grid storage build-out | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b99ac19d)
-- 2026-11-20 | `dailymirrorlk-e074bae7` | Investors adopt wait-and-see stance ahead of policy decision | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-e074bae7)
-- 2026-11-20 | `dailymirrorlk-12f440de` | Parliamentary Committee approves new Immigration Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-12f440de)
-- 2026-11-20 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-821a32a1)
-- 2026-11-20 | `dailymirrorlk-126acfc1` | Restored Golden Canopy of Sri Dalada Maligawa unveiled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-126acfc1)
-- 2026-11-20 | `dailymirrorlk-e4d9e4c4` | Advisory Committee on Marine-Based Industries holds inaugural meeting to drive industry growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-e4d9e4c4)
-- 2026-11-20 | `dailymirrorlk-22be68bc` | ComBank becomes only SL institution among Asia-Pacific’s top debit card issuers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-22be68bc)
-- 2026-11-20 | `dailymirrorlk-3b6d461b` | Australian High Commissioner highlights bilateral ties in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-3b6d461b)
-- 2026-11-20 | `dailymirrorlk-b4bf0d37` | Prime Lands Residencies delivers higher revenue growth and profitability in 1H FY2026/27 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b4bf0d37)
-- 2026-11-20 | `dailymirrorlk-04e0af0e` | Mahela Jayawardene appointed Delhi Capitals Director of Cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-04e0af0e)
-- 2026-11-20 | `dailymirrorlk-4e8a11a6` | NURA set to launch in early 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-4e8a11a6)
-- 2026-11-20 | `dailymirrorlk-db522adc` | Colombo Port City grants rule-based incentives with clear eligibility and approval framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-db522adc)
-- 2026-11-20 | `dailymirrorlk-1ee1b398` | NSBM featured in ACU report as a successful higher education financing model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-1ee1b398)
+- 2026-11-20 | `dailymirrorlk-7fbac991` | Sri Lanka welcomes two millionth tourist of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-7fbac991)
+- 2026-11-20 | `virakesarilk-bb58f617` | நடிகர் ஜீவா நடிக்கும் 'தகப்பன்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-bb58f617)
+- 2026-11-20 | `virakesarilk-400d1279` | தமிழில் அறிமுகமாகும் தெலுங்கு நடிகர் ராம் நிதின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-400d1279)
+- 2026-11-20 | `virakesarilk-eb84a8f3` | ஹட்டன் பொதுச் சந்தையில் மேலும் பல அனுமதியற்ற கட்டுமானங்கள் அகற்றம் – நகர அபிவிருத்திக்கு வர்த்தகர்கள் வரவேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-eb84a8f3)
+- 2026-11-20 | `dailymirrorlk-f257cad4` | 2,100 cannabis plants seized in Monaragala forest reserve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-f257cad4)
+- 2026-11-20 | `virakesarilk-857d8d5f` | மட்டக்களப்பில் காற்று மாசடைவால் இயல்பு வாழ்க்கையில் பாதிப்பு: சுகாதாரத் தரப்பினர் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-857d8d5f)
+- 2026-11-20 | `virakesarilk-f044b84d` | தடைசெய்யப்பட்ட 274 மீன்பிடி வலைகளுடன் சந்தேகநபர் ஒருவர் யாழ்ப்பாணத்தில் சட்டத்தின் பிடியில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-f044b84d)
+- 2026-11-20 | `dailymirrorlk-13e90541` | GTA 6 breaks records as estimated sales top $2.3bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-13e90541)
+- 2026-11-20 | `dailymirrorlk-5e03fab2` | White House replaces cyber security chief after tech outages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-5e03fab2)
+- 2026-11-20 | `virakesarilk-d84de403` | கோவாவில் நடைபெறும் 57-வது இந்திய சர்வதேச திரைப்பட விழாவில் திரையிடத் தெரிவுச்செய்யப்பட்ட 'கூடு'' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-d84de403)
+- 2026-11-20 | `dailymirrorlk-4822d167` | Police seek public help to arrest Ahungalla shooting suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-4822d167)
+- 2026-11-20 | `virakesarilk-023dd831` | அபிவிருத்தி நிதி ஒதுக்கீடு குறித்து அரசாங்கம் முறையான விளக்கமளிக்க வேண்டும் – முன்னாள் எம்.பி. சஞ்சீவ எதிரிமான்ன வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-023dd831)
+- 2026-11-20 | `dailymirrorlk-a61f0f72` | ‘Builders Gateway’ opens at former residence of Hema Premadasa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-a61f0f72)
+- 2026-11-20 | `virakesarilk-8bb48325` | ஆண் குழந்தைக்கு தாயானார் சமந்தா! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-8bb48325)
+- 2026-11-20 | `dailymirrorlk-b37ec260` | IRGC warns US bases in Europe could be targeted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-b37ec260)
+- 2026-11-20 | `dailymirrorlk-55318baf` | Opposition MP’s adjournment motion calling for release of Imran Khan rejected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-55318baf)
+- 2026-11-20 | `virakesarilk-73122704` | 'ரொட்டும்ப அமில' குற்றப் புலனாய்வுத் திணைக்களத்திற்கு அழைத்துச் செல்லப்பட்டார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-73122704)
+- 2026-11-20 | `virakesarilk-36666fba` | புத்தளம் மற்றும் மஹரகமவில் இடம்பெற்ற வெவ்வேறு விபத்துக்களில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-36666fba)
+- 2026-11-20 | `virakesarilk-bc85e5cc` | மஸ்கெலியா புனித சூசையப்பர் தேசிய பாடசாலையின் மாணவர்கள் திடீர் சுவாசக் கோளாறு காரணமாக வைத்தியசாலையில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-virakesarilk-bc85e5cc)
+- 2026-11-20 | `dailymirrorlk-fd978802` | CBSL Governor warns inflation could rise to 9% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-fd978802)
 
 ---
 
