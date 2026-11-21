@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-21 09:51:53",
-  "n_docs": 136478,
+  "time_updated": "2026-11-21 11:57:09",
+  "n_docs": 136483,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136478,
+  "n_docs_with_text": 136483,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-21",
-  "dataset_size": 2107667634,
+  "dataset_size": 2107714810,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailymirrorlk-da4a5249",
-    "num": "dailymirrorlk-da4a5249",
+    "doc_id": "2026-11-21-dailymirrorlk-35c976b6",
+    "num": "dailymirrorlk-35c976b6",
     "date_str": "2026-11-21",
-    "description": "The FBI was hacked again, this time the breach targeted its crime database",
-    "url_metadata": "https://www.dailymirror.lk/international/The-FBI-was-hacked-again-this-time-the-breach-targeted-its-crime-database/107-355437",
+    "description": "Govt allocates Rs. 34 Million for former presidents in 2027 Budget: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-allocates-Rs-34-Million-for-former-presidents-in-2027-Budget-Minister/108-355440",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795233531.0
+    "time_ut": 1795240551.0
   }
 }
