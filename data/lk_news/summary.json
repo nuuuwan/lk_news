@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-21 11:57:09",
-  "n_docs": 136483,
+  "time_updated": "2026-11-21 13:53:00",
+  "n_docs": 136509,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136483,
+  "n_docs_with_text": 136509,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-21",
-  "dataset_size": 2107714810,
+  "dataset_size": 2107835935,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailymirrorlk-35c976b6",
-    "num": "dailymirrorlk-35c976b6",
+    "doc_id": "2026-11-21-dailymirrorlk-eed34f5f",
+    "num": "dailymirrorlk-eed34f5f",
     "date_str": "2026-11-21",
-    "description": "Govt allocates Rs. 34 Million for former presidents in 2027 Budget: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-allocates-Rs-34-Million-for-former-presidents-in-2027-Budget-Minister/108-355440",
+    "description": "CBSL springs rate surprise",
+    "url_metadata": "https://www.dailymirror.lk/business/CBSL-springs-rate-surprise/215-355462",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795240551.0
+    "time_ut": 1795247587.0
   }
 }
