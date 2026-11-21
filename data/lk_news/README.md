@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_15:50:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_17:54:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,509** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,515** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailymirrorlk-eed34f5f",
-    "num": "dailymirrorlk-eed34f5f",
+    "doc_id": "2026-11-21-dailymirrorlk-a56dfa4f",
+    "num": "dailymirrorlk-a56dfa4f",
     "date_str": "2026-11-21",
-    "description": "CBSL springs rate surprise",
-    "url_metadata": "https://www.dailymirror.lk/business/CBSL-springs-rate-surprise/215-355462",
+    "description": "Rs. 1.66 billion spent on 72 stalled education projects",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-1-66-billion-spent-on-72-stalled-education-projects/108-355482",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795247587.0
+    "time_ut": 1795261294.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-21 | `dailymirrorlk-a56dfa4f` | Rs. 1.66 billion spent on 72 stalled education projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-a56dfa4f)
+- 2026-11-21 | `dailymirrorlk-898241c7` | New apartment complexes planned for Colombo by 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-898241c7)
+- 2026-11-21 | `dailymirrorlk-e94821c3` | No tsunami threat to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-e94821c3)
+- 2026-11-21 | `dailymirrorlk-514cf641` | Four Deduru Oya reservoir gates opened due to heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-514cf641)
+- 2026-11-21 | `dailymirrorlk-bc1e1fa1` | Youth skills campaign to cover 14,008 GN divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-bc1e1fa1)
+- 2026-11-21 | `dailymirrorlk-d0c44607` | Have courage to face your opponents at the Polls: Dayasiri tells Government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-d0c44607)
 - 2026-11-21 | `dailymirrorlk-eed34f5f` | CBSL springs rate surprise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-eed34f5f)
 - 2026-11-21 | `dailymirrorlk-7bd8306e` | Sri Lanka hits 2mn tourists for 3rd conservative year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-7bd8306e)
 - 2026-11-21 | `dailymirrorlk-8079ebf5` | CRIB expands credit information ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-8079ebf5)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-21 | `dailymirrorlk-12fc517c` | NBSL recognises employee excellence and achievements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-12fc517c)
 - 2026-11-21 | `dailymirrorlk-a7daacd4` | Browns Deals brings world-class entertainment home this World Television Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-a7daacd4)
 - 2026-11-21 | `dailymirrorlk-d5d104d6` | LOLC Life Assurance top sales performers tour Switzerland and Vietnam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-d5d104d6)
-- 2026-11-21 | `dailymirrorlk-cb607c22` | Chinese Dragon Café opens 15th outlet in Kandy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-cb607c22)
-- 2026-11-21 | `dailymirrorlk-bb7f4a89` | Chatham Luxury-IWC Schaffhausen host watchmaking workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-bb7f4a89)
-- 2026-11-21 | `dailymirrorlk-9844bba2` | LLD unites diverse ventures under one vision | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-9844bba2)
-- 2026-11-21 | `dailymirrorlk-50d81141` | Full’r Burgers brings seasonal innovation to Sri Lanka with Halloween campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-50d81141)
-- 2026-11-21 | `dailymirrorlk-dadf3b8f` | Tudawe Trading Company opens 4th automated car-wash facility in Wattala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-dadf3b8f)
-- 2026-11-21 | `dailymirrorlk-3b13187a` | Two feared drowned while bathing in sea off Nintavur | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-3b13187a)
 
 ---
 
