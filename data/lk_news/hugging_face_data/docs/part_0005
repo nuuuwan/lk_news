@@ -116236,6 +116236,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-642e2f51",
+    "num": "dailymirrorlk-642e2f51",
+    "date_str": "2026-11-21",
+    "description": "Dayasiri challenges mandatory remand powers in Namal\u2019s case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dayasiri-challenges-mandatory-remand-powers-in-Namals-case/108-355477",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795256819.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-21-dailymirrorlk-514cf641",
     "num": "dailymirrorlk-514cf641",
     "date_str": "2026-11-21",
@@ -116258,6 +116269,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-05b85454",
+    "num": "dailymirrorlk-05b85454",
+    "date_str": "2026-11-21",
+    "description": "Parliamentary Committee calls for proper recycling and disposal of electric vehicle batteries",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-calls-for-proper-recycling-and-disposal-of-electric-vehicle-batteries/108-355480",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795258108.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-21-dailymirrorlk-898241c7",
     "num": "dailymirrorlk-898241c7",
     "date_str": "2026-11-21",
@@ -116277,5 +116299,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795261294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-4cf81037",
+    "num": "dailymirrorlk-4cf81037",
+    "date_str": "2026-11-21",
+    "description": "Parliament approves 2027 expenditure heads for President, legislature and judiciary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-approves-2027-expenditure-heads-for-President-legislature-and-judiciary/108-355483",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795265960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-b04d8252",
+    "num": "dailymirrorlk-b04d8252",
+    "date_str": "2026-11-21",
+    "description": "SJB MP questions Namal Rajapaksa\u2019s continued remand, cites Bail Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-MP-questions-Namal-Rajapaksas-continued-remand-cites-Bail-Act/108-355484",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795266754.0
   }
 ]
