@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_19:52:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_21:52:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,519** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,520** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailymirrorlk-b04d8252",
-    "num": "dailymirrorlk-b04d8252",
+    "doc_id": "2026-11-21-dailymirrorlk-f5c5d93c",
+    "num": "dailymirrorlk-f5c5d93c",
     "date_str": "2026-11-21",
-    "description": "SJB MP questions Namal Rajapaksa\u2019s continued remand, cites Bail Act",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-MP-questions-Namal-Rajapaksas-continued-remand-cites-Bail-Act/108-355484",
+    "description": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "url_metadata": "https://www.dailymirror.lk/international/Tankers-hit-in-Strait-of-Hormuz-as-Iran-tightens-grip-on-shipping/107-355486",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795266754.0
+    "time_ut": 1795276258.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-21 | `dailymirrorlk-f5c5d93c` | Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-f5c5d93c)
 - 2026-11-21 | `dailymirrorlk-b04d8252` | SJB MP questions Namal Rajapaksa’s continued remand, cites Bail Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-b04d8252)
 - 2026-11-21 | `dailymirrorlk-4cf81037` | Parliament approves 2027 expenditure heads for President, legislature and judiciary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-4cf81037)
 - 2026-11-21 | `dailymirrorlk-a56dfa4f` | Rs. 1.66 billion spent on 72 stalled education projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-a56dfa4f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-21 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-421ed8bb)
 - 2026-11-21 | `dailymirrorlk-3537a30e` | Cargills Bank-Mastercard introduce  Sri Lanka’s 1st ocean plastic debit card | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-3537a30e)
 - 2026-11-21 | `dailymirrorlk-520747ab` | Ting debuts with new approach to how SL shops, sells, delivers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-520747ab)
-- 2026-11-21 | `dailymirrorlk-0b353333` | BOC opens new CRM machine at Madhu Shrine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-0b353333)
 
 ---
 
