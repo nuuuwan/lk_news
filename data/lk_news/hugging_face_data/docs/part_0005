@@ -115576,6 +115576,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-20-dailymirrorlk-f5a753e1",
+    "num": "dailymirrorlk-f5a753e1",
+    "date_str": "2026-11-20",
+    "description": "Appeal Court sets 13-year jail term for Hindu Poosari over rape of war-displaced student",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeal-Court-sets-13-year-jail-term-for-Hindu-Poosari-over-rape-of-war-displaced-student/108-355418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795181924.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-20-dailymirrorlk-ff35eba3",
     "num": "dailymirrorlk-ff35eba3",
     "date_str": "2026-11-20",
@@ -115793,5 +115804,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795199870.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-e9171ea3",
+    "num": "dailymirrorlk-e9171ea3",
+    "date_str": "2026-11-21",
+    "description": "Afternoon thundershowers expected across most parts of the island in coming days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Afternoon-thundershowers-expected-across-most-parts-of-the-island-in-coming-days/108-355432",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795228585.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-9e3639d1",
+    "num": "dailymirrorlk-9e3639d1",
+    "date_str": "2026-11-21",
+    "description": "Landslide warnings issued for three districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-three-districts/108-355433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795229382.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-cb455a7f",
+    "num": "dailymirrorlk-cb455a7f",
+    "date_str": "2026-11-21",
+    "description": "Russian missile hits Poland as Ukraine\u2019s allies hold military exercise, says Tusk",
+    "url_metadata": "https://www.dailymirror.lk/international/Russian-missile-hits-Poland-as-Ukraines-allies-hold-military-exercise-says-Tusk/107-355434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795229705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-72795bcb",
+    "num": "dailymirrorlk-72795bcb",
+    "date_str": "2026-11-21",
+    "description": "Thai Deputy Prime Minister arrives in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thai-Deputy-Prime-Minister-arrives-in-Sri-Lanka/108-355435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795230171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-4ab0b8a3",
+    "num": "dailymirrorlk-4ab0b8a3",
+    "date_str": "2026-11-21",
+    "description": "NASA astronaut shares stunning view of Sri Lanka from space",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NASA-astronaut-shares-stunning-view-of-Sri-Lanka-from-space/108-355436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795233118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-21-dailymirrorlk-da4a5249",
+    "num": "dailymirrorlk-da4a5249",
+    "date_str": "2026-11-21",
+    "description": "The FBI was hacked again, this time the breach targeted its crime database",
+    "url_metadata": "https://www.dailymirror.lk/international/The-FBI-was-hacked-again-this-time-the-breach-targeted-its-crime-database/107-355437",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795233531.0
   }
 ]

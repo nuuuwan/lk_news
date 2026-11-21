@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_07:55:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--21_09:52:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,471** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,478** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailyftlk-02b2ee2f",
-    "num": "dailyftlk-02b2ee2f",
+    "doc_id": "2026-11-21-dailymirrorlk-da4a5249",
+    "num": "dailymirrorlk-da4a5249",
     "date_str": "2026-11-21",
-    "description": "Justice for All urges President to withdraw anti-terror, organised crime Bills",
-    "url_metadata": "https://www.ft.lk/news/Justice-for-All-urges-President-to-withdraw-anti-terror-organised-crime-Bills/56-800412",
+    "description": "The FBI was hacked again, this time the breach targeted its crime database",
+    "url_metadata": "https://www.dailymirror.lk/international/The-FBI-was-hacked-again-this-time-the-breach-targeted-its-crime-database/107-355437",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795199870.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795233531.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-21 | `dailymirrorlk-da4a5249` | The FBI was hacked again, this time the breach targeted its crime database | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-da4a5249)
+- 2026-11-21 | `dailymirrorlk-4ab0b8a3` | NASA astronaut shares stunning view of Sri Lanka from space | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-4ab0b8a3)
+- 2026-11-21 | `dailymirrorlk-72795bcb` | Thai Deputy Prime Minister arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-72795bcb)
+- 2026-11-21 | `dailymirrorlk-cb455a7f` | Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-cb455a7f)
+- 2026-11-21 | `dailymirrorlk-9e3639d1` | Landslide warnings issued for three districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-9e3639d1)
+- 2026-11-21 | `dailymirrorlk-e9171ea3` | Afternoon thundershowers expected across most parts of the island in coming days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-e9171ea3)
 - 2026-11-21 | `dailyftlk-02b2ee2f` | Justice for All urges President to withdraw anti-terror, organised crime Bills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailyftlk-02b2ee2f)
 - 2026-11-21 | `dailyftlk-77d0eb66` | Sathya Sai Baba devotees to mark 101st Divine Advent across Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailyftlk-77d0eb66)
 - 2026-11-20 | `dailyftlk-0e6f0d66` | Is Sri Lanka clean? Plastics and plastic waste growth says otherwise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-0e6f0d66)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-20 | `dailyftlk-b3233181` | Union Bank takes to the road with cycle parade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-b3233181)
 - 2026-11-20 | `dailyftlk-c0edce0a` | US Ambassador leads pledge of service for 34 new Peace Corps volunteers in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-c0edce0a)
 - 2026-11-20 | `dailyftlk-2c875d33` | Retired Air Force Officers  Association annual dinner dance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-2c875d33)
-- 2026-11-20 | `dailyftlk-59a9ea52` | India and Sri Lanka sign MoU to supply electric motor bikes for fisheries officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-59a9ea52)
-- 2026-11-20 | `dailyftlk-a84aca30` | Chinese Ambassador and Pathfinder Founder discuss broadening relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-a84aca30)
-- 2026-11-20 | `dailyftlk-5dffd57e` | Pakistan High Commission commemorates Kashmir Black Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-5dffd57e)
-- 2026-11-20 | `dailyftlk-69584e46` | Manivannan makes global appeal at APSCO 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-69584e46)
-- 2026-11-20 | `dailyftlk-ecc2f573` | 2027 Budget: Opportunities, challenges, and way forward | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailyftlk-ecc2f573)
-- 2026-11-20 | `dailymirrorlk-ff35eba3` | Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-20-dailymirrorlk-ff35eba3)
 
 ---
 
