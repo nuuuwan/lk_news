@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_17:55:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_19:51:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,577** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,584** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-dailymirrorlk-d1af0d1d",
-    "num": "dailymirrorlk-d1af0d1d",
+    "doc_id": "2026-11-22-dailymirrorlk-b113eddb",
+    "num": "dailymirrorlk-b113eddb",
     "date_str": "2026-11-22",
-    "description": "Russian cargo ship still on fire off Finland after attack",
-    "url_metadata": "https://www.dailymirror.lk/international/Russian-cargo-ship-still-on-fire-off-Finland-after-attack/107-355501",
+    "description": "Titanic hero\u2019s postcard to sister sells for \u00a332k",
+    "url_metadata": "https://www.dailymirror.lk/international/Titanic-heros-postcard-to-sister-sells-for-32k/107-355508",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795342371.0
+    "time_ut": 1795356613.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-22 | `dailymirrorlk-b113eddb` | Titanic hero’s postcard to sister sells for £32k | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-b113eddb)
+- 2026-11-22 | `dailymirrorlk-06857c32` | Oil spill from Colombo Port tanker pollutes Muthuwela coastline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-06857c32)
+- 2026-11-22 | `dailymirrorlk-04c6c982` | Government Dental Service must focus more on prevention: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-04c6c982)
+- 2026-11-22 | `dailymirrorlk-28aa2570` | Kavantissa’s cause of death must be established through post-mortem: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-28aa2570)
+- 2026-11-22 | `dailymirrorlk-9dd1589e` | Teachers, principals to report sick leave on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-9dd1589e)
+- 2026-11-22 | `dailymirrorlk-8a1410a6` | IMF to consider Sri Lanka’s seventh programme review on December 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-8a1410a6)
+- 2026-11-22 | `dailymirrorlk-13dc14c7` | Rear Admiral Dammika Wijewardana appointed Navy Deputy Chief of Staff | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-13dc14c7)
 - 2026-11-22 | `dailymirrorlk-d1af0d1d` | Russian cargo ship still on fire off Finland after attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-d1af0d1d)
 - 2026-11-22 | `dailymirrorlk-672b991e` | FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-672b991e)
 - 2026-11-22 | `dailymirrorlk-3609d987` | Death toll from Nigeria boat accident rises to 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-3609d987)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-22 | `virakesarilk-dce63c18` | பலா­லியை பல­வீ­னப்­ப­டுத்தும் கட்­டு­நா­யக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-dce63c18)
 - 2026-11-22 | `virakesarilk-cee0e2b8` | மறுசீரமைப்பு பாடத்தை உணர்த்திய மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-cee0e2b8)
 - 2026-11-22 | `virakesarilk-82438f02` | வலுவிழக்க செய்யப்படும்  மாகாண சபைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-82438f02)
-- 2026-11-22 | `virakesarilk-74696f46` | இந்தோனேசியாவில் தொழிற்சாலையில் தீ விபத்து: 03 பேர் உயிரிழப்பு ; 36 பேர் மாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-74696f46)
-- 2026-11-22 | `virakesarilk-80ac7764` | ஆகாயத்தில் ஒரு தாரகை - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-80ac7764)
-- 2026-11-22 | `virakesarilk-4f3659ec` | 25 ஆண்டுகளாகப் புனரமைக்கப்படாத திருகோணமலை கணேஷ் வீதி..! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-4f3659ec)
-- 2026-11-22 | `virakesarilk-01e034aa` | அட்டனில் ஒரே கட்டிடத்தில் தொடரும் துணிகரக் கொள்ளை: நகை உற்பத்திப் பட்டறைகளை இலக்கு வைக்கும் மர்ம நபர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-01e034aa)
-- 2026-11-22 | `virakesarilk-737c870f` | யாழ்ப்பாணத்திற்கு  புதிய பிரதிப் பொலிஸ் மா அதிபர் நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-737c870f)
-- 2026-11-22 | `virakesarilk-6e56f6e3` | நுவரெலியா மாவட்ட பிரதான வீதிகளின் ஆபத்தான வளைவுகளில் பாதுகாப்பு இரும்பு வேலிகள் அமைக்கும் பணிகள் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-6e56f6e3)
-- 2026-11-22 | `virakesarilk-878e2997` | மன்னாரில் இடம்பெற்ற மாவீரர் பெற்றோர் உரித்துடையோர் மதிப்பளிப்பு நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-878e2997)
 
 ---
 

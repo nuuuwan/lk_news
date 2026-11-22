@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-22 17:54:50",
-  "n_docs": 136577,
+  "time_updated": "2026-11-22 19:50:23",
+  "n_docs": 136584,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136577,
+  "n_docs_with_text": 136584,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-22",
-  "dataset_size": 2108970935,
+  "dataset_size": 2108993987,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-dailymirrorlk-d1af0d1d",
-    "num": "dailymirrorlk-d1af0d1d",
+    "doc_id": "2026-11-22-dailymirrorlk-b113eddb",
+    "num": "dailymirrorlk-b113eddb",
     "date_str": "2026-11-22",
-    "description": "Russian cargo ship still on fire off Finland after attack",
-    "url_metadata": "https://www.dailymirror.lk/international/Russian-cargo-ship-still-on-fire-off-Finland-after-attack/107-355501",
+    "description": "Titanic hero\u2019s postcard to sister sells for \u00a332k",
+    "url_metadata": "https://www.dailymirror.lk/international/Titanic-heros-postcard-to-sister-sells-for-32k/107-355508",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795342371.0
+    "time_ut": 1795356613.0
   }
 }
