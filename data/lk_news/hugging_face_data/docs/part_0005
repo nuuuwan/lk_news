@@ -116343,5 +116343,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795318146.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-12af8dec",
+    "num": "dailymirrorlk-12af8dec",
+    "date_str": "2026-11-22",
+    "description": "21 University of Jaffna students remanded over clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/21-University-of-Jaffna-students-remanded-over-clash/108-355488",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795322908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-540cec02",
+    "num": "dailymirrorlk-540cec02",
+    "date_str": "2026-11-22",
+    "description": "Workers\u2019 protests planned for tomorrow, strikes on November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Workers-protests-planned-for-tomorrow-strikes-on-November-30/108-355489",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795327241.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-609a62c8",
+    "num": "dailymirrorlk-609a62c8",
+    "date_str": "2026-11-22",
+    "description": "Teachers, principals to launch island-wide strike on November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Teachers-principals-to-launch-island-wide-strike-on-November-30/108-355490",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795327358.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-fac20eae",
+    "num": "dailymirrorlk-fac20eae",
+    "date_str": "2026-11-22",
+    "description": "Doctors to launch two-hour island-wide trade union action tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Doctors-to-launch-two-hour-island-wide-trade-union-action-tomorrow/108-355491",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795327484.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-2aa85b52",
+    "num": "dailymirrorlk-2aa85b52",
+    "date_str": "2026-11-22",
+    "description": "New draft deal aims to avert collapse of talks at climate summit",
+    "url_metadata": "https://www.dailymirror.lk/international/New-draft-deal-aims-to-avert-collapse-of-talks-at-climate-summit/107-355492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795327664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-09035422",
+    "num": "dailymirrorlk-09035422",
+    "date_str": "2026-11-22",
+    "description": "Divulapitiya e-waste facility\u2019s licence suspended after fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Divulapitiya-e-waste-facilitys-licence-suspended-after-fire/108-355493",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795327851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-dbe70da4",
+    "num": "dailymirrorlk-dbe70da4",
+    "date_str": "2026-11-22",
+    "description": "Titanic survivor\u2019s engagement ring sells for \u00a3150,000 at auction",
+    "url_metadata": "https://www.dailymirror.lk/international/Titanic-survivors-engagement-ring-sells-for-150-000-at-auction/107-355494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795328147.0
   }
 ]

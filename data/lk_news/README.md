@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_09:53:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_11:57:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,521** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,528** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-dailymirrorlk-0f7f7a96",
-    "num": "dailymirrorlk-0f7f7a96",
+    "doc_id": "2026-11-22-dailymirrorlk-dbe70da4",
+    "num": "dailymirrorlk-dbe70da4",
     "date_str": "2026-11-22",
-    "description": "Six DIGs transferred",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-DIGs-transferred/108-355487",
+    "description": "Titanic survivor\u2019s engagement ring sells for \u00a3150,000 at auction",
+    "url_metadata": "https://www.dailymirror.lk/international/Titanic-survivors-engagement-ring-sells-for-150-000-at-auction/107-355494",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795318146.0
+    "time_ut": 1795328147.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-22 | `dailymirrorlk-dbe70da4` | Titanic survivor’s engagement ring sells for £150,000 at auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-dbe70da4)
+- 2026-11-22 | `dailymirrorlk-09035422` | Divulapitiya e-waste facility’s licence suspended after fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-09035422)
+- 2026-11-22 | `dailymirrorlk-2aa85b52` | New draft deal aims to avert collapse of talks at climate summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-2aa85b52)
+- 2026-11-22 | `dailymirrorlk-fac20eae` | Doctors to launch two-hour island-wide trade union action tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-fac20eae)
+- 2026-11-22 | `dailymirrorlk-609a62c8` | Teachers, principals to launch island-wide strike on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-609a62c8)
+- 2026-11-22 | `dailymirrorlk-540cec02` | Workers’ protests planned for tomorrow, strikes on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-540cec02)
+- 2026-11-22 | `dailymirrorlk-12af8dec` | 21 University of Jaffna students remanded over clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-12af8dec)
 - 2026-11-22 | `dailymirrorlk-0f7f7a96` | Six DIGs transferred | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-0f7f7a96)
 - 2026-11-21 | `dailymirrorlk-f5c5d93c` | Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-f5c5d93c)
 - 2026-11-21 | `dailymirrorlk-b04d8252` | SJB MP questions Namal Rajapaksa’s continued remand, cites Bail Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-b04d8252)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-21 | `dailymirrorlk-bc1e1fa1` | Youth skills campaign to cover 14,008 GN divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-bc1e1fa1)
 - 2026-11-21 | `dailymirrorlk-d0c44607` | Have courage to face your opponents at the Polls: Dayasiri tells Government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-d0c44607)
 - 2026-11-21 | `dailymirrorlk-eed34f5f` | CBSL springs rate surprise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-eed34f5f)
-- 2026-11-21 | `dailymirrorlk-7bd8306e` | Sri Lanka hits 2mn tourists for 3rd conservative year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-7bd8306e)
-- 2026-11-21 | `dailymirrorlk-8079ebf5` | CRIB expands credit information ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-8079ebf5)
-- 2026-11-21 | `dailymirrorlk-54606327` | Vietjet launches new Colombo-Maldives flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-54606327)
-- 2026-11-21 | `dailymirrorlk-04fefa28` | JKH unveils 1st Wendy’s with Elephant House drinks on menu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-04fefa28)
-- 2026-11-21 | `dailymirrorlk-5d2dc160` | 25bps policy rate hike triggers a modest rise in yields across curve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-5d2dc160)
-- 2026-11-21 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-421ed8bb)
-- 2026-11-21 | `dailymirrorlk-3537a30e` | Cargills Bank-Mastercard introduce  Sri Lanka’s 1st ocean plastic debit card | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-21-dailymirrorlk-3537a30e)
 
 ---
 
