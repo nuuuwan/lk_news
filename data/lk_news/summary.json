@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-22 15:50:03",
-  "n_docs": 136576,
+  "time_updated": "2026-11-22 17:54:50",
+  "n_docs": 136577,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136576,
+  "n_docs_with_text": 136577,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-22",
-  "dataset_size": 2108961417,
+  "dataset_size": 2108970935,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-dailymirrorlk-672b991e",
-    "num": "dailymirrorlk-672b991e",
+    "doc_id": "2026-11-22-dailymirrorlk-d1af0d1d",
+    "num": "dailymirrorlk-d1af0d1d",
     "date_str": "2026-11-22",
-    "description": "FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500",
+    "description": "Russian cargo ship still on fire off Finland after attack",
+    "url_metadata": "https://www.dailymirror.lk/international/Russian-cargo-ship-still-on-fire-off-Finland-after-attack/107-355501",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795341508.0
+    "time_ut": 1795342371.0
   }
 }
