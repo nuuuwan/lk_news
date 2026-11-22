@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-22 07:55:05",
-  "n_docs": 136520,
+  "time_updated": "2026-11-22 09:52:34",
+  "n_docs": 136521,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136520,
+  "n_docs_with_text": 136521,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-21",
-  "dataset_size": 2108133765,
+  "date_str_max": "2026-11-22",
+  "dataset_size": 2108134411,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-21-dailymirrorlk-f5c5d93c",
-    "num": "dailymirrorlk-f5c5d93c",
-    "date_str": "2026-11-21",
-    "description": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-    "url_metadata": "https://www.dailymirror.lk/international/Tankers-hit-in-Strait-of-Hormuz-as-Iran-tightens-grip-on-shipping/107-355486",
+    "doc_id": "2026-11-22-dailymirrorlk-0f7f7a96",
+    "num": "dailymirrorlk-0f7f7a96",
+    "date_str": "2026-11-22",
+    "description": "Six DIGs transferred",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-DIGs-transferred/108-355487",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795276258.0
+    "time_ut": 1795318146.0
   }
 }
