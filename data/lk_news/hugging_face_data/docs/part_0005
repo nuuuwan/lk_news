@@ -116926,5 +116926,27 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795335060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-3609d987",
+    "num": "dailymirrorlk-3609d987",
+    "date_str": "2026-11-22",
+    "description": "Death toll from Nigeria boat accident rises to 24",
+    "url_metadata": "https://www.dailymirror.lk/international/Death-toll-from-Nigeria-boat-accident-rises-to-24/107-355498",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795340674.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-22-dailymirrorlk-672b991e",
+    "num": "dailymirrorlk-672b991e",
+    "date_str": "2026-11-22",
+    "description": "FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795341508.0
   }
 ]

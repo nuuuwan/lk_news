@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-22 13:52:36",
-  "n_docs": 136574,
+  "time_updated": "2026-11-22 15:50:03",
+  "n_docs": 136576,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136574,
+  "n_docs_with_text": 136576,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-22",
-  "dataset_size": 2108414457,
+  "dataset_size": 2108961417,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-virakesarilk-bf77fb8f",
-    "num": "virakesarilk-bf77fb8f",
+    "doc_id": "2026-11-22-dailymirrorlk-672b991e",
+    "num": "dailymirrorlk-672b991e",
     "date_str": "2026-11-22",
-    "description": "2027 \u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd : \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/267684",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795335060.0
+    "description": "FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795341508.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_13:53:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--22_15:50:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,574** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-22-virakesarilk-bf77fb8f",
-    "num": "virakesarilk-bf77fb8f",
+    "doc_id": "2026-11-22-dailymirrorlk-672b991e",
+    "num": "dailymirrorlk-672b991e",
     "date_str": "2026-11-22",
-    "description": "2027 \u0bb5\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd : \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/267684",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795335060.0
+    "description": "FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795341508.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-22 | `dailymirrorlk-672b991e` | FBI, US Justice Department conclude week-long visit to Sri Lanka over cyber fraud investigations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-672b991e)
+- 2026-11-22 | `dailymirrorlk-3609d987` | Death toll from Nigeria boat accident rises to 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-3609d987)
 - 2026-11-22 | `virakesarilk-bf77fb8f` | 2027 வரவு செலவுத் திட்டம் : வாழ்க்கைச் செலவு அதிகரிப்பால் நெருக்கடியில் நடுத்தர மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-bf77fb8f)
 - 2026-11-22 | `dailymirrorlk-b953be1f` | Severe lightning warning issued for multiple areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-dailymirrorlk-b953be1f)
 - 2026-11-22 | `virakesarilk-a5967fb3` | அதி­க­ரிக்கும் ஜப்­பா­னிய பாது­காப்பு உத­விகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-a5967fb3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-22 | `virakesarilk-6e56f6e3` | நுவரெலியா மாவட்ட பிரதான வீதிகளின் ஆபத்தான வளைவுகளில் பாதுகாப்பு இரும்பு வேலிகள் அமைக்கும் பணிகள் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-6e56f6e3)
 - 2026-11-22 | `virakesarilk-878e2997` | மன்னாரில் இடம்பெற்ற மாவீரர் பெற்றோர் உரித்துடையோர் மதிப்பளிப்பு நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-878e2997)
 - 2026-11-22 | `virakesarilk-94e8456b` | அமெரிக்காவின் FBI-யின் முக்கிய தேடல் பட்டியலில் இருந்த மெக்சிகோ போதைப்பொருள் கடத்தல் கும்பல் தலைவன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-94e8456b)
-- 2026-11-22 | `virakesarilk-f14e8698` | மோட்டார் வாகன போக்குவரத்துத் திணைக்களத்தின் இணையத்தளம் மீது சைபர் தாக்குதல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-f14e8698)
-- 2026-11-22 | `virakesarilk-4f8bcdd6` | தாய்லாந்தில் நடைபெறும் 'ஜென்டில்மேன் எக்ஸ் - 2026' ஆடவர் சூப்பர் மொடல் போட்டியில் பங்கேற்க இலங்கையர் பாத்திய சமரவீர பயணம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-22-virakesarilk-4f8bcdd6)
 
 ---
 
