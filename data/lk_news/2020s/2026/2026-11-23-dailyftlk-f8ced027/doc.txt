@@ -1,0 +1,83 @@
+Budget 2027’s enhanced capital allowance: A 200% promise needs 100% clarity
+
+Budget 2027 offers enterprises approved by the Board of Investment (BOI) an enhanced capital allowance of 200% for investing at least $ 3 million in export-oriented manufacturing or tourism development. The stated aim is to encourage private investment, promote export-oriented manufacturing and strengthen tourism. The Budget also sets itself a welcome test: every tax concession will be assessed on the economic and social benefits it generates.
+
+The direction is right. An allowance tied to capital actually spent rewards investment that has actually happened. But read alongside the Inland Revenue Act, No. 24 of 2017 (IRA) and its latest amendment, the proposal raises a basic question that the Budget leaves unanswered: who exactly is this incentive meant to help? The answer will be found not in the Budget Speech, but in the drafting of the law.
+
+Section 16 of the IRA is the gateway. Capital allowances are granted on depreciable assets and computed under the Second, Fourth or Sixth Schedule. They must be claimed in the year they arise and cannot be deferred.
+
+General capital allowance. The Fourth Schedule provides allowances on a straight-line basis for depreciable assets owned and used in the production of income. Plant, machinery, computers, vehicles and furniture are written off over five years; buildings over twenty years, at 5% a year.
+
+(a) is employed in the production of income from a business and is likely to lose value because of wear and tear, obsolescence or the passing of time; but
+
+(b) excludes goodwill, an interest in land, a membership interest in an entity and trading stock.
+
+Temporary concession. The Sixth Schedule, read with section 201, once granted an enhanced allowance of 100% (200% in the Northern Province) on up to $ 3 million spent on buildings and fixed plant, over and above the general allowance. Even that concession excluded the expansion of an existing business, and by its own terms it expired six years after it took effect.
+
+Enhanced capital allowance (ECA). That leaves the Second Schedule as the principal ECA regime. A person who makes a new investment in Sri Lanka is granted an allowance computed on expenses incurred on depreciable assets, other than intangibles, in addition to the general allowance. Expansions of an existing business qualify only under a BOI agreement and with specific BOI approval. The tiers are summarised below.
+
+Technical Note 1.2 to the Budget allows BOI-approved enterprises investing at least $ 3 million in export-oriented manufacturing or tourism development to opt for an enhanced allowance of 200% of qualifying capital expenditure.  In the case of manufacturing and tourism (other than hotels), investment should be made within 3 years. For hotels, investment should be made within 5 years. An enterprise that opts in forgoes both the general allowance under the Fourth Schedule and the ECA under the Second Schedule.
+
+The first question the law must answer is whether the 200% is for new projects, expansions, or both. The Budget refers simply to “enterprises operating under agreements with the BOI”, which on its face includes existing BOI factories and hotels. At post-Budget seminars, however, officials indicated that the intention is to cover new undertakings. If that is the policy, it must be written into the law, because the consequences for existing businesses are significant.
+
+Under the current Second Schedule, an existing company is already at a disadvantage. The $ 250,000 tier introduced in 2026 is confined to new undertakings. An existing BOI exporter expanding by $ 2.9 million therefore receives no ECA at all, while a newly formed undertakings investing
+
+$ 300,000 receives 100%. A company without a BOI agreement receives nothing on an expansion of any size. In effect, unless an existing business invests more than $ 3 million in depreciable assets under a specifically approved BOI expansion, there is no investment incentive.
+
+If the proposed 200% is also confined to new undertakings, the gap widens. Businesses with an established track record, existing markets and the balance sheet to invest are left with the general allowance, while incentives flow to new entities. That is the reverse of what an investment-led recovery needs.
+
+It also raises a question about the policy maker’s choice of words. If the shift from “investment in depreciable assets” to “qualifying capital expenditure” was intended to bring the refurbishment and modernisation of existing hotels and factories within the incentive, that intention sits uneasily with a scheme confined to new undertakings. A new undertaking has nothing to refurbish. Both cannot be true: either the wider base is meant to reach existing businesses, in which case the law must say so, or the incentive is for new undertakings only, in which case the change in wording does little for the hotels and factories that most need to reinvest.
+
+The issue is sharpest in tourism. Much of what existing hotels need to spend today is on refurbishment: upgrading rooms, renewing interiors and restoring properties damaged by the recent cyclone. None of this qualifies for ECA. The Act excludes the replacement of an existing depreciable asset from the definition of “expansion”, and an existing hotel is not a new undertaking. Refurbishment spending is instead relieved in one of three ways, depending on its nature.
+
+First, repairs and maintenance that restore an asset to its original condition, including much cyclone damage, are deductible in full in the year under section 14, provided they meet the production-of-income test in section 11(1). Second, improvements, being additions or alterations that enhance the value of an asset, are also deductible under section 14 even if capital in nature. Since 1 April 2021, however, the annual deduction is capped at 5% of the written down value at the end of the previous year for buildings and 20% for other assets. The excess is added to the depreciation basis of the asset, where the written down value is nil, the improvement is deducted over twelve years for buildings and three years for other assets. Third, new furniture, fittings and equipment bought to replace old items are new depreciable assets, written off under the Fourth Schedule.
+
+A hotel refurbishment is therefore not left without relief, but that relief is limited to 100% of cost and, for structural improvements to an older building, can take well over a decade to recover. The real gap is not repairs, which are deducted immediately, nor loose equipment, written off in five years. It is capital improvements to hotel buildings. If qualifying capital expenditure were defined to include such improvements, a 200% allowance would bring the relief forward and double it, a gain in both timing and quantum.
+
+If the objective is to strengthen the tourism sector, as the Budget states, a well-defined refurbishment window for existing hotels, with a minimum spend, a defined completion period and a clawback, may deliver faster and more visible results than incentives for new projects alone.
+
+“Qualifying capital expenditure”: A wider base, or a new label?
+
+The Second Schedule allowance is anchored to depreciable assets within the Fourth Schedule classes. The Budget instead proposes 200% of “qualifying capital expenditure”, a term found nowhere in the Act. Capital expenditure is a wider concept, capable of reaching land development, lease premiums, pre-operational costs and intangibles.
+
+If the term is defined broadly, the proposal becomes a genuine enhancement. If it is defined as expenditure on depreciable assets, it largely repeats the Second Schedule under a new label. The choice also has mechanical consequences. The Fourth Schedule rules on written down value, and on taxing the full sale proceeds of assets that received ECA, operate only on depreciable assets. They will not work on expenditure that is not attached to an asset unless the law says how.
+
+On a like-for-like base, the headline is less dramatic than it appears. A new manufacturer investing $ 10 million in depreciable assets outside the Northern Province already receives a 100% ECA plus the general allowance, adding up to around 200% of cost over time. A proposed 200% allowance in place of both delivers broadly the same total. The real gain is in timing.
+
+That gain is clearest for new hotels, which invest mainly in buildings written off over twenty years; a front-loaded 200% would bring much of that relief forward. For manufacturers, whose plant is already written off over five years, the benefit is modest.
+
+For new projects above $ 100 million, or in the Northern Province, current law already gives 150% or 200% plus the general allowance. “200% in place of everything” would leave these investors worse off, which is presumably why the allowance is optional. But investors can only exercise an option they can price, and they cannot price it until the law is written. Meanwhile, existing exporters expanding below $3 million, existing hotels refurbishing and non-BOI companies sit outside the frame entirely, unless the law is drafted to include them.
+
+Any new incentive must today also be tested against the OECD/G20 BEPS framework, in particular Pillar Two, the 15% global minimum tax on large multinational groups. How a 200% allowance would interact with the minimum tax, the OECD’s new safe harbour for substance-based incentives and the case for a domestic minimum top-up tax deserve careful study before the law is finalised. They merit an article of their own. The focus here is narrower: how the Budget proposal should be embedded in the Inland Revenue Act.
+
+1. New undertakings, expansions, or both? The law must say so expressly, and state whether the existing Second Schedule definitions of “new undertaking” and “expansion” apply.
+
+2. Will refurbishment count? Given the exclusion of replacement assets from “expansion” and the annual caps on improvements under section 14, the law must decide whether major refurbishment qualifies, on what conditions, and how the 200% interacts with the section 14 deduction.
+
+3. What is “qualifying capital expenditure”? Is it confined to depreciable assets, or does it extend to land development, lease premiums, pre-operational costs, financing costs and intangibles? Will buildings on leasehold land continue to qualify?
+
+4. How is the $ 3 million measured? For an expansion, is the test the expansion alone or the company’s total investment? Which exchange rate and which date apply when spending is in rupees over three to five years?
+
+5. When does the clock start? Must the investment commence after the amending law is enacted, and how do the three- and five-year windows align with the existing implementation period?
+
+6. Where will the allowance sit, and will the losses survive? Section 9(2) permits no concession except as provided in the Act. If the allowance sits outside the Second Schedule, the 10 year loss carry-forward may not apply and the six-year limit in section 19 could take over. As a 200% allowance will almost always create early losses, the carry forward loss provision is vital, and clarity is required whether it’s 6 years or more.
+
+7. How does the election (option to choose) work? When should such election be made ? Should it be in writing and is it subject to approval ? Is it irrevocable, and how does it apply to BOI enterprises part-way through a Second Schedule project?
+
+8. What happens on sale or failure? A specific recapture rule is needed if the allowance covers expenditure that is not a depreciable asset, together with a clear clawback where the threshold or sector conditions are not met.
+
+These questions are not exhaustive, but answering them would give investors the clarity and certainty the incentive needs.
+
+The policy logic holds: an allowance tied to capital actually spent is a better tool than a profit-based holiday, and it sits more comfortably with today’s global tax standards. But Sri Lanka has introduced, expired, extended and re-tiered its enhanced capital allowances repeatedly in recent years. Investors committing $ 3 million or more over a three- to five-year horizon need certainty more than generosity.
+
+Past experience gives reason for caution. Sri Lanka has seen gaps open between what the policy maker intended, the language the legal draftsman chose and the way the tax administrator later interpreted it. Those gaps have caused real turmoil for taxpayers who committed capital in good faith, trusting that genuine investment would receive the promised incentive, only to find the benefit narrowed, delayed or disputed. An incentive that ends in litigation is no incentive at all; it erodes the very confidence it was meant to build. The policy maker must therefore ensure that the intent behind this proposal is carried into the law in clear and unambiguous terms.
+
+The Tax Expenditure Statement 2025/2026, published by the Ministry of Finance on 12 November 2026, recognises enhanced and accelerated capital allowances as a form of tax expenditure. Yet its inventory neither lists nor estimates the cost of the Second Schedule ECA, and the
+
+$ 250,000 tier introduced in 2026 is not disclosed as a new tax expenditure. If every concession is to be judged on the benefits it generates, the starting point must be to measure what existing allowances cost and what they have delivered. The 200% option proposed in the Budget 2027 should be costed and reported from the outset, so that its value for money can be tested rather than assumed.
+
+A 200% allowance is a strong signal to investors. Whether it becomes a strong incentive, and for whom, depends entirely on the drafting and its implementation.
+
+(The views and opinions expressed in this article are those of the author in her personal capacity)
+
+(Reference has been made to the Inland Revenue Act No 24 of 2017 and related amendments and the Budget Speech 2027.)

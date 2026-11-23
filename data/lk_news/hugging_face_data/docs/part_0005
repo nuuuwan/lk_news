@@ -117355,5 +117355,93 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795372140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-edd12cb6",
+    "num": "dailyftlk-edd12cb6",
+    "date_str": "2026-11-23",
+    "description": "Immigration Bill clears Parliamentary Committee, armed forces to get limited border enforcement powers",
+    "url_metadata": "https://www.ft.lk/news/Immigration-Bill-clears-Parliamentary-Committee-armed-forces-to-get-limited-border-enforcement-powers/56-800432",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795394915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-5535de65",
+    "num": "dailyftlk-5535de65",
+    "date_str": "2026-11-23",
+    "description": "Dayasiri questions judicial independence, warns against weaponising criminal justice system",
+    "url_metadata": "https://www.ft.lk/news/Dayasiri-questions-judicial-independence-warns-against-weaponising-criminal-justice-system/56-800433",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795395012.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-2bfd3b6d",
+    "num": "dailyftlk-2bfd3b6d",
+    "date_str": "2026-11-23",
+    "description": "Electricity tariffs in Sri Lanka: Are consumers paying fair price?",
+    "url_metadata": "https://www.ft.lk/columns/Electricity-tariffs-in-Sri-Lanka-Are-consumers-paying-fair-price/4-800434",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795395397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-f8ced027",
+    "num": "dailyftlk-f8ced027",
+    "date_str": "2026-11-23",
+    "description": "Budget 2027\u2019s enhanced capital allowance: A 200% promise needs 100% clarity",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-s-enhanced-capital-allowance-A-200-promise-needs-100-clarity/4-800435",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795395650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-378e740a",
+    "num": "dailyftlk-378e740a",
+    "date_str": "2026-11-23",
+    "description": "A decade after Paris Agreement: Financing farms and natural capital",
+    "url_metadata": "https://www.ft.lk/columns/A-decade-after-Paris-Agreement-Financing-farms-and-natural-capital/4-800437",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795395940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-804c6048",
+    "num": "dailyftlk-804c6048",
+    "date_str": "2026-11-23",
+    "description": "IPS\u2019s State of the Economy 2026: More worm\u2019s eye analysis than bird\u2019s eye analysis",
+    "url_metadata": "https://www.ft.lk/columns/IPS-s-State-of-the-Economy-2026-More-worm-s-eye-analysis-than-bird-s-eye-analysis/4-800438",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795396218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-b2cadd29",
+    "num": "dailyftlk-b2cadd29",
+    "date_str": "2026-11-23",
+    "description": "Proposals for development of tourism infrastructure and facilities in Eastern coastal region",
+    "url_metadata": "https://www.ft.lk/columns/Proposals-for-development-of-tourism-infrastructure-and-facilities-in-Eastern-coastal-region/4-800439",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795396429.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-f5669dda",
+    "num": "dailyftlk-f5669dda",
+    "date_str": "2026-11-23",
+    "description": "Why revenue dip amidst rising tourist arrivals is not necessarily a bad thing",
+    "url_metadata": "https://www.ft.lk/columns/Why-revenue-dip-amidst-rising-tourist-arrivals-is-not-necessarily-a-bad-thing/4-800440",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795396641.0
   }
 ]
