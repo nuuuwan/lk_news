@@ -1,0 +1,33 @@
+Card fraud victims foot  the bill as region shifts  burden to banks
+
+RS. 430,000 GONE ON A HONG KONG TAP WHILE CARDHOLDER WAS IN MALAYSIA
+
+FRAUD COMPLAINTS UP 80% AS REGIONAL REGULATORS SHIFT LOSSES TO BANKS
+
+At a time when regulators across the region are shifting card fraud losses onto banks, Sri Lankan cardholders defrauded abroad can still be left to carry the loss until they report it, even when their bank’s own systems catch the fraud within minutes, correspondence seen by Mirror Business showed.
+
+“The cardholder remains responsible for transactions performed using the card until the loss or theft is formally reported to the Bank and the card is blocked,” a private commercial bank, which this year completed its takeover of a foreign bank’s local retail operations, stated in a November 12 letter to Fintechnology Asia Pacific (FINAP) CEO Dr. Kutila Pinto, a career banker.
+
+Dr. Pinto’s Mastercard debit card was used for a HK$ 10,000 contactless purchase at a Hong Kong jeweller on October 19, nine minutes after his flight landed in Johor Bahru, Malaysia. No PIN was requested, though the amount was ten times Hong Kong’s HK$ 1,000 limit for contactless payments without a signature or PIN.
+
+The bank’s fraud system blocked the card 18 minutes later, yet the full Rs.429,698 was drawn from his savings account and has not been returned. The bank told him the transaction “did not meet any of these blocking criteria and was therefore processed through the normal authorisation flow”.
+
+Dr. Pinto reported the fraud by phone the same evening, lodged a formal written dispute the next day and wrote again on October 26 to say he was overseas and needed the funds. On October 28, he put ten specific questions to the bank in a 13- page letter copied to CBSL’s Financial Consumer Relations Department (FCRD) and the Financial Ombudsman. The November 12 reply answered none of them, he noted, reaffirming only that “the Bank’s position remains the same”.
+
+It is his second dispute with the bank in six months. In June, the bank classified a Rs.494,546 credit card charge at a Vietnamese merchant as a lost or stolen card transaction because he could not produce the card, which he says he destroyed after the bank blocked it, and called the decision “final and conclusive”. Seven months on, the amount remains unrefunded, according to Dr. Pinto, taking the total in dispute to Rs.924,244.
+
+“You are the Bank’s fraud prevention department. Not the Bank,” Dr. Pinto told Mirror Business, contending that a cardholder agreement cannot override Mastercard’s Zero Liability policy, which protects cardholders who take reasonable care and report promptly.
+
+Many such disputes are unlikely to travel beyond the bank, but Dr. Pinto, with a career in banking behind him, is pressing ahead, lodging formal complaints with the FCRD and the Financial Ombudsman and escalating the matter to Mastercard Asia Pacific. Even then, CBSL rules give banks 21 days to resolve a complaint, extendable to three months, and the central bank 90 days to deliver a determination once a complaint reaches it.
+
+The country’s two largest state banks both publish terms that hold cardholders liable for the use of a lost or stolen card until the bank is notified, with one stating it is not liable to refund such transactions. At least two private banks carry comparable clauses.
+
+Complaints on frauds and scams lodged with the FCRD against banks and finance companies rose by about 80 percent between 2023 and 2025, according to FCRD officials.
+
+Meanwhile, Visa data shows Malaysia’s card-not-present fraud rate climbed 44 percent in 2025, even as the Asia Pacific average fell by 15 percent.
+
+However, a Hong Kong cardholder’s liability for a lost card is capped at HK$ 500, about Rs.21,500 or one-twentieth of Dr. Pinto’s loss, unless the cardholder acted fraudulently, with gross negligence or failed to report promptly, and the Hong Kong Monetary Authority has reminded banks that “gross negligence is a high bar”. Bank Negara Malaysia’s framework for unauthorised e-banking transactions provides for full compensation where a loss stems solely from gaps in a bank’s security controls, and Malaysian banks blocked about RM 1.2 billion in fraudulent transactions in 2025, three times the previous year’s RM 399 million. India’s revised rules, effective January 1, 2027, grant customers zero liability for third-party breaches reported within five days.
+
+Sri Lanka’s 2023 financial consumer protection regulations already hold banks liable for fraud losses unless the customer’s negligence is proved, but set no reporting window, liability cap or refund deadline for card fraud. CBSL in May directed banks to check card transactions before approving them, while a central fraud monitoring system at LankaPay is not due until September 2027.
+
+“India has shown the way. Our regulator can do the same,” Dr. Pinto stressed.

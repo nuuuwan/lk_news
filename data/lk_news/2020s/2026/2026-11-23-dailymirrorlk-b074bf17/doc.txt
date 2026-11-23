@@ -1,0 +1,17 @@
+LankaPay discloses LankaSign portal  breach six weeks before data protection  duties kick in
+
+Personal details of people who registered for LankaSign, the digital signature service run by national payment network operator LankaPay, may have been exposed after a portal used to collect registration data suffered a security incident, according to a notice the company sent to registrants. In the notice, signed by LankaPay Deputy Chief Executive Officer Dinuka Perera, the company stressed that the incident had not spread beyond the registration portal into its core systems.
+
+“This incident is confined only to the above data collection portal, and no other systems including payment systems or digital signature platforms have been affected or impacted,” the notice read.
+
+“We have taken all appropriate steps to contain the matter and are closely monitoring the situation,” the company told registrants. It directed those with concerns to its Data Protection Officer, Lakmal Uyanahewage.
+
+However, the notice did not disclose how many registrants were affected, when the incident took place or was detected, or how the portal came to be compromised.
+
+LankaPay launched LankaSign in May 2009 as Sri Lanka’s first certification authority under the Electronic Transactions Act No. 19 of 2006. It remains the only Certification Service Provider authorised by the National Certification Authority. In May this year, LankaPay widened the service’s reach through a remote digital signature solution developed with eMudhra, which allows organisations and individuals to sign documents from anywhere.
+
+LankaPay is owned by the Central Bank of Sri Lanka (CBSL) and 24 licensed commercial banks, and the Central Bank holds the largest single stake at 19.59 percent, according to the company. The two state banks, People’s Bank and Bank of Ceylon, hold a further 27.80 percent between them, which takes the combined state-linked holding to 47.39 percent. The company’s Chairman is appointed by the CBSL Governor.
+
+Meanwhile,     the     incident     surfaced roughly six weeks before the core compliance provisions of the Personal Data Protection Act No. 9 of 2022 (PDPA) come into operation. Extraordinary Gazette No. 2498/16 was issued on July 22, 2026 by President Anura Kumara Dissanayake in his capacity as Minister of Digital Economy. It set January 1, 2027 as the operative date for Part I of the Act, which governs the processing of personal data, and Part III, which covers controllers and processors. Part III includes the duty to notify the Data Protection Authority (DPA) of personal data breaches.
+
+Under the draft rules, controllers will be required to notify the DPA within 72 hours of becoming aware of a breach, and to inform affected individuals where the risk to them is high. Data subject rights under Part II and the penalty regime under Part VII are still waiting on a further gazette order. Part VII provides for fines of up to Rs.10 million for each failure to comply with a DPA directive.
