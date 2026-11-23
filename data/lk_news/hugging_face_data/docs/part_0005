@@ -118818,5 +118818,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795451866.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-20058f28",
+    "num": "dailyftlk-20058f28",
+    "date_str": "2026-11-23",
+    "description": "AKD, take that first step \u2014 The journey from which  there is no return",
+    "url_metadata": "https://www.ft.lk/opinion/AKD-take-that-first-step-The-journey-from-which-there-is-no-return/14-800476",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795455497.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-363e5757",
+    "num": "dailyftlk-363e5757",
+    "date_str": "2026-11-23",
+    "description": "Friends with all, subservient to none: Why Sri Lanka must guard its national interest",
+    "url_metadata": "https://www.ft.lk/columns/Friends-with-all-subservient-to-none-Why-Sri-Lanka-must-guard-its-national-interest/4-800477",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795455968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-438eacbf",
+    "num": "dailyftlk-438eacbf",
+    "date_str": "2026-11-23",
+    "description": "Sri Lanka\u2019s trade and diplomatic ties under fresh scrutiny post US midterm election",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-trade-and-diplomatic-ties-under-fresh-scrutiny-post-US-midterm-election/14-800478",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795456824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailyftlk-55618b93",
+    "num": "dailyftlk-55618b93",
+    "date_str": "2026-11-24",
+    "description": "Sri Lanka\u2019s 2027 Budget: From economic stabilisation to economic transformation",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-2027-Budget-From-economic-stabilisation-to-economic-transformation/4-800480",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795462036.0
   }
 ]
