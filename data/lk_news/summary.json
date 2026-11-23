@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-23 21:55:24",
-  "n_docs": 136741,
+  "time_updated": "2026-11-23 23:58:41",
+  "n_docs": 136746,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136741,
+  "n_docs_with_text": 136746,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-23",
-  "dataset_size": 2111554151,
+  "dataset_size": 2111576829,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-23-dailymirrorlk-35c1bcd9",
-    "num": "dailymirrorlk-35c1bcd9",
+    "doc_id": "2026-11-23-dailymirrorlk-7450b355",
+    "num": "dailymirrorlk-7450b355",
     "date_str": "2026-11-23",
-    "description": "Fire breaks out at apartment complex in Borella",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-apartment-complex-in-Borella/108-355582",
+    "description": "Animal group seeks action over alleged dumping of airport dogs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Animal-group-seeks-action-over-alleged-dumping-of-airport-dogs/108-355585",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795450192.0
+    "time_ut": 1795451866.0
   }
 }

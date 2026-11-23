@@ -118755,6 +118755,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-70cb97dd",
+    "num": "dailymirrorlk-70cb97dd",
+    "date_str": "2026-11-23",
+    "description": "Lights up for Christmas",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Lights-up-for-Christmas/110-355580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795447096.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-23-dailymirrorlk-35c1bcd9",
     "num": "dailymirrorlk-35c1bcd9",
     "date_str": "2026-11-23",
@@ -118763,5 +118774,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795450192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-660753dd",
+    "num": "dailymirrorlk-660753dd",
+    "date_str": "2026-11-23",
+    "description": "Fire breaks out at hotel in Borella",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-breaks-out-at-hotel-in-Borella/108-355582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795450192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-7cfbf523",
+    "num": "dailymirrorlk-7cfbf523",
+    "date_str": "2026-11-23",
+    "description": "Sri Lankan marine biologist Asha de Vos named Fellow of UK Marine Biological Association",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-marine-biologist-Asha-de-Vos-named-Fellow-of-UK-Marine-Biological-Association/108-355583",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795450502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-0bf5d787",
+    "num": "dailymirrorlk-0bf5d787",
+    "date_str": "2026-11-23",
+    "description": "Schools to be reorganised with transport facilities, says PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-to-be-reorganised-with-transport-facilities-says-PM/108-355584",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795450629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-7450b355",
+    "num": "dailymirrorlk-7450b355",
+    "date_str": "2026-11-23",
+    "description": "Animal group seeks action over alleged dumping of airport dogs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Animal-group-seeks-action-over-alleged-dumping-of-airport-dogs/108-355585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795451866.0
   }
 ]
