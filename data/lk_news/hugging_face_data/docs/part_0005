@@ -117443,5 +117443,148 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795396641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-c1ea73d6",
+    "num": "dailyftlk-c1ea73d6",
+    "date_str": "2026-11-23",
+    "description": "Why Galle and not Kandy: A golden opportunity we must not lose",
+    "url_metadata": "https://www.ft.lk/columns/Why-Galle-and-not-Kandy-A-golden-opportunity-we-must-not-lose/4-800441",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795400768.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-351dcd33",
+    "num": "dailyftlk-351dcd33",
+    "date_str": "2026-11-23",
+    "description": "Lankan elected Asia-Pacific Association of Agricultural Research Institutions President",
+    "url_metadata": "https://www.ft.lk/business/Lankan-elected-Asia-Pacific-Association-of-Agricultural-Research-Institutions-President/34-800442",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795400926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-c45c2777",
+    "num": "dailyftlk-c45c2777",
+    "date_str": "2026-11-23",
+    "description": "Sri Lanka and Lebanon explore opportunities to expand bilateral trade",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-and-Lebanon-explore-opportunities-to-expand-bilateral-trade/34-800443",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795401017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-5bac9244",
+    "num": "dailyftlk-5bac9244",
+    "date_str": "2026-11-23",
+    "description": "Heritance Ahungalla celebrates 45 years of architectural legacy with \u201845 to Infinity\u2019",
+    "url_metadata": "https://www.ft.lk/business/Heritance-Ahungalla-celebrates-45-years-of-architectural-legacy-with-45-to-Infinity/34-800444",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795401189.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-f9bf3186",
+    "num": "dailyftlk-f9bf3186",
+    "date_str": "2026-11-23",
+    "description": "Sri Lankan construction products and services at Build Bangladesh 2026 in Dhaka",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-construction-products-and-services-at-Build-Bangladesh-2026-in-Dhaka/34-800445",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795401253.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-9f9b28dd",
+    "num": "dailyftlk-9f9b28dd",
+    "date_str": "2026-11-23",
+    "description": "Esna Holdings acquires controlling 60% stake in Paragon Ceylon",
+    "url_metadata": "https://www.ft.lk/business/Esna-Holdings-acquires-controlling-60-stake-in-Paragon-Ceylon/34-800468",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795404069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-94e4932a",
+    "num": "dailyftlk-94e4932a",
+    "date_str": "2026-11-23",
+    "description": "Hemas Holdings appoints Harikrishnan Sundaram to Mobility Sector Board",
+    "url_metadata": "https://www.ft.lk/business/Hemas-Holdings-appoints-Harikrishnan-Sundaram-to-Mobility-Sector-Board/34-800469",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795404151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-bacd5d49",
+    "num": "dailyftlk-bacd5d49",
+    "date_str": "2026-11-23",
+    "description": "Illicit cigarettes cost Rs. 29.5 b in lost taxes in 2025: Oxford Economics",
+    "url_metadata": "https://www.ft.lk/business/Illicit-cigarettes-cost-Rs-29-5-b-in-lost-taxes-in-2025-Oxford-Economics/34-800470",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795404179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-0e35e254",
+    "num": "dailyftlk-0e35e254",
+    "date_str": "2026-11-23",
+    "description": "Beyond the Obvious: SLID and Frankfurt School of Finance and Management to present executive program on risk management",
+    "url_metadata": "https://www.ft.lk/business/Beyond-the-Obvious-SLID-and-Frankfurt-School-of-Finance-and-Management-to-present-executive-program-on-risk-management/34-800471",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795404318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailyftlk-a3bdee66",
+    "num": "dailyftlk-a3bdee66",
+    "date_str": "2026-11-23",
+    "description": "Hayleys enters healthcare business",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-enters-healthcare-business/34-800472",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795404405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-5237a1f7",
+    "num": "dailymirrorlk-5237a1f7",
+    "date_str": "2026-11-23",
+    "description": "Sri Lanka, Thailand exchange visa-free travel agreement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Thailand-exchange-visa-free-travel-agreement/108-355510",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795405677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-7f4ae1dd",
+    "num": "dailymirrorlk-7f4ae1dd",
+    "date_str": "2026-11-23",
+    "description": "Four injured as STF vehicle collides with train in Weligama",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-injured-as-STF-vehicle-collides-with-train-in-Weligama/108-355511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795406641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-f72b4f0f",
+    "num": "dailymirrorlk-f72b4f0f",
+    "date_str": "2026-11-23",
+    "description": "Global climate summit collapses as countries fail to agree on moving away from fossil fuels",
+    "url_metadata": "https://www.dailymirror.lk/international/Global-climate-summit-collapses-as-countries-fail-to-agree-on-moving-away-from-fossil-fuels/107-355512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795407157.0
   }
 ]
