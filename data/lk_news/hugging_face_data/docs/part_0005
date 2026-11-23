@@ -118290,5 +118290,93 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795420500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-4e92e7a7",
+    "num": "dailymirrorlk-4e92e7a7",
+    "date_str": "2026-11-23",
+    "description": "UK teacher who had sex with pupil 30 times faces sentencing after court no-show",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-teacher-who-had-sex-with-pupil-30-times-faces-sentencing-after-court-no-show/107-355555",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795421611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-8b469c63",
+    "num": "dailymirrorlk-8b469c63",
+    "date_str": "2026-11-23",
+    "description": "Colombo\u2013Kandy main road to close for seven hours tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ColomboKandy-main-road-to-close-for-seven-hours-tonight/108-355556",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795421812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-58d089be",
+    "num": "dailymirrorlk-58d089be",
+    "date_str": "2026-11-23",
+    "description": "Two fishermen killed in Trincomalee train accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-fishermen-killed-in-Trincomalee-train-accident/108-355557",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795421903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-d6c67f21",
+    "num": "dailymirrorlk-d6c67f21",
+    "date_str": "2026-11-23",
+    "description": "Houthis claim attack on Saudi oil refinery",
+    "url_metadata": "https://www.dailymirror.lk/international/Houthis-claim-attack-on-Saudi-oil-refinery/107-355563",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795423289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-6c36c6dc",
+    "num": "dailymirrorlk-6c36c6dc",
+    "date_str": "2026-11-23",
+    "description": "Sri Lankan Rupee appreciates slightly against USD",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Rupee-appreciates-slightly-against-USD/108-355566",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795423374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-35dee351",
+    "num": "dailymirrorlk-35dee351",
+    "date_str": "2026-11-23",
+    "description": "MEPA to claim compensation over Colombo Port oil spill",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MEPA-to-claim-compensation-over-Colombo-Port-oil-spill/108-355569",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795427321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-95a2a78e",
+    "num": "dailymirrorlk-95a2a78e",
+    "date_str": "2026-11-23",
+    "description": "Army rowers dominate Defence Services Championship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Army-rowers-dominate-Defence-Services-Championship/108-355570",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795428371.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-fd03f40d",
+    "num": "dailymirrorlk-fd03f40d",
+    "date_str": "2026-11-23",
+    "description": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+    "url_metadata": "https://www.dailymirror.lk/international/Zelenskyy-says-Ukraine-behind-drone-attacks-on-Russian-ships-near-Libya/107-355571",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795428521.0
   }
 ]
