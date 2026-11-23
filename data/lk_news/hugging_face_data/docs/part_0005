@@ -118730,5 +118730,16 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795436340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-23-dailymirrorlk-c58ff4a8",
+    "num": "dailymirrorlk-c58ff4a8",
+    "date_str": "2026-11-23",
+    "description": "Aruni Ranaraja to be appointed as Sri Lanka\u2019s Ambassador to US",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Aruni-Ranaraja-to-be-appointed-as-Sri-Lankas-Ambassador-to-US/108-355578",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795442163.0
   }
 ]

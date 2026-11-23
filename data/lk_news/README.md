@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--23_17:55:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--23_19:55:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,738** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,739** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-23-virakesarilk-4734a159",
-    "num": "virakesarilk-4734a159",
+    "doc_id": "2026-11-23-dailymirrorlk-c58ff4a8",
+    "num": "dailymirrorlk-c58ff4a8",
     "date_str": "2026-11-23",
-    "description": "\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf \u0b85\u0b9f\u0b95\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/267844",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795436340.0
+    "description": "Aruni Ranaraja to be appointed as Sri Lanka\u2019s Ambassador to US",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Aruni-Ranaraja-to-be-appointed-as-Sri-Lankas-Ambassador-to-US/108-355578",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795442163.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-23 | `dailymirrorlk-c58ff4a8` | Aruni Ranaraja to be appointed as Sri Lanka’s Ambassador to US | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-dailymirrorlk-c58ff4a8)
 - 2026-11-23 | `virakesarilk-4734a159` | காதலனின் பணத் தேவைக்காகத் தாயின் தாலிக்கொடியைத் திருடி அடகு வைத்த யுவதி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-4734a159)
 - 2026-11-23 | `virakesarilk-1d365354` | லிபியா துறைமுகத்தில் நங்கூரமிட்டிருந்த ரஷ்யப் போர்க்கப்பல் மீது உக்ரேன் ட்ரோன் தாக்குதல்: கப்பலை மூழ்கடித்ததாக ஜனாதிபதி ஜெலன்ஸ்கி அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-1d365354)
 - 2026-11-23 | `dailymirrorlk-47c9a637` | Sri Lanka hopeful of securing RCEP membership: Foreign Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-dailymirrorlk-47c9a637)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-23 | `virakesarilk-d24ebc9e` | கொழும்பு துறைமுக எண்ணெய் கசிவு : சுற்றாடல் பாதிப்புக்கு இழப்பீடு கோர தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-d24ebc9e)
 - 2026-11-23 | `virakesarilk-50cc87c0` | விஜே ஆஷிக்-  பிரதீப் ராஜ் இணைந்து தோன்றும் 'தமிழினி' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-50cc87c0)
 - 2026-11-23 | `virakesarilk-18036921` | பண முதலீட்டு மோசடியை விவரிக்கும் நடிகர் அஜய் நடிக்கும் 'மதுர மோசடி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-18036921)
-- 2026-11-23 | `dailymirrorlk-fd03f40d` | Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-dailymirrorlk-fd03f40d)
 
 ---
 
