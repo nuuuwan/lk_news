@@ -1,0 +1,213 @@
+From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part II
+
+In the previous article (https://www.ft.lk/columns/From-monsoon-to-management-Colombo-s-heavy-weather-and-building-a-flood-resilient-Sri-Lanka-Part-I/4-800073), we explored the background factors feeding in to Colombo’s recent stormwater stress. Today, we continue to examine features of a national plan to mitigate the devastating impact of flash floods in and beyond our beleaguered commercial capital.
+
+May we make so bold as to present a recommended policy framework under the proposed title of Sri Lanka National Flood Resilience and Water Security Program (2027–2040).
+
+Its policy objective is to substantially reduce the human, economic, environmental and infrastructural consequences of flooding through integrated water management, climate-resilient infrastructure, ecological restoration and accountable governance.
+
+And its geographical scope would be national, with initial priority given to Greater Colombo and the Kelani, Kalu, Gin, Nilwala and Attanagalu Oya river basins.
+
+This comes with implementation horizons of immediate measures (0–12 months), medium-term reforms (1–5 years) and structural transformation (5–14 years).
+
+This is the highest ecological priority. The first principle should be to retain as much rainfall as possible within the natural landscape before it reaches urban drainage systems. This requires a national wetland and floodplain protection program.
+
+Conduct a comprehensive satellite-based inventory of wetlands, marshes, paddy fields, retention ponds, floodplains and natural drainage paths.
+
+Legally protect designated flood-retention areas against reclamation and inappropriate development.
+
+Restore degraded wetlands, including those in the Greater Colombo basin.
+
+Create additional retention ponds and urban lakes where hydrological studies demonstrate their suitability.
+
+A particularly important measure would be to establish a legally enforceable No Net Loss of Flood-Storage Capacity principle.
+
+Any development that removes or reduces an existing flood-retention area should be prohibited unless an independently verified assessment demonstrates that equivalent or greater storage capacity will be provided within the same hydrological catchment.
+
+Preferably, development should avoid destroying the original wetland altogether. Replacement storage elsewhere may not provide the same protection to the affected neighbourhood.
+
+This matters enormously because wetlands provide flood protection without requiring constant pumping or mechanical intervention. They also provide biodiversity, improve water quality, reduce urban heat and contribute to carbon storage.
+
+The World Bank’s Colombo wetland assessment demonstrates the considerable hydrological value of these ecosystems.
+
+Colombo requires a comprehensive reassessment of its entire stormwater network. Simply enlarging individual drains will not necessarily solve the problem. The system must be examined from the point where rainfall reaches the ground to the final point where water is discharged into the river or sea.
+
+Replace or enlarge undersized drains based on updated rainfall-intensity modelling.
+
+One particularly important technical issue is the interaction between rainfall, river levels and tidal conditions.
+
+Drainage systems should be designed to function during compound events in which intense rainfall coincides with high Kelani River levels or unfavourable tides.
+
+This is not theoretical. Research on Colombo’s drainage network has documented the reduction in outfall capacity when high Kelani River levels necessitate closure of particular gates.
+
+A critical recommendation is to commission an independent, basin-wide engineering audit of Colombo’s existing drainage infrastructure.
+
+The audit should establish actual capacity of each major drainage channel; current condition and maintenance requirements; storage capacity available in wetlands and canals; pumping and outfall capacity; locations of recurrent bottlenecks; rainfall thresholds at which different parts of the system fail.
+
+The results should be publicly accessible. The reported 30 mm/hour design capacity should be investigated in particular. And it should not automatically be assumed that every component of Colombo’s drainage network has the same design standard.
+
+Urban planning must become an instrument of flood prevention. Sri Lanka should introduce mandatory flood-risk assessments for all significant development proposals.
+
+These should apply particularly to residential housing schemes; commercial and industrial developments; roads and transport infrastructure; large-scale land reclamation; Government construction projects; and developments near rivers, wetlands and drainage reservations.
+
+A developer should demonstrate that a proposed project will not increase flood risk for neighbouring properties or communities.
+
+The following measures are important (as are their intended outcomes):
+
+Meanwhile, Singapore’s experience with integrated urban water management provides useful lessons, particularly its approach to combining drainage engineering, natural waterways, public spaces and water-sensitive urban design.
+
+Sri Lanka should adapt such approaches to its own geography, rainfall patterns and financial circumstances rather than simply importing expensive engineering solutions.
+
+This is arguably the most important institutional reform. Sri Lanka needs an organisation with clear responsibility for coordinating flood-risk management across the Greater Colombo hydrological basin.
+
+May we recommend establishing a Greater Colombo Flood Resilience Authority (GCFRA), initially through legislation or an appropriate statutory framework.
+
+It should coordinate the work of the Sri Lanka Land Development Corporation; Colombo Municipal Council; Urban Development Authority; Road Development Authority; Irrigation Department; Department of Meteorology; the National Disaster Management Centre; and relevant neighbouring local authorities.
+
+Its responsibilities should include basin-wide flood planning; drainage infrastructure coordination; wetland and retention-area protection; maintenance standards, flood-risk mapping; emergency coordination; capital investment planning; and public reporting and performance monitoring.
+
+The authority should not necessarily absorb every existing institution or duplicate their technical expertise. Instead, it should establish a single accountable framework for outcomes that currently depend on multiple agencies.
+
+Its governing board should include independent engineering, hydrological, environmental and urban-planning expertise. And it should publish an annual report documenting progress, expenditure, infrastructure condition and flood-risk reduction.
+
+Colombo’s flooding is a warning about the relationship between economic development and environmental stewardship. Sri Lanka has the scientific knowledge, historical experience and institutional foundations to address the problem. What is required now is sustained political commitment, coordinated execution and the willingness to treat water management as a core component of national development rather than an emergency service activated whenever the heavens open!
+
+For the rest of the country, similar coordination arrangements should be established at river-basin level.
+
+Sri Lanka should invest in a modern, integrated hydro-meteorological forecasting system.
+
+This should combine Doppler weather radar; satellite rainfall observations; automated rain gauges; river-level sensors; reservoir-level monitoring; tide and coastal water-level observations; numerical weather prediction; and flood-inundation modelling.
+
+The objective should be to provide increasingly accurate warnings at neighbourhood and river-basin level, rather than relying primarily on general warnings covering large geographical areas.
+
+For Colombo, a useful system would be capable of identifying areas likely to receive extreme rainfall; expected rainfall intensity over the next one to six hours; locations where drains are approaching capacity; neighbourhoods likely to experience flash flooding; and whether river or tidal conditions will impede drainage.
+
+Warnings should be delivered through mobile networks, public broadcasting, local authorities and community communication networks.
+
+The system should also distinguish between three types of warning: a) heavy rainfall expected; b) localised flash flooding imminent; and c) major river or basin flooding anticipated. These are different hazards and require different responses.
+
+An important opportunity is for Sri Lanka’s meteorological authorities to investigate whether MJO-informed sub-seasonal forecasting can improve preparedness during the October–November second inter-monsoon period. The scientific evidence provides a basis for developing this capability.
+
+Drainage infrastructure cannot perform effectively when canals and drains become repositories for solid waste. But this is not merely a matter of public education. It requires a properly functioning municipal waste-management system.
+
+Recommended measures include reliable household waste collection; separate collection of recyclable materials; more effective management of construction debris; regular mechanical cleaning of drains; CCTV monitoring at recurrent illegal dumping locations; enforcement against commercial and industrial dumping; public reporting of blocked drains; and community participation in protecting local waterways.
+
+A useful innovation would be a publicly accessible digital reporting system through which residents can photograph and report blocked drains, illegal dumping and unauthorised structures. Each complaint should receive a reference number and a defined response period. And municipal authorities should publish monthly performance statistics.
+
+Illegal construction must be addressed, but enforcement should be fair and technically informed.
+
+It is essential to distinguish between structures that directly obstruct drainage channels; developments that occupy designated flood-retention land; buildings that are exposed to flood risk but do not obstruct water movement; and informal settlements that have developed because of inadequate affordable housing. These categories should not be treated identically.
+
+Where removal is necessary, affected residents must be provided with suitable alternative accommodation, secure tenure where appropriate and access to employment, education and public transport.
+
+Conversely, commercial developers and other property owners who unlawfully obstruct waterways should not receive preferential treatment.
+
+The guiding principle should be that the public interest in flood protection takes precedence over private gain, but that enforcement must respect human rights and due process.
+
+Flood mitigation should extend beyond drainage. Hospitals, schools, power stations, telecommunications infrastructure, water-supply installations and transport networks must be designed to remain operational during floods.
+
+Measures should include raising critical electrical and mechanical equipment above expected flood levels; protecting underground electrical installations; designing road drainage to minimise traffic disruption; providing emergency access routes; introducing flood-resistant construction standards; protecting drinking-water supplies against contamination; and requiring emergency continuity plans for essential public services.
+
+The objective should be to prevent a local flood from becoming a national economic disruption.
+
+Flood resilience requires sustained investment. Sri Lanka should establish a dedicated, multi-year flood-resilience financing program, rather than depending on annual emergency allocations.
+
+Possible sources include Government capital expenditure; reprioritisation of existing urban-development projects; multilateral development financing; climate-adaptation funding; public-private partnerships (PPP) for suitable infrastructure; and environmental levies on developments that create additional runoff, subject to appropriate safeguards.
+
+A useful economic principle is that the cost of preventing flood damage should be compared with the expected recurring cost of inaction.
+
+The World Bank has documented the considerable economic exposure associated with flooding in Greater Colombo. Its assessment of the May 2016 floods estimated approximately US$310 million in economic damage in Colombo.
+
+Preventive investment should therefore be treated as economic infrastructure, not simply environmental expenditure.
+
+A policy is only as good as its implementation arrangements. The following is a proposed sequence.
+
+Phase I: Immediate intervention - 0–12 months (Nov. 2026–Nov. 2027)
+
+Expected result: reduced vulnerability to foreseeable flooding and improved emergency response.
+
+Expected result: a measurable reduction in flood frequency, depth and duration in priority urban locations.
+
+Extend the program to vulnerable secondary cities and river basins.
+
+Expected result: a nationally integrated system capable of managing increasingly extreme rainfall with substantially reduced social and economic consequences.
+
+The following proposed allocation of responsibilities may come to serve:
+
+A central requirement should be that each institution has clearly defined responsibilities, budgets and performance indicators. The public should not have to navigate a maze of agencies to discover who is responsible for a blocked canal or a failed drainage facility.
+
+What should Sri Lanka actually achieve? It is important not to define success simply as the absence of flooding. No responsible Government can guarantee that an exceptionally severe rainfall event will never inundate a city. And instead, the program should be assessed against measurable targets.
+
+(The writer is the Editor-at-large of LMD and is a senior journalist with a Post-graduate Diploma in Politics and Governance)
+
+May we recommend the following proposed indicators and targets. These are policy targets, not existing Government commitments.
+
+Recurrent flood locations (Annual reduction in flood depth and duration)
+
+An additional requirement should be to publish a detailed flood-loss database. It should record the location, depth, duration and economic consequences of each significant flood event. Without such information, it is difficult to establish whether interventions are genuinely reducing risk.
+
+There are several tempting responses that could prove expensive or counterproductive.
+
+Firstly, building bigger drains everywhere. Enlarging drains without improving storage and downstream discharge capacity may simply transfer flooding from one neighbourhood to another.
+
+Secondly, treating wetlands as expendable. Wetlands cannot be replaced by concrete drainage infrastructure alone. Their ecological and hydrological functions are too important.
+
+Thirdly, responding with periodic canal-cleaning campaigns. Cleaning is essential, but it is not a substitute for adequate infrastructure, enforcement and permanent maintenance budgets.
+
+Fourthly, relocating vulnerable communities without a social policy. Moving people away from flood-prone locations without providing viable housing and livelihoods can create a different social disaster.
+
+Fifthly, treating every flood as an isolated event. The meteorological trigger may differ from one year to another, but the underlying vulnerabilities are often remarkably similar.
+
+Sixthly, spending without independent evaluation. Every major drainage and flood-control project should undergo independent technical and financial assessment, including an evaluation of whether it actually reduces flood risk elsewhere in the basin.
+
+There is potential for reconnecting Sri Lanka with its hydraulic civilisation, which is a larger national development opportunity. The island nation with its network of rivers, lakes and tanks possesses an extraordinary historical inheritance in water management.
+
+Its ancient civilisation developed sophisticated systems for collecting, storing, regulating and distributing water. The tank cascades of the dry zone demonstrate an understanding of hydrological interdependence, landscape management and community stewardship.
+
+Modern Sri Lanka should not romanticise the past or assume ancient technology can solve contemporary urban problems. But it should recognise the underlying wisdom. And water must be managed as a system.
+
+A tank is connected to its catchment. A canal is connected to its outfall. A wetland is connected to its surrounding landscape. A river is connected to the communities upstream and downstream. This systemic understanding is precisely what modern flood management requires.
+
+There is also an opportunity to reconnect environmental protection with economic development. Restored wetlands can become recreational spaces, biodiversity reserves and environmental education centres.
+
+Better drainage can improve property values, public health and commercial productivity. More reliable flood forecasting can protect agricultural production and infrastructure investment.
+
+Flood resilience should therefore be understood as an investment in national prosperity.
+
+We could draw five principal conclusions from this policy schema.
+
+First: Meteorological extremes are becoming an increasingly important planning challenge. Sri Lanka must prepare for rainfall events that exceed historical expectations. The November 2026 Colombo inundation demonstrates the consequences of designing infrastructure around insufficient rainfall-intensity assumptions.
+
+Second: Human activity has amplified the consequences of natural hazards. Wetland destruction, unplanned development, inadequate drainage, blocked canals and poor land-use enforcement have reduced our country’s capacity to absorb extreme rainfall.
+
+Third: The institutional issue is as important as the engineering problem. Multiple public agencies share responsibility for drainage, waterways, development and emergency management. Effective coordination and accountability are indispensable.
+
+Fourth: Sri Lanka needs a national program, not another collection of isolated projects. Colombo deserves immediate attention, but riverine flooding, reservoir management, landslides and coastal inundation require a broader national framework.
+
+Fifth: Prevention must become an economic and political priority. The recurring cost of flood damage, emergency expenditure, lost working days, disrupted commerce, damaged infrastructure and displaced households is likely to outweigh much of the investment required to improve resilience.
+
+If the Government could concentrate on just six (shall we say) major interventions, perhaps it would do well to prioritise these:
+
+1. Protect the wetlands: Legally secure Colombo’s remaining natural flood-retention areas.
+
+2. Rebuild drainage intelligently: Conduct a basin-wide engineering audit and upgrade the most critical bottlenecks.
+
+3. Unify responsibility: Establish an accountable Greater Colombo Flood Resilience Authority.
+
+4. Control development: Prevent further construction on floodplains and obstructed drainage reservations.
+
+5. Modernise forecasting: Introduce integrated rainfall, river-level and neighbourhood flood-warning systems.
+
+6. Fund maintenance permanently: Ensure that infrastructure remains functional long after the political attention surrounding a disaster has disappeared.
+
+Sri Lanka cannot command the clouds – no matter how just or righteous its rulers are or claim to be – but it can certainly determine what happens when the rain falls.
+
+It can preserve the land that absorbs water, build infrastructure that manages excess rainfall, plan settlements around natural drainage systems, and create institutions capable of anticipating and responding to disasters.
+
+The real challenge is not simply to prevent the next flood. It is to ensure that the next exceptional rainfall event does not become the next national disaster.
+
+Colombo’s flooding is a warning about the relationship between economic development and environmental stewardship. Sri Lanka has the scientific knowledge, historical experience and institutional foundations to address the problem.
+
+What is required now is sustained political commitment, coordinated execution and the willingness to treat water management as a core component of national development rather than an emergency service activated whenever the heavens open!
+
+(The writer is the Editor-at-large of LMD and is a senior journalist with a Post-graduate Diploma in Politics and Governance)
