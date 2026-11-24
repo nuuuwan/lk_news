@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_03:55:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_06:06:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,750** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,751** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailyftlk-55618b93",
-    "num": "dailyftlk-55618b93",
+    "doc_id": "2026-11-24-dailymirrorlk-f16d5e63",
+    "num": "dailymirrorlk-f16d5e63",
     "date_str": "2026-11-24",
-    "description": "Sri Lanka\u2019s 2027 Budget: From economic stabilisation to economic transformation",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-2027-Budget-From-economic-stabilisation-to-economic-transformation/4-800480",
+    "description": "Sri Lanka reach two knockout stages as UK lands 2035 World Cup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reach-two-knockout-stages-as-UK-lands-2035-World-Cup/108-355586",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795462036.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795476709.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-24 | `dailymirrorlk-f16d5e63` | Sri Lanka reach two knockout stages as UK lands 2035 World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-f16d5e63)
 - 2026-11-24 | `dailyftlk-55618b93` | Sri Lanka’s 2027 Budget: From economic stabilisation to economic transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailyftlk-55618b93)
 - 2026-11-23 | `dailyftlk-438eacbf` | Sri Lanka’s trade and diplomatic ties under fresh scrutiny post US midterm election | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-dailyftlk-438eacbf)
 - 2026-11-23 | `dailyftlk-363e5757` | Friends with all, subservient to none: Why Sri Lanka must guard its national interest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-dailyftlk-363e5757)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-11-23 | `virakesarilk-2e914f25` | இந்தியாவிலிருந்து நாடு திரும்பினால் முன்னாள் பிரதமர் ஷேக் ஹசீனா உடனடியாகக் கைது செய்யப்பட்டு சிறையில் அடைக்கப்படுவார் - பங்களாதேஷ் அரசாங்கம் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-2e914f25)
 - 2026-11-23 | `virakesarilk-56e62e63` | யாழில் நிலவிய வானிலையினால் மீண்டும் சென்னைக்கு திரும்பிய விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-56e62e63)
 - 2026-11-23 | `virakesarilk-6c105e6a` | கட்டுப்பாட்டை மீறும் செயற்கை நுண்ணறிவு: அமெரிக்க - சீன செயற்கை நுண்ணறிவு அவசரத் தொடர்பு மையம் போரைத் தடுக்குமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-6c105e6a)
-- 2026-11-23 | `virakesarilk-b26867d9` | இந்தோனேசியாவில் தொழிற்சாலை தீ விபத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை 24 ஆக அதிகரிப்பு  ; காணாமல் போனவர்களை தேடும் பணி தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-23-virakesarilk-b26867d9)
 
 ---
 

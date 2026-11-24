@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-24 03:54:02",
-  "n_docs": 136750,
+  "time_updated": "2026-11-24 06:05:59",
+  "n_docs": 136751,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136750,
+  "n_docs_with_text": 136751,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-24",
-  "dataset_size": 2111792660,
+  "dataset_size": 2111798046,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailyftlk-55618b93",
-    "num": "dailyftlk-55618b93",
+    "doc_id": "2026-11-24-dailymirrorlk-f16d5e63",
+    "num": "dailymirrorlk-f16d5e63",
     "date_str": "2026-11-24",
-    "description": "Sri Lanka\u2019s 2027 Budget: From economic stabilisation to economic transformation",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-2027-Budget-From-economic-stabilisation-to-economic-transformation/4-800480",
+    "description": "Sri Lanka reach two knockout stages as UK lands 2035 World Cup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reach-two-knockout-stages-as-UK-lands-2035-World-Cup/108-355586",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795462036.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795476709.0
   }
 }
