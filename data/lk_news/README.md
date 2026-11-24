@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_11:58:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_13:56:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,803** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,815** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-virakesarilk-d6ed19e4",
-    "num": "virakesarilk-d6ed19e4",
+    "doc_id": "2026-11-24-dailymirrorlk-766e4353",
+    "num": "dailymirrorlk-766e4353",
     "date_str": "2026-11-24",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b9a\u0baf\u0bae\u0bcd!  \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0baa\u0bbf\u0bb0\u0bae\u0bcd\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/267892",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795501320.0
+    "description": "GRI wins Silver for cleaner production",
+    "url_metadata": "https://www.dailymirror.lk/business/GRI-wins-Silver-for-cleaner-production/215-355617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507795.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-24 | `dailymirrorlk-766e4353` | GRI wins Silver for cleaner production | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-766e4353)
+- 2026-11-24 | `dailymirrorlk-470a8485` | HighVoltagePR leads influencer rollout for Daraz 11.11 Big Boss Sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-470a8485)
+- 2026-11-24 | `dailymirrorlk-2b9e45bd` | Xiteb’s xCommerz marks 3 years of int’l recognition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-2b9e45bd)
+- 2026-11-24 | `dailymirrorlk-e1de65f5` | Bhasha Lanka celebrates 15 years of innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-e1de65f5)
+- 2026-11-24 | `dailymirrorlk-ffa61b1a` | PayMedia wins Sustainable FinTech Innovation Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-ffa61b1a)
+- 2026-11-24 | `dailymirrorlk-a2ae4b60` | AIA shines at 17th National Forum for Life Insurance Advisors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a2ae4b60)
+- 2026-11-24 | `dailymirrorlk-b50cb872` | US Embassy to close for two days for Thanksgiving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-b50cb872)
+- 2026-11-24 | `dailymirrorlk-e5f5e652` | A Buddhist Perspective on the Death Penalty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-e5f5e652)
+- 2026-11-24 | `dailymirrorlk-dc5a66ef` | Lightning warning issued for several districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-dc5a66ef)
+- 2026-11-24 | `dailymirrorlk-20e78dc0` | Marikkar questions appointments and alleged interference at Foreign Employment Bureau | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-20e78dc0)
+- 2026-11-24 | `dailymirrorlk-51ebae03` | India to test all bottled water brands after Bisleri sample found unsafe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-51ebae03)
+- 2026-11-24 | `dailymirrorlk-fb75be3e` | Supermoon to light up Sri Lankan skies tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-fb75be3e)
 - 2026-11-24 | `virakesarilk-d6ed19e4` | இன்று இரவு வானில் அதிசயம்!  வழக்கத்தை விட பிரம்மாண்டமாகத் தோன்றும் முழு நிலவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-d6ed19e4)
 - 2026-11-24 | `virakesarilk-c13a129d` | பதியத்தலாவையில் மூன்று வாகனங்கள் மோதியதில் ஒருவர் உயிரிழப்பு ; ஐவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c13a129d)
 - 2026-11-24 | `dailymirrorlk-3733fc8d` | ’Here’s to one more’: Lewis targets Sri Lanka scalp in final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-3733fc8d)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2026-11-24 | `virakesarilk-5d172fcf` | சிலாபம் கடற்கரையில் கைவிடப்பட்ட நிலையில் சுமார் 450 கிலோ பீடி இலைகள் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-5d172fcf)
 - 2026-11-24 | `virakesarilk-9e3013c9` | முல்லைத்தீவில் ஹெப் ரக வாகனம் மோதி வயோதிபர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-9e3013c9)
 - 2026-11-24 | `virakesarilk-c9e5eab2` | பொரளையில் சுற்றுலாப் பயணிகள் தங்குமிடத்தில் தீ விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c9e5eab2)
-- 2026-11-24 | `dailymirrorlk-77f96584` | Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-77f96584)
-- 2026-11-24 | `virakesarilk-b78e8064` | திருடப்பட்ட மோட்டார் சைக்கிள்கள், பெருமளவான உதிரிப்பாகங்களுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-b78e8064)
-- 2026-11-24 | `virakesarilk-c8a944a8` | பண்டாரநாயக்க மாநாட்டு மண்டப வாகனத் தரிப்பிடத்தில் யானைத் தந்தத் துண்டுகளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c8a944a8)
-- 2026-11-24 | `virakesarilk-13447414` | அப்கன்ட்றி லயன்ஸின் வெற்றி அலைக்கு முடிவு கட்டியது கலம்போ எவ்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-13447414)
-- 2026-11-24 | `dailymirrorlk-61f4ad7c` | Supply constraints hit essential food commodity market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-61f4ad7c)
-- 2026-11-24 | `virakesarilk-a7672ab1` | அங்குருவாதொட்ட பகுதியில் மறைத்து வைக்கப்பட்டிருந்த துப்பாக்கி ரவைகள், கைவிலங்கு மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-a7672ab1)
-- 2026-11-24 | `dailymirrorlk-447295aa` | Chinese nationals fined Rs. 76.4 mn over Sinharaja wildlife theft | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-447295aa)
-- 2026-11-24 | `virakesarilk-2e3d7bf0` | கொஹுவலையில் கார் விபத்து ; 16 வயதுடைய  சிறுவன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-2e3d7bf0)
-- 2026-11-24 | `dailymirrorlk-a6b99227` | Illegally assembled jeep seized in Bandarawela | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a6b99227)
-- 2026-11-24 | `virakesarilk-985b2aff` | ஜனாதிபதி அநுர குமார திஸாநாயக்கவின் 58 ஆவது பிறந்த தினம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-985b2aff)
-- 2026-11-24 | `dailymirrorlk-6149d3ba` | Sri Lanka, Thailand discuss FTA and visa-free travel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-6149d3ba)
-- 2026-11-24 | `dailymirrorlk-d43f4f79` | Pahala Kadugannawa road reopened after maintenance work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-d43f4f79)
 
 ---
 

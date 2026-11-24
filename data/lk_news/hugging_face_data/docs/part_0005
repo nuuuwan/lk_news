@@ -119445,5 +119445,137 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795501320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-fb75be3e",
+    "num": "dailymirrorlk-fb75be3e",
+    "date_str": "2026-11-24",
+    "description": "Supermoon to light up Sri Lankan skies tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supermoon-to-light-up-Sri-Lankan-skies-tonight/108-355602",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795502501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-51ebae03",
+    "num": "dailymirrorlk-51ebae03",
+    "date_str": "2026-11-24",
+    "description": "India to test all bottled water brands after Bisleri sample found unsafe",
+    "url_metadata": "https://www.dailymirror.lk/international/India-to-test-all-bottled-water-brands-after-Bisleri-sample-found-unsafe/107-355603",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795502512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-20e78dc0",
+    "num": "dailymirrorlk-20e78dc0",
+    "date_str": "2026-11-24",
+    "description": "Marikkar questions appointments and alleged interference at Foreign Employment Bureau",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Marikkar-questions-appointments-and-alleged-interference-at-Foreign-Employment-Bureau/108-355605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795504137.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-dc5a66ef",
+    "num": "dailymirrorlk-dc5a66ef",
+    "date_str": "2026-11-24",
+    "description": "Lightning warning issued for several districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lightning-warning-issued-for-several-districts/108-355606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795504742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-e5f5e652",
+    "num": "dailymirrorlk-e5f5e652",
+    "date_str": "2026-11-24",
+    "description": "A Buddhist Perspective on the Death Penalty",
+    "url_metadata": "https://www.dailymirror.lk/opinion/A-Buddhist-Perspective-on-the-Death-Penalty/172-355607",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795506589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-b50cb872",
+    "num": "dailymirrorlk-b50cb872",
+    "date_str": "2026-11-24",
+    "description": "US Embassy to close for two days for Thanksgiving",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Embassy-to-close-for-two-days-for-Thanksgiving/108-355608",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795506649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-a2ae4b60",
+    "num": "dailymirrorlk-a2ae4b60",
+    "date_str": "2026-11-24",
+    "description": "AIA shines at 17th National Forum for Life Insurance Advisors",
+    "url_metadata": "https://www.dailymirror.lk/business/AIA-shines-at-17th-National-Forum-for-Life-Insurance-Advisors/215-355612",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-ffa61b1a",
+    "num": "dailymirrorlk-ffa61b1a",
+    "date_str": "2026-11-24",
+    "description": "PayMedia wins Sustainable FinTech Innovation Award",
+    "url_metadata": "https://www.dailymirror.lk/business/PayMedia-wins-Sustainable-FinTech-Innovation-Award/215-355613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-e1de65f5",
+    "num": "dailymirrorlk-e1de65f5",
+    "date_str": "2026-11-24",
+    "description": "Bhasha Lanka celebrates 15 years of innovation",
+    "url_metadata": "https://www.dailymirror.lk/business/Bhasha-Lanka-celebrates-15-years-of-innovation/215-355614",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-2b9e45bd",
+    "num": "dailymirrorlk-2b9e45bd",
+    "date_str": "2026-11-24",
+    "description": "Xiteb\u2019s xCommerz marks 3 years of int\u2019l recognition",
+    "url_metadata": "https://www.dailymirror.lk/business/Xitebs-xCommerz-marks-3-years-of-intl-recognition/215-355615",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-470a8485",
+    "num": "dailymirrorlk-470a8485",
+    "date_str": "2026-11-24",
+    "description": "HighVoltagePR leads influencer rollout for Daraz 11.11 Big Boss Sale",
+    "url_metadata": "https://www.dailymirror.lk/business/HighVoltagePR-leads-influencer-rollout-for-Daraz-11-11-Big-Boss-Sale/215-355616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-766e4353",
+    "num": "dailymirrorlk-766e4353",
+    "date_str": "2026-11-24",
+    "description": "GRI wins Silver for cleaner production",
+    "url_metadata": "https://www.dailymirror.lk/business/GRI-wins-Silver-for-cleaner-production/215-355617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795507795.0
   }
 ]
