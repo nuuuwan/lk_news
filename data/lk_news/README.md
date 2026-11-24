@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_01:54:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_03:53:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,881** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,886** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailymirrorlk-0e556561",
-    "num": "dailymirrorlk-0e556561",
-    "date_str": "2026-11-24",
-    "description": "Is government printing money, asks Ravi K",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-government-printing-money-asks-Ravi-K/108-355651",
+    "doc_id": "2026-11-25-dailyftlk-1ef4ee66",
+    "num": "dailyftlk-1ef4ee66",
+    "date_str": "2026-11-25",
+    "description": "Stop financial bleeding before expanding SriLankan Airlines",
+    "url_metadata": "https://www.ft.lk/columns/Stop-financial-bleeding-before-expanding-SriLankan-Airlines/4-800518",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795532394.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795558618.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-25 | `dailyftlk-1ef4ee66` | Stop financial bleeding before expanding SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-1ef4ee66)
+- 2026-11-25 | `dailyftlk-189077af` | Seizing new opportunities in China’s development, writing a new chapter in China-Sri Lanka cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-189077af)
+- 2026-11-25 | `dailyftlk-51009c7b` | Making aspiration affordable again: Notes from alternative Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-51009c7b)
+- 2026-11-25 | `dailyftlk-ec2ca59c` | Anuradhapura: Protecting our ancient water civilisation, archaeological heritage and national land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-ec2ca59c)
+- 2026-11-25 | `dailyftlk-bacb2cb2` | Growth deadlock: Diagnosing Sri Lanka’s detour from knowledge economy and charting the way forward - Part I | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-bacb2cb2)
 - 2026-11-24 | `dailymirrorlk-0e556561` | Is government printing money, asks Ravi K | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-0e556561)
 - 2026-11-24 | `virakesarilk-566cd540` | இந்து சமுத்திரத்தில் 6.5 மெக்னிடியூட் நிலநடுக்கம் ; இலங்கைக்கு சுனாமி அச்சுறுத்தல் இல்லை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-566cd540)
 - 2026-11-24 | `dailymirrorlk-4a5b1042` | Sri Lanka trio rise in ICC T20I rankings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4a5b1042)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-24 | `virakesarilk-3837113b` | தையிட்டி சட்டவிரோத விகாரை காணிகளை மீளக் கையளிக்கக் கோரி 2ஆவது நாளாகவும் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-3837113b)
 - 2026-11-24 | `dailymirrorlk-85da7cf8` | OPEC Fund to provide Sri Lanka with $30 million loan for reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-85da7cf8)
 - 2026-11-24 | `dailymirrorlk-456c71f3` | Sri Lanka Customs to receive UK technical assistance under new MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-456c71f3)
-- 2026-11-24 | `dailymirrorlk-5a88404a` | Man posing as British national arrested over gold jewellery thefts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-5a88404a)
-- 2026-11-24 | `dailymirrorlk-5e3699a0` | India grants Rs. 600 million for Puttalam Hospital upgrade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-5e3699a0)
-- 2026-11-24 | `dailymirrorlk-b6f7abaf` | India firm wins $4.29 million insulin supply contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-b6f7abaf)
-- 2026-11-24 | `dailymirrorlk-4134e08b` | China firm wins $828,000 drug supply contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4134e08b)
-- 2026-11-24 | `dailymirrorlk-3249df53` | Universities, media organisations silent on major media challenges, academic criticises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-3249df53)
 
 ---
 

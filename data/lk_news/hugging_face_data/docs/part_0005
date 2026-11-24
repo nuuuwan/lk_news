@@ -120303,5 +120303,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795532394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-bacb2cb2",
+    "num": "dailyftlk-bacb2cb2",
+    "date_str": "2026-11-25",
+    "description": "Growth deadlock: Diagnosing Sri Lanka\u2019s detour from knowledge economy and charting the way forward - Part I",
+    "url_metadata": "https://www.ft.lk/columns/Growth-deadlock-Diagnosing-Sri-Lanka-s-detour-from-knowledge-economy-and-charting-the-way-forward-Part-I/4-800513",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795555349.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-ec2ca59c",
+    "num": "dailyftlk-ec2ca59c",
+    "date_str": "2026-11-25",
+    "description": "Anuradhapura: Protecting our ancient water civilisation, archaeological heritage and national land",
+    "url_metadata": "https://www.ft.lk/columns/Anuradhapura-Protecting-our-ancient-water-civilisation-archaeological-heritage-and-national-land/4-800514",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795555781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-51009c7b",
+    "num": "dailyftlk-51009c7b",
+    "date_str": "2026-11-25",
+    "description": "Making aspiration affordable again: Notes from alternative Budget",
+    "url_metadata": "https://www.ft.lk/columns/Making-aspiration-affordable-again-Notes-from-alternative-Budget/4-800515",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795556643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-189077af",
+    "num": "dailyftlk-189077af",
+    "date_str": "2026-11-25",
+    "description": "Seizing new opportunities in China\u2019s development, writing a new chapter in China-Sri Lanka cooperation",
+    "url_metadata": "https://www.ft.lk/columns/Seizing-new-opportunities-in-China-s-development-writing-a-new-chapter-in-China-Sri-Lanka-cooperation/4-800517",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795558165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-1ef4ee66",
+    "num": "dailyftlk-1ef4ee66",
+    "date_str": "2026-11-25",
+    "description": "Stop financial bleeding before expanding SriLankan Airlines",
+    "url_metadata": "https://www.ft.lk/columns/Stop-financial-bleeding-before-expanding-SriLankan-Airlines/4-800518",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795558618.0
   }
 ]

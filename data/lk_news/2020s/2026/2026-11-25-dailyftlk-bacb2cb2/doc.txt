@@ -1,0 +1,59 @@
+Growth deadlock: Diagnosing Sri Lanka’s detour from knowledge economy and charting the way forward - Part I
+
+Presidential Address delivered at the Annual International Conference 2026 of the Sri Lanka Economic Association (SLEA), held on 21 November, 2026
+
+The theme of the Annual International Conference 2026 of the Sri Lanka Economic Association (SLEA) is not just relevant but absolutely vital for our nation's survival and future prosperity: "Paving the Way for Sri Lanka's Knowledge Economy". The country has been caught in the lower-middle-income trap for the last three decades. What went wrong for Sri Lanka? My answer can be encapsulated in two terms - "low productivity" and "closed economy".
+
+The Sri Lankan economy's low productivity is due to the diminishing returns on capital. In 1960, we required only three units of capital to produce one additional unit of output or GDP. Today we have to invest six units to yield the same output increase of one unit. This implies diminishing marginal returns on investment.
+
+Land, labour and capital have been the major drivers of Sri Lanka's GDP growth so far. We have invested heavily in factories, machinery and other physical capital only to gain diminishing marginal returns. As a result, the economy remains at a low equilibrium level. The only way to expand the country's production possibility frontier is to introduce knowledge inputs into our growth model.
+
+Low productivity, coupled with inward-looking economic strategies, has eroded export competitiveness, and Sri Lanka has now become a more closed economy. Its exports-to-GDP ratio came down from 27% in 1960 to just 14% in 2025. This means we are getting more and more isolated from the rest of the world.
+
+The resulting low GDP growth not only prevents improvement in people's quality of life but also disturbs macroeconomic stability, which is the very foundation of economic prosperity.
+
+As we look back at the economic shocks of the recent past, it has become abundantly clear that Sri Lanka can no longer rely solely on traditional, resource-dependent economic models. The global economic landscape is changing rapidly. Wealth is no longer dictated just by physical capital or raw labour, but by the generation, dissemination and application of knowledge. For Sri Lanka to unlock shock-resilient and sustainable long-term growth, a structural transition towards a knowledge-driven economy is the obvious choice.
+
+Knowledge-driven growth is rooted in Endogenous Growth Theory, developed by Paul Romer in 1990. It treats human capital, innovation and technological progress as internal drivers of economic growth, overcoming the diminishing returns of physical capital through non-rival public goods. Unlike physical machines or land, knowledge can be used simultaneously by multiple people and firms without wearing out or depleting. This creates increasing marginal returns rather than diminishing returns to scale.
+
+The older neoclassical models articulated by Robert Solow in 1956 asserted that technology fell 'from the sky' as an exogenous shock. In contrast, new growth models internalise research and development (R&D), education and spillovers as deliberate economic choices. Accordingly, long-run growth mainly depends on internally generated technological change by means of the key drivers - human capital, knowledge and R&D.
+
+The present era of the 5th Industrial Revolution (5IR or Industry 5.0) is a value-driven system that prioritises the synergy between human intelligence and advanced technology. While the 4th Industrial Revolution (4IR) focused on automation and efficiency, the 5IR shifts the focus back to human-centricity, sustainability and resilience. In this context, a knowledge economy that creates, disseminates and uses knowledge is essential to accelerate Sri Lanka's export-led growth and to escape the middle-income trap.
+
+To guide the deliberations in the technical sessions of this Conference, we focus on four foundational pillars that must be strengthened to secure this transition:
+
+Economic and Institutional Regime: A supportive economic environment and legal framework—such as strong intellectual property protection, good governance and open trade—that encourages investment and entrepreneurship;
+
+Education and Human Resources: An educated, skilled and literate population capable of creating, sharing and effectively using knowledge;
+
+Information and Communication Technology (ICT) Infrastructure: A dynamic and accessible communication network (such as the internet and modern telecommunications) that allows the fast and reliable processing and sharing of information; and
+
+Innovation Systems: A connected network of research centres, universities, private companies, think tanks and civil society groups that turn global and local knowledge into new products, services and solutions.
+
+Let us now look at the growth performance of Sri Lanka. Since the economic liberalisation policies adopted in late 1977, the annual average growth rate has hovered around 4%. Overall, GDP growth shows a declining trend during the period from 1977 to date.
+
+The average growth fluctuated significantly during this period, and it crossed the 8% mark only on two occasions. The first was in 1978, reflecting the pent-up demand that emerged immediately after liberalisation. The second outlier came in the three years following the cessation of the war in 2009 and was mainly caused by reconstruction activities. These growth spikes could not last long as they were not based on any structural transformation of the economy.
+
+The growth rate was in the negative region during 2019-2023 (except in 2021) amidst the COVID-19 pandemic and the economic crisis. The economic reforms adopted since 2022 helped the economy recover, as reflected in the moderate growth rate of 5% in 2024 and 2025. This recovery appears to be short-lived. For this year, the growth rate is expected to decline to 3.2%, according to official forecasts.
+
+Sri Lanka's growth performance is dismal in comparison with the fast-growing East Asian countries. Between 1960 and 2025, the economic landscape of these countries underwent a dramatic transformation, in contrast to Sri Lanka. While Japan and the Four Asian Tigers (South Korea, Taiwan, Singapore and Hong Kong) achieved extraordinary leaps in per capita wealth, Sri Lanka followed a volatile, low-growth trajectory.
+
+At the time of its independence, Sri Lanka (then Ceylon) had a higher per capita income than South Korea and was widely seen as a prospective economic model. However, differing choices in industrialisation strategy, political stability and total factor productivity led to a profound developmental divergence over the next six decades.
+
+Since the early 1960s, Japan and the Four Asian Tigers have transformed from war-torn, developing agrarian societies into high-income global powerhouses. Their per capita GDP skyrocketed from a range of $ 150 to $ 520 in 1960 to high-income levels ranging from $ 36,000 to nearly $ 100,000 today.
+
+Japan pioneered the "East Asian Developmental Model", using State-directed capitalism, aggressive export-oriented manufacturing and massive investment in technology to resurrect its economy.
+
+South Korea shifted aggressively from an agrarian economy to a global electronics and heavy-industry manufacturing hub, mainly by using technology and innovation. Its per capita GDP of $ 155 in 1960, which was marginally above Sri Lanka's per capita GDP of $ 146, grew exponentially to
+
+$ 36,227 by 2025. Today, Sri Lanka's per capita GDP is only $ 5,000.
+
+Singapore and Hong Kong capitalised on their strategic maritime locations to transition into world-class trade, logistics and financial centres. By 2025, Singapore surged to lead Asia with a per capita GDP close to $ 100,000, while Hong Kong reached $ 56,983.
+
+Sri Lanka, which had a comparable or higher economic baseline than some of its East Asian peers in the 1950s and early 1960s, experienced slower, volatile growth marred by a multitude of negative factors, including dogmatic political ideologies, prolonged ethnic conflict, civil unrest, inconsistent economic policies, structural bottlenecks, politically affiliated trade union protests, labour indiscipline and macroeconomic imbalances. Sri Lanka's per capita GDP crawled from $ 146 in 1960 to a mere $ 5,002 in 2025.
+
+Sri Lanka transitioned from a low-income country to a lower-middle-income country in 1997 and has remained in this category, except on two brief occasions. It first graduated to upper-middle-income status in 2019, but the achievement was short-lived as it was placed back in the lower-middle-income category the following year against the backdrop of the economic crisis.
+
+More recently, Sri Lanka was promoted to the upper-middle-income category for the second time in July 2026. With a per capita Gross National Income (GNI) of $ 4,670 in 2025, the country cleared the upper-middle-income threshold of $ 4,636 by a narrow margin of $ 34 per person. Overall, the country has been trapped in the middle-income category, mostly as a lower-middle-income country, for three decades.
+
+(The author is the President of the Sri Lanka Economic Association and Emeritus Professor in Economics at the Open University of Sri Lanka)
