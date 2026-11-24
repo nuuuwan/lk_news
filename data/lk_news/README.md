@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_13:56:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_15:52:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,815** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,853** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailymirrorlk-766e4353",
-    "num": "dailymirrorlk-766e4353",
+    "doc_id": "2026-11-24-virakesarilk-907190cc",
+    "num": "virakesarilk-907190cc",
     "date_str": "2026-11-24",
-    "description": "GRI wins Silver for cleaner production",
-    "url_metadata": "https://www.dailymirror.lk/business/GRI-wins-Silver-for-cleaner-production/215-355617",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795507795.0
+    "description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/267924",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1795514880.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-11-24 | `dailymirrorlk-766e4353` | GRI wins Silver for cleaner production | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-766e4353)
-- 2026-11-24 | `dailymirrorlk-470a8485` | HighVoltagePR leads influencer rollout for Daraz 11.11 Big Boss Sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-470a8485)
-- 2026-11-24 | `dailymirrorlk-2b9e45bd` | Xiteb’s xCommerz marks 3 years of int’l recognition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-2b9e45bd)
-- 2026-11-24 | `dailymirrorlk-e1de65f5` | Bhasha Lanka celebrates 15 years of innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-e1de65f5)
-- 2026-11-24 | `dailymirrorlk-ffa61b1a` | PayMedia wins Sustainable FinTech Innovation Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-ffa61b1a)
-- 2026-11-24 | `dailymirrorlk-a2ae4b60` | AIA shines at 17th National Forum for Life Insurance Advisors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a2ae4b60)
-- 2026-11-24 | `dailymirrorlk-b50cb872` | US Embassy to close for two days for Thanksgiving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-b50cb872)
-- 2026-11-24 | `dailymirrorlk-e5f5e652` | A Buddhist Perspective on the Death Penalty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-e5f5e652)
-- 2026-11-24 | `dailymirrorlk-dc5a66ef` | Lightning warning issued for several districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-dc5a66ef)
-- 2026-11-24 | `dailymirrorlk-20e78dc0` | Marikkar questions appointments and alleged interference at Foreign Employment Bureau | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-20e78dc0)
-- 2026-11-24 | `dailymirrorlk-51ebae03` | India to test all bottled water brands after Bisleri sample found unsafe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-51ebae03)
-- 2026-11-24 | `dailymirrorlk-fb75be3e` | Supermoon to light up Sri Lankan skies tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-fb75be3e)
-- 2026-11-24 | `virakesarilk-d6ed19e4` | இன்று இரவு வானில் அதிசயம்!  வழக்கத்தை விட பிரம்மாண்டமாகத் தோன்றும் முழு நிலவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-d6ed19e4)
-- 2026-11-24 | `virakesarilk-c13a129d` | பதியத்தலாவையில் மூன்று வாகனங்கள் மோதியதில் ஒருவர் உயிரிழப்பு ; ஐவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c13a129d)
-- 2026-11-24 | `dailymirrorlk-3733fc8d` | ’Here’s to one more’: Lewis targets Sri Lanka scalp in final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-3733fc8d)
-- 2026-11-24 | `dailymirrorlk-8dfe4fea` | Elephant caught on camera sneaking into kitchen for food | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-8dfe4fea)
-- 2026-11-24 | `virakesarilk-ff6e0eec` | தாய்லாந்து பிரதிப் பிரதமர் சிஹாசக் புவாங்கெட்கியோவ் பிரதமர் ஹரிணி அமரசூரியவுடன் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-ff6e0eec)
-- 2026-11-24 | `virakesarilk-5d172fcf` | சிலாபம் கடற்கரையில் கைவிடப்பட்ட நிலையில் சுமார் 450 கிலோ பீடி இலைகள் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-5d172fcf)
-- 2026-11-24 | `virakesarilk-9e3013c9` | முல்லைத்தீவில் ஹெப் ரக வாகனம் மோதி வயோதிபர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-9e3013c9)
-- 2026-11-24 | `virakesarilk-c9e5eab2` | பொரளையில் சுற்றுலாப் பயணிகள் தங்குமிடத்தில் தீ விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c9e5eab2)
+- 2026-11-24 | `virakesarilk-907190cc` | வெளிநாட்டுத் பயங்கரவாதப் போராளிகளைத் தடுக்கும் சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-907190cc)
+- 2026-11-24 | `virakesarilk-6a29e6ea` | ஐக்கிய நாடுகள் சபையின் 80ஆவது ஆண்டு நிறைவு ; இலங்கையின் நீண்டகாலப் பங்களிப்பை நினைவுகூரும் விசேட தபால் தலை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-6a29e6ea)
+- 2026-11-24 | `virakesarilk-35baf58c` | சதாம் உசேன் பயன்படுத்திய ஆடம்பர விமானம் ஏலத்திற்கு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-35baf58c)
+- 2026-11-24 | `virakesarilk-e1c8f0bd` | ஆங்கிலப் புத்தாண்டு நாளில் வெளியாகும் ஃபஹத் ஃபாசிலின் 'அசரீரி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-e1c8f0bd)
+- 2026-11-24 | `virakesarilk-79117a5b` | நடிகர் ஆர்யா நடிக்கும் 'ஹலோ காதல்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-79117a5b)
+- 2026-11-24 | `virakesarilk-06269352` | திரைப்படமாகத் தயாராகும் தமிழக 'கல்விச் செம்மல்' சி. கந்தசாமி நாயுடுவின் சுயசரிதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-06269352)
+- 2026-11-24 | `virakesarilk-98427311` | நடிகர் பாலாஜி சக்திவேல் நடிக்கும் 'காதல் - அத்தியாயம் 1' படத்தின் டைட்டில் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-98427311)
+- 2026-11-24 | `dailymirrorlk-9c1d9f3d` | GMOA warns of tougher trade union action if Government ignores demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-9c1d9f3d)
+- 2026-11-24 | `dailymirrorlk-6854e70d` | University non-academic staff to stage one-day strike tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-6854e70d)
+- 2026-11-24 | `dailymirrorlk-2c679801` | Devotees mark Il Poya Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-2c679801)
+- 2026-11-24 | `dailymirrorlk-70a0b056` | ADB’s US$ 200mn package to ease credit barriers for small businesses in SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-70a0b056)
+- 2026-11-24 | `dailymirrorlk-bd66f4c3` | Bring online gaming into Sri Lanka’s tax net, Advocata urges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-bd66f4c3)
+- 2026-11-24 | `dailymirrorlk-a29b8c13` | Iconic Galadari reborn as Radisson Blu Hotel Galadari Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a29b8c13)
+- 2026-11-24 | `dailymirrorlk-5dd3089d` | AI-powered identity fraud threatening business globally, software giant warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-5dd3089d)
+- 2026-11-24 | `dailymirrorlk-4b060d62` | Falcon Valley Hydro rings market opening bell to mark Empower Board listing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4b060d62)
+- 2026-11-24 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-2831aeed)
+- 2026-11-24 | `dailymirrorlk-8c5277fd` | Secondary market commences the week in lackluster manner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-8c5277fd)
+- 2026-11-24 | `dailymirrorlk-01ba5caa` | Hayleys backs Sri Lanka Expo 2027 opening SMEs path to global markets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-01ba5caa)
+- 2026-11-24 | `dailymirrorlk-8a04a1f3` | GovTech to setup Digital Transformation Academy; MTI strategises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-8a04a1f3)
+- 2026-11-24 | `dailymirrorlk-f29e2b89` | HNB Life celebrates multiple wins at National Sales Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-f29e2b89)
 
 ---
 
