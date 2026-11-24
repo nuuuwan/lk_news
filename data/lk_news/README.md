@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_07:54:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_09:54:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,774** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,778** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailymirrorlk-6071eab4",
-    "num": "dailymirrorlk-6071eab4",
+    "doc_id": "2026-11-24-dailymirrorlk-a898620b",
+    "num": "dailymirrorlk-a898620b",
     "date_str": "2026-11-24",
-    "description": "Il Poya Day today marks end of Kathina season",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Il-Poya-Day-today-marks-end-of-Kathina-season/108-355587",
+    "description": "Rs. 500 million allocated for northern power transmission project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-500-million-allocated-for-northern-power-transmission-project/108-355591",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795485086.0
+    "time_ut": 1795491058.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-24 | `dailymirrorlk-a898620b` | Rs. 500 million allocated for northern power transmission project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a898620b)
+- 2026-11-24 | `dailymirrorlk-7c9de159` | Nearly 450kg of suspected smuggled beedi leaves found on Chilaw coast | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-7c9de159)
+- 2026-11-24 | `dailymirrorlk-fe97c6a2` | Imported food prices may rise due to El Niño effects in India, Minister warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-fe97c6a2)
+- 2026-11-24 | `dailymirrorlk-b5d70b24` | President Anura Kumara Dissanayake turns 58 today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-b5d70b24)
 - 2026-11-24 | `dailymirrorlk-6071eab4` | Il Poya Day today marks end of Kathina season | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-6071eab4)
 - 2026-11-24 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-3a015e4a)
 - 2026-11-24 | `virakesarilk-3379c6ab` | சிங்கராஜ வனத்தில் உயிரினங்களை சேகரித்த 4 சீனப் பிரஜைகளுக்கு 7 கோடியே 64 இலட்சம் ரூபா அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-3379c6ab)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-24 | `virakesarilk-09f78f89` | களனி பந்தய நிலையக் கொள்ளை வழக்கு – ஐவருக்கு தலா 10 ஆண்டுகள் கடூழிய சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-09f78f89)
 - 2026-11-24 | `dailyftlk-8dd4a306` | Justice for All reiterates call for withdrawal of anti-terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailyftlk-8dd4a306)
 - 2026-11-24 | `dailyftlk-c2d6fea9` | Shanakiyan questions Govt.’s rights record as HRCSL warnings on Bills go unheeded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailyftlk-c2d6fea9)
-- 2026-11-24 | `virakesarilk-66fed7b2` | கனேமுல்ல சஞ்சீவ படுகொலை வழக்கு – சட்டத்தரணியின் பிணை மனு மீதான உத்தரவு டிசம்பர் 3ஆம் திகதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-66fed7b2)
-- 2026-11-24 | `virakesarilk-c9463bc1` | உள்ளகப் பொறிமுறையில் முன்னேற்றம் இல்லை; அரசாங்கம் அதன் விளைவுகளை எதிர்கொள்ள நேரிடும் - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-c9463bc1)
-- 2026-11-24 | `virakesarilk-2b285d48` | அரசாங்கத்துக்கு உறுதியான வெளிநாட்டுக் கொள்கை இல்லை – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-2b285d48)
-- 2026-11-24 | `virakesarilk-2e78e528` | சிறிமாவோ பண்டாரநாயக்கவின் அணிசேராக் கொள்கை இலங்கைக்கு முன்னுதாரணம்: பைஸர் முஸ்தபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-2e78e528)
 
 ---
 

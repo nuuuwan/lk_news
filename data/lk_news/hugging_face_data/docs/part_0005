@@ -119126,5 +119126,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795485086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-b5d70b24",
+    "num": "dailymirrorlk-b5d70b24",
+    "date_str": "2026-11-24",
+    "description": "President Anura Kumara Dissanayake turns 58 today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-Anura-Kumara-Dissanayake-turns-58-today/108-355588",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795489258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-fe97c6a2",
+    "num": "dailymirrorlk-fe97c6a2",
+    "date_str": "2026-11-24",
+    "description": "Imported food prices may rise due to El Ni\u00f1o effects in India, Minister warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Imported-food-prices-may-rise-due-to-El-Ni\u00f1o-effects-in-India-Minister-warns/108-355589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795489553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-7c9de159",
+    "num": "dailymirrorlk-7c9de159",
+    "date_str": "2026-11-24",
+    "description": "Nearly 450kg of suspected smuggled beedi leaves found on Chilaw coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-450kg-of-suspected-smuggled-beedi-leaves-found-on-Chilaw-coast/108-355590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795490302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-24-dailymirrorlk-a898620b",
+    "num": "dailymirrorlk-a898620b",
+    "date_str": "2026-11-24",
+    "description": "Rs. 500 million allocated for northern power transmission project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-500-million-allocated-for-northern-power-transmission-project/108-355591",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795491058.0
   }
 ]
