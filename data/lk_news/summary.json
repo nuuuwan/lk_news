@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-24 19:53:38",
-  "n_docs": 136875,
+  "time_updated": "2026-11-24 21:54:47",
+  "n_docs": 136881,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136875,
+  "n_docs_with_text": 136881,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-24",
-  "dataset_size": 2113879809,
+  "dataset_size": 2113944399,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailymirrorlk-4a5b1042",
-    "num": "dailymirrorlk-4a5b1042",
+    "doc_id": "2026-11-24-dailymirrorlk-0e556561",
+    "num": "dailymirrorlk-0e556561",
     "date_str": "2026-11-24",
-    "description": "Sri Lanka trio rise in ICC T20I rankings",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-trio-rise-in-ICC-T20I-rankings/108-355650",
+    "description": "Is government printing money, asks Ravi K",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-government-printing-money-asks-Ravi-K/108-355651",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795529520.0
+    "time_ut": 1795532394.0
   }
 }

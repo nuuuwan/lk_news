@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_19:54:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_21:55:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,875** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,881** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-24-dailymirrorlk-4a5b1042",
-    "num": "dailymirrorlk-4a5b1042",
+    "doc_id": "2026-11-24-dailymirrorlk-0e556561",
+    "num": "dailymirrorlk-0e556561",
     "date_str": "2026-11-24",
-    "description": "Sri Lanka trio rise in ICC T20I rankings",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-trio-rise-in-ICC-T20I-rankings/108-355650",
+    "description": "Is government printing money, asks Ravi K",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Is-government-printing-money-asks-Ravi-K/108-355651",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795529520.0
+    "time_ut": 1795532394.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-24 | `dailymirrorlk-0e556561` | Is government printing money, asks Ravi K | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-0e556561)
+- 2026-11-24 | `virakesarilk-566cd540` | இந்து சமுத்திரத்தில் 6.5 மெக்னிடியூட் நிலநடுக்கம் ; இலங்கைக்கு சுனாமி அச்சுறுத்தல் இல்லை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-566cd540)
 - 2026-11-24 | `dailymirrorlk-4a5b1042` | Sri Lanka trio rise in ICC T20I rankings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4a5b1042)
 - 2026-11-24 | `dailymirrorlk-1c44dc34` | Sri Lanka temporarily allows travelers to board flights without an ETA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-1c44dc34)
 - 2026-11-24 | `dailymirrorlk-a34aa7d9` | Vaibhav Sooryavanshi scores fastest double century in List-A cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a34aa7d9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-24 | `dailymirrorlk-b6f7abaf` | India firm wins $4.29 million insulin supply contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-b6f7abaf)
 - 2026-11-24 | `dailymirrorlk-4134e08b` | China firm wins $828,000 drug supply contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4134e08b)
 - 2026-11-24 | `dailymirrorlk-3249df53` | Universities, media organisations silent on major media challenges, academic criticises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-3249df53)
-- 2026-11-24 | `virakesarilk-26883c27` | எண்ணெய் உற்பத்தி நாடுகளின் எதிர்ப்பால் தோல்வியில் முடிந்த COP31 காலநிலை உச்சி மாநாடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-26883c27)
-- 2026-11-24 | `virakesarilk-13fd30cc` | திருகோணமலையில் நங்கூரமிட்டுள்ள இந்தியக் கடலோரக் காவல்படை கப்பல் ‘சுஜய்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-13fd30cc)
 
 ---
 
