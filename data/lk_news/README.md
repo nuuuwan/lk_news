@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_01:52:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_03:55:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,965** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,967** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailymirrorlk-3917ee7c",
-    "num": "dailymirrorlk-3917ee7c",
-    "date_str": "2026-11-25",
-    "description": "Russian Prosecutor General arrives in Sri Lanka",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russian-Prosecutor-General-arrives-in-Sri-Lanka/108-355740",
+    "doc_id": "2026-11-26-dailyftlk-3dc37480",
+    "num": "dailyftlk-3dc37480",
+    "date_str": "2026-11-26",
+    "description": "Dengue: A persistent national  threat demanding year-round action",
+    "url_metadata": "https://www.ft.lk/columns/Dengue-A-persistent-national-threat-demanding-year-round-action/4-800588",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795628328.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795645036.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `dailyftlk-3dc37480` | Dengue: A persistent national  threat demanding year-round action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-3dc37480)
+- 2026-11-26 | `dailyftlk-ac2e2f6b` | Men’s mental health: Battles we never see | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-ac2e2f6b)
 - 2026-11-25 | `dailymirrorlk-3917ee7c` | Russian Prosecutor General arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-3917ee7c)
 - 2026-11-25 | `dailymirrorlk-b92b4062` | Teachers, Principals to continue trade union action on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-b92b4062)
 - 2026-11-25 | `dailymirrorlk-e240529d` | Thabbowa Reservoir spill gates to be opened, residents warned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-e240529d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-25 | `dailymirrorlk-0e02a40d` | Heavy showers exceeding 100mm on the cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-0e02a40d)
 - 2026-11-25 | `dailymirrorlk-2eb97855` | Hambantota Port provides refuge to disabled cargo vessel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-2eb97855)
 - 2026-11-25 | `dailymirrorlk-df8699b3` | Orange the World Dutch ambassador urges  men  to join  fight on violence against women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-df8699b3)
-- 2026-11-25 | `dailymirrorlk-5e11a92d` | Inflation climbs to 8.5% in October on higher transport costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-5e11a92d)
-- 2026-11-25 | `dailymirrorlk-1f25dfe6` | New direct rivals chip away at SriLankan’s UK, Australian strongholds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-1f25dfe6)
 
 ---
 
