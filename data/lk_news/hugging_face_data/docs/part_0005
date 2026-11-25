@@ -121076,6 +121076,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-6572e1ae",
+    "num": "dailymirrorlk-6572e1ae",
+    "date_str": "2026-11-25",
+    "description": "India-Sri Lanka talks to seek permanent solution to fisheries dispute in January",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-talks-to-seek-permanent-solution-to-fisheries-dispute-in-January/108-355726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795605922.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-25-dailymirrorlk-ac234115",
     "num": "dailymirrorlk-ac234115",
     "date_str": "2026-11-25",
@@ -121095,5 +121106,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795606889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-feab3b5e",
+    "num": "dailymirrorlk-feab3b5e",
+    "date_str": "2026-11-25",
+    "description": "CSE rebounds as ASPI regains 21,300",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-300/108-355729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795610752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-dfdebfc9",
+    "num": "dailymirrorlk-dfdebfc9",
+    "date_str": "2026-11-25",
+    "description": "President stresses need to fast-track district development projects",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-stresses-need-to-fast-track-district-development-projects/108-355730",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795611887.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-4d9c4fd0",
+    "num": "dailymirrorlk-4d9c4fd0",
+    "date_str": "2026-11-25",
+    "description": "Solomon Islands signs security deal with Australia",
+    "url_metadata": "https://www.dailymirror.lk/international/Solomon-Islands-signs-security-deal-with-Australia/107-355731",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795614314.0
   }
 ]

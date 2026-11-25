@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_17:57:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_19:55:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,953** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailymirrorlk-a3a1170f",
-    "num": "dailymirrorlk-a3a1170f",
+    "doc_id": "2026-11-25-dailymirrorlk-4d9c4fd0",
+    "num": "dailymirrorlk-4d9c4fd0",
     "date_str": "2026-11-25",
-    "description": "Sri Lanka: More than just a tourist destination - A home to many foreigners",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-More-than-just-a-tourist-destination-A-home-to-many-foreigners/108-355728",
+    "description": "Solomon Islands signs security deal with Australia",
+    "url_metadata": "https://www.dailymirror.lk/international/Solomon-Islands-signs-security-deal-with-Australia/107-355731",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795606889.0
+    "time_ut": 1795614314.0
 }
 ```
 
@@ -41,8 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-25 | `dailymirrorlk-4d9c4fd0` | Solomon Islands signs security deal with Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-4d9c4fd0)
+- 2026-11-25 | `dailymirrorlk-dfdebfc9` | President stresses need to fast-track district development projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-dfdebfc9)
+- 2026-11-25 | `dailymirrorlk-feab3b5e` | CSE rebounds as ASPI regains 21,300 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-feab3b5e)
 - 2026-11-25 | `dailymirrorlk-a3a1170f` | Sri Lanka: More than just a tourist destination - A home to many foreigners | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-a3a1170f)
 - 2026-11-25 | `dailymirrorlk-ac234115` | Making Sri Lanka Water Positive by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-ac234115)
+- 2026-11-25 | `dailymirrorlk-6572e1ae` | India-Sri Lanka talks to seek permanent solution to fisheries dispute in January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-6572e1ae)
 - 2026-11-25 | `dailymirrorlk-ecffb68f` | China lashes out at US for ‘suppressing’ Chinese companies after Huawei conviction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-ecffb68f)
 - 2026-11-25 | `dailymirrorlk-0e02a40d` | Heavy showers exceeding 100mm on the cards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-0e02a40d)
 - 2026-11-25 | `dailymirrorlk-2eb97855` | Hambantota Port provides refuge to disabled cargo vessel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-2eb97855)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-25 | `dailymirrorlk-239c0d96` | Sri Lanka tea industry performance – January to September 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-239c0d96)
 - 2026-11-25 | `dailymirrorlk-7a2a2ce6` | Euro Motors opens new Anuradhapura showroom and service complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-7a2a2ce6)
 - 2026-11-25 | `dailymirrorlk-731649fa` | Govt. plans social ethics framework to curb misleading advertisements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-731649fa)
-- 2026-11-25 | `dailymirrorlk-b1919556` | Nawaloka Urology and Nephrology Centre offers early detection, advanced services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-b1919556)
-- 2026-11-25 | `dailymirrorlk-f677cf2e` | Sri Lanka-Nordic Business Council marks 25 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-f677cf2e)
-- 2026-11-25 | `dailymirrorlk-9484271c` | SLID-Frankfurt School of Finance & Management executive programme on Dec. 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-9484271c)
-- 2026-11-25 | `dailymirrorlk-a13180db` | Tyre House launches LIVFAST batteries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-a13180db)
 
 ---
 
