@@ -1,0 +1,41 @@
+US court convicts China’s Huawei for fraud, conspiring to steal trade secrets
+
+CNN - Chinese telecommunications equipment maker Huawei was convicted by a jury in New York City on Tuesday in a sprawling US criminal case on charges that it deceived banks about its business in Iran and stole trade secrets from American companies.
+
+The verdict came in a criminal case that began in 2018, with the US government the following year placing Huawei on a trade blacklist that restricted its access to US technology amid American concerns that Huawei posed national security risks.
+
+The jury in Brooklyn federal court found Huawei guilty on 10 of the 12 criminal counts the company faced, including bank fraud, wire fraud, sanctions violations and conspiring to steal trade secrets. The jury acquitted Huawei of conspiring to obstruct justice and racketeering conspiracy, a charge alleging the company had acted as a criminal enterprise.
+
+The trial lasted more than two months, with prosecutors calling more than 60 witnesses and the defense calling 15. It was not immediately clear what penalties Huawei will face when US District Judge Ann Donnelly sentences it on September 14, 2027.
+
+Reuters stories in 2012 and 2013 helped expose Huawei’s activities in Iran and were discussed during the trial.
+
+“After the media started questioning Huawei’s operations in Iran, so did Huawei’s banks,” prosecutor Meredith Arfa told jurors during closing arguments in the case last week.
+
+Brian Heberlig, a lawyer for Huawei, said the company was disappointed by the convictions but said the acquittal on the racketeering conspiracy charge vindicated its “good-faith compliance culture.”
+
+US Attorney Joseph Nocella said in a statement: “Few crimes are as serious as Huawei’s decades-long pattern of endangering US national security, violating the sanctity of US commerce, and impeding the enforcement of US laws.” China’s embassy in Washington did not immediately respond to a request for comment.
+
+Asked how much the company may have to pay in penalties, Heberlig said it was premature to comment, but said the acquittal on the racketeering conspiracy charge could make a significant difference.
+
+Experts have said the case did not undermine Huawei’s business, as the company diversified and emerged as a key player in China’s push for artificial intelligence.
+
+In December 2018, Meng Wanzhou, Huawei’s chief financial officer and daughter of the company’s founder, was detained in Canada on a US warrant, prompting a diplomatic crisis involving the United States, China and Canada.
+
+Meng had been secretly indicted on US charges of misleading an HSBC banker about Huawei’s business in Iran, so the company could move dollars in and out of Iran in violation of American sanctions. Meng fought extradition to the US for nearly three years, before entering a deferred prosecution agreement and flying home to China to a hero’s welcome. The charges against her were dropped.
+
+Meng did not testify at trial, though an HSBC banker she met with in 2013 did testify.
+
+The 2018 indictment alleged that Huawei misled HSBC, Standard Chartered and BNP Paribas about its business dealings in Iran. Prosecutors added new charges in 2020, including allegations that Huawei conspired to steal trade secrets from US technology companies over two decades.
+
+During the trial, prosecutors sought to prove that Huawei stole source code from Cisco Systems for its routers, stole wireless telecommunications company Quintel’s antenna technology, and hired a professor to gain access to a circuit board developed by semiconductor company CNEX.
+
+Jurors watched a video that, according to prosecutors, showed a Huawei employee slipping a piece of a T-Mobile testing robot into his backpack, and heard about a Huawei engineer sneaking into a Fujitsu booth at a trade show to photograph a device.
+
+Prosecutors gave jurors a statement attached to Meng’s deferred prosecution agreement in which she acknowledged that the company illegally conducted business in Iran.
+
+The defense argued that HSBC and the other banks knew about Huawei’s business in Iran and were competing for Huawei’s business.
+
+Heberlig accused prosecutors during his closing argument of having “cherry-picked” a handful of disparate incidents to support their claim of a 20-year conspiracy. Heberlig said Huawei succeeded through “hard work, innovation, and investment in research and development.”
+
+The company has more than 200,000 employees and operates in approximately 170 countries.

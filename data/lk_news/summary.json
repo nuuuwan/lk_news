@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-25 11:58:39",
-  "n_docs": 136918,
+  "time_updated": "2026-11-25 13:57:23",
+  "n_docs": 136939,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136918,
+  "n_docs_with_text": 136939,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-25",
-  "dataset_size": 2114506268,
+  "dataset_size": 2114724035,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailymirrorlk-24c9e907",
-    "num": "dailymirrorlk-24c9e907",
+    "doc_id": "2026-11-25-dailymirrorlk-7a2a2ce6",
+    "num": "dailymirrorlk-7a2a2ce6",
     "date_str": "2026-11-25",
-    "description": "As many as 840 million women across the globe subjected to gender based violence: PM",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/As-many-as-840-million-women-across-the-globe-subjected-to-gender-based-violence-PM/108-355674",
+    "description": "Euro Motors opens new Anuradhapura showroom and service complex",
+    "url_metadata": "https://www.dailymirror.lk/business/Euro-Motors-opens-new-Anuradhapura-showroom-and-service-complex/215-355705",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795586147.0
+    "time_ut": 1795594496.0
   }
 }
