@@ -120490,5 +120490,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795565706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-c8649be0",
+    "num": "dailymirrorlk-c8649be0",
+    "date_str": "2026-11-25",
+    "description": "Russia\u2019s own figures show almost 500,000 deaths in war in Ukraine",
+    "url_metadata": "https://www.dailymirror.lk/international/Russias-own-figures-show-almost-500-000-deaths-in-war-in-Ukraine/107-355652",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795577241.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-75e6d6ce",
+    "num": "dailymirrorlk-75e6d6ce",
+    "date_str": "2026-11-25",
+    "description": "Pakistan\u2019s first astronaut goes to space aboard Chinese rocket",
+    "url_metadata": "https://www.dailymirror.lk/international/Pakistans-first-astronaut-goes-to-space-aboard-Chinese-rocket/107-355653",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795577365.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-c64eea18",
+    "num": "dailymirrorlk-c64eea18",
+    "date_str": "2026-11-25",
+    "description": "South Asia\u2019s first 4,000-seat Air Dome set to open next month",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Asias-first-4-000-seat-Air-Dome-set-to-open-next-month/108-355654",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795577548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-507f5f05",
+    "num": "dailymirrorlk-507f5f05",
+    "date_str": "2026-11-25",
+    "description": "CIA system breached in latest cyberattack targeting US intelligence agencies",
+    "url_metadata": "https://www.dailymirror.lk/international/CIA-system-breached-in-latest-cyberattack-targeting-US-intelligence-agencies/107-355655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795579422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-33d3b643",
+    "num": "dailymirrorlk-33d3b643",
+    "date_str": "2026-11-25",
+    "description": "US prepares higher tariffs on China, EU and 14 other nations",
+    "url_metadata": "https://www.dailymirror.lk/international/US-prepares-higher-tariffs-on-China-EU-and-14-other-nations/107-355656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795579521.0
   }
 ]

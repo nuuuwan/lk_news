@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-25 07:55:24",
-  "n_docs": 136898,
+  "time_updated": "2026-11-25 09:54:20",
+  "n_docs": 136903,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136898,
+  "n_docs_with_text": 136903,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-25",
-  "dataset_size": 2114396381,
+  "dataset_size": 2114411483,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailyftlk-e7553363",
-    "num": "dailyftlk-e7553363",
+    "doc_id": "2026-11-25-dailymirrorlk-33d3b643",
+    "num": "dailymirrorlk-33d3b643",
     "date_str": "2026-11-25",
-    "description": "Sri Lanka must use foreign policy to protect Palestinian rights: Sajith",
-    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-must-use-foreign-policy-to-protect-Palestinian-rights-Sajith/56-800550",
+    "description": "US prepares higher tariffs on China, EU and 14 other nations",
+    "url_metadata": "https://www.dailymirror.lk/international/US-prepares-higher-tariffs-on-China-EU-and-14-other-nations/107-355656",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795565706.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795579521.0
   }
 }
