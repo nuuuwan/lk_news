@@ -120941,5 +120941,126 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795594496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-239c0d96",
+    "num": "dailymirrorlk-239c0d96",
+    "date_str": "2026-11-25",
+    "description": "Sri Lanka tea industry performance \u2013 January to September 2026",
+    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-tea-industry-performance-January-to-September-2026/215-355706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795595031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-2bf97eeb",
+    "num": "dailymirrorlk-2bf97eeb",
+    "date_str": "2026-11-25",
+    "description": "Hi Life fashion exhibition",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Hi-Life-fashion-exhibition/110-355707",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795595483.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-7cad0bf6",
+    "num": "dailymirrorlk-7cad0bf6",
+    "date_str": "2026-11-25",
+    "description": "Access Engineering takes largest slice of Ruwanpura Expressway in Rs.68bn contract haul",
+    "url_metadata": "https://www.dailymirror.lk/business/Access-Engineering-takes-largest-slice-of-Ruwanpura-Expressway-in-Rs-68bn-contract-haul/215-355708",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795595573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-8de12411",
+    "num": "dailymirrorlk-8de12411",
+    "date_str": "2026-11-25",
+    "description": "Bank of Ceylon debentures to list on CSE today",
+    "url_metadata": "https://www.dailymirror.lk/business/Bank-of-Ceylon-debentures-to-list-on-CSE-today/215-355709",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795595645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-65d9bdbf",
+    "num": "dailymirrorlk-65d9bdbf",
+    "date_str": "2026-11-25",
+    "description": "Tokyo Cement profit falls 13% despite 28% sales jump",
+    "url_metadata": "https://www.dailymirror.lk/business/Tokyo-Cement-profit-falls-13-despite-28-sales-jump/215-355710",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795596095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-d00d2b40",
+    "num": "dailymirrorlk-d00d2b40",
+    "date_str": "2026-11-25",
+    "description": "Court rejects request to lift Gotabaya Rajapaksa\u2019s travel ban",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-rejects-request-to-lift-Gotabaya-Rajapaksas-travel-ban/108-355711",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795596447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-1f25dfe6",
+    "num": "dailymirrorlk-1f25dfe6",
+    "date_str": "2026-11-25",
+    "description": "New direct rivals chip away at SriLankan\u2019s UK, Australian strongholds",
+    "url_metadata": "https://www.dailymirror.lk/business/New-direct-rivals-chip-away-at-SriLankans-UK-Australian-strongholds/215-355712",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795596477.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-5e11a92d",
+    "num": "dailymirrorlk-5e11a92d",
+    "date_str": "2026-11-25",
+    "description": "Inflation climbs to 8.5% in October on higher transport costs",
+    "url_metadata": "https://www.dailymirror.lk/business/Inflation-climbs-to-8-5-in-October-on-higher-transport-costs/215-355713",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795596731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-df8699b3",
+    "num": "dailymirrorlk-df8699b3",
+    "date_str": "2026-11-25",
+    "description": "Orange the World Dutch ambassador urges  men  to join  fight on violence against women",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/Orange-the-World-Dutch-ambassador-urges-men-to-join-fight-on-violence-against-women/334-355714",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795597414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-2eb97855",
+    "num": "dailymirrorlk-2eb97855",
+    "date_str": "2026-11-25",
+    "description": "Hambantota Port provides refuge to disabled cargo vessel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-provides-refuge-to-disabled-cargo-vessel/108-355715",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795598249.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-0e02a40d",
+    "num": "dailymirrorlk-0e02a40d",
+    "date_str": "2026-11-25",
+    "description": "Heavy showers exceeding 100mm on the cards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-exceeding-100mm-on-the-cards/108-355718",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795599133.0
   }
 ]
