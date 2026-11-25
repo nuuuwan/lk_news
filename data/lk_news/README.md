@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_03:53:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_06:07:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,886** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,898** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailyftlk-1ef4ee66",
-    "num": "dailyftlk-1ef4ee66",
+    "doc_id": "2026-11-25-dailyftlk-e7553363",
+    "num": "dailyftlk-e7553363",
     "date_str": "2026-11-25",
-    "description": "Stop financial bleeding before expanding SriLankan Airlines",
-    "url_metadata": "https://www.ft.lk/columns/Stop-financial-bleeding-before-expanding-SriLankan-Airlines/4-800518",
+    "description": "Sri Lanka must use foreign policy to protect Palestinian rights: Sajith",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-must-use-foreign-policy-to-protect-Palestinian-rights-Sajith/56-800550",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1795558618.0
+    "time_ut": 1795565706.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-25 | `dailyftlk-e7553363` | Sri Lanka must use foreign policy to protect Palestinian rights: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-e7553363)
+- 2026-11-25 | `dailyftlk-1ee29d45` | Cabinet moves to amend Act to address difficulties in functioning of Language Institute’s Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-1ee29d45)
+- 2026-11-25 | `dailyftlk-8094a5d6` | Cabinet green lights new building complex for Puttalam District Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-8094a5d6)
+- 2026-11-25 | `dailyftlk-0a670dd4` | Tokyo Cement strengthens market position to sustain growth in 2Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-0a670dd4)
+- 2026-11-25 | `dailyftlk-fcd81854` | Deloitte Sri Lanka examines Budget 2027 as nation looks beyond stabilisation towards sustainable growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-fcd81854)
+- 2026-11-25 | `dailyftlk-c2686cce` | Cabinet clears $ 5.12 m procurement of cardiac and diabetes medicines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-c2686cce)
+- 2026-11-25 | `dailyftlk-40c5617c` | S-lon Roofing expands portfolio with two new roofing profiles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-40c5617c)
+- 2026-11-25 | `dailyftlk-f0751353` | Sri Lanka–Nordic Business Council marks 25 years, elects new President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-f0751353)
+- 2026-11-25 | `dailyftlk-35fe4264` | CAA tells Parliament panel it has no power to set domestic gas prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-35fe4264)
+- 2026-11-25 | `dailyftlk-7ac70baf` | Cabinet approves UK-Sri Lanka Customs cooperation MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-7ac70baf)
+- 2026-11-25 | `dailyftlk-9358a79d` | Sathuta Builders gets Rs. 1.69 b contract for Uva-Wellassa Uni. Faculty of Medicine building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-9358a79d)
+- 2026-11-25 | `dailyftlk-453a6e6d` | Sri Lanka’s Budget 2027: From economic recovery to better livelihoods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-453a6e6d)
 - 2026-11-25 | `dailyftlk-1ef4ee66` | Stop financial bleeding before expanding SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-1ef4ee66)
 - 2026-11-25 | `dailyftlk-189077af` | Seizing new opportunities in China’s development, writing a new chapter in China-Sri Lanka cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-189077af)
 - 2026-11-25 | `dailyftlk-51009c7b` | Making aspiration affordable again: Notes from alternative Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailyftlk-51009c7b)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2026-11-24 | `dailymirrorlk-0e556561` | Is government printing money, asks Ravi K | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-0e556561)
 - 2026-11-24 | `virakesarilk-566cd540` | இந்து சமுத்திரத்தில் 6.5 மெக்னிடியூட் நிலநடுக்கம் ; இலங்கைக்கு சுனாமி அச்சுறுத்தல் இல்லை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-566cd540)
 - 2026-11-24 | `dailymirrorlk-4a5b1042` | Sri Lanka trio rise in ICC T20I rankings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-4a5b1042)
-- 2026-11-24 | `dailymirrorlk-1c44dc34` | Sri Lanka temporarily allows travelers to board flights without an ETA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-1c44dc34)
-- 2026-11-24 | `dailymirrorlk-a34aa7d9` | Vaibhav Sooryavanshi scores fastest double century in List-A cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-a34aa7d9)
-- 2026-11-24 | `dailymirrorlk-9c22109a` | Magnitude 6.5 earthquake recorded in Indian Ocean; no tsunami threat to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-9c22109a)
-- 2026-11-24 | `dailymirrorlk-f9f2fd39` | Heavy showers expected in several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-f9f2fd39)
-- 2026-11-24 | `virakesarilk-28fc63a7` | இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கு இலங்கை ஆறுநாட்டு வேளாளர் சபை பிரியாவிடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-28fc63a7)
-- 2026-11-24 | `virakesarilk-d710e302` | பயங்கரவாதத்திடமிருந்து அரசைப் பாதுகாக்கும் சட்டமூலம் தொடர்பில் ஜனாதிபதியைச் சந்திக்கக் காத்திருக்கும் சர்வஜன நீதி அமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-d710e302)
-- 2026-11-24 | `virakesarilk-07d5fc81` | மாத்தளை மகாத்மா காந்தி சபா நூற்றாண்டை நோக்கிய பயணம் தொடர்பான ஊடக சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-07d5fc81)
-- 2026-11-24 | `virakesarilk-bcfa6bf4` | பெண்களின் இலக்கிய ஆளுமைகளையும் படைப்பாற்றலையும் முன்னிறுத்திய இலக்கியச் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-bcfa6bf4)
-- 2026-11-24 | `virakesarilk-4aa13d91` | சர்வதேச எம்மி விழாவின் சிவப்புக் கம்பளத்தில் அனைவரையும் ஈர்த்த விஜய் சேதுபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-4aa13d91)
-- 2026-11-24 | `virakesarilk-3837113b` | தையிட்டி சட்டவிரோத விகாரை காணிகளை மீளக் கையளிக்கக் கோரி 2ஆவது நாளாகவும் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-virakesarilk-3837113b)
-- 2026-11-24 | `dailymirrorlk-85da7cf8` | OPEC Fund to provide Sri Lanka with $30 million loan for reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-85da7cf8)
-- 2026-11-24 | `dailymirrorlk-456c71f3` | Sri Lanka Customs to receive UK technical assistance under new MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-24-dailymirrorlk-456c71f3)
 
 ---
 

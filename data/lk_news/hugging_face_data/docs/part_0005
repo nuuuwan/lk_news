@@ -120358,5 +120358,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795558618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-453a6e6d",
+    "num": "dailyftlk-453a6e6d",
+    "date_str": "2026-11-25",
+    "description": "Sri Lanka\u2019s Budget 2027: From economic recovery to better livelihoods",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-Budget-2027-From-economic-recovery-to-better-livelihoods/4-800519",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795559199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-9358a79d",
+    "num": "dailyftlk-9358a79d",
+    "date_str": "2026-11-25",
+    "description": "Sathuta Builders gets Rs. 1.69 b contract for Uva-Wellassa Uni. Faculty of Medicine building",
+    "url_metadata": "https://www.ft.lk/business/Sathuta-Builders-gets-Rs-1-69-b-contract-for-Uva-Wellassa-Uni-Faculty-of-Medicine-building/34-800536",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795563949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-7ac70baf",
+    "num": "dailyftlk-7ac70baf",
+    "date_str": "2026-11-25",
+    "description": "Cabinet approves UK-Sri Lanka Customs cooperation MoU",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795563980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-35fe4264",
+    "num": "dailyftlk-35fe4264",
+    "date_str": "2026-11-25",
+    "description": "CAA tells Parliament panel it has no power to set domestic gas prices",
+    "url_metadata": "https://www.ft.lk/business/CAA-tells-Parliament-panel-it-has-no-power-to-set-domestic-gas-prices/34-800538",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-f0751353",
+    "num": "dailyftlk-f0751353",
+    "date_str": "2026-11-25",
+    "description": "Sri Lanka\u2013Nordic Business Council marks 25 years, elects new President",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaNordic-Business-Council-marks-25-years-elects-new-President/34-800539",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-40c5617c",
+    "num": "dailyftlk-40c5617c",
+    "date_str": "2026-11-25",
+    "description": "S-lon Roofing expands portfolio with two new roofing profiles",
+    "url_metadata": "https://www.ft.lk/business/S-lon-Roofing-expands-portfolio-with-two-new-roofing-profiles/34-800540",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-c2686cce",
+    "num": "dailyftlk-c2686cce",
+    "date_str": "2026-11-25",
+    "description": "Cabinet clears $ 5.12 m procurement of cardiac and diabetes medicines",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-clears-5-12-m-procurement-of-cardiac-and-diabetes-medicines/34-800541",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-fcd81854",
+    "num": "dailyftlk-fcd81854",
+    "date_str": "2026-11-25",
+    "description": "Deloitte Sri Lanka examines Budget 2027 as nation looks beyond stabilisation towards sustainable growth",
+    "url_metadata": "https://www.ft.lk/business/Deloitte-Sri-Lanka-examines-Budget-2027-as-nation-looks-beyond-stabilisation-towards-sustainable-growth/34-800542",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-0a670dd4",
+    "num": "dailyftlk-0a670dd4",
+    "date_str": "2026-11-25",
+    "description": "Tokyo Cement strengthens market position to sustain growth in 2Q",
+    "url_metadata": "https://www.ft.lk/business/Tokyo-Cement-strengthens-market-position-to-sustain-growth-in-2Q/34-800543",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795564920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-8094a5d6",
+    "num": "dailyftlk-8094a5d6",
+    "date_str": "2026-11-25",
+    "description": "Cabinet green lights new building complex for Puttalam District Secretariat",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-green-lights-new-building-complex-for-Puttalam-District-Secretariat/56-800548",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795565576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-1ee29d45",
+    "num": "dailyftlk-1ee29d45",
+    "date_str": "2026-11-25",
+    "description": "Cabinet moves to amend Act to address difficulties in functioning of Language Institute\u2019s Board",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-moves-to-amend-Act-to-address-difficulties-in-functioning-of-Language-Institute-s-Board/56-800549",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795565601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailyftlk-e7553363",
+    "num": "dailyftlk-e7553363",
+    "date_str": "2026-11-25",
+    "description": "Sri Lanka must use foreign policy to protect Palestinian rights: Sajith",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-must-use-foreign-policy-to-protect-Palestinian-rights-Sajith/56-800550",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795565706.0
   }
 ]
