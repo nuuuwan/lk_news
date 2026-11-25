@@ -121139,5 +121139,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795614314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-13f8fd18",
+    "num": "dailymirrorlk-13f8fd18",
+    "date_str": "2026-11-25",
+    "description": "Israel\u2019s Eisenkot secures first coalition partner in bid to form government",
+    "url_metadata": "https://www.dailymirror.lk/international/Israels-Eisenkot-secures-first-coalition-partner-in-bid-to-form-government/107-355732",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795617892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-acf8768a",
+    "num": "dailymirrorlk-acf8768a",
+    "date_str": "2026-11-25",
+    "description": "Suspect remanded over Facebook posts targeting Jayaratne Group director",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-remanded-over-Facebook-posts-targeting-Jayaratne-Group-director/108-355733",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795618089.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-9b7b13a5",
+    "num": "dailymirrorlk-9b7b13a5",
+    "date_str": "2026-11-25",
+    "description": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+    "url_metadata": "https://www.dailymirror.lk/international/US-announces-new-tariffs-of-up-to-20-on-China-the-EU-and-12-other-nations/107-355735",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795619217.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-f9f5fe92",
+    "num": "dailymirrorlk-f9f5fe92",
+    "date_str": "2026-11-25",
+    "description": "Sri Lanka\u2019s children under threat: 51 teenage pregnancies, 169 rape complaints, 9,600 complaints in just nine months: NCPA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-children-under-threat-51-teenage-pregnancies-169-rape-complaints-9-600-complaints-in-just-nine-months-NCPA/108-355736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795620297.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-e240529d",
+    "num": "dailymirrorlk-e240529d",
+    "date_str": "2026-11-25",
+    "description": "Thabbowa Reservoir spill gates to be opened, residents warned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thabbowa-Reservoir-spill-gates-to-be-opened-residents-warned/108-355737",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795620403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-25-dailymirrorlk-b92b4062",
+    "num": "dailymirrorlk-b92b4062",
+    "date_str": "2026-11-25",
+    "description": "Teachers, Principals to continue trade union action on November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Teachers-Principals-to-continue-trade-union-action-on-November-30/108-355738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795621602.0
   }
 ]

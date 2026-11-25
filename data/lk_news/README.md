@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_19:55:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--25_21:56:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**136,963** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-25-dailymirrorlk-4d9c4fd0",
-    "num": "dailymirrorlk-4d9c4fd0",
+    "doc_id": "2026-11-25-dailymirrorlk-b92b4062",
+    "num": "dailymirrorlk-b92b4062",
     "date_str": "2026-11-25",
-    "description": "Solomon Islands signs security deal with Australia",
-    "url_metadata": "https://www.dailymirror.lk/international/Solomon-Islands-signs-security-deal-with-Australia/107-355731",
+    "description": "Teachers, Principals to continue trade union action on November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Teachers-Principals-to-continue-trade-union-action-on-November-30/108-355738",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795614314.0
+    "time_ut": 1795621602.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-25 | `dailymirrorlk-b92b4062` | Teachers, Principals to continue trade union action on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-b92b4062)
+- 2026-11-25 | `dailymirrorlk-e240529d` | Thabbowa Reservoir spill gates to be opened, residents warned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-e240529d)
+- 2026-11-25 | `dailymirrorlk-f9f5fe92` | Sri Lanka’s children under threat: 51 teenage pregnancies, 169 rape complaints, 9,600 complaints in just nine months: NCPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-f9f5fe92)
+- 2026-11-25 | `dailymirrorlk-9b7b13a5` | US announces new tariffs of up to 20% on China, the EU, and 12 other nations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-9b7b13a5)
+- 2026-11-25 | `dailymirrorlk-acf8768a` | Suspect remanded over Facebook posts targeting Jayaratne Group director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-acf8768a)
+- 2026-11-25 | `dailymirrorlk-13f8fd18` | Israel’s Eisenkot secures first coalition partner in bid to form government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-13f8fd18)
 - 2026-11-25 | `dailymirrorlk-4d9c4fd0` | Solomon Islands signs security deal with Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-4d9c4fd0)
 - 2026-11-25 | `dailymirrorlk-dfdebfc9` | President stresses need to fast-track district development projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-dfdebfc9)
 - 2026-11-25 | `dailymirrorlk-feab3b5e` | CSE rebounds as ASPI regains 21,300 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-feab3b5e)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-11-25 | `dailymirrorlk-1f25dfe6` | New direct rivals chip away at SriLankan’s UK, Australian strongholds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-1f25dfe6)
 - 2026-11-25 | `dailymirrorlk-d00d2b40` | Court rejects request to lift Gotabaya Rajapaksa’s travel ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-d00d2b40)
 - 2026-11-25 | `dailymirrorlk-65d9bdbf` | Tokyo Cement profit falls 13% despite 28% sales jump | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-65d9bdbf)
-- 2026-11-25 | `dailymirrorlk-8de12411` | Bank of Ceylon debentures to list on CSE today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-8de12411)
-- 2026-11-25 | `dailymirrorlk-7cad0bf6` | Access Engineering takes largest slice of Ruwanpura Expressway in Rs.68bn contract haul | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-7cad0bf6)
-- 2026-11-25 | `dailymirrorlk-2bf97eeb` | Hi Life fashion exhibition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-2bf97eeb)
-- 2026-11-25 | `dailymirrorlk-239c0d96` | Sri Lanka tea industry performance – January to September 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-239c0d96)
-- 2026-11-25 | `dailymirrorlk-7a2a2ce6` | Euro Motors opens new Anuradhapura showroom and service complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-7a2a2ce6)
-- 2026-11-25 | `dailymirrorlk-731649fa` | Govt. plans social ethics framework to curb misleading advertisements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-25-dailymirrorlk-731649fa)
 
 ---
 
