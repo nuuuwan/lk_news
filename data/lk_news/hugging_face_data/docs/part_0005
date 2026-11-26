@@ -121623,5 +121623,126 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795673501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-6e237601",
+    "num": "dailymirrorlk-6e237601",
+    "date_str": "2026-11-26",
+    "description": "Diana Gamage pleads guilty to visa offence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Diana-Gamage-pleads-guilty-to-visa-offence/108-355770",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795674637.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-5824a1e5",
+    "num": "dailymirrorlk-5824a1e5",
+    "date_str": "2026-11-26",
+    "description": "Expose the Names of cheating rogue shops",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Expose-the-Names-of-cheating-rogue-shops/172-355771",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795674677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-f239d85a",
+    "num": "dailymirrorlk-f239d85a",
+    "date_str": "2026-11-26",
+    "description": "An uncertain ruling party and a confused opposition",
+    "url_metadata": "https://www.dailymirror.lk/opinion/An-uncertain-ruling-party-and-a-confused-opposition/172-355772",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795674849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-1af13003",
+    "num": "dailymirrorlk-1af13003",
+    "date_str": "2026-11-26",
+    "description": "Budgetary shortfalls, strike actions leave governance at a crossroads",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Budgetary-shortfalls-strike-actions-leave-governance-at-a-crossroads/172-355774",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795674948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-70a7b306",
+    "num": "dailymirrorlk-70a7b306",
+    "date_str": "2026-11-26",
+    "description": "Janashakthi restates pre-IPO profit as finance arm slips below capital minimums",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Janashakthi-restates-pre-IPO-profit-as-finance-arm-slips-below-capital-minimums/273-355785",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795678401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-795b67a8",
+    "num": "dailymirrorlk-795b67a8",
+    "date_str": "2026-11-26",
+    "description": "Sri Lanka holds 21st in Asia Power Index as tourism lifts cultural clout",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-holds-21st-in-Asia-Power-Index-as-tourism-lifts-cultural-clout/273-355786",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795678436.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-8a58c335",
+    "num": "dailymirrorlk-8a58c335",
+    "date_str": "2026-11-26",
+    "description": "23rd Best Corporate Citizen Sustainability Awards  CBL Investments named as Sri Lanka\u2019s Best Corporate Citizen",
+    "url_metadata": "https://www.dailymirror.lk/business-news/23rd-Best-Corporate-Citizen-Sustainability-Awards-CBL-Investments-named-as-Sri-Lankas-Best-Corporate-Citizen/273-355787",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795678604.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-68885079",
+    "num": "dailymirrorlk-68885079",
+    "date_str": "2026-11-26",
+    "description": "No income? You could still face Rs. 400,000 fine for missing tax deadline",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-income-You-could-still-face-Rs-400-000-fine-for-missing-tax-deadline/108-355788",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795679294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-8da34494",
+    "num": "dailymirrorlk-8da34494",
+    "date_str": "2026-11-26",
+    "description": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-rises-on-supply-concerns-as-Iran-claims-mine-strikes-on-ships/107-355790",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795679824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-e942a0df",
+    "num": "dailymirrorlk-e942a0df",
+    "date_str": "2026-11-26",
+    "description": "October exports jump 11.6% YoY",
+    "url_metadata": "https://www.dailymirror.lk/business-main/October-exports-jump-11-6-YoY/245-355791",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795680313.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-940996db",
+    "num": "dailymirrorlk-940996db",
+    "date_str": "2026-11-26",
+    "description": "BOC Rings the Bell for Sri Lanka\u2019s Largest-Ever Listed Basel III Debenture Issue",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-Rings-the-Bell-for-Sri-Lankas-Largest-Ever-Listed-Basel-III-Debenture-Issue/273-355792",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795680581.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-26 11:58:27",
-  "n_docs": 137001,
+  "time_updated": "2026-11-26 13:54:38",
+  "n_docs": 137012,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137001,
+  "n_docs_with_text": 137012,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-26",
-  "dataset_size": 2115728610,
+  "dataset_size": 2115843751,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-b3cdb9c0",
-    "num": "dailymirrorlk-b3cdb9c0",
+    "doc_id": "2026-11-26-dailymirrorlk-940996db",
+    "num": "dailymirrorlk-940996db",
     "date_str": "2026-11-26",
-    "description": "Kassapa Thero among 11 released on bail",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765",
+    "description": "BOC Rings the Bell for Sri Lanka\u2019s Largest-Ever Listed Basel III Debenture Issue",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-Rings-the-Bell-for-Sri-Lankas-Largest-Ever-Listed-Basel-III-Debenture-Issue/273-355792",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795673501.0
+    "time_ut": 1795680581.0
   }
 }
