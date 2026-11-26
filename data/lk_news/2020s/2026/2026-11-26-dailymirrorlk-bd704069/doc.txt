@@ -1,0 +1,13 @@
+After years of waiting, WhatsApp can finally send your messages on a timer
+
+While messaging apps like Telegram and Discord have had the ability to schedule messages for a long time, the app with the largest global user base – WhatsApp – has surprisingly been behind. That changes now, as the developers have finally announced message scheduling.
+
+The scheduled message announcement was shared via the official blog, and it is one of WhatsApp’s most requested features. As the name suggests, it allows users to pick a time for when to send a particular message. According to the blog, a message can be scheduled anywhere from 10 minutes to 14 days later. It is not limited to one-on-one messages, either, as it works in group chats as well.
+
+Furthermore, texts, photos, or videos can all be scheduled, but WhatsApp doesn’t mention documents or contacts. It should theoretically be possible to schedule those as well, but the blog doesn’t particularly mention them.
+
+A scheduled message will look like any other message to the receiver, but the sender will be able to see the scheduled time and also be able to delete it if they so choose. Editing scheduled messages before they are sent should be possible as well, though once again, the blog doesn’t mention it. Scheduled messages, like other messages, remain end-to-end encrypted.
+
+The functionality has been integrated into the send button. Holding the send button will bring up a menu that allows the sender to choose the exact time – hours and minutes – and then schedule the message. Of course, you’ll have to type the message before the send button appears, since by default, WhatsApp shows the record button in place of the send button.
+
+The blog also says that the feature has started rolling out globally and should reach all users over the coming weeks. This means not all users would see it right away. We updated WhatsApp to version 2.26.46.82, which came out yesterday, November 24, but the message scheduler feature was unavailable. That means the next update should be the one. This also suggests that Facebook Messenger might get the feature soon.

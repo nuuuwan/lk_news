@@ -121513,5 +121513,115 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795666053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-bd704069",
+    "num": "dailymirrorlk-bd704069",
+    "date_str": "2026-11-26",
+    "description": "After years of waiting, WhatsApp can finally send your messages on a timer",
+    "url_metadata": "https://www.dailymirror.lk/international/After-years-of-waiting-WhatsApp-can-finally-send-your-messages-on-a-timer/107-355751",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795670191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-dd820656",
+    "num": "dailymirrorlk-dd820656",
+    "date_str": "2026-11-26",
+    "description": "Sri Lanka calls for regional action against drug trafficking, maritime threats",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-calls-for-regional-action-against-drug-trafficking-maritime-threats/108-355753",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795670509.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-f0e25892",
+    "num": "dailymirrorlk-f0e25892",
+    "date_str": "2026-11-26",
+    "description": "Sri Lankan households earn more but afford less",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-households-earn-more-but-afford-less/108-355756",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795671456.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-ea8fd694",
+    "num": "dailymirrorlk-ea8fd694",
+    "date_str": "2026-11-26",
+    "description": "Migration of Doctors drops sharply: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Migration-of-Doctors-drops-sharply-Deputy-Minister/108-355757",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795671852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-aa7dcec3",
+    "num": "dailymirrorlk-aa7dcec3",
+    "date_str": "2026-11-26",
+    "description": "Room charges in state hospital paying wards increased",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Room-charges-in-state-hospital-paying-wards-increased/108-355760",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795672099.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-b52a40a4",
+    "num": "dailymirrorlk-b52a40a4",
+    "date_str": "2026-11-26",
+    "description": "Restrictions on marriage proposal, rituals and enchantment advertisements questioned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Restrictions-on-marriage-proposal-rituals-and-enchantment-advertisements-questioned/108-355761",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795672568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-c8b93d87",
+    "num": "dailymirrorlk-c8b93d87",
+    "date_str": "2026-11-26",
+    "description": "Govt refutes claims of barring Russian Prosecutor General from visiting AG\u2019s Office, CIABOC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-refutes-claims-of-barring-Russian-Prosecutor-General-from-visiting-AGs-Office-CIABOC/108-355762",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795672836.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-af2cbf0a",
+    "num": "dailymirrorlk-af2cbf0a",
+    "date_str": "2026-11-26",
+    "description": "ASG says medical report found no torture, Sallay\u2019s counsel disputes prosecution\u2019s interpretation of findings",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ASG-says-medical-report-found-no-torture-Sallays-counsel-disputes-prosecutions-interpretation-of-findings/108-355763",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795673097.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-edc39825",
+    "num": "dailymirrorlk-edc39825",
+    "date_str": "2026-11-26",
+    "description": "Minneriya National Park earns over Rs. 10 mn daily from elephant tourism, court told",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minneriya-National-Park-earns-over-Rs-10-mn-daily-from-elephant-tourism-court-told/108-355764",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795673414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-b3cdb9c0",
+    "num": "dailymirrorlk-b3cdb9c0",
+    "date_str": "2026-11-26",
+    "description": "Kassapa Thero among 11 released on bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795673501.0
   }
 ]

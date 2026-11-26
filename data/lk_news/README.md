@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_09:54:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_11:59:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**136,991** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-b7c2fe43",
-    "num": "dailymirrorlk-b7c2fe43",
+    "doc_id": "2026-11-26-dailymirrorlk-b3cdb9c0",
+    "num": "dailymirrorlk-b3cdb9c0",
     "date_str": "2026-11-26",
-    "description": "PUCSL seeks public feedback on electricity safety awareness programmes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PUCSL-seeks-public-feedback-on-electricity-safety-awareness-programmes/108-355749",
+    "description": "Kassapa Thero among 11 released on bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795666053.0
+    "time_ut": 1795673501.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `dailymirrorlk-b3cdb9c0` | Kassapa Thero among 11 released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-b3cdb9c0)
+- 2026-11-26 | `dailymirrorlk-edc39825` | Minneriya National Park earns over Rs. 10 mn daily from elephant tourism, court told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-edc39825)
+- 2026-11-26 | `dailymirrorlk-af2cbf0a` | ASG says medical report found no torture, Sallay’s counsel disputes prosecution’s interpretation of findings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-af2cbf0a)
+- 2026-11-26 | `dailymirrorlk-c8b93d87` | Govt refutes claims of barring Russian Prosecutor General from visiting AG’s Office, CIABOC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-c8b93d87)
+- 2026-11-26 | `dailymirrorlk-b52a40a4` | Restrictions on marriage proposal, rituals and enchantment advertisements questioned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-b52a40a4)
+- 2026-11-26 | `dailymirrorlk-aa7dcec3` | Room charges in state hospital paying wards increased | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-aa7dcec3)
+- 2026-11-26 | `dailymirrorlk-ea8fd694` | Migration of Doctors drops sharply: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-ea8fd694)
+- 2026-11-26 | `dailymirrorlk-f0e25892` | Sri Lankan households earn more but afford less | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-f0e25892)
+- 2026-11-26 | `dailymirrorlk-dd820656` | Sri Lanka calls for regional action against drug trafficking, maritime threats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-dd820656)
+- 2026-11-26 | `dailymirrorlk-bd704069` | After years of waiting, WhatsApp can finally send your messages on a timer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-bd704069)
 - 2026-11-26 | `dailymirrorlk-b7c2fe43` | PUCSL seeks public feedback on electricity safety awareness programmes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-b7c2fe43)
 - 2026-11-26 | `dailymirrorlk-125b9ffa` | HIV infections rise 48% in Sri Lanka as youth face growing risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-125b9ffa)
 - 2026-11-26 | `dailymirrorlk-ae04f60f` | Bollywood union asks Modi to bar Netflix’s Pakistani series in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-ae04f60f)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-11-26 | `dailymirrorlk-dae5381e` | Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-dae5381e)
 - 2026-11-26 | `dailymirrorlk-ef501261` | Ex-cop wanted over T-56 rifle theft brought back from Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-ef501261)
 - 2026-11-26 | `dailyftlk-7c9ea513` | CBL Investments named Sri Lanka’s Best Corporate Citizen at 23rd BCCS Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-7c9ea513)
-- 2026-11-26 | `dailyftlk-b28821b4` | Varna wins National Silver and  Top 10 at CNCI Achiever Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-b28821b4)
-- 2026-11-26 | `dailyftlk-058c26d5` | Court rejects Gota’s plea to lift overseas travel ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-058c26d5)
-- 2026-11-26 | `dailyftlk-b9c4d3ea` | Former journalist  Kshalini Nonis passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-b9c4d3ea)
-- 2026-11-26 | `dailyftlk-0a3fb8f4` | UN-Government initiative strengthens social dialogue to build trust and prevent conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-0a3fb8f4)
-- 2026-11-26 | `dailyftlk-64e82eaf` | India-backed housing project to provide 37 homes for Kalutara disaster-hit families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-64e82eaf)
-- 2026-11-26 | `dailyftlk-7f67115a` | Colombo Uni. Faculty of Management and Finance International Research Conference tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-7f67115a)
-- 2026-11-26 | `dailyftlk-b95b8917` | Seven SLIIT academics among world’s top 2% scientists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-b95b8917)
-- 2026-11-26 | `dailyftlk-479d2c0d` | Islandwide Scientific strengthens leadership team to expand scientific and research solutions in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-479d2c0d)
-- 2026-11-26 | `dailyftlk-81935256` | FACETS 2027 puts Sri Lankan jewellery in spotlight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-81935256)
-- 2026-11-26 | `dailyftlk-88578eb2` | Chrissworld appoints Shenouk Joseph Graetian Perera to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailyftlk-88578eb2)
 
 ---
 

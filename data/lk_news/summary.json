@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-26 09:53:13",
-  "n_docs": 136991,
+  "time_updated": "2026-11-26 11:58:27",
+  "n_docs": 137001,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136991,
+  "n_docs_with_text": 137001,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-26",
-  "dataset_size": 2115649058,
+  "dataset_size": 2115728610,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-b7c2fe43",
-    "num": "dailymirrorlk-b7c2fe43",
+    "doc_id": "2026-11-26-dailymirrorlk-b3cdb9c0",
+    "num": "dailymirrorlk-b3cdb9c0",
     "date_str": "2026-11-26",
-    "description": "PUCSL seeks public feedback on electricity safety awareness programmes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/PUCSL-seeks-public-feedback-on-electricity-safety-awareness-programmes/108-355749",
+    "description": "Kassapa Thero among 11 released on bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795666053.0
+    "time_ut": 1795673501.0
   }
 }
