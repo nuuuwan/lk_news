@@ -121337,5 +121337,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795653114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-7f67115a",
+    "num": "dailyftlk-7f67115a",
+    "date_str": "2026-11-26",
+    "description": "Colombo Uni. Faculty of Management and Finance International Research Conference tomorrow",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Uni-Faculty-of-Management-and-Finance-International-Research-Conference-tomorrow/34-800605",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795653383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-64e82eaf",
+    "num": "dailyftlk-64e82eaf",
+    "date_str": "2026-11-26",
+    "description": "India-backed housing project to provide 37 homes for Kalutara disaster-hit families",
+    "url_metadata": "https://www.ft.lk/news/India-backed-housing-project-to-provide-37-homes-for-Kalutara-disaster-hit-families/56-800610",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795653800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-0a3fb8f4",
+    "num": "dailyftlk-0a3fb8f4",
+    "date_str": "2026-11-26",
+    "description": "UN-Government initiative strengthens social dialogue to build trust and prevent conflict",
+    "url_metadata": "https://www.ft.lk/news/UN-Government-initiative-strengthens-social-dialogue-to-build-trust-and-prevent-conflict/56-800611",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795653844.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-b9c4d3ea",
+    "num": "dailyftlk-b9c4d3ea",
+    "date_str": "2026-11-26",
+    "description": "Former journalist  Kshalini Nonis passes away",
+    "url_metadata": "https://www.ft.lk/news/Former-journalist-Kshalini-Nonis-passes-away/56-800612",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795654022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-058c26d5",
+    "num": "dailyftlk-058c26d5",
+    "date_str": "2026-11-26",
+    "description": "Court rejects Gota\u2019s plea to lift overseas travel ban",
+    "url_metadata": "https://www.ft.lk/news/Court-rejects-Gota-s-plea-to-lift-overseas-travel-ban/56-800613",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795654147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-b28821b4",
+    "num": "dailyftlk-b28821b4",
+    "date_str": "2026-11-26",
+    "description": "Varna wins National Silver and  Top 10 at CNCI Achiever Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/Varna-wins-National-Silver-and-Top-10-at-CNCI-Achiever-Awards-2026/34-800614",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795654386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailyftlk-7c9ea513",
+    "num": "dailyftlk-7c9ea513",
+    "date_str": "2026-11-26",
+    "description": "CBL Investments named Sri Lanka\u2019s Best Corporate Citizen at 23rd BCCS Awards",
+    "url_metadata": "https://www.ft.lk/business/CBL-Investments-named-Sri-Lanka-s-Best-Corporate-Citizen-at-23rd-BCCS-Awards/34-800615",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795654576.0
   }
 ]
