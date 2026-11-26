@@ -122283,5 +122283,49 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795688400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-a90d0e4e",
+    "num": "dailymirrorlk-a90d0e4e",
+    "date_str": "2026-11-26",
+    "description": "No fraud allegations made against me, says Rohitha Rajapaksa after FCID statement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-fraud-allegations-made-against-me-says-Rohitha-Rajapaksa-after-FCID-statement/108-355820",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795688527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-1d15acb2",
+    "num": "dailymirrorlk-1d15acb2",
+    "date_str": "2026-11-26",
+    "description": "BASL Presidential candidate Rienzie meets Colombo lawyers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-Presidential-candidate-Rienzie-meets-Colombo-lawyers/108-355821",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795691619.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-1f66ba99",
+    "num": "dailymirrorlk-1f66ba99",
+    "date_str": "2026-11-26",
+    "description": "World Bank launches $10 million rupee financing facility for Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Bank-launches-10-million-rupee-financing-facility-for-Sri-Lanka/108-355822",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795693079.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-692c6595",
+    "num": "dailymirrorlk-692c6595",
+    "date_str": "2026-11-26",
+    "description": "Five elephant control units receive Rs. 90 million vehicle boost",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-elephant-control-units-receive-Rs-90-million-vehicle-boost/108-355823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795694573.0
   }
 ]

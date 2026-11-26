@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_15:55:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_17:57:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,061** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,065** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-virakesarilk-40c8ef48",
-    "num": "virakesarilk-40c8ef48",
+    "doc_id": "2026-11-26-dailymirrorlk-692c6595",
+    "num": "dailymirrorlk-692c6595",
     "date_str": "2026-11-26",
-    "description": "\u0bb0\u0bcb\u0bb9\u0bbf\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u200c\u0bb7\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0ba9\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 04 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/268151",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1795688400.0
+    "description": "Five elephant control units receive Rs. 90 million vehicle boost",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-elephant-control-units-receive-Rs-90-million-vehicle-boost/108-355823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795694573.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `dailymirrorlk-692c6595` | Five elephant control units receive Rs. 90 million vehicle boost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-692c6595)
+- 2026-11-26 | `dailymirrorlk-1f66ba99` | World Bank launches $10 million rupee financing facility for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-1f66ba99)
+- 2026-11-26 | `dailymirrorlk-1d15acb2` | BASL Presidential candidate Rienzie meets Colombo lawyers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-1d15acb2)
+- 2026-11-26 | `dailymirrorlk-a90d0e4e` | No fraud allegations made against me, says Rohitha Rajapaksa after FCID statement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-a90d0e4e)
 - 2026-11-26 | `virakesarilk-40c8ef48` | ரோஹித ராஜபக்‌ஷவிடம் நிதி குற்றப் புலனாய்வுப் பிரிவு சுமார் 04 மணித்தியாலங்கள் வாக்குமூலம் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-40c8ef48)
 - 2026-11-26 | `virakesarilk-2eb65ae2` | ஒக்டோபர் மாதத்தில் இலங்கையின் தேயிலை ஏற்றுமதி 7 சதவீதத்தால் வீழ்ச்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-2eb65ae2)
 - 2026-11-26 | `virakesarilk-51ccf353` | சொந்த மண்ணில் சரித்திரம் படைத்த தாய் : 2026 பிரபஞ்ச அழகி மகுடத்தைச் சூடினார் போர்ட்டோ ரிகோவின் ஜெனிபர் பாரெட்டோ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-51ccf353)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-26 | `virakesarilk-12956ab3` | நடிகர் அருள் தாஸ் நடிக்கும் 'ரியூனியன்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-12956ab3)
 - 2026-11-26 | `virakesarilk-5246ecb0` | நடிகை ரைசா வில்சன் நடிக்கும் 'நோவா' திரைப்படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-5246ecb0)
 - 2026-11-26 | `virakesarilk-0a1f77a1` | நடிகர் மித்துன் மாணிக்கம் நடிக்கும் 'ஃபேமிலி பாய்' படத்தின் லேட்டஸ்ட் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-0a1f77a1)
-- 2026-11-26 | `dailymirrorlk-8c22ced2` | Software takes centre stage as Sungrow wires AI into every layer of energy storage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-8c22ced2)
-- 2026-11-26 | `virakesarilk-c65f14ce` | வட்டுவாகல் பால வீதியில் நான்கு இடங்களில் நீர் மேவி பாய்கின்றது ; தொடரும் மழையால் போக்குவரத்து பாதிக்கும் அபாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-c65f14ce)
-- 2026-11-26 | `dailymirrorlk-543c299e` | AMW launches Yamaha XSR-155 and NMAX-155 at Colombo Motor Show 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-543c299e)
-- 2026-11-26 | `dailymirrorlk-5b56acd7` | Ather introduces ‘Rizta Z’ to Sri Lanka at Colombo Motor Show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-5b56acd7)
 
 ---
 
