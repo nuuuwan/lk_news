@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-26 03:54:19",
-  "n_docs": 136967,
+  "time_updated": "2026-11-26 06:07:41",
+  "n_docs": 136975,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 136967,
+  "n_docs_with_text": 136975,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-26",
-  "dataset_size": 2115316853,
+  "dataset_size": 2115405377,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailyftlk-3dc37480",
-    "num": "dailyftlk-3dc37480",
+    "doc_id": "2026-11-26-dailyftlk-b95b8917",
+    "num": "dailyftlk-b95b8917",
     "date_str": "2026-11-26",
-    "description": "Dengue: A persistent national  threat demanding year-round action",
-    "url_metadata": "https://www.ft.lk/columns/Dengue-A-persistent-national-threat-demanding-year-round-action/4-800588",
+    "description": "Seven SLIIT academics among world\u2019s top 2% scientists",
+    "url_metadata": "https://www.ft.lk/business/Seven-SLIIT-academics-among-world-s-top-2-scientists/34-800604",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1795645036.0
+    "time_ut": 1795653114.0
   }
 }
