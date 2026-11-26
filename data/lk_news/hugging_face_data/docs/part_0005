@@ -121414,5 +121414,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795654576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-ef501261",
+    "num": "dailymirrorlk-ef501261",
+    "date_str": "2026-11-26",
+    "description": "Ex-cop wanted over T-56 rifle theft brought back from Dubai",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ex-cop-wanted-over-T-56-rifle-theft-brought-back-from-Dubai/108-355741",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795663276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-dae5381e",
+    "num": "dailymirrorlk-dae5381e",
+    "date_str": "2026-11-26",
+    "description": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "url_metadata": "https://www.dailymirror.lk/international/Thirty-one-killed-in-massive-fire-as-fuel-tanker-crashes-on-Cairo-highway/107-355742",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795663946.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-6bafd87d",
+    "num": "dailymirrorlk-6bafd87d",
+    "date_str": "2026-11-26",
+    "description": "Girl dies after falling from moving cab in Norwood",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Girl-dies-after-falling-from-moving-cab-in-Norwood/108-355743",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795664770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-55c07894",
+    "num": "dailymirrorlk-55c07894",
+    "date_str": "2026-11-26",
+    "description": "Quazi Judge, woman arrested over Rs. 65,000 bribe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Quazi-Judge-woman-arrested-over-Rs-65-000-bribe/108-355744",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795665124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-550876b2",
+    "num": "dailymirrorlk-550876b2",
+    "date_str": "2026-11-26",
+    "description": "Sri Lankan-born Professor knighted by King Charles meets PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-born-Professor-knighted-by-King-Charles-meets-PM/108-355745",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795665510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-349fcac4",
+    "num": "dailymirrorlk-349fcac4",
+    "date_str": "2026-11-26",
+    "description": "Man who crawled under train to save soldier commended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-who-crawled-under-train-to-save-soldier-commended/108-355746",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795665620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-ae04f60f",
+    "num": "dailymirrorlk-ae04f60f",
+    "date_str": "2026-11-26",
+    "description": "Bollywood union asks Modi to bar Netflix\u2019s Pakistani series in India",
+    "url_metadata": "https://www.dailymirror.lk/international/Bollywood-union-asks-Modi-to-bar-Netflixs-Pakistani-series-in-India/107-355747",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795665784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-125b9ffa",
+    "num": "dailymirrorlk-125b9ffa",
+    "date_str": "2026-11-26",
+    "description": "HIV infections rise 48% in Sri Lanka as youth face growing risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/HIV-infections-rise-48-in-Sri-Lanka-as-youth-face-growing-risk/108-355748",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795665901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-b7c2fe43",
+    "num": "dailymirrorlk-b7c2fe43",
+    "date_str": "2026-11-26",
+    "description": "PUCSL seeks public feedback on electricity safety awareness programmes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PUCSL-seeks-public-feedback-on-electricity-safety-awareness-programmes/108-355749",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795666053.0
   }
 ]
