@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_19:57:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_21:54:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,072** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-7ab40fd4",
-    "num": "dailymirrorlk-7ab40fd4",
+    "doc_id": "2026-11-26-dailymirrorlk-37d4b428",
+    "num": "dailymirrorlk-37d4b428",
     "date_str": "2026-11-26",
-    "description": "New fuel station on Delft Island moves closer to operation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-fuel-station-on-Delft-Island-moves-closer-to-operation/108-355829",
+    "description": "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
+    "url_metadata": "https://www.dailymirror.lk/international/CM-Vijay-inaugurates-148-houses-for-Sri-Lankan-Tamils-in-Krishnagiri-rehabilitation-camp/107-355834",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795700797.0
+    "time_ut": 1795707243.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `dailymirrorlk-37d4b428` | CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-37d4b428)
+- 2026-11-26 | `dailymirrorlk-70178310` | CSE slips back towards 21,200 as selling pressure returns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-70178310)
+- 2026-11-26 | `dailymirrorlk-ca88d430` | Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-ca88d430)
+- 2026-11-26 | `dailymirrorlk-a032fff8` | Netherlands to return two historic Kandyan guns to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-a032fff8)
 - 2026-11-26 | `dailymirrorlk-7ab40fd4` | New fuel station on Delft Island moves closer to operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-7ab40fd4)
 - 2026-11-26 | `dailymirrorlk-fdce963c` | Musk’s plan to send a million SpaceX data satellites into space approved | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-fdce963c)
 - 2026-11-26 | `dailymirrorlk-d12d2372` | Indian Deputy High Commissioner meets Mahinda Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-d12d2372)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-26 | `virakesarilk-51ccf353` | சொந்த மண்ணில் சரித்திரம் படைத்த தாய் : 2026 பிரபஞ்ச அழகி மகுடத்தைச் சூடினார் போர்ட்டோ ரிகோவின் ஜெனிபர் பாரெட்டோ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-51ccf353)
 - 2026-11-26 | `dailymirrorlk-185d4361` | Cordelia Empress arrives in Colombo with 1,600 tourists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-185d4361)
 - 2026-11-26 | `virakesarilk-6fd0a1c7` | நாட்டில் அதிகரிக்கும் எச்ஐவி தொற்று : 2026-ல் 708 புதிய தொற்றாளர்கள் அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-6fd0a1c7)
-- 2026-11-26 | `dailymirrorlk-2219b8a4` | Heavy showers, severe lightning expected in several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-2219b8a4)
-- 2026-11-26 | `dailymirrorlk-43190c46` | Over 100 attend Prabhakaran birthday event in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-43190c46)
-- 2026-11-26 | `dailymirrorlk-58cb8f62` | Seven injured in huge Bangkok oil depot blast, four in critical condition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-58cb8f62)
-- 2026-11-26 | `virakesarilk-b199a958` | திருப்பரங்குன்றம் தீபம் விவகாரம்: நாளை நீதிமன்ற அவமதிப்பு வழக்கு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-b199a958)
 
 ---
 

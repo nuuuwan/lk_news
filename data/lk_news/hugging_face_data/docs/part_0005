@@ -122404,5 +122404,49 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795700797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-a032fff8",
+    "num": "dailymirrorlk-a032fff8",
+    "date_str": "2026-11-26",
+    "description": "Netherlands to return two historic Kandyan guns to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Netherlands-to-return-two-historic-Kandyan-guns-to-Sri-Lanka/108-355831",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795706740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-ca88d430",
+    "num": "dailymirrorlk-ca88d430",
+    "date_str": "2026-11-26",
+    "description": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+    "url_metadata": "https://www.dailymirror.lk/international/Diesel-tanker-carrying-up-to-7-000-tonnes-sinks-near-Ibiza-killing-one/107-355832",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795706896.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-70178310",
+    "num": "dailymirrorlk-70178310",
+    "date_str": "2026-11-26",
+    "description": "CSE slips back towards 21,200 as selling pressure returns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-slips-back-towards-21-200-as-selling-pressure-returns/108-355833",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795707010.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-37d4b428",
+    "num": "dailymirrorlk-37d4b428",
+    "date_str": "2026-11-26",
+    "description": "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
+    "url_metadata": "https://www.dailymirror.lk/international/CM-Vijay-inaugurates-148-houses-for-Sri-Lankan-Tamils-in-Krishnagiri-rehabilitation-camp/107-355834",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795707243.0
   }
 ]
