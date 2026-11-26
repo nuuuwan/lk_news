@@ -122275,6 +122275,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-70575fdb",
+    "num": "dailymirrorlk-70575fdb",
+    "date_str": "2026-11-26",
+    "description": "Russia agrees to assist Sri Lanka in bringing crime suspects back",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russia-agrees-to-assist-Sri-Lanka-in-bringing-crime-suspects-back/108-355819",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795688387.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-26-virakesarilk-40c8ef48",
     "num": "virakesarilk-40c8ef48",
     "date_str": "2026-11-26",
@@ -122327,5 +122338,71 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795694573.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-36b56666",
+    "num": "dailymirrorlk-36b56666",
+    "date_str": "2026-11-26",
+    "description": "Third phase of public sector salary hike to take effect in January 2027 \u2013 PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Third-phase-of-public-sector-salary-hike-to-take-effect-in-January-2027-PM/108-355824",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795695065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-1039bcc3",
+    "num": "dailymirrorlk-1039bcc3",
+    "date_str": "2026-11-26",
+    "description": "SAARC Cultural Centre in Matara to be handed over to Ocean University",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SAARC-Cultural-Centre-in-Matara-to-be-handed-over-to-Ocean-University/108-355825",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795695259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-19e77698",
+    "num": "dailymirrorlk-19e77698",
+    "date_str": "2026-11-26",
+    "description": "Cordelia Empress docks at Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Cordelia-Empress-docks-at-Colombo-Port/110-355826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795695452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-d12d2372",
+    "num": "dailymirrorlk-d12d2372",
+    "date_str": "2026-11-26",
+    "description": "Indian Deputy High Commissioner meets Mahinda Rajapaksa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-Deputy-High-Commissioner-meets-Mahinda-Rajapaksa/108-355827",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795696293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-fdce963c",
+    "num": "dailymirrorlk-fdce963c",
+    "date_str": "2026-11-26",
+    "description": "Musk\u2019s plan to send a million SpaceX data satellites into space approved",
+    "url_metadata": "https://www.dailymirror.lk/international/Musks-plan-to-send-a-million-SpaceX-data-satellites-into-space-approved/107-355828",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795700401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-26-dailymirrorlk-7ab40fd4",
+    "num": "dailymirrorlk-7ab40fd4",
+    "date_str": "2026-11-26",
+    "description": "New fuel station on Delft Island moves closer to operation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-fuel-station-on-Delft-Island-moves-closer-to-operation/108-355829",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795700797.0
   }
 ]

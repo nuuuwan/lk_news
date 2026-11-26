@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-26 17:56:24",
-  "n_docs": 137065,
+  "time_updated": "2026-11-26 19:56:21",
+  "n_docs": 137072,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137065,
+  "n_docs_with_text": 137072,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-26",
-  "dataset_size": 2116672189,
+  "dataset_size": 2116703338,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-692c6595",
-    "num": "dailymirrorlk-692c6595",
+    "doc_id": "2026-11-26-dailymirrorlk-7ab40fd4",
+    "num": "dailymirrorlk-7ab40fd4",
     "date_str": "2026-11-26",
-    "description": "Five elephant control units receive Rs. 90 million vehicle boost",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-elephant-control-units-receive-Rs-90-million-vehicle-boost/108-355823",
+    "description": "New fuel station on Delft Island moves closer to operation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-fuel-station-on-Delft-Island-moves-closer-to-operation/108-355829",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795694573.0
+    "time_ut": 1795700797.0
   }
 }
