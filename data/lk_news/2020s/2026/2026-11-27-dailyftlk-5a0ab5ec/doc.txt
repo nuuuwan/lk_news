@@ -1,0 +1,25 @@
+Volfpack and SLTC develop Sri Lanka’s first supercapacitors as industries confront power quality pressures
+
+Sri Lanka has produced its first supercapacitors, the fast response energy storage that factories, data centres and power grids increasingly rely on. Volfpack Energy, a Sri Lankan deep tech startup working with Sri Lanka Technology Campus (SLTC), has made the cells in its laboratory and is now building towards commercial production. Apparel manufacturers and IT infrastructure companies are already evaluating the technology.
+
+The timing reflects a shift in what industry needs from the grid. Sri Lanka now has more than 3,000 MW of solar capacity, yet the grid was designed for one way power flow and has limited storage to absorb sudden swings in supply. October’s nationwide blackout and an 18% tariff increase this year have made power quality a board level concern. For manufacturers the risk is immediate, because a voltage dip lasting less than a second can stop an entire production line.
+
+CVolfpack Energy CEO and Co-founder harlie Karunaratne said: “It’s not just about generating more electricity. It’s about managing electricity better.”
+
+Supercapacitors store charge on the surface of porous carbon rather than through a chemical reaction, so they charge and release power in seconds. Volfpack’s graphene enhanced cells are rated for up to one million cycles, compared with 5,000 to 6,000 for the batteries most factories use today. The cells deliver power densities of up to 18 kW/kg, and Volfpack is developing stackable 10 kW energy storage modules that scale to 100 kW and beyond. Installed alongside batteries, they are designed to absorb the sudden bursts of demand from heavy machinery and servers that wear batteries down, which would allow battery systems to offer warranties of up to 10 years. The same capability could smooth rapid swings in solar output before they reach the grid. The cells are built for bursts lasting seconds and do not replace long duration backup power.
+
+Alongside supercapacitors, Volfpack is developing 10C batteries for applications that need more energy, with a target duration of up to 15 minutes. Both technologies share a common manufacturing platform.
+
+Over the past four years, Volfpack’s team of young scientists and engineers has manufactured more than 5,000 cells and developed its own electrode and electrolyte formulations. The company is based at TRACE Expert City, where it works with SLTC at the SLTC Innovation & Industry Collaboration Hub.
+
+The development also moves Sri Lanka further up a value chain in which it already competes globally. The country is one of the world’s ten largest exporters of activated carbon, most of it made from coconut shells, a preferred material for supercapacitor electrodes. Volfpack aims to turn this local resource into finished energy storage products made in Sri Lanka. No other company in the country has made supercapacitors from these resources at this power level.
+
+SLTC students work alongside Volfpack’s engineers on device design, production, automation, testing and quality control.
+
+SLTC Electrical Engineering Head Dr. Nicoloy Gurusinghe said: “Developing energy-storage technology is only the beginning. The real challenge is making it work reliably in real-world applications. This collaboration gives students hands-on experience in testing, product development and manufacturing, helping them understand how engineering something people can actually use becomes.”
+
+SLTC Applied Electronics Head Dr. Chamith Chandrarathna said: “Engineering education becomes more meaningful when students can apply what they learn to real problems. Working with Volfpack exposes them to the pace of product development, the importance of testing and iteration, and the challenges of building technology that works beyond the classroom.”
+
+Volfpack’s first manufacturing milestone is one million cells a year, with India and the wider South Asian region as its first export markets. “The goal is to prove that we can manufacture consistently, at a competitive cost, while building products that solve problems customers are actually willing to pay for,” said Karunaratne.
+
+Volfpack is inviting manufacturers and data centre operators to pilot the technology.

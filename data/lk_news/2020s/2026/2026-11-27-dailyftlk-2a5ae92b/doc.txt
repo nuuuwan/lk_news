@@ -1,0 +1,33 @@
+Digital Trust Alliance launches open dashboard tracking digital spending in Budget 2027
+
+Free public platform links every figure to its page in the official Budget documents, and invites citizens, practitioners and policymakers to review, question and comment
+
+The Digital Trust Alliance (DTA) has launched “Budget 2027: What’s for Digital”, a free, publicly accessible dashboard at budget.digitaltrust.lk that sets out how Sri Lanka’s draft Budget 2027 allocates funds to digital government, cybersecurity, data protection, digital skills and related areas, and how these allocations compare with Budget 2026.
+
+Budget analyses published each year by professional services firms and policy think tanks provide valuable insight into revenue, expenditure and the fiscal outlook. The DTA dashboard is intended to complement this work by focusing on the digital and digital trust dimensions of public spending. Digital allocations are spread across the Appropriation Bill, the volumes of Detailed Budget Estimates, the medium-term public investment plan and the Budget Speech; the dashboard brings these lines together in one place and identifies Rs. 52.5 billion in digital spending in the 2027 draft.
+
+Ministry of Digital Economy: Rs. 26,000 million in 2027, up 62.5% from Rs. 16,000 million in 2026.
+
+Digital government (DigiGov-SL): Rs. 9,486 million in 2027, up from a revised Rs. 702 million in 2026, within an estimated total programme cost of Rs. 43,859 million to 2030. Of the 2027 allocation, Rs. 7,026 million is foreign loan financing.
+
+Digital identity (SLUDI): Rs. 1,500 million in 2027, following a revision of the 2026 allocation from Rs. 2,110 million to Rs. 910 million.
+
+Cybersecurity: projects under Sri Lanka CERT receive Rs. 590 million (2026: Rs. 600 million), while its institutional grant rises from Rs. 375 million to Rs. 470 million. New Ministry of Defence lines for cyber infrastructure, a digital forensic laboratory and a cyber range total Rs. 1,053 million.
+
+Data protection: the Data Protection Authority receives Rs. 195 million (2026: Rs. 174 million), ahead of the operative provisions of the Personal Data Protection Act taking effect on 1 January 2027.
+
+Skills and industry: ICT Hubs for secondary schools rise from Rs. 575 million to Rs 2,500 million, while the Digital Industry Development line, which supports upskilling and start-up accelerators, is allocated Rs. 380 million, down 49.3% from Rs. 750 million.
+
+Oversight: the National Audit Office, the Bribery Commission and the National Procurement Commission together hold under Rs. 45 million for software in 2027.
+
+Delivery: by August 2026, 25.4% of the 2026 capital budget had been spent across government. Budget 2026 commitments on GovPay and VAT on foreign digital services have been delivered.
+
+Legislation: Budget Speech 2027 expects the Digital Economy Bill, which establishes the Digital Economy Authority, to be passed in the first quarter of 2027. The Cyber Security Bill is with the Attorney General.
+
+Digital Trust Alliance President Lakmal Embuldeniya said: “Each year, professional firms and think tanks provide valuable commentary on the Budget, and we aim to add a digital trust lens to that conversation. Budget 2027 makes a meaningful investment in digital public infrastructure. The dashboard allows anyone to see where that money is allocated, how it compares with last year, and whether investment in digital platforms is matched by investment in cybersecurity, data protection and oversight. It is a living tool that we will continue to improve, and we invite citizens to help shape it through their comments. We also hope it gives investors, both local and foreign, a clear and transparent view of Sri Lanka’s digital priorities.”
+
+Every figure on the dashboard is tagged to the page of the official document from which it is drawn, and figures calculated by the DTA, as well as analytical observations, are labelled separately. The DTA used generative AI tools to convert the budget documents and assist with the analysis; each figure can be checked against its original source page. Sources include the Appropriation Bill 2027, the Draft Detailed Budget Estimates 2027, the medium-term public investment plan for 2027 to 2029, the Treasury’s 2027 budget economic and fiscal position report, and the Budget Speeches for 2026 and 2027.
+
+All 2027 figures are drafts and may change before Parliament’s final vote on 14 December 2026. The DTA will update the dashboard to reflect the approved Budget.
+
+The DTA is a Sri Lanka-based alliance that brings together professionals and organisations to advance cybersecurity, information security, governance, risk, compliance and privacy. Through knowledge-sharing, capacity building and evidence-based dialogue with policymakers, industry and civil society, the DTA works to strengthen trust in Sri Lanka’s digital economy and digital public services.

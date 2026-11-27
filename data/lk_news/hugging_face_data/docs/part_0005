@@ -122569,5 +122569,137 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795743202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-28bc9d6d",
+    "num": "dailyftlk-28bc9d6d",
+    "date_str": "2026-11-27",
+    "description": "Unpaid care work: Sri Lanka\u2019s invisible economy demands policy action",
+    "url_metadata": "https://www.ft.lk/opinion/Unpaid-care-work-Sri-Lanka-s-invisible-economy-demands-policy-action/14-800665",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795746872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-17de2f9b",
+    "num": "dailyftlk-17de2f9b",
+    "date_str": "2026-11-27",
+    "description": "Dialog launches Sayuru AI:  Sri Lanka\u2019s first AI-powered fisheries advisory voice assistant",
+    "url_metadata": "https://www.ft.lk/business/Dialog-launches-Sayuru-AI-Sri-Lanka-s-first-AI-powered-fisheries-advisory-voice-assistant/34-800666",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795746959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-c7b17301",
+    "num": "dailyftlk-c7b17301",
+    "date_str": "2026-11-27",
+    "description": "SL makes landmark appearance as Guest Country of Honour at 9th China International Import Expo 2026",
+    "url_metadata": "https://www.ft.lk/business/SL-makes-landmark-appearance-as-Guest-Country-of-Honour-at-9th-China-International-Import-Expo-2026/34-800667",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795747029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-3e8a7e45",
+    "num": "dailyftlk-3e8a7e45",
+    "date_str": "2026-11-27",
+    "description": "KDK advices consumers to purchase products only through authorised channels",
+    "url_metadata": "https://www.ft.lk/business/KDK-advices-consumers-to-purchase-products-only-through-authorised-channels/34-800668",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795747061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-5a0ab5ec",
+    "num": "dailyftlk-5a0ab5ec",
+    "date_str": "2026-11-27",
+    "description": "Volfpack and SLTC develop Sri Lanka\u2019s first supercapacitors as industries confront power quality pressures",
+    "url_metadata": "https://www.ft.lk/business/Volfpack-and-SLTC-develop-Sri-Lanka-s-first-supercapacitors-as-industries-confront-power-quality-pressures/34-800669",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795747145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-31453d64",
+    "num": "dailyftlk-31453d64",
+    "date_str": "2026-11-27",
+    "description": "GRI Executive Director Ananda Caldera receives PRISL Lifetime Achievement Award",
+    "url_metadata": "https://www.ft.lk/business/GRI-Executive-Director-Ananda-Caldera-receives-PRISL-Lifetime-Achievement-Award/34-800670",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795747206.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-2a5ae92b",
+    "num": "dailyftlk-2a5ae92b",
+    "date_str": "2026-11-27",
+    "description": "Digital Trust Alliance launches open dashboard tracking digital spending in Budget 2027",
+    "url_metadata": "https://www.ft.lk/business/Digital-Trust-Alliance-launches-open-dashboard-tracking-digital-spending-in-Budget-2027/34-800671",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795747246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-aa2f9538",
+    "num": "dailyftlk-aa2f9538",
+    "date_str": "2026-11-27",
+    "description": "AICPA - CIMA Sri Lanka Post Budget Forum charts priorities for reform, investment and growth",
+    "url_metadata": "https://www.ft.lk/business/AICPA-CIMA-Sri-Lanka-Post-Budget-Forum-charts-priorities-for-reform-investment-and-growth/34-800683",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795749102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-9c3469a3",
+    "num": "dailyftlk-9c3469a3",
+    "date_str": "2026-11-27",
+    "description": "From village craft to new markets",
+    "url_metadata": "https://www.ft.lk/business/From-village-craft-to-new-markets/34-800684",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795749269.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-5edf24ab",
+    "num": "dailymirrorlk-5edf24ab",
+    "date_str": "2026-11-27",
+    "description": "New Zealand\u2019s ruling coalition falls short of parliamentary majority by one seat",
+    "url_metadata": "https://www.dailymirror.lk/international/New-Zealands-ruling-coalition-falls-short-of-parliamentary-majority-by-one-seat/107-355844",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795751740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-2093849e",
+    "num": "dailymirrorlk-2093849e",
+    "date_str": "2026-11-27",
+    "description": "Navy seizes suspected drug-smuggling vessel in international waters south of Dondra",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-suspected-drug-smuggling-vessel-in-international-waters-south-of-Dondra/108-355845",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795751862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-96a62ff5",
+    "num": "dailymirrorlk-96a62ff5",
+    "date_str": "2026-11-27",
+    "description": "Hashish worth Rs. 181.9 mn seized at Peliyagoda customs warehouse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hashish-worth-Rs-181-9-mn-seized-at-Peliyagoda-customs-warehouse/108-355846",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795752057.0
   }
 ]
