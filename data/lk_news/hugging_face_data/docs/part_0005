@@ -123163,5 +123163,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795773854.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-a5cd416d",
+    "num": "dailymirrorlk-a5cd416d",
+    "date_str": "2026-11-27",
+    "description": "Eastern Terminal to reach 50% capacity this month, Deputy Minister says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eastern-Terminal-to-reach-50-capacity-this-month-Deputy-Minister-says/108-355902",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795774226.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-66772ccb",
+    "num": "dailymirrorlk-66772ccb",
+    "date_str": "2026-11-27",
+    "description": "Russian hybrid attacks could cause \u2018mass casualty event\u2019 in Europe, report warns",
+    "url_metadata": "https://www.dailymirror.lk/international/Russian-hybrid-attacks-could-cause-mass-casualty-event-in-Europe-report-warns/107-355904",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795778699.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-8d524f12",
+    "num": "dailymirrorlk-8d524f12",
+    "date_str": "2026-11-27",
+    "description": "Two years to complete reconstruction of Ditwah affected transport facilities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-years-to-complete-reconstruction-of-Ditwah-affected-transport-facilities/108-355905",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795779373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-820834b3",
+    "num": "dailymirrorlk-820834b3",
+    "date_str": "2026-11-27",
+    "description": "IRD warns public over fake weekend service notice",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IRD-warns-public-over-fake-weekend-service-notice/108-355906",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795780150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-1a605bb7",
+    "num": "dailymirrorlk-1a605bb7",
+    "date_str": "2026-11-27",
+    "description": "Schools to close on December 4, reopen on January 4",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-to-close-on-December-4-reopen-on-January-4/108-355907",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795780709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-b06d4d92",
+    "num": "dailymirrorlk-b06d4d92",
+    "date_str": "2026-11-27",
+    "description": "Teacher training and professional development key to education reforms: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Teacher-training-and-professional-development-key-to-education-reforms-PM/108-355908",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795781136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-7669ca5f",
+    "num": "dailymirrorlk-7669ca5f",
+    "date_str": "2026-11-27",
+    "description": "Why was section of \u2018Matara Ambula\u2019 restaurant in Jaffna demolished?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-was-section-of-Matara-Ambula-restaurant-in-Jaffna-demolished/108-355909",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795781224.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_15:52:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_17:57:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,141** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,148** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-a0d433e2",
-    "num": "dailymirrorlk-a0d433e2",
+    "doc_id": "2026-11-27-dailymirrorlk-7669ca5f",
+    "num": "dailymirrorlk-7669ca5f",
     "date_str": "2026-11-27",
-    "description": "Climate change, marine pollution need collective action, says Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Climate-change-marine-pollution-need-collective-action-says-Minister/108-355901",
+    "description": "Why was section of \u2018Matara Ambula\u2019 restaurant in Jaffna demolished?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-was-section-of-Matara-Ambula-restaurant-in-Jaffna-demolished/108-355909",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795773854.0
+    "time_ut": 1795781224.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `dailymirrorlk-7669ca5f` | Why was section of ‘Matara Ambula’ restaurant in Jaffna demolished? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-7669ca5f)
+- 2026-11-27 | `dailymirrorlk-b06d4d92` | Teacher training and professional development key to education reforms: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b06d4d92)
+- 2026-11-27 | `dailymirrorlk-1a605bb7` | Schools to close on December 4, reopen on January 4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-1a605bb7)
+- 2026-11-27 | `dailymirrorlk-820834b3` | IRD warns public over fake weekend service notice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-820834b3)
+- 2026-11-27 | `dailymirrorlk-8d524f12` | Two years to complete reconstruction of Ditwah affected transport facilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-8d524f12)
+- 2026-11-27 | `dailymirrorlk-66772ccb` | Russian hybrid attacks could cause ‘mass casualty event’ in Europe, report warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-66772ccb)
+- 2026-11-27 | `dailymirrorlk-a5cd416d` | Eastern Terminal to reach 50% capacity this month, Deputy Minister says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-a5cd416d)
 - 2026-11-27 | `dailymirrorlk-a0d433e2` | Climate change, marine pollution need collective action, says Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-a0d433e2)
 - 2026-11-27 | `dailymirrorlk-4b7038ce` | Sri Lanka CERT warns of global website security attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-4b7038ce)
 - 2026-11-27 | `dailymirrorlk-5ff358d6` | Bus-truck collision in Ratnapura leaves sixteen injured | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-5ff358d6)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-27 | `dailymirrorlk-50caebed` | Green trade rules pose risks for SL’s rubber, apparel sectors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-50caebed)
 - 2026-11-27 | `dailymirrorlk-c519e211` | International Finance Corporation taps HSBC for rupee funding in Asia first | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c519e211)
 - 2026-11-27 | `dailymirrorlk-b69081a8` | Everyone wants ‘my share’ despite pay hike, says Labour Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b69081a8)
-- 2026-11-27 | `dailymirrorlk-4ba6ae4f` | Tea export earnings fall 6% in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-4ba6ae4f)
-- 2026-11-27 | `dailymirrorlk-8436c1e4` | WealthTrust’s public float rises to 18.81% after Iconic Trust share sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-8436c1e4)
-- 2026-11-27 | `dailymirrorlk-8518b5b7` | Lacklustre trading keeps yields broadly anchored | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-8518b5b7)
-- 2026-11-27 | `dailymirrorlk-36ac18c2` | No ban on public taking mobile phones into police stations: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-36ac18c2)
-- 2026-11-27 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-2831aeed)
-- 2026-11-27 | `dailymirrorlk-e19dd7e9` | Singapore businesses explore Sri Lanka for expansion at Port City Colombo Investor Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-e19dd7e9)
-- 2026-11-27 | `dailymirrorlk-f020ae49` | Sri Lanka, India wrap up ‘Mitra Shakti – XII’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-f020ae49)
 
 ---
 

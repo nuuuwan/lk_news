@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-27 15:51:55",
-  "n_docs": 137141,
+  "time_updated": "2026-11-27 17:56:35",
+  "n_docs": 137148,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137141,
+  "n_docs_with_text": 137148,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-27",
-  "dataset_size": 2117636312,
+  "dataset_size": 2117703726,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-a0d433e2",
-    "num": "dailymirrorlk-a0d433e2",
+    "doc_id": "2026-11-27-dailymirrorlk-7669ca5f",
+    "num": "dailymirrorlk-7669ca5f",
     "date_str": "2026-11-27",
-    "description": "Climate change, marine pollution need collective action, says Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Climate-change-marine-pollution-need-collective-action-says-Minister/108-355901",
+    "description": "Why was section of \u2018Matara Ambula\u2019 restaurant in Jaffna demolished?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-was-section-of-Matara-Ambula-restaurant-in-Jaffna-demolished/108-355909",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795773854.0
+    "time_ut": 1795781224.0
   }
 }
