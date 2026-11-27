@@ -1,0 +1,133 @@
+Beneficial Ownership registration:  When compliance becomes a burden on businesses
+
+Delays, repeated visits, technical difficulties and heavy penalties are making it hard for companies to comply while they wait for Government approval
+
+​A few days ago, while sitting in a coffee shop, I heard an advertisement promoting its online ordering app. “Grab it and Go”, it went on “, Don’t wait in line. Join online and walk away with your order,” it proclaimed. I smiled at the clever message, but it made me think about our own experience with online systems introduced by regulatory institutions.
+
+In many cases, going online doesn’t eliminate queues. We struggle through complicated digital procedures, only to end up visiting the relevant offices and standing in physical queues to complete the process.
+
+It seems we have perfected a new form of digital administration: First, join the queue online, and then join it again in person.
+
+This is a concern worth examining as Sri Lanka moves towards mandatory digital compliance, particularly with the introduction of Beneficial Ownership registration.
+
+Beneficial Ownership (BO) registration, introduced by the Registrar of Companies (ROC), is an important step towards transparency and accountability in the corporate sector. Knowing who ultimately owns or controls a company supports good governance and helps prevent companies from being misused for illegal activities, such as conmen hiding behind corporate structures.
+
+The other main aspect is identifying an individual as a beneficial owner who is not a shareholder legally recognised as a natural person.
+
+The problem is not the requirement itself, which professionals generally accept. The problem is how it is being implemented: a complicated reporting and approval process, delays, repeated visits to the Registrar’s office, technical difficulties, and penalties on companies that cannot complete their statutory work because of delays in the Government system. For many company secretaries, including lawyers, accountants and business owners, a measure meant to improve transparency has become a major administrative and financial burden.
+
+On 28 October, the Registrar issued a notice described as a final warning on BO compliance. It states that non-compliance could attract a fine of Rs. 1 million or imprisonment for up to 10 years.
+
+Nobody argues that companies may ignore their legal responsibilities. But an authority that threatens such penalties must also provide a system through which those responsibilities can be fulfilled. Companies and their secretaries are still struggling with the online system, waiting for approvals and making repeated visits for help.
+
+The system also assumes a level of digital skill that many directors may not have. A Government survey has reportedly found that only 38% of the population can use a computer independently, and many of them are schoolchildren and young adults. Directors from older generations and small businesses often need professional help, which adds cost.
+
+The most unfair consequence is financial. Companies must file Annual Returns and other statutory documents within set periods, and late filing brings fines. Yet a company secretary cannot proceed with the Annual Return until the BO registration is approved. A company that uploads everything on time can still miss its deadline because the Registrar’s process is incomplete, and penalties begin to accumulate.
+
+nRecognise the online submission date:. The date on which documents are successfully uploaded should count as the date of compliance, subject to later verification and correction. The postal service works this way: for registered post, the date stamp is treated as the date of receipt, because the sender is not responsible for delays in between.
+
+nWaive or extend deadlines:  If the Registrar’s office cannot process applications in time, the Government should announce a temporary waiver or extension for companies that have submitted their documents online.
+
+It is unreasonable to expect companies to pay penalties for delays beyond their control. Compliance must be a two-way responsibility.
+
+Documents are uploaded online, but the process does not move automatically. A first-level officer must check and approve them, then pass them to a second level, and then a third, before any further action can be taken.
+
+Officers are understood to have around 35,000 files to attend to. That may not be the number of pending files, but it shows the scale of the workload. If the system depends on a limited number of officers to examine every submission, delays are inevitable.
+
+Professionals who have uploaded all the required documents still report visiting the Registrar’s office repeatedly to follow up, sometimes as many as five times. Regularly visiting government offices helps build rapport with officials, making them more sympathetic and willing to help move matters forward more quickly. Whether that is true or not, a statutory service should work through a clear, transparent process that treats every applicant the same.
+
+Moving Government services online should save time and money for everyone. With the BO website, professionals report the opposite, and several IT professionals who have examined it have questioned its design and user-friendliness.
+
+A good digital system is built around its users’ needs, not the developers’ technical knowledge. For the BO website, that means:
+
+Meaningful error messages. When a document is rejected, the applicant should be told exactly what is wrong and how to correct it.
+
+Visible status. When an application is pending, the user should be able to see which officer or level is holding it, and why.
+
+The ability to save and return. Company secretaries report that the site doesn’t appear to let users save a partially completed application. Even a small change to one field may mean re-entering everything. When there is more than one BO and one person needs a correction, all records must be changed and re-entered. Why should a one-word correction mean hours of repeated work?
+
+Real human support. Telephone and online help should connect users with people who can actually solve their problems.
+
+A system that sends users back to the office to find out what is happening to documents already submitted online has missed one of the main purposes of digitalisation.
+
+None of this means Sri Lanka should hold back on technology or AI, which can bring enormous benefits. But an online system does not understand the stress a company secretary feels when facing an official deadline. Technology should help people, not leave them feeling helpless.
+
+Complicated ownership structures make matters worse. A company secretary recently explained one case using a diagram, which can be simplified as follows:
+
+Consider a company that holds a 12% stake in a publicly listed company.
+
+The company itself is owned by several corporate shareholders, each holding more than 10%.
+
+Two of these shareholders are, in turn, owned by other companies, each also holding more than 10%.
+
+This creates multiple layers of corporate ownership, making it difficult to trace the chain back to the actual individuals who ultimately own or control the company.
+
+Multiple layers of ownership are not illegal. BO registration exists to identify the natural persons who ultimately own or control these companies. The difficulty is that the secretary responsible for the company at the end of the chain cannot obtain BO approval because some companies higher up have not yet received their own. One company’s registration therefore depends on several others.
+
+The company’s Annual Return is due, and the statutory deadline has passed, but it cannot be filed without BO approval. Is it reasonable to hold one company responsible for delays caused by other companies in its ownership structure, which may themselves be waiting for the Registrar?
+
+This also raises a question: who analyses these, and how often? Should the law be amended to hold a company responsible for reporting this information as a needed to know basis?
+
+The BO requirements appear to be applied in the same way to every registered company, regardless of activity, ownership structure or financial capacity. Special consideration may be justified for:
+
+nGovernment-owned companies, which may need a different reporting procedure given their public ownership and existing accountability arrangements. What do they report, and where? The Treasury can have a list of all of its companies and so forth.
+
+Companies that have not commenced business, which are registered but have never started trading.
+
+Small companies, with annual turnover below a specified threshold, which may need simplified reporting.
+
+Guarantee companies, the Registrar of Companies gives verbal instructions to indicate the Board of Directors, while the e-ROC system has such information directly available.
+
+Charitable companies, established for charitable and public service purposes, given their non-profit nature and governance.
+
+This does not mean automatic exemption from transparency requirements. But the Government should ask whether every category needs the same procedures and compliance costs. A risk-based approach, with simplified procedures or legally justified exemptions, would be more practical than a one-size-fits-all procedure.
+
+A Company Secretary recently brought to my attention a case involving an international organisation seeking to establish its presence in Sri Lanka. The registration process has reportedly remained pending for nearly six months because the Registrar of Companies (ROC) requires the organisation to use a rubber stamp or corporate seal. This is despite the fact that many developed countries have moved away from the traditional requirement for corporate seals. The organisation has submitted an explanatory letter setting out its position, but this has not been accepted by the ROC.
+
+This raises a broader question as to whether our registration procedures are keeping pace with evolving international corporate practices, or whether outdated administrative requirements are unnecessarily discouraging international organisations from establishing a presence in Sri Lanka. This is an example of bureaucratic obstacles to investment and ease of doing business.
+
+For years, successive Governments have encouraged business owners to register as limited liability companies rather than operate as sole proprietorships or partnerships. Yet reports suggest some companies are now considering voluntary winding-up because of the added requirements, difficulties and costs, and some owners may revert to sole proprietorships or partnerships.
+
+There is no benefit in encouraging businesses to become companies while making it harder for them to remain companies. Small and medium-sized businesses, in particular, may struggle with the cost of professional services, repeated visits to Government offices and the risk of penalties. The Government should examine the wider economic impact of the BO system, not treat it only as a compliance exercise.
+
+Banks in Sri Lanka already collect BO information when an account is opened, along with details of directors, authorised signatories and people who control the account. They are expected to carry out customer checks and monitor transactions for suspicious activity.
+
+Has there been any publicly reported case where BO information alone helped identify money laundering, terrorist financing or drug-related activity? Such examples would show the practical value of collecting this information at scale. Of course, identifying a beneficial owner is not enough to establish wrongdoing. It must be examined alongside bank transactions, financial records, and other information.
+
+The Registrar’s office already appears to be struggling to process the submissions it receives. Does it have enough officers with the necessary knowledge and technical skills to examine this information, identify suspicious ownership structures and pass findings to the investigating authorities? Collecting thousands of records is one thing; analysing them to uncover illegal activity is quite another.
+
+The authorities should look beyond collection. The Registrar should study how neighbouring countries maintain, verify, and use their BO registers, and seek technical assistance from bodies such as the International Monetary Fund (IMF) and the World Bank to improve the system, train officers, and link the Registrar, banks, and the Financial Intelligence Unit.
+
+The success of a BO register should be measured not by how many companies have submitted information, but by how effectively that information is used to improve transparency, prevent financial crime and protect the public interest.
+
+The Registrar of Companies and the Government should consider the following:
+
+Increase the number of officers authorised to examine and approve BO submissions, so the workload is not concentrated among a few individuals.
+
+Set a clear time limit within which the Registrar must approve an application or return it with reasons.
+
+Introduce an online tracking system showing the stage of each application and the reason for any delay.
+
+Recognise the date of successful online submission of BO5, BO7 and others such as BO2, BO4 as the date of compliance, subject to later verification and correction.
+
+Announce an immediate extension or waiver of penalties for companies delayed by the BO approval process.
+
+Allow companies to proceed with other statutory filings while BO applications await approval, wherever legally possible.
+
+Introduce simplified procedures or exemptions, where justified, for Government-owned, dormant, small and charitable companies.
+
+Review the BO website with independent IT professionals and practising company secretaries, including adding the ability to save and edit applications.
+
+Provide proper human support, so applicants can resolve problems without repeatedly visiting the Registrar’s office.
+
+Another issue also deserves attention. The Registrar of Companies (ROC), which administers Beneficial Ownership registration, currently functions under the Ministry of Trade, Commerce, Food Security and Co-operative Development. While the Ministry has an important mandate covering trade, consumer protection, food security and co-operative development, Beneficial Ownership registration is fundamentally a corporate governance, transparency and financial integrity function.
+
+The Ministry of Finance, meanwhile, has a broader responsibility for creating an economic environment that facilitates rapid development and investment. Perhaps it is time to reconsider whether the ROC should be elevated to a more prominent institutional position under the Ministry of Finance, with the authority, resources, and technical capacity needed to fulfil its expanding responsibilities.
+
+Corporate transparency is not merely a regulatory requirement; it is a foundation for investor confidence and a modern economy. Shouldn’t the institution responsible for safeguarding it be positioned accordingly?
+
+BO registration is an important requirement, but good legislation and good administration must go together. A compliance system should help businesses meet their legal obligations, not prevent them from doing so.
+
+If the Government wants businesses to operate transparently, it must ensure its own institutions do the same: efficiently and accountably. The question is not whether Sri Lanka should adopt modern technology, which it certainly should. The question is whether the technology is properly designed, adequately tested and supported by people who understand the needs of those who use it.
+
+The Government should not penalise businesses for delays created by its own administrative machinery. Digitalisation should make doing business easier, not turn company administration into a burden that pushes businesses to abandon the corporate structure altogether.

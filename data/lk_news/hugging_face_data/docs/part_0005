@@ -122481,5 +122481,93 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1795739394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-77ecc481",
+    "num": "dailymirrorlk-77ecc481",
+    "date_str": "2026-11-27",
+    "description": "Sri Lanka celebrate double cricket success as both teams reach new heights",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-celebrate-double-cricket-success-as-both-teams-reach-new-heights/108-355843",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795739463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-18c17a14",
+    "num": "dailyftlk-18c17a14",
+    "date_str": "2026-11-27",
+    "description": "Sri Lanka secures first national GI certificate for Ceylon Cinnamon",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-secures-first-national-GI-certificate-for-Ceylon-Cinnamon/34-800656",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795741493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-cbc828f8",
+    "num": "dailyftlk-cbc828f8",
+    "date_str": "2026-11-27",
+    "description": "Budget 2027: Sri Lanka is running out of time. Trade agreements alone won\u2019t save the economy",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2027-Sri-Lanka-is-running-out-of-time-Trade-agreements-alone-won-t-save-the-economy/4-800657",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795741729.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-f3af7072",
+    "num": "dailyftlk-f3af7072",
+    "date_str": "2026-11-27",
+    "description": "Five reasons Sri Lanka should go for another IMF program",
+    "url_metadata": "https://www.ft.lk/columns/Five-reasons-Sri-Lanka-should-go-for-another-IMF-program/4-800660",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795742024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-3bef7299",
+    "num": "dailyftlk-3bef7299",
+    "date_str": "2026-11-27",
+    "description": "Budget blues",
+    "url_metadata": "https://www.ft.lk/columns/Budget-blues/4-800661",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795742342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-bc19b4f1",
+    "num": "dailyftlk-bc19b4f1",
+    "date_str": "2026-11-27",
+    "description": "Concerns on civil liberties, digitalisation, and AI",
+    "url_metadata": "https://www.ft.lk/opinion/Concerns-on-civil-liberties-digitalisation-and-AI/14-800662",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795742611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-9b209bed",
+    "num": "dailyftlk-9b209bed",
+    "date_str": "2026-11-27",
+    "description": "Beneficial Ownership registration:  When compliance becomes a burden on businesses",
+    "url_metadata": "https://www.ft.lk/columns/Beneficial-Ownership-registration-When-compliance-becomes-a-burden-on-businesses/4-800663",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795742939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-d2019ea0",
+    "num": "dailyftlk-d2019ea0",
+    "date_str": "2026-11-27",
+    "description": "India is region\u2019s economic giant. Will Sri Lanka remain a neighbour or become a partner?",
+    "url_metadata": "https://www.ft.lk/columns/India-is-region-s-economic-giant-Will-Sri-Lanka-remain-a-neighbour-or-become-a-partner/4-800664",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795743202.0
   }
 ]
