@@ -123672,6 +123672,105 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-5e21a040",
+    "num": "dailyftlk-5e21a040",
+    "date_str": "2026-11-27",
+    "description": "Search for Sri Lanka\u2019s \u2018Coolest Projects\u2019 is on, with ComBank empowering young tech talent",
+    "url_metadata": "https://www.ft.lk/business/Search-for-Sri-Lanka-s-Coolest-Projects-is-on-with-ComBank-empowering-young-tech-talent/34-800703",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795799960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-99406dbb",
+    "num": "dailyftlk-99406dbb",
+    "date_str": "2026-11-27",
+    "description": "Indian High Commissioner backs SLUDI,  startups and AI at Digital Sri Lanka Summit 2026",
+    "url_metadata": "https://www.ft.lk/business/Indian-High-Commissioner-backs-SLUDI-startups-and-AI-at-Digital-Sri-Lanka-Summit-2026/34-800704",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795800025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-509180eb",
+    "num": "dailyftlk-509180eb",
+    "date_str": "2026-11-27",
+    "description": "Temporary ETA waiver needs proof travellers can show at check-in",
+    "url_metadata": "https://www.ft.lk/opinion/Temporary-ETA-waiver-needs-proof-travellers-can-show-at-check-in/14-800705",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795800090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-f00ec348",
+    "num": "dailyftlk-f00ec348",
+    "date_str": "2026-11-27",
+    "description": "Attacks on humanitarian  assistance in Sri Lanka: 20  years on",
+    "url_metadata": "https://www.ft.lk/opinion/Attacks-on-humanitarian-assistance-in-Sri-Lanka-20-years-on/14-800706",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795800189.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-fd4ba246",
+    "num": "dailyftlk-fd4ba246",
+    "date_str": "2026-11-27",
+    "description": "Why ethics must shape research training of degree students",
+    "url_metadata": "https://www.ft.lk/columns/Why-ethics-must-shape-research-training-of-degree-students/4-800707",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795800411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-3e0e1e33",
+    "num": "dailyftlk-3e0e1e33",
+    "date_str": "2026-11-27",
+    "description": "A response to \u201cFriends with all, subservient to none\u201d",
+    "url_metadata": "https://www.ft.lk/columns/A-response-to-Friends-with-all-subservient-to-none/4-800716",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795801323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-909b38a7",
+    "num": "dailyftlk-909b38a7",
+    "date_str": "2026-11-27",
+    "description": "Sri Lanka opens doors to 1.4 b Chinese, but Sri Lankan traders still face a visa wall to China",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-opens-doors-to-1-4-b-Chinese-but-Sri-Lankan-traders-still-face-a-visa-wall-to-China/14-800717",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795801400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-50b21d61",
+    "num": "dailyftlk-50b21d61",
+    "date_str": "2026-11-27",
+    "description": "Protecting the State or protecting its citizens?",
+    "url_metadata": "https://www.ft.lk/columns/Protecting-the-State-or-protecting-its-citizens/4-800718",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795801540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-011fb866",
+    "num": "dailyftlk-011fb866",
+    "date_str": "2026-11-27",
+    "description": "Nawaloka Hospitals PLC, Colombo successfully performs open heart surgery on a child",
+    "url_metadata": "https://www.ft.lk/news/Nawaloka-Hospitals-PLC-Colombo-successfully-performs-open-heart-surgery-on-a-child/56-800719",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795801684.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-27-dailymirrorlk-ec0f2212",
     "num": "dailymirrorlk-ec0f2212",
     "date_str": "2026-11-27",
@@ -123680,5 +123779,27 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795801814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-f835f749",
+    "num": "dailyftlk-f835f749",
+    "date_str": "2026-11-27",
+    "description": "Colombo lights up in orange to stand against gender-based violence",
+    "url_metadata": "https://www.ft.lk/news/Colombo-lights-up-in-orange-to-stand-against-gender-based-violence/56-800720",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795801863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-aaaa5e53",
+    "num": "dailyftlk-aaaa5e53",
+    "date_str": "2026-11-27",
+    "description": "Court of Appeal defers order on Sallay\u2019s writ against PTA detention",
+    "url_metadata": "https://www.ft.lk/news/Court-of-Appeal-defers-order-on-Sallay-s-writ-against-PTA-detention/56-800721",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795802096.0
   }
 ]
