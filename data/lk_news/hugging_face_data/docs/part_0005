@@ -122448,5 +122448,38 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795707243.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-c59fd80c",
+    "num": "dailyftlk-c59fd80c",
+    "date_str": "2026-11-27",
+    "description": "Women MPs Caucus weighs legal action against deported sex offenders",
+    "url_metadata": "https://www.ft.lk/news/Women-MPs-Caucus-weighs-legal-action-against-deported-sex-offenders/56-800653",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795739240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-0713de25",
+    "num": "dailyftlk-0713de25",
+    "date_str": "2026-11-27",
+    "description": "India-Sri Lanka discuss bilateral ties and regional developments",
+    "url_metadata": "https://www.ft.lk/news/India-Sri-Lanka-discuss-bilateral-ties-and-regional-developments/56-800654",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795739300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailyftlk-42def913",
+    "num": "dailyftlk-42def913",
+    "date_str": "2026-11-27",
+    "description": "Defence Secretary calls for stronger regional collaboration on shared security challenges",
+    "url_metadata": "https://www.ft.lk/news/Defence-Secretary-calls-for-stronger-regional-collaboration-on-shared-security-challenges/56-800655",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795739394.0
   }
 ]

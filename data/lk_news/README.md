@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_03:53:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_06:06:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,079** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-37d4b428",
-    "num": "dailymirrorlk-37d4b428",
-    "date_str": "2026-11-26",
-    "description": "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
-    "url_metadata": "https://www.dailymirror.lk/international/CM-Vijay-inaugurates-148-houses-for-Sri-Lankan-Tamils-in-Krishnagiri-rehabilitation-camp/107-355834",
+    "doc_id": "2026-11-27-dailyftlk-42def913",
+    "num": "dailyftlk-42def913",
+    "date_str": "2026-11-27",
+    "description": "Defence Secretary calls for stronger regional collaboration on shared security challenges",
+    "url_metadata": "https://www.ft.lk/news/Defence-Secretary-calls-for-stronger-regional-collaboration-on-shared-security-challenges/56-800655",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795707243.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795739394.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `dailyftlk-42def913` | Defence Secretary calls for stronger regional collaboration on shared security challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-42def913)
+- 2026-11-27 | `dailyftlk-0713de25` | India-Sri Lanka discuss bilateral ties and regional developments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-0713de25)
+- 2026-11-27 | `dailyftlk-c59fd80c` | Women MPs Caucus weighs legal action against deported sex offenders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-c59fd80c)
 - 2026-11-26 | `dailymirrorlk-37d4b428` | CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-37d4b428)
 - 2026-11-26 | `dailymirrorlk-70178310` | CSE slips back towards 21,200 as selling pressure returns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-70178310)
 - 2026-11-26 | `dailymirrorlk-ca88d430` | Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-ca88d430)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-11-26 | `virakesarilk-40c8ef48` | ரோஹித ராஜபக்‌ஷவிடம் நிதி குற்றப் புலனாய்வுப் பிரிவு சுமார் 04 மணித்தியாலங்கள் வாக்குமூலம் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-40c8ef48)
 - 2026-11-26 | `dailymirrorlk-70575fdb` | Russia agrees to assist Sri Lanka in bringing crime suspects back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-70575fdb)
 - 2026-11-26 | `virakesarilk-2eb65ae2` | ஒக்டோபர் மாதத்தில் இலங்கையின் தேயிலை ஏற்றுமதி 7 சதவீதத்தால் வீழ்ச்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-2eb65ae2)
-- 2026-11-26 | `virakesarilk-51ccf353` | சொந்த மண்ணில் சரித்திரம் படைத்த தாய் : 2026 பிரபஞ்ச அழகி மகுடத்தைச் சூடினார் போர்ட்டோ ரிகோவின் ஜெனிபர் பாரெட்டோ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-51ccf353)
-- 2026-11-26 | `dailymirrorlk-185d4361` | Cordelia Empress arrives in Colombo with 1,600 tourists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-dailymirrorlk-185d4361)
-- 2026-11-26 | `virakesarilk-6fd0a1c7` | நாட்டில் அதிகரிக்கும் எச்ஐவி தொற்று : 2026-ல் 708 புதிய தொற்றாளர்கள் அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-26-virakesarilk-6fd0a1c7)
 
 ---
 

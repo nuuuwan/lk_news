@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-27 03:52:04",
-  "n_docs": 137076,
+  "time_updated": "2026-11-27 06:05:26",
+  "n_docs": 137079,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137076,
+  "n_docs_with_text": 137079,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-26",
-  "dataset_size": 2116779110,
+  "date_str_max": "2026-11-27",
+  "dataset_size": 2116787158,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-26-dailymirrorlk-37d4b428",
-    "num": "dailymirrorlk-37d4b428",
-    "date_str": "2026-11-26",
-    "description": "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
-    "url_metadata": "https://www.dailymirror.lk/international/CM-Vijay-inaugurates-148-houses-for-Sri-Lankan-Tamils-in-Krishnagiri-rehabilitation-camp/107-355834",
+    "doc_id": "2026-11-27-dailyftlk-42def913",
+    "num": "dailyftlk-42def913",
+    "date_str": "2026-11-27",
+    "description": "Defence Secretary calls for stronger regional collaboration on shared security challenges",
+    "url_metadata": "https://www.ft.lk/news/Defence-Secretary-calls-for-stronger-regional-collaboration-on-shared-security-challenges/56-800655",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795707243.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1795739394.0
   }
 }
