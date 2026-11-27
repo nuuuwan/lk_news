@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_17:57:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_19:54:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,148** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,152** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-7669ca5f",
-    "num": "dailymirrorlk-7669ca5f",
+    "doc_id": "2026-11-27-dailymirrorlk-d68b83c0",
+    "num": "dailymirrorlk-d68b83c0",
     "date_str": "2026-11-27",
-    "description": "Why was section of \u2018Matara Ambula\u2019 restaurant in Jaffna demolished?",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Why-was-section-of-Matara-Ambula-restaurant-in-Jaffna-demolished/108-355909",
+    "description": "Global news agency AFP reports cyberattack, shuts down content platform",
+    "url_metadata": "https://www.dailymirror.lk/international/Global-news-agency-AFP-reports-cyberattack-shuts-down-content-platform/107-355913",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795781224.0
+    "time_ut": 1795783939.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `dailymirrorlk-d68b83c0` | Global news agency AFP reports cyberattack, shuts down content platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-d68b83c0)
+- 2026-11-27 | `dailymirrorlk-3259f21e` | S&P upgrades Sri Lanka’s sovereign credit rating to B- | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-3259f21e)
+- 2026-11-27 | `dailymirrorlk-ed09bcfe` | CSE tests 21,200 as trading activity remains subdued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-ed09bcfe)
+- 2026-11-27 | `dailymirrorlk-b40c4a0e` | Namal questions spending of rural development funds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b40c4a0e)
 - 2026-11-27 | `dailymirrorlk-7669ca5f` | Why was section of ‘Matara Ambula’ restaurant in Jaffna demolished? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-7669ca5f)
 - 2026-11-27 | `dailymirrorlk-b06d4d92` | Teacher training and professional development key to education reforms: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b06d4d92)
 - 2026-11-27 | `dailymirrorlk-1a605bb7` | Schools to close on December 4, reopen on January 4 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-1a605bb7)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-11-27 | `dailymirrorlk-fdb84c23` | Rupee weakens further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-fdb84c23)
 - 2026-11-27 | `dailymirrorlk-808d717d` | Almost half a million people attend Indian mega-wedding with helipads, horses and 500 chefs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-808d717d)
 - 2026-11-27 | `dailymirrorlk-73759751` | Appeal Court postpones order in Suresh Sallay’s writ application | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-73759751)
-- 2026-11-27 | `dailymirrorlk-c8a9b0a5` | Sri Lanka risks losing export ground to rivals: ADB cautions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c8a9b0a5)
-- 2026-11-27 | `dailymirrorlk-50caebed` | Green trade rules pose risks for SL’s rubber, apparel sectors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-50caebed)
-- 2026-11-27 | `dailymirrorlk-c519e211` | International Finance Corporation taps HSBC for rupee funding in Asia first | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c519e211)
-- 2026-11-27 | `dailymirrorlk-b69081a8` | Everyone wants ‘my share’ despite pay hike, says Labour Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b69081a8)
 
 ---
 
