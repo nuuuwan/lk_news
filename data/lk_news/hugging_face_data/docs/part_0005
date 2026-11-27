@@ -123595,6 +123595,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-ea00fe95",
+    "num": "dailymirrorlk-ea00fe95",
+    "date_str": "2026-11-27",
+    "description": "FIFA hit by cyberattack as hackers gain access to personal and business data",
+    "url_metadata": "https://www.dailymirror.lk/international/FIFA-hit-by-cyberattack-as-hackers-gain-access-to-personal-and-business-data/107-355918",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795789195.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-27-virakesarilk-17471d4a",
     "num": "virakesarilk-17471d4a",
     "date_str": "2026-11-27",
@@ -123647,5 +123658,27 @@ _type": "lk_news",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1795794960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-f0b1000e",
+    "num": "dailymirrorlk-f0b1000e",
+    "date_str": "2026-11-27",
+    "description": "Samay Raina hits world record, becomes first YouTube creator to cross 1Mn channel members",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Samay-Raina-hits-world-record-becomes-first-YouTube-creator-to-cross-1Mn-channel-members/108-355921",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795798676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-ec0f2212",
+    "num": "dailymirrorlk-ec0f2212",
+    "date_str": "2026-11-27",
+    "description": "Jaffna-born hip-hop artist SVDP arrives in Colombo for TEDxColombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-born-hip-hop-artist-SVDP-arrives-in-Colombo-for-TEDxColombo/108-355923",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795801814.0
   }
 ]
