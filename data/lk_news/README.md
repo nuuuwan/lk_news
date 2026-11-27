@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_09:56:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_11:59:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,099** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,110** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-96a62ff5",
-    "num": "dailymirrorlk-96a62ff5",
+    "doc_id": "2026-11-27-dailymirrorlk-95363c96",
+    "num": "dailymirrorlk-95363c96",
     "date_str": "2026-11-27",
-    "description": "Hashish worth Rs. 181.9 mn seized at Peliyagoda customs warehouse",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hashish-worth-Rs-181-9-mn-seized-at-Peliyagoda-customs-warehouse/108-355846",
+    "description": "Shark fins for kendu leaves: Seven arrested in sea exchange off Chilaw",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shark-fins-for-kendu-leaves-Seven-arrested-in-sea-exchange-off-Chilaw/108-355858",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795752057.0
+    "time_ut": 1795759858.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `dailymirrorlk-95363c96` | Shark fins for kendu leaves: Seven arrested in sea exchange off Chilaw | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-95363c96)
+- 2026-11-27 | `dailymirrorlk-63279b27` | Non availability of sanitary pads in local prisons could turn into a major health hazard soon: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-63279b27)
+- 2026-11-27 | `dailymirrorlk-9ffaa9c9` | Australia’s sandpapergate probe to also include 2017-18 Ashes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-9ffaa9c9)
+- 2026-11-27 | `dailymirrorlk-21c720ef` | Filing of court cases on the decline in Sri Lanka: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-21c720ef)
+- 2026-11-27 | `dailymirrorlk-8ef78726` | 13-year-old schoolgirl dies after falling from milk lorry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-8ef78726)
+- 2026-11-27 | `dailymirrorlk-b44cf365` | Public service shrinks, but salary bill keeps rising | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-b44cf365)
+- 2026-11-27 | `dailymirrorlk-ed5a50ab` | 27-acre land near Colombo proposed for Arts and Cultural Village | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-ed5a50ab)
+- 2026-11-27 | `dailymirrorlk-9cd03866` | Amnesty calls UN report a reminder of decades of impunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-9cd03866)
+- 2026-11-27 | `dailymirrorlk-6f624b2c` | Parliament pays tribute to Ditwah victims on first anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-6f624b2c)
+- 2026-11-27 | `dailymirrorlk-584b97d4` | Sri Lankan, Indian Foreign Ministers hold talks in Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-584b97d4)
+- 2026-11-27 | `dailymirrorlk-483925a2` | Suspect arrested over Rs. 1 Mn bank fraud using fake website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-483925a2)
 - 2026-11-27 | `dailymirrorlk-96a62ff5` | Hashish worth Rs. 181.9 mn seized at Peliyagoda customs warehouse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-96a62ff5)
 - 2026-11-27 | `dailymirrorlk-2093849e` | Navy seizes suspected drug-smuggling vessel in international waters south of Dondra | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-2093849e)
 - 2026-11-27 | `dailymirrorlk-5edf24ab` | New Zealand’s ruling coalition falls short of parliamentary majority by one seat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-5edf24ab)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-11-27 | `dailyftlk-31453d64` | GRI Executive Director Ananda Caldera receives PRISL Lifetime Achievement Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-31453d64)
 - 2026-11-27 | `dailyftlk-5a0ab5ec` | Volfpack and SLTC develop Sri Lanka’s first supercapacitors as industries confront power quality pressures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-5a0ab5ec)
 - 2026-11-27 | `dailyftlk-3e8a7e45` | KDK advices consumers to purchase products only through authorised channels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-3e8a7e45)
-- 2026-11-27 | `dailyftlk-c7b17301` | SL makes landmark appearance as Guest Country of Honour at 9th China International Import Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-c7b17301)
-- 2026-11-27 | `dailyftlk-17de2f9b` | Dialog launches Sayuru AI:  Sri Lanka’s first AI-powered fisheries advisory voice assistant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-17de2f9b)
-- 2026-11-27 | `dailyftlk-28bc9d6d` | Unpaid care work: Sri Lanka’s invisible economy demands policy action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-28bc9d6d)
-- 2026-11-27 | `dailyftlk-d2019ea0` | India is region’s economic giant. Will Sri Lanka remain a neighbour or become a partner? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-d2019ea0)
-- 2026-11-27 | `dailyftlk-9b209bed` | Beneficial Ownership registration:  When compliance becomes a burden on businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-9b209bed)
-- 2026-11-27 | `dailyftlk-bc19b4f1` | Concerns on civil liberties, digitalisation, and AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-bc19b4f1)
-- 2026-11-27 | `dailyftlk-3bef7299` | Budget blues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-3bef7299)
-- 2026-11-27 | `dailyftlk-f3af7072` | Five reasons Sri Lanka should go for another IMF program | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-f3af7072)
-- 2026-11-27 | `dailyftlk-cbc828f8` | Budget 2027: Sri Lanka is running out of time. Trade agreements alone won’t save the economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-cbc828f8)
-- 2026-11-27 | `dailyftlk-18c17a14` | Sri Lanka secures first national GI certificate for Ceylon Cinnamon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-18c17a14)
-- 2026-11-27 | `dailymirrorlk-77ecc481` | Sri Lanka celebrate double cricket success as both teams reach new heights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-77ecc481)
 
 ---
 

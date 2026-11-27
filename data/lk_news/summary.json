@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-27 09:55:08",
-  "n_docs": 137099,
+  "time_updated": "2026-11-27 11:58:36",
+  "n_docs": 137110,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137099,
+  "n_docs_with_text": 137110,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-27",
-  "dataset_size": 2117150673,
+  "dataset_size": 2117338300,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-96a62ff5",
-    "num": "dailymirrorlk-96a62ff5",
+    "doc_id": "2026-11-27-dailymirrorlk-95363c96",
+    "num": "dailymirrorlk-95363c96",
     "date_str": "2026-11-27",
-    "description": "Hashish worth Rs. 181.9 mn seized at Peliyagoda customs warehouse",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hashish-worth-Rs-181-9-mn-seized-at-Peliyagoda-customs-warehouse/108-355846",
+    "description": "Shark fins for kendu leaves: Seven arrested in sea exchange off Chilaw",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shark-fins-for-kendu-leaves-Seven-arrested-in-sea-exchange-off-Chilaw/108-355858",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795752057.0
+    "time_ut": 1795759858.0
   }
 }

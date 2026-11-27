@@ -122701,5 +122701,126 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795752057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-483925a2",
+    "num": "dailymirrorlk-483925a2",
+    "date_str": "2026-11-27",
+    "description": "Suspect arrested over Rs. 1 Mn bank fraud using fake website",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-Rs-1-Mn-bank-fraud-using-fake-website/108-355847",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795752646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-584b97d4",
+    "num": "dailymirrorlk-584b97d4",
+    "date_str": "2026-11-27",
+    "description": "Sri Lankan, Indian Foreign Ministers hold talks in Delhi",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Indian-Foreign-Ministers-hold-talks-in-Delhi/108-355848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795752723.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-6f624b2c",
+    "num": "dailymirrorlk-6f624b2c",
+    "date_str": "2026-11-27",
+    "description": "Parliament pays tribute to Ditwah victims on first anniversary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-pays-tribute-to-Ditwah-victims-on-first-anniversary/108-355849",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795753151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-9cd03866",
+    "num": "dailymirrorlk-9cd03866",
+    "date_str": "2026-11-27",
+    "description": "Amnesty calls UN report a reminder of decades of impunity",
+    "url_metadata": "https://www.dailymirror.lk/international/Amnesty-calls-UN-report-a-reminder-of-decades-of-impunity/107-355851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795753406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-ed5a50ab",
+    "num": "dailymirrorlk-ed5a50ab",
+    "date_str": "2026-11-27",
+    "description": "27-acre land near Colombo proposed for Arts and Cultural Village",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/27-acre-land-near-Colombo-proposed-for-Arts-and-Cultural-Village/108-355852",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795756022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-b44cf365",
+    "num": "dailymirrorlk-b44cf365",
+    "date_str": "2026-11-27",
+    "description": "Public service shrinks, but salary bill keeps rising",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-service-shrinks-but-salary-bill-keeps-rising/108-355853",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795756542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-8ef78726",
+    "num": "dailymirrorlk-8ef78726",
+    "date_str": "2026-11-27",
+    "description": "13-year-old schoolgirl dies after falling from milk lorry",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/13-year-old-schoolgirl-dies-after-falling-from-milk-lorry/108-355854",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795756752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-21c720ef",
+    "num": "dailymirrorlk-21c720ef",
+    "date_str": "2026-11-27",
+    "description": "Filing of court cases on the decline in Sri Lanka: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Filing-of-court-cases-on-the-decline-in-Sri-Lanka-MP/108-355855",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795757084.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-9ffaa9c9",
+    "num": "dailymirrorlk-9ffaa9c9",
+    "date_str": "2026-11-27",
+    "description": "Australia\u2019s sandpapergate probe to also include 2017-18 Ashes",
+    "url_metadata": "https://www.dailymirror.lk/international/Australias-sandpapergate-probe-to-also-include-2017-18-Ashes/107-355856",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795757460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-63279b27",
+    "num": "dailymirrorlk-63279b27",
+    "date_str": "2026-11-27",
+    "description": "Non availability of sanitary pads in local prisons could turn into a major health hazard soon: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Non-availability-of-sanitary-pads-in-local-prisons-could-turn-into-a-major-health-hazard-soon-MP/108-355857",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795757616.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-95363c96",
+    "num": "dailymirrorlk-95363c96",
+    "date_str": "2026-11-27",
+    "description": "Shark fins for kendu leaves: Seven arrested in sea exchange off Chilaw",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shark-fins-for-kendu-leaves-Seven-arrested-in-sea-exchange-off-Chilaw/108-355858",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795759858.0
   }
 ]
