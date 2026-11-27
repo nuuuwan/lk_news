@@ -122902,6 +122902,17 @@ _type": "lk_news",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-b9e91f04",
+    "num": "dailymirrorlk-b9e91f04",
+    "date_str": "2026-11-27",
+    "description": "JAT launches Fortex Professional and Heatblock20",
+    "url_metadata": "https://www.dailymirror.lk/business/JAT-launches-Fortex-Professional-and-Heatblock20/215-355874",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795763586.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-11-27-dailymirrorlk-2365a0ee",
     "num": "dailymirrorlk-2365a0ee",
     "date_str": "2026-11-27",
@@ -123053,5 +123064,104 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795765229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-73759751",
+    "num": "dailymirrorlk-73759751",
+    "date_str": "2026-11-27",
+    "description": "Appeal Court postpones order in Suresh Sallay\u2019s writ application",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Appeal-Court-postpones-order-in-Suresh-Sallays-writ-application/108-355890",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795768469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-808d717d",
+    "num": "dailymirrorlk-808d717d",
+    "date_str": "2026-11-27",
+    "description": "Almost half a million people attend Indian mega-wedding with helipads, horses and 500 chefs",
+    "url_metadata": "https://www.dailymirror.lk/international/Almost-half-a-million-people-attend-Indian-mega-wedding-with-helipads-horses-and-500-chefs/107-355893",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795769636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-fdb84c23",
+    "num": "dailymirrorlk-fdb84c23",
+    "date_str": "2026-11-27",
+    "description": "Rupee weakens further against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-weakens-further-against-US-Dollar/108-355894",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795769771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-9e0c94b7",
+    "num": "dailymirrorlk-9e0c94b7",
+    "date_str": "2026-11-27",
+    "description": "GMOA to join islandwide strike on November 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GMOA-to-join-islandwide-strike-on-November-30/108-355895",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795770935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-dff8b4bc",
+    "num": "dailymirrorlk-dff8b4bc",
+    "date_str": "2026-11-27",
+    "description": "Sri Lanka allocates Rs. 950 million for landmine clearance in 2027",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-allocates-Rs-950-million-for-landmine-clearance-in-2027/108-355896",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795771096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-6b9564ef",
+    "num": "dailymirrorlk-6b9564ef",
+    "date_str": "2026-11-27",
+    "description": "Further evidence in Lalith-Kugan disappearance case fixed for Feb. 12",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-Lalith-Kugan-disappearance-case-fixed-for-Feb-12/108-355897",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795771248.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-5ff358d6",
+    "num": "dailymirrorlk-5ff358d6",
+    "date_str": "2026-11-27",
+    "description": "Bus-truck collision in Ratnapura leaves sixteen injured",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-truck-collision-in-Ratnapura-leaves-sixteen-injured/108-355898",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795773459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-4b7038ce",
+    "num": "dailymirrorlk-4b7038ce",
+    "date_str": "2026-11-27",
+    "description": "Sri Lanka CERT warns of global website security attack",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-global-website-security-attack/108-355900",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795773656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-27-dailymirrorlk-a0d433e2",
+    "num": "dailymirrorlk-a0d433e2",
+    "date_str": "2026-11-27",
+    "description": "Climate change, marine pollution need collective action, says Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Climate-change-marine-pollution-need-collective-action-says-Minister/108-355901",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795773854.0
   }
 ]

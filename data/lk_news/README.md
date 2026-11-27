@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_13:58:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_15:52:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,131** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,141** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailymirrorlk-c8a9b0a5",
-    "num": "dailymirrorlk-c8a9b0a5",
+    "doc_id": "2026-11-27-dailymirrorlk-a0d433e2",
+    "num": "dailymirrorlk-a0d433e2",
     "date_str": "2026-11-27",
-    "description": "Sri Lanka risks losing export ground to rivals: ADB cautions",
-    "url_metadata": "https://www.dailymirror.lk/business/Sri-Lanka-risks-losing-export-ground-to-rivals-ADB-cautions/215-355889",
+    "description": "Climate change, marine pollution need collective action, says Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Climate-change-marine-pollution-need-collective-action-says-Minister/108-355901",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795765229.0
+    "time_ut": 1795773854.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `dailymirrorlk-a0d433e2` | Climate change, marine pollution need collective action, says Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-a0d433e2)
+- 2026-11-27 | `dailymirrorlk-4b7038ce` | Sri Lanka CERT warns of global website security attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-4b7038ce)
+- 2026-11-27 | `dailymirrorlk-5ff358d6` | Bus-truck collision in Ratnapura leaves sixteen injured | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-5ff358d6)
+- 2026-11-27 | `dailymirrorlk-6b9564ef` | Further evidence in Lalith-Kugan disappearance case fixed for Feb. 12 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-6b9564ef)
+- 2026-11-27 | `dailymirrorlk-dff8b4bc` | Sri Lanka allocates Rs. 950 million for landmine clearance in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-dff8b4bc)
+- 2026-11-27 | `dailymirrorlk-9e0c94b7` | GMOA to join islandwide strike on November 30 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-9e0c94b7)
+- 2026-11-27 | `dailymirrorlk-fdb84c23` | Rupee weakens further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-fdb84c23)
+- 2026-11-27 | `dailymirrorlk-808d717d` | Almost half a million people attend Indian mega-wedding with helipads, horses and 500 chefs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-808d717d)
+- 2026-11-27 | `dailymirrorlk-73759751` | Appeal Court postpones order in Suresh Sallay’s writ application | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-73759751)
 - 2026-11-27 | `dailymirrorlk-c8a9b0a5` | Sri Lanka risks losing export ground to rivals: ADB cautions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c8a9b0a5)
 - 2026-11-27 | `dailymirrorlk-50caebed` | Green trade rules pose risks for SL’s rubber, apparel sectors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-50caebed)
 - 2026-11-27 | `dailymirrorlk-c519e211` | International Finance Corporation taps HSBC for rupee funding in Asia first | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c519e211)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-11-27 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-2831aeed)
 - 2026-11-27 | `dailymirrorlk-e19dd7e9` | Singapore businesses explore Sri Lanka for expansion at Port City Colombo Investor Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-e19dd7e9)
 - 2026-11-27 | `dailymirrorlk-f020ae49` | Sri Lanka, India wrap up ‘Mitra Shakti – XII’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-f020ae49)
-- 2026-11-27 | `dailymirrorlk-c6d07f23` | Hayleys Mobility delivers electric vans to Melwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-c6d07f23)
-- 2026-11-27 | `dailymirrorlk-1bedad2d` | Janashakthi Life declares Rs. 5.4bn interim dividend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-1bedad2d)
-- 2026-11-27 | `dailymirrorlk-2365a0ee` | Fitch upgrades Sri Lanka Insurance Corporation General to ‘AA-(lka)’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-2365a0ee)
-- 2026-11-27 | `dailymirrorlk-3e37cf10` | Commercial Credit & Finance secures US $ 6mn GGSF facility from Incofin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-3e37cf10)
-- 2026-11-27 | `dailymirrorlk-fe3fdb96` | Gallagher doubles  Sri Lanka office space;  signals further investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-fe3fdb96)
-- 2026-11-27 | `dailymirrorlk-11b2a594` | Western Hospital relaunched as Arora Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-11b2a594)
-- 2026-11-27 | `dailymirrorlk-ca179451` | Sri Lanka seeks New Zealand’s intervention to bring stranded SL woman from Cook Islands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-ca179451)
-- 2026-11-27 | `dailymirrorlk-95363c96` | Shark fins for kendu leaves: Seven arrested in sea exchange off Chilaw | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-95363c96)
-- 2026-11-27 | `dailymirrorlk-63279b27` | Non availability of sanitary pads in local prisons could turn into a major health hazard soon: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-63279b27)
 
 ---
 

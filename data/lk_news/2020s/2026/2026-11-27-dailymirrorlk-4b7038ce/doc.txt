@@ -1,0 +1,19 @@
+Sri Lanka CERT warns of global website security attack
+
+Colombo, Nov. 27 (Daily Mirror) - Sri Lanka CERT has urged organisations to strengthen website security following a global software supply chain attack that affected 178 organisations worldwide and could expose website visitors to information theft.
+
+The attack, identified on November 16, involved malicious JavaScript being injected into legitimate website scripts, potentially allowing unauthorised browser activity and the theft of sensitive information.
+
+Sri Lanka CERT warned organisations using Optimize Web Experimentation and other third-party JavaScript services to take immediate steps to check whether their websites and web applications had been compromised.
+
+Organisations have been advised to identify websites using externally hosted JavaScript services and contact Optimize to verify whether their accounts or projects were affected.
+
+Sri Lanka CERT also recommended inspecting JavaScript files, website configurations and historical changes for unauthorised modifications, while reviewing security logs for suspicious network connections and unusual browser activity.
+
+Websites handling online payments, financial transactions and user login information have been urged to pay particular attention to possible exposure.
+
+Organisations have also been advised to strengthen website security by implementing restrictive Content Security Policy (CSP) controls, regularly monitoring third-party scripts and investigating suspicious login activity.
+
+Where exposure is confirmed, affected organisations should reset credentials, invalidate compromised sessions and preserve security logs and suspicious files for investigations.
+
+Sri Lanka CERT urged organisations to report suspected security incidents immediately and remain vigilant about third-party services connected to their digital platforms.
