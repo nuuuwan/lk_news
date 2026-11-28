@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-28 07:54:50",
-  "n_docs": 137202,
+  "time_updated": "2026-11-28 09:51:52",
+  "n_docs": 137203,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137202,
+  "n_docs_with_text": 137203,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-11-27",
-  "dataset_size": 2119118241,
+  "date_str_max": "2026-11-28",
+  "dataset_size": 2119119350,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-27-dailyftlk-aaaa5e53",
-    "num": "dailyftlk-aaaa5e53",
-    "date_str": "2026-11-27",
-    "description": "Court of Appeal defers order on Sallay\u2019s writ against PTA detention",
-    "url_metadata": "https://www.ft.lk/news/Court-of-Appeal-defers-order-on-Sallay-s-writ-against-PTA-detention/56-800721",
+    "doc_id": "2026-11-28-dailymirrorlk-8ebee621",
+    "num": "dailymirrorlk-8ebee621",
+    "date_str": "2026-11-28",
+    "description": "Heavy showers of over 100mm expected in several provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-of-over-100mm-expected-in-several-provinces/108-355924",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1795802096.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795835090.0
   }
 }
