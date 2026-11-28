@@ -124527,5 +124527,60 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795867602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-81401577",
+    "num": "dailymirrorlk-81401577",
+    "date_str": "2026-11-28",
+    "description": "Vijitha Herath meets Indian PM Modi in New Delhi",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-meets-Indian-PM-Modi-in-New-Delhi/108-355987",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795869273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-fb9d6972",
+    "num": "dailymirrorlk-fb9d6972",
+    "date_str": "2026-11-28",
+    "description": "Fourteen found dead on migrant boat off Spain\u2019s Canary Islands",
+    "url_metadata": "https://www.dailymirror.lk/international/Fourteen-found-dead-on-migrant-boat-off-Spains-Canary-Islands/107-355988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795873854.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-4053e465",
+    "num": "dailymirrorlk-4053e465",
+    "date_str": "2026-11-28",
+    "description": "Defence Ministry expenditure head approved by Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Defence-Ministry-expenditure-head-approved-by-Parliament/108-355990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795874207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-e313fd38",
+    "num": "dailymirrorlk-e313fd38",
+    "date_str": "2026-11-28",
+    "description": "Committee appointed to resolve issues concerning Catholic schools",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Committee-appointed-to-resolve-issues-concerning-Catholic-schools/108-355991",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795874253.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-186ce023",
+    "num": "dailymirrorlk-186ce023",
+    "date_str": "2026-11-28",
+    "description": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "url_metadata": "https://www.dailymirror.lk/international/Afghanistan-explosion-kills-10-students-and-injures-more-than-100-official-says/107-355992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795874514.0
   }
 ]

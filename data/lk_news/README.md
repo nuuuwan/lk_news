@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_17:54:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_19:51:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,265** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-c2a0cd63",
-    "num": "dailymirrorlk-c2a0cd63",
+    "doc_id": "2026-11-28-dailymirrorlk-186ce023",
+    "num": "dailymirrorlk-186ce023",
     "date_str": "2026-11-28",
-    "description": "Prabhakaran speech excerpts at Maaveerar Day event raise concerns",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prabhakaran-speech-excerpts-at-Maaveerar-Day-event-raise-concerns/108-355986",
+    "description": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "url_metadata": "https://www.dailymirror.lk/international/Afghanistan-explosion-kills-10-students-and-injures-more-than-100-official-says/107-355992",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795867602.0
+    "time_ut": 1795874514.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-28 | `dailymirrorlk-186ce023` | Afghanistan explosion kills 10 students and injures more than 100, official says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-186ce023)
+- 2026-11-28 | `dailymirrorlk-e313fd38` | Committee appointed to resolve issues concerning Catholic schools | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-e313fd38)
+- 2026-11-28 | `dailymirrorlk-4053e465` | Defence Ministry expenditure head approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-4053e465)
+- 2026-11-28 | `dailymirrorlk-fb9d6972` | Fourteen found dead on migrant boat off Spain’s Canary Islands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-fb9d6972)
+- 2026-11-28 | `dailymirrorlk-81401577` | Vijitha Herath meets Indian PM Modi in New Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-81401577)
 - 2026-11-28 | `dailymirrorlk-c2a0cd63` | Prabhakaran speech excerpts at Maaveerar Day event raise concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-c2a0cd63)
 - 2026-11-28 | `dailymirrorlk-5d6626c8` | O/L tuition classes, guess papers banned from Dec. 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-5d6626c8)
 - 2026-11-28 | `dailymirrorlk-6d735cd9` | Tri forces to be restructured by 2031: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-6d735cd9)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-11-28 | `virakesarilk-c5a7b9da` | மூளைச்சாவடைந்த  இளைஞனின் இதயம் 14 வயதுச் சிறுவனுக்கு வெற்றிகரமாகப் பொருத்தப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-c5a7b9da)
 - 2026-11-28 | `virakesarilk-3246df71` | வார இறுதி நாட்களில் உள்நாட்டு இறைவரித் திணைக்கள அலுவலகங்கள் திறந்திருக்கும் என்ற செய்தி பொய்யானது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-3246df71)
 - 2026-11-28 | `virakesarilk-eb8b93c1` | மூளைச்சாவடைந்த 19 வயது இளைஞனின் உறுப்பு தானத்தால் பலருக்கு மறுவாழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-eb8b93c1)
-- 2026-11-28 | `dailymirrorlk-2446db85` | Small-scale but attractive: Geopolitical factors shaping  Sri Lanka’s critical minerals prospects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-2446db85)
-- 2026-11-28 | `dailymirrorlk-09163124` | Eight killed in Peruvian military helicopter crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-09163124)
-- 2026-11-28 | `dailymirrorlk-4f7b4813` | Flying cars: Industry extension  - from road to sky | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-4f7b4813)
-- 2026-11-28 | `virakesarilk-cfd88732` | அரசாங்கத்திடம் ஊழல் ஒழிப்பைத் தவிர வேறு கொள்கை இல்லை  -  சந்திரிகா கடும் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-cfd88732)
-- 2026-11-28 | `virakesarilk-82e32cd8` | சி மட்டத்திலிருந்து பி  நிலைக்கு உயர்ந்தது இலங்கையின் கடன் தரப்படுத்தல்  –  பிரதி அமைச்சர் அனில் ஜயந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-82e32cd8)
 
 ---
 
