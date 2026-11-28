@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_11:57:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_13:55:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,206** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-10257a03",
-    "num": "dailymirrorlk-10257a03",
+    "doc_id": "2026-11-28-dailymirrorlk-4f7b4813",
+    "num": "dailymirrorlk-4f7b4813",
     "date_str": "2026-11-28",
-    "description": "Murder suspect hospitalised after colliding with wild elephant while fleeing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Murder-suspect-hospitalised-after-colliding-with-wild-elephant-while-fleeing/108-355930",
+    "description": "Flying cars: Industry extension  - from road to sky",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Flying-cars-Industry-extension-from-road-to-sky/172-355973",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795846669.0
+    "time_ut": 1795853186.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-11-28 | `dailymirrorlk-10257a03` | Murder suspect hospitalised after colliding with wild elephant while fleeing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-10257a03)
-- 2026-11-28 | `dailymirrorlk-3eaf0dc9` | Colpetty circular Metro bus service to be suspended from December 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-3eaf0dc9)
-- 2026-11-28 | `dailymirrorlk-2932d9bf` | Speaker appoints special select committee to probe July 1983 riots | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-2932d9bf)
-- 2026-11-28 | `dailymirrorlk-8ebee621` | Heavy showers of over 100mm expected in several provinces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-8ebee621)
-- 2026-11-27 | `dailyftlk-aaaa5e53` | Court of Appeal defers order on Sallay’s writ against PTA detention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-aaaa5e53)
-- 2026-11-27 | `dailyftlk-f835f749` | Colombo lights up in orange to stand against gender-based violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-f835f749)
-- 2026-11-27 | `dailymirrorlk-ec0f2212` | Jaffna-born hip-hop artist SVDP arrives in Colombo for TEDxColombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-ec0f2212)
-- 2026-11-27 | `dailyftlk-011fb866` | Nawaloka Hospitals PLC, Colombo successfully performs open heart surgery on a child | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-011fb866)
-- 2026-11-27 | `dailyftlk-50b21d61` | Protecting the State or protecting its citizens? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-50b21d61)
-- 2026-11-27 | `dailyftlk-909b38a7` | Sri Lanka opens doors to 1.4 b Chinese, but Sri Lankan traders still face a visa wall to China | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-909b38a7)
-- 2026-11-27 | `dailyftlk-3e0e1e33` | A response to “Friends with all, subservient to none” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-3e0e1e33)
-- 2026-11-27 | `dailyftlk-fd4ba246` | Why ethics must shape research training of degree students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-fd4ba246)
-- 2026-11-27 | `dailyftlk-f00ec348` | Attacks on humanitarian  assistance in Sri Lanka: 20  years on | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-f00ec348)
-- 2026-11-27 | `dailyftlk-509180eb` | Temporary ETA waiver needs proof travellers can show at check-in | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-509180eb)
-- 2026-11-27 | `dailyftlk-99406dbb` | Indian High Commissioner backs SLUDI,  startups and AI at Digital Sri Lanka Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-99406dbb)
-- 2026-11-27 | `dailyftlk-5e21a040` | Search for Sri Lanka’s ‘Coolest Projects’ is on, with ComBank empowering young tech talent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailyftlk-5e21a040)
-- 2026-11-27 | `dailymirrorlk-f0b1000e` | Samay Raina hits world record, becomes first YouTube creator to cross 1Mn channel members | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-f0b1000e)
-- 2026-11-27 | `virakesarilk-fa6b7292` | மட்டக்களப்பு, மாவடிமுன்மாரி துயிலுமில்லத்தில் உணர்வுபூர்வமாக நடைபெற்ற மாவீரர் நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-virakesarilk-fa6b7292)
-- 2026-11-27 | `virakesarilk-223a6dfc` | மன்னார் ஆட்காட்டிவெளி மாவீரர் துயிலும் இல்லத்தில் உணர்வுபூர்வமாக நடைபெற்ற மாவீரர் நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-virakesarilk-223a6dfc)
-- 2026-11-27 | `dailymirrorlk-5eca1c5b` | Sri Lanka appoints first female Honorary Consul in Türkiye | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-27-dailymirrorlk-5eca1c5b)
+- 2026-11-28 | `dailymirrorlk-4f7b4813` | Flying cars: Industry extension  - from road to sky | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-4f7b4813)
+- 2026-11-28 | `dailymirrorlk-10529ee5` | S&P upgrades Sri Lanka to ‘B-’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-10529ee5)
+- 2026-11-28 | `dailymirrorlk-2a8e7e25` | Planters seek 46-year lease extension to unlock tea replanting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-2a8e7e25)
+- 2026-11-28 | `dailymirrorlk-5700b7e2` | SheTrades Sri Lanka Hub empowers women entrepreneurs through int’l business exposure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-5700b7e2)
+- 2026-11-28 | `dailymirrorlk-57fa6efd` | Pushes for 50% local tea in duty-free re-export blends | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-57fa6efd)
+- 2026-11-28 | `dailymirrorlk-a6d71825` | Sri Lanka completes national GI registration for Ceylon Cinnamon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-a6d71825)
+- 2026-11-28 | `dailymirrorlk-c68de059` | Green groups flag US$ 15.3bn in ADB’s incineration-linked financing, Sri Lanka among recipients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-c68de059)
+- 2026-11-28 | `dailymirrorlk-8c6783dd` | Feasibility studies underway for two new expressways: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-8c6783dd)
+- 2026-11-28 | `dailymirrorlk-538a0a18` | Secondary market trading remains muted amid stable yields | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-538a0a18)
+- 2026-11-28 | `dailymirrorlk-421ed8bb` | Week ends in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-421ed8bb)
+- 2026-11-28 | `dailymirrorlk-efe44e15` | 99x brings global technology leaders together at ‘Connexions Oslo 2026’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-efe44e15)
+- 2026-11-28 | `dailymirrorlk-bf824fc4` | Sri Lanka National Oceans and Fisheries Data Centre opens with Korean govt. support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-bf824fc4)
+- 2026-11-28 | `dailymirrorlk-f03efa21` | KAL CEO Athukorala meets King Charles III | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-f03efa21)
+- 2026-11-28 | `dailymirrorlk-befdb0fb` | CINEC Campus holds Convocation 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-befdb0fb)
+- 2026-11-28 | `dailymirrorlk-9a48535f` | SL takes centre stage as global hub with ICMA admitting over 200 graduates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-9a48535f)
+- 2026-11-28 | `dailymirrorlk-7595ac53` | Uga Resorts earns three top rankings at 2026 Condé Nast Traveller Readers’ Choice Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-7595ac53)
+- 2026-11-28 | `dailymirrorlk-485f45bb` | Colombo Coffee Company reopens at One Galle Face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-485f45bb)
+- 2026-11-28 | `dailymirrorlk-377becff` | Keells brings global taste closer to home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-377becff)
+- 2026-11-28 | `dailymirrorlk-3d194e0f` | Two Sri Lankans killed in road accident in South Korea; repatriation efforts underway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-3d194e0f)
+- 2026-11-28 | `dailymirrorlk-22c6f2c5` | Fabindia expands footprint in Sri Lanka opening second store at One Galle Face Mall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-22c6f2c5)
 
 ---
 

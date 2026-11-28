@@ -1,0 +1,25 @@
+99x brings global technology leaders together at ‘Connexions Oslo 2026’
+
+Panel discussion with Hasith Yaggahavita, Thomas Rødseth and Hakøn Grimstad
+
+As organisations worldwide accelerate investments in artificial intelligence (AI), the challenge is increasingly shifting from adopting the technology to understanding how it can deliver measurable business value.
+
+This was the focus of ‘Connexions Oslo 2026’, hosted by global product engineering company 99x in Oslo, Norway, bringing together technology leaders, industry experts, customers and partners to explore what it takes to turn AI’s potential into practical business outcomes.
+
+Held under the theme “AI Unfiltered: What Matters, What Works and What’s Next,” the event featured 14 speakers who examined the opportunities, challenges and practical realities of integrating AI into software development and business operations.
+
+Moving beyond predictions about AI’s capabilities, Connexions explored the questions businesses face as they progress from experimentation to implementation. These include identifying use cases that create genuine value, integrating AI into existing workflows, establishing appropriate governance and measuring whether investments deliver meaningful returns.
+
+A key contribution from 99x Product Engineering came through the session “Rebuilding the Car at High Speeds: Transforming SDLC with AI,” presented by Sachith Perera, Chief Technology Officer, and Kalana Wijesekara, Chief Developer Experience Officer. The session examined lessons learned and tools developed as 99x transforms the Software Development Life Cycle (SDLC) with AI, highlighting the need to rethink established engineering practices rather than simply introduce new tools into existing processes.
+
+Sachith Perera said, “AI is changing the way software can be built, but the real opportunity lies in rethinking the entire development lifecycle rather than simply adding AI tools to existing processes. Organisations need to understand where AI can create meaningful improvements, how human expertise and judgement remain essential, and how greater development speed can translate into better products and business outcomes”.
+
+The business implications of AI adoption were further explored in “Governing AI when the Numbers Lie,” presented by Merete Løvset Nylund, Chief Technology Officer at Visma Amili and a 99x customer. She highlighted, “AI creates significant opportunities, but organisations need to look beyond the promise of productivity gains and understand the full picture. Measuring the value of AI means looking at the costs, the outcomes and the wider implications for the business. It is important to challenge our assumptions, understand what the numbers are telling us and make decisions based on evidence than expectations”.
+
+The event also featured speakers from leading global technology companies, including Hakøn Grimstad, Product and Technology Director at Compello, Karen Dolva, Co-founder of No Isolation, Thomas Rødseth, Chief Product and Technology Officer at SuperOffice, Ragnar Harper, Head of Technology at AWS Norway, Jarle Mørk, Chief Executive Officer at Confirma Software, Espen Slyngstad, VP Digitalization at NRC Group, Thomas Skjørten, Chief Technology Officer at Ferdia, Henrik Vikøren, Chief Technology Officer at Gture, Egil Fujikawa Nes, Chief Technology Officer at 99x Solutions and Greger Teigre Wedel, Founder and Lead Engineer at ActingWeb.
+
+Dag Honningsvåg, Executive Chairman at 99x Group commented, “Connexions Oslo 2026 brought together a room full of people who are actively shaping the future of technology, from engineering leaders and AI practitioners to customers and industry innovators. He reflected that human judgmenthas amore important role today in how software and systems are built than ever before. While AI can be used to increase speed, handle volume andwhat is repetitive, humansmust own what is built end-to-end and deliver outcomes”.
+
+The event also highlighted the growing relevance of Sri Lankan engineering expertise in an AI-driven global technology landscape. As international businesses rethink how digital products are developed and delivered, capabilities in AI integration, engineering transformation and customer-focused problem-solving are becoming increasingly important.
+
+For Sri Lanka, this presents an opportunity to strengthen its position in the global digital economy by contributing to the development of innovative, AI-driven products and solutions for international markets.
