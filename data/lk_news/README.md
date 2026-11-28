@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_19:51:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_21:51:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,272** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-186ce023",
-    "num": "dailymirrorlk-186ce023",
+    "doc_id": "2026-11-28-dailymirrorlk-b8efa5f0",
+    "num": "dailymirrorlk-b8efa5f0",
     "date_str": "2026-11-28",
-    "description": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-    "url_metadata": "https://www.dailymirror.lk/international/Afghanistan-explosion-kills-10-students-and-injures-more-than-100-official-says/107-355992",
+    "description": "Navy, Coast Guard seize dinghy suspected of carrying narcotics off Mirissa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-Coast-Guard-seize-dinghy-suspected-of-carrying-narcotics-off-Mirissa/108-355994",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795874514.0
+    "time_ut": 1795877200.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-28 | `dailymirrorlk-b8efa5f0` | Navy, Coast Guard seize dinghy suspected of carrying narcotics off Mirissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-b8efa5f0)
+- 2026-11-28 | `dailymirrorlk-741228db` | Colombo landmarks turn orange against GBV | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-741228db)
 - 2026-11-28 | `dailymirrorlk-186ce023` | Afghanistan explosion kills 10 students and injures more than 100, official says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-186ce023)
 - 2026-11-28 | `dailymirrorlk-e313fd38` | Committee appointed to resolve issues concerning Catholic schools | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-e313fd38)
 - 2026-11-28 | `dailymirrorlk-4053e465` | Defence Ministry expenditure head approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-4053e465)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-11-28 | `virakesarilk-90d64f16` | தென்கொரியாவில் லொறி விபத்தில் உயிரிழந்த இரு இலங்கையர்களின் விபரங்கள் வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-90d64f16)
 - 2026-11-28 | `virakesarilk-163674c3` | 2027 மார்ச்சுக்குப் பின்னர் ஆண்டுதோறும் 3 பில்லியன் டொலர் கடனைச் செலுத்த வேண்டிய நிலை – சஜித் பிரேமதாச எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-163674c3)
 - 2026-11-28 | `virakesarilk-c5a7b9da` | மூளைச்சாவடைந்த  இளைஞனின் இதயம் 14 வயதுச் சிறுவனுக்கு வெற்றிகரமாகப் பொருத்தப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-c5a7b9da)
-- 2026-11-28 | `virakesarilk-3246df71` | வார இறுதி நாட்களில் உள்நாட்டு இறைவரித் திணைக்கள அலுவலகங்கள் திறந்திருக்கும் என்ற செய்தி பொய்யானது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-3246df71)
-- 2026-11-28 | `virakesarilk-eb8b93c1` | மூளைச்சாவடைந்த 19 வயது இளைஞனின் உறுப்பு தானத்தால் பலருக்கு மறுவாழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-eb8b93c1)
 
 ---
 
