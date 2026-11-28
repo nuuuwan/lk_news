@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-28 09:51:52",
-  "n_docs": 137203,
+  "time_updated": "2026-11-28 11:56:34",
+  "n_docs": 137206,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137203,
+  "n_docs_with_text": 137206,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-28",
-  "dataset_size": 2119119350,
+  "dataset_size": 2119125285,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,19 +32,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-8ebee621",
-    "num": "dailymirrorlk-8ebee621",
+    "doc_id": "2026-11-28-dailymirrorlk-10257a03",
+    "num": "dailymirrorlk-10257a03",
     "date_str": "2026-11-28",
-    "description": "Heavy showers of over 100mm expected in several provinces",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-of-over-100mm-expected-in-several-provinces/108-355924",
+    "description": "Murder suspect hospitalised after colliding with wild elephant while fleeing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Murder-suspect-hospitalised-after-colliding-with-wild-elephant-while-fleeing/108-355930",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795835090.0
+    "time_ut": 1795846669.0
   }
 }
