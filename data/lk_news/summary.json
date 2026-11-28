@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-11-28 15:50:24",
-  "n_docs": 137258,
+  "time_updated": "2026-11-28 17:54:00",
+  "n_docs": 137265,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 137258,
+  "n_docs_with_text": 137265,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-11-28",
-  "dataset_size": 2119569373,
+  "dataset_size": 2119903289,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -33,18 +33,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-d207c6ec",
-    "num": "dailymirrorlk-d207c6ec",
+    "doc_id": "2026-11-28-dailymirrorlk-c2a0cd63",
+    "num": "dailymirrorlk-c2a0cd63",
     "date_str": "2026-11-28",
-    "description": "Sri Lanka\u2019s expressway revenue exceeds Rs. 27.5 billion in 22 months",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-expressway-revenue-exceeds-Rs-27-5-billion-in-22-months/108-355979",
+    "description": "Prabhakaran speech excerpts at Maaveerar Day event raise concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prabhakaran-speech-excerpts-at-Maaveerar-Day-event-raise-concerns/108-355986",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795858570.0
+    "time_ut": 1795867602.0
   }
 }

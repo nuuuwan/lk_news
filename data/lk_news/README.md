@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_15:50:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--28_17:54:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**137,258** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
+- [**137,265** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**2.1 GB**), from **2021-09-12** to **2026-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://english.newsfirst.lk](https://english.newsfirst.lk) & [https://island.lk](https://island.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-11-28-dailymirrorlk-d207c6ec",
-    "num": "dailymirrorlk-d207c6ec",
+    "doc_id": "2026-11-28-dailymirrorlk-c2a0cd63",
+    "num": "dailymirrorlk-c2a0cd63",
     "date_str": "2026-11-28",
-    "description": "Sri Lanka\u2019s expressway revenue exceeds Rs. 27.5 billion in 22 months",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-expressway-revenue-exceeds-Rs-27-5-billion-in-22-months/108-355979",
+    "description": "Prabhakaran speech excerpts at Maaveerar Day event raise concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prabhakaran-speech-excerpts-at-Maaveerar-Day-event-raise-concerns/108-355986",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1795858570.0
+    "time_ut": 1795867602.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-28 | `dailymirrorlk-c2a0cd63` | Prabhakaran speech excerpts at Maaveerar Day event raise concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-c2a0cd63)
+- 2026-11-28 | `dailymirrorlk-5d6626c8` | O/L tuition classes, guess papers banned from Dec. 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-5d6626c8)
+- 2026-11-28 | `dailymirrorlk-6d735cd9` | Tri forces to be restructured by 2031: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-6d735cd9)
+- 2026-11-28 | `dailymirrorlk-d231598d` | Port access expressway to allow only permitted vehicles from December 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-d231598d)
+- 2026-11-28 | `dailymirrorlk-44415a07` | Over 40 organised crime suspects wanted under Red Notices identified overseas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-44415a07)
+- 2026-11-28 | `dailymirrorlk-94f94a1a` | Colombo’s highest landmarks turned orange to promote the elimination of GBV | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-94f94a1a)
+- 2026-11-28 | `dailymirrorlk-a255e00a` | 14-year-old undergoes successful heart transplant at Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-a255e00a)
 - 2026-11-28 | `dailymirrorlk-d207c6ec` | Sri Lanka’s expressway revenue exceeds Rs. 27.5 billion in 22 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-d207c6ec)
 - 2026-11-28 | `virakesarilk-3261683d` | நிக்கவெரட்டிய மற்றும் தெல்தெனியவில் மின்சாரம் தாக்கி இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-3261683d)
 - 2026-11-28 | `dailymirrorlk-7a10d633` | Fuel distributors back November 30 trade union action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-7a10d633)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-11-28 | `dailymirrorlk-4f7b4813` | Flying cars: Industry extension  - from road to sky | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-4f7b4813)
 - 2026-11-28 | `virakesarilk-cfd88732` | அரசாங்கத்திடம் ஊழல் ஒழிப்பைத் தவிர வேறு கொள்கை இல்லை  -  சந்திரிகா கடும் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-cfd88732)
 - 2026-11-28 | `virakesarilk-82e32cd8` | சி மட்டத்திலிருந்து பி  நிலைக்கு உயர்ந்தது இலங்கையின் கடன் தரப்படுத்தல்  –  பிரதி அமைச்சர் அனில் ஜயந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-virakesarilk-82e32cd8)
-- 2026-11-28 | `dailymirrorlk-10529ee5` | S&P upgrades Sri Lanka to ‘B-’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-10529ee5)
-- 2026-11-28 | `dailymirrorlk-2a8e7e25` | Planters seek 46-year lease extension to unlock tea replanting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-2a8e7e25)
-- 2026-11-28 | `dailymirrorlk-5700b7e2` | SheTrades Sri Lanka Hub empowers women entrepreneurs through int’l business exposure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-5700b7e2)
-- 2026-11-28 | `dailymirrorlk-57fa6efd` | Pushes for 50% local tea in duty-free re-export blends | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-57fa6efd)
-- 2026-11-28 | `dailymirrorlk-a6d71825` | Sri Lanka completes national GI registration for Ceylon Cinnamon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-a6d71825)
-- 2026-11-28 | `dailymirrorlk-c68de059` | Green groups flag US$ 15.3bn in ADB’s incineration-linked financing, Sri Lanka among recipients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-c68de059)
-- 2026-11-28 | `dailymirrorlk-8c6783dd` | Feasibility studies underway for two new expressways: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-11-28-dailymirrorlk-8c6783dd)
 
 ---
 

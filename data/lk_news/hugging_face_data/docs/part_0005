@@ -124450,5 +124450,82 @@ _type": "lk_news",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1795858570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-a255e00a",
+    "num": "dailymirrorlk-a255e00a",
+    "date_str": "2026-11-28",
+    "description": "14-year-old undergoes successful heart transplant at Colombo National Hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/14-year-old-undergoes-successful-heart-transplant-at-Colombo-National-Hospital/108-355980",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795860976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-94f94a1a",
+    "num": "dailymirrorlk-94f94a1a",
+    "date_str": "2026-11-28",
+    "description": "Colombo\u2019s highest landmarks turned orange to promote the elimination of GBV",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombos-highest-landmarks-turned-orange-to-promote-the-elimination-of-GBV/108-355981",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795863900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-44415a07",
+    "num": "dailymirrorlk-44415a07",
+    "date_str": "2026-11-28",
+    "description": "Over 40 organised crime suspects wanted under Red Notices identified overseas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-40-organised-crime-suspects-wanted-under-Red-Notices-identified-overseas/108-355982",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795864495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-d231598d",
+    "num": "dailymirrorlk-d231598d",
+    "date_str": "2026-11-28",
+    "description": "Port access expressway to allow only permitted vehicles from December 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-access-expressway-to-allow-only-permitted-vehicles-from-December-1/108-355983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795864785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-6d735cd9",
+    "num": "dailymirrorlk-6d735cd9",
+    "date_str": "2026-11-28",
+    "description": "Tri forces to be restructured by 2031: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tri-forces-to-be-restructured-by-2031-Minister/108-355984",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795865745.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-5d6626c8",
+    "num": "dailymirrorlk-5d6626c8",
+    "date_str": "2026-11-28",
+    "description": "O/L tuition classes, guess papers banned from Dec. 2",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/OL-tuition-classes-guess-papers-banned-from-Dec-2/108-355985",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795866893.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-11-28-dailymirrorlk-c2a0cd63",
+    "num": "dailymirrorlk-c2a0cd63",
+    "date_str": "2026-11-28",
+    "description": "Prabhakaran speech excerpts at Maaveerar Day event raise concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prabhakaran-speech-excerpts-at-Maaveerar-Day-event-raise-concerns/108-355986",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1795867602.0
   }
 ]
